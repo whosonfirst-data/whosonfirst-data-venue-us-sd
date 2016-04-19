@@ -1,0 +1,66 @@
+{
+  "id": 387257813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695305,43.583877,-96.695305,43.583877",
+    "geom:latitude":43.583877,
+    "geom:longitude":-96.695305,
+    "iso:country":"US",
+    "sg:address":"2208 E 39th St N",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 3997",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kt9xf2pLBO090ADxRYCRx_43.583877_-96.695305@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acd8cff0a19154553c12298e603e29b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":387257813
+        }
+    ],
+    "wof:id":387257813,
+    "wof:lastmodified":1449057217,
+    "wof:name":"Pro-Cleanup",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-96.695305,43.583877,-96.695305,43.583877],
+  "geometry": {"coordinates":[-96.695305,43.583877],"type":"Point"}
+}

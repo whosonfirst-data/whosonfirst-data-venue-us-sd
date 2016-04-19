@@ -1,0 +1,67 @@
+{
+  "id": 387669677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.343793,44.360591,-100.343793,44.360591",
+    "geom:latitude":44.360591,
+    "geom:longitude":-100.343793,
+    "iso:country":"US",
+    "sg:address":"772 E Dakota Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 5901",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mTdxs9k1OBuFlHdE1Otvz_44.360591_-100.343793@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d81719d18cda564d73ddfc764beb041b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387669677
+        }
+    ],
+    "wof:id":387669677,
+    "wof:lastmodified":1449056544,
+    "wof:name":"Medical Assoc Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-100.343793,44.360591,-100.343793,44.360591],
+  "geometry": {"coordinates":[-100.343793,44.360591],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 387205795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.380192,43.725458,-97.380192,43.725458",
+    "geom:latitude":43.725458,
+    "geom:longitude":-97.380192,
+    "iso:country":"US",
+    "sg:address":"520 E Norton Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 425 2002",
+    "sg:postcode":"57058",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "related",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721859,
+        102086859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U74siDFsCvsCvFIoJ7Thd_43.725458_-97.380192@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21a51e17c7fa7e5750c2b34cb7e73b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086859,
+            "locality_id":101721859,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387205795
+        }
+    ],
+    "wof:id":387205795,
+    "wof:lastmodified":1449058406,
+    "wof:name":"Watkins Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "related",
+        "accessory"
+    ]
+},
+  "bbox": [-97.380192,43.725458,-97.380192,43.725458],
+  "geometry": {"coordinates":[-97.380192,43.725458],"type":"Point"}
+}

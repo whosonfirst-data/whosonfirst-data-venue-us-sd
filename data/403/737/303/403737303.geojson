@@ -1,0 +1,68 @@
+{
+  "id": 403737303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.220944,44.102194,-103.220944,44.102194",
+    "geom:latitude":44.102194,
+    "geom:longitude":-103.220944,
+    "iso:country":"US",
+    "sg:address":"312 Wright St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 355 0185",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gcJNjkPoo6vkLKLb9GmOM_44.102194_-103.220944@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0197642bc50e9b6705beee79cd66966d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403737303
+        }
+    ],
+    "wof:id":403737303,
+    "wof:lastmodified":1449054945,
+    "wof:name":"M G Machining Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [-103.220944,44.102194,-103.220944,44.102194],
+  "geometry": {"coordinates":[-103.220944,44.102194],"type":"Point"}
+}

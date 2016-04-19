@@ -1,0 +1,68 @@
+{
+  "id": 387648327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.255332,44.072386,-103.255332,44.072386",
+    "geom:latitude":44.072386,
+    "geom:longitude":-103.255332,
+    "iso:country":"US",
+    "sg:address":"2123 Jackson Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 716 9210",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iEfTk9INoiy7myJAj80ai_44.072386_-103.255332@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dafb9de20129c082c09c0e3b611554c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387648327
+        }
+    ],
+    "wof:id":387648327,
+    "wof:lastmodified":1449057135,
+    "wof:name":"Capuccino Charlie's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-103.255332,44.072386,-103.255332,44.072386],
+  "geometry": {"coordinates":[-103.255332,44.072386],"type":"Point"}
+}

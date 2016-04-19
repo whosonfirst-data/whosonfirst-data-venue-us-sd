@@ -1,0 +1,68 @@
+{
+  "id": 403779857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.260268,44.101151,-103.260268,44.101151",
+    "geom:latitude":44.101151,
+    "geom:longitude":-103.260268,
+    "iso:country":"US",
+    "sg:address":"2451 S Plaza Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 388 6184",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WdDn4hV6lQN1NYKhxociW_44.101151_-103.260268@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"960f322e7d0a154d5d3f905aa23751f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403779857
+        }
+    ],
+    "wof:id":403779857,
+    "wof:lastmodified":1449054831,
+    "wof:name":"Happy Tails Dog Training",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [-103.260268,44.101151,-103.260268,44.101151],
+  "geometry": {"coordinates":[-103.260268,44.101151],"type":"Point"}
+}

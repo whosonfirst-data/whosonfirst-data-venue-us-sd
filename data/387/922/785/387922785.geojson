@@ -1,0 +1,76 @@
+{
+  "id": 387922785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.713814,43.5349,-96.713814,43.5349",
+    "geom:latitude":43.5349,
+    "geom:longitude":-96.713814,
+    "iso:country":"US",
+    "sg:address":"910 E 20th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 6730",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "center"
+    ],
+    "sg:website":"www.surgicalmanprof.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5it50ZzQJThCELtzVJbncg_43.534900_-96.713814@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a64168e32d2cb2c2df30f4e39d839a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387922785
+        }
+    ],
+    "wof:id":387922785,
+    "wof:lastmodified":1449056452,
+    "wof:name":"Sioux Falls Surgical Center",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [-96.713814,43.5349,-96.713814,43.5349],
+  "geometry": {"coordinates":[-96.713814,43.5349],"type":"Point"}
+}

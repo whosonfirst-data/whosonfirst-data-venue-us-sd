@@ -1,0 +1,71 @@
+{
+  "id": 371158635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.35618,44.364302,-100.35618,44.364302",
+    "geom:latitude":44.364302,
+    "geom:longitude":-100.35618,
+    "iso:country":"US",
+    "sg:address":"118 E Missouri Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 773 5740",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "driver",
+        "exam",
+        "license"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A1l0A8wSmP5hWv4jPqNbZ_44.364302_-100.356180@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9947d47f757ef9747796ad0496339088",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371158635
+        }
+    ],
+    "wof:id":371158635,
+    "wof:lastmodified":1449049757,
+    "wof:name":"Drivers License Exam Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "driver",
+        "exam",
+        "license"
+    ]
+},
+  "bbox": [-100.35618,44.364302,-100.35618,44.364302],
+  "geometry": {"coordinates":[-100.35618,44.364302],"type":"Point"}
+}

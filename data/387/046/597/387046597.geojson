@@ -1,0 +1,76 @@
+{
+  "id": 387046597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.141226,44.10302,-103.141226,44.10302",
+    "geom:latitude":44.10302,
+    "geom:longitude":-103.141226,
+    "iso:country":"US",
+    "sg:address":"4700 N Interstate 90 Svc Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 0700",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jPzgHjuwgzz5bZHOKOB6v_44.103020_-103.141226@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bab544a3400d61d56dcaced8ae9ed7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387046597
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387046597
+        }
+    ],
+    "wof:id":387046597,
+    "wof:lastmodified":1449058223,
+    "wof:name":"Clemmons Truck & Trailer Rpr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-103.141226,44.10302,-103.141226,44.10302],
+  "geometry": {"coordinates":[-103.141226,44.10302],"type":"Point"}
+}

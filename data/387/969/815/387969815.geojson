@@ -1,0 +1,73 @@
+{
+  "id": 387969815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.800394,44.30903,-96.800394,44.30903",
+    "geom:latitude":44.30903,
+    "geom:longitude":-96.800394,
+    "iso:country":"US",
+    "sg:address":"307 3rd Ave",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 692 2113",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department",
+        "executive"
+    ],
+    "sg:website":"www.cityofbrookings.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GSi9PV0LSCKCpAQc3YcCS_44.309030_-96.800394@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce3e7d50be29ec5f3c7abc5a09ee15b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387969815
+        }
+    ],
+    "wof:id":387969815,
+    "wof:lastmodified":1449057015,
+    "wof:name":"Brookings Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "executive"
+    ]
+},
+  "bbox": [-96.800394,44.30903,-96.800394,44.30903],
+  "geometry": {"coordinates":[-96.800394,44.30903],"type":"Point"}
+}

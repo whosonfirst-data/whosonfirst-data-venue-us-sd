@@ -1,0 +1,71 @@
+{
+  "id": 387559559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711286,43.589231,-96.711286,43.589231",
+    "geom:latitude":43.589231,
+    "geom:longitude":-96.711286,
+    "iso:country":"US",
+    "sg:address":"3800 N Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2287",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msXCcKenBlOitOY8rqwZx_43.589231_-96.711286@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c90c60385082acbbe6e656cdbc6f2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387559559
+        }
+    ],
+    "wof:id":387559559,
+    "wof:lastmodified":1449059080,
+    "wof:name":"Bott Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [-96.711286,43.589231,-96.711286,43.589231],
+  "geometry": {"coordinates":[-96.711286,43.589231],"type":"Point"}
+}

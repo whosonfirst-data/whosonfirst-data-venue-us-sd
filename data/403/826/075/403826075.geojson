@@ -1,0 +1,70 @@
+{
+  "id": 403826075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.791425,43.554717,-96.791425,43.554717",
+    "geom:latitude":43.554717,
+    "geom:longitude":-96.791425,
+    "iso:country":"US",
+    "sg:address":"504 N Swan Pl",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 274 3809",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HC2TnD8qSLT8QsCtR8GRN_43.554717_-96.791425@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61a0182087030a5c80b91540206eb6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":403826075
+        }
+    ],
+    "wof:id":403826075,
+    "wof:lastmodified":1449055578,
+    "wof:name":"Schomacker Trucking",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.791425,43.554717,-96.791425,43.554717],
+  "geometry": {"coordinates":[-96.791425,43.554717],"type":"Point"}
+}

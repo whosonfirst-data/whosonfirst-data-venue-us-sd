@@ -1,0 +1,66 @@
+{
+  "id": 387821417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.72912,44.375147,-103.72912,44.375147",
+    "geom:latitude":44.375147,
+    "geom:longitude":-103.72912,
+    "iso:country":"US",
+    "sg:address":"100 Sherman St",
+    "sg:city":"Deadwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 578 2623",
+    "sg:postcode":"57732",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofdeadwood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722047,
+        102086813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cm89EcowNjcDkoWSgdW0E_44.375147_-103.729120@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d648803091132cd1ec10c5cd9401fc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":101722047,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387821417
+        }
+    ],
+    "wof:id":387821417,
+    "wof:lastmodified":1449058183,
+    "wof:name":"Deadwood Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.72912,44.375147,-103.72912,44.375147],
+  "geometry": {"coordinates":[-103.72912,44.375147],"type":"Point"}
+}

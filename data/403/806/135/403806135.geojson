@@ -1,0 +1,65 @@
+{
+  "id": 403806135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811157,43.661995,-96.811157,43.661995",
+    "geom:latitude":43.661995,
+    "geom:longitude":-96.811157,
+    "iso:country":"US",
+    "sg:address":"300 N West Ave",
+    "sg:city":"Crooks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 543 5650",
+    "sg:postcode":"57020",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WAlzT6Fp7EIBkV4LSNLGw_43.661995_-96.811157@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a01c0147ae4a5ae3d4cd8732dbf1a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":403806135
+        }
+    ],
+    "wof:id":403806135,
+    "wof:lastmodified":1449054626,
+    "wof:name":"Crooks Food Mart",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-96.811157,43.661995,-96.811157,43.661995],
+  "geometry": {"coordinates":[-96.811157,43.661995],"type":"Point"}
+}

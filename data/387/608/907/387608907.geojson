@@ -1,0 +1,68 @@
+{
+  "id": 387608907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638488,43.55827,-96.638488,43.55827",
+    "geom:latitude":43.55827,
+    "geom:longitude":-96.638488,
+    "iso:country":"US",
+    "sg:address":"7001 E Madison St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 2171",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78P28lVQrpZZJ9Y6KiWYwx_43.558270_-96.638488@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de7e0942f2db1e5a3d90f40ebc956305",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387608907
+        }
+    ],
+    "wof:id":387608907,
+    "wof:lastmodified":1449057737,
+    "wof:name":"David Rodman",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-96.638488,43.55827,-96.638488,43.55827],
+  "geometry": {"coordinates":[-96.638488,43.55827],"type":"Point"}
+}

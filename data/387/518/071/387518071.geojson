@@ -1,0 +1,66 @@
+{
+  "id": 387518071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191162,44.111055,-103.191162,44.111055",
+    "geom:latitude":44.111055,
+    "geom:longitude":-103.191162,
+    "iso:country":"US",
+    "sg:address":"2203 Seger Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 388 3469",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JN7sBn2Vw9YddxwXsZ7Yx_44.111055_-103.191162@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef011184f589a8bdd38d63dbba08e06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387518071
+        }
+    ],
+    "wof:id":387518071,
+    "wof:lastmodified":1449058256,
+    "wof:name":"Aces High Towing",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-103.191162,44.111055,-103.191162,44.111055],
+  "geometry": {"coordinates":[-103.191162,44.111055],"type":"Point"}
+}

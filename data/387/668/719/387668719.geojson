@@ -1,0 +1,65 @@
+{
+  "id": 387668719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.032109,45.506345,-100.032109,45.506345",
+    "geom:latitude":45.506345,
+    "geom:longitude":-100.032109,
+    "iso:country":"US",
+    "sg:address":"3409 Main St",
+    "sg:city":"Selby",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 649 7800",
+    "sg:postcode":"57472",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721625,
+        102086011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E3iYCf42SlMsV73j947Nm_45.506345_-100.032109@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a977daeb3b341ffe53daeb29c66dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086011,
+            "locality_id":101721625,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387668719
+        }
+    ],
+    "wof:id":387668719,
+    "wof:lastmodified":1449058762,
+    "wof:name":"Selby Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-100.032109,45.506345,-100.032109,45.506345],
+  "geometry": {"coordinates":[-100.032109,45.506345],"type":"Point"}
+}

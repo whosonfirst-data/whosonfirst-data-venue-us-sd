@@ -1,0 +1,66 @@
+{
+  "id": 386983707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.662838,43.54431,-96.662838,43.54431",
+    "geom:latitude":43.54431,
+    "geom:longitude":-96.662838,
+    "iso:country":"US",
+    "sg:address":"4600 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 0559",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lh4P16teR40JLweLIPp3U_43.544310_-96.662838@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"573842161c2956c41d898bed4dea37b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":386983707
+        }
+    ],
+    "wof:id":386983707,
+    "wof:lastmodified":1449028959,
+    "wof:name":"Sioux Valley Veterinary Clinic",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.662838,43.54431,-96.662838,43.54431],
+  "geometry": {"coordinates":[-96.662838,43.54431],"type":"Point"}
+}

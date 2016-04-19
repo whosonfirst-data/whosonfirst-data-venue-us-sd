@@ -1,0 +1,65 @@
+{
+  "id": 371185341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.621094,43.602959,-97.621094,43.602959",
+    "geom:latitude":43.602959,
+    "geom:longitude":-97.621094,
+    "iso:country":"US",
+    "sg:address":"130 N 4th St",
+    "sg:city":"Emery",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 000 1111",
+    "sg:postcode":"57332",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722029,
+        102086795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ibzln3Vgr2wfpVRTmtGgM_43.602959_-97.621094@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c23022eb2530fdf44016d410170c422",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086795,
+            "locality_id":101722029,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371185341
+        }
+    ],
+    "wof:id":371185341,
+    "wof:lastmodified":1449049215,
+    "wof:name":"Emery Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-97.621094,43.602959,-97.621094,43.602959],
+  "geometry": {"coordinates":[-97.621094,43.602959],"type":"Point"}
+}

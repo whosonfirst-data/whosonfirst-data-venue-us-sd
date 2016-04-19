@@ -1,0 +1,66 @@
+{
+  "id": 387099611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.561188,45.445398,-98.561188,45.445398",
+    "geom:latitude":45.445398,
+    "geom:longitude":-98.561188,
+    "iso:country":"US",
+    "sg:address":"38339 134th St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 8895",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UqnVhxvr99VDWLoxu2NsX_45.445398_-98.561188@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b158d604dda1d92b262c57c9ba32068",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387099611
+        }
+    ],
+    "wof:id":387099611,
+    "wof:lastmodified":1449058587,
+    "wof:name":"Tims Veterinary Svc",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-98.561188,45.445398,-98.561188,45.445398],
+  "geometry": {"coordinates":[-98.561188,45.445398],"type":"Point"}
+}

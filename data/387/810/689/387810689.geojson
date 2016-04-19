@@ -1,0 +1,77 @@
+{
+  "id": 387810689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.192539,44.081485,-103.192539,44.081485",
+    "geom:latitude":44.081485,
+    "geom:longitude":-103.192539,
+    "iso:country":"US",
+    "sg:address":"1002 E Omaha St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 4900",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.eddiestrucksales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0v1H3xzsHSsMyJO8YHS8_44.081485_-103.192539@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b304d787f3a9212ce579b7c417fda32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387810689
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387810689
+        }
+    ],
+    "wof:id":387810689,
+    "wof:lastmodified":1449057205,
+    "wof:name":"Eddie's Truck Sales & Leasing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-103.192539,44.081485,-103.192539,44.081485],
+  "geometry": {"coordinates":[-103.192539,44.081485],"type":"Point"}
+}

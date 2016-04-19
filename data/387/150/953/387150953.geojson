@@ -1,0 +1,67 @@
+{
+  "id": 387150953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.381188,44.361206,-100.381188,44.361206",
+    "geom:latitude":44.361206,
+    "geom:longitude":-100.381188,
+    "iso:country":"US",
+    "sg:address":"1326 Salebarn Rd",
+    "sg:city":"Fort Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 223 2040",
+    "sg:postcode":"57532",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721579,
+        102086115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZV9bOKYnAP7PLuAY4IRGz_44.361206_-100.381188@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"632282db446760aa3ce659a1c2fa1644",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086115,
+            "locality_id":101721579,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387150953
+        }
+    ],
+    "wof:id":387150953,
+    "wof:lastmodified":1449056168,
+    "wof:name":"M & M Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-100.381188,44.361206,-100.381188,44.361206],
+  "geometry": {"coordinates":[-100.381188,44.361206],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 387219705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.290759,44.377091,-100.290759,44.377091",
+    "geom:latitude":44.377091,
+    "geom:longitude":-100.290759,
+    "iso:country":"US",
+    "sg:address":"3601 Airport Rd",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 0941",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OIgwlVClaXlZFG0331fZl_44.377091_-100.290759@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ef1b092c65cefe39289ff5a93d8dfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387219705
+        }
+    ],
+    "wof:id":387219705,
+    "wof:lastmodified":1449059761,
+    "wof:name":"Auto Body Concepts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-100.290759,44.377091,-100.290759,44.377091],
+  "geometry": {"coordinates":[-100.290759,44.377091],"type":"Point"}
+}

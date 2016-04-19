@@ -1,0 +1,66 @@
+{
+  "id": 387593337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.292941,44.043419,-103.292941,44.043419",
+    "geom:latitude":44.043419,
+    "geom:longitude":-103.292941,
+    "iso:country":"US",
+    "sg:address":"4131 Park Ridge Pl",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 9777",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XQCC14bmOHzgWqZynVA1Z_44.043419_-103.292941@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8d76e0a4e7d8e6fdc4aa6e8a2f31cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387593337
+        }
+    ],
+    "wof:id":387593337,
+    "wof:lastmodified":1449058633,
+    "wof:name":"Womens Ob/Gyn",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-103.292941,44.043419,-103.292941,44.043419],
+  "geometry": {"coordinates":[-103.292941,44.043419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387833525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836149,43.446391,-96.836149,43.446391",
+    "geom:latitude":43.446391,
+    "geom:longitude":-96.836149,
+    "iso:country":"US",
+    "sg:address":"110 S Main Ave",
+    "sg:city":"Tea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 498 2470",
+    "sg:postcode":"57064",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722075,
+        102086863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N3pTp2b56mu3759yB1hdd_43.446391_-96.836149@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ab62bb55634d02559e891bd9cbf547b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722075,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387833525
+        }
+    ],
+    "wof:id":387833525,
+    "wof:lastmodified":1449056595,
+    "wof:name":"Tea Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [-96.836149,43.446391,-96.836149,43.446391],
+  "geometry": {"coordinates":[-96.836149,43.446391],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 403821035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795596,43.550991,-96.795596,43.550991",
+    "geom:latitude":43.550991,
+    "geom:longitude":-96.795596,
+    "iso:country":"US",
+    "sg:address":"5707 W Paradise Pl",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 3713",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WuQvw4R2oca4TRs0sh3tD_43.550991_-96.795596@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77b4a8ce78de4c5211988d4d66222534",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":403821035
+        }
+    ],
+    "wof:id":403821035,
+    "wof:lastmodified":1449055361,
+    "wof:name":"Kolhoff Cleaning Service",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-96.795596,43.550991,-96.795596,43.550991],
+  "geometry": {"coordinates":[-96.795596,43.550991],"type":"Point"}
+}

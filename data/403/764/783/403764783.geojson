@@ -1,0 +1,78 @@
+{
+  "id": 403764783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.303883,44.008493,-103.303883,44.008493",
+    "geom:latitude":44.008493,
+    "geom:longitude":-103.303883,
+    "iso:country":"US",
+    "sg:address":"7800 Albertta Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 1998",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086781,
+        85811191,
+        101721605,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FWIya2rNdzEfRj7QGEx0H_44.008493_-103.303883@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2db5935e93c8e1c9a594e4075e18a2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":-1,
+            "neighbourhood_id":85811191,
+            "region_id":85688693,
+            "venue_id":403764783
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403764783
+        }
+    ],
+    "wof:id":403764783,
+    "wof:lastmodified":1449055885,
+    "wof:name":"Tennis Center Of Black Hills",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [-103.303883,44.008493,-103.303883,44.008493],
+  "geometry": {"coordinates":[-103.303883,44.008493],"type":"Point"}
+}

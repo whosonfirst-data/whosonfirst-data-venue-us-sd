@@ -1,0 +1,68 @@
+{
+  "id": 370999415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.735432,43.569124,-96.735432,43.569124",
+    "geom:latitude":43.569124,
+    "geom:longitude":-96.735432,
+    "iso:country":"US",
+    "sg:address":"668 W Algonquin St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 367 7020",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22tcejnXRERGe6HIQo3uvP_43.569124_-96.735432@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bb471d984f386af55fcf5cfc463ce9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":370999415
+        }
+    ],
+    "wof:id":370999415,
+    "wof:lastmodified":1449032054,
+    "wof:name":"Sioux Falls Water Div Mntnc",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-96.735432,43.569124,-96.735432,43.569124],
+  "geometry": {"coordinates":[-96.735432,43.569124],"type":"Point"}
+}

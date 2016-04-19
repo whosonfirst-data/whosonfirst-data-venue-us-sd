@@ -1,0 +1,68 @@
+{
+  "id": 387256289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663705,43.543608,-96.663705,43.543608",
+    "geom:latitude":43.543608,
+    "geom:longitude":-96.663705,
+    "iso:country":"US",
+    "sg:address":"4913 E Linden Ln",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 0724",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MuLB4RYviRbyiwdht7JGA_43.543608_-96.663705@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e46db0c30f6a7cabc259b88a2b9e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387256289
+        }
+    ],
+    "wof:id":387256289,
+    "wof:lastmodified":1449059004,
+    "wof:name":"Dennis L Ackerman",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-96.663705,43.543608,-96.663705,43.543608],
+  "geometry": {"coordinates":[-96.663705,43.543608],"type":"Point"}
+}

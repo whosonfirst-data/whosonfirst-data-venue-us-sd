@@ -1,0 +1,67 @@
+{
+  "id": 371153127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.849499,43.387208,-98.849499,43.387208",
+    "geom:latitude":43.387208,
+    "geom:longitude":-98.849499,
+    "iso:country":"US",
+    "sg:address":"412 W 4th St",
+    "sg:city":"Platte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 337 3031",
+    "sg:postcode":"57369",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722117,
+        102086799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Khtqlnx1u5cZZkDM743rE_43.387208_-98.849499@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7bfed7409e7254680f06c6865b0de43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086799,
+            "locality_id":101722117,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371153127
+        }
+    ],
+    "wof:id":371153127,
+    "wof:lastmodified":1449049781,
+    "wof:name":"Iedema Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.849499,43.387208,-98.849499,43.387208],
+  "geometry": {"coordinates":[-98.849499,43.387208],"type":"Point"}
+}

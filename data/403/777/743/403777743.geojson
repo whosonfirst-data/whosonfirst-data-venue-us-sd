@@ -1,0 +1,67 @@
+{
+  "id": 403777743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.845959,43.384219,-98.845959,43.384219",
+    "geom:latitude":43.384219,
+    "geom:longitude":-98.845959,
+    "iso:country":"US",
+    "sg:address":"21 W 7th St",
+    "sg:city":"Platte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 337 3036",
+    "sg:postcode":"57369",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722117,
+        102086799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40BkK7E45UfQjG1tKrpc9A_43.384219_-98.845959@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61ba480e59132a7a181b90547b856d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086799,
+            "locality_id":101722117,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403777743
+        }
+    ],
+    "wof:id":403777743,
+    "wof:lastmodified":1449055345,
+    "wof:name":"Randy's Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.845959,43.384219,-98.845959,43.384219],
+  "geometry": {"coordinates":[-98.845959,43.384219],"type":"Point"}
+}

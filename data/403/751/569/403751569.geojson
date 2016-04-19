@@ -1,0 +1,68 @@
+{
+  "id": 403751569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.757027,43.543879,-96.757027,43.543879",
+    "geom:latitude":43.543879,
+    "geom:longitude":-96.757027,
+    "iso:country":"US",
+    "sg:address":"2315 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 221 2274",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gn0MSGcBFtDu4rGQ74glD_43.543879_-96.757027@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee252cc8ecb16abd6a099293803b2563",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":403751569
+        }
+    ],
+    "wof:id":403751569,
+    "wof:lastmodified":1449054703,
+    "wof:name":"Cash Depot",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [-96.757027,43.543879,-96.757027,43.543879],
+  "geometry": {"coordinates":[-96.757027,43.543879],"type":"Point"}
+}

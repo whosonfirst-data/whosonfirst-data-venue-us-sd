@@ -1,0 +1,70 @@
+{
+  "id": 371185111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.028408,43.716553,-98.028408,43.716553",
+    "geom:latitude":43.716553,
+    "geom:longitude":-98.028408,
+    "iso:country":"US",
+    "sg:address":"721 N Duff St",
+    "sg:city":"Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 996 4960",
+    "sg:postcode":"57301",
+    "sg:province":"SD",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721597,
+        102086045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7It0MiOU3lzQhRrunvAf1L_43.716553_-98.028408@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f5fbc13695173df01275050450a063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086045,
+            "locality_id":101721597,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371185111
+        }
+    ],
+    "wof:id":371185111,
+    "wof:lastmodified":1449049216,
+    "wof:name":"Rolling Thunder Motorcycles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [-98.028408,43.716553,-98.028408,43.716553],
+  "geometry": {"coordinates":[-98.028408,43.716553],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387291301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.575708,43.601987,-96.575708,43.601987",
+    "geom:latitude":43.601987,
+    "geom:longitude":-96.575708,
+    "iso:country":"US",
+    "sg:address":"924 E Redwood Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 7086",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fU6ut628njqDMTfuJ2p47_43.601987_-96.575708@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"315747ba94a3e288212cfe225a98af06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":387291301
+        }
+    ],
+    "wof:id":387291301,
+    "wof:lastmodified":1449057272,
+    "wof:name":"Staz-In Self Storage",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-96.575708,43.601987,-96.575708,43.601987],
+  "geometry": {"coordinates":[-96.575708,43.601987],"type":"Point"}
+}

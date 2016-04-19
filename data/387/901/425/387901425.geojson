@@ -1,0 +1,69 @@
+{
+  "id": 387901425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.33408,44.371221,-100.33408,44.371221",
+    "geom:latitude":44.371221,
+    "geom:longitude":-100.33408,
+    "iso:country":"US",
+    "sg:address":"706 N Monroe Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 945 2503",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xij3UCJ0kojSoZ4LjHcF3_44.371221_-100.334080@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ff60d87fa6b90f3c3a3559ab612be64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387901425
+        }
+    ],
+    "wof:id":387901425,
+    "wof:lastmodified":1449057702,
+    "wof:name":"Krull Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-100.33408,44.371221,-100.33408,44.371221],
+  "geometry": {"coordinates":[-100.33408,44.371221],"type":"Point"}
+}

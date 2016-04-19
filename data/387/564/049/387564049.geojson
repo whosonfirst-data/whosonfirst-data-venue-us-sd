@@ -1,0 +1,66 @@
+{
+  "id": 387564049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.120335,43.601649,-97.120335,43.601649",
+    "geom:latitude":43.601649,
+    "geom:longitude":-97.120335,
+    "iso:country":"US",
+    "sg:address":"45454 261st St",
+    "sg:city":"Humboldt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 363 3173",
+    "sg:postcode":"57035",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IE9kGNikHOPxvFTdMsuBS_43.601649_-97.120335@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2517cef98ee2c7a47a00b35e85f5258b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387564049
+        }
+    ],
+    "wof:id":387564049,
+    "wof:lastmodified":1449059692,
+    "wof:name":"Franks Repair",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-97.120335,43.601649,-97.120335,43.601649],
+  "geometry": {"coordinates":[-97.120335,43.601649],"type":"Point"}
+}

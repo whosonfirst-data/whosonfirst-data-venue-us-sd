@@ -1,0 +1,73 @@
+{
+  "id": 387709451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.752415,43.510492,-96.752415,43.510492",
+    "geom:latitude":43.510492,
+    "geom:longitude":-96.752415,
+    "iso:country":"US",
+    "sg:address":"2301 W 46th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 6696",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_599swR6DiCMU1SR9cMHALP_43.510492_-96.752415@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6c55a5961863b12d85fd7ac5cf5bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387709451
+        }
+    ],
+    "wof:id":387709451,
+    "wof:lastmodified":1449056856,
+    "wof:name":"Western Park Apartments",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.752415,43.510492,-96.752415,43.510492],
+  "geometry": {"coordinates":[-96.752415,43.510492],"type":"Point"}
+}

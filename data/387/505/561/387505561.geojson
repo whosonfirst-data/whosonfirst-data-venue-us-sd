@@ -1,0 +1,65 @@
+{
+  "id": 387505561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.432055,43.232282,-99.432055,43.232282",
+    "geom:latitude":43.232282,
+    "geom:longitude":-99.432055,
+    "iso:country":"US",
+    "sg:address":"120 W 6th St",
+    "sg:city":"Gregory",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 835 9638",
+    "sg:postcode":"57533",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721713,
+        102086069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DbeQAo5QEGoySVbFSIiLW_43.232282_-99.432055@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"340c03d52bf7e37bf59304f868083e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086069,
+            "locality_id":101721713,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387505561
+        }
+    ],
+    "wof:id":387505561,
+    "wof:lastmodified":1449059301,
+    "wof:name":"Gregory City Police",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-99.432055,43.232282,-99.432055,43.232282],
+  "geometry": {"coordinates":[-99.432055,43.232282],"type":"Point"}
+}

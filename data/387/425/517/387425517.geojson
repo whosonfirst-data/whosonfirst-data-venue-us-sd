@@ -1,0 +1,68 @@
+{
+  "id": 387425517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79082,43.533261,-96.79082,43.533261",
+    "geom:latitude":43.533261,
+    "geom:longitude":-96.79082,
+    "iso:country":"US",
+    "sg:address":"1402 S Marion Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 362 1400",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23xjIvN3fYF5htNonwZNBD_43.533261_-96.790820@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c6a1807c31030a558f1ae84c1713d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":387425517
+        }
+    ],
+    "wof:id":387425517,
+    "wof:lastmodified":1449057442,
+    "wof:name":"Victoria Estates",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.79082,43.533261,-96.79082,43.533261],
+  "geometry": {"coordinates":[-96.79082,43.533261],"type":"Point"}
+}

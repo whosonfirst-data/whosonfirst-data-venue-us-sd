@@ -1,0 +1,67 @@
+{
+  "id": 387383635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.747113,43.555188,-96.747113,43.555188",
+    "geom:latitude":43.555188,
+    "geom:longitude":-96.747113,
+    "iso:country":"US",
+    "sg:address":"909 N West Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 2711",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.buffalowildwings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wd2VgtDfjVLxKGrHrn6Tr_43.555188_-96.747113@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4273f7d365ded4d69a30a7641e26d181",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387383635
+        }
+    ],
+    "wof:id":387383635,
+    "wof:lastmodified":1449057717,
+    "wof:name":"Buffalo Wild Wings",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-96.747113,43.555188,-96.747113,43.555188],
+  "geometry": {"coordinates":[-96.747113,43.555188],"type":"Point"}
+}

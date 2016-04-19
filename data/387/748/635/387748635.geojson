@@ -1,0 +1,70 @@
+{
+  "id": 387748635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816514,43.518859,-96.816514,43.518859",
+    "geom:latitude":43.518859,
+    "geom:longitude":-96.816514,
+    "iso:country":"US",
+    "sg:address":"7200 W Harvard Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 362 6245",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xC96IexKPq2YiI6AKbySp_43.518859_-96.816514@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d9019a2db6e2567bffe596abd9ddea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387748635
+        }
+    ],
+    "wof:id":387748635,
+    "wof:lastmodified":1449058960,
+    "wof:name":"Maaco Auto Painting",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting"
+    ]
+},
+  "bbox": [-96.816514,43.518859,-96.816514,43.518859],
+  "geometry": {"coordinates":[-96.816514,43.518859],"type":"Point"}
+}

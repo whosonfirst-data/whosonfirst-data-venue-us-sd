@@ -1,0 +1,68 @@
+{
+  "id": 371150201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.712428,43.534076,-96.712428,43.534076",
+    "geom:latitude":43.534076,
+    "geom:longitude":-96.712428,
+    "iso:country":"US",
+    "sg:address":"1000 E 21st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 3674",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLUjeL4UbH1jEcNHeUUL0_43.534076_-96.712428@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"540477149055e59d4fb447c7bc9950c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371150201
+        }
+    ],
+    "wof:id":371150201,
+    "wof:lastmodified":1449049087,
+    "wof:name":"Medical X-Ray Center PC",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [-96.712428,43.534076,-96.712428,43.534076],
+  "geometry": {"coordinates":[-96.712428,43.534076],"type":"Point"}
+}

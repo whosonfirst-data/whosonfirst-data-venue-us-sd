@@ -1,0 +1,76 @@
+{
+  "id": 371011829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.204982,44.077115,-103.204982,44.077115",
+    "geom:latitude":44.077115,
+    "geom:longitude":-103.204982,
+    "iso:country":"US",
+    "sg:address":"612 Steele Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 0564",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kqH1WmbaEUvoFO8BnLYL2_44.077115_-103.204982@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3975856a0358d95e47052bb28a61891f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":371011829
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371011829
+        }
+    ],
+    "wof:id":371011829,
+    "wof:lastmodified":1449049912,
+    "wof:name":"Montana-Dakota Utilities",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [-103.204982,44.077115,-103.204982,44.077115],
+  "geometry": {"coordinates":[-103.204982,44.077115],"type":"Point"}
+}

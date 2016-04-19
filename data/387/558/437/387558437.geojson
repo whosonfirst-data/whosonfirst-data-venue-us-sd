@@ -1,0 +1,73 @@
+{
+  "id": 387558437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.183452,44.076537,-103.183452,44.076537",
+    "geom:latitude":44.076537,
+    "geom:longitude":-103.183452,
+    "iso:country":"US",
+    "sg:address":"1720 E Centre St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 399 9999",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxicab",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AB4CxqhjgEcVvrtIUkRd7_44.076537_-103.183452@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5919adad24cca224fff452beec1ccc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387558437
+        }
+    ],
+    "wof:id":387558437,
+    "wof:lastmodified":1449057135,
+    "wof:name":"Airport Express Shuttle Inc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab",
+        "airport"
+    ]
+},
+  "bbox": [-103.183452,44.076537,-103.183452,44.076537],
+  "geometry": {"coordinates":[-103.183452,44.076537],"type":"Point"}
+}

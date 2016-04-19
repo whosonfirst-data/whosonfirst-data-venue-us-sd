@@ -1,0 +1,79 @@
+{
+  "id": 387344713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.47924,45.458929,-98.47924,45.458929",
+    "geom:latitude":45.458929,
+    "geom:longitude":-98.47924,
+    "iso:country":"US",
+    "sg:address":"604 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 2001",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:brand_id":420573763,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tOtJJ6KBOifvQowBDm45Y_45.458929_-98.479240@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c5aed5996ce26f2947dc730d9b29f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387344713
+        }
+    ],
+    "wof:id":387344713,
+    "wof:lastmodified":1457207155,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -98.47924,
+    45.458929,
+    -98.47924,
+    45.458929
+],
+  "geometry": {"coordinates":[-98.47924,45.458929],"type":"Point"}
+}

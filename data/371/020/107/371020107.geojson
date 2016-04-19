@@ -1,0 +1,68 @@
+{
+  "id": 371020107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727525,43.518498,-96.727525,43.518498",
+    "geom:latitude":43.518498,
+    "geom:longitude":-96.727525,
+    "iso:country":"US",
+    "sg:address":"101 W 37th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 7000",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2THgTCtbvlEZGlzXPKPk0f_43.518498_-96.727525@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e985b8b5ce12fb78431bc6ab1f1b4f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371020107
+        }
+    ],
+    "wof:id":371020107,
+    "wof:lastmodified":1449049487,
+    "wof:name":"Allergy & Asthma Clinic",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.727525,43.518498,-96.727525,43.518498],
+  "geometry": {"coordinates":[-96.727525,43.518498],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387294495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.284594,44.061315,-103.284594,44.061315",
+    "geom:latitude":44.061315,
+    "geom:longitude":-103.284594,
+    "iso:country":"US",
+    "sg:address":"3810 Jackson Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 4050",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33iwuv6OOq5J4chEyuWoyb_44.061315_-103.284594@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"280dcafb1b549a10bb7b1e341e9025db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387294495
+        }
+    ],
+    "wof:id":387294495,
+    "wof:lastmodified":1449058819,
+    "wof:name":"Rapid City Medical Ctr",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.284594,44.061315,-103.284594,44.061315],
+  "geometry": {"coordinates":[-103.284594,44.061315],"type":"Point"}
+}

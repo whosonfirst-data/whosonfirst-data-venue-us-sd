@@ -1,0 +1,69 @@
+{
+  "id": 370989047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.856912,43.378182,-99.856912,43.378182",
+    "geom:latitude":43.378182,
+    "geom:longitude":-99.856912,
+    "iso:country":"US",
+    "sg:address":"115 N Main St",
+    "sg:city":"Mission",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 856 2378",
+    "sg:postcode":"57580",
+    "sg:province":"SD",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721821,
+        102086855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49xynXSuf9LJxC24RNCKhN_43.378182_-99.856912@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38615458302b3249198f83a269a73659",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086855,
+            "locality_id":101721821,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":370989047
+        }
+    ],
+    "wof:id":370989047,
+    "wof:lastmodified":1449031578,
+    "wof:name":"Johnson Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-99.856912,43.378182,-99.856912,43.378182],
+  "geometry": {"coordinates":[-99.856912,43.378182],"type":"Point"}
+}

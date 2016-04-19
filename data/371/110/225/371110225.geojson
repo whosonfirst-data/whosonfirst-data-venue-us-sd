@@ -1,0 +1,70 @@
+{
+  "id": 371110225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.220217,44.077792,-103.220217,44.077792",
+    "geom:latitude":44.077792,
+    "geom:longitude":-103.220217,
+    "iso:country":"US",
+    "sg:address":"603 2nd St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 6116",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zSaD65eBlIrnje2LTth2_44.077792_-103.220217@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5412927abba8f50fce010a4983c1d2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371110225
+        }
+    ],
+    "wof:id":371110225,
+    "wof:lastmodified":1449049347,
+    "wof:name":"County Jail",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [-103.220217,44.077792,-103.220217,44.077792],
+  "geometry": {"coordinates":[-103.220217,44.077792],"type":"Point"}
+}

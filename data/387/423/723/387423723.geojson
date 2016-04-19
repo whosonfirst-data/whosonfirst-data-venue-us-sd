@@ -1,0 +1,70 @@
+{
+  "id": 387423723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705014,43.54084,-96.705014,43.54084",
+    "geom:latitude":43.54084,
+    "geom:longitude":-96.705014,
+    "iso:country":"US",
+    "sg:address":"812 S Mable Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 357 9699",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gvPhQkIxtgvoNnt1o21EK_43.540840_-96.705014@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a3edab5cee408fbab271da29e2bd2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387423723
+        }
+    ],
+    "wof:id":387423723,
+    "wof:lastmodified":1449056732,
+    "wof:name":"Mullinix Trucking Inc",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.705014,43.54084,-96.705014,43.54084],
+  "geometry": {"coordinates":[-96.705014,43.54084],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 387870133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711221,43.53393,-96.711221,43.53393",
+    "geom:latitude":43.53393,
+    "geom:longitude":-96.711221,
+    "iso:country":"US",
+    "sg:address":"1304 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 1805",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "collision",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BQwdjNiSHbn6wEBUr8uBh_43.533930_-96.711221@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"494d3db8cb1d31d21a92465c348dc4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387870133
+        }
+    ],
+    "wof:id":387870133,
+    "wof:lastmodified":1449057105,
+    "wof:name":"Pierre's Body Shop Inc",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "collision",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [-96.711221,43.53393,-96.711221,43.53393],
+  "geometry": {"coordinates":[-96.711221,43.53393],"type":"Point"}
+}

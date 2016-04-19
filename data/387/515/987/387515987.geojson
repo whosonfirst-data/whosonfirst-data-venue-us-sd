@@ -1,0 +1,81 @@
+{
+  "id": 387515987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.221773,44.103,-103.221773,44.103",
+    "geom:latitude":44.103,
+    "geom:longitude":-103.221773,
+    "iso:country":"US",
+    "sg:address":"1800 N Haines Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 7761",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "picture",
+        "art",
+        "dealer",
+        "framing",
+        "custom",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5igZ0fAgDRK4fzYpTMIg8s_44.103000_-103.221773@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2208837bc0f3805ccea49b5cc89347a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387515987
+        }
+    ],
+    "wof:id":387515987,
+    "wof:lastmodified":1449056988,
+    "wof:name":"Perfect Hanging Gallery",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "art",
+        "dealer",
+        "framing",
+        "custom",
+        "gallery"
+    ]
+},
+  "bbox": [-103.221773,44.103,-103.221773,44.103],
+  "geometry": {"coordinates":[-103.221773,44.103],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 403762433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.519258,44.405197,-103.519258,44.405197",
+    "geom:latitude":44.405197,
+    "geom:longitude":-103.519258,
+    "iso:country":"US",
+    "sg:address":"1901 Ballpark Rd",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 347 9977",
+    "sg:postcode":"57785",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.sturgisfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722091,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CNzQLUSXdXaRYCNWb3J3T_44.405197_-103.519258@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4da83dd32893c20a67fa162486a55d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722091,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403762433
+        }
+    ],
+    "wof:id":403762433,
+    "wof:lastmodified":1449055553,
+    "wof:name":"Sturgis Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.519258,44.405197,-103.519258,44.405197],
+  "geometry": {"coordinates":[-103.519258,44.405197],"type":"Point"}
+}

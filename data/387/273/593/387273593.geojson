@@ -1,0 +1,68 @@
+{
+  "id": 387273593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.218321,44.077379,-103.218321,44.077379",
+    "geom:latitude":44.077379,
+    "geom:longitude":-103.218321,
+    "iso:country":"US",
+    "sg:address":"9 Kansas City St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 5517",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7inZt7XInZ3to7NOFSioix_44.077379_-103.218321@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25243885131fa3b3f41df8022aa58c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387273593
+        }
+    ],
+    "wof:id":387273593,
+    "wof:lastmodified":1449058079,
+    "wof:name":"Accurate Plumbing Heating",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-103.218321,44.077379,-103.218321,44.077379],
+  "geometry": {"coordinates":[-103.218321,44.077379],"type":"Point"}
+}

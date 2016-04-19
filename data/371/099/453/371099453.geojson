@@ -1,0 +1,69 @@
+{
+  "id": 371099453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652657,43.515977,-96.652657,43.515977",
+    "geom:latitude":43.515977,
+    "geom:longitude":-96.652657,
+    "iso:country":"US",
+    "sg:address":"3304 S Lisa Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2465",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85850485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSo5qPJ4rV3EST5M34c6Q_43.515977_-96.652657@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"793b6d0af94beabcaf36369ec9d0e498",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85850485,
+            "region_id":85688693,
+            "venue_id":371099453
+        }
+    ],
+    "wof:id":371099453,
+    "wof:lastmodified":1449049738,
+    "wof:name":"Dans Garbage Service",
+    "wof:parent_id":85850485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.652657,43.515977,-96.652657,43.515977],
+  "geometry": {"coordinates":[-96.652657,43.515977],"type":"Point"}
+}

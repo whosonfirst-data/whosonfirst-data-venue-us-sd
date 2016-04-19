@@ -1,0 +1,68 @@
+{
+  "id": 387185651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488198,45.470708,-98.488198,45.470708",
+    "geom:latitude":45.470708,
+    "geom:longitude":-98.488198,
+    "iso:country":"US",
+    "sg:address":"403 N Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 1139",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oDd6zptGe3C0RIGo3FFau_45.470708_-98.488198@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4c0c6330d53bd54848bbe2b0cb97800",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387185651
+        }
+    ],
+    "wof:id":387185651,
+    "wof:lastmodified":1449056728,
+    "wof:name":"Car Lot",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [-98.488198,45.470708,-98.488198,45.470708],
+  "geometry": {"coordinates":[-98.488198,45.470708],"type":"Point"}
+}

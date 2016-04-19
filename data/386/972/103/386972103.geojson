@@ -1,0 +1,71 @@
+{
+  "id": 386972103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.782479,43.654536,-97.782479,43.654536",
+    "geom:latitude":43.654536,
+    "geom:longitude":-97.782479,
+    "iso:country":"US",
+    "sg:address":"430 5th St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 239 4767",
+    "sg:postcode":"57311",
+    "sg:province":"SD",
+    "sg:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722031,
+        102086795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63b6I50LfR6PVt39xHbd9h_43.654536_-97.782479@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a60d776727cc210279858e2aedd1fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086795,
+            "locality_id":101722031,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386972103
+        }
+    ],
+    "wof:id":386972103,
+    "wof:lastmodified":1449028785,
+    "wof:name":"Alexandria Locker",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food",
+        "locker",
+        "plant"
+    ]
+},
+  "bbox": [-97.782479,43.654536,-97.782479,43.654536],
+  "geometry": {"coordinates":[-97.782479,43.654536],"type":"Point"}
+}

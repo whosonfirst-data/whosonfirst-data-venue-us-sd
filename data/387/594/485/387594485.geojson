@@ -1,0 +1,68 @@
+{
+  "id": 387594485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.672155,43.543661,-96.672155,43.543661",
+    "geom:latitude":43.543661,
+    "geom:longitude":-96.672155,
+    "iso:country":"US",
+    "sg:address":"4401 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 275 4075",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lheiz1JdDSU0zuoIFw1LM_43.543661_-96.672155@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"341bdac20228dca5ebb3c352e0758ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387594485
+        }
+    ],
+    "wof:id":387594485,
+    "wof:lastmodified":1449056650,
+    "wof:name":"Point Auto Sales",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.672155,43.543661,-96.672155,43.543661],
+  "geometry": {"coordinates":[-96.672155,43.543661],"type":"Point"}
+}

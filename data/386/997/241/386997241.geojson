@@ -1,0 +1,72 @@
+{
+  "id": 386997241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711452,43.548723,-96.711452,43.548723",
+    "geom:latitude":43.548723,
+    "geom:longitude":-96.711452,
+    "iso:country":"US",
+    "sg:address":"1106 E 8th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 0001",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.greeneggsandram.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jc8vbPLU0QgvYMxtEHzID_43.548723_-96.711452@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e65155ef5479c64c11b43046f8f2cb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881011,
+            "region_id":85688693,
+            "venue_id":386997241
+        }
+    ],
+    "wof:id":386997241,
+    "wof:lastmodified":1449028901,
+    "wof:name":"Green Eggs & Ram Inc",
+    "wof:parent_id":85881011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [-96.711452,43.548723,-96.711452,43.548723],
+  "geometry": {"coordinates":[-96.711452,43.548723],"type":"Point"}
+}

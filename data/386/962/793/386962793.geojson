@@ -1,0 +1,73 @@
+{
+  "id": 386962793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.508342,44.738127,-98.508342,44.738127",
+    "geom:latitude":44.738127,
+    "geom:longitude":-98.508342,
+    "iso:country":"US",
+    "sg:address":"202 Main St",
+    "sg:city":"Tulare",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 596 4196",
+    "sg:postcode":"57476",
+    "sg:province":"SD",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721575,
+        102086027
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nQVxlKDAoy6LS5Zgrv6e_44.738127_-98.508342@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e681fb6d714b3f243c01de081cfe963c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086027,
+            "locality_id":101721575,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386962793
+        }
+    ],
+    "wof:id":386962793,
+    "wof:lastmodified":1457207041,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -98.508342,
+    44.738127,
+    -98.508342,
+    44.738127
+],
+  "geometry": {"coordinates":[-98.508342,44.738127],"type":"Point"}
+}

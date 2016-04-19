@@ -1,0 +1,71 @@
+{
+  "id": 371034253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.480039,43.430543,-103.480039,43.430543",
+    "geom:latitude":43.430543,
+    "geom:longitude":-103.480039,
+    "iso:country":"US",
+    "sg:address":"130 N 15th St",
+    "sg:city":"Hot Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 745 5736",
+    "sg:postcode":"57747",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721985,
+        102086081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_286JRnIq7wFaYVenIXdg83_43.430543_-103.480039@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1089c112ddc5dd68eda3754f9aafe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086081,
+            "locality_id":101721985,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371034253
+        }
+    ],
+    "wof:id":371034253,
+    "wof:lastmodified":1449049142,
+    "wof:name":"Rapid City Medical Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [-103.480039,43.430543,-103.480039,43.430543],
+  "geometry": {"coordinates":[-103.480039,43.430543],"type":"Point"}
+}

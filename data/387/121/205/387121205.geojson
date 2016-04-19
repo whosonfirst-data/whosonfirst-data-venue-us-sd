@@ -1,0 +1,72 @@
+{
+  "id": 387121205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751001,43.509915,-96.751001,43.509915",
+    "geom:latitude":43.509915,
+    "geom:longitude":-96.751001,
+    "iso:country":"US",
+    "sg:address":"3932 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 5540",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "facility",
+        "rehabilitation",
+        "for",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bryri3qwOocNntgM5o5tf_43.509915_-96.751001@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f015a8601d0cd20cc07aef3cc49cf28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387121205
+        }
+    ],
+    "wof:id":387121205,
+    "wof:lastmodified":1449059077,
+    "wof:name":"Mc Kennon Hospital",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "rehabilitation",
+        "for",
+        "outpatient"
+    ]
+},
+  "bbox": [-96.751001,43.509915,-96.751001,43.509915],
+  "geometry": {"coordinates":[-96.751001,43.509915],"type":"Point"}
+}

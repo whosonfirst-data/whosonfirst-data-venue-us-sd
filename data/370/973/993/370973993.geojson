@@ -1,0 +1,67 @@
+{
+  "id": 370973993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.741072,43.536743,-96.741072,43.536743",
+    "geom:latitude":43.536743,
+    "geom:longitude":-96.741072,
+    "iso:country":"US",
+    "sg:address":"1020 W 18th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 328 1367",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cancer",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x4xVFXQPu1VqayVEaY17u_43.536743_-96.741072@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bb0f02a4b3a869440d45d738943f7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":370973993
+        }
+    ],
+    "wof:id":370973993,
+    "wof:lastmodified":1449031108,
+    "wof:name":"Sioux Valley Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cancer",
+        "research"
+    ]
+},
+  "bbox": [-96.741072,43.536743,-96.741072,43.536743],
+  "geometry": {"coordinates":[-96.741072,43.536743],"type":"Point"}
+}

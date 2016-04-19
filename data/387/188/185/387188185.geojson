@@ -1,0 +1,68 @@
+{
+  "id": 387188185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.256967,44.07184,-103.256967,44.07184",
+    "geom:latitude":44.07184,
+    "geom:longitude":-103.256967,
+    "iso:country":"US",
+    "sg:address":"2201 Jackson Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 4645",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zC394w2wy3rrtJNl6RWEt_44.071840_-103.256967@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a7cc915c7252f7799b3881556da7ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387188185
+        }
+    ],
+    "wof:id":387188185,
+    "wof:lastmodified":1449057995,
+    "wof:name":"Emergiclinic",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.256967,44.07184,-103.256967,44.07184],
+  "geometry": {"coordinates":[-103.256967,44.07184],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387165333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.217552,44.079611,-103.217552,44.079611",
+    "geom:latitude":44.079611,
+    "geom:longitude":-103.217552,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Interior",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 433 5445",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56j0BctHMcuga3AikrPur7_44.079611_-103.217552@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f6c9efed955f88117f208dc3b677836",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387165333
+        }
+    ],
+    "wof:id":387165333,
+    "wof:lastmodified":1449059929,
+    "wof:name":"Badland's Grocery",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-103.217552,44.079611,-103.217552,44.079611],
+  "geometry": {"coordinates":[-103.217552,44.079611],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387032241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.414208,43.901111,-103.414208,43.901111",
+    "geom:latitude":43.901111,
+    "geom:longitude":-103.414208,
+    "iso:country":"US",
+    "sg:address":"1011 Madill St",
+    "sg:city":"Keystone",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 666 4428",
+    "sg:postcode":"57751",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dhhxCC4EDMBQ8nHyNaAXT_43.901111_-103.414208@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"743fb0b4edd8610c335802249b8aa760",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387032241
+        }
+    ],
+    "wof:id":387032241,
+    "wof:lastmodified":1449057969,
+    "wof:name":"Keystone Fire Dept",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.414208,43.901111,-103.414208,43.901111],
+  "geometry": {"coordinates":[-103.414208,43.901111],"type":"Point"}
+}

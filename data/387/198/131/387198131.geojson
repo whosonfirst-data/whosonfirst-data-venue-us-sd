@@ -1,0 +1,68 @@
+{
+  "id": 387198131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.227166,44.078789,-103.227166,44.078789",
+    "geom:latitude":44.078789,
+    "geom:longitude":-103.227166,
+    "iso:country":"US",
+    "sg:address":"529 Kansas City St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 719 4627",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tKpYy51Z7CvvWfbLkycqJ_44.078789_-103.227166@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39d91de9dd8237e2dde6461418c2a79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387198131
+        }
+    ],
+    "wof:id":387198131,
+    "wof:lastmodified":1449057477,
+    "wof:name":"Michael P Elston MD",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.227166,44.078789,-103.227166,44.078789],
+  "geometry": {"coordinates":[-103.227166,44.078789],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387486899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691495,43.542138,-96.691495,43.542138",
+    "geom:latitude":43.542138,
+    "geom:longitude":-96.691495,
+    "iso:country":"US",
+    "sg:address":"605 S Cleveland Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 5939",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LJD1qhulJs0K2R0lUkZtz_43.542138_-96.691495@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0344fc1f4fa7e4c82384d83a155df3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387486899
+        }
+    ],
+    "wof:id":387486899,
+    "wof:lastmodified":1449058233,
+    "wof:name":"Action Garbage Svc",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-96.691495,43.542138,-96.691495,43.542138],
+  "geometry": {"coordinates":[-96.691495,43.542138],"type":"Point"}
+}

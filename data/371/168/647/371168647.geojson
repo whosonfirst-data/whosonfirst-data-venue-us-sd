@@ -1,0 +1,68 @@
+{
+  "id": 371168647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488045,45.467477,-98.488045,45.467477",
+    "geom:latitude":45.467477,
+    "geom:longitude":-98.488045,
+    "iso:country":"US",
+    "sg:address":"122 N Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 0000",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "floral",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mkjqu7G9lx2588NLaB4nh_45.467477_-98.488045@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63b33f8b338d9a3513d5e8bd231ef12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":371168647
+        }
+    ],
+    "wof:id":371168647,
+    "wof:lastmodified":1449049583,
+    "wof:name":"Annette's Floral Boutique",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floral",
+        "shop"
+    ]
+},
+  "bbox": [-98.488045,45.467477,-98.488045,45.467477],
+  "geometry": {"coordinates":[-98.488045,45.467477],"type":"Point"}
+}

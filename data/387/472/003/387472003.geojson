@@ -1,0 +1,68 @@
+{
+  "id": 387472003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751247,43.529435,-96.751247,43.529435",
+    "geom:latitude":43.529435,
+    "geom:longitude":-96.751247,
+    "iso:country":"US",
+    "sg:address":"1600 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 3001",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64MyIl4su6iN40lRCViDNU_43.529435_-96.751247@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55a28d038ef315e0b1b33f8c470d15e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387472003
+        }
+    ],
+    "wof:id":387472003,
+    "wof:lastmodified":1449056407,
+    "wof:name":"Park Ridge Shoes & Shoe Repair",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [-96.751247,43.529435,-96.751247,43.529435],
+  "geometry": {"coordinates":[-96.751247,43.529435],"type":"Point"}
+}

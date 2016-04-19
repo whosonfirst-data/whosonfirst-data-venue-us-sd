@@ -1,0 +1,67 @@
+{
+  "id": 403795823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.447695,45.538937,-100.447695,45.538937",
+    "geom:latitude":45.538937,
+    "geom:longitude":-100.447695,
+    "iso:country":"US",
+    "sg:address":"1008 W Grand Xing",
+    "sg:city":"Mobridge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 845 2255",
+    "sg:postcode":"57601",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721629,
+        102086011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gG61a8BPdafhodpmVRVSR_45.538937_-100.447695@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9b012e34c5e860c2a4b72bde5d62b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086011,
+            "locality_id":101721629,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403795823
+        }
+    ],
+    "wof:id":403795823,
+    "wof:lastmodified":1449055435,
+    "wof:name":"Western Plains Disposal Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-100.447695,45.538937,-100.447695,45.538937],
+  "geometry": {"coordinates":[-100.447695,45.538937],"type":"Point"}
+}

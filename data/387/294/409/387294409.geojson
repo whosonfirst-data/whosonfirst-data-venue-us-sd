@@ -1,0 +1,67 @@
+{
+  "id": 387294409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.990063,44.432858,-97.990063,44.432858",
+    "geom:latitude":44.432858,
+    "geom:longitude":-97.990063,
+    "iso:country":"US",
+    "sg:address":"106 Main St",
+    "sg:city":"Yale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 599 2209",
+    "sg:postcode":"57386",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721865,
+        102086841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bxhUJgKC7V4zOxhoA215t_44.432858_-97.990063@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a1f5bcd17b851929cf5d9e507466fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086841,
+            "locality_id":101721865,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387294409
+        }
+    ],
+    "wof:id":387294409,
+    "wof:lastmodified":1449058817,
+    "wof:name":"Perry's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.990063,44.432858,-97.990063,44.432858],
+  "geometry": {"coordinates":[-97.990063,44.432858],"type":"Point"}
+}

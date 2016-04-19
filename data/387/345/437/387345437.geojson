@@ -1,0 +1,78 @@
+{
+  "id": 387345437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.184476,44.063016,-103.184476,44.063016",
+    "geom:latitude":44.063016,
+    "geom:longitude":-103.184476,
+    "iso:country":"US",
+    "sg:address":"1868 Lombardy Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 721 4700",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgical",
+        "center"
+    ],
+    "sg:website":"www.bhsc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oT3eS6j3ZUwD9KlRPeBQV_44.063016_-103.184476@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e07a9a894e6a48ce635af2738160fcff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387345437
+        }
+    ],
+    "wof:id":387345437,
+    "wof:lastmodified":1449059617,
+    "wof:name":"Black Hills Surgery Ctr LLP",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [-103.184476,44.063016,-103.184476,44.063016],
+  "geometry": {"coordinates":[-103.184476,44.063016],"type":"Point"}
+}

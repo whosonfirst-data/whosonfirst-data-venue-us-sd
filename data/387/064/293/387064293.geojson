@@ -1,0 +1,67 @@
+{
+  "id": 387064293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.801955,45.10048,-96.801955,45.10048",
+    "geom:latitude":45.10048,
+    "geom:longitude":-96.801955,
+    "iso:country":"US",
+    "sg:address":"201 N Main St",
+    "sg:city":"Stockholm",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 676 2461",
+    "sg:postcode":"57264",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721801,
+        102086849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AF2OQIyjJAyfPux5vcZXf_45.100480_-96.801955@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bc334c134dac9fe1bfea6beeff23b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086849,
+            "locality_id":101721801,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387064293
+        }
+    ],
+    "wof:id":387064293,
+    "wof:lastmodified":1449057437,
+    "wof:name":"Evjen Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.801955,45.10048,-96.801955,45.10048],
+  "geometry": {"coordinates":[-96.801955,45.10048],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 403779667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.051016,45.667476,-97.051016,45.667476",
+    "geom:latitude":45.667476,
+    "geom:longitude":-97.051016,
+    "iso:country":"US",
+    "sg:address":"5 Chestnut St W",
+    "sg:city":"Sisseton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 698 7606",
+    "sg:postcode":"57262",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721669,
+        102086057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kA9D8iX7E0pm8oOzQChcs_45.667476_-97.051016@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d72af41256b44c8c1a1b5665a9686bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086057,
+            "locality_id":101721669,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403779667
+        }
+    ],
+    "wof:id":403779667,
+    "wof:lastmodified":1449054831,
+    "wof:name":"Indian Health Service Sisseton",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-97.051016,45.667476,-97.051016,45.667476],
+  "geometry": {"coordinates":[-97.051016,45.667476],"type":"Point"}
+}

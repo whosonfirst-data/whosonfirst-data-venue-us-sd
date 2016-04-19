@@ -1,0 +1,75 @@
+{
+  "id": 403779543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711425,43.540218,-96.711425,43.540218",
+    "geom:latitude":43.540218,
+    "geom:longitude":-96.711425,
+    "iso:country":"US",
+    "sg:address":"1107 E 15th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2655",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cvtLYqmDuSNi5AXEcNzQb_43.540218_-96.711425@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"119a5d165b7bbb43205e30e78a525e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":403779543
+        }
+    ],
+    "wof:id":403779543,
+    "wof:lastmodified":1449054830,
+    "wof:name":"Budweiser Recycling Center",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [-96.711425,43.540218,-96.711425,43.540218],
+  "geometry": {"coordinates":[-96.711425,43.540218],"type":"Point"}
+}

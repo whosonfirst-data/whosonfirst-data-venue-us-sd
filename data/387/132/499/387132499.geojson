@@ -1,0 +1,68 @@
+{
+  "id": 387132499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.505218,45.459378,-98.505218,45.459378",
+    "geom:latitude":45.459378,
+    "geom:longitude":-98.505218,
+    "iso:country":"US",
+    "sg:address":"1123 6th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 1373",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3H3qetB2rm70BQxMrGMc_45.459378_-98.505218@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8bd1a5698de39ffc4292aee1fdec67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387132499
+        }
+    ],
+    "wof:id":387132499,
+    "wof:lastmodified":1449057959,
+    "wof:name":"Meidinger Auto Sales",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-98.505218,45.459378,-98.505218,45.459378],
+  "geometry": {"coordinates":[-98.505218,45.459378],"type":"Point"}
+}

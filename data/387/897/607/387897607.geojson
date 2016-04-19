@@ -1,0 +1,68 @@
+{
+  "id": 387897607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488116,45.45801,-98.488116,45.45801",
+    "geom:latitude":45.45801,
+    "geom:longitude":-98.488116,
+    "iso:country":"US",
+    "sg:address":"706 S Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 4793",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RTcEKqa7n1K4pcov5herA_45.458010_-98.488116@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e9aa3f7f7924cdf9f647c21661d4c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387897607
+        }
+    ],
+    "wof:id":387897607,
+    "wof:lastmodified":1449059309,
+    "wof:name":"Coffee Cup Fuel Stop",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-98.488116,45.45801,-98.488116,45.45801],
+  "geometry": {"coordinates":[-98.488116,45.45801],"type":"Point"}
+}

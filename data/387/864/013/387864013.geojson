@@ -1,0 +1,68 @@
+{
+  "id": 387864013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.443455,45.469335,-98.443455,45.469335",
+    "geom:latitude":45.469335,
+    "geom:longitude":-98.443455,
+    "iso:country":"US",
+    "sg:address":"2903 Industrial Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 8030",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "forming",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CTomQHqjG7FhzoU5ChN55_45.469335_-98.443455@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c10a38340d7d817c0fc614e28bf049a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387864013
+        }
+    ],
+    "wof:id":387864013,
+    "wof:lastmodified":1449059965,
+    "wof:name":"Aberdeen Machine Tool Inc",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forming",
+        "metal"
+    ]
+},
+  "bbox": [-98.443455,45.469335,-98.443455,45.469335],
+  "geometry": {"coordinates":[-98.443455,45.469335],"type":"Point"}
+}

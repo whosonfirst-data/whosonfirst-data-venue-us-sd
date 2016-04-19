@@ -1,0 +1,68 @@
+{
+  "id": 387633115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.716307,43.534839,-96.716307,43.534839",
+    "geom:latitude":43.534839,
+    "geom:longitude":-96.716307,
+    "iso:country":"US",
+    "sg:address":"1200 S 7th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 2140",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dMgZiSVzehpFNpnhvOWRT_43.534839_-96.716307@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"564894bb0d8d913201ecd513a6fee1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387633115
+        }
+    ],
+    "wof:id":387633115,
+    "wof:lastmodified":1449059890,
+    "wof:name":"Mc Greevy Clinic",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [-96.716307,43.534839,-96.716307,43.534839],
+  "geometry": {"coordinates":[-96.716307,43.534839],"type":"Point"}
+}

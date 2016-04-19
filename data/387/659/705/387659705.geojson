@@ -1,0 +1,67 @@
+{
+  "id": 387659705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.930611,43.788951,-96.930611,43.788951",
+    "geom:latitude":43.788951,
+    "geom:longitude":-96.930611,
+    "iso:country":"US",
+    "sg:address":"208 S Main Ave",
+    "sg:city":"Colton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 446 3215",
+    "sg:postcode":"57018",
+    "sg:province":"SD",
+    "sg:tags":[
+        "vol",
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BTKPwlxHCpiYATvD8Z61n_43.788951_-96.930611@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0c27d374fe77a21b435324dc276bfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":387659705
+        }
+    ],
+    "wof:id":387659705,
+    "wof:lastmodified":1449056519,
+    "wof:name":"Colton Volunteer Fire Dept",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vol",
+        "dept"
+    ]
+},
+  "bbox": [-96.930611,43.788951,-96.930611,43.788951],
+  "geometry": {"coordinates":[-96.930611,43.788951],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387336981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.732747,43.556494,-96.732747,43.556494",
+    "geom:latitude":43.556494,
+    "geom:longitude":-96.732747,
+    "iso:country":"US",
+    "sg:address":"408 W 2nd St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 367 5780",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qbO8eGHxdoh1vC8DpSJe_43.556494_-96.732747@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9b32de2baebee11cc6e552c18ea08e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387336981
+        }
+    ],
+    "wof:id":387336981,
+    "wof:lastmodified":1449056041,
+    "wof:name":"Sioux Falls Parole Services",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole"
+    ]
+},
+  "bbox": [-96.732747,43.556494,-96.732747,43.556494],
+  "geometry": {"coordinates":[-96.732747,43.556494],"type":"Point"}
+}

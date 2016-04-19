@@ -1,0 +1,66 @@
+{
+  "id": 371186545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708753,43.566602,-96.708753,43.566602",
+    "geom:latitude":43.566602,
+    "geom:longitude":-96.708753,
+    "iso:country":"US",
+    "sg:address":"1810 N Van Eps Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 274 0866",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JTiBcwH8QTUn3417BZpRl_43.566602_-96.708753@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ea0ade728717c0e256b40c8dab1a9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":371186545
+        }
+    ],
+    "wof:id":371186545,
+    "wof:lastmodified":1449049854,
+    "wof:name":"Jn Cleaning",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-96.708753,43.566602,-96.708753,43.566602],
+  "geometry": {"coordinates":[-96.708753,43.566602],"type":"Point"}
+}

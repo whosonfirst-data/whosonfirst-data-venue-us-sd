@@ -1,0 +1,68 @@
+{
+  "id": 387611971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.32237,43.866765,-103.32237,43.866765",
+    "geom:latitude":43.866765,
+    "geom:longitude":-103.32237,
+    "iso:country":"US",
+    "sg:address":"24425 Thovson Rd",
+    "sg:city":"Keystone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 255 4346",
+    "sg:postcode":"57751",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tsSJj7rNxNxcYvfrtukoX_43.866765_-103.322370@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a103b608f5670125c1be015730cdd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387611971
+        }
+    ],
+    "wof:id":387611971,
+    "wof:lastmodified":1449059107,
+    "wof:name":"B H Electric",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-103.32237,43.866765,-103.32237,43.866765],
+  "geometry": {"coordinates":[-103.32237,43.866765],"type":"Point"}
+}

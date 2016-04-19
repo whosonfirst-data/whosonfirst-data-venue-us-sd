@@ -1,0 +1,65 @@
+{
+  "id": 371041007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.475926,45.578695,-99.475926,45.578695",
+    "geom:latitude":45.578695,
+    "geom:longitude":-99.475926,
+    "iso:country":"US",
+    "sg:address":"119 W Main St",
+    "sg:city":"Hosmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 283 2685",
+    "sg:postcode":"57448",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721963,
+        102086789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGT1dwNL8qr7OLvkeOmpX_45.578695_-99.475926@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c749167dff935ea8a99a324f7e247ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086789,
+            "locality_id":101721963,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371041007
+        }
+    ],
+    "wof:id":371041007,
+    "wof:lastmodified":1449049389,
+    "wof:name":"Hosmer Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-99.475926,45.578695,-99.475926,45.578695],
+  "geometry": {"coordinates":[-99.475926,45.578695],"type":"Point"}
+}

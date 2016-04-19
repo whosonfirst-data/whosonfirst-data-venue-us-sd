@@ -1,0 +1,68 @@
+{
+  "id": 371188383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.181339,44.092707,-103.181339,44.092707",
+    "geom:latitude":44.092707,
+    "geom:longitude":-103.181339,
+    "iso:country":"US",
+    "sg:address":"2220 Eglin St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 8360",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PSMaDZ83E4NgymjaYBYBT_44.092707_-103.181339@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a02b76cccdfef3fc0aa3605a1ebf7fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371188383
+        }
+    ],
+    "wof:id":371188383,
+    "wof:lastmodified":1449049552,
+    "wof:name":"Rapid Diesel Svc Inc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-103.181339,44.092707,-103.181339,44.092707],
+  "geometry": {"coordinates":[-103.181339,44.092707],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 387849995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.738985,43.551267,-96.738985,43.551267",
+    "geom:latitude":43.551267,
+    "geom:longitude":-96.738985,
+    "iso:country":"US",
+    "sg:address":"918 W 6th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 4934",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "casino",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85820755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BLUXGftdzUSaQmB0gPoa3_43.551267_-96.738985@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fe308a6d27118e98b9411490626e436",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85820755,
+            "region_id":85688693,
+            "venue_id":387849995
+        }
+    ],
+    "wof:id":387849995,
+    "wof:lastmodified":1449056801,
+    "wof:name":"Ken's Korner",
+    "wof:parent_id":85820755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "casino",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [-96.738985,43.551267,-96.738985,43.551267],
+  "geometry": {"coordinates":[-96.738985,43.551267],"type":"Point"}
+}

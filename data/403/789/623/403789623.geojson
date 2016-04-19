@@ -1,0 +1,70 @@
+{
+  "id": 403789623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.241237,44.078809,-103.241237,44.078809",
+    "geom:latitude":44.078809,
+    "geom:longitude":-103.241237,
+    "iso:country":"US",
+    "sg:address":"1321 Columbus St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 4459",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "fire",
+        "sprinkler",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vbVvyx4blvuTB54bKkiXo_44.078809_-103.241237@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"943faa82ceef828d937c525b3de5df0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403789623
+        }
+    ],
+    "wof:id":403789623,
+    "wof:lastmodified":1449055235,
+    "wof:name":"Rushmore Fire Protection Inc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "sprinkler",
+        "system"
+    ]
+},
+  "bbox": [-103.241237,44.078809,-103.241237,44.078809],
+  "geometry": {"coordinates":[-103.241237,44.078809],"type":"Point"}
+}

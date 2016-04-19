@@ -1,0 +1,68 @@
+{
+  "id": 387832285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.129372,44.046448,-103.129372,44.046448",
+    "geom:latitude":44.046448,
+    "geom:longitude":-103.129372,
+    "iso:country":"US",
+    "sg:address":"5500 E Hwy 44",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 393 0848",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department",
+        "vol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56JmcR2vxXhPPxa5LSwuXy_44.046448_-103.129372@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcdf1c2995c8d29977b9758a563624b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387832285
+        }
+    ],
+    "wof:id":387832285,
+    "wof:lastmodified":1449056129,
+    "wof:name":"Rapid Valley Vlntr Fire Dept",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "vol"
+    ]
+},
+  "bbox": [-103.129372,44.046448,-103.129372,44.046448],
+  "geometry": {"coordinates":[-103.129372,44.046448],"type":"Point"}
+}

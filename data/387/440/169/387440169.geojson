@@ -1,0 +1,80 @@
+{
+  "id": 387440169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.197996,44.078452,-103.197996,44.078452",
+    "geom:latitude":44.078452,
+    "geom:longitude":-103.197996,
+    "iso:country":"US",
+    "sg:address":"1000 E Centre St",
+    "sg:city":"Kyle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 455 8204",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RdcjhcoMCqpPdLYG7LKOi_44.078452_-103.197996@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6eaa44a0fdb8cc98f0fd52ec2887bb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387440169
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387440169
+        }
+    ],
+    "wof:id":387440169,
+    "wof:lastmodified":1449057447,
+    "wof:name":"Community Hlth Pub Hlth Alance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [-103.197996,44.078452,-103.197996,44.078452],
+  "geometry": {"coordinates":[-103.197996,44.078452],"type":"Point"}
+}

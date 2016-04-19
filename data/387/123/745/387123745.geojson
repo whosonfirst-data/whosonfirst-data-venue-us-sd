@@ -1,0 +1,67 @@
+{
+  "id": 387123745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73397,43.545916,-96.73397,43.545916",
+    "geom:latitude":43.545916,
+    "geom:longitude":-96.73397,
+    "iso:country":"US",
+    "sg:address":"523 W 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 3333",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C6fcwU7lEFHCowct4G2x9_43.545916_-96.733970@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"518c4c2ed921cde0392d39aea7e1e6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387123745
+        }
+    ],
+    "wof:id":387123745,
+    "wof:lastmodified":1449057242,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-96.73397,43.545916,-96.73397,43.545916],
+  "geometry": {"coordinates":[-96.73397,43.545916],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387083211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711217,43.529764,-96.711217,43.529764",
+    "geom:latitude":43.529764,
+    "geom:longitude":-96.711217,
+    "iso:country":"US",
+    "sg:address":"1724 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 2011",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NJkgxG3WWyUhz2u4sY5Sv_43.529764_-96.711217@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68c3b2b5b04e8778398bc7ca16debee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387083211
+        }
+    ],
+    "wof:id":387083211,
+    "wof:lastmodified":1449057906,
+    "wof:name":"Cash Depot",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [-96.711217,43.529764,-96.711217,43.529764],
+  "geometry": {"coordinates":[-96.711217,43.529764],"type":"Point"}
+}

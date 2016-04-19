@@ -1,0 +1,68 @@
+{
+  "id": 387629129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711277,43.536833,-96.711277,43.536833",
+    "geom:latitude":43.536833,
+    "geom:longitude":-96.711277,
+    "iso:country":"US",
+    "sg:address":"1020 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 322 8322",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VjX7zDRa1OtjI7JHtygS4_43.536833_-96.711277@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e099f865a15825e5649f52582118a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387629129
+        }
+    ],
+    "wof:id":387629129,
+    "wof:lastmodified":1449059018,
+    "wof:name":"Avera Mckennan Home Infusion",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [-96.711277,43.536833,-96.711277,43.536833],
+  "geometry": {"coordinates":[-96.711277,43.536833],"type":"Point"}
+}

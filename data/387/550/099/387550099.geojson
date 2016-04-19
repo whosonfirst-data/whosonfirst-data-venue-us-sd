@@ -1,0 +1,68 @@
+{
+  "id": 387550099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728499,43.565186,-96.728499,43.565186",
+    "geom:latitude":43.565186,
+    "geom:longitude":-96.728499,
+    "iso:country":"US",
+    "sg:address":"1439 N Main Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 5805",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01RzUMZ1HDWI8jlwRIYtz8_43.565186_-96.728499@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee70bcb49cfdfffcd8ea64ea54098bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387550099
+        }
+    ],
+    "wof:id":387550099,
+    "wof:lastmodified":1449058170,
+    "wof:name":"BDS Brokerage",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-96.728499,43.565186,-96.728499,43.565186],
+  "geometry": {"coordinates":[-96.728499,43.565186],"type":"Point"}
+}

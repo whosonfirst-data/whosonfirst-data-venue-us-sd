@@ -1,0 +1,68 @@
+{
+  "id": 387000245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731239,43.566703,-96.731239,43.566703",
+    "geom:latitude":43.566703,
+    "geom:longitude":-96.731239,
+    "iso:country":"US",
+    "sg:address":"1600 N Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 731 2173",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sod",
+        "sodding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DQ0Ki9XuHTH3qOeg4TW5n_43.566703_-96.731239@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26b91dde4b1452c400773be23e877406",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387000245
+        }
+    ],
+    "wof:id":387000245,
+    "wof:lastmodified":1449056713,
+    "wof:name":"Heartland Sod Farm",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sod",
+        "sodding"
+    ]
+},
+  "bbox": [-96.731239,43.566703,-96.731239,43.566703],
+  "geometry": {"coordinates":[-96.731239,43.566703],"type":"Point"}
+}

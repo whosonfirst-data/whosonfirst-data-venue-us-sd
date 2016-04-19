@@ -1,0 +1,66 @@
+{
+  "id": 387644105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689328,43.548321,-96.689328,43.548321",
+    "geom:latitude":43.548321,
+    "geom:longitude":-96.689328,
+    "iso:country":"US",
+    "sg:address":"221 N Chapel Hill Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 2283",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EfCMdMMdrzCGcUm8VgOE2_43.548321_-96.689328@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92a6a22871f234e6d70e0646cbb1478b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387644105
+        }
+    ],
+    "wof:id":387644105,
+    "wof:lastmodified":1449058282,
+    "wof:name":"Metz Baking Co",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-96.689328,43.548321,-96.689328,43.548321],
+  "geometry": {"coordinates":[-96.689328,43.548321],"type":"Point"}
+}

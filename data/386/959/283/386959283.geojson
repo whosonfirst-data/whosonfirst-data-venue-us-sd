@@ -1,0 +1,68 @@
+{
+  "id": 386959283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.226998,44.058519,-103.226998,44.058519",
+    "geom:latitude":44.058519,
+    "geom:longitude":-103.226998,
+    "iso:country":"US",
+    "sg:address":"2929 5th St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 0020",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24SCWb9yJIwzWrItBAIgoX_44.058519_-103.226998@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce520580c3090bfee29f79add6f59015",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":386959283
+        }
+    ],
+    "wof:id":386959283,
+    "wof:lastmodified":1449028947,
+    "wof:name":"Gary L Carlson MD",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.226998,44.058519,-103.226998,44.058519],
+  "geometry": {"coordinates":[-103.226998,44.058519],"type":"Point"}
+}

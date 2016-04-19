@@ -1,0 +1,70 @@
+{
+  "id": 387302615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.85493,44.498393,-103.85493,44.498393",
+    "geom:latitude":44.498393,
+    "geom:longitude":-103.85493,
+    "iso:country":"US",
+    "sg:address":"1420 N 10th St",
+    "sg:city":"Spearfish",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 642 8414",
+    "sg:postcode":"57783",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722043,
+        102086813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jasOJn4w1hP6Q3kyfkqT8_44.498393_-103.854930@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1292bc3f2f8c1a407161749ce5691ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":101722043,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387302615
+        }
+    ],
+    "wof:id":387302615,
+    "wof:lastmodified":1449057382,
+    "wof:name":"Queen City Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-103.85493,44.498393,-103.85493,44.498393],
+  "geometry": {"coordinates":[-103.85493,44.498393],"type":"Point"}
+}

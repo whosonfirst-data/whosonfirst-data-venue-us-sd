@@ -1,0 +1,67 @@
+{
+  "id": 403758395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798606,44.311492,-96.798606,44.311492",
+    "geom:latitude":44.311492,
+    "geom:longitude":-96.798606,
+    "iso:country":"US",
+    "sg:address":"501 Main Ave",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 692 5022",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qH3tpmwgF08zmRiOSBh1k_44.311492_-96.798606@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42804ec941db73c9155c47c46cde7c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403758395
+        }
+    ],
+    "wof:id":403758395,
+    "wof:lastmodified":1449055045,
+    "wof:name":"Sioux River Cyclery Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store"
+    ]
+},
+  "bbox": [-96.798606,44.311492,-96.798606,44.311492],
+  "geometry": {"coordinates":[-96.798606,44.311492],"type":"Point"}
+}

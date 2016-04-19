@@ -1,0 +1,66 @@
+{
+  "id": 387521789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.749898,43.553069,-96.749898,43.553069",
+    "geom:latitude":43.553069,
+    "geom:longitude":-96.749898,
+    "iso:country":"US",
+    "sg:address":"1525 W Burnside St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 3235",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iX5pecv9tYMvMFOyajGnB_43.553069_-96.749898@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05d8d0a644b69eb1eb7d3fe0559e68ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387521789
+        }
+    ],
+    "wof:id":387521789,
+    "wof:lastmodified":1449059732,
+    "wof:name":"Woodshed",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [-96.749898,43.553069,-96.749898,43.553069],
+  "geometry": {"coordinates":[-96.749898,43.553069],"type":"Point"}
+}

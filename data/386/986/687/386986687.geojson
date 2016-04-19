@@ -1,0 +1,66 @@
+{
+  "id": 386986687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.223071,44.080502,-103.223071,44.080502",
+    "geom:latitude":44.080502,
+    "geom:longitude":-103.223071,
+    "iso:country":"US",
+    "sg:address":"312 Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 0191",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KjfQrKgEswHbNRFUBqE8T_44.080502_-103.223071@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"648d132c8fa49a6f78cfb53ca2d453b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":386986687
+        }
+    ],
+    "wof:id":386986687,
+    "wof:lastmodified":1449028888,
+    "wof:name":"Rapid City Laundry & Dry Clnrs",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-103.223071,44.080502,-103.223071,44.080502],
+  "geometry": {"coordinates":[-103.223071,44.080502],"type":"Point"}
+}

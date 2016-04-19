@@ -1,0 +1,67 @@
+{
+  "id": 403818599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.524203,45.341054,-97.524203,45.341054",
+    "geom:latitude":45.341054,
+    "geom:longitude":-97.524203,
+    "iso:country":"US",
+    "sg:address":"420 US Hwy 12",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 345 6789",
+    "sg:postcode":"57274",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721991,
+        102086871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V22LXQINKPef1InDVY6z3_45.341054_-97.524203@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08d1299f029f367e113e075466afe6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086871,
+            "locality_id":101721991,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403818599
+        }
+    ],
+    "wof:id":403818599,
+    "wof:lastmodified":1449055280,
+    "wof:name":"Dave's Marine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [-97.524203,45.341054,-97.524203,45.341054],
+  "geometry": {"coordinates":[-97.524203,45.341054],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387947381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731368,43.530512,-96.731368,43.530512",
+    "geom:latitude":43.530512,
+    "geom:longitude":-96.731368,
+    "iso:country":"US",
+    "sg:address":"1621 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 328 9200",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o0ti21yCBSqGO1xAbmdjM_43.530512_-96.731368@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4b5aa9ee266b5fd7fccb75dad0ea148",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387947381
+        }
+    ],
+    "wof:id":387947381,
+    "wof:lastmodified":1449058863,
+    "wof:name":"Sioux Valley Clinic",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.731368,43.530512,-96.731368,43.530512],
+  "geometry": {"coordinates":[-96.731368,43.530512],"type":"Point"}
+}

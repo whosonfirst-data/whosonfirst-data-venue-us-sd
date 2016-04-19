@@ -1,0 +1,73 @@
+{
+  "id": 371144805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.499487,45.459509,-98.499487,45.459509",
+    "geom:latitude":45.459509,
+    "geom:longitude":-98.499487,
+    "iso:country":"US",
+    "sg:address":"710 6th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 725 7368",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive",
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MAj5AphZwqLD0OjozqzPA_45.459509_-98.499487@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6da26fd5b497c384d0f5b8c71b287b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":371144805
+        }
+    ],
+    "wof:id":371144805,
+    "wof:lastmodified":1449049814,
+    "wof:name":"Hub City Rents LLC",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "yard"
+    ]
+},
+  "bbox": [-98.499487,45.459509,-98.499487,45.459509],
+  "geometry": {"coordinates":[-98.499487,45.459509],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 387175787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.993918,43.257499,-96.993918,43.257499",
+    "geom:latitude":43.257499,
+    "geom:longitude":-96.993918,
+    "iso:country":"US",
+    "sg:address":"109 US Hwy 18",
+    "sg:city":"Davis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 238 6900",
+    "sg:postcode":"57021",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721655,
+        102086867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CJnaBbriRnHlBa2EVV4to_43.257499_-96.993918@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c38568b7376fa48e51b38bdf8a5689e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086867,
+            "locality_id":101721655,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387175787
+        }
+    ],
+    "wof:id":387175787,
+    "wof:lastmodified":1449058745,
+    "wof:name":"Davis Fire Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.993918,43.257499,-96.993918,43.257499],
+  "geometry": {"coordinates":[-96.993918,43.257499],"type":"Point"}
+}

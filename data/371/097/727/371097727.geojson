@@ -1,0 +1,78 @@
+{
+  "id": 371097727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.294271,44.005452,-103.294271,44.005452",
+    "geom:latitude":44.005452,
+    "geom:longitude":-103.294271,
+    "iso:country":"US",
+    "sg:address":"3350 Pinewood Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 5047",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086781,
+        85811191,
+        101721605,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17INrS0marLEzRUiPNYhcE_44.005452_-103.294271@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ac29828d4b605a44fd62b441fdcb4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":-1,
+            "neighbourhood_id":85811191,
+            "region_id":85688693,
+            "venue_id":371097727
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371097727
+        }
+    ],
+    "wof:id":371097727,
+    "wof:lastmodified":1449049433,
+    "wof:name":"Automatic Building Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-103.294271,44.005452,-103.294271,44.005452],
+  "geometry": {"coordinates":[-103.294271,44.005452],"type":"Point"}
+}

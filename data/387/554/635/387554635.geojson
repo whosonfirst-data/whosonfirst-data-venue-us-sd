@@ -1,0 +1,68 @@
+{
+  "id": 387554635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.775811,43.542396,-96.775811,43.542396",
+    "geom:latitude":43.542396,
+    "geom:longitude":-96.775811,
+    "iso:country":"US",
+    "sg:address":"4211 W 13th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 357 8881",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yipDUyiP8HRVTTZzaaAHT_43.542396_-96.775811@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94c94dedfd3843e561f2252acee78be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387554635
+        }
+    ],
+    "wof:id":387554635,
+    "wof:lastmodified":1449056888,
+    "wof:name":"Kent's Automotive Pros",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.775811,43.542396,-96.775811,43.542396],
+  "geometry": {"coordinates":[-96.775811,43.542396],"type":"Point"}
+}

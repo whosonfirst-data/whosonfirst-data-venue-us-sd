@@ -1,0 +1,75 @@
+{
+  "id": 403777163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.381,44.465128,-100.381,44.465128",
+    "geom:latitude":44.465128,
+    "geom:longitude":-100.381,
+    "iso:country":"US",
+    "sg:address":"28754 Western Rd",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 6727",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "equipment",
+        "trucking",
+        "local",
+        "hydraulic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B87oRZRAzyfQHeJm5jU7H_44.465128_-100.381000@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0174271b661ae2d8d7e583cfc29b2284",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403777163
+        }
+    ],
+    "wof:id":403777163,
+    "wof:lastmodified":1449055346,
+    "wof:name":"B & B Equipment Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "trucking",
+        "local",
+        "hydraulic",
+        "general"
+    ]
+},
+  "bbox": [-100.381,44.465128,-100.381,44.465128],
+  "geometry": {"coordinates":[-100.381,44.465128],"type":"Point"}
+}

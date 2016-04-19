@@ -1,0 +1,74 @@
+{
+  "id": 371127473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.750661,43.507197,-96.750661,43.507197",
+    "geom:latitude":43.507197,
+    "geom:longitude":-96.750661,
+    "iso:country":"US",
+    "sg:address":"4025 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 0123",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:brand_id":420575353,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gGTqEp9mG9CpSH2fKIlms_43.507197_-96.750661@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc00f9cb9f19ba2f1ab0627e264c449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371127473
+        }
+    ],
+    "wof:id":371127473,
+    "wof:lastmodified":1457209538,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.750661,
+    43.507197,
+    -96.750661,
+    43.507197
+],
+  "geometry": {"coordinates":[-96.75066099999999,43.507197],"type":"Point"}
+}

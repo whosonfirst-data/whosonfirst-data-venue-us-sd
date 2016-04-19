@@ -1,0 +1,68 @@
+{
+  "id": 386944885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.749148,43.550803,-96.749148,43.550803",
+    "geom:latitude":43.550803,
+    "geom:longitude":-96.749148,
+    "iso:country":"US",
+    "sg:address":"322 N Willow Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 366 3237",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X0ZThDUaI5m1NdCL2lu9J_43.550803_-96.749148@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62bddde0f65674c22797ad361bca5d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":386944885
+        }
+    ],
+    "wof:id":386944885,
+    "wof:lastmodified":1449028779,
+    "wof:name":"Ronk Electric",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-96.749148,43.550803,-96.749148,43.550803],
+  "geometry": {"coordinates":[-96.749148,43.550803],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387230617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726212,43.533592,-96.726212,43.533592",
+    "geom:latitude":43.533592,
+    "geom:longitude":-96.726212,
+    "iso:country":"US",
+    "sg:address":"1220 S Phillips Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 9037",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2szClY7NgOx7Ry8vSyvcuG_43.533592_-96.726212@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2532fb89181f75b26aedf21d8ceb8cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387230617
+        }
+    ],
+    "wof:id":387230617,
+    "wof:lastmodified":1449058929,
+    "wof:name":"Park Ridge Drug",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [-96.726212,43.533592,-96.726212,43.533592],
+  "geometry": {"coordinates":[-96.726212,43.533592],"type":"Point"}
+}

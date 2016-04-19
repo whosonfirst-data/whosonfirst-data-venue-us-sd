@@ -1,0 +1,68 @@
+{
+  "id": 387356983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728426,43.552355,-96.728426,43.552355",
+    "geom:latitude":43.552355,
+    "geom:longitude":-96.728426,
+    "iso:country":"US",
+    "sg:address":"413 N Main Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 367 4242",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZWEZB4erU32Oz49U2ykq_43.552355_-96.728426@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36e72ae4f1ed07d7392d790d39091a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387356983
+        }
+    ],
+    "wof:id":387356983,
+    "wof:lastmodified":1449059250,
+    "wof:name":"Minnehaha Cnty Public Defender",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [-96.728426,43.552355,-96.728426,43.552355],
+  "geometry": {"coordinates":[-96.728426,43.552355],"type":"Point"}
+}

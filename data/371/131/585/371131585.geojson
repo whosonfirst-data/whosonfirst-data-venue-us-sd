@@ -1,0 +1,67 @@
+{
+  "id": 371131585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73102,43.588029,-96.73102,43.588029",
+    "geom:latitude":43.588029,
+    "geom:longitude":-96.73102,
+    "iso:country":"US",
+    "sg:address":"2 W Weather Ln",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2903",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "hospital",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oXZhtiKmYjk8U4ppn21Xk_43.588029_-96.731020@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"869127b1bde29dc590d2523945dbf245",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371131585
+        }
+    ],
+    "wof:id":371131585,
+    "wof:lastmodified":1449049322,
+    "wof:name":"Sioux Valley Hosp Intensive A",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "ambulance"
+    ]
+},
+  "bbox": [-96.73102,43.588029,-96.73102,43.588029],
+  "geometry": {"coordinates":[-96.73102,43.588029],"type":"Point"}
+}

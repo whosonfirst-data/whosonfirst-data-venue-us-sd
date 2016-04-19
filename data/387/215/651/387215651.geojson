@@ -1,0 +1,75 @@
+{
+  "id": 387215651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.813024,43.543945,-96.813024,43.543945",
+    "geom:latitude":43.543945,
+    "geom:longitude":-96.813024,
+    "iso:country":"US",
+    "sg:address":"7200 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 9318",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "honey",
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67b3PCuhRSLQFYCKOnPFxL_43.543945_-96.813024@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3d319662773215e248700a66b7902fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387215651
+        }
+    ],
+    "wof:id":387215651,
+    "wof:lastmodified":1449059260,
+    "wof:name":"Honey Wiebersiek Farms",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "honey",
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [-96.813024,43.543945,-96.813024,43.543945],
+  "geometry": {"coordinates":[-96.813024,43.543945],"type":"Point"}
+}

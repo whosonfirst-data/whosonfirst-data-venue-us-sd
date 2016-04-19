@@ -1,0 +1,74 @@
+{
+  "id": 371165777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.025474,43.710279,-98.025474,43.710279",
+    "geom:latitude":43.710279,
+    "geom:longitude":-98.025474,
+    "iso:country":"US",
+    "sg:address":"118 N Main St",
+    "sg:city":"Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 996 5612",
+    "sg:postcode":"57301",
+    "sg:province":"SD",
+    "sg:tags":[
+        "leather",
+        "parlor",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721597,
+        102086045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LLDduGoPePKQdLtUsk8df_43.710279_-98.025474@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2935e35e1da3bad1b0264e5f3cb432dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086045,
+            "locality_id":101721597,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371165777
+        }
+    ],
+    "wof:id":371165777,
+    "wof:lastmodified":1449050144,
+    "wof:name":"Charlie's Shoe Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather",
+        "parlor",
+        "good"
+    ]
+},
+  "bbox": [-98.025474,43.710279,-98.025474,43.710279],
+  "geometry": {"coordinates":[-98.025474,43.710279],"type":"Point"}
+}

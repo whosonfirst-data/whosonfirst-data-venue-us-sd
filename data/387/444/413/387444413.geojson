@@ -1,0 +1,69 @@
+{
+  "id": 387444413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642483,44.57636,-96.642483,44.57636",
+    "geom:latitude":44.57636,
+    "geom:longitude":-96.642483,
+    "iso:country":"US",
+    "sg:address":"202 Dakota St",
+    "sg:city":"Milbank",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 432 6032",
+    "sg:postcode":"57268",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721549,
+        102086025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f2IJavHVMxCm9nZjx61X8_44.576360_-96.642483@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abe5807ffeebbb52ec98a531d7b053f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086025,
+            "locality_id":101721549,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387444413
+        }
+    ],
+    "wof:id":387444413,
+    "wof:lastmodified":1449059402,
+    "wof:name":"Al's Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-96.642483,44.57636,-96.642483,44.57636],
+  "geometry": {"coordinates":[-96.642483,44.57636],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387492747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.221913,44.098363,-103.221913,44.098363",
+    "geom:latitude":44.098363,
+    "geom:longitude":-103.221913,
+    "iso:country":"US",
+    "sg:address":"1315 N Haines Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 5121",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ke4SVlT2uIkfRd4G1mVI_44.098363_-103.221913@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cdb9fa6057fd9d9111b97b0df46b4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387492747
+        }
+    ],
+    "wof:id":387492747,
+    "wof:lastmodified":1449056107,
+    "wof:name":"Laundry World",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-103.221913,44.098363,-103.221913,44.098363],
+  "geometry": {"coordinates":[-103.221913,44.098363],"type":"Point"}
+}

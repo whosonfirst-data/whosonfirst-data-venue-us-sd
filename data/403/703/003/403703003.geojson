@@ -1,0 +1,69 @@
+{
+  "id": 403703003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.146179,44.902478,-97.146179,44.902478",
+    "geom:latitude":44.902478,
+    "geom:longitude":-97.146179,
+    "iso:country":"US",
+    "sg:address":"2002 W Kemp Ave",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 886 8981",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grain",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Va6ow7ujI5Kqkaall8s6H_44.902478_-97.146179@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cc0c2eb6e2d2d45487b4b9c096760b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403703003
+        }
+    ],
+    "wof:id":403703003,
+    "wof:lastmodified":1449055049,
+    "wof:name":"Ristvedt Trucking & Grain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-97.146179,44.902478,-97.146179,44.902478],
+  "geometry": {"coordinates":[-97.146179,44.902478],"type":"Point"}
+}

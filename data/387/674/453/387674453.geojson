@@ -1,0 +1,66 @@
+{
+  "id": 387674453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.211868,44.089326,-103.211868,44.089326",
+    "geom:latitude":44.089326,
+    "geom:longitude":-103.211868,
+    "iso:country":"US",
+    "sg:address":"25 E Madison St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 3495",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x9jQvzMNqYjFwfO8RPLlG_44.089326_-103.211868@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aebcd354986f14d18f03afd329118687",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387674453
+        }
+    ],
+    "wof:id":387674453,
+    "wof:lastmodified":1449058954,
+    "wof:name":"Marc's Computers",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-103.211868,44.089326,-103.211868,44.089326],
+  "geometry": {"coordinates":[-103.211868,44.089326],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387648995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.754689,43.543878,-96.754689,43.543878",
+    "geom:latitude":43.543878,
+    "geom:longitude":-96.754689,
+    "iso:country":"US",
+    "sg:address":"2115 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 7546",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VmUYBErcDjU5FocFdzZdJ_43.543878_-96.754689@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e50b3df778dd5c021f3860c80c943a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387648995
+        }
+    ],
+    "wof:id":387648995,
+    "wof:lastmodified":1449057137,
+    "wof:name":"Sioux Falls Upholstery",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-96.754689,43.543878,-96.754689,43.543878],
+  "geometry": {"coordinates":[-96.754689,43.543878],"type":"Point"}
+}

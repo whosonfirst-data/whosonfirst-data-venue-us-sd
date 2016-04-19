@@ -1,0 +1,68 @@
+{
+  "id": 386953597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691495,43.548322,-96.691495,43.548322",
+    "geom:latitude":43.548322,
+    "geom:longitude":-96.691495,
+    "iso:country":"US",
+    "sg:address":"111 N Cleveland Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 5065",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q0a5SvBEHvZHZzVC85Row_43.548322_-96.691495@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f221e66b7d96f6a38b77cffb1e2bd170",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":386953597
+        }
+    ],
+    "wof:id":386953597,
+    "wof:lastmodified":1449028834,
+    "wof:name":"Cedar House Apartments",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.691495,43.548322,-96.691495,43.548322],
+  "geometry": {"coordinates":[-96.691495,43.548322],"type":"Point"}
+}

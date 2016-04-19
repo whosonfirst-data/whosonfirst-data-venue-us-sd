@@ -1,0 +1,65 @@
+{
+  "id": 371141525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710191,43.824358,-96.710191,43.824358",
+    "geom:latitude":43.824358,
+    "geom:longitude":-96.710191,
+    "iso:country":"US",
+    "sg:address":"502 E 5th St",
+    "sg:city":"Dell Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 428 6100",
+    "sg:postcode":"57022",
+    "sg:province":"SD",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2befxTUrDiwZxtujontavF_43.824358_-96.710191@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb2dc90d3a2526a1599f9f63e4cbb14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":371141525
+        }
+    ],
+    "wof:id":371141525,
+    "wof:lastmodified":1449049376,
+    "wof:name":"Ambulance Service",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [-96.710191,43.824358,-96.710191,43.824358],
+  "geometry": {"coordinates":[-96.710191,43.824358],"type":"Point"}
+}

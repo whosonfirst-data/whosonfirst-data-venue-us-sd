@@ -1,0 +1,74 @@
+{
+  "id": 387792653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.498914,45.447639,-98.498914,45.447639",
+    "geom:latitude":45.447639,
+    "geom:longitude":-98.498914,
+    "iso:country":"US",
+    "sg:address":"1615 S 8th St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 0275",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4URZEAXKNd3VUz6TT9XrNy_45.447639_-98.498914@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cc616f16b4ee347fc8fa4a77292aa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387792653
+        }
+    ],
+    "wof:id":387792653,
+    "wof:lastmodified":1449056914,
+    "wof:name":"Hales Ready Mix",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [-98.498914,45.447639,-98.498914,45.447639],
+  "geometry": {"coordinates":[-98.498914,45.447639],"type":"Point"}
+}

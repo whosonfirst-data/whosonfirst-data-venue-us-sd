@@ -1,0 +1,68 @@
+{
+  "id": 387147001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731201,43.534993,-96.731201,43.534993",
+    "geom:latitude":43.534993,
+    "geom:longitude":-96.731201,
+    "iso:country":"US",
+    "sg:address":"1112 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 9832",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dbH6sovsm7pgrj4FegFSH_43.534993_-96.731201@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd67022d716b621f026a4a21bded6cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387147001
+        }
+    ],
+    "wof:id":387147001,
+    "wof:lastmodified":1449059499,
+    "wof:name":"Midwest Dance Center",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-96.731201,43.534993,-96.731201,43.534993],
+  "geometry": {"coordinates":[-96.731201,43.534993],"type":"Point"}
+}

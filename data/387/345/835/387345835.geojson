@@ -1,0 +1,65 @@
+{
+  "id": 387345835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.520031,45.328176,-97.520031,45.328176",
+    "geom:latitude":45.328176,
+    "geom:longitude":-97.520031,
+    "iso:country":"US",
+    "sg:address":"202 Main St",
+    "sg:city":"Brandt",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 876 3811",
+    "sg:postcode":"57274",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721991,
+        102086871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BgWXfKjbrfDygGSemiIgC_45.328176_-97.520031@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d334ac16d3d9bf0f730a67c6b6751b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086871,
+            "locality_id":101721991,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387345835
+        }
+    ],
+    "wof:id":387345835,
+    "wof:lastmodified":1449059615,
+    "wof:name":"Brandt Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [-97.520031,45.328176,-97.520031,45.328176],
+  "geometry": {"coordinates":[-97.520031,45.328176],"type":"Point"}
+}

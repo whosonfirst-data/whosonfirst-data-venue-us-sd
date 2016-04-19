@@ -1,0 +1,70 @@
+{
+  "id": 403721173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.942727,43.627643,-96.942727,43.627643",
+    "geom:latitude":43.627643,
+    "geom:longitude":-96.942727,
+    "iso:country":"US",
+    "sg:address":"303 E 6th St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 528 3876",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56qBvo4TicBTZFEV9Q9UU2_43.627643_-96.942727@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a25b28fce222a1b09429b23acd5aed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":403721173
+        }
+    ],
+    "wof:id":403721173,
+    "wof:lastmodified":1449055959,
+    "wof:name":"Pampered Pets",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-96.942727,43.627643,-96.942727,43.627643],
+  "geometry": {"coordinates":[-96.942727,43.627643],"type":"Point"}
+}

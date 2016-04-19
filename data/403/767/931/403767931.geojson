@@ -1,0 +1,71 @@
+{
+  "id": 403767931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.130689,44.07399,-103.130689,44.07399",
+    "geom:latitude":44.07399,
+    "geom:longitude":-103.130689,
+    "iso:country":"US",
+    "sg:address":"5606 S Pitch Ct",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 393 0907",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gRNW47Cug3nLahHeNDb1C_44.073990_-103.130689@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e5eb027a7a43025b17c4db603c9bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":403767931
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403767931
+        }
+    ],
+    "wof:id":403767931,
+    "wof:lastmodified":1449055030,
+    "wof:name":"Campbell Custom Sporting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-103.130689,44.07399,-103.130689,44.07399],
+  "geometry": {"coordinates":[-103.130689,44.07399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387861821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82628,43.450908,-96.82628,43.450908",
+    "geom:latitude":43.450908,
+    "geom:longitude":-96.82628,
+    "iso:country":"US",
+    "sg:address":"27168 469th Ave",
+    "sg:city":"Tea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 498 5000",
+    "sg:postcode":"57064",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722075,
+        102086863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yiBKcqC3XEs9kh3znBFc9_43.450908_-96.826280@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b97ec554dd167210bfb28ea38c51a6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722075,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387861821
+        }
+    ],
+    "wof:id":387861821,
+    "wof:lastmodified":1449059896,
+    "wof:name":"Steve's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.82628,43.450908,-96.82628,43.450908],
+  "geometry": {"coordinates":[-96.82628,43.450908],"type":"Point"}
+}

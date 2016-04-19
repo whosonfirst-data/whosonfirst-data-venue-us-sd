@@ -1,0 +1,68 @@
+{
+  "id": 387805009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.505678,45.456939,-98.505678,45.456939",
+    "geom:latitude":45.456939,
+    "geom:longitude":-98.505678,
+    "iso:country":"US",
+    "sg:address":"820 S 12th St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 2225",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ST1vJnCtlOes2EadH353C_45.456939_-98.505678@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b63e3d9b71ce644f19ff16cc6f60d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387805009
+        }
+    ],
+    "wof:id":387805009,
+    "wof:lastmodified":1449057373,
+    "wof:name":"M C R Painting",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [-98.505678,45.456939,-98.505678,45.456939],
+  "geometry": {"coordinates":[-98.505678,45.456939],"type":"Point"}
+}

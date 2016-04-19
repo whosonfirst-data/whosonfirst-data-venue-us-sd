@@ -1,0 +1,68 @@
+{
+  "id": 387688271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.279769,44.066364,-103.279769,44.066364",
+    "geom:latitude":44.066364,
+    "geom:longitude":-103.279769,
+    "iso:country":"US",
+    "sg:address":"1920 Freemont St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 8828",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OctmUKXorNsFKP5DgkgXI_44.066364_-103.279769@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d60ba7013ed3cab2ca590a2fd780a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387688271
+        }
+    ],
+    "wof:id":387688271,
+    "wof:lastmodified":1449057524,
+    "wof:name":"Fremont Apartments",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-103.279769,44.066364,-103.279769,44.066364],
+  "geometry": {"coordinates":[-103.279769,44.066364],"type":"Point"}
+}

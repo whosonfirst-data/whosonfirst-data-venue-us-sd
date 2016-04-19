@@ -1,0 +1,66 @@
+{
+  "id": 387256303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73241,43.524315,-96.73241,43.524315",
+    "geom:latitude":43.524315,
+    "geom:longitude":-96.73241,
+    "iso:country":"US",
+    "sg:address":"2122 S Spring Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 988 0910",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H870s8M5Lh2fNfK7IGz0D_43.524315_-96.732410@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffe3fff66f8ca5c7f567d3f240b92142",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387256303
+        }
+    ],
+    "wof:id":387256303,
+    "wof:lastmodified":1449058999,
+    "wof:name":"Sioux Falls Physical Medicine",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-96.73241,43.524315,-96.73241,43.524315],
+  "geometry": {"coordinates":[-96.73241,43.524315],"type":"Point"}
+}

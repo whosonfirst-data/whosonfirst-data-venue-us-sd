@@ -1,0 +1,70 @@
+{
+  "id": 387389203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.773258,43.52053,-96.773258,43.52053",
+    "geom:latitude":43.52053,
+    "geom:longitude":-96.773258,
+    "iso:country":"US",
+    "sg:address":"4001 W 34th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 362 8388",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JEL154SVS0oZO48BuliNd_43.520530_-96.773258@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3f52a2f4d7c4287f31b26b7be51b150",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387389203
+        }
+    ],
+    "wof:id":387389203,
+    "wof:lastmodified":1449059138,
+    "wof:name":"ABRA Autobody & Glass",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-96.773258,43.52053,-96.773258,43.52053],
+  "geometry": {"coordinates":[-96.773258,43.52053],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387959749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.229003,44.051215,-103.229003,44.051215",
+    "geom:latitude":44.051215,
+    "geom:longitude":-103.229003,
+    "iso:country":"US",
+    "sg:address":"531 Fox Run Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 9136",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W8RnJd4kBoEJ9yTNwDAkr_44.051215_-103.229003@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7568ba9109b2c148702a189da7360ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387959749
+        }
+    ],
+    "wof:id":387959749,
+    "wof:lastmodified":1449059536,
+    "wof:name":"Ahrlin Orthopedics",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.229003,44.051215,-103.229003,44.051215],
+  "geometry": {"coordinates":[-103.229003,44.051215],"type":"Point"}
+}

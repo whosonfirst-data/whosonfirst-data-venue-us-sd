@@ -1,0 +1,68 @@
+{
+  "id": 371015893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751137,43.508371,-96.751137,43.508371",
+    "geom:latitude":43.508371,
+    "geom:longitude":-96.751137,
+    "iso:country":"US",
+    "sg:address":"2109 W 49th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 376 6350",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T5TjGq1G21oRXC0KerjGM_43.508371_-96.751137@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3f6e8892d136d5870b12f0f046f4dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371015893
+        }
+    ],
+    "wof:id":371015893,
+    "wof:lastmodified":1449049283,
+    "wof:name":"Dance Expressions",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-96.751137,43.508371,-96.751137,43.508371],
+  "geometry": {"coordinates":[-96.751137,43.508371],"type":"Point"}
+}

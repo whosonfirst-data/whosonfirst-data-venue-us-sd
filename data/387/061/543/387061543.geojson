@@ -1,0 +1,66 @@
+{
+  "id": 387061543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.712503,43.533117,-96.712503,43.533117",
+    "geom:latitude":43.533117,
+    "geom:longitude":-96.712503,
+    "iso:country":"US",
+    "sg:address":"1405 S 10th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 6711",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZSbX31Tc5O3TbdwElQmqs_43.533117_-96.712503@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf533b5c8df9a34cb7550ef511066876",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387061543
+        }
+    ],
+    "wof:id":387061543,
+    "wof:lastmodified":1449058858,
+    "wof:name":"Sioux Falls Ambulance Inc",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-96.712503,43.533117,-96.712503,43.533117],
+  "geometry": {"coordinates":[-96.712503,43.533117],"type":"Point"}
+}

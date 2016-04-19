@@ -1,0 +1,65 @@
+{
+  "id": 386979913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.593293,43.772126,-103.593293,43.772126",
+    "geom:latitude":43.772126,
+    "geom:longitude":-103.593293,
+    "iso:country":"US",
+    "sg:address":"1041 Montgomery St",
+    "sg:city":"Custer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 673 4150",
+    "sg:postcode":"57730",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721981,
+        102086009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NZXnQ4Am14pJ1HY3H8oLs_43.772126_-103.593293@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c623b7462a0de3bdff972ddf39c92ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086009,
+            "locality_id":101721981,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386979913
+        }
+    ],
+    "wof:id":386979913,
+    "wof:lastmodified":1449028846,
+    "wof:name":"Custer Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-103.593293,43.772126,-103.593293,43.772126],
+  "geometry": {"coordinates":[-103.593293,43.772126],"type":"Point"}
+}

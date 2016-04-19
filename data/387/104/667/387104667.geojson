@@ -1,0 +1,67 @@
+{
+  "id": 387104667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.225607,44.365418,-98.225607,44.365418",
+    "geom:latitude":44.365418,
+    "geom:longitude":-98.225607,
+    "iso:country":"US",
+    "sg:address":"120 Wyoming Ave SW",
+    "sg:city":"Huron",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 353 0100",
+    "sg:postcode":"57350",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721873,
+        102086841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xJzRVupf1rEY3PRjHooFm_44.365418_-98.225607@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63f2c4f9835254fcac4b3f623d6756fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086841,
+            "locality_id":101721873,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387104667
+        }
+    ],
+    "wof:id":387104667,
+    "wof:lastmodified":1449057672,
+    "wof:name":"People's Transit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-98.225607,44.365418,-98.225607,44.365418],
+  "geometry": {"coordinates":[-98.225607,44.365418],"type":"Point"}
+}

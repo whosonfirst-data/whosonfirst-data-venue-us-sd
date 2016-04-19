@@ -1,0 +1,68 @@
+{
+  "id": 403787163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.686273,43.524033,-96.686273,43.524033",
+    "geom:latitude":43.524033,
+    "geom:longitude":-96.686273,
+    "iso:country":"US",
+    "sg:address":"2316 S Holt Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 351 5987",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinical",
+        "psychology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i8tbfQ8GoBjtfs6sTUYH3_43.524033_-96.686273@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1b6714ae52973a3a38bb00dada5effb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":403787163
+        }
+    ],
+    "wof:id":403787163,
+    "wof:lastmodified":1449055241,
+    "wof:name":"McGrath Clinic",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinical",
+        "psychology"
+    ]
+},
+  "bbox": [-96.686273,43.524033,-96.686273,43.524033],
+  "geometry": {"coordinates":[-96.686273,43.524033],"type":"Point"}
+}

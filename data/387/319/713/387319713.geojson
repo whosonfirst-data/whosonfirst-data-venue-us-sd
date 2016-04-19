@@ -1,0 +1,65 @@
+{
+  "id": 387319713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.512134,44.413456,-103.512134,44.413456",
+    "geom:latitude":44.413456,
+    "geom:longitude":-103.512134,
+    "iso:country":"US",
+    "sg:address":"1147 Sherman St",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 347 2558",
+    "sg:postcode":"57785",
+    "sg:province":"SD",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722091,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y0OvnDnPFoSck9P03q4Fb_44.413456_-103.512134@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7177ae874006253b38193571f7db06ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722091,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387319713
+        }
+    ],
+    "wof:id":387319713,
+    "wof:lastmodified":1449057661,
+    "wof:name":"Sturgis Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-103.512134,44.413456,-103.512134,44.413456],
+  "geometry": {"coordinates":[-103.512134,44.413456],"type":"Point"}
+}

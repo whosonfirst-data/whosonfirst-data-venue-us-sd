@@ -1,0 +1,66 @@
+{
+  "id": 371000051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751021,43.515048,-96.751021,43.515048",
+    "geom:latitude":43.515048,
+    "geom:longitude":-96.751021,
+    "iso:country":"US",
+    "sg:address":"3220 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 9054",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OB3PDavFB8oyDBMaNFCFv_43.515048_-96.751021@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39f8e82c8a8416e5ac69ee5a11e90f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371000051
+        }
+    ],
+    "wof:id":371000051,
+    "wof:lastmodified":1449049202,
+    "wof:name":"Learning Solutions-Sioux Fls",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [-96.751021,43.515048,-96.751021,43.515048],
+  "geometry": {"coordinates":[-96.751021,43.515048],"type":"Point"}
+}

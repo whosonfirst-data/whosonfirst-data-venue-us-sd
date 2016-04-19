@@ -1,0 +1,69 @@
+{
+  "id": 403712269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.8376,43.445656,-96.8376,43.445656",
+    "geom:latitude":43.445656,
+    "geom:longitude":-96.8376,
+    "iso:country":"US",
+    "sg:address":"112 W 2nd St",
+    "sg:city":"Tea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 498 5192",
+    "sg:postcode":"57064",
+    "sg:province":"SD",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722075,
+        102086863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BPG2JMazd927HUm9jzGks_43.445656_-96.837600@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51440f860fc9a0705ed24052a83000c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722075,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403712269
+        }
+    ],
+    "wof:id":403712269,
+    "wof:lastmodified":1449055205,
+    "wof:name":"Tea Planning & Zoning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [-96.8376,43.445656,-96.8376,43.445656],
+  "geometry": {"coordinates":[-96.8376,43.445656],"type":"Point"}
+}

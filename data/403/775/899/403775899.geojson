@@ -1,0 +1,68 @@
+{
+  "id": 403775899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.199545,44.045781,-103.199545,44.045781",
+    "geom:latitude":44.045781,
+    "geom:longitude":-103.199545,
+    "iso:country":"US",
+    "sg:address":"4001 Derby Ln",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 718 3600",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34lIFNGfWPUU7pSLUq6wvQ_44.045781_-103.199545@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d3ccf962046a4695f5d1dee67f16db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403775899
+        }
+    ],
+    "wof:id":403775899,
+    "wof:lastmodified":1449055598,
+    "wof:name":"Somerset Court",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [-103.199545,44.045781,-103.199545,44.045781],
+  "geometry": {"coordinates":[-103.199545,44.045781],"type":"Point"}
+}

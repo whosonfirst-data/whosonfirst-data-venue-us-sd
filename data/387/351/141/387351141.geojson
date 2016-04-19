@@ -1,0 +1,78 @@
+{
+  "id": 387351141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.193049,44.078368,-103.193049,44.078368",
+    "geom:latitude":44.078368,
+    "geom:longitude":-103.193049,
+    "iso:country":"US",
+    "sg:address":"601 E Centre St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 2188",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OuG63RpUzaY0FatGklgar_44.078368_-103.193049@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16218cbda2269940635a842709e406a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387351141
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387351141
+        }
+    ],
+    "wof:id":387351141,
+    "wof:lastmodified":1449059356,
+    "wof:name":"South Dakota State University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [-103.193049,44.078368,-103.193049,44.078368],
+  "geometry": {"coordinates":[-103.193049,44.078368],"type":"Point"}
+}

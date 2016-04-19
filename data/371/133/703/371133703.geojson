@@ -1,0 +1,76 @@
+{
+  "id": 371133703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.198125,44.081498,-103.198125,44.081498",
+    "geom:latitude":44.081498,
+    "geom:longitude":-103.198125,
+    "iso:country":"US",
+    "sg:address":"610 E Omaha St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 3550",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rzFkhFufc41K2AT7LCgT9_44.081498_-103.198125@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02abc153687e620884e4461a0383a859",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":371133703
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371133703
+        }
+    ],
+    "wof:id":371133703,
+    "wof:lastmodified":1449049928,
+    "wof:name":"Sysco Foods Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-103.198125,44.081498,-103.198125,44.081498],
+  "geometry": {"coordinates":[-103.198125,44.081498],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387775715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.23522,44.092961,-103.23522,44.092961",
+    "geom:latitude":44.092961,
+    "geom:longitude":-103.23522,
+    "iso:country":"US",
+    "sg:address":"811 Silver St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 3317",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f90coqAqv37yn7waO0qUo_44.092961_-103.235220@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e05f564e30df0a2c82f0ea8f3380740",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387775715
+        }
+    ],
+    "wof:id":387775715,
+    "wof:lastmodified":1449058921,
+    "wof:name":"Above & Beyond Cleaning Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-103.23522,44.092961,-103.23522,44.092961],
+  "geometry": {"coordinates":[-103.23522,44.092961],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 370978249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.08908,44.087456,-103.08908,44.087456",
+    "geom:latitude":44.087456,
+    "geom:longitude":-103.08908,
+    "iso:country":"US",
+    "sg:address":"22865 Radar Hill Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 923 1279",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o1pHG6LJQtxgLpjNqu3pu_44.087456_-103.089080@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aafa464370ce625b96d7578c957d93e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":370978249
+        }
+    ],
+    "wof:id":370978249,
+    "wof:lastmodified":1449031025,
+    "wof:name":"Olson Auto",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-103.08908,44.087456,-103.08908,44.087456],
+  "geometry": {"coordinates":[-103.08908,44.087456],"type":"Point"}
+}

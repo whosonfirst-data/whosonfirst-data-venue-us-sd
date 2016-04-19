@@ -1,0 +1,70 @@
+{
+  "id": 387181273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.745065,43.53909,-96.745065,43.53909",
+    "geom:latitude":43.53909,
+    "geom:longitude":-96.745065,
+    "iso:country":"US",
+    "sg:address":"711 S Lake Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 4477",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41sfMAWRgbPORl88xIsjqb_43.539090_-96.745065@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd2c101855b679a7dfce854e2f74330c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387181273
+        }
+    ],
+    "wof:id":387181273,
+    "wof:lastmodified":1449058439,
+    "wof:name":"H3 Trucking Inc",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.745065,43.53909,-96.745065,43.53909],
+  "geometry": {"coordinates":[-96.745065,43.53909],"type":"Point"}
+}

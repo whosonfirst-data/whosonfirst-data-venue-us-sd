@@ -1,0 +1,68 @@
+{
+  "id": 387835833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.265119,44.044171,-103.265119,44.044171",
+    "geom:latitude":44.044171,
+    "geom:longitude":-103.265119,
+    "iso:country":"US",
+    "sg:address":"4211 Pinehurst Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 8853",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tBXlbuFaeKAwqpDctA86A_44.044171_-103.265119@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e78c7e747547461749681f650f90d37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387835833
+        }
+    ],
+    "wof:id":387835833,
+    "wof:lastmodified":1449056644,
+    "wof:name":"Abourezk Brothers",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-103.265119,44.044171,-103.265119,44.044171],
+  "geometry": {"coordinates":[-103.265119,44.044171],"type":"Point"}
+}

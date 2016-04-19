@@ -1,0 +1,70 @@
+{
+  "id": 387142851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.774745,43.565427,-96.774745,43.565427",
+    "geom:latitude":43.565427,
+    "geom:longitude":-96.774745,
+    "iso:country":"US",
+    "sg:address":"3404 W Teem Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 3927",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IkUsy2AEfjNohSwWdnD1_43.565427_-96.774745@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a4dbd07880d873f508199868feaab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387142851
+        }
+    ],
+    "wof:id":387142851,
+    "wof:lastmodified":1449059155,
+    "wof:name":"Jay's Body Shop",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-96.774745,43.565427,-96.774745,43.565427],
+  "geometry": {"coordinates":[-96.774745,43.565427],"type":"Point"}
+}

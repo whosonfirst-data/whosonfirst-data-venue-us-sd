@@ -1,0 +1,65 @@
+{
+  "id": 387250931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.389845,44.232331,-103.389845,44.232331",
+    "geom:latitude":44.232331,
+    "geom:longitude":-103.389845,
+    "iso:country":"US",
+    "sg:address":"111 N 2nd St",
+    "sg:city":"Piedmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 787 5121",
+    "sg:postcode":"57769",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722081,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aQtuPDE4IUi2PmHSIEXXk_44.232331_-103.389845@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc9ded22feaa3de374c16f7602ee6a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722081,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387250931
+        }
+    ],
+    "wof:id":387250931,
+    "wof:lastmodified":1449058276,
+    "wof:name":"Piedmont Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.389845,44.232331,-103.389845,44.232331],
+  "geometry": {"coordinates":[-103.389845,44.232331],"type":"Point"}
+}

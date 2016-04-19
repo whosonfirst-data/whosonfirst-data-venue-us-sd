@@ -1,0 +1,68 @@
+{
+  "id": 387569537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751005,43.511578,-96.751005,43.511578",
+    "geom:latitude":43.511578,
+    "geom:longitude":-96.751005,
+    "iso:country":"US",
+    "sg:address":"3538 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 988 9999",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19wJDvmev6YvFjhEdiDSqL_43.511578_-96.751005@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"782aada899b2f1b3b6e71ac33b0460f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387569537
+        }
+    ],
+    "wof:id":387569537,
+    "wof:lastmodified":1449059765,
+    "wof:name":"Aaron's Rental Purchase",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [-96.751005,43.511578,-96.751005,43.511578],
+  "geometry": {"coordinates":[-96.751005,43.511578],"type":"Point"}
+}

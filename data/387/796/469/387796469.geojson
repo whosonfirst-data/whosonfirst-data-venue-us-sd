@@ -1,0 +1,68 @@
+{
+  "id": 387796469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72144,43.57257,-96.72144,43.57257",
+    "geom:latitude":43.57257,
+    "geom:longitude":-96.72144,
+    "iso:country":"US",
+    "sg:address":"2113 N 4th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 1231",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E0xPkJYaGAZMnOnLRjF04_43.572570_-96.721440@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ba9d6afa297a40142f9c2792a038ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387796469
+        }
+    ],
+    "wof:id":387796469,
+    "wof:lastmodified":1449057903,
+    "wof:name":"Lambert Heating & Air Cond",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-96.72144,43.57257,-96.72144,43.57257],
+  "geometry": {"coordinates":[-96.72144,43.57257],"type":"Point"}
+}

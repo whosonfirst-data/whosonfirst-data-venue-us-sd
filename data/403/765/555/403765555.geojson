@@ -1,0 +1,67 @@
+{
+  "id": 403765555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.306319,44.151706,-103.306319,44.151706",
+    "geom:latitude":44.151706,
+    "geom:longitude":-103.306319,
+    "iso:country":"US",
+    "sg:address":"7101 Sunrise Ln",
+    "sg:city":"Black Hawk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 787 4531",
+    "sg:postcode":"57718",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722341,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32PSpSsIRegca1zC1FFuRO_44.151706_-103.306319@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09bd16c9ee7781ecd6ca80fc892cbcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722341,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403765555
+        }
+    ],
+    "wof:id":403765555,
+    "wof:lastmodified":1449055401,
+    "wof:name":"Black Hawk Plumbing Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-103.306319,44.151706,-103.306319,44.151706],
+  "geometry": {"coordinates":[-103.306319,44.151706],"type":"Point"}
+}

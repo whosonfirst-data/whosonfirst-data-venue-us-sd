@@ -1,0 +1,66 @@
+{
+  "id": 387904099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.679802,43.52512,-96.679802,43.52512",
+    "geom:latitude":43.52512,
+    "geom:longitude":-96.679802,
+    "iso:country":"US",
+    "sg:address":"3709 E Oak St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 371 8784",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZfdeF6362YKfy6qqcURrw_43.525120_-96.679802@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f818d8cdd9c89292c9f3976fe60d5d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387904099
+        }
+    ],
+    "wof:id":387904099,
+    "wof:lastmodified":1449060003,
+    "wof:name":"Terraeration Septic Renewal",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [-96.679802,43.52512,-96.679802,43.52512],
+  "geometry": {"coordinates":[-96.679802,43.52512],"type":"Point"}
+}

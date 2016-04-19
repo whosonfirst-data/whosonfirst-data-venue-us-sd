@@ -1,0 +1,71 @@
+{
+  "id": 371147363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.486686,45.461061,-98.486686,45.461061",
+    "geom:latitude":45.461061,
+    "geom:longitude":-98.486686,
+    "iso:country":"US",
+    "sg:address":"404 S Lincoln St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 622 7073",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zdhs0hW2X8l9czTaui9G1_45.461061_-98.486686@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6c9cebc1d822d173420c8adb991604c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":371147363
+        }
+    ],
+    "wof:id":371147363,
+    "wof:lastmodified":1449050014,
+    "wof:name":"Software Innovations",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [-98.486686,45.461061,-98.486686,45.461061],
+  "geometry": {"coordinates":[-98.486686,45.461061],"type":"Point"}
+}

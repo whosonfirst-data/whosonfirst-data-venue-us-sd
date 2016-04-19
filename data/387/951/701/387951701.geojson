@@ -1,0 +1,68 @@
+{
+  "id": 387951701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.226497,44.08297,-103.226497,44.08297",
+    "geom:latitude":44.08297,
+    "geom:longitude":-103.226497,
+    "iso:country":"US",
+    "sg:address":"333 6th St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 6631",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FrYM17D5vP7OJFGorVJvy_44.082970_-103.226497@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbcb0f9b594fb5541e4b7fbd55857556",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387951701
+        }
+    ],
+    "wof:id":387951701,
+    "wof:lastmodified":1449056288,
+    "wof:name":"Rapid Transit System",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-103.226497,44.08297,-103.226497,44.08297],
+  "geometry": {"coordinates":[-103.226497,44.08297],"type":"Point"}
+}

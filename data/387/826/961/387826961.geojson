@@ -1,0 +1,68 @@
+{
+  "id": 387826961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72796,43.564158,-96.72796,43.564158",
+    "geom:latitude":43.564158,
+    "geom:longitude":-96.72796,
+    "iso:country":"US",
+    "sg:address":"1338 North Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 271 1415",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32QWcztegAngpe4USEFB1S_43.564158_-96.727960@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24e8ec22df9145647a62dbc95cb5d65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387826961
+        }
+    ],
+    "wof:id":387826961,
+    "wof:lastmodified":1449058876,
+    "wof:name":"L A Auto Shop",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.72796,43.564158,-96.72796,43.564158],
+  "geometry": {"coordinates":[-96.72796,43.564158],"type":"Point"}
+}

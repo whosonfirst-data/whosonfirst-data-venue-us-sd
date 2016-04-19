@@ -1,0 +1,67 @@
+{
+  "id": 387289499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.339569,45.459205,-98.339569,45.459205",
+    "geom:latitude":45.459205,
+    "geom:longitude":-98.339569,
+    "iso:country":"US",
+    "sg:address":"39456 133rd St",
+    "sg:city":"Bath",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 0310",
+    "sg:postcode":"57427",
+    "sg:province":"SD",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.northernelectric.coop",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MeYdyUrpcEgEmjqcltX6k_45.459205_-98.339569@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc29c14d748e1943d736ad41d5cb553c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387289499
+        }
+    ],
+    "wof:id":387289499,
+    "wof:lastmodified":1449059292,
+    "wof:name":"Northern Electric Co-Operative",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [-98.339569,45.459205,-98.339569,45.459205],
+  "geometry": {"coordinates":[-98.339569,45.459205],"type":"Point"}
+}

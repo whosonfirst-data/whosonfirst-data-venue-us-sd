@@ -1,0 +1,68 @@
+{
+  "id": 387210641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.761211,43.519899,-96.761211,43.519899",
+    "geom:latitude":43.519899,
+    "geom:longitude":-96.761211,
+    "iso:country":"US",
+    "sg:address":"2701 S Kiwanis Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 6645",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fRUijWua9mkJEci0zUdMn_43.519899_-96.761211@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01a011377d68eb6a149cf23faf2c3ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387210641
+        }
+    ],
+    "wof:id":387210641,
+    "wof:lastmodified":1449057392,
+    "wof:name":"Vilhauer Physcl Therapy Clinic",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-96.761211,43.519899,-96.761211,43.519899],
+  "geometry": {"coordinates":[-96.761211,43.519899],"type":"Point"}
+}

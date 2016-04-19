@@ -1,0 +1,70 @@
+{
+  "id": 370980375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.755704,43.539173,-96.755704,43.539173",
+    "geom:latitude":43.539173,
+    "geom:longitude":-96.755704,
+    "iso:country":"US",
+    "sg:address":"2021 W 16th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 8878",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U39C8yuYIdhHqKtok8alY_43.539173_-96.755704@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a1b6a2e1a966d269e1d154bc309ffe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":370980375
+        }
+    ],
+    "wof:id":370980375,
+    "wof:lastmodified":1449029307,
+    "wof:name":"T J Smith Trucking",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.755704,43.539173,-96.755704,43.539173],
+  "geometry": {"coordinates":[-96.755704,43.539173],"type":"Point"}
+}

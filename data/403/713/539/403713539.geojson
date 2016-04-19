@@ -1,0 +1,66 @@
+{
+  "id": 403713539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488122,45.455813,-98.488122,45.455813",
+    "geom:latitude":45.455813,
+    "geom:longitude":-98.488122,
+    "iso:country":"US",
+    "sg:address":"924 S Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 9921",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h0HJCCnmCa6O4wGq8YD5L_45.455813_-98.488122@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"528d0082dbeb6ff012c90c45af3d4b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403713539
+        }
+    ],
+    "wof:id":403713539,
+    "wof:lastmodified":1449055845,
+    "wof:name":"South Main Launder-Mat",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-98.488122,45.455813,-98.488122,45.455813],
+  "geometry": {"coordinates":[-98.488122,45.455813],"type":"Point"}
+}

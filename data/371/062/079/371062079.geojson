@@ -1,0 +1,68 @@
+{
+  "id": 371062079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.712483,43.515951,-96.712483,43.515951",
+    "geom:latitude":43.515951,
+    "geom:longitude":-96.712483,
+    "iso:country":"US",
+    "sg:address":"707 E 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 9330",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z6caC1B1h42YkbaYf3CZk_43.515951_-96.712483@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7a6a199b7dd1795a59a1932de2fb93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371062079
+        }
+    ],
+    "wof:id":371062079,
+    "wof:lastmodified":1449050082,
+    "wof:name":"Deb Thompson LPC",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-96.712483,43.515951,-96.712483,43.515951],
+  "geometry": {"coordinates":[-96.712483,43.515951],"type":"Point"}
+}

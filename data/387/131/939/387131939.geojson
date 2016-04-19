@@ -1,0 +1,75 @@
+{
+  "id": 387131939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.770937,43.500409,-96.770937,43.500409",
+    "geom:latitude":43.500409,
+    "geom:longitude":-96.770937,
+    "iso:country":"US",
+    "sg:address":"4808 S Louise Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 357 0281",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JYE7G8WbvCX3sdmoAuIpf_43.500409_-96.770937@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e51570da025a9ee8d12f3b0c77fec55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387131939
+        }
+    ],
+    "wof:id":387131939,
+    "wof:lastmodified":1449057245,
+    "wof:name":"Pro Maintenance",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [-96.770937,43.500409,-96.770937,43.500409],
+  "geometry": {"coordinates":[-96.770937,43.500409],"type":"Point"}
+}

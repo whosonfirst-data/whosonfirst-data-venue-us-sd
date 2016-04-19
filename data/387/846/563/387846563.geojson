@@ -1,0 +1,67 @@
+{
+  "id": 387846563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191853,44.047911,-103.191853,44.047911",
+    "geom:latitude":44.047911,
+    "geom:longitude":-103.191853,
+    "iso:country":"US",
+    "sg:address":"3801 S Hwy 79",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 4019",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "sg:website":"www.rcas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s8o8eInxp6QhmCIP1M3Cn_44.047911_-103.191853@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74674a165ba0148f194a5e4ad751e45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387846563
+        }
+    ],
+    "wof:id":387846563,
+    "wof:lastmodified":1449059052,
+    "wof:name":"School Warehouse",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [-103.191853,44.047911,-103.191853,44.047911],
+  "geometry": {"coordinates":[-103.191853,44.047911],"type":"Point"}
+}

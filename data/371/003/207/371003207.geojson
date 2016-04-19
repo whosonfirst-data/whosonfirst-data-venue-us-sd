@@ -1,0 +1,67 @@
+{
+  "id": 371003207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.809343,44.472125,-103.809343,44.472125",
+    "geom:latitude":44.472125,
+    "geom:longitude":-103.809343,
+    "iso:country":"US",
+    "sg:address":"510 Heritage Dr",
+    "sg:city":"Spearfish",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 722 4711",
+    "sg:postcode":"57783",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722043,
+        102086813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sUadsocQdH4cbJkD6b12z_44.472125_-103.809343@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76b772a4ce433a96eae729c6554fbc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":101722043,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371003207
+        }
+    ],
+    "wof:id":371003207,
+    "wof:lastmodified":1449050065,
+    "wof:name":"Auto Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-103.809343,44.472125,-103.809343,44.472125],
+  "geometry": {"coordinates":[-103.809343,44.472125],"type":"Point"}
+}

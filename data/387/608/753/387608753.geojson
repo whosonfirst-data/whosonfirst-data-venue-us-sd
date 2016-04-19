@@ -1,0 +1,65 @@
+{
+  "id": 387608753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682531,42.685144,-96.682531,42.685144",
+    "geom:latitude":42.685144,
+    "geom:longitude":-96.682531,
+    "iso:country":"US",
+    "sg:address":"304 E Main St",
+    "sg:city":"Elk Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 356 3196",
+    "sg:postcode":"57025",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722145,
+        102086029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33L3yf0xCZH9GhD9btie2d_42.685144_-96.682531@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb62153c03027466aa2144ebe9e546a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086029,
+            "locality_id":101722145,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387608753
+        }
+    ],
+    "wof:id":387608753,
+    "wof:lastmodified":1449057730,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.682531,42.685144,-96.682531,42.685144],
+  "geometry": {"coordinates":[-96.682531,42.685144],"type":"Point"}
+}

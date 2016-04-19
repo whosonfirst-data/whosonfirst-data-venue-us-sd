@@ -1,0 +1,67 @@
+{
+  "id": 403713219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.328686,43.81313,-99.328686,43.81313",
+    "geom:latitude":43.81313,
+    "geom:longitude":-99.328686,
+    "iso:country":"US",
+    "sg:address":"314 N Main St",
+    "sg:city":"Chamberlain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 734 6459",
+    "sg:postcode":"57325",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722035,
+        102086817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BNt6HZzgs2XBYXh45AddH_43.813130_-99.328686@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29604cd205d328cbf38008fb572403a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086817,
+            "locality_id":101722035,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403713219
+        }
+    ],
+    "wof:id":403713219,
+    "wof:lastmodified":1449055847,
+    "wof:name":"Swanson's Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-99.328686,43.81313,-99.328686,43.81313],
+  "geometry": {"coordinates":[-99.328686,43.81313],"type":"Point"}
+}

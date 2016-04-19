@@ -1,0 +1,68 @@
+{
+  "id": 387625339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.741183,43.544806,-96.741183,43.544806",
+    "geom:latitude":43.544806,
+    "geom:longitude":-96.741183,
+    "iso:country":"US",
+    "sg:address":"210 S Grange Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 5411",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TFptcA5hY8OqWv2w2s35p_43.544806_-96.741183@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3aa2a375f61522116d539681f506e6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387625339
+        }
+    ],
+    "wof:id":387625339,
+    "wof:lastmodified":1449059976,
+    "wof:name":"Fred The Fixer",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-96.741183,43.544806,-96.741183,43.544806],
+  "geometry": {"coordinates":[-96.741183,43.544806],"type":"Point"}
+}

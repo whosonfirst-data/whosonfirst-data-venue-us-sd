@@ -1,0 +1,68 @@
+{
+  "id": 387654807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731199,43.525006,-96.731199,43.525006",
+    "geom:latitude":43.525006,
+    "geom:longitude":-96.731199,
+    "iso:country":"US",
+    "sg:address":"2116 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 1249",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sgLyt11EB4PPIPbwfhazb_43.525006_-96.731199@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55767e23667977b190ceefefd70fbb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387654807
+        }
+    ],
+    "wof:id":387654807,
+    "wof:lastmodified":1449057374,
+    "wof:name":"Stained Glass Overlay",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [-96.731199,43.525006,-96.731199,43.525006],
+  "geometry": {"coordinates":[-96.731199,43.525006],"type":"Point"}
+}

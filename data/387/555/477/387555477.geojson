@@ -1,0 +1,68 @@
+{
+  "id": 387555477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.223562,44.045044,-103.223562,44.045044",
+    "geom:latitude":44.045044,
+    "geom:longitude":-103.223562,
+    "iso:country":"US",
+    "sg:address":"215 Anamaria Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 388 9337",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ek4n5WMISFsM1LKMajJdp_44.045044_-103.223562@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31aceb027bd4a39a562cdb1d16ace644",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387555477
+        }
+    ],
+    "wof:id":387555477,
+    "wof:lastmodified":1449059381,
+    "wof:name":"Black Hills Surg Ctr Imaging",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.223562,44.045044,-103.223562,44.045044],
+  "geometry": {"coordinates":[-103.223562,44.045044],"type":"Point"}
+}

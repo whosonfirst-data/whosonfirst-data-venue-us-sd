@@ -1,0 +1,68 @@
+{
+  "id": 387180967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.790982,43.547742,-96.790982,43.547742",
+    "geom:latitude":43.547742,
+    "geom:longitude":-96.790982,
+    "iso:country":"US",
+    "sg:address":"131 N Marion Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 275 8473",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42dwDwW1DE0c2BpanRcR4s_43.547742_-96.790982@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a4da819dfd970ddb745243d740528b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":387180967
+        }
+    ],
+    "wof:id":387180967,
+    "wof:lastmodified":1449056271,
+    "wof:name":"Wheels City Svc Ctr",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-96.790982,43.547742,-96.790982,43.547742],
+  "geometry": {"coordinates":[-96.790982,43.547742],"type":"Point"}
+}

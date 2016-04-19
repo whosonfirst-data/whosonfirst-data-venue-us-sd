@@ -1,0 +1,68 @@
+{
+  "id": 387693497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731339,43.54268,-96.731339,43.54268",
+    "geom:latitude":43.54268,
+    "geom:longitude":-96.731339,
+    "iso:country":"US",
+    "sg:address":"423 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 0445",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p7Gfdpnhe4fnRVRZqG9ol_43.542680_-96.731339@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31473a7b48518e67ddcf50cbc5ffb25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":387693497
+        }
+    ],
+    "wof:id":387693497,
+    "wof:lastmodified":1449056333,
+    "wof:name":"Family Drug",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [-96.731339,43.54268,-96.731339,43.54268],
+  "geometry": {"coordinates":[-96.731339,43.54268],"type":"Point"}
+}

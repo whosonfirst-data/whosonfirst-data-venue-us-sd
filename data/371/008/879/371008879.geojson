@@ -1,0 +1,65 @@
+{
+  "id": 371008879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.836146,43.446788,-96.836146,43.446788",
+    "geom:latitude":43.446788,
+    "geom:longitude":-96.836146,
+    "iso:country":"US",
+    "sg:address":"120 N Main Ave",
+    "sg:city":"Tea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 498 5577",
+    "sg:postcode":"57064",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722075,
+        102086863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tsX9TLYAELCZdrk4teko6_43.446788_-96.836146@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83c1ab190d78527b052974f1402e5e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722075,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371008879
+        }
+    ],
+    "wof:id":371008879,
+    "wof:lastmodified":1449049335,
+    "wof:name":"Tea Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.836146,43.446788,-96.836146,43.446788],
+  "geometry": {"coordinates":[-96.836146,43.446788],"type":"Point"}
+}

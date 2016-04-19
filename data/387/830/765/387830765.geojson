@@ -1,0 +1,68 @@
+{
+  "id": 387830765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.65166,43.530538,-96.65166,43.530538",
+    "geom:latitude":43.530538,
+    "geom:longitude":-96.65166,
+    "iso:country":"US",
+    "sg:address":"1704 S Powder House Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 2260",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xzGlrhjcT7UJH8JmWvIf0_43.530538_-96.651660@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e40378ccd3c4aa6eebfe1b3945d34f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387830765
+        }
+    ],
+    "wof:id":387830765,
+    "wof:lastmodified":1449056909,
+    "wof:name":"Ace Garbage Svc",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-96.65166,43.530538,-96.65166,43.530538],
+  "geometry": {"coordinates":[-96.65166,43.530538],"type":"Point"}
+}

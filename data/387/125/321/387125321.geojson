@@ -1,0 +1,72 @@
+{
+  "id": 387125321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.220391,44.10308,-103.220391,44.10308",
+    "geom:latitude":44.10308,
+    "geom:longitude":-103.220391,
+    "iso:country":"US",
+    "sg:address":"408 Knollwood Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 6600",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "ambulatory",
+        "center",
+        "immediate",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QbN4VWcNqIL0EjlZDcArz_44.103080_-103.220391@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d61d2918f8a906797bcef2102cb38f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387125321
+        }
+    ],
+    "wof:id":387125321,
+    "wof:lastmodified":1449059784,
+    "wof:name":"Rapid Care Medical Center",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "center",
+        "immediate",
+        "care"
+    ]
+},
+  "bbox": [-103.220391,44.10308,-103.220391,44.10308],
+  "geometry": {"coordinates":[-103.220391,44.10308],"type":"Point"}
+}

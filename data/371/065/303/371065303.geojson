@@ -1,0 +1,68 @@
+{
+  "id": 371065303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.775543,43.503542,-96.775543,43.503542",
+    "geom:latitude":43.503542,
+    "geom:longitude":-96.775543,
+    "iso:country":"US",
+    "sg:address":"4205 W 53rd St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 965 1000",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fmp8CqiulFaRJZw0Ux2LP_43.503542_-96.775543@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2026bae6c095a0b0be086db05f9650a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371065303
+        }
+    ],
+    "wof:id":371065303,
+    "wof:lastmodified":1449050129,
+    "wof:name":"GE",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [-96.775543,43.503542,-96.775543,43.503542],
+  "geometry": {"coordinates":[-96.775543,43.503542],"type":"Point"}
+}

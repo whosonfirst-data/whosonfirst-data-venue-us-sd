@@ -1,0 +1,68 @@
+{
+  "id": 387089683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.755922,43.544034,-96.755922,43.544034",
+    "geom:latitude":43.544034,
+    "geom:longitude":-96.755922,
+    "iso:country":"US",
+    "sg:address":"2210 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 6610",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTO7bYdSXfVdJK6RFZljP_43.544034_-96.755922@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c7a87aec9358e9a84ee066a5c23e153",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387089683
+        }
+    ],
+    "wof:id":387089683,
+    "wof:lastmodified":1449056874,
+    "wof:name":"Gas Plus",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-96.755922,43.544034,-96.755922,43.544034],
+  "geometry": {"coordinates":[-96.755922,43.544034],"type":"Point"}
+}

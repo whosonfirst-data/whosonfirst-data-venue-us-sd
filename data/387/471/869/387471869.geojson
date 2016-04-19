@@ -1,0 +1,68 @@
+{
+  "id": 387471869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.471493,45.459274,-98.471493,45.459274",
+    "geom:latitude":45.459274,
+    "geom:longitude":-98.471493,
+    "iso:country":"US",
+    "sg:address":"1123 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 725 4040",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uDDcB19gZB8PPaBJJgd25_45.459274_-98.471493@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e04752703391365623a1a26c073a4c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387471869
+        }
+    ],
+    "wof:id":387471869,
+    "wof:lastmodified":1449057635,
+    "wof:name":"Action Svc",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.471493,45.459274,-98.471493,45.459274],
+  "geometry": {"coordinates":[-98.471493,45.459274],"type":"Point"}
+}

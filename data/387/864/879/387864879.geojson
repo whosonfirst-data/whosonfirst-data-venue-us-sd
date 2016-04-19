@@ -1,0 +1,68 @@
+{
+  "id": 387864879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-102.241943,43.992262,-102.241943,43.992262",
+    "geom:latitude":43.992262,
+    "geom:longitude":-102.241943,
+    "iso:country":"US",
+    "sg:address":"511 Main St",
+    "sg:city":"Wall",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 279 2023",
+    "sg:postcode":"57790",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bnl4IgzRuLsJWXnBjvmHg_43.992262_-102.241943@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00a666355e47dd0737d8be31b892c00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387864879
+        }
+    ],
+    "wof:id":387864879,
+    "wof:lastmodified":1449059964,
+    "wof:name":"Mocha Moose",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-102.241943,43.992262,-102.241943,43.992262],
+  "geometry": {"coordinates":[-102.241943,43.992262],"type":"Point"}
+}

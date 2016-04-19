@@ -1,0 +1,66 @@
+{
+  "id": 403771345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.167093,44.067914,-103.167093,44.067914",
+    "geom:latitude":44.067914,
+    "geom:longitude":-103.167093,
+    "iso:country":"US",
+    "sg:address":"3030 E Hwy 44",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 0537",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05O4vGcDPHGgTpmYeBVOG5_44.067914_-103.167093@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95cacc65673cee4a9d4bb98874c30b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403771345
+        }
+    ],
+    "wof:id":403771345,
+    "wof:lastmodified":1449055357,
+    "wof:name":"Neumiller Truck & Auto Body",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-103.167093,44.067914,-103.167093,44.067914],
+  "geometry": {"coordinates":[-103.167093,44.067914],"type":"Point"}
+}

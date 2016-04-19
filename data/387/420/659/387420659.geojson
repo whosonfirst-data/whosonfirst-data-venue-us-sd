@@ -1,0 +1,72 @@
+{
+  "id": 387420659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.226805,44.081104,-103.226805,44.081104",
+    "geom:latitude":44.081104,
+    "geom:longitude":-103.226805,
+    "iso:country":"US",
+    "sg:address":"512 Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 9099",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "natural",
+        "health",
+        "store",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GFZFKBEv1bhV9UdmipG3G_44.081104_-103.226805@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"339b074c4889b0c870e2d3c11d0aad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387420659
+        }
+    ],
+    "wof:id":387420659,
+    "wof:lastmodified":1449057920,
+    "wof:name":"Main Street Market",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "health",
+        "store",
+        "diet"
+    ]
+},
+  "bbox": [-103.226805,44.081104,-103.226805,44.081104],
+  "geometry": {"coordinates":[-103.226805,44.081104],"type":"Point"}
+}

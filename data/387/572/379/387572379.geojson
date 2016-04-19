@@ -1,0 +1,65 @@
+{
+  "id": 387572379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.058615,43.902545,-100.058615,43.902545",
+    "geom:latitude":43.902545,
+    "geom:longitude":-100.058615,
+    "iso:country":"US",
+    "sg:address":"193 Main Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 654 2587",
+    "sg:postcode":"57568",
+    "sg:province":"SD",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721793,
+        102086041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KYmq8hZjDWcOjhqqZzA1H_43.902545_-100.058615@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31b2c8e9b8270ab22bf937a6a03ff2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086041,
+            "locality_id":101721793,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387572379
+        }
+    ],
+    "wof:id":387572379,
+    "wof:lastmodified":1449058432,
+    "wof:name":"M & M Transmission/Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-100.058615,43.902545,-100.058615,43.902545],
+  "geometry": {"coordinates":[-100.058615,43.902545],"type":"Point"}
+}

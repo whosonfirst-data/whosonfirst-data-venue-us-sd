@@ -1,0 +1,72 @@
+{
+  "id": 387210045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488199,45.468489,-98.488199,45.468489",
+    "geom:latitude":45.468489,
+    "geom:longitude":-98.488199,
+    "iso:country":"US",
+    "sg:address":"221 N Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 6780",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:brand_id":420575743,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D1ebRllylEenN18kWTKLh_45.468489_-98.488199@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d136969976c03eeb29d411adff7dfa1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387210045
+        }
+    ],
+    "wof:id":387210045,
+    "wof:lastmodified":1457209729,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -98.488199,
+    45.468489,
+    -98.488199,
+    45.468489
+],
+  "geometry": {"coordinates":[-98.48819899999999,45.468489],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 371106803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.27142,43.838937,-101.27142,43.838937",
+    "geom:latitude":43.838937,
+    "geom:longitude":-101.27142,
+    "iso:country":"US",
+    "sg:address":"207 Main St",
+    "sg:city":"Belvidere",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 344 2277",
+    "sg:postcode":"57521",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721593,
+        102086047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zf89hVLLuWa3JkEunX3bX_43.838937_-101.271420@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5fcc63aaef0c5b71315ddcb847c2a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086047,
+            "locality_id":101721593,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371106803
+        }
+    ],
+    "wof:id":371106803,
+    "wof:lastmodified":1449049054,
+    "wof:name":"Belvidere Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-101.27142,43.838937,-101.27142,43.838937],
+  "geometry": {"coordinates":[-101.27142,43.838937],"type":"Point"}
+}

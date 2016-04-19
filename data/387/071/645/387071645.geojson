@@ -1,0 +1,76 @@
+{
+  "id": 387071645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731197,43.514776,-96.731197,43.514776",
+    "geom:latitude":43.514776,
+    "geom:longitude":-96.731197,
+    "iso:country":"US",
+    "sg:address":"307 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 7499",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tournament",
+        "golf",
+        "booking"
+    ],
+    "sg:website":"www.sdga.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mcusycVuTXq69WUHVhwOi_43.514776_-96.731197@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d29f75ce6d7e98a9bfa12b9f9e8e9796",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387071645
+        }
+    ],
+    "wof:id":387071645,
+    "wof:lastmodified":1449058500,
+    "wof:name":"South Dakota Golf Association",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tournament",
+        "golf",
+        "booking"
+    ]
+},
+  "bbox": [-96.731197,43.514776,-96.731197,43.514776],
+  "geometry": {"coordinates":[-96.731197,43.514776],"type":"Point"}
+}

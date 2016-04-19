@@ -1,0 +1,68 @@
+{
+  "id": 387368803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79084,43.54899,-96.79084,43.54899",
+    "geom:latitude":43.54899,
+    "geom:longitude":-96.79084,
+    "iso:country":"US",
+    "sg:address":"222 N Marion Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 0019",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lzdkNVHioG5vSEzPbVZXx_43.548990_-96.790840@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9354b46e864a943b09d4542b1399700",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":387368803
+        }
+    ],
+    "wof:id":387368803,
+    "wof:lastmodified":1449056984,
+    "wof:name":"Elm Locating & Utility Svc",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [-96.79084,43.54899,-96.79084,43.54899],
+  "geometry": {"coordinates":[-96.79084,43.54899],"type":"Point"}
+}

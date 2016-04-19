@@ -1,0 +1,70 @@
+{
+  "id": 386981225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.619,45.442066,-98.619,45.442066",
+    "geom:latitude":45.442066,
+    "geom:longitude":-98.619,
+    "iso:country":"US",
+    "sg:address":"13424 379th Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 5709",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQ5UJ1bUTNz4qxL7EiczX_45.442066_-98.619000@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a886e6b3942c16b53a02455237a6154",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":386981225
+        }
+    ],
+    "wof:id":386981225,
+    "wof:lastmodified":1449028973,
+    "wof:name":"Ranger Trucking",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-98.619,45.442066,-98.619,45.442066],
+  "geometry": {"coordinates":[-98.619,45.442066],"type":"Point"}
+}

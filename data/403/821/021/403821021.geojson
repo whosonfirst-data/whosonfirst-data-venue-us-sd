@@ -1,0 +1,68 @@
+{
+  "id": 403821021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.665462,43.532701,-96.665462,43.532701",
+    "geom:latitude":43.532701,
+    "geom:longitude":-96.665462,
+    "iso:country":"US",
+    "sg:address":"5105 E 22nd St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 2252",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fgsl83GkUX53Wsv5nhgWG_43.532701_-96.665462@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea956629e44ce055a2ea632a17e621f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":403821021
+        }
+    ],
+    "wof:id":403821021,
+    "wof:lastmodified":1449055360,
+    "wof:name":"D & B Tune Up",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.665462,43.532701,-96.665462,43.532701],
+  "geometry": {"coordinates":[-96.665462,43.532701],"type":"Point"}
+}

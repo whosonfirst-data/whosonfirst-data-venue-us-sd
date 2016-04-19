@@ -1,0 +1,69 @@
+{
+  "id": 403761579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.426166,43.235385,-99.426166,43.235385",
+    "geom:latitude":43.235385,
+    "geom:longitude":-99.426166,
+    "iso:country":"US",
+    "sg:address":"813 Felton Ave",
+    "sg:city":"Gregory",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 835 8413",
+    "sg:postcode":"57533",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721713,
+        102086069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Suh8j4oETGA8PdXRcd9Hd_43.235385_-99.426166@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a438978aa697f0525e22081c9ef0113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086069,
+            "locality_id":101721713,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403761579
+        }
+    ],
+    "wof:id":403761579,
+    "wof:lastmodified":1449055643,
+    "wof:name":"Bob Boes Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-99.426166,43.235385,-99.426166,43.235385],
+  "geometry": {"coordinates":[-99.426166,43.235385],"type":"Point"}
+}

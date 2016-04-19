@@ -1,0 +1,71 @@
+{
+  "id": 371186933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.746327,43.535877,-96.746327,43.535877",
+    "geom:latitude":43.535877,
+    "geom:longitude":-96.746327,
+    "iso:country":"US",
+    "sg:address":"1111 S West Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 3684",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bgarYsqEKJvcgUCzgfNt4_43.535877_-96.746327@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"452f511ebfbbf03edf309247b2a423e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371186933
+        }
+    ],
+    "wof:id":371186933,
+    "wof:lastmodified":1449049854,
+    "wof:name":"Paul's Always Green",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [-96.746327,43.535877,-96.746327,43.535877],
+  "geometry": {"coordinates":[-96.746327,43.535877],"type":"Point"}
+}

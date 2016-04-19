@@ -1,0 +1,65 @@
+{
+  "id": 371028865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.521488,45.332175,-97.521488,45.332175",
+    "geom:latitude":45.332175,
+    "geom:longitude":-97.521488,
+    "iso:country":"US",
+    "sg:address":"602 W 1st St",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 345 4040",
+    "sg:postcode":"57274",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721991,
+        102086871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHy2PSvWUswK6KMSlabA4_45.332175_-97.521488@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81075ce2f84a03a612f7a8398fe82e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086871,
+            "locality_id":101721991,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371028865
+        }
+    ],
+    "wof:id":371028865,
+    "wof:lastmodified":1449049620,
+    "wof:name":"Webster City Police",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-97.521488,45.332175,-97.521488,45.332175],
+  "geometry": {"coordinates":[-97.521488,45.332175],"type":"Point"}
+}

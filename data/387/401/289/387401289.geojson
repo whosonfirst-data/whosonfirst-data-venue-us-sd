@@ -1,0 +1,68 @@
+{
+  "id": 387401289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.273041,44.073218,-103.273041,44.073218",
+    "geom:latitude":44.073218,
+    "geom:longitude":-103.273041,
+    "iso:country":"US",
+    "sg:address":"3200 Canyon Lake Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 355 2280",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bmMvnvJJCZ8Zz6Nx00D18_44.073218_-103.273041@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4800c70bb8e7874f04f492b46cf2c7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387401289
+        }
+    ],
+    "wof:id":387401289,
+    "wof:lastmodified":1449059365,
+    "wof:name":"Us Phs Indian Hospital",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.273041,44.073218,-103.273041,44.073218],
+  "geometry": {"coordinates":[-103.273041,44.073218],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387368077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-102.241964,43.993516,-102.241964,43.993516",
+    "geom:latitude":43.993516,
+    "geom:longitude":-102.241964,
+    "iso:country":"US",
+    "sg:address":"411 Main St",
+    "sg:city":"Wall",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 279 2990",
+    "sg:postcode":"57790",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22h1u7ijdrECSyswy9v9gS_43.993516_-102.241964@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"662ab6c6e10f2caf2b7a38fdbd6277bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387368077
+        }
+    ],
+    "wof:id":387368077,
+    "wof:lastmodified":1449056978,
+    "wof:name":"Wall Police Dept",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-102.241964,43.993516,-102.241964,43.993516],
+  "geometry": {"coordinates":[-102.241964,43.993516],"type":"Point"}
+}

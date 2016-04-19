@@ -1,0 +1,67 @@
+{
+  "id": 387729935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.734346,43.172979,-101.734346,43.172979",
+    "geom:latitude":43.172979,
+    "geom:longitude":-101.734346,
+    "iso:country":"US",
+    "sg:address":"101 Dakota St",
+    "sg:city":"Wood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 452 3370",
+    "sg:postcode":"57551",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721641,
+        102086059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eZY8WGKIpBrxVKItjL1aW_43.172979_-101.734346@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1f265ce03187fb3e6bf6eb932159561",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086059,
+            "locality_id":101721641,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387729935
+        }
+    ],
+    "wof:id":387729935,
+    "wof:lastmodified":1449058024,
+    "wof:name":"Marty's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-101.734346,43.172979,-101.734346,43.172979],
+  "geometry": {"coordinates":[-101.734346,43.172979],"type":"Point"}
+}

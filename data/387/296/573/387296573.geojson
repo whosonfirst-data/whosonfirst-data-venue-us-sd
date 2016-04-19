@@ -1,0 +1,66 @@
+{
+  "id": 387296573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.765813,43.500553,-96.765813,43.500553",
+    "geom:latitude":43.500553,
+    "geom:longitude":-96.765813,
+    "iso:country":"US",
+    "sg:address":"4904 S Oxbow Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 2044",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yyrajOPMvmHOhnLZoZbYG_43.500553_-96.765813@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26714c8bcdbf17d2549d0e0c74e573c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387296573
+        }
+    ],
+    "wof:id":387296573,
+    "wof:lastmodified":1449059216,
+    "wof:name":"Westgate Towing",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-96.765813,43.500553,-96.765813,43.500553],
+  "geometry": {"coordinates":[-96.765813,43.500553],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387689773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.181784,44.087731,-103.181784,44.087731",
+    "geom:latitude":44.087731,
+    "geom:longitude":-103.181784,
+    "iso:country":"US",
+    "sg:address":"1727 E Anamosa St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3512",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P16F1jcbgSpvXnKGZMCtg_44.087731_-103.181784@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae7f3937006a64c3e42e3e148594dd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387689773
+        }
+    ],
+    "wof:id":387689773,
+    "wof:lastmodified":1449059280,
+    "wof:name":"Metz Baking Co",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-103.181784,44.087731,-103.181784,44.087731],
+  "geometry": {"coordinates":[-103.181784,44.087731],"type":"Point"}
+}

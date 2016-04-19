@@ -1,0 +1,68 @@
+{
+  "id": 403728713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.100264,45.456785,-98.100264,45.456785",
+    "geom:latitude":45.456785,
+    "geom:longitude":-98.100264,
+    "iso:country":"US",
+    "sg:address":"1106 N 2nd St",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 397 2365",
+    "sg:postcode":"57445",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qgrIdGiZBj644Wu6kilXo_45.456785_-98.100264@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5dbeed7bed5ff00a1dbc627c5e9c3559",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403728713
+        }
+    ],
+    "wof:id":403728713,
+    "wof:lastmodified":1449054954,
+    "wof:name":"Beverly Healthcare",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-98.100264,45.456785,-98.100264,45.456785],
+  "geometry": {"coordinates":[-98.100264,45.456785],"type":"Point"}
+}

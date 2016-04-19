@@ -1,0 +1,67 @@
+{
+  "id": 386938267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.947635,45.013425,-99.947635,45.013425",
+    "geom:latitude":45.013425,
+    "geom:longitude":-99.947635,
+    "iso:country":"US",
+    "sg:address":"700 E Garfield Ave",
+    "sg:city":"Gettysburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 765 2461",
+    "sg:postcode":"57442",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722175,
+        102086821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wNpDS3bxPsUG7YdQ4ZD7R_45.013425_-99.947635@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b94549803c173bd63663f8be6f44202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086821,
+            "locality_id":101722175,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386938267
+        }
+    ],
+    "wof:id":386938267,
+    "wof:lastmodified":1449028874,
+    "wof:name":"Oahe Manor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-99.947635,45.013425,-99.947635,45.013425],
+  "geometry": {"coordinates":[-99.947635,45.013425],"type":"Point"}
+}

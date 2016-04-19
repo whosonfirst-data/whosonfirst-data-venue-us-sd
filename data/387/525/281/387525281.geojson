@@ -1,0 +1,67 @@
+{
+  "id": 387525281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.734903,44.878721,-97.734903,44.878721",
+    "geom:latitude":44.878721,
+    "geom:longitude":-97.734903,
+    "iso:country":"US",
+    "sg:address":"111 N Smith St",
+    "sg:city":"Clark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 532 3771",
+    "sg:postcode":"57225",
+    "sg:province":"SD",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721703,
+        102086035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00B6I6qakF0pkwwBJR9yXc_44.878721_-97.734903@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9374c625f5958d4149c04de0341c59d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086035,
+            "locality_id":101721703,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387525281
+        }
+    ],
+    "wof:id":387525281,
+    "wof:lastmodified":1449059121,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [-97.734903,44.878721,-97.734903,44.878721],
+  "geometry": {"coordinates":[-97.734903,44.878721],"type":"Point"}
+}

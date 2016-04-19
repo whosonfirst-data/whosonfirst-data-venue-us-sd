@@ -1,0 +1,73 @@
+{
+  "id": 387423121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.572098,43.612801,-96.572098,43.612801",
+    "geom:latitude":43.612801,
+    "geom:longitude":-96.572098,
+    "iso:country":"US",
+    "sg:address":"26033 482nd Ave",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 3838",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WCiRNaVFJ6fykqYTDBskl_43.612801_-96.572098@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc5ba414988a29adc351ca7d4d4ff168",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":387423121
+        }
+    ],
+    "wof:id":387423121,
+    "wof:lastmodified":1449056733,
+    "wof:name":"Eastern Farmers Coop Inc",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [-96.572098,43.612801,-96.572098,43.612801],
+  "geometry": {"coordinates":[-96.572098,43.612801],"type":"Point"}
+}

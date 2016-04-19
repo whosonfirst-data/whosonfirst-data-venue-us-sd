@@ -1,0 +1,67 @@
+{
+  "id": 387013379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.649932,44.435733,-96.649932,44.435733",
+    "geom:latitude":44.435733,
+    "geom:longitude":-96.649932,
+    "iso:country":"US",
+    "sg:address":"105 N School Ave",
+    "sg:city":"White",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 629 3111",
+    "sg:postcode":"57276",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721917,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yyjDVci4RiFkMaAxPYtiX_44.435733_-96.649932@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4d5faa0e64e7593a07657e01ad7b6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721917,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387013379
+        }
+    ],
+    "wof:id":387013379,
+    "wof:lastmodified":1449058684,
+    "wof:name":"Thomsen Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.649932,44.435733,-96.649932,44.435733],
+  "geometry": {"coordinates":[-96.649932,44.435733],"type":"Point"}
+}

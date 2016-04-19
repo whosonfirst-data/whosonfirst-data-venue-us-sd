@@ -1,0 +1,69 @@
+{
+  "id": 387092221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.898368,42.85428,-97.898368,42.85428",
+    "geom:latitude":42.85428,
+    "geom:longitude":-97.898368,
+    "iso:country":"US",
+    "sg:address":"904 8th St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 369 2211",
+    "sg:postcode":"57062",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721895,
+        102086835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fbwDegjZiQic4RXLp4YdH_42.854280_-97.898368@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a891eccb24b160a861a66884acda134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086835,
+            "locality_id":101721895,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387092221
+        }
+    ],
+    "wof:id":387092221,
+    "wof:lastmodified":1449059206,
+    "wof:name":"Reynolds Collision Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-97.898368,42.85428,-97.898368,42.85428],
+  "geometry": {"coordinates":[-97.898368,42.85428],"type":"Point"}
+}

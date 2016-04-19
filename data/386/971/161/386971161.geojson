@@ -1,0 +1,74 @@
+{
+  "id": 386971161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.481147,43.429815,-103.481147,43.429815",
+    "geom:latitude":43.429815,
+    "geom:longitude":-103.481147,
+    "iso:country":"US",
+    "sg:address":"1645 University Ave",
+    "sg:city":"Hot Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 745 6228",
+    "sg:postcode":"57747",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721985,
+        102086081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rg1kAyYOfqGpMm4kDEfwY_43.429815_-103.481147@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d656284f6e2bbd4137b219c3840437b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086081,
+            "locality_id":101721985,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386971161
+        }
+    ],
+    "wof:id":386971161,
+    "wof:lastmodified":1449028789,
+    "wof:name":"Mike's Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "coin"
+    ]
+},
+  "bbox": [-103.481147,43.429815,-103.481147,43.429815],
+  "geometry": {"coordinates":[-103.481147,43.429815],"type":"Point"}
+}

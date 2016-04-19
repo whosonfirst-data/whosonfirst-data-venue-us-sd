@@ -1,0 +1,66 @@
+{
+  "id": 387044257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.197343,44.052909,-103.197343,44.052909",
+    "geom:latitude":44.052909,
+    "geom:longitude":-103.197343,
+    "iso:country":"US",
+    "sg:address":"1201 E Fairmont Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 4223",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aFg9pZOJat6q8VOx1dVUq_44.052909_-103.197343@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b93a2a40b01c12ff6c19d668bd3800ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387044257
+        }
+    ],
+    "wof:id":387044257,
+    "wof:lastmodified":1449058089,
+    "wof:name":"Vinyl Pro",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-103.197343,44.052909,-103.197343,44.052909],
+  "geometry": {"coordinates":[-103.197343,44.052909],"type":"Point"}
+}

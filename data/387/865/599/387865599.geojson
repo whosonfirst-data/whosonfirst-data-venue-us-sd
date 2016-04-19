@@ -1,0 +1,66 @@
+{
+  "id": 387865599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.719987,43.52313,-96.719987,43.52313",
+    "geom:latitude":43.52313,
+    "geom:longitude":-96.719987,
+    "iso:country":"US",
+    "sg:address":"2409 S 5th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 0882",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ex7b33xzXqtORSjK7UrK8_43.523130_-96.719987@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99432d016fe23148541cb1b104b498b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387865599
+        }
+    ],
+    "wof:id":387865599,
+    "wof:lastmodified":1449058979,
+    "wof:name":"City Wide Taxi Inc",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-96.719987,43.52313,-96.719987,43.52313],
+  "geometry": {"coordinates":[-96.719987,43.52313],"type":"Point"}
+}

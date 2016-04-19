@@ -1,0 +1,67 @@
+{
+  "id": 387504399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.47203,45.578855,-99.47203,45.578855",
+    "geom:latitude":45.578855,
+    "geom:longitude":-99.47203,
+    "iso:country":"US",
+    "sg:address":"307 E Main St",
+    "sg:city":"Hosmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 283 2203",
+    "sg:postcode":"57448",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721963,
+        102086789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25By9lCyInX3PNm3AQyL0D_45.578855_-99.472030@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"192947c1ce85fcde122b0fcc6daaefb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086789,
+            "locality_id":101721963,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387504399
+        }
+    ],
+    "wof:id":387504399,
+    "wof:lastmodified":1449056768,
+    "wof:name":"Senior Citizens Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-99.47203,45.578855,-99.47203,45.578855],
+  "geometry": {"coordinates":[-99.47203,45.578855],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387011683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.506539,44.414155,-103.506539,44.414155",
+    "geom:latitude":44.414155,
+    "geom:longitude":-103.506539,
+    "iso:country":"US",
+    "sg:address":"1021 Middle St",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 347 2921",
+    "sg:postcode":"57785",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722091,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11gFiZsxXWfIkAWOSrOWim_44.414155_-103.506539@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b54bc2222de1ca4a580a49ce79777db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722091,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387011683
+        }
+    ],
+    "wof:id":387011683,
+    "wof:lastmodified":1449059228,
+    "wof:name":"Dave's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-103.506539,44.414155,-103.506539,44.414155],
+  "geometry": {"coordinates":[-103.506539,44.414155],"type":"Point"}
+}

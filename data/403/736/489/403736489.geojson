@@ -1,0 +1,68 @@
+{
+  "id": 403736489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.745261,43.571717,-96.745261,43.571717",
+    "geom:latitude":43.571717,
+    "geom:longitude":-96.745261,
+    "iso:country":"US",
+    "sg:address":"1215 W Blackhawk St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 0564",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dnWTHtqGlIytL9d2lWUHx_43.571717_-96.745261@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82d55cce31b2b90a35b7b628834b32b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":403736489
+        }
+    ],
+    "wof:id":403736489,
+    "wof:lastmodified":1449055933,
+    "wof:name":"McCart Plumbing & Heating Inc",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-96.745261,43.571717,-96.745261,43.571717],
+  "geometry": {"coordinates":[-96.745261,43.571717],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387366373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488106,45.461079,-98.488106,45.461079",
+    "geom:latitude":45.461079,
+    "geom:longitude":-98.488106,
+    "iso:country":"US",
+    "sg:address":"402 S Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 626 2626",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25hLKTzG217uT9ueVpRe0s_45.461079_-98.488106@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da28a25b780fbf86b50a450bfaae5bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387366373
+        }
+    ],
+    "wof:id":387366373,
+    "wof:lastmodified":1449058886,
+    "wof:name":"Brown County WIC",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [-98.488106,45.461079,-98.488106,45.461079],
+  "geometry": {"coordinates":[-98.488106,45.461079],"type":"Point"}
+}

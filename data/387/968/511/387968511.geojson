@@ -1,0 +1,68 @@
+{
+  "id": 387968511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.685197,43.543079,-96.685197,43.543079",
+    "geom:latitude":43.543079,
+    "geom:longitude":-96.685197,
+    "iso:country":"US",
+    "sg:address":"608 S Sneve Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 2186",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n1a3YTi3JH6aW4C8wPXEf_43.543079_-96.685197@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b83ee71c54b46472d60577624e3a374f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387968511
+        }
+    ],
+    "wof:id":387968511,
+    "wof:lastmodified":1449056352,
+    "wof:name":"Craig's Sanitary Svc",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-96.685197,43.543079,-96.685197,43.543079],
+  "geometry": {"coordinates":[-96.685197,43.543079],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 387186897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.091848,44.88998,-97.091848,44.88998",
+    "geom:latitude":44.88998,
+    "geom:longitude":-97.091848,
+    "iso:country":"US",
+    "sg:address":"1500 9th Ave SE",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 882 4975",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LPnww33YLfquiJMzHqPKV_44.889980_-97.091848@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09a0000fac68d4b5f08f66aa14e3bc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387186897
+        }
+    ],
+    "wof:id":387186897,
+    "wof:lastmodified":1449059086,
+    "wof:name":"Thorson's Fuel & Food",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-97.091848,44.88998,-97.091848,44.88998],
+  "geometry": {"coordinates":[-97.091848,44.88998],"type":"Point"}
+}

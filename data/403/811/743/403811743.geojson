@@ -1,0 +1,68 @@
+{
+  "id": 403811743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.22808,44.075554,-103.22808,44.075554",
+    "geom:latitude":44.075554,
+    "geom:longitude":-103.22808,
+    "iso:country":"US",
+    "sg:address":"619 South St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 209 3611",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I2upQaAqrNZGU5U46rCMy_44.075554_-103.228080@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe06b1075587111ef1c53d343c69dc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403811743
+        }
+    ],
+    "wof:id":403811743,
+    "wof:lastmodified":1449055274,
+    "wof:name":"C & S Plumbing",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-103.22808,44.075554,-103.22808,44.075554],
+  "geometry": {"coordinates":[-103.22808,44.075554],"type":"Point"}
+}

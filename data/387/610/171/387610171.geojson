@@ -1,0 +1,68 @@
+{
+  "id": 387610171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758086,43.543865,-96.758086,43.543865",
+    "geom:latitude":43.543865,
+    "geom:longitude":-96.758086,
+    "iso:country":"US",
+    "sg:address":"2421 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 1352",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rWfa4dLneFY7dCmQezLLr_43.543865_-96.758086@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfebe3796d771f18b69911241735412d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387610171
+        }
+    ],
+    "wof:id":387610171,
+    "wof:lastmodified":1449059861,
+    "wof:name":"M J Auto Sales",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.758086,43.543865,-96.758086,43.543865],
+  "geometry": {"coordinates":[-96.758086,43.543865],"type":"Point"}
+}

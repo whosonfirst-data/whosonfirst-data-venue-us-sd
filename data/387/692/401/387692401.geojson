@@ -1,0 +1,77 @@
+{
+  "id": 387692401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.383936,44.064052,-103.383936,44.064052",
+    "geom:latitude":44.064052,
+    "geom:longitude":-103.383936,
+    "iso:country":"US",
+    "sg:address":"2333 Carter Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 4430",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TrvuuBcXMz6BwnfKIWTMR_44.064052_-103.383936@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68fe14408823b24eb8dcc7b65629618f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387692401
+        }
+    ],
+    "wof:id":387692401,
+    "wof:lastmodified":1449057112,
+    "wof:name":"Western Turf Equipment Sales",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [-103.383936,44.064052,-103.383936,44.064052],
+  "geometry": {"coordinates":[-103.383936,44.064052],"type":"Point"}
+}

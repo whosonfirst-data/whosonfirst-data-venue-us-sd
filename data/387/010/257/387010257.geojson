@@ -1,0 +1,68 @@
+{
+  "id": 387010257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.197847,44.090363,-103.197847,44.090363",
+    "geom:latitude":44.090363,
+    "geom:longitude":-103.197847,
+    "iso:country":"US",
+    "sg:address":"826 E Monroe St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 388 8700",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66t0XNhi8Zb7enU3aDgdaP_44.090363_-103.197847@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5dd111d1251ebd7315b1f4c2744d341d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387010257
+        }
+    ],
+    "wof:id":387010257,
+    "wof:lastmodified":1449058480,
+    "wof:name":"Tow Pro's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "road"
+    ]
+},
+  "bbox": [-103.197847,44.090363,-103.197847,44.090363],
+  "geometry": {"coordinates":[-103.197847,44.090363],"type":"Point"}
+}

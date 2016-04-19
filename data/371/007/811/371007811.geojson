@@ -1,0 +1,70 @@
+{
+  "id": 371007811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.757301,43.561971,-96.757301,43.561971",
+    "geom:latitude":43.561971,
+    "geom:longitude":-96.757301,
+    "iso:country":"US",
+    "sg:address":"2221 W Rice St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 6611",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "solid",
+        "waste",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mdZgMaTcz4xTUC16V1pVz_43.561971_-96.757301@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9bf8ea7d034cfdd32259d39f91bde3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":371007811
+        }
+    ],
+    "wof:id":371007811,
+    "wof:lastmodified":1449049934,
+    "wof:name":"Waste Management Sioux Falls",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solid",
+        "waste",
+        "system"
+    ]
+},
+  "bbox": [-96.757301,43.561971,-96.757301,43.561971],
+  "geometry": {"coordinates":[-96.757301,43.561971],"type":"Point"}
+}

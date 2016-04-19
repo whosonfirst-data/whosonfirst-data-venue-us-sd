@@ -1,0 +1,70 @@
+{
+  "id": 387113201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739326,43.544585,-96.739326,43.544585",
+    "geom:latitude":43.544585,
+    "geom:longitude":-96.739326,
+    "iso:country":"US",
+    "sg:address":"923 W 11th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 0750",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3awM7lzrlUcOAI4cczgKF6_43.544585_-96.739326@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ce7bf2f4f286b3ed625402d0bc9a261",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387113201
+        }
+    ],
+    "wof:id":387113201,
+    "wof:lastmodified":1449059602,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [-96.739326,43.544585,-96.739326,43.544585],
+  "geometry": {"coordinates":[-96.739326,43.544585],"type":"Point"}
+}

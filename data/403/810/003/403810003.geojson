@@ -1,0 +1,66 @@
+{
+  "id": 403810003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.768808,43.507604,-96.768808,43.507604",
+    "geom:latitude":43.507604,
+    "geom:longitude":-96.768808,
+    "iso:country":"US",
+    "sg:address":"3501 W 49th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 9949",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14KE7qwlzC8ZMRmtWFkarj_43.507604_-96.768808@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02a017de2959a51ad79e1fd3606da366",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":403810003
+        }
+    ],
+    "wof:id":403810003,
+    "wof:lastmodified":1449055036,
+    "wof:name":"Parks Amoco",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [-96.768808,43.507604,-96.768808,43.507604],
+  "geometry": {"coordinates":[-96.768808,43.507604],"type":"Point"}
+}

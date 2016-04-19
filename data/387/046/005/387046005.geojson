@@ -1,0 +1,67 @@
+{
+  "id": 387046005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.844759,43.389174,-98.844759,43.389174",
+    "geom:latitude":43.389174,
+    "geom:longitude":-98.844759,
+    "iso:country":"US",
+    "sg:address":"201 Main St",
+    "sg:city":"Platte",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 337 3541",
+    "sg:postcode":"57369",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722117,
+        102086799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gJbEwrv03Y3Xyon4wOFsN_43.389174_-98.844759@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"449c4ae9aa102a8f5a84c9ac0edc3f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086799,
+            "locality_id":101722117,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387046005
+        }
+    ],
+    "wof:id":387046005,
+    "wof:lastmodified":1449058223,
+    "wof:name":"Randal's Bus Line",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-98.844759,43.389174,-98.844759,43.389174],
+  "geometry": {"coordinates":[-98.844759,43.389174],"type":"Point"}
+}

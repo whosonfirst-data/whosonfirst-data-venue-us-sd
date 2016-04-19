@@ -1,0 +1,65 @@
+{
+  "id": 387012345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.515119,44.877892,-98.515119,44.877892",
+    "geom:latitude":44.877892,
+    "geom:longitude":-98.515119,
+    "iso:country":"US",
+    "sg:address":"519 E 2nd St",
+    "sg:city":"Redfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 472 9991",
+    "sg:postcode":"57469",
+    "sg:province":"SD",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721571,
+        102086027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22uE3FdnzuUbPDquF8jWft_44.877892_-98.515119@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"748a14bc12ebec81ce37ead3ad111d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086027,
+            "locality_id":101721571,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387012345
+        }
+    ],
+    "wof:id":387012345,
+    "wof:lastmodified":1449059534,
+    "wof:name":"Schools Public Physical Edu",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [-98.515119,44.877892,-98.515119,44.877892],
+  "geometry": {"coordinates":[-98.515119,44.877892],"type":"Point"}
+}

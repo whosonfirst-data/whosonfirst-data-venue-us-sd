@@ -1,0 +1,70 @@
+{
+  "id": 387748573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.744081,43.543949,-96.744081,43.543949",
+    "geom:latitude":43.543949,
+    "geom:longitude":-96.744081,
+    "iso:country":"US",
+    "sg:address":"1201 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 357 8920",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "diagnostic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pnAo7RcsYZ8AjuV4UUFG3_43.543949_-96.744081@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"817632fc57e1a2cda9e8f8cbd58b6b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":387748573
+        }
+    ],
+    "wof:id":387748573,
+    "wof:lastmodified":1449058962,
+    "wof:name":"L J's Auto Repair Inc",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic",
+        "general"
+    ]
+},
+  "bbox": [-96.744081,43.543949,-96.744081,43.543949],
+  "geometry": {"coordinates":[-96.744081,43.543949],"type":"Point"}
+}

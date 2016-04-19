@@ -1,0 +1,66 @@
+{
+  "id": 387067123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.472925,45.45929,-98.472925,45.45929",
+    "geom:latitude":45.45929,
+    "geom:longitude":-98.472925,
+    "iso:country":"US",
+    "sg:address":"1023 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 1410",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ub5cZfpYfFfwYJwvlrCFI_45.459290_-98.472925@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"807afd24710d7078a7a0f9ad4170bc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387067123
+        }
+    ],
+    "wof:id":387067123,
+    "wof:lastmodified":1449056359,
+    "wof:name":"Kamerud Chiropractic Clinic",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-98.472925,45.45929,-98.472925,45.45929],
+  "geometry": {"coordinates":[-98.472925,45.45929],"type":"Point"}
+}

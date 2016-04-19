@@ -1,0 +1,74 @@
+{
+  "id": 387507331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.42814,45.53843,-100.42814,45.53843",
+    "geom:latitude":45.53843,
+    "geom:longitude":-100.42814,
+    "iso:country":"US",
+    "sg:address":"608 4th Ave E",
+    "sg:city":"Mobridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 845 7563",
+    "sg:postcode":"57601",
+    "sg:province":"SD",
+    "sg:tags":[
+        "radio",
+        "television",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721629,
+        102086011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54y0uClkpmny0e62FFpacd_45.538430_-100.428140@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cea935badf967b181a6fd07902975a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086011,
+            "locality_id":101721629,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387507331
+        }
+    ],
+    "wof:id":387507331,
+    "wof:lastmodified":1449058062,
+    "wof:name":"Duane's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "electrical"
+    ]
+},
+  "bbox": [-100.42814,45.53843,-100.42814,45.53843],
+  "geometry": {"coordinates":[-100.42814,45.53843],"type":"Point"}
+}

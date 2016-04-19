@@ -1,0 +1,67 @@
+{
+  "id": 403786425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79881,44.305111,-96.79881,44.305111",
+    "geom:latitude":44.305111,
+    "geom:longitude":-96.79881,
+    "iso:country":"US",
+    "sg:address":"134 Main Ave S",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 697 8044",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tool",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fgR0JL6Z4ZbY8M0PBZFbH_44.305111_-96.798810@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f460a2d42ee9cb120a4e1f47b62a2ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403786425
+        }
+    ],
+    "wof:id":403786425,
+    "wof:lastmodified":1449054801,
+    "wof:name":"Rental Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "contractor"
+    ]
+},
+  "bbox": [-96.79881,44.305111,-96.79881,44.305111],
+  "geometry": {"coordinates":[-96.79881,44.305111],"type":"Point"}
+}

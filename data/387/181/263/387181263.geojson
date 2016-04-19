@@ -1,0 +1,67 @@
+{
+  "id": 387181263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.264713,44.093008,-103.264713,44.093008",
+    "geom:latitude":44.093008,
+    "geom:longitude":-103.264713,
+    "iso:country":"US",
+    "sg:address":"2821 Plant St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 1225",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.energylab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FS4TClIWbDUksI1NtR2sa_44.093008_-103.264713@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"826c4422bb6a4d93cb3054274e8a1a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387181263
+        }
+    ],
+    "wof:id":387181263,
+    "wof:lastmodified":1449058440,
+    "wof:name":"Energy Laboratories Inc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-103.264713,44.093008,-103.264713,44.093008],
+  "geometry": {"coordinates":[-103.264713,44.093008],"type":"Point"}
+}

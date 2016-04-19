@@ -1,0 +1,69 @@
+{
+  "id": 371170003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.844822,43.386108,-98.844822,43.386108",
+    "geom:latitude":43.386108,
+    "geom:longitude":-98.844822,
+    "iso:country":"US",
+    "sg:address":"506 Main St",
+    "sg:city":"Platte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 337 3561",
+    "sg:postcode":"57369",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722117,
+        102086799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QUQBSJyDjaSwoxfosbA2S_43.386108_-98.844822@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eddec329000b4473963c4b21bda55e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086799,
+            "locality_id":101722117,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371170003
+        }
+    ],
+    "wof:id":371170003,
+    "wof:lastmodified":1449049120,
+    "wof:name":"Platte Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [-98.844822,43.386108,-98.844822,43.386108],
+  "geometry": {"coordinates":[-98.844822,43.386108],"type":"Point"}
+}

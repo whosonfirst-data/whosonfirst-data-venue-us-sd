@@ -1,0 +1,80 @@
+{
+  "id": 387247015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.148476,44.102291,-103.148476,44.102291",
+    "geom:latitude":44.102291,
+    "geom:longitude":-103.148476,
+    "iso:country":"US",
+    "sg:address":"4200 N Interstate 90 Svc Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 5450",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "gasoline",
+        "station",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51o2WpaPo11Ks1iOmWM2Lj_44.102291_-103.148476@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"421edd7d06c183cd799dc85cd6b48690",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387247015
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387247015
+        }
+    ],
+    "wof:id":387247015,
+    "wof:lastmodified":1449058331,
+    "wof:name":"Flying Jay",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "station",
+        "eating"
+    ]
+},
+  "bbox": [-103.148476,44.102291,-103.148476,44.102291],
+  "geometry": {"coordinates":[-103.148476,44.102291],"type":"Point"}
+}

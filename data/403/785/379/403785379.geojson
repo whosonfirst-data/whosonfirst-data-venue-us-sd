@@ -1,0 +1,66 @@
+{
+  "id": 403785379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.156942,44.043453,-103.156942,44.043453",
+    "geom:latitude":44.043453,
+    "geom:longitude":-103.156942,
+    "iso:country":"US",
+    "sg:address":"4133 Augusta Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 393 9575",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N59Bo3DV5ZERiOVQQnr76_44.043453_-103.156942@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"377efca210bc778dd8f234050c742313",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403785379
+        }
+    ],
+    "wof:id":403785379,
+    "wof:lastmodified":1449055746,
+    "wof:name":"Valley Car Wash",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-103.156942,44.043453,-103.156942,44.043453],
+  "geometry": {"coordinates":[-103.156942,44.043453],"type":"Point"}
+}

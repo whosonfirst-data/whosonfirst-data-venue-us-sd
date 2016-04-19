@@ -1,0 +1,66 @@
+{
+  "id": 387616715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.171291,44.085187,-103.171291,44.085187",
+    "geom:latitude":44.085187,
+    "geom:longitude":-103.171291,
+    "iso:country":"US",
+    "sg:address":"155 E 27th St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 721 0789",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PzOYmaCpf6xniTptdbDwQ_44.085187_-103.171291@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2babe7c537abfd6a8067f63739c75dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387616715
+        }
+    ],
+    "wof:id":387616715,
+    "wof:lastmodified":1449058902,
+    "wof:name":"Emergency Veterinary Hospital",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-103.171291,44.085187,-103.171291,44.085187],
+  "geometry": {"coordinates":[-103.171291,44.085187],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387505321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.732843,43.55903,-96.732843,43.55903",
+    "geom:latitude":43.55903,
+    "geom:longitude":-96.732843,
+    "iso:country":"US",
+    "sg:address":"901 N Spring Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 5211",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J0TspucN00IaCDNeSKh5Y_43.559030_-96.732843@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e53879473d71c885791c57902bb5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387505321
+        }
+    ],
+    "wof:id":387505321,
+    "wof:lastmodified":1449059298,
+    "wof:name":"Cid Brokerage",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-96.732843,43.55903,-96.732843,43.55903],
+  "geometry": {"coordinates":[-96.732843,43.55903],"type":"Point"}
+}

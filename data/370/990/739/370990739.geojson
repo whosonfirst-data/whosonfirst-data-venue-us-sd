@@ -1,0 +1,68 @@
+{
+  "id": 370990739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.464636,45.454457,-98.464636,45.454457",
+    "geom:latitude":45.454457,
+    "geom:longitude":-98.464636,
+    "iso:country":"US",
+    "sg:address":"1019 S Lawson St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 5060",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "passenger",
+        "intercity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yfmK9PKIQHDBfDldVxPxf_45.454457_-98.464636@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16b1ae50e80db1a78578c769212be7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":370990739
+        }
+    ],
+    "wof:id":370990739,
+    "wof:lastmodified":1449031346,
+    "wof:name":"Bridge City Transportation",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "intercity"
+    ]
+},
+  "bbox": [-98.464636,45.454457,-98.464636,45.454457],
+  "geometry": {"coordinates":[-98.464636,45.454457],"type":"Point"}
+}

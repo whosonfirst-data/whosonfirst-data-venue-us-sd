@@ -1,0 +1,70 @@
+{
+  "id": 371030311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.722729,43.568599,-96.722729,43.568599",
+    "geom:latitude":43.568599,
+    "geom:longitude":-96.722729,
+    "iso:country":"US",
+    "sg:address":"1600 North Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 367 5100",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "govt",
+        "city",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qOa0TAx3GqwWnOB0X1fey_43.568599_-96.722729@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3504a0206ff5be19f4333b44f272b6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":371030311
+        }
+    ],
+    "wof:id":371030311,
+    "wof:lastmodified":1449049396,
+    "wof:name":"Penitentiary",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city",
+        "institution"
+    ]
+},
+  "bbox": [-96.722729,43.568599,-96.722729,43.568599],
+  "geometry": {"coordinates":[-96.722729,43.568599],"type":"Point"}
+}

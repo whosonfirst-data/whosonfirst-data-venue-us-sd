@@ -1,0 +1,66 @@
+{
+  "id": 403773195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731173,43.511839,-96.731173,43.511839",
+    "geom:latitude":43.511839,
+    "geom:longitude":-96.731173,
+    "iso:country":"US",
+    "sg:address":"3508 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 977 6200",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yEC6SsvwJ9DFBKbF8DOC7_43.511839_-96.731173@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d49ed91af0d80dd14149eccf6d76d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":403773195
+        }
+    ],
+    "wof:id":403773195,
+    "wof:lastmodified":1449054789,
+    "wof:name":"Veterinary Emergency Hospital",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.731173,43.511839,-96.731173,43.511839],
+  "geometry": {"coordinates":[-96.731173,43.511839],"type":"Point"}
+}

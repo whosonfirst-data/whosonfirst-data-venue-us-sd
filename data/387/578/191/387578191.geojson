@@ -1,0 +1,70 @@
+{
+  "id": 387578191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.098633,45.446146,-98.098633,45.446146",
+    "geom:latitude":45.446146,
+    "geom:longitude":-98.098633,
+    "iso:country":"US",
+    "sg:address":"11 N Main St",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 397 8476",
+    "sg:postcode":"57445",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4djQCqg81NVlLjgbhUytzE_45.446146_-98.098633@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2539c5f8c2d6b6c83ed676bf3f50d7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387578191
+        }
+    ],
+    "wof:id":387578191,
+    "wof:lastmodified":1449057061,
+    "wof:name":"Ron's Body Shop",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-98.098633,45.446146,-98.098633,45.446146],
+  "geometry": {"coordinates":[-98.098633,45.446146],"type":"Point"}
+}

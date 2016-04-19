@@ -1,0 +1,75 @@
+{
+  "id": 403797881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.49529,45.473897,-98.49529,45.473897",
+    "geom:latitude":45.473897,
+    "geom:longitude":-98.49529,
+    "iso:country":"US",
+    "sg:address":"701 8th Ave NW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 0430",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical",
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0slThv0d8TKZvFyaJXgW1T_45.473897_-98.495290@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07dfebebb60a92c261f43d332037a605",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403797881
+        }
+    ],
+    "wof:id":403797881,
+    "wof:lastmodified":1449055838,
+    "wof:name":"Aberdeen Physical Therapy",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [-98.49529,45.473897,-98.49529,45.473897],
+  "geometry": {"coordinates":[-98.49529,45.473897],"type":"Point"}
+}

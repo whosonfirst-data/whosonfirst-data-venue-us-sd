@@ -1,0 +1,66 @@
+{
+  "id": 387183019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731355,43.525193,-96.731355,43.525193",
+    "geom:latitude":43.525193,
+    "geom:longitude":-96.731355,
+    "iso:country":"US",
+    "sg:address":"2135 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 1061",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31lbMYhNsmH3JQrpZoyHb2_43.525193_-96.731355@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74bf297e2234d121da1fd6ea48b1dad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387183019
+        }
+    ],
+    "wof:id":387183019,
+    "wof:lastmodified":1449058153,
+    "wof:name":"One Hour Martanizing",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-96.731355,43.525193,-96.731355,43.525193],
+  "geometry": {"coordinates":[-96.731355,43.525193],"type":"Point"}
+}

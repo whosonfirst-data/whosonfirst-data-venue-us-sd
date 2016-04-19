@@ -1,0 +1,68 @@
+{
+  "id": 387740831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.205978,44.087497,-103.205978,44.087497",
+    "geom:latitude":44.087497,
+    "geom:longitude":-103.205978,
+    "iso:country":"US",
+    "sg:address":"319 E North St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 5700",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h59W90oJvjGiZjJHItYEy_44.087497_-103.205978@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03cc6f3b54523469b6f62b3a622d0fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387740831
+        }
+    ],
+    "wof:id":387740831,
+    "wof:lastmodified":1449057824,
+    "wof:name":"Dakotaland Autoglass Inc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-103.205978,44.087497,-103.205978,44.087497],
+  "geometry": {"coordinates":[-103.205978,44.087497],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387191931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.214078,44.369865,-98.214078,44.369865",
+    "geom:latitude":44.369865,
+    "geom:longitude":-98.214078,
+    "iso:country":"US",
+    "sg:address":"320 Dakota Ave N",
+    "sg:city":"Huron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 352 3540",
+    "sg:postcode":"57350",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721873,
+        102086841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28RmeC4YQmeMA2UKREzcbG_44.369865_-98.214078@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"735f9165ba2c51e1cc27d174ba5067f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086841,
+            "locality_id":101721873,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387191931
+        }
+    ],
+    "wof:id":387191931,
+    "wof:lastmodified":1449058411,
+    "wof:name":"Carlson's Northside Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.214078,44.369865,-98.214078,44.369865],
+  "geometry": {"coordinates":[-98.214078,44.369865],"type":"Point"}
+}

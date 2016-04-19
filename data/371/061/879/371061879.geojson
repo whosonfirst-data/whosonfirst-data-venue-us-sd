@@ -1,0 +1,74 @@
+{
+  "id": 371061879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.311207,45.610753,-98.311207,45.610753",
+    "geom:latitude":45.610753,
+    "geom:longitude":-98.311207,
+    "iso:country":"US",
+    "sg:address":"5 S Broadway St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 396 2664",
+    "sg:postcode":"57433",
+    "sg:province":"SD",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOpgl97yzrp0JArv3Q25a_45.610753_-98.311207@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f17777ac3cdf85424a4eab4e7ffabb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":371061879
+        }
+    ],
+    "wof:id":371061879,
+    "wof:lastmodified":1457207042,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -98.311207,
+    45.610753,
+    -98.311207,
+    45.610753
+],
+  "geometry": {"coordinates":[-98.311207,45.610753],"type":"Point"}
+}

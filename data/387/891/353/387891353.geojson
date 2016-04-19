@@ -1,0 +1,83 @@
+{
+  "id": 387891353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191125,44.078368,-103.191125,44.078368",
+    "geom:latitude":44.078368,
+    "geom:longitude":-103.191125,
+    "iso:country":"US",
+    "sg:address":"1410 E Centre St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 2321",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"www.foe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:brand_id":420574303,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XPl2mbXCIIoEDC3NWsx3U_44.078368_-103.191125@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38dba5aaad94dfa11921b5923dff6071",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387891353
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387891353
+        }
+    ],
+    "wof:id":387891353,
+    "wof:lastmodified":1457208759,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -103.191125,
+    44.078368,
+    -103.191125,
+    44.078368
+],
+  "geometry": {"coordinates":[-103.191125,44.078368],"type":"Point"}
+}

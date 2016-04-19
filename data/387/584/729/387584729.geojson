@@ -1,0 +1,68 @@
+{
+  "id": 387584729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.730925,43.548689,-96.730925,43.548689",
+    "geom:latitude":43.548689,
+    "geom:longitude":-96.730925,
+    "iso:country":"US",
+    "sg:address":"334 W 8th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 0612",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IZudv9kn9ia6WDudptrwC_43.548689_-96.730925@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8033c9689150f60723d99bc3e7ea717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387584729
+        }
+    ],
+    "wof:id":387584729,
+    "wof:lastmodified":1449056525,
+    "wof:name":"Transition Health",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-96.730925,43.548689,-96.730925,43.548689],
+  "geometry": {"coordinates":[-96.730925,43.548689],"type":"Point"}
+}

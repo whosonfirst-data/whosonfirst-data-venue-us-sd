@@ -1,0 +1,70 @@
+{
+  "id": 387328639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.176581,44.071376,-103.176581,44.071376",
+    "geom:latitude":44.071376,
+    "geom:longitude":-103.176581,
+    "iso:country":"US",
+    "sg:address":"1600 Sedivy Ln",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 1617",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dEAC8h0e37kRL6yeoyIYW_44.071376_-103.176581@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26c365291b20bf5bba018d0b3114efa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387328639
+        }
+    ],
+    "wof:id":387328639,
+    "wof:lastmodified":1449058346,
+    "wof:name":"Juvenile Corrections Agents",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-103.176581,44.071376,-103.176581,44.071376],
+  "geometry": {"coordinates":[-103.176581,44.071376],"type":"Point"}
+}

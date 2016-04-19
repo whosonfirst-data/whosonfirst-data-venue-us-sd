@@ -1,0 +1,68 @@
+{
+  "id": 387958447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.274403,44.038819,-103.274403,44.038819",
+    "geom:latitude":44.038819,
+    "geom:longitude":-103.274403,
+    "iso:country":"US",
+    "sg:address":"3430 Corral Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3216",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bPZhn5t0SiN4q9g1Vx1C2_44.038819_-103.274403@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4365ed93a5d247757aaa4f463363ae30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387958447
+        }
+    ],
+    "wof:id":387958447,
+    "wof:lastmodified":1449059072,
+    "wof:name":"Corral Park Apartments",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-103.274403,44.038819,-103.274403,44.038819],
+  "geometry": {"coordinates":[-103.274403,44.038819],"type":"Point"}
+}

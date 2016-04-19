@@ -1,0 +1,66 @@
+{
+  "id": 387100363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.255398,44.068649,-103.255398,44.068649",
+    "geom:latitude":44.068649,
+    "geom:longitude":-103.255398,
+    "iso:country":"US",
+    "sg:address":"1802 Mesa Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 399 8561",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HiX9ilqYFeoi8T9sPmkXr_44.068649_-103.255398@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fd14760ebf40f0316b019d64a5c43aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387100363
+        }
+    ],
+    "wof:id":387100363,
+    "wof:lastmodified":1449058929,
+    "wof:name":"United Nano Technologies",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refiner"
+    ]
+},
+  "bbox": [-103.255398,44.068649,-103.255398,44.068649],
+  "geometry": {"coordinates":[-103.255398,44.068649],"type":"Point"}
+}

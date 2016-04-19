@@ -1,0 +1,67 @@
+{
+  "id": 371017833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.102381,44.904708,-97.102381,44.904708",
+    "geom:latitude":44.904708,
+    "geom:longitude":-97.102381,
+    "iso:country":"US",
+    "sg:address":"703 3rd Ave NE",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 886 2486",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aZhKTCR2yfJqlUrEimE6L_44.904708_-97.102381@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a14d1a304a49a509b0720b6ba983e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371017833
+        }
+    ],
+    "wof:id":371017833,
+    "wof:lastmodified":1449049597,
+    "wof:name":"Williams Fourth Street Phrm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [-97.102381,44.904708,-97.102381,44.904708],
+  "geometry": {"coordinates":[-97.102381,44.904708],"type":"Point"}
+}

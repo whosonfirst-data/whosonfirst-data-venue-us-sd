@@ -1,0 +1,68 @@
+{
+  "id": 387128509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.196264,44.051898,-103.196264,44.051898",
+    "geom:latitude":44.051898,
+    "geom:longitude":-103.196264,
+    "iso:country":"US",
+    "sg:address":"1304 Oregon St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 1966",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RrDXbIsiw3Quy5JR2CpWz_44.051898_-103.196264@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc54b3ef45772e8038052f9b044c6caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387128509
+        }
+    ],
+    "wof:id":387128509,
+    "wof:lastmodified":1449057596,
+    "wof:name":"Anderson Heating & AC SVC",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-103.196264,44.051898,-103.196264,44.051898],
+  "geometry": {"coordinates":[-103.196264,44.051898],"type":"Point"}
+}

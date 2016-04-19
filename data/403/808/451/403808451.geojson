@@ -1,0 +1,68 @@
+{
+  "id": 403808451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.218693,44.061186,-103.218693,44.061186",
+    "geom:latitude":44.061186,
+    "geom:longitude":-103.218693,
+    "iso:country":"US",
+    "sg:address":"2610 Oak Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 2057",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t1qytrobz9rDS5GLGsILz_44.061186_-103.218693@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf15c6d32b899f5774d9d4ef3b480401",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403808451
+        }
+    ],
+    "wof:id":403808451,
+    "wof:lastmodified":1449054683,
+    "wof:name":"Gene Opstedahl Plumbing",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-103.218693,44.061186,-103.218693,44.061186],
+  "geometry": {"coordinates":[-103.218693,44.061186],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 403716643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.491823,45.493961,-97.491823,45.493961",
+    "geom:latitude":45.493961,
+    "geom:longitude":-97.491823,
+    "iso:country":"US",
+    "sg:address":"100 Main St",
+    "sg:city":"Roslyn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 486 4523",
+    "sg:postcode":"57261",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721995,
+        102086871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NQ83cVtRJP96WpLaJM0Ml_45.493961_-97.491823@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a498f34f8c2ecb0271b8a00f15e31c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086871,
+            "locality_id":101721995,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403716643
+        }
+    ],
+    "wof:id":403716643,
+    "wof:lastmodified":1449054816,
+    "wof:name":"Strand Kjorsvig Rest Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-97.491823,45.493961,-97.491823,45.493961],
+  "geometry": {"coordinates":[-97.491823,45.493961],"type":"Point"}
+}

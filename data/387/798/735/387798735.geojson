@@ -1,0 +1,68 @@
+{
+  "id": 387798735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.930161,43.628651,-96.930161,43.628651",
+    "geom:latitude":43.628651,
+    "geom:longitude":-96.930161,
+    "iso:country":"US",
+    "sg:address":"25928 464th Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 528 6205",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ub0CQdPG2bY9HqqmRKeN1_43.628651_-96.930161@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a9af74ad629217d331ed50bac03a041",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387798735
+        }
+    ],
+    "wof:id":387798735,
+    "wof:lastmodified":1449056808,
+    "wof:name":"Snyder & Snyder",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-96.930161,43.628651,-96.930161,43.628651],
+  "geometry": {"coordinates":[-96.930161,43.628651],"type":"Point"}
+}

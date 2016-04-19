@@ -1,0 +1,74 @@
+{
+  "id": 371027783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.064012,44.034338,-103.064012,44.034338",
+    "geom:latitude":44.034338,
+    "geom:longitude":-103.064012,
+    "iso:country":"US",
+    "sg:address":"4550 Terminal Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 393 0663",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:brand_id":420574867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QuBUwLx0pyNfxX2ZRKNXR_44.034338_-103.064012@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4b4c7209970ad94659694f2e79c7727",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371027783
+        }
+    ],
+    "wof:id":371027783,
+    "wof:lastmodified":1457209247,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -103.064012,
+    44.034338,
+    -103.064012,
+    44.034338
+],
+  "geometry": {"coordinates":[-103.06401200000001,44.034338],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387680771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.782823,43.537823,-96.782823,43.537823",
+    "geom:latitude":43.537823,
+    "geom:longitude":-96.782823,
+    "iso:country":"US",
+    "sg:address":"4602 W Sara Pl",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 321 9585",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zjpk7dcy1FCHIozc7ypY3_43.537823_-96.782823@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1eb54b7e85fc58f7240c8b199b2ae1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":387680771
+        }
+    ],
+    "wof:id":387680771,
+    "wof:lastmodified":1449058776,
+    "wof:name":"A Locksmith",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-96.782823,43.537823,-96.782823,43.537823],
+  "geometry": {"coordinates":[-96.782823,43.537823],"type":"Point"}
+}

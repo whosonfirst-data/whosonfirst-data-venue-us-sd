@@ -1,0 +1,79 @@
+{
+  "id": 403818391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488209,45.46955,-98.488209,45.46955",
+    "geom:latitude":45.46955,
+    "geom:longitude":-98.488209,
+    "iso:country":"US",
+    "sg:address":"315 N Main St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 0321",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "shop",
+        "window",
+        "glass",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TtnrQ7DKAglB1id1OmU7t_45.469550_-98.488209@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5ebaf90bf4b5f57ba0729e822166453",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403818391
+        }
+    ],
+    "wof:id":403818391,
+    "wof:lastmodified":1449055281,
+    "wof:name":"Grote Brothers Body Shop LLP",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "window",
+        "glass",
+        "plate"
+    ]
+},
+  "bbox": [-98.488209,45.46955,-98.488209,45.46955],
+  "geometry": {"coordinates":[-98.488209,45.46955],"type":"Point"}
+}

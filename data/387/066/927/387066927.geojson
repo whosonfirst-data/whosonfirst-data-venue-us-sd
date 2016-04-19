@@ -1,0 +1,68 @@
+{
+  "id": 387066927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.810667,43.514732,-96.810667,43.514732",
+    "geom:latitude":43.514732,
+    "geom:longitude":-96.810667,
+    "iso:country":"US",
+    "sg:address":"6511 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 7001",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68TAJoP2ozZvjcjirKOIER_43.514732_-96.810667@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ab8a3b206afaf7a693352d6d962d8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387066927
+        }
+    ],
+    "wof:id":387066927,
+    "wof:lastmodified":1449057208,
+    "wof:name":"Planned Parenthood Minnesota",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-96.810667,43.514732,-96.810667,43.514732],
+  "geometry": {"coordinates":[-96.810667,43.514732],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387851441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.714313,43.594602,-96.714313,43.594602",
+    "geom:latitude":43.594602,
+    "geom:longitude":-96.714313,
+    "iso:country":"US",
+    "sg:address":"610 E 54th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 0885",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KefaDjPfX7LyBkiZGnhOB_43.594602_-96.714313@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef5b61e16be3ccb47597dc12332aefcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387851441
+        }
+    ],
+    "wof:id":387851441,
+    "wof:lastmodified":1449058617,
+    "wof:name":"Jefferson Lines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-96.714313,43.594602,-96.714313,43.594602],
+  "geometry": {"coordinates":[-96.714313,43.594602],"type":"Point"}
+}

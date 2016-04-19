@@ -1,0 +1,69 @@
+{
+  "id": 387614791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.43911,43.355376,-97.43911,43.355376",
+    "geom:latitude":43.355376,
+    "geom:longitude":-97.43911,
+    "iso:country":"US",
+    "sg:address":"224 W Henry St",
+    "sg:city":"Freeman",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 925 4778",
+    "sg:postcode":"57029",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722181,
+        102086815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zVCQgPZJJ76NOCHjNagZz_43.355376_-97.439110@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e000e43347abc642aa016a350f08e281",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086815,
+            "locality_id":101722181,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387614791
+        }
+    ],
+    "wof:id":387614791,
+    "wof:lastmodified":1449060023,
+    "wof:name":"Larsen Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-97.43911,43.355376,-97.43911,43.355376],
+  "geometry": {"coordinates":[-97.43911,43.355376],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 387645531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.772476,44.351074,-103.772476,44.351074",
+    "geom:latitude":44.351074,
+    "geom:longitude":-103.772476,
+    "iso:country":"US",
+    "sg:address":"801 W Main St",
+    "sg:city":"Lead",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 584 1722",
+    "sg:postcode":"57754",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722039,
+        102086813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zHL79dBDI7KG7QkzZm3wC_44.351074_-103.772476@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9853799207ded6049b725f08b1be16a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":101722039,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387645531
+        }
+    ],
+    "wof:id":387645531,
+    "wof:lastmodified":1449056490,
+    "wof:name":"Lead City Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.772476,44.351074,-103.772476,44.351074],
+  "geometry": {"coordinates":[-103.772476,44.351074],"type":"Point"}
+}

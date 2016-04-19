@@ -1,0 +1,68 @@
+{
+  "id": 403712561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.508339,45.456129,-98.508339,45.456129",
+    "geom:latitude":45.456129,
+    "geom:longitude":-98.508339,
+    "iso:country":"US",
+    "sg:address":"1301 9th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 3599",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BsXDTsTfxXKV35AewGl7b_45.456129_-98.508339@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7e9b7e582e4a9cbc818966c4af1cf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403712561
+        }
+    ],
+    "wof:id":403712561,
+    "wof:lastmodified":1449055206,
+    "wof:name":"Ludwig Fred Trucking Shop",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-98.508339,45.456129,-98.508339,45.456129],
+  "geometry": {"coordinates":[-98.508339,45.456129],"type":"Point"}
+}

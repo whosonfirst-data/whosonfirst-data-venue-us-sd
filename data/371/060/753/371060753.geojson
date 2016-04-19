@@ -1,0 +1,70 @@
+{
+  "id": 371060753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.762456,43.558389,-96.762456,43.558389",
+    "geom:latitude":43.558389,
+    "geom:longitude":-96.762456,
+    "iso:country":"US",
+    "sg:address":"2601 W Madison St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 4371",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ffiHYn3ETNBAgo9IJkI4u_43.558389_-96.762456@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82e8a36b208233409253ffa70164b52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":371060753
+        }
+    ],
+    "wof:id":371060753,
+    "wof:lastmodified":1449050042,
+    "wof:name":"Ron's Garage Inc",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-96.762456,43.558389,-96.762456,43.558389],
+  "geometry": {"coordinates":[-96.762456,43.558389],"type":"Point"}
+}

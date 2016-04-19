@@ -1,0 +1,68 @@
+{
+  "id": 403722809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.928088,43.618992,-96.928088,43.618992",
+    "geom:latitude":43.618992,
+    "geom:longitude":-96.928088,
+    "iso:country":"US",
+    "sg:address":"46414 State Hwy 38",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 996 8456",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eDRc7GZdVy7OmRVSh4F9P_43.618992_-96.928088@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4f0de881c5de56d7bb64228e26a05c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":403722809
+        }
+    ],
+    "wof:id":403722809,
+    "wof:lastmodified":1449055096,
+    "wof:name":"Autoglass Express LLC",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [-96.928088,43.618992,-96.928088,43.618992],
+  "geometry": {"coordinates":[-96.928088,43.618992],"type":"Point"}
+}

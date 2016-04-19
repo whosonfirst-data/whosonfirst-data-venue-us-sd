@@ -1,0 +1,67 @@
+{
+  "id": 387208793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.251955,44.078718,-103.251955,44.078718",
+    "geom:latitude":44.078718,
+    "geom:longitude":-103.251955,
+    "iso:country":"US",
+    "sg:address":"730 Mountain View Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 8455",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:brand_id":420574345,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xNRMebPgnIlzAj6of2ldD_44.078718_-103.251955@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"999a37807b2273a832be8ae44508cea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387208793
+        }
+    ],
+    "wof:id":387208793,
+    "wof:lastmodified":1457208804,
+    "wof:name":"Safeway",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -103.251955,
+    44.078718,
+    -103.251955,
+    44.078718
+],
+  "geometry": {"coordinates":[-103.251955,44.078718],"type":"Point"}
+}

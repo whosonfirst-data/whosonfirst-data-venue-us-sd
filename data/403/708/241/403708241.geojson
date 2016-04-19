@@ -1,0 +1,66 @@
+{
+  "id": 403708241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.262138,44.060944,-103.262138,44.060944",
+    "geom:latitude":44.060944,
+    "geom:longitude":-103.262138,
+    "iso:country":"US",
+    "sg:address":"2219 Sheridan Lake Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 390 6603",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QoOzAaBFwzrC9oOo74Nfc_44.060944_-103.262138@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da7c6f620a857a7968844377da76e016",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403708241
+        }
+    ],
+    "wof:id":403708241,
+    "wof:lastmodified":1449054846,
+    "wof:name":"Sweet Tooth Vending",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [-103.262138,44.060944,-103.262138,44.060944],
+  "geometry": {"coordinates":[-103.262138,44.060944],"type":"Point"}
+}

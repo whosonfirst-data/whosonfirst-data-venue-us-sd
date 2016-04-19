@@ -1,0 +1,67 @@
+{
+  "id": 371150863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.777093,45.240083,-99.777093,45.240083",
+    "geom:latitude":45.240083,
+    "geom:longitude":-99.777093,
+    "iso:country":"US",
+    "sg:address":"512 Main St",
+    "sg:city":"Hoven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 948 2201",
+    "sg:postcode":"57450",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722173,
+        102086821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rgkHx6tOmMHobIDlbcEwW_45.240083_-99.777093@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b42943d56d841c3f4ccf7b8ccd314bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086821,
+            "locality_id":101722173,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371150863
+        }
+    ],
+    "wof:id":371150863,
+    "wof:lastmodified":1449049087,
+    "wof:name":"Hoven Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-99.777093,45.240083,-99.777093,45.240083],
+  "geometry": {"coordinates":[-99.777093,45.240083],"type":"Point"}
+}

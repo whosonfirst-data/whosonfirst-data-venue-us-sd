@@ -1,0 +1,67 @@
+{
+  "id": 387673585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.32317,44.358601,-100.32317,44.358601",
+    "geom:latitude":44.358601,
+    "geom:longitude":-100.32317,
+    "iso:country":"US",
+    "sg:address":"2003 E Wells Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 7368",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KOsPksKz48ICvTbNPZjC4_44.358601_-100.323170@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6604a4fc98e1e934d0c48ee75f56666",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387673585
+        }
+    ],
+    "wof:id":387673585,
+    "wof:lastmodified":1449057579,
+    "wof:name":"Rent-A-Wreck",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-100.32317,44.358601,-100.32317,44.358601],
+  "geometry": {"coordinates":[-100.32317,44.358601],"type":"Point"}
+}

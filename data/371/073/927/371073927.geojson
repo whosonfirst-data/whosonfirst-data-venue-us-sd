@@ -1,0 +1,67 @@
+{
+  "id": 371073927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.834741,45.605676,-97.834741,45.605676",
+    "geom:latitude":45.605676,
+    "geom:longitude":-97.834741,
+    "iso:country":"US",
+    "sg:address":"118 Elm St",
+    "sg:city":"Leola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 439 3373",
+    "sg:postcode":"57454",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721841,
+        102086785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xVzHPBKCSHI9YeS8f8pfE_45.605676_-97.834741@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29b6fd083904f4a1ba79d10d66ba332f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086785,
+            "locality_id":101721841,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371073927
+        }
+    ],
+    "wof:id":371073927,
+    "wof:lastmodified":1449049165,
+    "wof:name":"Curt's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.834741,45.605676,-97.834741,45.605676],
+  "geometry": {"coordinates":[-97.834741,45.605676],"type":"Point"}
+}

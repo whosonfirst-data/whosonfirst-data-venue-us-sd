@@ -1,0 +1,67 @@
+{
+  "id": 387933169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.774657,43.566705,-96.774657,43.566705",
+    "geom:latitude":43.566705,
+    "geom:longitude":-96.774657,
+    "iso:country":"US",
+    "sg:address":"3410 W Eide Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 8095",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.myyellow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TEv8FLX9YVQEpN568gcRl_43.566705_-96.774657@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7337c3f719a15c8ee56a8b8d863499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387933169
+        }
+    ],
+    "wof:id":387933169,
+    "wof:lastmodified":1449056883,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-96.774657,43.566705,-96.774657,43.566705],
+  "geometry": {"coordinates":[-96.774657,43.566705],"type":"Point"}
+}

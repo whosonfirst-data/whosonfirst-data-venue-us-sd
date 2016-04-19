@@ -1,0 +1,68 @@
+{
+  "id": 387668665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728269,43.55625,-96.728269,43.55625",
+    "geom:latitude":43.55625,
+    "geom:longitude":-96.728269,
+    "iso:country":"US",
+    "sg:address":"714 N Main Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 0718",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xh5BDEBcRkTI2OeQXE3q2_43.556250_-96.728269@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6807508572c689604ed1597201e3e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387668665
+        }
+    ],
+    "wof:id":387668665,
+    "wof:lastmodified":1449058762,
+    "wof:name":"Import Auto Specialties",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.728269,43.55625,-96.728269,43.55625],
+  "geometry": {"coordinates":[-96.728269,43.55625],"type":"Point"}
+}

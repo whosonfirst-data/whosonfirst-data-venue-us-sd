@@ -1,0 +1,65 @@
+{
+  "id": 387372391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.146691,43.898194,-98.146691,43.898194",
+    "geom:latitude":43.898194,
+    "geom:longitude":-98.146691,
+    "iso:country":"US",
+    "sg:address":"302 W Main St",
+    "sg:city":"Letcher",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 248 2242",
+    "sg:postcode":"57359",
+    "sg:province":"SD",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721769,
+        102086061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fPJTg4Dx68SH4ibGaHLzu_43.898194_-98.146691@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3931b593cc593ec58c1e8bec840ecab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086061,
+            "locality_id":101721769,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387372391
+        }
+    ],
+    "wof:id":387372391,
+    "wof:lastmodified":1449058414,
+    "wof:name":"Letcher Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-98.146691,43.898194,-98.146691,43.898194],
+  "geometry": {"coordinates":[-98.146691,43.898194],"type":"Point"}
+}

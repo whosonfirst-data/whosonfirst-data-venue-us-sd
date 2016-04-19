@@ -1,0 +1,66 @@
+{
+  "id": 387039493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-102.83637,44.091182,-102.83637,44.091182",
+    "geom:latitude":44.091182,
+    "geom:longitude":-102.83637,
+    "iso:country":"US",
+    "sg:address":"501 S A Ave",
+    "sg:city":"New Underwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 754 6767",
+    "sg:postcode":"57761",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5Y3YQkM2mHdw1Hh2U0aR_44.091182_-102.836370@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d5b3b3e03843a0b3080776d6410c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387039493
+        }
+    ],
+    "wof:id":387039493,
+    "wof:lastmodified":1449059446,
+    "wof:name":"Pennington County Sheriff Ofc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-102.83637,44.091182,-102.83637,44.091182],
+  "geometry": {"coordinates":[-102.83637,44.091182],"type":"Point"}
+}

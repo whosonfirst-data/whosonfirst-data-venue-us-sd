@@ -1,0 +1,70 @@
+{
+  "id": 403735645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708956,43.565648,-96.708956,43.565648",
+    "geom:latitude":43.565648,
+    "geom:longitude":-96.708956,
+    "iso:country":"US",
+    "sg:address":"1309 E Walnut St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 8984",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop",
+        "auto",
+        "detail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JK0Skc42fI8ohkypv8d9w_43.565648_-96.708956@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d36982d62d3debd9c28ee8cd256ea124",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":403735645
+        }
+    ],
+    "wof:id":403735645,
+    "wof:lastmodified":1449055914,
+    "wof:name":"Appearance Plus",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "auto",
+        "detail"
+    ]
+},
+  "bbox": [-96.708956,43.565648,-96.708956,43.565648],
+  "geometry": {"coordinates":[-96.708956,43.565648],"type":"Point"}
+}

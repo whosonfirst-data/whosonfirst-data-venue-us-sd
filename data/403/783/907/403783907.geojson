@@ -1,0 +1,68 @@
+{
+  "id": 403783907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.217161,44.079395,-103.217161,44.079395",
+    "geom:latitude":44.079395,
+    "geom:longitude":-103.217161,
+    "iso:country":"US",
+    "sg:address":"29 Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 5506",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y86W94snYl9Q6VMPrmUNV_44.079395_-103.217161@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db3810b07c10cc96b7d027145e93457b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403783907
+        }
+    ],
+    "wof:id":403783907,
+    "wof:lastmodified":1449054666,
+    "wof:name":"Airport Air Freight Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [-103.217161,44.079395,-103.217161,44.079395],
+  "geometry": {"coordinates":[-103.217161,44.079395],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 403820663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.125576,43.39957,-97.125576,43.39957",
+    "geom:latitude":43.39957,
+    "geom:longitude":-97.125576,
+    "iso:country":"US",
+    "sg:address":"869 E 4th St",
+    "sg:city":"Parker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 297 5000",
+    "sg:postcode":"57053",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721689,
+        102086867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DjAAAabKluJOo6YKzreuy_43.399570_-97.125576@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f89bc4819c9740f6d7309786f9f667b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086867,
+            "locality_id":101721689,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403820663
+        }
+    ],
+    "wof:id":403820663,
+    "wof:lastmodified":1449055336,
+    "wof:name":"T C Collision",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-97.125576,43.39957,-97.125576,43.39957],
+  "geometry": {"coordinates":[-97.125576,43.39957],"type":"Point"}
+}

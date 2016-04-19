@@ -1,0 +1,71 @@
+{
+  "id": 371034687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.32819,43.812063,-99.32819,43.812063",
+    "geom:latitude":43.812063,
+    "geom:longitude":-99.32819,
+    "iso:country":"US",
+    "sg:address":"215 N Sanborn St",
+    "sg:city":"Chamberlain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 734 5826",
+    "sg:postcode":"57325",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722035,
+        102086817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmGwSf6ub6pBKQdf8wyhl_43.812063_-99.328190@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55a15efc71e61e77ca8f1aaf57f0008b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086817,
+            "locality_id":101722035,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371034687
+        }
+    ],
+    "wof:id":371034687,
+    "wof:lastmodified":1449049141,
+    "wof:name":"Joe's Automotive Machine Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [-99.32819,43.812063,-99.32819,43.812063],
+  "geometry": {"coordinates":[-99.32819,43.812063],"type":"Point"}
+}

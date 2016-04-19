@@ -1,0 +1,68 @@
+{
+  "id": 387690303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.476324,45.462278,-98.476324,45.462278",
+    "geom:latitude":45.462278,
+    "geom:longitude":-98.476324,
+    "iso:country":"US",
+    "sg:address":"703 3rd Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 1010",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GyeaSuoJ9EL8JHF4BUftq_45.462278_-98.476324@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b36546be773bf04ae74beaa849e4338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387690303
+        }
+    ],
+    "wof:id":387690303,
+    "wof:lastmodified":1449058119,
+    "wof:name":"Northeastern Mental Health Ctr",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-98.476324,45.462278,-98.476324,45.462278],
+  "geometry": {"coordinates":[-98.476324,45.462278],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387028715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708765,43.536794,-96.708765,43.536794",
+    "geom:latitude":43.536794,
+    "geom:longitude":-96.708765,
+    "iso:country":"US",
+    "sg:address":"1016 S Van Eps Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 1612",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DhFqc5xvOTwVNlHKsM1hB_43.536794_-96.708765@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78001215c96888355eb3004f702f046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387028715
+        }
+    ],
+    "wof:id":387028715,
+    "wof:lastmodified":1449058167,
+    "wof:name":"Rote Electric",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-96.708765,43.536794,-96.708765,43.536794],
+  "geometry": {"coordinates":[-96.708765,43.536794],"type":"Point"}
+}

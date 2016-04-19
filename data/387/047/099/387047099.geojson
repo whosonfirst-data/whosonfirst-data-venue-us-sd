@@ -1,0 +1,66 @@
+{
+  "id": 387047099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.064012,44.034338,-103.064012,44.034338",
+    "geom:latitude":44.034338,
+    "geom:longitude":-103.064012,
+    "iso:country":"US",
+    "sg:address":"4550 Terminal Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 393 0685",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qrdUsprnkgxvXdb2VSsit_44.034338_-103.064012@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4b4c7209970ad94659694f2e79c7727",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387047099
+        }
+    ],
+    "wof:id":387047099,
+    "wof:lastmodified":1449058566,
+    "wof:name":"Airport Parking",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-103.064012,44.034338,-103.064012,44.034338],
+  "geometry": {"coordinates":[-103.064012,44.034338],"type":"Point"}
+}

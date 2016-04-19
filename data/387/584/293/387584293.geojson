@@ -1,0 +1,70 @@
+{
+  "id": 387584293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.761176,43.554759,-96.761176,43.554759",
+    "geom:latitude":43.554759,
+    "geom:longitude":-96.761176,
+    "iso:country":"US",
+    "sg:address":"500 N Kiwanis Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 3703",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VNO8zvPqncd214XAR8B7E_43.554759_-96.761176@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb6abbdde59799053a763d8a126b1b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387584293
+        }
+    ],
+    "wof:id":387584293,
+    "wof:lastmodified":1449056524,
+    "wof:name":"Triple A Atm",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [-96.761176,43.554759,-96.761176,43.554759],
+  "geometry": {"coordinates":[-96.761176,43.554759],"type":"Point"}
+}

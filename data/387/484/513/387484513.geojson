@@ -1,0 +1,68 @@
+{
+  "id": 387484513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.746011,43.517668,-96.746011,43.517668",
+    "geom:latitude":43.517668,
+    "geom:longitude":-96.746011,
+    "iso:country":"US",
+    "sg:address":"1612 W 38th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 0144",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "coin",
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t8hUyOTHY697Ao5qQfVfn_43.517668_-96.746011@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a165a56e853c9b55d01e1d13c12d71eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387484513
+        }
+    ],
+    "wof:id":387484513,
+    "wof:lastmodified":1449059699,
+    "wof:name":"Briteway Laundry",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "laundromat"
+    ]
+},
+  "bbox": [-96.746011,43.517668,-96.746011,43.517668],
+  "geometry": {"coordinates":[-96.746011,43.517668],"type":"Point"}
+}

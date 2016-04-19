@@ -1,0 +1,70 @@
+{
+  "id": 387012039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.670353,43.559221,-96.670353,43.559221",
+    "geom:latitude":43.559221,
+    "geom:longitude":-96.670353,
+    "iso:country":"US",
+    "sg:address":"1013 N Vail Cir",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 4184",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85808761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VSnj0T6tOVsyKKIZNlXVd_43.559221_-96.670353@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a9880b7b650f44ee516714c16307002",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85808761,
+            "region_id":85688693,
+            "venue_id":387012039
+        }
+    ],
+    "wof:id":387012039,
+    "wof:lastmodified":1449059535,
+    "wof:name":"S&L Trucking Inc",
+    "wof:parent_id":85808761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.670353,43.559221,-96.670353,43.559221],
+  "geometry": {"coordinates":[-96.670353,43.559221],"type":"Point"}
+}

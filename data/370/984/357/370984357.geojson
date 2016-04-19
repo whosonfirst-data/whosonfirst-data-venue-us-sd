@@ -1,0 +1,68 @@
+{
+  "id": 370984357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.79082,43.53324,-96.79082,43.53324",
+    "geom:latitude":43.53324,
+    "geom:longitude":-96.79082,
+    "iso:country":"US",
+    "sg:address":"1400 S Marion Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 2636",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aODBVYYbzhRyMhwkV6zdC_43.533240_-96.790820@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a101a3d014360fd816e0ec5b19b51ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":370984357
+        }
+    ],
+    "wof:id":370984357,
+    "wof:lastmodified":1449030989,
+    "wof:name":"A Locksmith",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-96.79082,43.53324,-96.79082,43.53324],
+  "geometry": {"coordinates":[-96.79082,43.53324],"type":"Point"}
+}

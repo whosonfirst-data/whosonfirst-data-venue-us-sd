@@ -1,0 +1,67 @@
+{
+  "id": 371192083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.742368,43.535874,-96.742368,43.535874",
+    "geom:latitude":43.535874,
+    "geom:longitude":-96.742368,
+    "iso:country":"US",
+    "sg:address":"1100 S Euclid Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 328 7800",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4INztUhCpiV3Et8a79aVJa_43.535874_-96.742368@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f9c9a58e978a487a1224a2c4f13f80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371192083
+        }
+    ],
+    "wof:id":371192083,
+    "wof:lastmodified":1449049794,
+    "wof:name":"Pediatric Specialists",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.742368,43.535874,-96.742368,43.535874],
+  "geometry": {"coordinates":[-96.742368,43.535874],"type":"Point"}
+}

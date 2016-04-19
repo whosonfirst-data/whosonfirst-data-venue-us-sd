@@ -1,0 +1,68 @@
+{
+  "id": 387170113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711337,43.535474,-96.711337,43.535474",
+    "geom:latitude":43.535474,
+    "geom:longitude":-96.711337,
+    "iso:country":"US",
+    "sg:address":"1100 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 9709",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "appraiser",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y6LmR2hhQeOCp98bgtWk5_43.535474_-96.711337@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2f7598cb374985b6e4f48ae96e16cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387170113
+        }
+    ],
+    "wof:id":387170113,
+    "wof:lastmodified":1449056467,
+    "wof:name":"Weber Appraisal",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser",
+        "business"
+    ]
+},
+  "bbox": [-96.711337,43.535474,-96.711337,43.535474],
+  "geometry": {"coordinates":[-96.711337,43.535474],"type":"Point"}
+}

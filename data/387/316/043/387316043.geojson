@@ -1,0 +1,66 @@
+{
+  "id": 387316043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.763718,43.551564,-96.763718,43.551564",
+    "geom:latitude":43.551564,
+    "geom:longitude":-96.763718,
+    "iso:country":"US",
+    "sg:address":"2825 W 6th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 4040",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FXoHzTCv4qMegGsVTIF4I_43.551564_-96.763718@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6eedfc14ccaf7a1fdce90b11b48d85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387316043
+        }
+    ],
+    "wof:id":387316043,
+    "wof:lastmodified":1449058687,
+    "wof:name":"Redi Towing Inc",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-96.763718,43.551564,-96.763718,43.551564],
+  "geometry": {"coordinates":[-96.763718,43.551564],"type":"Point"}
+}

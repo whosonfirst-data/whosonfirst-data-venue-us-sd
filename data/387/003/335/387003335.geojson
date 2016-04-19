@@ -1,0 +1,70 @@
+{
+  "id": 387003335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799785,43.527,-96.799785,43.527",
+    "geom:latitude":43.527,
+    "geom:longitude":-96.799785,
+    "iso:country":"US",
+    "sg:address":"5800 W 28th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 3895",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08VQr8jDcimMuUoPskMcbi_43.527000_-96.799785@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e60b98f0b817f58c2c99ac4c9ac97f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387003335
+        }
+    ],
+    "wof:id":387003335,
+    "wof:lastmodified":1449059620,
+    "wof:name":"Superior Seal",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [-96.799785,43.527,-96.799785,43.527],
+  "geometry": {"coordinates":[-96.799785,43.527],"type":"Point"}
+}

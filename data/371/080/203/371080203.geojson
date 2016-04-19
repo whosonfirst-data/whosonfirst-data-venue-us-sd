@@ -1,0 +1,66 @@
+{
+  "id": 371080203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.790945,43.52207,-96.790945,43.52207",
+    "geom:latitude":43.52207,
+    "geom:longitude":-96.790945,
+    "iso:country":"US",
+    "sg:address":"2601 S Marion Rd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 362 1513",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_518EuKzA0MrHimLnvBebW2_43.522070_-96.790945@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3f24de694d51b7d184ee09e5cadc11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371080203
+        }
+    ],
+    "wof:id":371080203,
+    "wof:lastmodified":1449050109,
+    "wof:name":"Sioux Falls SDA School",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [-96.790945,43.52207,-96.790945,43.52207],
+  "geometry": {"coordinates":[-96.790945,43.52207],"type":"Point"}
+}

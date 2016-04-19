@@ -1,0 +1,73 @@
+{
+  "id": 387731861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726717,43.54501,-96.726717,43.54501",
+    "geom:latitude":43.54501,
+    "geom:longitude":-96.726717,
+    "iso:country":"US",
+    "sg:address":"224 S Phillips Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 1313",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l0FckvFZv36K7ATEs4mOH_43.545010_-96.726717@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ee81bb828be41d80b2e5b1ae12f771e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":387731861
+        }
+    ],
+    "wof:id":387731861,
+    "wof:lastmodified":1449059494,
+    "wof:name":"Break Time Billiards",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [-96.726717,43.54501,-96.726717,43.54501],
+  "geometry": {"coordinates":[-96.726717,43.54501],"type":"Point"}
+}

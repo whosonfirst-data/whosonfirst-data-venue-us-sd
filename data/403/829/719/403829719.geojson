@@ -1,0 +1,68 @@
+{
+  "id": 403829719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.732545,43.531233,-96.732545,43.531233",
+    "geom:latitude":43.531233,
+    "geom:longitude":-96.732545,
+    "iso:country":"US",
+    "sg:address":"500 W 24th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 274 1969",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qr6xROC2T4K1oa1CxYi4s_43.531233_-96.732545@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1026b879928c7ffdd20baf914a2c1ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":403829719
+        }
+    ],
+    "wof:id":403829719,
+    "wof:lastmodified":1449055868,
+    "wof:name":"French Tip",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [-96.732545,43.531233,-96.732545,43.531233],
+  "geometry": {"coordinates":[-96.732545,43.531233],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 403761671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.512529,44.415634,-103.512529,44.415634",
+    "geom:latitude":44.415634,
+    "geom:longitude":-103.512529,
+    "iso:country":"US",
+    "sg:address":"1111 Lazelle St",
+    "sg:city":"Sturgis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 347 2466",
+    "sg:postcode":"57785",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722091,
+        102086083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zm1dqNrFwduHnErL7CsGG_44.415634_-103.512529@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c023b50e0f55d7f37d6055567f7a726",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086083,
+            "locality_id":101722091,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403761671
+        }
+    ],
+    "wof:id":403761671,
+    "wof:lastmodified":1449055642,
+    "wof:name":"County Drug Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [-103.512529,44.415634,-103.512529,44.415634],
+  "geometry": {"coordinates":[-103.512529,44.415634],"type":"Point"}
+}

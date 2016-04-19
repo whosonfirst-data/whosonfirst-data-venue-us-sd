@@ -1,0 +1,67 @@
+{
+  "id": 387608627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.549617,44.384685,-97.549617,44.384685",
+    "geom:latitude":44.384685,
+    "geom:longitude":-97.549617,
+    "iso:country":"US",
+    "sg:address":"331 Calumet Ave SW",
+    "sg:city":"De Smet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 854 3530",
+    "sg:postcode":"57231",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722125,
+        102086869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CrBs0WaRwRRxNR9PXsRMN_44.384685_-97.549617@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3dd6741646552e5cf31849be7554cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086869,
+            "locality_id":101722125,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387608627
+        }
+    ],
+    "wof:id":387608627,
+    "wof:lastmodified":1449057737,
+    "wof:name":"De Smet Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [-97.549617,44.384685,-97.549617,44.384685],
+  "geometry": {"coordinates":[-97.549617,44.384685],"type":"Point"}
+}

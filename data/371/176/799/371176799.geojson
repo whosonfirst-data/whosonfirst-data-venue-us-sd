@@ -1,0 +1,66 @@
+{
+  "id": 371176799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.215422,44.052246,-103.215422,44.052246",
+    "geom:latitude":44.052246,
+    "geom:longitude":-103.215422,
+    "iso:country":"US",
+    "sg:address":"3505 Cypress Ct",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 0914",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fdllAFLvU7QIYjspwCa2H_44.052246_-103.215422@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0db30cedbd9053ec31f8eab3107ea10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371176799
+        }
+    ],
+    "wof:id":371176799,
+    "wof:lastmodified":1449049745,
+    "wof:name":"Rusty's Taxidermy",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [-103.215422,44.052246,-103.215422,44.052246],
+  "geometry": {"coordinates":[-103.215422,44.052246],"type":"Point"}
+}

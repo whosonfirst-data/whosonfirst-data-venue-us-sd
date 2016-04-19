@@ -1,0 +1,66 @@
+{
+  "id": 403705231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758453,43.545027,-96.758453,43.545027",
+    "geom:latitude":43.545027,
+    "geom:longitude":-96.758453,
+    "iso:country":"US",
+    "sg:address":"311 S Garfield Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2323",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZugsNGf9GvMdPBcqUVWp_43.545027_-96.758453@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e75256392f4e156e3772e2b57f1e69e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":403705231
+        }
+    ],
+    "wof:id":403705231,
+    "wof:lastmodified":1449055972,
+    "wof:name":"Golden Harvest",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-96.758453,43.545027,-96.758453,43.545027],
+  "geometry": {"coordinates":[-96.758453,43.545027],"type":"Point"}
+}

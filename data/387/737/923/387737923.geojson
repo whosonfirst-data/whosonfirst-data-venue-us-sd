@@ -1,0 +1,70 @@
+{
+  "id": 387737923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.254111,44.084295,-103.254111,44.084295",
+    "geom:latitude":44.084295,
+    "geom:longitude":-103.254111,
+    "iso:country":"US",
+    "sg:address":"20 Deadwood Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 1151",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70ih7HgEAcHlkPSau9OLbc_44.084295_-103.254111@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e83533926fd75ad7a59f6523d312060",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387737923
+        }
+    ],
+    "wof:id":387737923,
+    "wof:lastmodified":1449056952,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [-103.254111,44.084295,-103.254111,44.084295],
+  "geometry": {"coordinates":[-103.254111,44.084295],"type":"Point"}
+}

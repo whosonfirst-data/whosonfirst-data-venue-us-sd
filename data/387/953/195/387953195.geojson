@@ -1,0 +1,71 @@
+{
+  "id": 387953195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789218,43.543825,-96.789218,43.543825",
+    "geom:latitude":43.543825,
+    "geom:longitude":-96.789218,
+    "iso:country":"US",
+    "sg:address":"5009 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 5734",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gKQYgNH5kacraUOt6Eda0_43.543825_-96.789218@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af97d50b38b17d0851f38ead30749025",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":387953195
+        }
+    ],
+    "wof:id":387953195,
+    "wof:lastmodified":1449058735,
+    "wof:name":"Tender Loving Clean",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-96.789218,43.543825,-96.789218,43.543825],
+  "geometry": {"coordinates":[-96.789218,43.543825],"type":"Point"}
+}

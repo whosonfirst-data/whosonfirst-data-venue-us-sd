@@ -1,0 +1,67 @@
+{
+  "id": 387627321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641613,43.538804,-96.641613,43.538804",
+    "geom:latitude":43.538804,
+    "geom:longitude":-96.641613,
+    "iso:country":"US",
+    "sg:address":"1000 N Quartzite Cir",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 371 2600",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85850485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12fYpNOQ5lFQrprLGToAKv_43.538804_-96.641613@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac3a6318ced4e1dbc1069a3b422f793b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85850485,
+            "region_id":85688693,
+            "venue_id":387627321
+        }
+    ],
+    "wof:id":387627321,
+    "wof:lastmodified":1449059998,
+    "wof:name":"Tom Smith Masonry Inc",
+    "wof:parent_id":85850485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [-96.641613,43.538804,-96.641613,43.538804],
+  "geometry": {"coordinates":[-96.641613,43.538804],"type":"Point"}
+}

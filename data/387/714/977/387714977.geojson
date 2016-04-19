@@ -1,0 +1,68 @@
+{
+  "id": 387714977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.777355,43.544009,-96.777355,43.544009",
+    "geom:latitude":43.544009,
+    "geom:longitude":-96.777355,
+    "iso:country":"US",
+    "sg:address":"4200 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 0198",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VFc9z50Aa9jKdunVOQzwu_43.544009_-96.777355@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2890c797635975c0e61150b56b48ca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387714977
+        }
+    ],
+    "wof:id":387714977,
+    "wof:lastmodified":1449057980,
+    "wof:name":"Lithia Subaru Of Sioux Falls",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.777355,43.544009,-96.777355,43.544009],
+  "geometry": {"coordinates":[-96.777355,43.544009],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387830581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.249845,44.080368,-103.249845,44.080368",
+    "geom:latitude":44.080368,
+    "geom:longitude":-103.249845,
+    "iso:country":"US",
+    "sg:address":"1822 W Kansas City St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 2003",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EKRidBF3ZkHiMaPiq3UPR_44.080368_-103.249845@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36918a931b04c7eae98a3a4505db5909",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387830581
+        }
+    ],
+    "wof:id":387830581,
+    "wof:lastmodified":1449056908,
+    "wof:name":"Curt's Upholstery",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [-103.249845,44.080368,-103.249845,44.080368],
+  "geometry": {"coordinates":[-103.249845,44.080368],"type":"Point"}
+}

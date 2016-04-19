@@ -1,0 +1,65 @@
+{
+  "id": 403717143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-102.159336,45.943954,-102.159336,45.943954",
+    "geom:latitude":45.943954,
+    "geom:longitude":-102.159336,
+    "iso:country":"US",
+    "sg:address":"100 Main Ave",
+    "sg:city":"Lemmon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 374 5651",
+    "sg:postcode":"57638",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721581,
+        102086801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VKnE9aZRo38oUtLQcTpvF_45.943954_-102.159336@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f01f05f20302f64f22b031cc16414dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086801,
+            "locality_id":101721581,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403717143
+        }
+    ],
+    "wof:id":403717143,
+    "wof:lastmodified":1449054656,
+    "wof:name":"Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-102.159336,45.943954,-102.159336,45.943954],
+  "geometry": {"coordinates":[-102.159336,45.943954],"type":"Point"}
+}

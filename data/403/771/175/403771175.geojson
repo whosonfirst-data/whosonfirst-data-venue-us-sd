@@ -1,0 +1,71 @@
+{
+  "id": 403771175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.035375,43.698766,-98.035375,43.698766",
+    "geom:latitude":43.698766,
+    "geom:longitude":-98.035375,
+    "iso:country":"US",
+    "sg:address":"1217 Mitchell Blvd",
+    "sg:city":"Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 996 1765",
+    "sg:postcode":"57301",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721597,
+        102086045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mAA0xhzNaUE0MFDFKNjZ0_43.698766_-98.035375@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d53821245c0d95c8133de95d08d48d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086045,
+            "locality_id":101721597,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403771175
+        }
+    ],
+    "wof:id":403771175,
+    "wof:lastmodified":1449055352,
+    "wof:name":"Bender's Sewer Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [-98.035375,43.698766,-98.035375,43.698766],
+  "geometry": {"coordinates":[-98.035375,43.698766],"type":"Point"}
+}

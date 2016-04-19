@@ -1,0 +1,65 @@
+{
+  "id": 403833793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.622629,43.605185,-97.622629,43.605185",
+    "geom:latitude":43.605185,
+    "geom:longitude":-97.622629,
+    "iso:country":"US",
+    "sg:address":"341 N 3rd St",
+    "sg:city":"Emery",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 449 4455",
+    "sg:postcode":"57332",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722029,
+        102086795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lgpolZPJkACPxhMTKWjt6_43.605185_-97.622629@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b761fe26f8cbf8d0620c7453c43c439b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086795,
+            "locality_id":101722029,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403833793
+        }
+    ],
+    "wof:id":403833793,
+    "wof:lastmodified":1449054791,
+    "wof:name":"City Police",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-97.622629,43.605185,-97.622629,43.605185],
+  "geometry": {"coordinates":[-97.622629,43.605185],"type":"Point"}
+}

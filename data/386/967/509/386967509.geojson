@@ -1,0 +1,65 @@
+{
+  "id": 386967509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.861201,44.487039,-103.861201,44.487039",
+    "geom:latitude":44.487039,
+    "geom:longitude":-103.861201,
+    "iso:country":"US",
+    "sg:address":"440 Canyon St",
+    "sg:city":"Spearfish",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 642 8810",
+    "sg:postcode":"57783",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722043,
+        102086813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Obe8XapqfEFdvR0aJma87_44.487039_-103.861201@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6cf30b58eb8e40ef811005bc964ee44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086813,
+            "locality_id":101722043,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386967509
+        }
+    ],
+    "wof:id":386967509,
+    "wof:lastmodified":1449028959,
+    "wof:name":"Spearfish Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.861201,44.487039,-103.861201,44.487039],
+  "geometry": {"coordinates":[-103.861201,44.487039],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387812303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.730254,43.5166,-96.730254,43.5166",
+    "geom:latitude":43.5166,
+    "geom:longitude":-96.730254,
+    "iso:country":"US",
+    "sg:address":"209 W 39th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 0802",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rOsvLnJ0kacTNXDSlNKjq_43.516600_-96.730254@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a23782c96651711bb9e799f3cdffdcf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387812303
+        }
+    ],
+    "wof:id":387812303,
+    "wof:lastmodified":1449056221,
+    "wof:name":"Ulven Orthodontic Laboratories",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-96.730254,43.5166,-96.730254,43.5166],
+  "geometry": {"coordinates":[-96.730254,43.5166],"type":"Point"}
+}

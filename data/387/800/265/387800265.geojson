@@ -1,0 +1,68 @@
+{
+  "id": 387800265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.118812,44.125521,-103.118812,44.125521",
+    "geom:latitude":44.125521,
+    "geom:longitude":-103.118812,
+    "iso:country":"US",
+    "sg:address":"14673 Country Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 2201",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16rAXohpAdgI9IPyL1auUz_44.125521_-103.118812@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afe6b67bf9f3773ca6241c493a25cb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387800265
+        }
+    ],
+    "wof:id":387800265,
+    "wof:lastmodified":1449056412,
+    "wof:name":"Fish Garbage Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-103.118812,44.125521,-103.118812,44.125521],
+  "geometry": {"coordinates":[-103.118812,44.125521],"type":"Point"}
+}

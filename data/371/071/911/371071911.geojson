@@ -1,0 +1,67 @@
+{
+  "id": 371071911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.212457,44.583749,-97.212457,44.583749",
+    "geom:latitude":44.583749,
+    "geom:longitude":-97.212457,
+    "iso:country":"US",
+    "sg:address":"803 Park St",
+    "sg:city":"Lake Norden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 785 3654",
+    "sg:postcode":"57248",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722011,
+        102086845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LWZwgDw8xAqcnQ9CBZ79O_44.583749_-97.212457@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bbe284176574a826583a84a176538ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086845,
+            "locality_id":101722011,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371071911
+        }
+    ],
+    "wof:id":371071911,
+    "wof:lastmodified":1449049705,
+    "wof:name":"Lake Norden Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-97.212457,44.583749,-97.212457,44.583749],
+  "geometry": {"coordinates":[-97.212457,44.583749],"type":"Point"}
+}

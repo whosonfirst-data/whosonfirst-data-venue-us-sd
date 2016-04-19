@@ -1,0 +1,68 @@
+{
+  "id": 403742693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.249782,44.080377,-103.249782,44.080377",
+    "geom:latitude":44.080377,
+    "geom:longitude":-103.249782,
+    "iso:country":"US",
+    "sg:address":"1828 W Kansas City St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 1350",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52XZFETaR6m5QgFj5oKZSf_44.080377_-103.249782@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a5499685b99df1683478fd0ea4bc9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403742693
+        }
+    ],
+    "wof:id":403742693,
+    "wof:lastmodified":1449054720,
+    "wof:name":"Allergy Clinic",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.249782,44.080377,-103.249782,44.080377],
+  "geometry": {"coordinates":[-103.249782,44.080377],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387797489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.449607,45.473606,-98.449607,45.473606",
+    "geom:latitude":45.473606,
+    "geom:longitude":-98.449607,
+    "iso:country":"US",
+    "sg:address":"2821 8th Ave NE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 3036",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nAbxbdgKQC48aKRY6uMOK_45.473606_-98.449607@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"580082e248017634123f23943806ad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387797489
+        }
+    ],
+    "wof:id":387797489,
+    "wof:lastmodified":1449059540,
+    "wof:name":"Cunningham Electric",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-98.449607,45.473606,-98.449607,45.473606],
+  "geometry": {"coordinates":[-98.449607,45.473606],"type":"Point"}
+}

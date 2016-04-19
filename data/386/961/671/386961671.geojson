@@ -1,0 +1,70 @@
+{
+  "id": 386961671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.262053,44.056888,-103.262053,44.056888",
+    "geom:latitude":44.056888,
+    "geom:longitude":-103.262053,
+    "iso:country":"US",
+    "sg:address":"2920 Sheridan Lake Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 721 1991",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lXvjuvPizisGLrRUhbTu0_44.056888_-103.262053@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74a1f8ba855a4d4d2775da034157df66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":386961671
+        }
+    ],
+    "wof:id":386961671,
+    "wof:lastmodified":1449028963,
+    "wof:name":"B H Child Psychiatric Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ]
+},
+  "bbox": [-103.262053,44.056888,-103.262053,44.056888],
+  "geometry": {"coordinates":[-103.262053,44.056888],"type":"Point"}
+}

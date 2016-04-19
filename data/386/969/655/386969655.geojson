@@ -1,0 +1,68 @@
+{
+  "id": 386969655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.778033,43.544002,-96.778033,43.544002",
+    "geom:latitude":43.544002,
+    "geom:longitude":-96.778033,
+    "iso:country":"US",
+    "sg:address":"4402 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 5550",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EqPkLSKjgDYhZO03dCdsm_43.544002_-96.778033@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d76ba77b1316503cf6ffe8269f942c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":386969655
+        }
+    ],
+    "wof:id":386969655,
+    "wof:lastmodified":1449028688,
+    "wof:name":"Car Vantage",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.778033,43.544002,-96.778033,43.544002],
+  "geometry": {"coordinates":[-96.778033,43.544002],"type":"Point"}
+}

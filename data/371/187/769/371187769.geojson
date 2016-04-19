@@ -1,0 +1,70 @@
+{
+  "id": 371187769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.171586,44.067504,-103.171586,44.067504",
+    "geom:latitude":44.067504,
+    "geom:longitude":-103.171586,
+    "iso:country":"US",
+    "sg:address":"1755 S Valley Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 5911",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NZhtOgkGADUGRqDn61kY6_44.067504_-103.171586@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6502b5cd9332045c5ba0d722db840161",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371187769
+        }
+    ],
+    "wof:id":371187769,
+    "wof:lastmodified":1449049190,
+    "wof:name":"Mel's Auto Body",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-103.171586,44.067504,-103.171586,44.067504],
+  "geometry": {"coordinates":[-103.171586,44.067504],"type":"Point"}
+}

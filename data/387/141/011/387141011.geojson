@@ -1,0 +1,68 @@
+{
+  "id": 387141011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.251942,44.104725,-103.251942,44.104725",
+    "geom:latitude":44.104725,
+    "geom:longitude":-103.251942,
+    "iso:country":"US",
+    "sg:address":"2000 Wesleyan Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3555",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "skilled",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yw9vXst9LEWmBFlfnZzcN_44.104725_-103.251942@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc54287b5aa8ab0fb2d5e80d58f6fd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387141011
+        }
+    ],
+    "wof:id":387141011,
+    "wof:lastmodified":1449057432,
+    "wof:name":"Wesleyan Health Care Center",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "intermediate"
+    ]
+},
+  "bbox": [-103.251942,44.104725,-103.251942,44.104725],
+  "geometry": {"coordinates":[-103.251942,44.104725],"type":"Point"}
+}

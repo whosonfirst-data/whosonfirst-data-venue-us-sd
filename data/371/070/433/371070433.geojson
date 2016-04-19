@@ -1,0 +1,68 @@
+{
+  "id": 371070433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.568692,43.59677,-96.568692,43.59677",
+    "geom:latitude":43.59677,
+    "geom:longitude":-96.568692,
+    "iso:country":"US",
+    "sg:address":"1504 Custer Pkwy",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 3546",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lbxPHURgWiYfUHx5PbLSn_43.596770_-96.568692@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5b316da12b1ada050e6334805562510",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":371070433
+        }
+    ],
+    "wof:id":371070433,
+    "wof:lastmodified":1449049513,
+    "wof:name":"Thoreson Electronic Organ Svc",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "organs"
+    ]
+},
+  "bbox": [-96.568692,43.59677,-96.568692,43.59677],
+  "geometry": {"coordinates":[-96.568692,43.59677],"type":"Point"}
+}

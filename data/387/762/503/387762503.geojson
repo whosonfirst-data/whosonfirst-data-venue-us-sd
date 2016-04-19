@@ -1,0 +1,78 @@
+{
+  "id": 387762503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.194065,44.065897,-103.194065,44.065897",
+    "geom:latitude":44.065897,
+    "geom:longitude":-103.194065,
+    "iso:country":"US",
+    "sg:address":"2221 S Hwy 79",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 1386",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MPic7WFeajhzLaCyiptAV_44.065897_-103.194065@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3994896ad09ed75b2b32aab1a4ae329d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387762503
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387762503
+        }
+    ],
+    "wof:id":387762503,
+    "wof:lastmodified":1449058796,
+    "wof:name":"Lighting Maintenance Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [-103.194065,44.065897,-103.194065,44.065897],
+  "geometry": {"coordinates":[-103.194065,44.065897],"type":"Point"}
+}

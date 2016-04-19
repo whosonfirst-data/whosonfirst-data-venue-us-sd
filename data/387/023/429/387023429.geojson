@@ -1,0 +1,68 @@
+{
+  "id": 387023429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.193324,44.084811,-103.193324,44.084811",
+    "geom:latitude":44.084811,
+    "geom:longitude":-103.193324,
+    "iso:country":"US",
+    "sg:address":"201 Riley Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 4778",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zqxbs9z704qaRnqvKEocI_44.084811_-103.193324@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c41d4990823ff49ac51ce53d1937963b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387023429
+        }
+    ],
+    "wof:id":387023429,
+    "wof:lastmodified":1449059547,
+    "wof:name":"B & E Auto Svc",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-103.193324,44.084811,-103.193324,44.084811],
+  "geometry": {"coordinates":[-103.193324,44.084811],"type":"Point"}
+}

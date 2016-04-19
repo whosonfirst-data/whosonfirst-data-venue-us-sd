@@ -1,0 +1,71 @@
+{
+  "id": 387359153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.509591,45.458105,-98.509591,45.458105",
+    "geom:latitude":45.458105,
+    "geom:longitude":-98.509591,
+    "iso:country":"US",
+    "sg:address":"1421 7th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 7302",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30v6lxIAVp7XOIVkEwgzR2_45.458105_-98.509591@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"517448e58536a8e4e8f8ab0ba670da98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387359153
+        }
+    ],
+    "wof:id":387359153,
+    "wof:lastmodified":1449056055,
+    "wof:name":"Sara Lee Bakery Group Inc",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-98.509591,45.458105,-98.509591,45.458105],
+  "geometry": {"coordinates":[-98.509591,45.458105],"type":"Point"}
+}

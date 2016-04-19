@@ -1,0 +1,72 @@
+{
+  "id": 387682885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.223572,44.077045,-103.223572,44.077045",
+    "geom:latitude":44.077045,
+    "geom:longitude":-103.223572,
+    "iso:country":"US",
+    "sg:address":"343 Quincy St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 1300",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "cardiologist",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bf52NeXxPWprl0ITwnfzS_44.077045_-103.223572@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89f662b993f99f39efb50b9dc5fdbfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387682885
+        }
+    ],
+    "wof:id":387682885,
+    "wof:lastmodified":1449056764,
+    "wof:name":"Dakota Cardiovascular P C",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "cardiologist",
+        "group"
+    ]
+},
+  "bbox": [-103.223572,44.077045,-103.223572,44.077045],
+  "geometry": {"coordinates":[-103.223572,44.077045],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 387830233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699416,43.43143,-96.699416,43.43143",
+    "geom:latitude":43.43143,
+    "geom:longitude":-96.699416,
+    "iso:country":"US",
+    "sg:address":"307 Willow St",
+    "sg:city":"Harrisburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 743 2791",
+    "sg:postcode":"57032",
+    "sg:province":"SD",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722065,
+        102086863
+    ],
+    "wof:brand_id":420573749,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JZ8O20RrfazzWOhQfHVay_43.431430_-96.699416@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58236ca40a59c98600c2727360e8a087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722065,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387830233
+        }
+    ],
+    "wof:id":387830233,
+    "wof:lastmodified":1457207041,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -96.699416,
+    43.43143,
+    -96.699416,
+    43.43143
+],
+  "geometry": {"coordinates":[-96.699416,43.43143],"type":"Point"}
+}

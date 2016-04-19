@@ -1,0 +1,68 @@
+{
+  "id": 387649329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671558,43.54363,-96.671558,43.54363",
+    "geom:latitude":43.54363,
+    "geom:longitude":-96.671558,
+    "iso:country":"US",
+    "sg:address":"509 S Sycamore Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 2190",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g60zOkevFe3ZIfQrjNKIS_43.543630_-96.671558@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f61ea91a9f85976090921abfc6a8f714",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387649329
+        }
+    ],
+    "wof:id":387649329,
+    "wof:lastmodified":1449058703,
+    "wof:name":"Tma Inc",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire"
+    ]
+},
+  "bbox": [-96.671558,43.54363,-96.671558,43.54363],
+  "geometry": {"coordinates":[-96.671558,43.54363],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387236155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.26446,44.103619,-103.26446,44.103619",
+    "geom:latitude":44.103619,
+    "geom:longitude":-103.26446,
+    "iso:country":"US",
+    "sg:address":"1945 Rand Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3054",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ki8P8vf9s0zUmZrSn9501_44.103619_-103.264460@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cc7ed44b6b0049923bd642da205f821",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387236155
+        }
+    ],
+    "wof:id":387236155,
+    "wof:lastmodified":1449056514,
+    "wof:name":"Hills Electric",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-103.26446,44.103619,-103.26446,44.103619],
+  "geometry": {"coordinates":[-103.26446,44.103619],"type":"Point"}
+}

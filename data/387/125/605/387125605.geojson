@@ -1,0 +1,70 @@
+{
+  "id": 387125605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.443384,45.469337,-98.443384,45.469337",
+    "geom:latitude":45.469337,
+    "geom:longitude":-98.443384,
+    "iso:country":"US",
+    "sg:address":"2921 Industrial Ave",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 8110",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vG7ik2VUzpjM50tp4p9Ts_45.469337_-98.443384@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecfb3b61900eccba8a155a40528ca3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387125605
+        }
+    ],
+    "wof:id":387125605,
+    "wof:lastmodified":1449059786,
+    "wof:name":"Lewis Transportation",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [-98.443384,45.469337,-98.443384,45.469337],
+  "geometry": {"coordinates":[-98.443384,45.469337],"type":"Point"}
+}

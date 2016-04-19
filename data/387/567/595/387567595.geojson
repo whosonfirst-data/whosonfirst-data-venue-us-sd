@@ -1,0 +1,68 @@
+{
+  "id": 387567595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.317541,44.000074,-103.317541,44.000074",
+    "geom:latitude":44.000074,
+    "geom:longitude":-103.317541,
+    "iso:country":"US",
+    "sg:address":"8455 Clarkson Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 7748",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KaFbzbMfB9ezhExbIm37w_44.000074_-103.317541@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a366ad416628b00ba917df3cf7a1a659",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387567595
+        }
+    ],
+    "wof:id":387567595,
+    "wof:lastmodified":1449059948,
+    "wof:name":"Morford Electric",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-103.317541,44.000074,-103.317541,44.000074],
+  "geometry": {"coordinates":[-103.317541,44.000074],"type":"Point"}
+}

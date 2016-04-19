@@ -1,0 +1,67 @@
+{
+  "id": 403765663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.437299,43.350719,-97.437299,43.350719",
+    "geom:latitude":43.350719,
+    "geom:longitude":-97.437299,
+    "iso:country":"US",
+    "sg:address":"478 S Main St",
+    "sg:city":"Freeman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 925 4998",
+    "sg:postcode":"57029",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722181,
+        102086815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A0Ufye55vXGBdOxuMe8p5_43.350719_-97.437299@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a09f06dcecdbb5683e4a32c56f271ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086815,
+            "locality_id":101722181,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403765663
+        }
+    ],
+    "wof:id":403765663,
+    "wof:lastmodified":1449055401,
+    "wof:name":"Mr G's Tires",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.437299,43.350719,-97.437299,43.350719],
+  "geometry": {"coordinates":[-97.437299,43.350719],"type":"Point"}
+}

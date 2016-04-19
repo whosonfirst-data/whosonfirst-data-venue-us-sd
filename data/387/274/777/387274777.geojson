@@ -1,0 +1,67 @@
+{
+  "id": 387274777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-101.675319,44.039318,-101.675319,44.039318",
+    "geom:latitude":44.039318,
+    "geom:longitude":-101.675319,
+    "iso:country":"US",
+    "sg:address":"503 W Pine St",
+    "sg:city":"Philip",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 859 2511",
+    "sg:postcode":"57567",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721971,
+        102086807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AFjP213uLKWnRqIRfqUbp_44.039318_-101.675319@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6eef326f6bedaf1ed899938df2a217f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086807,
+            "locality_id":101721971,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387274777
+        }
+    ],
+    "wof:id":387274777,
+    "wof:lastmodified":1449056573,
+    "wof:name":"Philip Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-101.675319,44.039318,-101.675319,44.039318],
+  "geometry": {"coordinates":[-101.675319,44.039318],"type":"Point"}
+}

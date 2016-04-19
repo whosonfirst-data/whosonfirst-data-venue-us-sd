@@ -1,0 +1,68 @@
+{
+  "id": 387820775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.255663,44.072435,-103.255663,44.072435",
+    "geom:latitude":44.072435,
+    "geom:longitude":-103.255663,
+    "iso:country":"US",
+    "sg:address":"2116 Jackson Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 5007",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05AT6RO56krBmvd1Y9tHf3_44.072435_-103.255663@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e2d986ecfbd416f5b1af0a194a2656f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387820775
+        }
+    ],
+    "wof:id":387820775,
+    "wof:lastmodified":1449058074,
+    "wof:name":"Jackson Boulevard Cleaners",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [-103.255663,44.072435,-103.255663,44.072435],
+  "geometry": {"coordinates":[-103.255663,44.072435],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 386977451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.777833,43.53789,-96.777833,43.53789",
+    "geom:latitude":43.53789,
+    "geom:longitude":-96.777833,
+    "iso:country":"US",
+    "sg:address":"1000 S Lyons Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 9922",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "mfg",
+        "storage",
+        "commercial",
+        "prefabricated",
+        "special"
+    ],
+    "sg:website":"www.dakotalandhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mSj0Zqi9o0dMeu3fygfx_43.537890_-96.777833@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f510abe0b5261823399cd3d6d122886",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":386977451
+        }
+    ],
+    "wof:id":386977451,
+    "wof:lastmodified":1449028979,
+    "wof:name":"Dakota Land Storage",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "mfg",
+        "storage",
+        "commercial",
+        "prefabricated",
+        "special"
+    ]
+},
+  "bbox": [-96.777833,43.53789,-96.777833,43.53789],
+  "geometry": {"coordinates":[-96.777833,43.53789],"type":"Point"}
+}

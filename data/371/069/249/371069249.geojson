@@ -1,0 +1,66 @@
+{
+  "id": 371069249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.420521,43.895817,-103.420521,43.895817",
+    "geom:latitude":43.895817,
+    "geom:longitude":-103.420521,
+    "iso:country":"US",
+    "sg:address":"408 3rd St",
+    "sg:city":"Keystone",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 666 4520",
+    "sg:postcode":"57751",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MuMrSXG2jBW4sRUHcoBZR_43.895817_-103.420521@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"746cae15c9f47593fafbfc14d1b1be93",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371069249
+        }
+    ],
+    "wof:id":371069249,
+    "wof:lastmodified":1449049712,
+    "wof:name":"Keystone Police Dept",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.420521,43.895817,-103.420521,43.895817],
+  "geometry": {"coordinates":[-103.420521,43.895817],"type":"Point"}
+}

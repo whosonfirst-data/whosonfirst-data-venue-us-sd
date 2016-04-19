@@ -1,0 +1,67 @@
+{
+  "id": 387353825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.83753,43.302325,-103.83753,43.302325",
+    "geom:latitude":43.302325,
+    "geom:longitude":-103.83753,
+    "iso:country":"US",
+    "sg:address":"202 10th Ave",
+    "sg:city":"Edgemont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 662 7838",
+    "sg:postcode":"57735",
+    "sg:province":"SD",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721989,
+        102086081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rpe3aZdFK1qmAGUK4MrTX_43.302325_-103.837530@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aab5cf6aa4435b09d59fe8570768b8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086081,
+            "locality_id":101721989,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387353825
+        }
+    ],
+    "wof:id":387353825,
+    "wof:lastmodified":1449057190,
+    "wof:name":"Cheyenne River Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-103.83753,43.302325,-103.83753,43.302325],
+  "geometry": {"coordinates":[-103.83753,43.302325],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403714007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.517207,45.60475,-98.517207,45.60475",
+    "geom:latitude":45.60475,
+    "geom:longitude":-98.517207,
+    "iso:country":"US",
+    "sg:address":"38608 123rd St",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 226 2558",
+    "sg:postcode":"57481",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XE2FYHPCEtWAHWTyQQIJY_45.604750_-98.517207@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76e7a7fd07db80e4c579d7d119ef8e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":403714007
+        }
+    ],
+    "wof:id":403714007,
+    "wof:lastmodified":1449055288,
+    "wof:name":"Ron's Service & Repair",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-98.517207,45.60475,-98.517207,45.60475],
+  "geometry": {"coordinates":[-98.517207,45.60475],"type":"Point"}
+}

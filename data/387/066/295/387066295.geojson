@@ -1,0 +1,75 @@
+{
+  "id": 387066295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.116905,44.911952,-97.116905,44.911952",
+    "geom:latitude":44.911952,
+    "geom:longitude":-97.116905,
+    "iso:country":"US",
+    "sg:address":"115 10th Ave NW",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 882 1253",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "passenger",
+        "transportation",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:brand_id":420574713,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tj2nphRATBh70cEFWQVmH_44.911952_-97.116905@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d8d1488f64352c52111b2dc73be7bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387066295
+        }
+    ],
+    "wof:id":387066295,
+    "wof:lastmodified":1457209136,
+    "wof:name":"Hertz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "transportation",
+        "car"
+    ]
+},
+  "bbox": [
+    -97.116905,
+    44.911952,
+    -97.116905,
+    44.911952
+],
+  "geometry": {"coordinates":[-97.116905,44.911952],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 387085255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.752652,43.651335,-96.752652,43.651335",
+    "geom:latitude":43.651335,
+    "geom:longitude":-96.752652,
+    "iso:country":"US",
+    "sg:address":"25758 Packard Ln",
+    "sg:city":"Renner",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 543 5079",
+    "sg:postcode":"57055",
+    "sg:province":"SD",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SmTFOYRLeOjrgVuBcyd0j_43.651335_-96.752652@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0be16d44c447944574d5d4ec8f62db32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":387085255
+        }
+    ],
+    "wof:id":387085255,
+    "wof:lastmodified":1449057057,
+    "wof:name":"Precision Dental Lab Inc",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-96.752652,43.651335,-96.752652,43.651335],
+  "geometry": {"coordinates":[-96.752652,43.651335],"type":"Point"}
+}

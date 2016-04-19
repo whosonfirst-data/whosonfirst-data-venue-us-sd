@@ -1,0 +1,67 @@
+{
+  "id": 387199559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.526937,44.007865,-97.526937,44.007865",
+    "geom:latitude":44.007865,
+    "geom:longitude":-97.526937,
+    "iso:country":"US",
+    "sg:address":"405 S Main St",
+    "sg:city":"Howard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 772 5308",
+    "sg:postcode":"57349",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722195,
+        102086063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oKtjrXw75e629nTy0FOm9_44.007865_-97.526937@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f88937ef7a6c4cdce4942feddfeac765",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086063,
+            "locality_id":101722195,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387199559
+        }
+    ],
+    "wof:id":387199559,
+    "wof:lastmodified":1449056500,
+    "wof:name":"Howard Auto Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.526937,44.007865,-97.526937,44.007865],
+  "geometry": {"coordinates":[-97.526937,44.007865],"type":"Point"}
+}

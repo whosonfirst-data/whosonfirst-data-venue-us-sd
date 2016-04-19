@@ -1,0 +1,68 @@
+{
+  "id": 403827865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758452,43.544928,-96.758452,43.544928",
+    "geom:latitude":43.544928,
+    "geom:longitude":-96.758452,
+    "iso:country":"US",
+    "sg:address":"301 S Garfield Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 1093",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c02rKGdQ1cZWSgdSEpBWE_43.544928_-96.758452@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d222a44ce5395ed2b59415eb70e2f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":403827865
+        }
+    ],
+    "wof:id":403827865,
+    "wof:lastmodified":1449055106,
+    "wof:name":"Pioneer Transfer LTD",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-96.758452,43.544928,-96.758452,43.544928],
+  "geometry": {"coordinates":[-96.758452,43.544928],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387800495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.256264,44.07126,-103.256264,44.07126",
+    "geom:latitude":44.07126,
+    "geom:longitude":-103.256264,
+    "iso:country":"US",
+    "sg:address":"1602 Mountain View Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 2685",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EvfTcZWwAQhAnDOC9tBbU_44.071260_-103.256264@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c04b8d84bfda0de496c48525c720781",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387800495
+        }
+    ],
+    "wof:id":387800495,
+    "wof:lastmodified":1449056413,
+    "wof:name":"West Dakota Water Dev Dist",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [-103.256264,44.07126,-103.256264,44.07126],
+  "geometry": {"coordinates":[-103.256264,44.07126],"type":"Point"}
+}

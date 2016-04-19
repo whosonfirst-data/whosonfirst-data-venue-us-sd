@@ -1,0 +1,80 @@
+{
+  "id": 387813633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.156416,44.099204,-103.156416,44.099204",
+    "geom:latitude":44.099204,
+    "geom:longitude":-103.156416,
+    "iso:country":"US",
+    "sg:address":"3425 Beal St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 4939",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "exchanging",
+        "engine",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ijx1r7GCYwGXsoy1kmZAk_44.099204_-103.156416@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"532fd15bcb4fb95c2d645a810d515980",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387813633
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387813633
+        }
+    ],
+    "wof:id":387813633,
+    "wof:lastmodified":1449057085,
+    "wof:name":"D & L Automotive Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine",
+        "general"
+    ]
+},
+  "bbox": [-103.156416,44.099204,-103.156416,44.099204],
+  "geometry": {"coordinates":[-103.156416,44.099204],"type":"Point"}
+}

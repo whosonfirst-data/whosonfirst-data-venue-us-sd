@@ -1,0 +1,66 @@
+{
+  "id": 370974505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.257869,44.088507,-103.257869,44.088507",
+    "geom:latitude":44.088507,
+    "geom:longitude":-103.257869,
+    "iso:country":"US",
+    "sg:address":"220 Krebs Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 5089",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rTkHgDGuhIimsYY64GG7N_44.088507_-103.257869@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffd2ce4e39956e82ad10e2ad6c7223a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":370974505
+        }
+    ],
+    "wof:id":370974505,
+    "wof:lastmodified":1449032029,
+    "wof:name":"Meiners Animal Clinic",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-103.257869,44.088507,-103.257869,44.088507],
+  "geometry": {"coordinates":[-103.257869,44.088507],"type":"Point"}
+}

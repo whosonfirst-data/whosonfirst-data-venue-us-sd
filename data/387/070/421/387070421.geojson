@@ -1,0 +1,68 @@
+{
+  "id": 387070421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.271215,44.103907,-103.271215,44.103907",
+    "geom:latitude":44.103907,
+    "geom:longitude":-103.271215,
+    "iso:country":"US",
+    "sg:address":"1660 Deadwood Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 7068",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IUqjwNL591tJvJNRfoZ3B_44.103907_-103.271215@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18bf653c4ff98735acdf01f9534e75d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387070421
+        }
+    ],
+    "wof:id":387070421,
+    "wof:lastmodified":1449057958,
+    "wof:name":"Mainline Contracting",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [-103.271215,44.103907,-103.271215,44.103907],
+  "geometry": {"coordinates":[-103.271215,44.103907],"type":"Point"}
+}

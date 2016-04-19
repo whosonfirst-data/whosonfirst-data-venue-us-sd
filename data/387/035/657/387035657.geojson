@@ -1,0 +1,84 @@
+{
+  "id": 387035657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191143,44.078293,-103.191143,44.078293",
+    "geom:latitude":44.078293,
+    "geom:longitude":-103.191143,
+    "iso:country":"US",
+    "sg:address":"1305 E Centre St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 2626",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:brand_id":420575555,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EBQWDVhODlINEVPj2PKg4_44.078293_-103.191143@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed8e9d25e3be98d1d4650ec0870cdae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387035657
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387035657
+        }
+    ],
+    "wof:id":387035657,
+    "wof:lastmodified":1457209643,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -103.191143,
+    44.078293,
+    -103.191143,
+    44.078293
+],
+  "geometry": {"coordinates":[-103.191143,44.078293],"type":"Point"}
+}

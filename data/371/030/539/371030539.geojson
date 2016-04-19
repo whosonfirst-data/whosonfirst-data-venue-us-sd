@@ -1,0 +1,67 @@
+{
+  "id": 371030539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.251268,44.009966,-103.251268,44.009966",
+    "geom:latitude":44.009966,
+    "geom:longitude":-103.251268,
+    "iso:country":"US",
+    "sg:address":"7220 S Hwy 16",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 1414",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.bhosc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EJlkt7q41gs7u5sldLeEF_44.009966_-103.251268@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7f2809a3eaaeadb3c2dd1c37e0fb93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371030539
+        }
+    ],
+    "wof:id":371030539,
+    "wof:lastmodified":1449049401,
+    "wof:name":"Black Hills Orthopedic & Spine",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-103.251268,44.009966,-103.251268,44.009966],
+  "geometry": {"coordinates":[-103.251268,44.009966],"type":"Point"}
+}

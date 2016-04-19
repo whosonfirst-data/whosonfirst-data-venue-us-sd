@@ -1,0 +1,67 @@
+{
+  "id": 371132547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.891722,43.357516,-96.891722,43.357516",
+    "geom:latitude":43.357516,
+    "geom:longitude":-96.891722,
+    "iso:country":"US",
+    "sg:address":"210 N Main St",
+    "sg:city":"Lennox",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 647 5252",
+    "sg:postcode":"57039",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722071,
+        102086863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ht6WLIhkaHOQrmsD2rwbp_43.357516_-96.891722@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29cd89e2a1e50cc4f8d6d524e0a94cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101722071,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371132547
+        }
+    ],
+    "wof:id":371132547,
+    "wof:lastmodified":1449049515,
+    "wof:name":"Butch's Amoco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.891722,43.357516,-96.891722,43.357516],
+  "geometry": {"coordinates":[-96.891722,43.357516],"type":"Point"}
+}

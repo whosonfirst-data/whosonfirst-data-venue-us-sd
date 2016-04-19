@@ -1,0 +1,71 @@
+{
+  "id": 387709517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191615,44.068144,-103.191615,44.068144",
+    "geom:latitude":44.068144,
+    "geom:longitude":-103.191615,
+    "iso:country":"US",
+    "sg:address":"1802 Cambell St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 9879",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iZmVN15RFYDe2HbEjbu9V_44.068144_-103.191615@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06db15c9e97e82f02ce3e6dfa8eb4ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387709517
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387709517
+        }
+    ],
+    "wof:id":387709517,
+    "wof:lastmodified":1449056860,
+    "wof:name":"Family Thrift Ctr Laundromat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-103.191615,44.068144,-103.191615,44.068144],
+  "geometry": {"coordinates":[-103.191615,44.068144],"type":"Point"}
+}

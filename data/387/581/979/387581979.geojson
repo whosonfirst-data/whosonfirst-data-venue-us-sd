@@ -1,0 +1,68 @@
+{
+  "id": 387581979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731414,43.562529,-96.731414,43.562529",
+    "geom:latitude":43.562529,
+    "geom:longitude":-96.731414,
+    "iso:country":"US",
+    "sg:address":"1225 N Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 8099",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UhlfciacQQXKSeu6LBkOj_43.562529_-96.731414@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d000af5ba3baff9e0ce875196d70803",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387581979
+        }
+    ],
+    "wof:id":387581979,
+    "wof:lastmodified":1449056903,
+    "wof:name":"Super Wash",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-96.731414,43.562529,-96.731414,43.562529],
+  "geometry": {"coordinates":[-96.731414,43.562529],"type":"Point"}
+}

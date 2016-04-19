@@ -1,0 +1,66 @@
+{
+  "id": 371033837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.776979,43.505799,-96.776979,43.505799",
+    "geom:latitude":43.505799,
+    "geom:longitude":-96.776979,
+    "iso:country":"US",
+    "sg:address":"4401 W Valhalla Blvd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 0444",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oXBu8l083bxtrB0SJ6m4p_43.505799_-96.776979@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6a1c698d99ffb31e015607f26a0f59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371033837
+        }
+    ],
+    "wof:id":371033837,
+    "wof:lastmodified":1449049258,
+    "wof:name":"Somerset Apartments",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.776979,43.505799,-96.776979,43.505799],
+  "geometry": {"coordinates":[-96.776979,43.505799],"type":"Point"}
+}

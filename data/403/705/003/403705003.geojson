@@ -1,0 +1,67 @@
+{
+  "id": 403705003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.108372,44.91725,-97.108372,44.91725",
+    "geom:latitude":44.91725,
+    "geom:longitude":-97.108372,
+    "iso:country":"US",
+    "sg:address":"1335 3rd St NE",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 882 2287",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wdv7VsnpYHMYjZ8xoJvas_44.917250_-97.108372@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b41f894c9c710eb29a9f296bd032954",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403705003
+        }
+    ],
+    "wof:id":403705003,
+    "wof:lastmodified":1449055973,
+    "wof:name":"K & L Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [-97.108372,44.91725,-97.108372,44.91725],
+  "geometry": {"coordinates":[-97.108372,44.91725],"type":"Point"}
+}

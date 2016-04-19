@@ -1,0 +1,70 @@
+{
+  "id": 386951171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.714944,43.540296,-96.714944,43.540296",
+    "geom:latitude":43.540296,
+    "geom:longitude":-96.714944,
+    "iso:country":"US",
+    "sg:address":"601 S 8th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 0727",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hR9uAGQavymYt5TQK5ndF_43.540296_-96.714944@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea6327201f9cf5d0d3ba49e5f04c9035",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":386951171
+        }
+    ],
+    "wof:id":386951171,
+    "wof:lastmodified":1449028634,
+    "wof:name":"Dave's Automotive",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-96.714944,43.540296,-96.714944,43.540296],
+  "geometry": {"coordinates":[-96.714944,43.540296],"type":"Point"}
+}

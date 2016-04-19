@@ -1,0 +1,68 @@
+{
+  "id": 387383123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.240584,44.081089,-103.240584,44.081089",
+    "geom:latitude":44.081089,
+    "geom:longitude":-103.240584,
+    "iso:country":"US",
+    "sg:address":"1328 Kansas City St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 4697",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n6jDsZ3oI8scOwYxzlnp4_44.081089_-103.240584@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a9ef043e2b53291afad7ff0d9e2e948",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387383123
+        }
+    ],
+    "wof:id":387383123,
+    "wof:lastmodified":1449057715,
+    "wof:name":"Don's Lock & Key",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-103.240584,44.081089,-103.240584,44.081089],
+  "geometry": {"coordinates":[-103.240584,44.081089],"type":"Point"}
+}

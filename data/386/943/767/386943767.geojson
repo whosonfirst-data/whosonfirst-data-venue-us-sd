@@ -1,0 +1,67 @@
+{
+  "id": 386943767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.343423,44.360337,-100.343423,44.360337",
+    "geom:latitude":44.360337,
+    "geom:longitude":-100.343423,
+    "iso:country":"US",
+    "sg:address":"803 E Dakota Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 3199",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K52lILj4lrMid5yZftjxr_44.360337_-100.343423@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbf26340dd9a0c653a8f800e8d521bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386943767
+        }
+    ],
+    "wof:id":386943767,
+    "wof:lastmodified":1449028695,
+    "wof:name":"St Marys Healthcare Ctr-Radlgy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-100.343423,44.360337,-100.343423,44.360337],
+  "geometry": {"coordinates":[-100.343423,44.360337],"type":"Point"}
+}

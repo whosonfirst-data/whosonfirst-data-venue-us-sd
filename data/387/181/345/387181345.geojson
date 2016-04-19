@@ -1,0 +1,66 @@
+{
+  "id": 387181345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.792851,43.50528,-96.792851,43.50528",
+    "geom:latitude":43.50528,
+    "geom:longitude":-96.792851,
+    "iso:country":"US",
+    "sg:address":"5300 W 52nd St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 2580",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46phpKaA7DXsZEf7Wi95LW_43.505280_-96.792851@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4dc6f93adfcea30b5d0a6ae722027809",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387181345
+        }
+    ],
+    "wof:id":387181345,
+    "wof:lastmodified":1449058440,
+    "wof:name":"Ernesons Repair & Sales",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-96.792851,43.50528,-96.792851,43.50528],
+  "geometry": {"coordinates":[-96.792851,43.50528],"type":"Point"}
+}

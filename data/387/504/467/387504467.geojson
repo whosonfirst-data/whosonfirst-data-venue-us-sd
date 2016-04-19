@@ -1,0 +1,72 @@
+{
+  "id": 387504467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.025495,43.714362,-98.025495,43.714362",
+    "geom:latitude":43.714362,
+    "geom:longitude":-98.025495,
+    "iso:country":"US",
+    "sg:address":"512 N Main St",
+    "sg:city":"Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 995 0269",
+    "sg:postcode":"57301",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721597,
+        102086045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O6OZXaUEZvAtJCJiemQ8T_43.714362_-98.025495@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"942df90c565c9a769d8a40dc6732053d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086045,
+            "locality_id":101721597,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387504467
+        }
+    ],
+    "wof:id":387504467,
+    "wof:lastmodified":1449056771,
+    "wof:name":"Mad Cow Coffee House & Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-98.025495,43.714362,-98.025495,43.714362],
+  "geometry": {"coordinates":[-98.025495,43.714362],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387139067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.785856,43.512251,-96.785856,43.512251",
+    "geom:latitude":43.512251,
+    "geom:longitude":-96.785856,
+    "iso:country":"US",
+    "sg:address":"3511 S Gateway Blvd",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 362 9030",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23W6CEFEQaSPGUCFWoiUKC_43.512251_-96.785856@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"346376d654f56d592a187505c33ac3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387139067
+        }
+    ],
+    "wof:id":387139067,
+    "wof:lastmodified":1449056466,
+    "wof:name":"Gateway Apartments",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.785856,43.512251,-96.785856,43.512251],
+  "geometry": {"coordinates":[-96.785856,43.512251],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 371075693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.509029,45.481349,-98.509029,45.481349",
+    "geom:latitude":45.481349,
+    "geom:longitude":-98.509029,
+    "iso:country":"US",
+    "sg:address":"1440 15th Ave NW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 4001",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "prescription",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086843,
+        85824005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KzyDHuRwtOnEep3ZwlG2F_45.481349_-98.509029@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3557eb247862edc71742aa61554be66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":-1,
+            "neighbourhood_id":85824005,
+            "region_id":85688693,
+            "venue_id":371075693
+        }
+    ],
+    "wof:id":371075693,
+    "wof:lastmodified":1449049619,
+    "wof:name":"Medical Center Pharmacy",
+    "wof:parent_id":85824005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prescription",
+        "drug"
+    ]
+},
+  "bbox": [-98.509029,45.481349,-98.509029,45.481349],
+  "geometry": {"coordinates":[-98.509029,45.481349],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387080041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.76315,43.54593,-96.76315,43.54593",
+    "geom:latitude":43.54593,
+    "geom:longitude":-96.76315,
+    "iso:country":"US",
+    "sg:address":"2700 W 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 6990",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DxbBvYNMoy8c9vOXkzt8Z_43.545930_-96.763150@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7030e2ec931850240849b40b852de517",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387080041
+        }
+    ],
+    "wof:id":387080041,
+    "wof:lastmodified":1449059814,
+    "wof:name":"Park-It Market",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.76315,43.54593,-96.76315,43.54593],
+  "geometry": {"coordinates":[-96.76315,43.54593],"type":"Point"}
+}

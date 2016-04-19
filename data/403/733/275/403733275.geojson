@@ -1,0 +1,66 @@
+{
+  "id": 403733275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.526776,44.009861,-97.526776,44.009861",
+    "geom:latitude":44.009861,
+    "geom:longitude":-97.526776,
+    "iso:country":"US",
+    "sg:address":"208 S Main St",
+    "sg:city":"Howard",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 772 4574",
+    "sg:postcode":"57349",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.horizonhealthcare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722195,
+        102086063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z4LvUm1ocV5FpW9gIfmr1_44.009861_-97.526776@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46fd035a15c08856961b04b65650222a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086063,
+            "locality_id":101722195,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403733275
+        }
+    ],
+    "wof:id":403733275,
+    "wof:lastmodified":1449054803,
+    "wof:name":"Howard Community Health Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-97.526776,44.009861,-97.526776,44.009861],
+  "geometry": {"coordinates":[-97.526776,44.009861],"type":"Point"}
+}

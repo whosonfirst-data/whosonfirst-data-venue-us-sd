@@ -1,0 +1,65 @@
+{
+  "id": 371121277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.774365,44.325793,-96.774365,44.325793",
+    "geom:latitude":44.325793,
+    "geom:longitude":-96.774365,
+    "iso:country":"US",
+    "sg:address":"1907 US Hwy 14 Byp",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 697 5200",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A0MnHJrN9EyaE5cx7sUbr_44.325793_-96.774365@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66ad5a3c2549ff97ca10d003729dc999",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371121277
+        }
+    ],
+    "wof:id":371121277,
+    "wof:lastmodified":1449049849,
+    "wof:name":"Animal Med Care Eqine Vtrinary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.774365,44.325793,-96.774365,44.325793],
+  "geometry": {"coordinates":[-96.774365,44.325793],"type":"Point"}
+}

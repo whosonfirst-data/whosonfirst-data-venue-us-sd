@@ -1,0 +1,67 @@
+{
+  "id": 371009159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.208386,44.57946,-97.208386,44.57946",
+    "geom:latitude":44.57946,
+    "geom:longitude":-97.208386,
+    "iso:country":"US",
+    "sg:address":"305 Harvest St",
+    "sg:city":"Lake Norden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 785 3930",
+    "sg:postcode":"57248",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722011,
+        102086845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vs6oS5Z5Awb5NqBt8B4wz_44.579460_-97.208386@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"919fb62001cbd8277d9218175f2e58ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086845,
+            "locality_id":101722011,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371009159
+        }
+    ],
+    "wof:id":371009159,
+    "wof:lastmodified":1449050121,
+    "wof:name":"Lakeview Diagnostics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.208386,44.57946,-97.208386,44.57946],
+  "geometry": {"coordinates":[-97.208386,44.57946],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 387479803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637957,43.537376,-96.637957,43.537376",
+    "geom:latitude":43.537376,
+    "geom:longitude":-96.637957,
+    "iso:country":"US",
+    "sg:address":"1000 S Stoakes Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 6003",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "machine",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85850485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45VxeRr4Cy0nsUjohJscoO_43.537376_-96.637957@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4205cccdd2037365afcf59c73270c54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85850485,
+            "region_id":85688693,
+            "venue_id":387479803
+        }
+    ],
+    "wof:id":387479803,
+    "wof:lastmodified":1449058713,
+    "wof:name":"Automotive Machine and Repair",
+    "wof:parent_id":85850485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "machine",
+        "general"
+    ]
+},
+  "bbox": [-96.637957,43.537376,-96.637957,43.537376],
+  "geometry": {"coordinates":[-96.637957,43.537376],"type":"Point"}
+}

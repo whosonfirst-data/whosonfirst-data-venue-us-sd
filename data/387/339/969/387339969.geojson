@@ -1,0 +1,81 @@
+{
+  "id": 387339969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.75324,43.505545,-96.75324,43.505545",
+    "geom:latitude":43.505545,
+    "geom:longitude":-96.75324,
+    "iso:country":"US",
+    "sg:address":"2208 W 50th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 1953",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "commercial",
+        "general",
+        "street",
+        "warehouse",
+        "contractor",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21DB7TQCNVC6mbmUW86Rqu_43.505545_-96.753240@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7312b0305a1dc377250b93f0ed6215a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387339969
+        }
+    ],
+    "wof:id":387339969,
+    "wof:lastmodified":1449057802,
+    "wof:name":"Dakota Contracting Corporation",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "general",
+        "street",
+        "warehouse",
+        "contractor",
+        "highway"
+    ]
+},
+  "bbox": [-96.75324,43.505545,-96.75324,43.505545],
+  "geometry": {"coordinates":[-96.75324,43.505545],"type":"Point"}
+}

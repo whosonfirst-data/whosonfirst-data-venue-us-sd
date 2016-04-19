@@ -1,0 +1,65 @@
+{
+  "id": 371081081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.808732,44.310225,-96.808732,44.310225",
+    "geom:latitude":44.310225,
+    "geom:longitude":-96.808732,
+    "iso:country":"US",
+    "sg:address":"418 Western Ave",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 692 2222",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06I5poqvXnfQF73KBGz25p_44.310225_-96.808732@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b291386cd638ab6880cdb372c3df8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371081081
+        }
+    ],
+    "wof:id":371081081,
+    "wof:lastmodified":1449049330,
+    "wof:name":"Brookings Area Transit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-96.808732,44.310225,-96.808732,44.310225],
+  "geometry": {"coordinates":[-96.808732,44.310225],"type":"Point"}
+}

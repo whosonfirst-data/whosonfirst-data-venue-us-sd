@@ -1,0 +1,65 @@
+{
+  "id": 403740823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.381636,43.723564,-97.381636,43.723564",
+    "geom:latitude":43.723564,
+    "geom:longitude":-97.381636,
+    "iso:country":"US",
+    "sg:address":"410 E Drake Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 425 2085",
+    "sg:postcode":"57058",
+    "sg:province":"SD",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721859,
+        102086859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MtTrdMQmggT9NOu6ThBDt_43.723564_-97.381636@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3166dafc6e624edcdbf48a56f472bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086859,
+            "locality_id":101721859,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403740823
+        }
+    ],
+    "wof:id":403740823,
+    "wof:lastmodified":1449055244,
+    "wof:name":"Mc Cook County Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [-97.381636,43.723564,-97.381636,43.723564],
+  "geometry": {"coordinates":[-97.381636,43.723564],"type":"Point"}
+}

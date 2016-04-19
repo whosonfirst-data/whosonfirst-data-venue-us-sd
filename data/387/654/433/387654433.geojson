@@ -1,0 +1,65 @@
+{
+  "id": 387654433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.066227,44.707773,-100.066227,44.707773",
+    "geom:latitude":44.707773,
+    "geom:longitude":-100.066227,
+    "iso:country":"US",
+    "sg:address":"115 S Main St",
+    "sg:city":"Kennebec",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 869 2256",
+    "sg:postcode":"57564",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721823,
+        102086049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LtnjRvEAVdRbMNz7Os2yY_44.707773_-100.066227@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b9bd7f4025d8f52c89da1ae24088ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086049,
+            "locality_id":101721823,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387654433
+        }
+    ],
+    "wof:id":387654433,
+    "wof:lastmodified":1449057374,
+    "wof:name":"B J's Food Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-100.066227,44.707773,-100.066227,44.707773],
+  "geometry": {"coordinates":[-100.066227,44.707773],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 387631615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.104539,44.888541,-97.104539,44.888541",
+    "geom:latitude":44.888541,
+    "geom:longitude":-97.104539,
+    "iso:country":"US",
+    "sg:address":"1018 8th St SE",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 886 3630",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53BdnOkksCq7vnTFbEuaoG_44.888541_-97.104539@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7df5d811d67c191f0eba626f7b895b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387631615
+        }
+    ],
+    "wof:id":387631615,
+    "wof:lastmodified":1449057276,
+    "wof:name":"Rawdon Radiator Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "supply"
+    ]
+},
+  "bbox": [-97.104539,44.888541,-97.104539,44.888541],
+  "geometry": {"coordinates":[-97.104539,44.888541],"type":"Point"}
+}

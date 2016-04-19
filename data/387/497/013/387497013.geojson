@@ -1,0 +1,67 @@
+{
+  "id": 387497013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.475488,43.437785,-103.475488,43.437785",
+    "geom:latitude":43.437785,
+    "geom:longitude":-103.475488,
+    "iso:country":"US",
+    "sg:address":"500 N 5th St",
+    "sg:city":"Hot Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 745 2024",
+    "sg:postcode":"57747",
+    "sg:province":"SD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721985,
+        102086081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KwQNufBUE8ZTw8JqVpopl_43.437785_-103.475488@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2ede8b4bac7697985d8935ada5a9d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086081,
+            "locality_id":101721985,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387497013
+        }
+    ],
+    "wof:id":387497013,
+    "wof:lastmodified":1449059869,
+    "wof:name":"Department Of Radiology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-103.475488,43.437785,-103.475488,43.437785],
+  "geometry": {"coordinates":[-103.475488,43.437785],"type":"Point"}
+}

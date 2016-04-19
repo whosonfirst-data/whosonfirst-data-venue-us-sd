@@ -1,0 +1,70 @@
+{
+  "id": 387028803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.52832,45.532129,-98.52832,45.532129",
+    "geom:latitude":45.532129,
+    "geom:longitude":-98.52832,
+    "iso:country":"US",
+    "sg:address":"38546 128th St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 9507",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MFtEHNivMZ1b9JmmeinjK_45.532129_-98.528320@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96557fdb8c36ad488b998a14f2773b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387028803
+        }
+    ],
+    "wof:id":387028803,
+    "wof:lastmodified":1449058167,
+    "wof:name":"Van Nerland Trucking",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-98.52832,45.532129,-98.52832,45.532129],
+  "geometry": {"coordinates":[-98.52832,45.532129],"type":"Point"}
+}

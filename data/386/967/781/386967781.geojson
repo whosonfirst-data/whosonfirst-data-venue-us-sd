@@ -1,0 +1,66 @@
+{
+  "id": 386967781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.712957,43.565783,-96.712957,43.565783",
+    "geom:latitude":43.565783,
+    "geom:longitude":-96.712957,
+    "iso:country":"US",
+    "sg:address":"1000 E Walnut St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 8661",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m6pgUcM42qykZU2r3oLf1_43.565783_-96.712957@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4648b3c218356cec8bbf6116686e5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":386967781
+        }
+    ],
+    "wof:id":386967781,
+    "wof:lastmodified":1449028960,
+    "wof:name":"Truck World of Sioux Falls",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-96.712957,43.565783,-96.712957,43.565783],
+  "geometry": {"coordinates":[-96.712957,43.565783],"type":"Point"}
+}

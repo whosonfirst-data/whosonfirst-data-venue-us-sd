@@ -1,0 +1,66 @@
+{
+  "id": 371085081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.804918,43.507219,-96.804918,43.507219",
+    "geom:latitude":43.507219,
+    "geom:longitude":-96.804918,
+    "iso:country":"US",
+    "sg:address":"6412 W Cheyenne Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 271 3200",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y9IS4fuaRrIEzUKZ7PANk_43.507219_-96.804918@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3d31c44c342db2c0ddfa315e1d211ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":371085081
+        }
+    ],
+    "wof:id":371085081,
+    "wof:lastmodified":1449049288,
+    "wof:name":"Midwest Deliveries",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [-96.804918,43.507219,-96.804918,43.507219],
+  "geometry": {"coordinates":[-96.804918,43.507219],"type":"Point"}
+}

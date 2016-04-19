@@ -1,0 +1,68 @@
+{
+  "id": 403709185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.82403,43.529953,-96.82403,43.529953",
+    "geom:latitude":43.529953,
+    "geom:longitude":-96.82403,
+    "iso:country":"US",
+    "sg:address":"7700 W Emily St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 323 2346",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1juaBBPsZJDU24XQBWdIl2_43.529953_-96.824030@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"673aad562eaa6e2fc19bb58431cd590d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":403709185
+        }
+    ],
+    "wof:id":403709185,
+    "wof:lastmodified":1449054897,
+    "wof:name":"Dakota Disposal",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [-96.82403,43.529953,-96.82403,43.529953],
+  "geometry": {"coordinates":[-96.82403,43.529953],"type":"Point"}
+}

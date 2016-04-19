@@ -1,0 +1,75 @@
+{
+  "id": 387354151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699084,43.503579,-96.699084,43.503579",
+    "geom:latitude":43.503579,
+    "geom:longitude":-96.699084,
+    "iso:country":"US",
+    "sg:address":"2212 E Tamarac Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 6377",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K070uS8mpbDgxELKHJccV_43.503579_-96.699084@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b2b6b0492a2d418e21e156a7da81265",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881009,
+            "region_id":85688693,
+            "venue_id":387354151
+        }
+    ],
+    "wof:id":387354151,
+    "wof:lastmodified":1449059487,
+    "wof:name":"Rogers Rehabilitation Mgmt Inc",
+    "wof:parent_id":85881009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [-96.699084,43.503579,-96.699084,43.503579],
+  "geometry": {"coordinates":[-96.699084,43.503579],"type":"Point"}
+}

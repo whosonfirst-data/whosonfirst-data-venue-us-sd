@@ -1,0 +1,71 @@
+{
+  "id": 371120005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73492,43.512142,-96.73492,43.512142",
+    "geom:latitude":43.512142,
+    "geom:longitude":-96.73492,
+    "iso:country":"US",
+    "sg:address":"3501 S Norton Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 9339",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "equipment",
+        "hospital",
+        "supply"
+    ],
+    "sg:website":"www.tracomedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42mkmN4LFVsbMrJ6NerTCM_43.512142_-96.734920@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edb26dae6aedf45ed4e33ffe38781f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371120005
+        }
+    ],
+    "wof:id":371120005,
+    "wof:lastmodified":1449049983,
+    "wof:name":"Traco Medical Inc",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hospital",
+        "supply"
+    ]
+},
+  "bbox": [-96.73492,43.512142,-96.73492,43.512142],
+  "geometry": {"coordinates":[-96.73492,43.512142],"type":"Point"}
+}

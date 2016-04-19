@@ -1,0 +1,86 @@
+{
+  "id": 387319013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.515526,45.438234,-98.515526,45.438234",
+    "geom:latitude":45.438234,
+    "geom:longitude":-98.515526,
+    "iso:country":"US",
+    "sg:address":"2422 S Hwy 281",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 5222",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burial",
+        "concrete",
+        "vault",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j3Dr8TrsktFdMC7VhkvII_45.438234_-98.515526@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31731ea6f825e36b1e26ae7d011da9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387319013
+        }
+    ],
+    "wof:id":387319013,
+    "wof:lastmodified":1449057657,
+    "wof:name":"Angerhofer Concrete Products",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burial",
+        "concrete",
+        "vault",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [-98.515526,45.438234,-98.515526,45.438234],
+  "geometry": {"coordinates":[-98.515526,45.438234],"type":"Point"}
+}

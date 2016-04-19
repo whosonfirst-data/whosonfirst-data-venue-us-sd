@@ -1,0 +1,66 @@
+{
+  "id": 387004337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.156047,45.8825,-98.156047,45.8825",
+    "geom:latitude":45.8825,
+    "geom:longitude":-98.156047,
+    "iso:country":"US",
+    "sg:address":"101 Main St",
+    "sg:city":"Tolstoy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 442 2580",
+    "sg:postcode":"57446",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39M35SXw1N7VRlJp27dY3O_45.882500_-98.156047@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e898852c515a3066e38e8e729ced2e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387004337
+        }
+    ],
+    "wof:id":387004337,
+    "wof:lastmodified":1449057488,
+    "wof:name":"Tolstoy City Fire",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-98.156047,45.8825,-98.156047,45.8825],
+  "geometry": {"coordinates":[-98.156047,45.8825],"type":"Point"}
+}

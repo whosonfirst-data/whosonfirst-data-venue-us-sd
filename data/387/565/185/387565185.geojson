@@ -1,0 +1,75 @@
+{
+  "id": 387565185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663434,43.544253,-96.663434,43.544253",
+    "geom:latitude":43.544253,
+    "geom:longitude":-96.663434,
+    "iso:country":"US",
+    "sg:address":"5500 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 9764",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carwash",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26j4didb9p5sNIFg6MH1gi_43.544253_-96.663434@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31e3ef544d6b3dc20531d7a1d376b432",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387565185
+        }
+    ],
+    "wof:id":387565185,
+    "wof:lastmodified":1449059580,
+    "wof:name":"Burns Auto Sales",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [-96.663434,43.544253,-96.663434,43.544253],
+  "geometry": {"coordinates":[-96.663434,43.544253],"type":"Point"}
+}

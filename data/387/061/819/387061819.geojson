@@ -1,0 +1,66 @@
+{
+  "id": 387061819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695225,43.580332,-96.695225,43.580332",
+    "geom:latitude":43.580332,
+    "geom:longitude":-96.695225,
+    "iso:country":"US",
+    "sg:address":"3304 N Potsdam Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 2884",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WKWj9F5qqSljPt35MPkLs_43.580332_-96.695225@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"731d6b80f87e29148ec9dbd9f28ef978",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":387061819
+        }
+    ],
+    "wof:id":387061819,
+    "wof:lastmodified":1449058858,
+    "wof:name":"Fox Veterinary Svc",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.695225,43.580332,-96.695225,43.580332],
+  "geometry": {"coordinates":[-96.695225,43.580332],"type":"Point"}
+}

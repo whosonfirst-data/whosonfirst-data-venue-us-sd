@@ -1,0 +1,68 @@
+{
+  "id": 387915755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.575464,43.932546,-103.575464,43.932546",
+    "geom:latitude":43.932546,
+    "geom:longitude":-103.575464,
+    "iso:country":"US",
+    "sg:address":"303 Main St",
+    "sg:city":"Hill City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 574 9081",
+    "sg:postcode":"57745",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UH5a3380KYqF0qbP0E8Ub_43.932546_-103.575464@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8e25f2bf73b0c4bb589ca887fb9aa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387915755
+        }
+    ],
+    "wof:id":387915755,
+    "wof:lastmodified":1449059884,
+    "wof:name":"Coffee Garden",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-103.575464,43.932546,-103.575464,43.932546],
+  "geometry": {"coordinates":[-103.575464,43.932546],"type":"Point"}
+}

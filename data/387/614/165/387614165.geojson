@@ -1,0 +1,68 @@
+{
+  "id": 387614165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.754424,43.561503,-96.754424,43.561503",
+    "geom:latitude":43.561503,
+    "geom:longitude":-96.754424,
+    "iso:country":"US",
+    "sg:address":"1201 N Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 367 8131",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OxQV2W3ttrKDAYAj0Bdcn_43.561503_-96.754424@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5255bb0e30d8abb3f009c6afbf807df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387614165
+        }
+    ],
+    "wof:id":387614165,
+    "wof:lastmodified":1449060023,
+    "wof:name":"Sioux Falls Utility Billing",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [-96.754424,43.561503,-96.754424,43.561503],
+  "geometry": {"coordinates":[-96.754424,43.561503],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 387151233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.329302,43.972675,-103.329302,43.972675",
+    "geom:latitude":43.972675,
+    "geom:longitude":-103.329302,
+    "iso:country":"US",
+    "sg:address":"23642 Busted Five Ct",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 5433",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086781,
+        85811191,
+        101721605,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xWr27pYoQ6qQwiMFpheP5_43.972675_-103.329302@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"701b1ff818829c57e90db897b981a831",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":-1,
+            "neighbourhood_id":85811191,
+            "region_id":85688693,
+            "venue_id":387151233
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387151233
+        }
+    ],
+    "wof:id":387151233,
+    "wof:lastmodified":1449056160,
+    "wof:name":"Black Hills Construction Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-103.329302,43.972675,-103.329302,43.972675],
+  "geometry": {"coordinates":[-103.329302,43.972675],"type":"Point"}
+}

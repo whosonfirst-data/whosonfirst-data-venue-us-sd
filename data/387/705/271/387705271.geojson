@@ -1,0 +1,65 @@
+{
+  "id": 387705271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.562418,42.603935,-96.562418,42.603935",
+    "geom:latitude":42.603935,
+    "geom:longitude":-96.562418,
+    "iso:country":"US",
+    "sg:address":"401 S Railroad Ave",
+    "sg:city":"Jefferson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 966 5858",
+    "sg:postcode":"57038",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722143,
+        102086029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jwe2TjT4U5RhmucqAOMP4_42.603935_-96.562418@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11a91f051d399d4a1b161e762d29692e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086029,
+            "locality_id":101722143,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387705271
+        }
+    ],
+    "wof:id":387705271,
+    "wof:lastmodified":1449059941,
+    "wof:name":"Jefferson Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.562418,42.603935,-96.562418,42.603935],
+  "geometry": {"coordinates":[-96.562418,42.603935],"type":"Point"}
+}

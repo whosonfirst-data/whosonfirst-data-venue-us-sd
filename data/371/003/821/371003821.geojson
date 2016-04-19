@@ -1,0 +1,68 @@
+{
+  "id": 371003821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736196,43.531242,-96.736196,43.531242",
+    "geom:latitude":43.531242,
+    "geom:longitude":-96.736196,
+    "iso:country":"US",
+    "sg:address":"1504 S Summit Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 3535",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LztlyYc6U24TrWzYv88mL_43.531242_-96.736196@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e2f11a75e8ed667b69b0eaa6d5f45d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":371003821
+        }
+    ],
+    "wof:id":371003821,
+    "wof:lastmodified":1449050067,
+    "wof:name":"Taylor Realty Properties",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.736196,43.531242,-96.736196,43.531242],
+  "geometry": {"coordinates":[-96.736196,43.531242],"type":"Point"}
+}

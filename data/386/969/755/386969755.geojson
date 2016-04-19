@@ -1,0 +1,72 @@
+{
+  "id": 386969755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.131171,44.904762,-97.131171,44.904762",
+    "geom:latitude":44.904762,
+    "geom:longitude":-97.131171,
+    "iso:country":"US",
+    "sg:address":"913 3rd Ave NW",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 886 9920",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3poj9rRsRgRYkR36x6Dd6P_44.904762_-97.131171@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef69b74e1a5869209c950106eeabf174",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386969755
+        }
+    ],
+    "wof:id":386969755,
+    "wof:lastmodified":1449028684,
+    "wof:name":"Powell's Service Gas & Grocery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-97.131171,44.904762,-97.131171,44.904762],
+  "geometry": {"coordinates":[-97.131171,44.904762],"type":"Point"}
+}

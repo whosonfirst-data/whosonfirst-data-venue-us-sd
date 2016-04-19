@@ -1,0 +1,68 @@
+{
+  "id": 387554343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711253,43.526646,-96.711253,43.526646",
+    "geom:latitude":43.526646,
+    "geom:longitude":-96.711253,
+    "iso:country":"US",
+    "sg:address":"2001 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 5221",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "cemetery",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23TMYbkRamT0DTXEPFCHlj_43.526646_-96.711253@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f685c0a3c14df8444ca55ab2406e024",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387554343
+        }
+    ],
+    "wof:id":387554343,
+    "wof:lastmodified":1449056888,
+    "wof:name":"Woodlawn Cemetery",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery",
+        "association"
+    ]
+},
+  "bbox": [-96.711253,43.526646,-96.711253,43.526646],
+  "geometry": {"coordinates":[-96.711253,43.526646],"type":"Point"}
+}

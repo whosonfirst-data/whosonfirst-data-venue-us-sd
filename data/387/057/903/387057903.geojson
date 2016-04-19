@@ -1,0 +1,68 @@
+{
+  "id": 387057903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.499661,45.459169,-98.499661,45.459169",
+    "geom:latitude":45.459169,
+    "geom:longitude":-98.499661,
+    "iso:country":"US",
+    "sg:address":"620 S 8th St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 4536",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pzsW6EXeJD91Rv7ECWzMB_45.459169_-98.499661@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7eac81deae013b1becf177968ac38ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387057903
+        }
+    ],
+    "wof:id":387057903,
+    "wof:lastmodified":1449057985,
+    "wof:name":"Dakota Gold & Ceramics",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-98.499661,45.459169,-98.499661,45.459169],
+  "geometry": {"coordinates":[-98.499661,45.459169],"type":"Point"}
+}

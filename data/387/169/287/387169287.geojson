@@ -1,0 +1,68 @@
+{
+  "id": 387169287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736323,43.534079,-96.736323,43.534079",
+    "geom:latitude":43.534079,
+    "geom:longitude":-96.736323,
+    "iso:country":"US",
+    "sg:address":"1215 S Summit Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2811",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MADKG9ikYAHZu86ZpKCj0_43.534079_-96.736323@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8545f7679e6c3e9e8652528fa36ca1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387169287
+        }
+    ],
+    "wof:id":387169287,
+    "wof:lastmodified":1449058450,
+    "wof:name":"Chris Dental Studio",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-96.736323,43.534079,-96.736323,43.534079],
+  "geometry": {"coordinates":[-96.736323,43.534079],"type":"Point"}
+}

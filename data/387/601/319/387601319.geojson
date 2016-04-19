@@ -1,0 +1,68 @@
+{
+  "id": 387601319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.944105,43.630433,-96.944105,43.630433",
+    "geom:latitude":43.630433,
+    "geom:longitude":-96.944105,
+    "iso:country":"US",
+    "sg:address":"202 State Hwy 38",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 528 7208",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sxlVbCOa2Z7ET9bw2FhcM_43.630433_-96.944105@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1486b2cd9fb7e97180d5f3962f38b6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387601319
+        }
+    ],
+    "wof:id":387601319,
+    "wof:lastmodified":1449057805,
+    "wof:name":"Right Road Repair",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.944105,43.630433,-96.944105,43.630433],
+  "geometry": {"coordinates":[-96.944105,43.630433],"type":"Point"}
+}

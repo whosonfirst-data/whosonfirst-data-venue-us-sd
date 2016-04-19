@@ -1,0 +1,68 @@
+{
+  "id": 387649169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.806457,43.527442,-96.806457,43.527442",
+    "geom:latitude":43.527442,
+    "geom:longitude":-96.806457,
+    "iso:country":"US",
+    "sg:address":"2029 S Oxford Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 4629",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oPu1N8mLQ9jvtHSBkEPwU_43.527442_-96.806457@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71c40dce3edab27c56af77c09895a4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387649169
+        }
+    ],
+    "wof:id":387649169,
+    "wof:lastmodified":1449058704,
+    "wof:name":"Automax",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.806457,43.527442,-96.806457,43.527442],
+  "geometry": {"coordinates":[-96.806457,43.527442],"type":"Point"}
+}

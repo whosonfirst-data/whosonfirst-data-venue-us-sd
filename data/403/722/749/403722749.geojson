@@ -1,0 +1,67 @@
+{
+  "id": 403722749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.136587,43.396028,-97.136587,43.396028",
+    "geom:latitude":43.396028,
+    "geom:longitude":-97.136587,
+    "iso:country":"US",
+    "sg:address":"165 S Main St",
+    "sg:city":"Parker",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 297 3180",
+    "sg:postcode":"57053",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721689,
+        102086867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GJtBQ4dgPzyGrJT0pGXlP_43.396028_-97.136587@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ab80865b20d688db68e44409c61c12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086867,
+            "locality_id":101721689,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403722749
+        }
+    ],
+    "wof:id":403722749,
+    "wof:lastmodified":1449055092,
+    "wof:name":"Parker Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [-97.136587,43.396028,-97.136587,43.396028],
+  "geometry": {"coordinates":[-97.136587,43.396028],"type":"Point"}
+}

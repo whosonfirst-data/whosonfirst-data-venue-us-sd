@@ -1,0 +1,70 @@
+{
+  "id": 371035243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.575652,43.607235,-96.575652,43.607235",
+    "geom:latitude":43.607235,
+    "geom:longitude":-96.575652,
+    "iso:country":"US",
+    "sg:address":"1005 N 9th Ave",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 7171",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dMLOOyz5VgruOsQ4MR0d_43.607235_-96.575652@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c57dbb21d0b2cf9b1a6af783dcf1fbe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":371035243
+        }
+    ],
+    "wof:id":371035243,
+    "wof:lastmodified":1449049891,
+    "wof:name":"Knudtson Collision Repair",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-96.575652,43.607235,-96.575652,43.607235],
+  "geometry": {"coordinates":[-96.575652,43.607235],"type":"Point"}
+}

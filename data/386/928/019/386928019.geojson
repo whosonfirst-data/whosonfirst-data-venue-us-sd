@@ -1,0 +1,76 @@
+{
+  "id": 386928019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.205132,44.07708,-103.205132,44.07708",
+    "geom:latitude":44.07708,
+    "geom:longitude":-103.205132,
+    "iso:country":"US",
+    "sg:address":"609 Steele Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 4163",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69gCLm0sbu5t2l020LYFXp_44.077080_-103.205132@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2f5df3760a02fd00bcf1ed7b367b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":386928019
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":386928019
+        }
+    ],
+    "wof:id":386928019,
+    "wof:lastmodified":1449028909,
+    "wof:name":"Utility Maintance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [-103.205132,44.07708,-103.205132,44.07708],
+  "geometry": {"coordinates":[-103.205132,44.07708],"type":"Point"}
+}

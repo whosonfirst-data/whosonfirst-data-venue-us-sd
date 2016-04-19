@@ -1,0 +1,68 @@
+{
+  "id": 387595705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.719834,43.559416,-96.719834,43.559416",
+    "geom:latitude":43.559416,
+    "geom:longitude":-96.719834,
+    "iso:country":"US",
+    "sg:address":"1110 N Weber Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 3515",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4USnvYln9u14Affr5Sh0dL_43.559416_-96.719834@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1d4ec51cbc0886f2d19a4dd8388cabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387595705
+        }
+    ],
+    "wof:id":387595705,
+    "wof:lastmodified":1449059550,
+    "wof:name":"5 Star Auto & Van Rental",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [-96.719834,43.559416,-96.719834,43.559416],
+  "geometry": {"coordinates":[-96.719834,43.559416],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387410781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.482089,45.46566,-98.482089,45.46566",
+    "geom:latitude":45.46566,
+    "geom:longitude":-98.482089,
+    "iso:country":"US",
+    "sg:address":"3 S Kline St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 0330",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zo5Ky3IOMcKnQCb3kbTQb_45.465660_-98.482089@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68e31d28e011e33ce059ea986380768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387410781
+        }
+    ],
+    "wof:id":387410781,
+    "wof:lastmodified":1449056169,
+    "wof:name":"Premier Auto",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.482089,45.46566,-98.482089,45.46566],
+  "geometry": {"coordinates":[-98.482089,45.46566],"type":"Point"}
+}

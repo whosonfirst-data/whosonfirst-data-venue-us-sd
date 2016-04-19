@@ -1,0 +1,68 @@
+{
+  "id": 370998841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.251955,44.081001,-103.251955,44.081001",
+    "geom:latitude":44.081001,
+    "geom:longitude":-103.251955,
+    "iso:country":"US",
+    "sg:address":"502 Mountain View Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 9753",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ne1O0t0YCEaaVBU8MvDMh_44.081001_-103.251955@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"004434535fcd4388fd7bc0e08abcf3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":370998841
+        }
+    ],
+    "wof:id":370998841,
+    "wof:lastmodified":1449030215,
+    "wof:name":"Mt View Car Wash",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-103.251955,44.081001,-103.251955,44.081001],
+  "geometry": {"coordinates":[-103.251955,44.081001],"type":"Point"}
+}

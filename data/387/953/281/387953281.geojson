@@ -1,0 +1,68 @@
+{
+  "id": 387953281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.31106,45.611842,-98.31106,45.611842",
+    "geom:latitude":45.611842,
+    "geom:longitude":-98.31106,
+    "iso:country":"US",
+    "sg:address":"10 N Broadway St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 396 2634",
+    "sg:postcode":"57433",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BGkOsNeJe5MnIlglVWGdj_45.611842_-98.311060@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae56057f10b6643da9a817a8497833df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387953281
+        }
+    ],
+    "wof:id":387953281,
+    "wof:lastmodified":1449058736,
+    "wof:name":"Columbia Fire Dept",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [-98.31106,45.611842,-98.31106,45.611842],
+  "geometry": {"coordinates":[-98.31106,45.611842],"type":"Point"}
+}

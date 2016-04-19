@@ -1,0 +1,68 @@
+{
+  "id": 387668391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.746794,43.507323,-96.746794,43.507323",
+    "geom:latitude":43.507323,
+    "geom:longitude":-96.746794,
+    "iso:country":"US",
+    "sg:address":"1801 W 50th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 4588",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AXuxbDFAmexs6o2W3XG01_43.507323_-96.746794@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b175b92de928c9108b42a92fb981b117",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387668391
+        }
+    ],
+    "wof:id":387668391,
+    "wof:lastmodified":1449058763,
+    "wof:name":"Thompson Electric Co",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-96.746794,43.507323,-96.746794,43.507323],
+  "geometry": {"coordinates":[-96.746794,43.507323],"type":"Point"}
+}

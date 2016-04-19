@@ -1,0 +1,68 @@
+{
+  "id": 387601499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.729511,43.547236,-96.729511,43.547236",
+    "geom:latitude":43.547236,
+    "geom:longitude":-96.729511,
+    "iso:country":"US",
+    "sg:address":"227 W 9th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 3695",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EAvblY4GMYkNKayYWIhdo_43.547236_-96.729511@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"773759bd2a5f1a2f309de1f01f133fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":387601499
+        }
+    ],
+    "wof:id":387601499,
+    "wof:lastmodified":1449057806,
+    "wof:name":"Mike Schultz Construction",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-96.729511,43.547236,-96.729511,43.547236],
+  "geometry": {"coordinates":[-96.729511,43.547236],"type":"Point"}
+}

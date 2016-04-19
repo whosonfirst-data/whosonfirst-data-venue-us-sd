@@ -1,0 +1,66 @@
+{
+  "id": 387334099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676524,43.545522,-96.676524,43.545522",
+    "geom:latitude":43.545522,
+    "geom:longitude":-96.676524,
+    "iso:country":"US",
+    "sg:address":"3900 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 0900",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gniW44M6FjX1RR2QYXNP7_43.545522_-96.676524@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a10617ef1aa70b4874ac50870250e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387334099
+        }
+    ],
+    "wof:id":387334099,
+    "wof:lastmodified":1449057211,
+    "wof:name":"10th Street Auto Wash",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-96.676524,43.545522,-96.676524,43.545522],
+  "geometry": {"coordinates":[-96.676524,43.545522],"type":"Point"}
+}

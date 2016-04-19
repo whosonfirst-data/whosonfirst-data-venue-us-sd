@@ -1,0 +1,67 @@
+{
+  "id": 387060459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.163706,43.267601,-98.163706,43.267601",
+    "geom:latitude":43.267601,
+    "geom:longitude":-98.163706,
+    "iso:country":"US",
+    "sg:address":"106 W Main St",
+    "sg:city":"Delmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 779 2351",
+    "sg:postcode":"57330",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721533,
+        102086053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MLIny8gE8QKMNTVwpAAk9_43.267601_-98.163706@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f44e7ec5f59530d377a72bdfe1d612d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086053,
+            "locality_id":101721533,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387060459
+        }
+    ],
+    "wof:id":387060459,
+    "wof:lastmodified":1449059567,
+    "wof:name":"Beehler General Repair Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-98.163706,43.267601,-98.163706,43.267601],
+  "geometry": {"coordinates":[-98.163706,43.267601],"type":"Point"}
+}

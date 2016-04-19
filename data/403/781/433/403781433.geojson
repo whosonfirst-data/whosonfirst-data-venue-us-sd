@@ -1,0 +1,66 @@
+{
+  "id": 403781433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711451,43.55688,-96.711451,43.55688",
+    "geom:latitude":43.55688,
+    "geom:longitude":-96.711451,
+    "iso:country":"US",
+    "sg:address":"807 N Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 9554",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BFMeDNQWCRYffFVr9ctMC_43.556880_-96.711451@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93ccd68f8f86558adbb2c1146d320a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881011,
+            "region_id":85688693,
+            "venue_id":403781433
+        }
+    ],
+    "wof:id":403781433,
+    "wof:lastmodified":1449054886,
+    "wof:name":"Sioux Falls Quality Water",
+    "wof:parent_id":85881011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [-96.711451,43.55688,-96.711451,43.55688],
+  "geometry": {"coordinates":[-96.711451,43.55688],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403762139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.249825,44.078616,-103.249825,44.078616",
+    "geom:latitude":44.078616,
+    "geom:longitude":-103.249825,
+    "iso:country":"US",
+    "sg:address":"725 Jackson Blvd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 6036",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cciMU6m7rRoHhAdCEyt96_44.078616_-103.249825@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f491a7efa9703663da924b8bdc37be10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403762139
+        }
+    ],
+    "wof:id":403762139,
+    "wof:lastmodified":1449055554,
+    "wof:name":"Sun Inn Lounge",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [-103.249825,44.078616,-103.249825,44.078616],
+  "geometry": {"coordinates":[-103.249825,44.078616],"type":"Point"}
+}

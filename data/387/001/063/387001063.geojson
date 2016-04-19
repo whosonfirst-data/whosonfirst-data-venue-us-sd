@@ -1,0 +1,70 @@
+{
+  "id": 387001063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.767725,43.568893,-96.767725,43.568893",
+    "geom:latitude":43.568893,
+    "geom:longitude":-96.767725,
+    "iso:country":"US",
+    "sg:address":"2306 N Westport Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 3838",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YGLZZPYYRdnH43tvOOm12_43.568893_-96.767725@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"859afff2f8750b51185ecf65f5a4aec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387001063
+        }
+    ],
+    "wof:id":387001063,
+    "wof:lastmodified":1449056967,
+    "wof:name":"Automotive Services Inc",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-96.767725,43.568893,-96.767725,43.568893],
+  "geometry": {"coordinates":[-96.767725,43.568893],"type":"Point"}
+}

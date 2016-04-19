@@ -1,0 +1,67 @@
+{
+  "id": 387752101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796875,44.311565,-96.796875,44.311565",
+    "geom:latitude":44.311565,
+    "geom:longitude":-96.796875,
+    "iso:country":"US",
+    "sg:address":"503 6th St",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 692 5499",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mAAm8GzbZ2u7YPSBPGdmg_44.311565_-96.796875@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b18c9239b521aaab27235f1db33b21a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387752101
+        }
+    ],
+    "wof:id":387752101,
+    "wof:lastmodified":1449056742,
+    "wof:name":"Ampride",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-96.796875,44.311565,-96.796875,44.311565],
+  "geometry": {"coordinates":[-96.796875,44.311565],"type":"Point"}
+}

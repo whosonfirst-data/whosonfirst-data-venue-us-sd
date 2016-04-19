@@ -1,0 +1,67 @@
+{
+  "id": 387735551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.338991,44.3607,-100.338991,44.3607",
+    "geom:latitude":44.3607,
+    "geom:longitude":-100.338991,
+    "iso:country":"US",
+    "sg:address":"1006 E Sioux Ave",
+    "sg:city":"Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 224 4912",
+    "sg:postcode":"57501",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721649,
+        102086823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_478ckUBTRdYo10pHYghwB4_44.360700_-100.338991@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"819788d21e055c2fd3c059486cda62f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086823,
+            "locality_id":101721649,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387735551
+        }
+    ],
+    "wof:id":387735551,
+    "wof:lastmodified":1449059831,
+    "wof:name":"Paul's Heating & Air Cond",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [-100.338991,44.3607,-100.338991,44.3607],
+  "geometry": {"coordinates":[-100.338991,44.3607],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 371141533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728209,43.543548,-96.728209,43.543548",
+    "geom:latitude":43.543548,
+    "geom:longitude":-96.728209,
+    "iso:country":"US",
+    "sg:address":"104 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 3108",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qvtju55eHwdIaj2tMcI1l_43.543548_-96.728209@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e70aea9a77d1ce2f8c364ec817af42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":371141533
+        }
+    ],
+    "wof:id":371141533,
+    "wof:lastmodified":1449049374,
+    "wof:name":"Jack Egge Automatic Trans Svc",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-96.728209,43.543548,-96.728209,43.543548],
+  "geometry": {"coordinates":[-96.728209,43.543548],"type":"Point"}
+}

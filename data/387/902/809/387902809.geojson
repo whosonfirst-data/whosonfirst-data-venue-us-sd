@@ -1,0 +1,78 @@
+{
+  "id": 387902809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731274,43.53215,-96.731274,43.53215",
+    "geom:latitude":43.53215,
+    "geom:longitude":-96.731274,
+    "iso:country":"US",
+    "sg:address":"1401 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 7034",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "sg:website":"www.midtownservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sBULpG83dNkzfKq9Xh6gq_43.532150_-96.731274@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e298f183aa29d72420a49558b8bd7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387902809
+        }
+    ],
+    "wof:id":387902809,
+    "wof:lastmodified":1449058923,
+    "wof:name":"Midtown Auto Service",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-96.731274,43.53215,-96.731274,43.53215],
+  "geometry": {"coordinates":[-96.731274,43.53215],"type":"Point"}
+}

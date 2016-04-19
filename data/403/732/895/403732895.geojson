@@ -1,0 +1,67 @@
+{
+  "id": 403732895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.767434,43.64348,-96.767434,43.64348",
+    "geom:latitude":43.64348,
+    "geom:longitude":-96.767434,
+    "iso:country":"US",
+    "sg:address":"47219 Hobbs Cir",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 543 5495",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "carrier",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4shCb1EaN47ciGzPHQAsXz_43.643480_-96.767434@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e7fb99bf4a18eda17929016900b0e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":403732895
+        }
+    ],
+    "wof:id":403732895,
+    "wof:lastmodified":1449056015,
+    "wof:name":"USFreightways",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "motor"
+    ]
+},
+  "bbox": [-96.767434,43.64348,-96.767434,43.64348],
+  "geometry": {"coordinates":[-96.767434,43.64348],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 387635735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.680336,42.687836,-96.680336,42.687836",
+    "geom:latitude":42.687836,
+    "geom:longitude":-96.680336,
+    "iso:country":"US",
+    "sg:address":"301 E Rose St",
+    "sg:city":"Elk Point",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 356 3162",
+    "sg:postcode":"57025",
+    "sg:province":"SD",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722145,
+        102086029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TJZrjXB81YqU9m5Tt0mo9_42.687836_-96.680336@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a72701299be93eb20273dd44b58b51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086029,
+            "locality_id":101722145,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387635735
+        }
+    ],
+    "wof:id":387635735,
+    "wof:lastmodified":1449057759,
+    "wof:name":"Street Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [-96.680336,42.687836,-96.680336,42.687836],
+  "geometry": {"coordinates":[-96.680336,42.687836],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 371019715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.753889,43.55539,-96.753889,43.55539",
+    "geom:latitude":43.55539,
+    "geom:longitude":-96.753889,
+    "iso:country":"US",
+    "sg:address":"2114 W Burnside St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 5701",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jUevWIuJA5rqr0epbzJaq_43.555390_-96.753889@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63acfbf9313e90d4dd6204cfaec0d23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":371019715
+        }
+    ],
+    "wof:id":371019715,
+    "wof:lastmodified":1449049654,
+    "wof:name":"Exhaust & Brake",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [-96.753889,43.55539,-96.753889,43.55539],
+  "geometry": {"coordinates":[-96.753889,43.55539],"type":"Point"}
+}

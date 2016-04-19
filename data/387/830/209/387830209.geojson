@@ -1,0 +1,68 @@
+{
+  "id": 387830209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.746032,43.505115,-96.746032,43.505115",
+    "geom:latitude":43.505115,
+    "geom:longitude":-96.746032,
+    "iso:country":"US",
+    "sg:address":"4101 S West Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 2030",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HsZJ1J2vN5WGH7ZNIDhSf_43.505115_-96.746032@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50e3a07c784f437ea401bb6636e8e803",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881021,
+            "region_id":85688693,
+            "venue_id":387830209
+        }
+    ],
+    "wof:id":387830209,
+    "wof:lastmodified":1449056909,
+    "wof:name":"Valley West Apartments",
+    "wof:parent_id":85881021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.746032,43.505115,-96.746032,43.505115],
+  "geometry": {"coordinates":[-96.746032,43.505115],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 403790259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.749819,43.511559,-96.749819,43.511559",
+    "geom:latitude":43.511559,
+    "geom:longitude":-96.749819,
+    "iso:country":"US",
+    "sg:address":"3924 S Willow Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 2002",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:brand_id":420574533,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VTKQKgIAbF7aOK8uxGbpH_43.511559_-96.749819@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d98b45c77f6285698896d8a47bfb5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":403790259
+        }
+    ],
+    "wof:id":403790259,
+    "wof:lastmodified":1457208982,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.749819,
+    43.511559,
+    -96.749819,
+    43.511559
+],
+  "geometry": {"coordinates":[-96.749819,43.511559],"type":"Point"}
+}

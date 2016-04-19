@@ -1,0 +1,66 @@
+{
+  "id": 371037819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.274557,44.08523,-103.274557,44.08523",
+    "geom:latitude":44.08523,
+    "geom:longitude":-103.274557,
+    "iso:country":"US",
+    "sg:address":"102 Federal Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 394 4186",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44W5IIsn5ik6XHrF1VK8eV_44.085230_-103.274557@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b495097c4ba03ea42c80ae70d80e22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371037819
+        }
+    ],
+    "wof:id":371037819,
+    "wof:lastmodified":1449050160,
+    "wof:name":"Rapid City Fire Dept",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-103.274557,44.08523,-103.274557,44.08523],
+  "geometry": {"coordinates":[-103.274557,44.08523],"type":"Point"}
+}

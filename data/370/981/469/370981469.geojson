@@ -1,0 +1,66 @@
+{
+  "id": 370981469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751785,43.508509,-96.751785,43.508509",
+    "geom:latitude":43.508509,
+    "geom:longitude":-96.751785,
+    "iso:country":"US",
+    "sg:address":"2200 W 49th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 2955",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26jWviBgDiIcuC7U49Oxz8_43.508509_-96.751785@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9a129a2d91c5c2f9518503fa415810e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":370981469
+        }
+    ],
+    "wof:id":370981469,
+    "wof:lastmodified":1449032542,
+    "wof:name":"Mc Kinney Family Dentistry",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-96.751785,43.508509,-96.751785,43.508509],
+  "geometry": {"coordinates":[-96.751785,43.508509],"type":"Point"}
+}

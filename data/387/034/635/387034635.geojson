@@ -1,0 +1,66 @@
+{
+  "id": 387034635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711193,43.528452,-96.711193,43.528452",
+    "geom:latitude":43.528452,
+    "geom:longitude":-96.711193,
+    "iso:country":"US",
+    "sg:address":"1900 S Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 6066",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0szFks4moBIhodWDe6uSG3_43.528452_-96.711193@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad5928f2b25e117be853f9a6d8c15b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387034635
+        }
+    ],
+    "wof:id":387034635,
+    "wof:lastmodified":1449056533,
+    "wof:name":"Cliff Avenue Upholstery",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [-96.711193,43.528452,-96.711193,43.528452],
+  "geometry": {"coordinates":[-96.711193,43.528452],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 386962383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.952732,45.012476,-99.952732,45.012476",
+    "geom:latitude":45.012476,
+    "geom:longitude":-99.952732,
+    "iso:country":"US",
+    "sg:address":"300 E Blaine Ave",
+    "sg:city":"Gettysburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 765 9229",
+    "sg:postcode":"57442",
+    "sg:province":"SD",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722175,
+        102086821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xDWvAPlLvROPrwHmiFOVF_45.012476_-99.952732@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db4c1c11519648cc3f200cd3822743a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086821,
+            "locality_id":101722175,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":386962383
+        }
+    ],
+    "wof:id":386962383,
+    "wof:lastmodified":1449028809,
+    "wof:name":"Beetsch Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [-99.952732,45.012476,-99.952732,45.012476],
+  "geometry": {"coordinates":[-99.952732,45.012476],"type":"Point"}
+}

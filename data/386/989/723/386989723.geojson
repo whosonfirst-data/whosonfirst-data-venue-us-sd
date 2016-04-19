@@ -1,0 +1,68 @@
+{
+  "id": 386989723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636096,43.558305,-96.636096,43.558305",
+    "geom:latitude":43.558305,
+    "geom:longitude":-96.636096,
+    "iso:country":"US",
+    "sg:address":"7201 E Madison St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 351 5001",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b4Pvk8PSUH6mN7ECQOuBf_43.558305_-96.636096@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"798b58c149c15ff56dcef9f771524784",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":386989723
+        }
+    ],
+    "wof:id":386989723,
+    "wof:lastmodified":1449028866,
+    "wof:name":"Gallion Interiors",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [-96.636096,43.558305,-96.636096,43.558305],
+  "geometry": {"coordinates":[-96.636096,43.558305],"type":"Point"}
+}

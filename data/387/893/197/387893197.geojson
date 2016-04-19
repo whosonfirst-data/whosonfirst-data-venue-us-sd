@@ -1,0 +1,67 @@
+{
+  "id": 387893197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.649828,44.434613,-96.649828,44.434613",
+    "geom:latitude":44.434613,
+    "geom:longitude":-96.649828,
+    "iso:country":"US",
+    "sg:address":"203 W Main St",
+    "sg:city":"White",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 629 3311",
+    "sg:postcode":"57276",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721917,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51xPAoGddT4EIq06b04ZQg_44.434613_-96.649828@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10c35a1002c9bf01d765f95c869b4fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721917,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387893197
+        }
+    ],
+    "wof:id":387893197,
+    "wof:lastmodified":1449059205,
+    "wof:name":"Svennes Busing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [-96.649828,44.434613,-96.649828,44.434613],
+  "geometry": {"coordinates":[-96.649828,44.434613],"type":"Point"}
+}

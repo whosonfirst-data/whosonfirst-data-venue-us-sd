@@ -1,0 +1,68 @@
+{
+  "id": 387848341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711441,43.565712,-96.711441,43.565712",
+    "geom:latitude":43.565712,
+    "geom:longitude":-96.711441,
+    "iso:country":"US",
+    "sg:address":"1700 N Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 7888",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DMW0WnQt2v8q1hFnGJEIb_43.565712_-96.711441@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f200c4e00826dddba099a208f3200161",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387848341
+        }
+    ],
+    "wof:id":387848341,
+    "wof:lastmodified":1449056640,
+    "wof:name":"Scarborough Auto Sales",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-96.711441,43.565712,-96.711441,43.565712],
+  "geometry": {"coordinates":[-96.711441,43.565712],"type":"Point"}
+}

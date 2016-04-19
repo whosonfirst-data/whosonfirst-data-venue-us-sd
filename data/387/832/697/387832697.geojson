@@ -1,0 +1,82 @@
+{
+  "id": 387832697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.59706,44.049515,-96.59706,44.049515",
+    "geom:latitude":44.049515,
+    "geom:longitude":-96.59706,
+    "iso:country":"US",
+    "sg:address":"114 W 2nd Ave",
+    "sg:city":"Flandreau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 997 2881",
+    "sg:postcode":"57028",
+    "sg:province":"SD",
+    "sg:tags":[
+        "plant",
+        "mfg",
+        "frozen",
+        "prepared",
+        "food",
+        "locker",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721835,
+        102086851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6abkhGMGyAiEUAco92Bx2Z_44.049515_-96.597060@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86bb9934f8aaca32d30d8ee2dada86cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086851,
+            "locality_id":101721835,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387832697
+        }
+    ],
+    "wof:id":387832697,
+    "wof:lastmodified":1449056132,
+    "wof:name":"Flandreau Lockers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "mfg",
+        "frozen",
+        "prepared",
+        "food",
+        "locker",
+        "refrigeration"
+    ]
+},
+  "bbox": [-96.59706,44.049515,-96.59706,44.049515],
+  "geometry": {"coordinates":[-96.59706,44.049515],"type":"Point"}
+}

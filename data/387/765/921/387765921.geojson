@@ -1,0 +1,68 @@
+{
+  "id": 387765921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.721275,43.571405,-96.721275,43.571405",
+    "geom:latitude":43.571405,
+    "geom:longitude":-96.721275,
+    "iso:country":"US",
+    "sg:address":"2400 N 4th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 0174",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUQZqYfpn1JNX3bL8EHvc_43.571405_-96.721275@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9805f675201e2c56b5d7e5d0ae5d91a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387765921
+        }
+    ],
+    "wof:id":387765921,
+    "wof:lastmodified":1449058302,
+    "wof:name":"Coffee Homes",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [-96.721275,43.571405,-96.721275,43.571405],
+  "geometry": {"coordinates":[-96.721275,43.571405],"type":"Point"}
+}

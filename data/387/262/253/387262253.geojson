@@ -1,0 +1,67 @@
+{
+  "id": 387262253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.115538,44.901929,-97.115538,44.901929",
+    "geom:latitude":44.901929,
+    "geom:longitude":-97.115538,
+    "iso:country":"US",
+    "sg:address":"18 1st Ave NW",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 882 2771",
+    "sg:postcode":"57201",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721941,
+        102086797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CUJgFkgdTgeDKOL2I4V0C_44.901929_-97.115538@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e87870d55ddba9e6fe724338e145758",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086797,
+            "locality_id":101721941,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387262253
+        }
+    ],
+    "wof:id":387262253,
+    "wof:lastmodified":1449058459,
+    "wof:name":"Otto's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.115538,44.901929,-97.115538,44.901929],
+  "geometry": {"coordinates":[-97.115538,44.901929],"type":"Point"}
+}

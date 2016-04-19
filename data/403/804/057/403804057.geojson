@@ -1,0 +1,80 @@
+{
+  "id": 403804057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191623,44.076934,-103.191623,44.076934",
+    "geom:latitude":44.076934,
+    "geom:longitude":-103.191623,
+    "iso:country":"US",
+    "sg:address":"1028 Cambell St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 355 0005",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jSeYWX2at8pMXdU3SctM0_44.076934_-103.191623@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0337da7485ee46226eae6cc71f63ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":403804057
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403804057
+        }
+    ],
+    "wof:id":403804057,
+    "wof:lastmodified":1449055536,
+    "wof:name":"Trans Tech Transmissions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-103.191623,44.076934,-103.191623,44.076934],
+  "geometry": {"coordinates":[-103.191623,44.076934],"type":"Point"}
+}

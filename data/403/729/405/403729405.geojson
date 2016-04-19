@@ -1,0 +1,67 @@
+{
+  "id": 403729405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.549929,44.386317,-97.549929,44.386317",
+    "geom:latitude":44.386317,
+    "geom:longitude":-97.549929,
+    "iso:country":"US",
+    "sg:address":"106 2nd St SW",
+    "sg:city":"De Smet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 854 3300",
+    "sg:postcode":"57231",
+    "sg:province":"SD",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722125,
+        102086869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FXrPNxe51ypLsyZ3wxaQ2_44.386317_-97.549929@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7845c3362462336ab22d8436aa6cdcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086869,
+            "locality_id":101722125,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403729405
+        }
+    ],
+    "wof:id":403729405,
+    "wof:lastmodified":1449055317,
+    "wof:name":"De Smet Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [-97.549929,44.386317,-97.549929,44.386317],
+  "geometry": {"coordinates":[-97.549929,44.386317],"type":"Point"}
+}

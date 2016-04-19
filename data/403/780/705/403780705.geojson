@@ -1,0 +1,68 @@
+{
+  "id": 403780705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.50778,43.919295,-103.50778,43.919295",
+    "geom:latitude":43.919295,
+    "geom:longitude":-103.50778,
+    "iso:country":"US",
+    "sg:address":"24045 Twin Springs Rd",
+    "sg:city":"Hill City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 574 2155",
+    "sg:postcode":"57745",
+    "sg:province":"SD",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13JsirWPI9UIQ66UbD50KT_43.919295_-103.507780@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49c035f1c7bdf8203e3f51d2c80cdb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403780705
+        }
+    ],
+    "wof:id":403780705,
+    "wof:lastmodified":1449055620,
+    "wof:name":"Talley Construction",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-103.50778,43.919295,-103.50778,43.919295],
+  "geometry": {"coordinates":[-103.50778,43.919295],"type":"Point"}
+}

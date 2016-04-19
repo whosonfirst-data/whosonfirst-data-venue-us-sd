@@ -1,0 +1,68 @@
+{
+  "id": 387021469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.867819,43.54366,-96.867819,43.54366",
+    "geom:latitude":43.54366,
+    "geom:longitude":-96.867819,
+    "iso:country":"US",
+    "sg:address":"26494 Landon Ln",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 3525",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CFiUaTLufBzAsdJNEE1Z6_43.543660_-96.867819@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0d3119903a362c0b320f41265d68e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387021469
+        }
+    ],
+    "wof:id":387021469,
+    "wof:lastmodified":1449058507,
+    "wof:name":"JP Electric",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-96.867819,43.54366,-96.867819,43.54366],
+  "geometry": {"coordinates":[-96.867819,43.54366],"type":"Point"}
+}

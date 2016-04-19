@@ -1,0 +1,69 @@
+{
+  "id": 403803967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.10661,43.401838,-97.10661,43.401838",
+    "geom:latitude":43.401838,
+    "geom:longitude":-97.10661,
+    "iso:country":"US",
+    "sg:address":"45437 275th St",
+    "sg:city":"Parker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 297 0057",
+    "sg:postcode":"57053",
+    "sg:province":"SD",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MXQsfaZKBaCRyQdDHExiw_43.401838_-97.106610@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3c6c407215bbf6028e1b4958b3d1601",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403803967
+        }
+    ],
+    "wof:id":403803967,
+    "wof:lastmodified":1449055981,
+    "wof:name":"Parkers Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-97.10661,43.401838,-97.10661,43.401838],
+  "geometry": {"coordinates":[-97.10661,43.401838],"type":"Point"}
+}

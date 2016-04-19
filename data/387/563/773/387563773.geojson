@@ -1,0 +1,66 @@
+{
+  "id": 387563773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.675764,43.545018,-96.675764,43.545018",
+    "geom:latitude":43.545018,
+    "geom:longitude":-96.675764,
+    "iso:country":"US",
+    "sg:address":"3809 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 1141",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lLhr6E8KgbDYr3QeAiJXp_43.545018_-96.675764@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b7db87ca642cd1b694157192a74bdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387563773
+        }
+    ],
+    "wof:id":387563773,
+    "wof:lastmodified":1449056175,
+    "wof:name":"Sunshine Foods",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-96.675764,43.545018,-96.675764,43.545018],
+  "geometry": {"coordinates":[-96.675764,43.545018],"type":"Point"}
+}

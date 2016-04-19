@@ -1,0 +1,65 @@
+{
+  "id": 403820153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.770927,43.819869,-96.770927,43.819869",
+    "geom:latitude":43.819869,
+    "geom:longitude":-96.770927,
+    "iso:country":"US",
+    "sg:address":"47176 Industrial St",
+    "sg:city":"Dell Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 428 4913",
+    "sg:postcode":"57022",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tcQ107jR29cx4QuXBaXUW_43.819869_-96.770927@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83be40ae155b0605c1411fdad12a5036",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":403820153
+        }
+    ],
+    "wof:id":403820153,
+    "wof:lastmodified":1449055336,
+    "wof:name":"Dell's Diesel Svc Inc",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-96.770927,43.819869,-96.770927,43.819869],
+  "geometry": {"coordinates":[-96.770927,43.819869],"type":"Point"}
+}

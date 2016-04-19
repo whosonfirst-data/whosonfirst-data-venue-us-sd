@@ -1,0 +1,66 @@
+{
+  "id": 387935731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.506367,45.836851,-98.506367,45.836851",
+    "geom:latitude":45.836851,
+    "geom:longitude":-98.506367,
+    "iso:country":"US",
+    "sg:address":"804 3rd Ave",
+    "sg:city":"Frederick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 329 2166",
+    "sg:postcode":"57441",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jhds3YpGIxG5q8G0etcwG_45.836851_-98.506367@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3cc9ba7c3771c9c5ae8e45ec584cf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387935731
+        }
+    ],
+    "wof:id":387935731,
+    "wof:lastmodified":1449059246,
+    "wof:name":"Frederick Veterinary Clinic",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-98.506367,45.836851,-98.506367,45.836851],
+  "geometry": {"coordinates":[-98.506367,45.836851],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387360967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.714139,43.549808,-96.714139,43.549808",
+    "geom:latitude":43.549808,
+    "geom:longitude":-96.714139,
+    "iso:country":"US",
+    "sg:address":"210 N Fairfax Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 1616",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZOdge3t5wRtpxTfKw4ZTU_43.549808_-96.714139@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"469386ccbee0e1adb9a520b9f45ee94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881011,
+            "region_id":85688693,
+            "venue_id":387360967
+        }
+    ],
+    "wof:id":387360967,
+    "wof:lastmodified":1449059041,
+    "wof:name":"Yellow Cab Company Sioux Falls",
+    "wof:parent_id":85881011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-96.714139,43.549808,-96.714139,43.549808],
+  "geometry": {"coordinates":[-96.714139,43.549808],"type":"Point"}
+}

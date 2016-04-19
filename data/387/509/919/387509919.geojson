@@ -1,0 +1,66 @@
+{
+  "id": 387509919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698105,43.591785,-96.698105,43.591785",
+    "geom:latitude":43.591785,
+    "geom:longitude":-96.698105,
+    "iso:country":"US",
+    "sg:address":"4001 N Lewis Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 2451",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63ltBfvYbLnzrn4GdxduNO_43.591785_-96.698105@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f6e072607fa900a41230f0c376c880e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":387509919
+        }
+    ],
+    "wof:id":387509919,
+    "wof:lastmodified":1449056274,
+    "wof:name":"Nelson Laboratories Ltd Partnr",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.698105,43.591785,-96.698105,43.591785],
+  "geometry": {"coordinates":[-96.698105,43.591785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 387868377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.188855,44.09484,-103.188855,44.09484",
+    "geom:latitude":44.09484,
+    "geom:longitude":-103.188855,
+    "iso:country":"US",
+    "sg:address":"645 Century Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 7800",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.aamco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:brand_id":420574443,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78C6iXplfQyYn6K7NM5gt4_44.094840_-103.188855@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b970dbdba2f3d8320ba0ad2ade66af43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387868377
+        }
+    ],
+    "wof:id":387868377,
+    "wof:lastmodified":1457208900,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -103.188855,
+    44.09484,
+    -103.188855,
+    44.09484
+],
+  "geometry": {"coordinates":[-103.188855,44.09484],"type":"Point"}
+}

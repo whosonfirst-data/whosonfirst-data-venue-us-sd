@@ -1,0 +1,66 @@
+{
+  "id": 387475877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.714765,43.533901,-96.714765,43.533901",
+    "geom:latitude":43.533901,
+    "geom:longitude":-96.714765,
+    "iso:country":"US",
+    "sg:address":"911 E 21st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 322 7020",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oJrkLEQcfPCBTy2l5eKxj_43.533901_-96.714765@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a511e2129f1af12e250f71daf290589a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387475877
+        }
+    ],
+    "wof:id":387475877,
+    "wof:lastmodified":1449057683,
+    "wof:name":"Heartland Orthopedic Clinic",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-96.714765,43.533901,-96.714765,43.533901],
+  "geometry": {"coordinates":[-96.714765,43.533901],"type":"Point"}
+}

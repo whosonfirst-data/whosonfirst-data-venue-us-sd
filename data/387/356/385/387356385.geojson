@@ -1,0 +1,68 @@
+{
+  "id": 387356385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.283831,44.067464,-103.283831,44.067464",
+    "geom:latitude":44.067464,
+    "geom:longitude":-103.283831,
+    "iso:country":"US",
+    "sg:address":"3928 Canyon Lake Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3688",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10jDbvdzBbUCgdi3iP1ss7_44.067464_-103.283831@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a0a581de5a3a76aa43a66a07b52e195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387356385
+        }
+    ],
+    "wof:id":387356385,
+    "wof:lastmodified":1449059247,
+    "wof:name":"Canyon",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-103.283831,44.067464,-103.283831,44.067464],
+  "geometry": {"coordinates":[-103.283831,44.067464],"type":"Point"}
+}

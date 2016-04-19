@@ -1,0 +1,70 @@
+{
+  "id": 387507143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.945595,43.620618,-96.945595,43.620618",
+    "geom:latitude":43.620618,
+    "geom:longitude":-96.945595,
+    "iso:country":"US",
+    "sg:address":"204 S Main Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 528 6502",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PiHXnUNks3aMP3ycVmmx2_43.620618_-96.945595@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de4bde097a1ba3d341ddd1ab18408f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":387507143
+        }
+    ],
+    "wof:id":387507143,
+    "wof:lastmodified":1449058063,
+    "wof:name":"Hartford's Best Body Shop",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-96.945595,43.620618,-96.945595,43.620618],
+  "geometry": {"coordinates":[-96.945595,43.620618],"type":"Point"}
+}

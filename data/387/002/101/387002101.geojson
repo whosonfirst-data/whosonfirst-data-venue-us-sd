@@ -1,0 +1,65 @@
+{
+  "id": 387002101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.448169,45.545527,-100.448169,45.545527",
+    "geom:latitude":45.545527,
+    "geom:longitude":-100.448169,
+    "iso:country":"US",
+    "sg:address":"1400 10th Ave W",
+    "sg:city":"Mobridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 845 7292",
+    "sg:postcode":"57601",
+    "sg:province":"SD",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721629,
+        102086011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ncs2CBcCcN6kiZ2T08cak_45.545527_-100.448169@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c4a90376cd9f92fadcfba6658591a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086011,
+            "locality_id":101721629,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387002101
+        }
+    ],
+    "wof:id":387002101,
+    "wof:lastmodified":1449059234,
+    "wof:name":"Avera Saint Lukes Physician",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-100.448169,45.545527,-100.448169,45.545527],
+  "geometry": {"coordinates":[-100.448169,45.545527],"type":"Point"}
+}

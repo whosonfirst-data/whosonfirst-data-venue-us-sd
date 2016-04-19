@@ -1,0 +1,67 @@
+{
+  "id": 403823819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.646053,45.21892,-96.646053,45.21892",
+    "geom:latitude":45.21892,
+    "geom:longitude":-96.646053,
+    "iso:country":"US",
+    "sg:address":"401 W 4th Ave",
+    "sg:city":"Milbank",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 432 4892",
+    "sg:postcode":"57252",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721805,
+        102086849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05uHioAZLX7Uubo6rHNGes_45.218920_-96.646053@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae3e88e3d36039a5545e97f4af45fb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086849,
+            "locality_id":101721805,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403823819
+        }
+    ],
+    "wof:id":403823819,
+    "wof:lastmodified":1449055943,
+    "wof:name":"G & R Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.646053,45.21892,-96.646053,45.21892],
+  "geometry": {"coordinates":[-96.646053,45.21892],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387572029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751019,43.513825,-96.751019,43.513825",
+    "geom:latitude":43.513825,
+    "geom:longitude":-96.751019,
+    "iso:country":"US",
+    "sg:address":"3412 S Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 3720",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UGYz00Dlfm6yjZ9piMR5s_43.513825_-96.751019@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1a8a3fc282672b86cb4be51f1cf1724",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387572029
+        }
+    ],
+    "wof:id":387572029,
+    "wof:lastmodified":1449058431,
+    "wof:name":"Holey Bagels",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [-96.751019,43.513825,-96.751019,43.513825],
+  "geometry": {"coordinates":[-96.751019,43.513825],"type":"Point"}
+}

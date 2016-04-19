@@ -1,0 +1,73 @@
+{
+  "id": 371072255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691534,43.647216,-96.691534,43.647216",
+    "geom:latitude":43.647216,
+    "geom:longitude":-96.691534,
+    "iso:country":"US",
+    "sg:address":"25797 476th Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2260",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automobile",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nCqBCk4XtubQ8DzVWLxUF_43.647216_-96.691534@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9bbbe7a7ca870e2b4833ec5d82e111a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":371072255
+        }
+    ],
+    "wof:id":371072255,
+    "wof:lastmodified":1449049593,
+    "wof:name":"Northwestern Truck Storage",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [-96.691534,43.647216,-96.691534,43.647216],
+  "geometry": {"coordinates":[-96.691534,43.647216],"type":"Point"}
+}

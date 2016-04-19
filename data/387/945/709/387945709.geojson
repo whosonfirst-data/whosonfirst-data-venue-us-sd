@@ -1,0 +1,72 @@
+{
+  "id": 387945709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.798682,44.310093,-96.798682,44.310093",
+    "geom:latitude":44.310093,
+    "geom:longitude":-96.798682,
+    "iso:country":"US",
+    "sg:address":"417 Main Ave",
+    "sg:city":"Brookings",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 692 1290",
+    "sg:postcode":"57006",
+    "sg:province":"SD",
+    "sg:tags":[
+        "deli",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721911,
+        102086013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_241tSxd5tf4DvlcULtWpEJ_44.310093_-96.798682@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14f61fe2b88d1c39375bedee7cbd8ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086013,
+            "locality_id":101721911,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":387945709
+        }
+    ],
+    "wof:id":387945709,
+    "wof:lastmodified":1449056428,
+    "wof:name":"Mac's Diner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "baker"
+    ]
+},
+  "bbox": [-96.798682,44.310093,-96.798682,44.310093],
+  "geometry": {"coordinates":[-96.798682,44.310093],"type":"Point"}
+}

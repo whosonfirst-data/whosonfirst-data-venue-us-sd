@@ -1,0 +1,69 @@
+{
+  "id": 403726895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.430903,43.22991,-99.430903,43.22991",
+    "geom:latitude":43.22991,
+    "geom:longitude":-99.430903,
+    "iso:country":"US",
+    "sg:address":"314 Main St",
+    "sg:city":"Gregory",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 835 9288",
+    "sg:postcode":"57533",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721713,
+        102086069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W796FQ1rm9m8Yl6IAj83Z_43.229910_-99.430903@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20a411fda98810d55cd83e42dedde17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086069,
+            "locality_id":101721713,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403726895
+        }
+    ],
+    "wof:id":403726895,
+    "wof:lastmodified":1449055516,
+    "wof:name":"Allen's Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [-99.430903,43.22991,-99.430903,43.22991],
+  "geometry": {"coordinates":[-99.430903,43.22991],"type":"Point"}
+}

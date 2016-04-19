@@ -1,0 +1,78 @@
+{
+  "id": 387313843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.151225,44.098573,-103.151225,44.098573",
+    "geom:latitude":44.098573,
+    "geom:longitude":-103.151225,
+    "iso:country":"US",
+    "sg:address":"4040 S Interstate 90 Svc Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 787 6851",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AAfMUcv3Ec0wO80NrPZFa_44.098573_-103.151225@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4126979d28fd6600f4be4de63ba46ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":387313843
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387313843
+        }
+    ],
+    "wof:id":387313843,
+    "wof:lastmodified":1449056231,
+    "wof:name":"American West Utilities",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [-103.151225,44.098573,-103.151225,44.098573],
+  "geometry": {"coordinates":[-103.151225,44.098573],"type":"Point"}
+}

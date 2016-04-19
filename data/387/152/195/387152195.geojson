@@ -1,0 +1,70 @@
+{
+  "id": 387152195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.774739,43.566555,-96.774739,43.566555",
+    "geom:latitude":43.566555,
+    "geom:longitude":-96.774739,
+    "iso:country":"US",
+    "sg:address":"3405 W Eide Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 5854",
+    "sg:postcode":"57107",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y5zRZB4SaZZavnkEWu3zx_43.566555_-96.774739@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49321b0825010abfa449e008cab552ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":387152195
+        }
+    ],
+    "wof:id":387152195,
+    "wof:lastmodified":1449059034,
+    "wof:name":"Cenex Transportation",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [-96.774739,43.566555,-96.774739,43.566555],
+  "geometry": {"coordinates":[-96.774739,43.566555],"type":"Point"}
+}

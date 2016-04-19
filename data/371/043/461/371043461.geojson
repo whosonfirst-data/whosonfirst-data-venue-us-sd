@@ -1,0 +1,66 @@
+{
+  "id": 371043461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.717035,43.548707,-96.717035,43.548707",
+    "geom:latitude":43.548707,
+    "geom:longitude":-96.717035,
+    "iso:country":"US",
+    "sg:address":"702 E 8th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 977 6784",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cDiO2RkJhdijbi2HYrakM_43.548707_-96.717035@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0465582bdef6c143331d14a70a8150d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881011,
+            "region_id":85688693,
+            "venue_id":371043461
+        }
+    ],
+    "wof:id":371043461,
+    "wof:lastmodified":1449049828,
+    "wof:name":"European Super Market",
+    "wof:parent_id":85881011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-96.717035,43.548707,-96.717035,43.548707],
+  "geometry": {"coordinates":[-96.717035,43.548707],"type":"Point"}
+}

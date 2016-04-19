@@ -1,0 +1,66 @@
+{
+  "id": 403831995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-100.388314,44.370991,-100.388314,44.370991",
+    "geom:latitude":44.370991,
+    "geom:longitude":-100.388314,
+    "iso:country":"US",
+    "sg:address":"515 US Hwy 14",
+    "sg:city":"Fort Pierre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 223 3100",
+    "sg:postcode":"57532",
+    "sg:province":"SD",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.eddiestrucksales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721579,
+        102086115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x64QCIJG5Un5X40gEGzH9_44.370991_-100.388314@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"597b84ecb910eb003a363b3d818c86c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086115,
+            "locality_id":101721579,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":403831995
+        }
+    ],
+    "wof:id":403831995,
+    "wof:lastmodified":1449055425,
+    "wof:name":"Eddies Truck Sales Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-100.388314,44.370991,-100.388314,44.370991],
+  "geometry": {"coordinates":[-100.388314,44.370991],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 371040495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-97.747356,45.791331,-97.747356,45.791331",
+    "geom:latitude":45.791331,
+    "geom:longitude":-97.747356,
+    "iso:country":"US",
+    "sg:address":"518 Vanderhorck St",
+    "sg:city":"Britton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 448 5322",
+    "sg:postcode":"57430",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721849,
+        102086785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z0iZvoBTaUAThROpvR9YT_45.791331_-97.747356@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2212651dd6b5e91a4d2ca7fdfa713dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086785,
+            "locality_id":101721849,
+            "neighbourhood_id":-1,
+            "region_id":85688693,
+            "venue_id":371040495
+        }
+    ],
+    "wof:id":371040495,
+    "wof:lastmodified":1449050104,
+    "wof:name":"Haaland Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-97.747356,45.791331,-97.747356,45.791331],
+  "geometry": {"coordinates":[-97.747356,45.791331],"type":"Point"}
+}

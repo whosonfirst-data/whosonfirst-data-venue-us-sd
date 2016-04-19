@@ -1,0 +1,66 @@
+{
+  "id": 403784691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795069,43.543824,-96.795069,43.543824",
+    "geom:latitude":43.543824,
+    "geom:longitude":-96.795069,
+    "iso:country":"US",
+    "sg:address":"5601 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 0800",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85824385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aS5Ys1WCFmfDxGU45ZN4D_43.543824_-96.795069@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a06cc8f374664147c3fb2eab23b90569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85824385,
+            "region_id":85688693,
+            "venue_id":403784691
+        }
+    ],
+    "wof:id":403784691,
+    "wof:lastmodified":1449055499,
+    "wof:name":"City Wide Taxi Auto Svc",
+    "wof:parent_id":85824385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-96.795069,43.543824,-96.795069,43.543824],
+  "geometry": {"coordinates":[-96.795069,43.543824],"type":"Point"}
+}

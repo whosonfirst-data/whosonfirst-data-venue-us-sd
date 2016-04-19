@@ -1,0 +1,68 @@
+{
+  "id": 387811361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.460571,45.462272,-98.460571,45.462272",
+    "geom:latitude":45.462272,
+    "geom:longitude":-98.460571,
+    "iso:country":"US",
+    "sg:address":"1901 3rd Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 6331",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JZ3t8C8ePzKysFB2i491A_45.462272_-98.460571@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0466ab9184bbf0bf9b0fc4d569ad0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387811361
+        }
+    ],
+    "wof:id":387811361,
+    "wof:lastmodified":1449057934,
+    "wof:name":"Carlyle Apartments",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-98.460571,45.462272,-98.460571,45.462272],
+  "geometry": {"coordinates":[-98.460571,45.462272],"type":"Point"}
+}

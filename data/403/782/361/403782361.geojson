@@ -1,0 +1,80 @@
+{
+  "id": 403782361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.132237,44.07155,-103.132237,44.07155",
+    "geom:latitude":44.07155,
+    "geom:longitude":-103.132237,
+    "iso:country":"US",
+    "sg:address":"5431 Ave A",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 716 0599",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "body",
+        "paint",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sBjZDuuTjW4pglbaRazgl_44.071550_-103.132237@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88aa8ef061d3eeccb60e21bd31f46e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":403782361
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":403782361
+        }
+    ],
+    "wof:id":403782361,
+    "wof:lastmodified":1449054624,
+    "wof:name":"Flamers Custom Paint & Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "paint",
+        "shop"
+    ]
+},
+  "bbox": [-103.132237,44.07155,-103.132237,44.07155],
+  "geometry": {"coordinates":[-103.132237,44.07155],"type":"Point"}
+}

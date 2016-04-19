@@ -1,0 +1,77 @@
+{
+  "id": 403707173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751169,43.556435,-96.751169,43.556435",
+    "geom:latitude":43.556435,
+    "geom:longitude":-96.751169,
+    "iso:country":"US",
+    "sg:address":"706 N Western Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 6407",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "softening",
+        "softener"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JGSm97qd1zk695exTfF33_43.556435_-96.751169@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de34cc40febdc095a8fba905cbdfc868",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881025,
+            "region_id":85688693,
+            "venue_id":403707173
+        }
+    ],
+    "wof:id":403707173,
+    "wof:lastmodified":1449055768,
+    "wof:name":"Halverson's Water Conditioning",
+    "wof:parent_id":85881025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "softening",
+        "softener"
+    ]
+},
+  "bbox": [-96.751169,43.556435,-96.751169,43.556435],
+  "geometry": {"coordinates":[-96.751169,43.556435],"type":"Point"}
+}

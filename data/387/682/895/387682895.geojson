@@ -1,0 +1,72 @@
+{
+  "id": 387682895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-98.46619,45.453019,-98.46619,45.453019",
+    "geom:latitude":45.453019,
+    "geom:longitude":-98.46619,
+    "iso:country":"US",
+    "sg:address":"1124 S High St",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 5471",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "center",
+        "treatment",
+        "outpatient",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DVAfHUhcrBqTRBhfjAyyL_45.453019_-98.466190@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"559f2192e248569f7a860754df52f1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":387682895
+        }
+    ],
+    "wof:id":387682895,
+    "wof:lastmodified":1449056762,
+    "wof:name":"Adjustment Training Center",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "treatment",
+        "outpatient",
+        "rehabilitation"
+    ]
+},
+  "bbox": [-98.46619,45.453019,-98.46619,45.453019],
+  "geometry": {"coordinates":[-98.46619,45.453019],"type":"Point"}
+}

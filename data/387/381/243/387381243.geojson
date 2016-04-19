@@ -1,0 +1,72 @@
+{
+  "id": 387381243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695098,43.54498,-96.695098,43.54498",
+    "geom:latitude":43.54498,
+    "geom:longitude":-96.695098,
+    "iso:country":"US",
+    "sg:address":"312 S Conklin Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 3004",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85816793
+    ],
+    "wof:brand_id":420574533,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D1h10JvtN5H1jZkt1wwa6_43.544980_-96.695098@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e697dcb298ce51a4846d96675ed26f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":387381243
+        }
+    ],
+    "wof:id":387381243,
+    "wof:lastmodified":1457208982,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.695098,
+    43.54498,
+    -96.695098,
+    43.54498
+],
+  "geometry": {"coordinates":[-96.695098,43.54498],"type":"Point"}
+}

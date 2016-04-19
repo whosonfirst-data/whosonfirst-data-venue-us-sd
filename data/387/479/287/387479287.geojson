@@ -1,0 +1,69 @@
+{
+  "id": 387479287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727009,43.823443,-96.727009,43.823443",
+    "geom:latitude":43.823443,
+    "geom:longitude":-96.727009,
+    "iso:country":"US",
+    "sg:address":"505 W 4th St",
+    "sg:city":"Dell Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 428 6003",
+    "sg:postcode":"57022",
+    "sg:province":"SD",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        102086007,
+        85848907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dbba5V44kdzeFT4CFTk0Q_43.823443_-96.727009@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"662ca046dba7532639f17aad53358368",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":-1,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":387479287
+        }
+    ],
+    "wof:id":387479287,
+    "wof:lastmodified":1449058709,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-96.727009,43.823443,-96.727009,43.823443],
+  "geometry": {"coordinates":[-96.727009,43.823443],"type":"Point"}
+}

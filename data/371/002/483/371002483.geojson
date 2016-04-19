@@ -1,0 +1,83 @@
+{
+  "id": 371002483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.159129,44.097942,-103.159129,44.097942",
+    "geom:latitude":44.097942,
+    "geom:longitude":-103.159129,
+    "iso:country":"US",
+    "sg:address":"3455 Eglin St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 4823",
+    "sg:postcode":"57703",
+    "sg:province":"SD",
+    "sg:tags":[
+        "leasing"
+    ],
+    "sg:website":"www.unitedrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85852865,
+        85822361
+    ],
+    "wof:brand_id":420574359,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dfaMLh7VqJ7OMZJF0kJbp_44.097942_-103.159129@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8cb1e6cee6d6af90f92adb2edc4d58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":371002483
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":371002483
+        }
+    ],
+    "wof:id":371002483,
+    "wof:lastmodified":1457208817,
+    "wof:name":"United Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -103.159129,
+    44.097942,
+    -103.159129,
+    44.097942
+],
+  "geometry": {"coordinates":[-103.15912899999999,44.097942],"type":"Point"}
+}

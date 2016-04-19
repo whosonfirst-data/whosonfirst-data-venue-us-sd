@@ -1,0 +1,72 @@
+{
+  "id": 387799655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731385,43.526128,-96.731385,43.526128",
+    "geom:latitude":43.526128,
+    "geom:longitude":-96.731385,
+    "iso:country":"US",
+    "sg:address":"2019 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 8694",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48aMq57VXNGt8DFvFCLarN_43.526128_-96.731385@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88d6f9f36cd53e5eb57693e367683e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":387799655
+        }
+    ],
+    "wof:id":387799655,
+    "wof:lastmodified":1449059939,
+    "wof:name":"Video Mania",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-96.731385,43.526128,-96.731385,43.526128],
+  "geometry": {"coordinates":[-96.731385,43.526128],"type":"Point"}
+}

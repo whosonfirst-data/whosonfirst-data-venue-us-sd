@@ -1,0 +1,66 @@
+{
+  "id": 387026311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.797508,43.516555,-96.797508,43.516555",
+    "geom:latitude":43.516555,
+    "geom:longitude":-96.797508,
+    "iso:country":"US",
+    "sg:address":"3200 S Steven Dr",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 8481",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2enrXdRzK34uniOPVp7L57_43.516555_-96.797508@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99f5105ae9b4f6af58e6e6c4577430ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387026311
+        }
+    ],
+    "wof:id":387026311,
+    "wof:lastmodified":1449058348,
+    "wof:name":"Auto Tech",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-96.797508,43.516555,-96.797508,43.516555],
+  "geometry": {"coordinates":[-96.797508,43.516555],"type":"Point"}
+}

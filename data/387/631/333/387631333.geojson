@@ -1,0 +1,81 @@
+{
+  "id": 387631333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.751838,43.508358,-96.751838,43.508358",
+    "geom:latitude":43.508358,
+    "geom:longitude":-96.751838,
+    "iso:country":"US",
+    "sg:address":"2209 W 49th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 1005",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "supply",
+        "medical",
+        "health",
+        "home",
+        "care",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086863,
+        85881027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38tXdntEdLj4ar8qelNwPo_43.508358_-96.751838@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc05c33227d6e881333b0fed47c23978",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086863,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":387631333
+        }
+    ],
+    "wof:id":387631333,
+    "wof:lastmodified":1449057278,
+    "wof:name":"PSI Health Care Inc",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "medical",
+        "health",
+        "home",
+        "care",
+        "lease"
+    ]
+},
+  "bbox": [-96.751838,43.508358,-96.751838,43.508358],
+  "geometry": {"coordinates":[-96.751838,43.508358],"type":"Point"}
+}

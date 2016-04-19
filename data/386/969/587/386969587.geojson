@@ -1,0 +1,66 @@
+{
+  "id": 386969587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681684,43.554804,-96.681684,43.554804",
+    "geom:latitude":43.554804,
+    "geom:longitude":-96.681684,
+    "iso:country":"US",
+    "sg:address":"600 N Bahnson Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 0289",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85808761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29aPhnnnQhDRJHnhnnlF8Z_43.554804_-96.681684@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb482ffbf5fb35bdeef06ab92449a531",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85808761,
+            "region_id":85688693,
+            "venue_id":386969587
+        }
+    ],
+    "wof:id":386969587,
+    "wof:lastmodified":1449028683,
+    "wof:name":"Brown Maintenance Svc",
+    "wof:parent_id":85808761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [-96.681684,43.554804,-96.681684,43.554804],
+  "geometry": {"coordinates":[-96.681684,43.554804],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387416379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-103.23207,44.063236,-103.23207,44.063236",
+    "geom:latitude":44.063236,
+    "geom:longitude":-103.23207,
+    "iso:country":"US",
+    "sg:address":"717 Meade St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 5910",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721605,
+        102086781,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j6OcN2B8X0wR9XVIAcfCv_44.063236_-103.232070@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a8c24e7b2cf5f7b92b1ad52e6dfc89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086781,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":387416379
+        }
+    ],
+    "wof:id":387416379,
+    "wof:lastmodified":1449057814,
+    "wof:name":"Roger S Knutsen MD",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-103.23207,44.063236,-103.23207,44.063236],
+  "geometry": {"coordinates":[-103.23207,44.063236],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 387940175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.732741,43.553546,-96.732741,43.553546",
+    "geom:latitude":43.553546,
+    "geom:longitude":-96.732741,
+    "iso:country":"US",
+    "sg:address":"520 N Spring Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 7272",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pUkW3a6E32j7YoiO7UeCf_43.553546_-96.732741@1294189808"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a240337aa043dbd91f5ef082472f8e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881019,
+            "region_id":85688693,
+            "venue_id":387940175
+        }
+    ],
+    "wof:id":387940175,
+    "wof:lastmodified":1449057033,
+    "wof:name":"Collins Apartments",
+    "wof:parent_id":85881019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-96.732741,43.553546,-96.732741,43.553546],
+  "geometry": {"coordinates":[-96.732741,43.553546],"type":"Point"}
+}
