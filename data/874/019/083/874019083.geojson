@@ -1,0 +1,78 @@
+{
+  "id": 874019083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.572227,43.605492,-96.572227,43.605492",
+    "geom:latitude":43.605492,
+    "geom:longitude":-96.572227,
+    "iso:country":"US",
+    "sg:address":"1001 N Splitrock Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 8533",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dry",
+        "goods-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wad5SqCPkM21AjL98S7RB_43.605492_-96.572227@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310938,
+    "wof:geomhash":"cf29929e1147d47a7376afbe90a3dbe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019083
+        }
+    ],
+    "wof:id":874019083,
+    "wof:lastmodified":1464310938,
+    "wof:name":"Great Plains Wholesale",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "goods-wholesale"
+    ]
+},
+  "bbox": [
+    -96.572227,
+    43.605492,
+    -96.572227,
+    43.605492
+],
+  "geometry": {"coordinates":[-96.572227,43.605492],"type":"Point"}
+}

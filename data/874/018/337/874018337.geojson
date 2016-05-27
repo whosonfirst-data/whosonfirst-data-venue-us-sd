@@ -1,0 +1,76 @@
+{
+  "id": 874018337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.460041,45.45907,-98.460041,45.45907",
+    "geom:latitude":45.45907,
+    "geom:longitude":-98.460041,
+    "iso:country":"US",
+    "sg:address":"1910 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/173159-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 5040",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36QOCfzcRmMthEOpflKZOL_45.459113_-98.460119@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"cdf3569c8681921935e50a1b4910e719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874018337
+        }
+    ],
+    "wof:id":874018337,
+    "wof:lastmodified":1464310930,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -98.460041,
+    45.45907,
+    -98.460041,
+    45.45907
+],
+  "geometry": {"coordinates":[-98.460041,45.45907],"type":"Point"}
+}

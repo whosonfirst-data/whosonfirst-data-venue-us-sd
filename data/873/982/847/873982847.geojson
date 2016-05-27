@@ -1,0 +1,83 @@
+{
+  "id": 873982847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.23239,44.072711,-103.23239,44.072711",
+    "geom:latitude":44.072711,
+    "geom:longitude":-103.23239,
+    "iso:country":"US",
+    "sg:address":"1301 Mount Rushmore Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 2829",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "sg:website":"www.fanciesflowers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y8TVMs021yTyLIzTGfYsT_44.072711_-103.232390@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310631,
+    "wof:geomhash":"c8a07d7f7cd3365a4004d21b5381a106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":873982847
+        }
+    ],
+    "wof:id":873982847,
+    "wof:lastmodified":1464310631,
+    "wof:name":"Fancies Flowers & Gifts Galore",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -103.23239,
+    44.072711,
+    -103.23239,
+    44.072711
+],
+  "geometry": {"coordinates":[-103.23239,44.072711],"type":"Point"}
+}

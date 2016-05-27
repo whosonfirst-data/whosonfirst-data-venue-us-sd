@@ -1,0 +1,74 @@
+{
+  "id": 874013105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.572346,43.594621,-96.572346,43.594621",
+    "geom:latitude":43.594621,
+    "geom:longitude":-96.572346,
+    "iso:country":"US",
+    "sg:address":"101 N Splitrock Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/brandon/96387-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 7287",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SEwUxtB8ZfKekShwjRV5l_43.594621_-96.572346@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"9141de6e144f69f6b420116c870ade5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874013105
+        }
+    ],
+    "wof:id":874013105,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.572346,
+    43.594621,
+    -96.572346,
+    43.594621
+],
+  "geometry": {"coordinates":[-96.572346,43.594621],"type":"Point"}
+}

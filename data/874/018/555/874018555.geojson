@@ -1,0 +1,78 @@
+{
+  "id": 874018555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.201914,44.089843,-103.201914,44.089843",
+    "geom:latitude":44.089843,
+    "geom:longitude":-103.201914,
+    "iso:country":"US",
+    "sg:address":"685 N Lacrosse St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/86557-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 399 1040",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rKST8IEsKVFhoKsOC8x7z_44.089472_-103.201635@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310933,
+    "wof:geomhash":"e0013e03c90dffa3e7573cc0d8e5833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018555
+        }
+    ],
+    "wof:id":874018555,
+    "wof:lastmodified":1464310933,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -103.201914,
+    44.089843,
+    -103.201914,
+    44.089843
+],
+  "geometry": {"coordinates":[-103.201914,44.089843],"type":"Point"}
+}

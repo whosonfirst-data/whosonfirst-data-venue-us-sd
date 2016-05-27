@@ -1,0 +1,77 @@
+{
+  "id": 874013991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711308,43.600203,-96.711308,43.600203",
+    "geom:latitude":43.600203,
+    "geom:longitude":-96.711308,
+    "iso:country":"US",
+    "sg:address":"4903 N Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/201032-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420541309,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qLN9GPo8ykyLbM0PjWV5k_43.600203_-96.711308@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"b7613e2ddda8cbf94574030101d8ecae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":420541309,
+            "region_id":85688693,
+            "venue_id":874013991
+        }
+    ],
+    "wof:id":874013991,
+    "wof:lastmodified":1464310883,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420541309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.711308,
+    43.600203,
+    -96.711308,
+    43.600203
+],
+  "geometry": {"coordinates":[-96.711308,43.600203],"type":"Point"}
+}

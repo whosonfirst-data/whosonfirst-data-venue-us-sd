@@ -1,0 +1,71 @@
+{
+  "id": 873982677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63913,43.539092,-96.63913,43.539092",
+    "geom:latitude":43.539092,
+    "geom:longitude":-96.63913,
+    "iso:country":"US",
+    "sg:address":"1001 S Commerce Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 0122",
+    "sg:postcode":"57110",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        85850485,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00El7V8ywrlIPhZmnShvI1_43.539092_-96.639130@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310629,
+    "wof:geomhash":"fb29756b7e8d142f85372b056ce06187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "neighbourhood_id":85850485,
+            "region_id":85688693,
+            "venue_id":873982677
+        }
+    ],
+    "wof:id":873982677,
+    "wof:lastmodified":1464310629,
+    "wof:name":"Bob's Auto Repair Inc",
+    "wof:parent_id":85850485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.63913,
+    43.539092,
+    -96.63913,
+    43.539092
+],
+  "geometry": {"coordinates":[-96.63912999999999,43.539092],"type":"Point"}
+}

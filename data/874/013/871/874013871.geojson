@@ -1,0 +1,78 @@
+{
+  "id": 874013871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.706316,43.546668,-96.706316,43.546668",
+    "geom:latitude":43.546668,
+    "geom:longitude":-96.706316,
+    "iso:country":"US",
+    "sg:address":"1609 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/96407-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 9558",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816793,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tuvMRir6CyqGOcGYo1bCC_43.546668_-96.706316@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310882,
+    "wof:geomhash":"9c2f28f82edc46d63dac8cf77041726a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":874013871
+        }
+    ],
+    "wof:id":874013871,
+    "wof:lastmodified":1464310882,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.706316,
+    43.546668,
+    -96.706316,
+    43.546668
+],
+  "geometry": {"coordinates":[-96.706316,43.546668],"type":"Point"}
+}

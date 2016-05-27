@@ -1,0 +1,74 @@
+{
+  "id": 874013353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.946089,43.630735,-96.946089,43.630735",
+    "geom:latitude":43.630735,
+    "geom:longitude":-96.946089,
+    "iso:country":"US",
+    "sg:address":"120 SD-38 E",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/hartford/31980-pizza-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 528 3663",
+    "sg:postcode":"57033",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oZ2HyKHeUpX2i4eWaWSuN_43.630735_-96.946089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310879,
+    "wof:geomhash":"09fa9308a9e7f667c5bc2f11cdb7a513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":874013353
+        }
+    ],
+    "wof:id":874013353,
+    "wof:lastmodified":1464310879,
+    "wof:name":"Pizza Ranch",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.946089,
+    43.630735,
+    -96.946089,
+    43.630735
+],
+  "geometry": {"coordinates":[-96.946089,43.630735],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874014073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.761137,43.545451,-96.761137,43.545451",
+    "geom:latitude":43.545451,
+    "geom:longitude":-96.761137,
+    "iso:country":"US",
+    "sg:address":"300 S Kiwanis Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/176772-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 336 9688",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881017,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gehbCADEAKNbYfFXjQ1AX_43.545451_-96.761137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"f0634a3a14e74ac2add0251eecd52753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":874014073
+        }
+    ],
+    "wof:id":874014073,
+    "wof:lastmodified":1464310884,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -96.761137,
+    43.545451,
+    -96.761137,
+    43.545451
+],
+  "geometry": {"coordinates":[-96.76113700000001,43.545451],"type":"Point"}
+}

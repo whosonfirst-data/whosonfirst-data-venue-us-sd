@@ -1,0 +1,83 @@
+{
+  "id": 874018433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.103055,45.457872,-98.103055,45.457872",
+    "geom:latitude":45.457872,
+    "geom:longitude":-98.103055,
+    "iso:country":"US",
+    "sg:address":"11 E Us Highway 12",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/groton/192471-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 397 8627",
+    "sg:postcode":"57445",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lH262sXz3sFFKPwUGWP4q_45.457772_-98.103220@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"7333d450985c92475f37799ace5ae8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874018433
+        }
+    ],
+    "wof:id":874018433,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -98.103055,
+    45.457872,
+    -98.103055,
+    45.457872
+],
+  "geometry": {"coordinates":[-98.103055,45.457872],"type":"Point"}
+}

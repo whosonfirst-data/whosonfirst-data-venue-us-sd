@@ -1,0 +1,78 @@
+{
+  "id": 874016953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.256176,44.081793,-103.256176,44.081793",
+    "geom:latitude":44.081793,
+    "geom:longitude":-103.256176,
+    "iso:country":"US",
+    "sg:address":"2223 W Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/201025-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 3483",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZiCsWgSPVFzrKjROsRl68_44.081793_-103.256176@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"3511698af4fd970689f7e091a8605e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016953
+        }
+    ],
+    "wof:id":874016953,
+    "wof:lastmodified":1464310912,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -103.256176,
+    44.081793,
+    -103.256176,
+    44.081793
+],
+  "geometry": {"coordinates":[-103.256176,44.081793],"type":"Point"}
+}

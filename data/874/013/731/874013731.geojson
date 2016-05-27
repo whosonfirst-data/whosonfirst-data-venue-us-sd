@@ -1,0 +1,77 @@
+{
+  "id": 874013731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.688086,43.529298,-96.688086,43.529298",
+    "geom:latitude":43.529298,
+    "geom:longitude":-96.688086,
+    "iso:country":"US",
+    "sg:address":"3101 E 26th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/201030-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816793,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCdfXhDcbaJXK3pvCUM5K_43.529298_-96.688086@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310881,
+    "wof:geomhash":"e37e75c67bb1b986786d3661390170ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":874013731
+        }
+    ],
+    "wof:id":874013731,
+    "wof:lastmodified":1464310881,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.688086,
+    43.529298,
+    -96.688086,
+    43.529298
+],
+  "geometry": {"coordinates":[-96.688086,43.529298],"type":"Point"}
+}

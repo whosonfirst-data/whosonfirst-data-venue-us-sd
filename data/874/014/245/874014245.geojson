@@ -1,0 +1,80 @@
+{
+  "id": 874014245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.756188,43.514843,-96.756188,43.514843",
+    "geom:latitude":43.514843,
+    "geom:longitude":-96.756188,
+    "iso:country":"US",
+    "sg:address":"2509 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/209294-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 7070",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881027,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aSyIqqE3lzl7ZTzdoui5n_43.514843_-96.756188@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"7c5fdac02bf3dfb2f38db7701b3a8f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":874014245
+        }
+    ],
+    "wof:id":874014245,
+    "wof:lastmodified":1464310885,
+    "wof:name":"TCBY",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.756188,
+    43.514843,
+    -96.756188,
+    43.514843
+],
+  "geometry": {"coordinates":[-96.75618799999999,43.514843],"type":"Point"}
+}

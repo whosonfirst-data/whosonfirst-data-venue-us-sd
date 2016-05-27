@@ -1,0 +1,72 @@
+{
+  "id": 874013317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.725437,43.823563,-96.725437,43.823563",
+    "geom:latitude":43.823563,
+    "geom:longitude":-96.725437,
+    "iso:country":"US",
+    "sg:address":"500 W 4th St",
+    "sg:city":"Dell Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/dell-rapids/31975-pizza-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 428 5967",
+    "sg:postcode":"57022",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        85848907,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IYAKLHpgRv1LtyQTVtdJe_43.823563_-96.725437@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310879,
+    "wof:geomhash":"7f86f9a4902101cc1091751ff85d9526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":874013317
+        }
+    ],
+    "wof:id":874013317,
+    "wof:lastmodified":1464310879,
+    "wof:name":"Pizza Ranch",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.725437,
+    43.823563,
+    -96.725437,
+    43.823563
+],
+  "geometry": {"coordinates":[-96.725437,43.823563],"type":"Point"}
+}

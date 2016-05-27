@@ -1,0 +1,80 @@
+{
+  "id": 874015927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.210387,44.087572,-103.210387,44.087572",
+    "geom:latitude":44.087572,
+    "geom:longitude":-103.210387,
+    "iso:country":"US",
+    "sg:address":"128 E North St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/78208-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 2401",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XAtoDsjBaSzz0mNkqc8VU_44.087572_-103.210387@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310899,
+    "wof:geomhash":"dd6f0ef620f99d9f168f5de89dcd79ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874015927
+        }
+    ],
+    "wof:id":874015927,
+    "wof:lastmodified":1464310899,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -103.210387,
+    44.087572,
+    -103.210387,
+    44.087572
+],
+  "geometry": {"coordinates":[-103.210387,44.087572],"type":"Point"}
+}

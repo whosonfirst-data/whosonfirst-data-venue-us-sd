@@ -1,0 +1,74 @@
+{
+  "id": 874013127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.572287,43.595494,-96.572287,43.595494",
+    "geom:latitude":43.595494,
+    "geom:longitude":-96.572287,
+    "iso:country":"US",
+    "sg:address":"202 S Splitrock Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/brandon/31967-pizza-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 6322",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O2qbsCnhlHAsfqhYQRkE6_43.595494_-96.572287@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"155ed9255a66287f33be49e69a213b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874013127
+        }
+    ],
+    "wof:id":874013127,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Pizza Ranch",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.572287,
+    43.595494,
+    -96.572287,
+    43.595494
+],
+  "geometry": {"coordinates":[-96.572287,43.595494],"type":"Point"}
+}

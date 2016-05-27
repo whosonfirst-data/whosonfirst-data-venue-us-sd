@@ -1,0 +1,74 @@
+{
+  "id": 874015505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.474676,45.459061,-98.474676,45.459061",
+    "geom:latitude":45.459061,
+    "geom:longitude":-98.474676,
+    "iso:country":"US",
+    "sg:address":"901 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/176765-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 1352",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PopulVOSxpJ5ckp6HUJ5p_45.459061_-98.474676@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"fe8c85d78a858292db91d7e654ab2b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015505
+        }
+    ],
+    "wof:id":874015505,
+    "wof:lastmodified":1464310895,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -98.474676,
+    45.459061,
+    -98.474676,
+    45.459061
+],
+  "geometry": {"coordinates":[-98.474676,45.459061],"type":"Point"}
+}

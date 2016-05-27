@@ -1,0 +1,81 @@
+{
+  "id": 874017885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.740146,43.514864,-96.740146,43.514864",
+    "geom:latitude":43.514864,
+    "geom:longitude":-96.740146,
+    "iso:country":"US",
+    "sg:address":"1216 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/236828-camilles-sidewalk-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 333 9727",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881007,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_477EUUBiz6WPFhlLtvingq_43.514934_-96.740122@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310925,
+    "wof:geomhash":"e7686eb580a011b79e1aaac32cb78cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":874017885
+        }
+    ],
+    "wof:id":874017885,
+    "wof:lastmodified":1464310925,
+    "wof:name":"Camille's Sidewalk Cafe",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.740146,
+    43.514864,
+    -96.740146,
+    43.514864
+],
+  "geometry": {"coordinates":[-96.740146,43.514864],"type":"Point"}
+}

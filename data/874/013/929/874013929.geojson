@@ -1,0 +1,78 @@
+{
+  "id": 874013929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.761611,43.543911,-96.761611,43.543911",
+    "geom:latitude":43.543911,
+    "geom:longitude":-96.761611,
+    "iso:country":"US",
+    "sg:address":"2720 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/144763-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 335 0940",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881017,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05jFr4sAnaLBj7h6TaUfis_43.543911_-96.761611@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"569b78f9a1a018a99bb14dd916bef226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":874013929
+        }
+    ],
+    "wof:id":874013929,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Subway",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.761611,
+    43.543911,
+    -96.761611,
+    43.543911
+],
+  "geometry": {"coordinates":[-96.761611,43.543911],"type":"Point"}
+}

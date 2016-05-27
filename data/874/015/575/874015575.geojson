@@ -1,0 +1,82 @@
+{
+  "id": 874015575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.508441,45.459446,-98.508441,45.459446",
+    "geom:latitude":45.459446,
+    "geom:longitude":-98.508441,
+    "iso:country":"US",
+    "sg:address":"1401 6th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/102249-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 9050",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qMIyzi54tGKOrThandVuN_45.459446_-98.508441@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"a327f2abaecd2b221805958d9e46e7b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015575
+        }
+    ],
+    "wof:id":874015575,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -98.508441,
+    45.459446,
+    -98.508441,
+    45.459446
+],
+  "geometry": {"coordinates":[-98.508441,45.459446],"type":"Point"}
+}

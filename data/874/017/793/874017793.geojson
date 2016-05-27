@@ -1,0 +1,99 @@
+{
+  "id": 874017793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731305,43.544285,-96.731305,43.544285",
+    "geom:latitude":43.544285,
+    "geom:longitude":-96.731305,
+    "iso:country":"US",
+    "sg:address":"333 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/231062-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 3133",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881023,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pnKPnfUOdidoKwzBFmCrV_43.543865_-96.731347@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310923,
+    "wof:geomhash":"a8bfe03402f60a2c3ca300a97254ff95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":874017793
+        }
+    ],
+    "wof:id":874017793,
+    "wof:lastmodified":1464310923,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -96.731305,
+    43.544285,
+    -96.731305,
+    43.544285
+],
+  "geometry": {"coordinates":[-96.73130500000001,43.544285],"type":"Point"}
+}

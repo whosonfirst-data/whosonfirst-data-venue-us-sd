@@ -1,0 +1,78 @@
+{
+  "id": 874014159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711494,43.603756,-96.711494,43.603756",
+    "geom:latitude":43.603756,
+    "geom:longitude":-96.711494,
+    "iso:country":"US",
+    "sg:address":"5301 N Cliff Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/144760-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 7611",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420541309,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44t2ZaC7Derf9On619IUAO_43.603756_-96.711494@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"6cf9d78399ff72d1c2cb7693f9190548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":420541309,
+            "region_id":85688693,
+            "venue_id":874014159
+        }
+    ],
+    "wof:id":874014159,
+    "wof:lastmodified":1464310884,
+    "wof:name":"Subway",
+    "wof:parent_id":420541309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.711494,
+    43.603756,
+    -96.711494,
+    43.603756
+],
+  "geometry": {"coordinates":[-96.711494,43.603756],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874019785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.504463,43.709831,-96.504463,43.709831",
+    "geom:latitude":43.709831,
+    "geom:longitude":-96.504463,
+    "iso:country":"US",
+    "sg:address":"500 Dows St",
+    "sg:city":"Garretson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 594 3888",
+    "sg:postcode":"57030",
+    "sg:province":"SD",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "system",
+        "contractor",
+        "air conditioning",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XIvv4sw8Zu1RtpviGCHEb_43.709831_-96.504463@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310945,
+    "wof:geomhash":"69c4d7f088e1ffa0e1f70da55f268db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019785
+        }
+    ],
+    "wof:id":874019785,
+    "wof:lastmodified":1464310945,
+    "wof:name":"Hoven Electric",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "system",
+        "contractor",
+        "air conditioning",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -96.504463,
+    43.709831,
+    -96.504463,
+    43.709831
+],
+  "geometry": {"coordinates":[-96.504463,43.709831],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874018631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.232431,44.076235,-103.232431,44.076235",
+    "geom:latitude":44.076235,
+    "geom:longitude":-103.232431,
+    "iso:country":"US",
+    "sg:address":"1011 Mount Rushmore Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/27979-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 388 9999",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tUQtVFMD3N39McznTK1nQ_44.075956_-103.232507@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310933,
+    "wof:geomhash":"113abbef3e03dec6979759b2cbb984fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018631
+        }
+    ],
+    "wof:id":874018631,
+    "wof:lastmodified":1464310933,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -103.232431,
+    44.076235,
+    -103.232431,
+    44.076235
+],
+  "geometry": {"coordinates":[-103.23243100000001,44.076235],"type":"Point"}
+}

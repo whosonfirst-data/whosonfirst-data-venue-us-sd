@@ -1,0 +1,76 @@
+{
+  "id": 874015597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.447582,45.459151,-98.447582,45.459151",
+    "geom:latitude":45.459151,
+    "geom:longitude":-98.447582,
+    "iso:country":"US",
+    "sg:address":"3001 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/123013-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 725 7827",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ey8C54ZQq8cTWJhYEzXl6_45.459151_-98.447582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310896,
+    "wof:geomhash":"4c61862c8b36ce2219154754d00640af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015597
+        }
+    ],
+    "wof:id":874015597,
+    "wof:lastmodified":1464310896,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -98.447582,
+    45.459151,
+    -98.447582,
+    45.459151
+],
+  "geometry": {"coordinates":[-98.447582,45.459151],"type":"Point"}
+}

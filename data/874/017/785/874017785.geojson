@@ -1,0 +1,80 @@
+{
+  "id": 874017785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676972,43.54524,-96.676972,43.54524",
+    "geom:latitude":43.54524,
+    "geom:longitude":-96.676972,
+    "iso:country":"US",
+    "sg:address":"4009 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/78213-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 331 5171",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816793,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zvunTwMZW549vtc6IuYrH_43.545817_-96.677549@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310923,
+    "wof:geomhash":"b726d21e0330c454a1c6765554ef10a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":874017785
+        }
+    ],
+    "wof:id":874017785,
+    "wof:lastmodified":1464310923,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.676972,
+    43.54524,
+    -96.676972,
+    43.54524
+],
+  "geometry": {"coordinates":[-96.67697200000001,43.54524],"type":"Point"}
+}

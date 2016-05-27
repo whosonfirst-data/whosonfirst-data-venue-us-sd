@@ -1,0 +1,78 @@
+{
+  "id": 874016281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.22173,44.101845,-103.22173,44.101845",
+    "geom:latitude":44.101845,
+    "geom:longitude":-103.22173,
+    "iso:country":"US",
+    "sg:address":"2250 Haines Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/154869-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 3056",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bruSGMYF2T7TubiclwzxJ_44.101845_-103.221730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"42cdfc7585e021cb8d5ac138dce72eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016281
+        }
+    ],
+    "wof:id":874016281,
+    "wof:lastmodified":1464310901,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -103.22173,
+    44.101845,
+    -103.22173,
+    44.101845
+],
+  "geometry": {"coordinates":[-103.22172999999999,44.101845],"type":"Point"}
+}

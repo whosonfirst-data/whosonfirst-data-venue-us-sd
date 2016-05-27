@@ -1,0 +1,75 @@
+{
+  "id": 874019261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.571788,43.621615,-96.571788,43.621615",
+    "geom:latitude":43.621615,
+    "geom:longitude":-96.571788,
+    "iso:country":"US",
+    "sg:address":"25965 482nd Ave",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 8301",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11U1JShX5W8kJdjcgzKK9n_43.621615_-96.571788@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310940,
+    "wof:geomhash":"c060a15657931a9f61fe750e8103d416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019261
+        }
+    ],
+    "wof:id":874019261,
+    "wof:lastmodified":1464310940,
+    "wof:name":"M & C Railcar Leasing",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -96.571788,
+    43.621615,
+    -96.571788,
+    43.621615
+],
+  "geometry": {"coordinates":[-96.571788,43.621615],"type":"Point"}
+}

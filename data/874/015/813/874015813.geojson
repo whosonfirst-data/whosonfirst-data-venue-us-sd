@@ -1,0 +1,78 @@
+{
+  "id": 874015813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.232365,44.066444,-103.232365,44.066444",
+    "geom:latitude":44.066444,
+    "geom:longitude":-103.232365,
+    "iso:country":"US",
+    "sg:address":"2005 Mount Rushmore Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/67283-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 1542",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24t884P7dgU38xu5sYqiZM_44.066444_-103.232365@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310898,
+    "wof:geomhash":"1007982373cabeda99129be2686ce186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874015813
+        }
+    ],
+    "wof:id":874015813,
+    "wof:lastmodified":1464310898,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -103.232365,
+    44.066444,
+    -103.232365,
+    44.066444
+],
+  "geometry": {"coordinates":[-103.232365,44.066444],"type":"Point"}
+}

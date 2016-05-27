@@ -1,0 +1,78 @@
+{
+  "id": 874018695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.25762,44.082103,-103.25762,44.082103",
+    "geom:latitude":44.082103,
+    "geom:longitude":-103.25762,
+    "iso:country":"US",
+    "sg:address":"2300 W Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/154870-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 2219",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PrfJMjH0oEJkBhBxt7WKf_44.082049_-103.257646@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310934,
+    "wof:geomhash":"4804d3185f16c6d19b13cea18fc7e4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018695
+        }
+    ],
+    "wof:id":874018695,
+    "wof:lastmodified":1464310934,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -103.25762,
+    44.082103,
+    -103.25762,
+    44.082103
+],
+  "geometry": {"coordinates":[-103.25762,44.082103],"type":"Point"}
+}

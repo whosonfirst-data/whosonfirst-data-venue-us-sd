@@ -1,0 +1,87 @@
+{
+  "id": 874018645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.254273,44.081413,-103.254273,44.081413",
+    "geom:latitude":44.081413,
+    "geom:longitude":-103.254273,
+    "iso:country":"US",
+    "sg:address":"2121 W Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/182899-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 6218",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SzfwSjNhYEfmIwlMOgZNq_44.081275_-103.254400@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310933,
+    "wof:geomhash":"c3dc1b2473bd9d7a96448f73d3962eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018645
+        }
+    ],
+    "wof:id":874018645,
+    "wof:lastmodified":1464310933,
+    "wof:name":"Culver's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -103.254273,
+    44.081413,
+    -103.254273,
+    44.081413
+],
+  "geometry": {"coordinates":[-103.254273,44.081413],"type":"Point"}
+}

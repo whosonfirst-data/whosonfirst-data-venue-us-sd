@@ -1,0 +1,74 @@
+{
+  "id": 874014437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.811196,43.514823,-96.811196,43.514823",
+    "geom:latitude":43.514823,
+    "geom:longitude":-96.811196,
+    "iso:country":"US",
+    "sg:address":"6729 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/96413-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 361 9920",
+    "sg:postcode":"57106",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85848771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShQFWtkU16VkHiczEnB9E_43.514823_-96.811196@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310886,
+    "wof:geomhash":"948f72e34a8e49eff6fba5e505ddb95b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85848771,
+            "region_id":85688693,
+            "venue_id":874014437
+        }
+    ],
+    "wof:id":874014437,
+    "wof:lastmodified":1464310886,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85848771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.811196,
+    43.514823,
+    -96.811196,
+    43.514823
+],
+  "geometry": {"coordinates":[-96.811196,43.514823],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873983015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.733242,43.51039,-96.733242,43.51039",
+    "geom:latitude":43.51039,
+    "geom:longitude":-96.733242,
+    "iso:country":"US",
+    "sg:address":"4030 S Grange Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 330 2500",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "company",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881007,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UqopcewviQJaWdopYUwc9_43.510390_-96.733242@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310633,
+    "wof:geomhash":"d46430b02e6cb05e2cf95f53e0288e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":873983015
+        }
+    ],
+    "wof:id":873983015,
+    "wof:lastmodified":1464310633,
+    "wof:name":"Amdahl Automotive Inc",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "company",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.733242,
+    43.51039,
+    -96.733242,
+    43.51039
+],
+  "geometry": {"coordinates":[-96.733242,43.51039],"type":"Point"}
+}

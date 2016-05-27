@@ -1,0 +1,89 @@
+{
+  "id": 874016463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191684,44.069534,-103.191684,44.069534",
+    "geom:latitude":44.069534,
+    "geom:longitude":-103.191684,
+    "iso:country":"US",
+    "sg:address":"1710 Cambell St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/96404-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 6778",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852865,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2owGLP9xdHS5LTlYnLfaWB_44.069534_-103.191684@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310903,
+    "wof:geomhash":"3c65fea4c86ee07d62200b44f6ddf19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":874016463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016463
+        }
+    ],
+    "wof:id":874016463,
+    "wof:lastmodified":1464310903,
+    "wof:name":"Taco John's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -103.191684,
+    44.069534,
+    -103.191684,
+    44.069534
+],
+  "geometry": {"coordinates":[-103.191684,44.069534],"type":"Point"}
+}

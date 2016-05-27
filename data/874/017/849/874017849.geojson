@@ -1,0 +1,87 @@
+{
+  "id": 874017849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731295,43.528223,-96.731295,43.528223",
+    "geom:latitude":43.528223,
+    "geom:longitude":-96.731295,
+    "iso:country":"US",
+    "sg:address":"1924 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/221300-caribou-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 338 9666",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881007,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51JhdHCLYl3Clvi0p3a3pt_43.527879_-96.731210@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310924,
+    "wof:geomhash":"61c2657eb446593e0001e08bf7fc5dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":874017849
+        }
+    ],
+    "wof:id":874017849,
+    "wof:lastmodified":1464310924,
+    "wof:name":"Caribou Coffee",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -96.731295,
+    43.528223,
+    -96.731295,
+    43.528223
+],
+  "geometry": {"coordinates":[-96.731295,43.528223],"type":"Point"}
+}

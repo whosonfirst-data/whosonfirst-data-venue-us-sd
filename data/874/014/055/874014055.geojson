@@ -1,0 +1,78 @@
+{
+  "id": 874014055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758418,43.543917,-96.758418,43.543917",
+    "geom:latitude":43.543917,
+    "geom:longitude":-96.758418,
+    "iso:country":"US",
+    "sg:address":"2501 W 12th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/67289-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2277",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881017,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eBkUzhMN803oHLPQfsD7S_43.543917_-96.758418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310884,
+    "wof:geomhash":"338deb5974d805c248dc1fae5114ff59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881017,
+            "region_id":85688693,
+            "venue_id":874014055
+        }
+    ],
+    "wof:id":874014055,
+    "wof:lastmodified":1464310884,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85881017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.758418,
+    43.543917,
+    -96.758418,
+    43.543917
+],
+  "geometry": {"coordinates":[-96.75841800000001,43.543917],"type":"Point"}
+}

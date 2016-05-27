@@ -1,0 +1,78 @@
+{
+  "id": 874016261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.196304,44.087558,-103.196304,44.087558",
+    "geom:latitude":44.087558,
+    "geom:longitude":-103.196304,
+    "iso:country":"US",
+    "sg:address":"918 E North St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/144793-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 2847",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LS1krVzNwISAsi8nYXze2_44.087558_-103.196304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"41dc91df6342f8f8328160fa582402b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016261
+        }
+    ],
+    "wof:id":874016261,
+    "wof:lastmodified":1464310901,
+    "wof:name":"Subway",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -103.196304,
+    44.087558,
+    -103.196304,
+    44.087558
+],
+  "geometry": {"coordinates":[-103.196304,44.087558],"type":"Point"}
+}

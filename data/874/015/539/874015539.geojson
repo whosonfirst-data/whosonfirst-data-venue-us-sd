@@ -1,0 +1,74 @@
+{
+  "id": 874015539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.438652,45.458934,-98.438652,45.458934",
+    "geom:latitude":45.458934,
+    "geom:longitude":-98.438652,
+    "iso:country":"US",
+    "sg:address":"616 Centennial St S",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/182897-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 725 4444",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33hZ1LjV05FLlbmaRTbtQv_45.458934_-98.438652@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"8f3edc9e62cc1c64193a69f18829ba53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015539
+        }
+    ],
+    "wof:id":874015539,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Culver's",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -98.438652,
+    45.458934,
+    -98.438652,
+    45.458934
+],
+  "geometry": {"coordinates":[-98.438652,45.458934],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873983233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.71375,43.822642,-96.71375,43.822642",
+    "geom:latitude":43.822642,
+    "geom:longitude":-96.71375,
+    "iso:country":"US",
+    "sg:address":"302 E 3rd St",
+    "sg:city":"Dell Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 428 5417",
+    "sg:postcode":"57022",
+    "sg:province":"SD",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        85848907,
+        102086007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8gF5UMdjyutG1CJDs1Gb_43.822642_-96.713750@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310635,
+    "wof:geomhash":"508f5b6241f5730edf7a2eb45b8958fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "neighbourhood_id":85848907,
+            "region_id":85688693,
+            "venue_id":873983233
+        }
+    ],
+    "wof:id":873983233,
+    "wof:lastmodified":1464310635,
+    "wof:name":"Virg's Service",
+    "wof:parent_id":85848907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.71375,
+    43.822642,
+    -96.71375,
+    43.822642
+],
+  "geometry": {"coordinates":[-96.71375,43.822642],"type":"Point"}
+}

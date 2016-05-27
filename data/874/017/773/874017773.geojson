@@ -1,0 +1,78 @@
+{
+  "id": 874017773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.687005,43.546717,-96.687005,43.546717",
+    "geom:latitude":43.546717,
+    "geom:longitude":-96.687005,
+    "iso:country":"US",
+    "sg:address":"3202 E 10th St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/88325-bostons-gourmet-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 373 0900",
+    "sg:postcode":"57103",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816793,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ip0rutZ6y92mpa7JmZYKm_43.546776_-96.687193@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310923,
+    "wof:geomhash":"63a9601bbb5542acab4a1bb0d8efa257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85816793,
+            "region_id":85688693,
+            "venue_id":874017773
+        }
+    ],
+    "wof:id":874017773,
+    "wof:lastmodified":1464310923,
+    "wof:name":"Boston's Gourmet Pizza",
+    "wof:parent_id":85816793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.687005,
+    43.546717,
+    -96.687005,
+    43.546717
+],
+  "geometry": {"coordinates":[-96.687005,43.546717],"type":"Point"}
+}

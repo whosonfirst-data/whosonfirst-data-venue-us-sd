@@ -1,0 +1,99 @@
+{
+  "id": 874018725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.254273,44.081413,-103.254273,44.081413",
+    "geom:latitude":44.081413,
+    "geom:longitude":-103.254273,
+    "iso:country":"US",
+    "sg:address":"2120 W Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/231012-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 9890",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nysGKhjAKP7OANrQr08JI_44.081273_-103.253437@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310934,
+    "wof:geomhash":"c3dc1b2473bd9d7a96448f73d3962eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018725
+        }
+    ],
+    "wof:id":874018725,
+    "wof:lastmodified":1464310934,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -103.254273,
+    44.081413,
+    -103.254273,
+    44.081413
+],
+  "geometry": {"coordinates":[-103.254273,44.081413],"type":"Point"}
+}

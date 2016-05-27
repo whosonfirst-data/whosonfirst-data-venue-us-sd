@@ -1,0 +1,73 @@
+{
+  "id": 874015609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.464475,45.459177,-98.464475,45.459177",
+    "geom:latitude":45.459177,
+    "geom:longitude":-98.464475,
+    "iso:country":"US",
+    "sg:address":"1615 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/201012-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e6pAo3keppRKhoRycqPwI_45.459177_-98.464475@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310896,
+    "wof:geomhash":"8572572a9303cc7897b9879eac9448d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015609
+        }
+    ],
+    "wof:id":874015609,
+    "wof:lastmodified":1464310896,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -98.464475,
+    45.459177,
+    -98.464475,
+    45.459177
+],
+  "geometry": {"coordinates":[-98.46447499999999,45.459177],"type":"Point"}
+}

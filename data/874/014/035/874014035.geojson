@@ -1,0 +1,76 @@
+{
+  "id": 874014035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726806,43.544686,-96.726806,43.544686",
+    "geom:latitude":43.544686,
+    "geom:longitude":-96.726806,
+    "iso:country":"US",
+    "sg:address":"301 S Phillips Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/237278-minervas-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 334 0386",
+    "sg:postcode":"57104",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881023,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FjExDu2jvbmc5W33QJ5nD_43.544686_-96.726806@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"3b655859957615d964f463f6ca84ecaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881023,
+            "region_id":85688693,
+            "venue_id":874014035
+        }
+    ],
+    "wof:id":874014035,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Minervas Restaurant",
+    "wof:parent_id":85881023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.726806,
+    43.544686,
+    -96.726806,
+    43.544686
+],
+  "geometry": {"coordinates":[-96.726806,43.544686],"type":"Point"}
+}

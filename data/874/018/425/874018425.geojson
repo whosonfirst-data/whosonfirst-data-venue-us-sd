@@ -1,0 +1,74 @@
+{
+  "id": 874018425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.474527,45.459091,-98.474527,45.459091",
+    "geom:latitude":45.459091,
+    "geom:longitude":-98.474527,
+    "iso:country":"US",
+    "sg:address":"910 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/81159-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 229 0001",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LkTvMyBdiU54rq60JSdEA_45.459033_-98.474526@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"e6e3db34a8c5d5e28103b5498841c0c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874018425
+        }
+    ],
+    "wof:id":874018425,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -98.474527,
+    45.459091,
+    -98.474527,
+    45.459091
+],
+  "geometry": {"coordinates":[-98.47452699999999,45.459091],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 874019291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.591888,43.594662,-96.591888,43.594662",
+    "geom:latitude":43.594662,
+    "geom:longitude":-96.591888,
+    "iso:country":"US",
+    "sg:address":"101 W Holly Blvd",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 6678",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://caseys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21K72uniAAf5Kj2VA8mMsV_43.594662_-96.591888@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310940,
+    "wof:geomhash":"eb35e7dc1c5894f13e1c36cda9be1c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019291
+        }
+    ],
+    "wof:id":874019291,
+    "wof:lastmodified":1464310940,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.591888,
+    43.594662,
+    -96.591888,
+    43.594662
+],
+  "geometry": {"coordinates":[-96.591888,43.594662],"type":"Point"}
+}

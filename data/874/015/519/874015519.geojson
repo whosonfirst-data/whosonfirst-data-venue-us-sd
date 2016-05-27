@@ -1,0 +1,74 @@
+{
+  "id": 874015519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.488064,45.459057,-98.488064,45.459057",
+    "geom:latitude":45.459057,
+    "geom:longitude":-98.488064,
+    "iso:country":"US",
+    "sg:address":"1225 6th Ave SE",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/77489-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 725 7272",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i62g6zYXQdMQO08bGUiLJ_45.459057_-98.488064@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"20cbf91fe5d0ff4954e8e9591fd0b367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874015519
+        }
+    ],
+    "wof:id":874015519,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -98.488064,
+    45.459057,
+    -98.488064,
+    45.459057
+],
+  "geometry": {"coordinates":[-98.48806399999999,45.459057],"type":"Point"}
+}

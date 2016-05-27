@@ -1,0 +1,78 @@
+{
+  "id": 874016881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.252057,44.082097,-103.252057,44.082097",
+    "geom:latitude":44.082097,
+    "geom:longitude":-103.252057,
+    "iso:country":"US",
+    "sg:address":"515 Mountain View Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/176769-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 342 1515",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LHl4huFyAfBK25h9cAnA2_44.082097_-103.252057@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310906,
+    "wof:geomhash":"a781f30a0653500e4d65f1ef0c393065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016881
+        }
+    ],
+    "wof:id":874016881,
+    "wof:lastmodified":1464310906,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -103.252057,
+    44.082097,
+    -103.252057,
+    44.082097
+],
+  "geometry": {"coordinates":[-103.25205699999999,44.082097],"type":"Point"}
+}

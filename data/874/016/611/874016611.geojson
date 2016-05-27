@@ -1,0 +1,76 @@
+{
+  "id": 874016611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.227301,44.081129,-103.227301,44.081129",
+    "geom:latitude":44.081129,
+    "geom:longitude":-103.227301,
+    "iso:country":"US",
+    "sg:address":"610 Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/27953-firehouse-brewing-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 1915",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VGRxwcShBoWAQlIHa4gY4_44.081129_-103.227301@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310904,
+    "wof:geomhash":"a2f37ae34bc5fc97464f4e45629c72ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016611
+        }
+    ],
+    "wof:id":874016611,
+    "wof:lastmodified":1464310904,
+    "wof:name":"FireHouse Brewing Co.",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -103.227301,
+    44.081129,
+    -103.227301,
+    44.081129
+],
+  "geometry": {"coordinates":[-103.227301,44.081129],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874016763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.214502,44.064076,-103.214502,44.064076",
+    "geom:latitude":44.064076,
+    "geom:longitude":-103.214502,
+    "iso:country":"US",
+    "sg:address":"2200 Maple Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/115224-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 9858",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DP8nvbOOv1YiBx9FOW5Oc_44.064076_-103.214502@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310905,
+    "wof:geomhash":"3caf2431d490b072f71967813e4e5cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016763
+        }
+    ],
+    "wof:id":874016763,
+    "wof:lastmodified":1464310905,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -103.214502,
+    44.064076,
+    -103.214502,
+    44.064076
+],
+  "geometry": {"coordinates":[-103.214502,44.064076],"type":"Point"}
+}

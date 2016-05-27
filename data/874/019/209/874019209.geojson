@@ -1,0 +1,103 @@
+{
+  "id": 874019209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.575291,43.606006,-96.575291,43.606006",
+    "geom:latitude":43.606006,
+    "geom:longitude":-96.575291,
+    "iso:country":"US",
+    "sg:address":"1117 Ash St",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 582 8611",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "heater",
+        "plumber",
+        "system",
+        "specialty",
+        "water",
+        "equipment",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.prairiesons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ldB2Q0RAovoRszmDHUDvx_43.606006_-96.575291@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310939,
+    "wof:geomhash":"cf55c3e34378c46d626ae6e0100f866a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019209
+        }
+    ],
+    "wof:id":874019209,
+    "wof:lastmodified":1464310939,
+    "wof:name":"PrairieSons Inc",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "plumber",
+        "system",
+        "specialty",
+        "water",
+        "equipment",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -96.575291,
+    43.606006,
+    -96.575291,
+    43.606006
+],
+  "geometry": {"coordinates":[-96.57529100000001,43.606006],"type":"Point"}
+}

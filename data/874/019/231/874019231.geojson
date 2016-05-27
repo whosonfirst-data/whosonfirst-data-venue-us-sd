@@ -1,0 +1,87 @@
+{
+  "id": 874019231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651614,43.61591,-96.651614,43.61591",
+    "geom:latitude":43.61591,
+    "geom:longitude":-96.651614,
+    "iso:country":"US",
+    "sg:address":"26014 478th Ave",
+    "sg:city":"Brandon",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 332 2233",
+    "sg:postcode":"57005",
+    "sg:province":"SD",
+    "sg:tags":[
+        "vehicle",
+        "recreational",
+        "park",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73w6ik2peOu0vNYciHbVCs_43.615910_-96.651614@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310940,
+    "wof:geomhash":"ac676328adcd0517bfbf38804bcadf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019231
+        }
+    ],
+    "wof:id":874019231,
+    "wof:lastmodified":1464310940,
+    "wof:name":"Yogi Bear's Jellystone Park Camp-Resort of Sioux Falls",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vehicle",
+        "recreational",
+        "park",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -96.651614,
+    43.61591,
+    -96.651614,
+    43.61591
+],
+  "geometry": {"coordinates":[-96.651614,43.61591],"type":"Point"}
+}

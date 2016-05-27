@@ -1,0 +1,76 @@
+{
+  "id": 874016751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.238293,44.084276,-103.238293,44.084276",
+    "geom:latitude":44.084276,
+    "geom:longitude":-103.238293,
+    "iso:country":"US",
+    "sg:address":"1221 W Omaha St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/105603-pancheros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 718 2251",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70w9LeiQwqssH0UoKvnD7d_44.084276_-103.238293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310905,
+    "wof:geomhash":"152d81a73a15eff7969a33205d07626f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016751
+        }
+    ],
+    "wof:id":874016751,
+    "wof:lastmodified":1464310905,
+    "wof:name":"Panchero's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -103.238293,
+    44.084276,
+    -103.238293,
+    44.084276
+],
+  "geometry": {"coordinates":[-103.238293,44.084276],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874017859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731289,43.519258,-96.731289,43.519258",
+    "geom:latitude":43.519258,
+    "geom:longitude":-96.731289,
+    "iso:country":"US",
+    "sg:address":"2800 S Minnesota Ave",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/182900-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 6984",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881007,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21kuMJ4FtlZJfHiqNBnZQP_43.519428_-96.731178@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310924,
+    "wof:geomhash":"2d8d6a437b4a8aceddaab9af066e63b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881007,
+            "region_id":85688693,
+            "venue_id":874017859
+        }
+    ],
+    "wof:id":874017859,
+    "wof:lastmodified":1464310924,
+    "wof:name":"Culver's",
+    "wof:parent_id":85881007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -96.731289,
+    43.519258,
+    -96.731289,
+    43.519258
+],
+  "geometry": {"coordinates":[-96.731289,43.519258],"type":"Point"}
+}

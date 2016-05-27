@@ -1,0 +1,78 @@
+{
+  "id": 874016967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.2693,44.082182,-103.2693,44.082182",
+    "geom:latitude":44.082182,
+    "geom:longitude":-103.2693,
+    "iso:country":"US",
+    "sg:address":"3020 W Main St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/96405-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 7844",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2prSQPAKZd31xB9yFpXd1t_44.082182_-103.269300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310912,
+    "wof:geomhash":"baffa5fb7e977eb4a4a0ac2098654147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016967
+        }
+    ],
+    "wof:id":874016967,
+    "wof:lastmodified":1464310912,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -103.2693,
+    44.082182,
+    -103.2693,
+    44.082182
+],
+  "geometry": {"coordinates":[-103.2693,44.082182],"type":"Point"}
+}

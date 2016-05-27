@@ -1,0 +1,98 @@
+{
+  "id": 874018543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.191754,44.071014,-103.191754,44.071014",
+    "geom:latitude":44.071014,
+    "geom:longitude":-103.191754,
+    "iso:country":"US",
+    "sg:address":"1601 Cambell St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/192559-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 6142",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852865,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693,
+        85822361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FZnfb5Rv39NsHMbgLmnnD_44.071269_-103.191775@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310933,
+    "wof:geomhash":"f9dd19fec163ed5961ce356b24633d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85852865,
+            "region_id":85688693,
+            "venue_id":874018543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874018543
+        }
+    ],
+    "wof:id":874018543,
+    "wof:lastmodified":1464310933,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -103.191754,
+    44.071014,
+    -103.191754,
+    44.071014
+],
+  "geometry": {"coordinates":[-103.191754,44.071014],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874019955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.476354,43.76055,-96.476354,43.76055",
+    "geom:latitude":43.76055,
+    "geom:longitude":-96.476354,
+    "iso:country":"US",
+    "sg:address":"331 Zeliff Ave",
+    "sg:city":"Sherman",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 594 6741",
+    "sg:postcode":"57030",
+    "sg:province":"SD",
+    "sg:tags":[
+        "tavern",
+        "grill",
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101721785,
+        102086007,
+        85881013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1ZzoUG62xQAx65MpOcqY_43.760550_-96.476354@1303262840"
+    },
+    "wof:country":"US",
+    "wof:created":1464310948,
+    "wof:geomhash":"dc4557b1de6d47119aa3660ff2dd5b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086007,
+            "locality_id":101721785,
+            "neighbourhood_id":85881013,
+            "region_id":85688693,
+            "venue_id":874019955
+        }
+    ],
+    "wof:id":874019955,
+    "wof:lastmodified":1464310948,
+    "wof:name":"The Bullet",
+    "wof:parent_id":85881013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "grill",
+        "brew"
+    ]
+},
+  "bbox": [
+    -96.476354,
+    43.76055,
+    -96.476354,
+    43.76055
+],
+  "geometry": {"coordinates":[-96.476354,43.76055],"type":"Point"}
+}

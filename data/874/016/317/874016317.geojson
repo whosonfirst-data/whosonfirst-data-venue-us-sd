@@ -1,0 +1,86 @@
+{
+  "id": 874016317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.23239,44.063245,-103.23239,44.063245",
+    "geom:latitude":44.063245,
+    "geom:longitude":-103.23239,
+    "iso:country":"US",
+    "sg:address":"2305 Mount Rushmore Rd",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/102253-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 341 5225",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kbdQ0ytkF9iP1Kta9b2Ie_44.063245_-103.232390@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310902,
+    "wof:geomhash":"af22d1ea2a72f2459c170ca3f9944c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016317
+        }
+    ],
+    "wof:id":874016317,
+    "wof:lastmodified":1464310902,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -103.23239,
+    44.063245,
+    -103.23239,
+    44.063245
+],
+  "geometry": {"coordinates":[-103.23239,44.063245],"type":"Point"}
+}

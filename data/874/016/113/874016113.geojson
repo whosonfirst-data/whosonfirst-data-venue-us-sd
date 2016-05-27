@@ -1,0 +1,78 @@
+{
+  "id": 874016113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.211141,44.10491,-103.211141,44.10491",
+    "geom:latitude":44.10491,
+    "geom:longitude":-103.211141,
+    "iso:country":"US",
+    "sg:address":"2106 N Maple Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/27974-fuddruckers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 9990",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QvESWpfjFZGNpOBmODVQZ_44.104910_-103.211141@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"038df3317382f40917ba7850dd3efd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016113
+        }
+    ],
+    "wof:id":874016113,
+    "wof:lastmodified":1464310900,
+    "wof:name":"Fuddruckers",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -103.211141,
+    44.10491,
+    -103.211141,
+    44.10491
+],
+  "geometry": {"coordinates":[-103.211141,44.10491],"type":"Point"}
+}

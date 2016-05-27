@@ -1,0 +1,78 @@
+{
+  "id": 874016347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.221752,44.098719,-103.221752,44.098719",
+    "geom:latitude":44.098719,
+    "geom:longitude":-103.221752,
+    "iso:country":"US",
+    "sg:address":"1828 Haines Ave",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/96406-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 343 3119",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pS1r6OsRwl3tpLE2yIIaO_44.098719_-103.221752@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310902,
+    "wof:geomhash":"c0032068f856443f922d5e03c5acd4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016347
+        }
+    ],
+    "wof:id":874016347,
+    "wof:lastmodified":1464310902,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -103.221752,
+    44.098719,
+    -103.221752,
+    44.098719
+],
+  "geometry": {"coordinates":[-103.221752,44.098719],"type":"Point"}
+}

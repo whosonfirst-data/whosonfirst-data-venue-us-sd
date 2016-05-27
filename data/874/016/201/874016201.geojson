@@ -1,0 +1,78 @@
+{
+  "id": 874016201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.202841,44.108018,-103.202841,44.108018",
+    "geom:latitude":44.108018,
+    "geom:longitude":-103.202841,
+    "iso:country":"US",
+    "sg:address":"2206 N Lacrosse St",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/rapid-city/6888-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 716 7272",
+    "sg:postcode":"57701",
+    "sg:province":"SD",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jaJp3Ol2TMc9PK4vtbhPo_44.108018_-103.202841@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"81dbd4b8a24db6203fa047d66cffe692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":874016201
+        }
+    ],
+    "wof:id":874016201,
+    "wof:lastmodified":1464310901,
+    "wof:name":"Denny's",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -103.202841,
+    44.108018,
+    -103.202841,
+    44.108018
+],
+  "geometry": {"coordinates":[-103.20284100000001,44.108018],"type":"Point"}
+}

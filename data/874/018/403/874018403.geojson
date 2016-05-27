@@ -1,0 +1,74 @@
+{
+  "id": 874018403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.489877,45.459055,-98.489877,45.459055",
+    "geom:latitude":45.459055,
+    "geom:longitude":-98.489877,
+    "iso:country":"US",
+    "sg:address":"124 6th Ave SW",
+    "sg:city":"Aberdeen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/aberdeen/154863-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 225 2644",
+    "sg:postcode":"57401",
+    "sg:province":"SD",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688693,
+        85633793,
+        101722223,
+        102086843,
+        85833721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lJ56xx5Ojhc0FCbeiUKz8_45.459135_-98.489834@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"bff32779d415f880e7ac6bd6c6c7803b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086843,
+            "locality_id":101722223,
+            "neighbourhood_id":85833721,
+            "region_id":85688693,
+            "venue_id":874018403
+        }
+    ],
+    "wof:id":874018403,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85833721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -98.489877,
+    45.459055,
+    -98.489877,
+    45.459055
+],
+  "geometry": {"coordinates":[-98.48987700000001,45.459055],"type":"Point"}
+}

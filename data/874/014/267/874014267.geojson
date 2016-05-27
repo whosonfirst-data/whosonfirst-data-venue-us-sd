@@ -1,0 +1,86 @@
+{
+  "id": 874014267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.757997,43.514838,-96.757997,43.514838",
+    "geom:latitude":43.514838,
+    "geom:longitude":-96.757997,
+    "iso:country":"US",
+    "sg:address":"2604 W 41st St",
+    "sg:city":"Sioux Falls",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/sd/sioux-falls/102254-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 339 1310",
+    "sg:postcode":"57105",
+    "sg:province":"SD",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881027,
+        102191575,
+        404491237,
+        85633793,
+        101721785,
+        102086007,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NFVuNzDDctQOSrgalw3rP_43.514838_-96.757997@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464310885,
+    "wof:geomhash":"2de2193b8d21aaf380371547eb549808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086007,
+            "localadmin_id":404491237,
+            "locality_id":101721785,
+            "neighbourhood_id":85881027,
+            "region_id":85688693,
+            "venue_id":874014267
+        }
+    ],
+    "wof:id":874014267,
+    "wof:lastmodified":1464310885,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85881027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -96.757997,
+    43.514838,
+    -96.757997,
+    43.514838
+],
+  "geometry": {"coordinates":[-96.757997,43.514838],"type":"Point"}
+}

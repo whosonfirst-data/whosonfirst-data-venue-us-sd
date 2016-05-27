@@ -1,0 +1,75 @@
+{
+  "id": 873982613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-103.276769,44.05594,-103.276769,44.05594",
+    "geom:latitude":44.05594,
+    "geom:longitude":-103.276769,
+    "iso:country":"US",
+    "sg:address":"3013 Palmer Dr",
+    "sg:city":"Rapid City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 348 6405",
+    "sg:postcode":"57702",
+    "sg:province":"SD",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822361,
+        102191575,
+        404489109,
+        85633793,
+        101721605,
+        102086781,
+        85688693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Iyo82yQsHSo7G4YMe1Rf5_44.055940_-103.276769@1294189808"
+    },
+    "wof:country":"US",
+    "wof:created":1464310628,
+    "wof:geomhash":"c0ef6b0f6f23e36eccfb91c04027b1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086781,
+            "localadmin_id":404489109,
+            "locality_id":101721605,
+            "neighbourhood_id":85822361,
+            "region_id":85688693,
+            "venue_id":873982613
+        }
+    ],
+    "wof:id":873982613,
+    "wof:lastmodified":1464310628,
+    "wof:name":"Robinson Dentistry",
+    "wof:parent_id":85822361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -103.276769,
+    44.05594,
+    -103.276769,
+    44.05594
+],
+  "geometry": {"coordinates":[-103.276769,44.05594],"type":"Point"}
+}
