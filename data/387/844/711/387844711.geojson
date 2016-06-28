@@ -2,13 +2,14 @@
   "id": 387844711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736022,43.489595,-96.736022,43.489595",
     "geom:latitude":43.489595,
     "geom:longitude":-96.736022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 S Mustang Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387844711,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1467082719,
     "wof:name":"Pbi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-96.736022,43.489595,-96.736022,43.489595],
-  "geometry": {"coordinates":[-96.736022,43.489595],"type":"Point"}
+  "bbox": [
+    -96.736022,
+    43.489595,
+    -96.736022,
+    43.489595
+],
+  "geometry": {"coordinates":[-96.73602200000001,43.489595],"type":"Point"}
 }

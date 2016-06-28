@@ -2,13 +2,14 @@
   "id": 386984939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703918,43.546597,-96.703918,43.546597",
     "geom:latitude":43.546597,
     "geom:longitude":-96.703918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386984939,
-    "wof:lastmodified":1449028798,
+    "wof:lastmodified":1467082652,
     "wof:name":"East Side Pawn",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-96.703918,43.546597,-96.703918,43.546597],
+  "bbox": [
+    -96.703918,
+    43.546597,
+    -96.703918,
+    43.546597
+],
   "geometry": {"coordinates":[-96.703918,43.546597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371153231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944663,43.249868,-96.944663,43.249868",
     "geom:latitude":43.249868,
     "geom:longitude":-96.944663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28569 463rd Ave",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371153231,
-    "wof:lastmodified":1449049776,
+    "wof:lastmodified":1467082668,
     "wof:name":"Hilbert Bartels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.944663,43.249868,-96.944663,43.249868],
-  "geometry": {"coordinates":[-96.944663,43.249868],"type":"Point"}
+  "bbox": [
+    -96.944663,
+    43.249868,
+    -96.944663,
+    43.249868
+],
+  "geometry": {"coordinates":[-96.94466300000001,43.249868],"type":"Point"}
 }

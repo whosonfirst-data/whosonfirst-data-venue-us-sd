@@ -2,13 +2,14 @@
   "id": 370985323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.097346,45.6499,-99.097346,45.6499",
     "geom:latitude":45.6499,
     "geom:longitude":-99.097346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12172 355th Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370985323,
-    "wof:lastmodified":1449030760,
+    "wof:lastmodified":1467082656,
     "wof:name":"Jundts Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.097346,45.6499,-99.097346,45.6499],
+  "bbox": [
+    -99.097346,
+    45.6499,
+    -99.097346,
+    45.6499
+],
   "geometry": {"coordinates":[-99.097346,45.6499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387680997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753485,43.650851,-96.753485,43.650851",
     "geom:latitude":43.650851,
     "geom:longitude":-96.753485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25764 Packard Ln",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387680997,
-    "wof:lastmodified":1449058778,
+    "wof:lastmodified":1467082740,
     "wof:name":"Janco Athletic Surfacing",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "court"
     ]
 },
-  "bbox": [-96.753485,43.650851,-96.753485,43.650851],
+  "bbox": [
+    -96.753485,
+    43.650851,
+    -96.753485,
+    43.650851
+],
   "geometry": {"coordinates":[-96.753485,43.650851],"type":"Point"}
 }

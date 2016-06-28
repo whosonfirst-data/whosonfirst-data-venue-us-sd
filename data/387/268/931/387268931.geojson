@@ -2,13 +2,14 @@
   "id": 387268931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.851179,43.640528,-96.851179,43.640528",
     "geom:latitude":43.640528,
     "geom:longitude":-96.851179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25807 468th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387268931,
-    "wof:lastmodified":1449058270,
+    "wof:lastmodified":1467082730,
     "wof:name":"Bubbas Digging and Lawn Svc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.851179,43.640528,-96.851179,43.640528],
+  "bbox": [
+    -96.851179,
+    43.640528,
+    -96.851179,
+    43.640528
+],
   "geometry": {"coordinates":[-96.851179,43.640528],"type":"Point"}
 }

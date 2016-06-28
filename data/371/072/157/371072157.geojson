@@ -2,13 +2,14 @@
   "id": 371072157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.745287,45.559785,-102.745287,45.559785",
     "geom:latitude":45.559785,
     "geom:longitude":-102.745287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12699 Divide Rd",
     "sg:city":"Prairie City",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371072157,
-    "wof:lastmodified":1449049596,
+    "wof:lastmodified":1467082666,
     "wof:name":"Chas Spangler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-102.745287,45.559785,-102.745287,45.559785],
+  "bbox": [
+    -102.745287,
+    45.559785,
+    -102.745287,
+    45.559785
+],
   "geometry": {"coordinates":[-102.745287,45.559785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387928831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.050443,43.998778,-103.050443,43.998778",
     "geom:latitude":43.998778,
     "geom:longitude":-103.050443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23478 Bradsky Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387928831,
-    "wof:lastmodified":1449059395,
+    "wof:lastmodified":1467082753,
     "wof:name":"Nelson Ditching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.050443,43.998778,-103.050443,43.998778],
+  "bbox": [
+    -103.050443,
+    43.998778,
+    -103.050443,
+    43.998778
+],
   "geometry": {"coordinates":[-103.050443,43.998778],"type":"Point"}
 }

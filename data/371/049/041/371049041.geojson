@@ -2,13 +2,14 @@
   "id": 371049041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.586272,44.298218,-98.586272,44.298218",
     "geom:latitude":44.298218,
     "geom:longitude":-98.586272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37964 213th St",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371049041,
-    "wof:lastmodified":1449049544,
+    "wof:lastmodified":1467082665,
     "wof:name":"Eggleston Charoleis & Angus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.586272,44.298218,-98.586272,44.298218],
-  "geometry": {"coordinates":[-98.586272,44.298218],"type":"Point"}
+  "bbox": [
+    -98.586272,
+    44.298218,
+    -98.586272,
+    44.298218
+],
+  "geometry": {"coordinates":[-98.58627199999999,44.298218],"type":"Point"}
 }

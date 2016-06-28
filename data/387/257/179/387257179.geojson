@@ -2,13 +2,14 @@
   "id": 387257179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.226355,44.076693,-103.226355,44.076693",
     "geom:latitude":44.076693,
     "geom:longitude":-103.226355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 5th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387257179,
-    "wof:lastmodified":1449057222,
+    "wof:lastmodified":1467082709,
     "wof:name":"Western Dakota Insurors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "build"
     ]
 },
-  "bbox": [-103.226355,44.076693,-103.226355,44.076693],
+  "bbox": [
+    -103.226355,
+    44.076693,
+    -103.226355,
+    44.076693
+],
   "geometry": {"coordinates":[-103.226355,44.076693],"type":"Point"}
 }

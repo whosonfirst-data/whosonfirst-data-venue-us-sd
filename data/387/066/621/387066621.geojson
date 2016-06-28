@@ -2,13 +2,14 @@
   "id": 387066621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936619,43.397811,-97.936619,43.397811",
     "geom:latitude":43.397811,
     "geom:longitude":-97.936619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27506 413th Ave",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387066621,
-    "wof:lastmodified":1449057209,
+    "wof:lastmodified":1467082709,
     "wof:name":"Thurys Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.936619,43.397811,-97.936619,43.397811],
-  "geometry": {"coordinates":[-97.936619,43.397811],"type":"Point"}
+  "bbox": [
+    -97.936619,
+    43.397811,
+    -97.936619,
+    43.397811
+],
+  "geometry": {"coordinates":[-97.93661899999999,43.397811],"type":"Point"}
 }

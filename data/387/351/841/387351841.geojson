@@ -2,13 +2,14 @@
   "id": 387351841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736326,44.877722,-97.736326,44.877722",
     "geom:latitude":44.877722,
     "geom:longitude":-97.736326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 1st Ave W",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387351841,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467082752,
     "wof:name":"Mack's Standard Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-97.736326,44.877722,-97.736326,44.877722],
-  "geometry": {"coordinates":[-97.736326,44.877722],"type":"Point"}
+  "bbox": [
+    -97.736326,
+    44.877722,
+    -97.736326,
+    44.877722
+],
+  "geometry": {"coordinates":[-97.73632600000001,44.877722],"type":"Point"}
 }

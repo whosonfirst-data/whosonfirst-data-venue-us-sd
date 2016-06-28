@@ -2,13 +2,14 @@
   "id": 371062275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.506973,45.459382,-98.506973,45.459382",
     "geom:latitude":45.459382,
     "geom:longitude":-98.506973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371062275,
-    "wof:lastmodified":1449050081,
+    "wof:lastmodified":1467082672,
     "wof:name":"Cendak Realty Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-98.506973,45.459382,-98.506973,45.459382],
+  "bbox": [
+    -98.506973,
+    45.459382,
+    -98.506973,
+    45.459382
+],
   "geometry": {"coordinates":[-98.506973,45.459382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387784291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.477878,44.413279,-103.477878,44.413279",
     "geom:latitude":44.413279,
     "geom:longitude":-103.477878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12930 State Hwy 34",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387784291,
-    "wof:lastmodified":1449058649,
+    "wof:lastmodified":1467082738,
     "wof:name":"Sturgis Brown High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.477878,44.413279,-103.477878,44.413279],
+  "bbox": [
+    -103.477878,
+    44.413279,
+    -103.477878,
+    44.413279
+],
   "geometry": {"coordinates":[-103.477878,44.413279],"type":"Point"}
 }

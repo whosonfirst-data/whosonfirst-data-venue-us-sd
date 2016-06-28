@@ -2,13 +2,14 @@
   "id": 387956521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734771,43.52201,-96.734771,43.52201",
     "geom:latitude":43.52201,
     "geom:longitude":-96.734771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 W 33rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387956521,
-    "wof:lastmodified":1449056751,
+    "wof:lastmodified":1467082699,
     "wof:name":"Southgate Barber Shop",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.734771,43.52201,-96.734771,43.52201],
-  "geometry": {"coordinates":[-96.734771,43.52201],"type":"Point"}
+  "bbox": [
+    -96.734771,
+    43.52201,
+    -96.734771,
+    43.52201
+],
+  "geometry": {"coordinates":[-96.73477099999999,43.52201],"type":"Point"}
 }

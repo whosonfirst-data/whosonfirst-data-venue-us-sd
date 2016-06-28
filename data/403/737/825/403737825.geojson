@@ -2,13 +2,14 @@
   "id": 403737825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.182315,45.401642,-100.182315,45.401642",
     "geom:latitude":45.401642,
     "geom:longitude":-100.182315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13729 300th Ave",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403737825,
-    "wof:lastmodified":1449054944,
+    "wof:lastmodified":1467082677,
     "wof:name":"Prairie Pillow Sportmans Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.182315,45.401642,-100.182315,45.401642],
+  "bbox": [
+    -100.182315,
+    45.401642,
+    -100.182315,
+    45.401642
+],
   "geometry": {"coordinates":[-100.182315,45.401642],"type":"Point"}
 }

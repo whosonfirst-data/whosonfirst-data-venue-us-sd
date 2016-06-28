@@ -2,13 +2,14 @@
   "id": 387905993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711223,43.534005,-96.711223,43.534005",
     "geom:latitude":43.534005,
     "geom:longitude":-96.711223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387905993,
-    "wof:lastmodified":1449057593,
+    "wof:lastmodified":1467082716,
     "wof:name":"All In One",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.711223,43.534005,-96.711223,43.534005],
+  "bbox": [
+    -96.711223,
+    43.534005,
+    -96.711223,
+    43.534005
+],
   "geometry": {"coordinates":[-96.711223,43.534005],"type":"Point"}
 }

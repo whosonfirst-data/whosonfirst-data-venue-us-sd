@@ -2,13 +2,14 @@
   "id": 403752401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.351176,44.365188,-100.351176,44.365188",
     "geom:latitude":44.365188,
     "geom:longitude":-100.351176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403752401,
-    "wof:lastmodified":1449054853,
+    "wof:lastmodified":1467082676,
     "wof:name":"State Publishing & Printing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-100.351176,44.365188,-100.351176,44.365188],
+  "bbox": [
+    -100.351176,
+    44.365188,
+    -100.351176,
+    44.365188
+],
   "geometry": {"coordinates":[-100.351176,44.365188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386968273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.191156,44.75999,-97.191156,44.75999",
     "geom:latitude":44.75999,
     "geom:longitude":-97.191156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18091 451st Ave",
     "sg:city":"Hayti",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386968273,
-    "wof:lastmodified":1449028647,
+    "wof:lastmodified":1467082649,
     "wof:name":"Homemakers Idea Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.191156,44.75999,-97.191156,44.75999],
-  "geometry": {"coordinates":[-97.191156,44.75999],"type":"Point"}
+  "bbox": [
+    -97.191156,
+    44.75999,
+    -97.191156,
+    44.75999
+],
+  "geometry": {"coordinates":[-97.19115600000001,44.75999],"type":"Point"}
 }

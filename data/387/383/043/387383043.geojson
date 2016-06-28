@@ -2,13 +2,14 @@
   "id": 387383043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.269472,44.034083,-103.269472,44.034083",
     "geom:latitude":44.034083,
     "geom:longitude":-103.269472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 Summerset Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387383043,
-    "wof:lastmodified":1449057718,
+    "wof:lastmodified":1467082719,
     "wof:name":"M and L Trucking",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.269472,44.034083,-103.269472,44.034083],
-  "geometry": {"coordinates":[-103.269472,44.034083],"type":"Point"}
+  "bbox": [
+    -103.269472,
+    44.034083,
+    -103.269472,
+    44.034083
+],
+  "geometry": {"coordinates":[-103.26947199999999,44.034083],"type":"Point"}
 }

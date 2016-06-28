@@ -2,13 +2,14 @@
   "id": 387124087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706775,42.930461,-96.706775,42.930461",
     "geom:latitude":42.930461,
     "geom:longitude":-96.706775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30707 475th Ave",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387124087,
-    "wof:lastmodified":1449059626,
+    "wof:lastmodified":1467082757,
     "wof:name":"M & P Enterprisds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.706775,42.930461,-96.706775,42.930461],
-  "geometry": {"coordinates":[-96.706775,42.930461],"type":"Point"}
+  "bbox": [
+    -96.706775,
+    42.930461,
+    -96.706775,
+    42.930461
+],
+  "geometry": {"coordinates":[-96.70677499999999,42.930461],"type":"Point"}
 }

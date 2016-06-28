@@ -2,13 +2,14 @@
   "id": 371001163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.832106,43.29996,-103.832106,43.29996",
     "geom:latitude":43.29996,
     "geom:longitude":-103.832106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 E St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371001163,
-    "wof:lastmodified":1449049276,
+    "wof:lastmodified":1467082661,
     "wof:name":"Mountainside Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.832106,43.29996,-103.832106,43.29996],
+  "bbox": [
+    -103.832106,
+    43.29996,
+    -103.832106,
+    43.29996
+],
   "geometry": {"coordinates":[-103.832106,43.29996],"type":"Point"}
 }

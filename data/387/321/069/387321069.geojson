@@ -2,13 +2,14 @@
   "id": 387321069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219042,44.081154,-103.219042,44.081154",
     "geom:latitude":44.081154,
     "geom:longitude":-103.219042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 2nd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387321069,
-    "wof:lastmodified":1449056208,
+    "wof:lastmodified":1467082689,
     "wof:name":"Automatic Vendors Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.219042,44.081154,-103.219042,44.081154],
+  "bbox": [
+    -103.219042,
+    44.081154,
+    -103.219042,
+    44.081154
+],
   "geometry": {"coordinates":[-103.219042,44.081154],"type":"Point"}
 }

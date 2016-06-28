@@ -2,13 +2,14 @@
   "id": 371187075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.848931,43.38415,-98.848931,43.38415",
     "geom:latitude":43.38415,
     "geom:longitude":-98.848931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 7th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371187075,
-    "wof:lastmodified":1449049190,
+    "wof:lastmodified":1467082660,
     "wof:name":"Hoffman Gas & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.848931,43.38415,-98.848931,43.38415],
-  "geometry": {"coordinates":[-98.848931,43.38415],"type":"Point"}
+  "bbox": [
+    -98.848931,
+    43.38415,
+    -98.848931,
+    43.38415
+],
+  "geometry": {"coordinates":[-98.84893099999999,43.38415],"type":"Point"}
 }

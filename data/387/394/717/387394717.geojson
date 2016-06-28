@@ -2,13 +2,14 @@
   "id": 387394717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72471,43.584547,-96.72471,43.584547",
     "geom:latitude":43.584547,
     "geom:longitude":-96.72471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 N 1st Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387394717,
-    "wof:lastmodified":1449056837,
+    "wof:lastmodified":1467082701,
     "wof:name":"Sioux Falls Food Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bank"
     ]
 },
-  "bbox": [-96.72471,43.584547,-96.72471,43.584547],
+  "bbox": [
+    -96.72471,
+    43.584547,
+    -96.72471,
+    43.584547
+],
   "geometry": {"coordinates":[-96.72471,43.584547],"type":"Point"}
 }

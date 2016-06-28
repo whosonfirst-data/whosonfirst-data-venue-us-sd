@@ -2,13 +2,14 @@
   "id": 387094337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.599137,43.766615,-103.599137,43.766615",
     "geom:latitude":43.766615,
     "geom:longitude":-103.599137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387094337,
-    "wof:lastmodified":1449058491,
+    "wof:lastmodified":1467082735,
     "wof:name":"Mainstreet Marketplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-103.599137,43.766615,-103.599137,43.766615],
+  "bbox": [
+    -103.599137,
+    43.766615,
+    -103.599137,
+    43.766615
+],
   "geometry": {"coordinates":[-103.599137,43.766615],"type":"Point"}
 }

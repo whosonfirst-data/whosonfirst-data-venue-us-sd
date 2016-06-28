@@ -2,13 +2,14 @@
   "id": 387400697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.428426,45.395137,-101.428426,45.395137",
     "geom:latitude":45.395137,
     "geom:longitude":-101.428426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Taft Ave",
     "sg:city":"Isabel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387400697,
-    "wof:lastmodified":1449056479,
+    "wof:lastmodified":1467082694,
     "wof:name":"Nash Plumbing & Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.428426,45.395137,-101.428426,45.395137],
+  "bbox": [
+    -101.428426,
+    45.395137,
+    -101.428426,
+    45.395137
+],
   "geometry": {"coordinates":[-101.428426,45.395137],"type":"Point"}
 }

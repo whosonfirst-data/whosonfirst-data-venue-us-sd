@@ -2,13 +2,14 @@
   "id": 387839893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.806705,45.362176,-99.806705,45.362176",
     "geom:latitude":45.362176,
     "geom:longitude":-99.806705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31824 140th St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387839893,
-    "wof:lastmodified":1449058390,
+    "wof:lastmodified":1467082733,
     "wof:name":"Schock Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.806705,45.362176,-99.806705,45.362176],
-  "geometry": {"coordinates":[-99.806705,45.362176],"type":"Point"}
+  "bbox": [
+    -99.806705,
+    45.362176,
+    -99.806705,
+    45.362176
+],
+  "geometry": {"coordinates":[-99.80670499999999,45.362176],"type":"Point"}
 }

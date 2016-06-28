@@ -2,13 +2,14 @@
   "id": 386988847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.029568,43.705355,-98.029568,43.705355",
     "geom:latitude":43.705355,
     "geom:longitude":-98.029568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 S Sanborn Blvd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386988847,
-    "wof:lastmodified":1449028731,
+    "wof:lastmodified":1467082651,
     "wof:name":"Lube Rangers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-98.029568,43.705355,-98.029568,43.705355],
+  "bbox": [
+    -98.029568,
+    43.705355,
+    -98.029568,
+    43.705355
+],
   "geometry": {"coordinates":[-98.029568,43.705355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371155523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746333,43.528673,-96.746333,43.528673",
     "geom:latitude":43.528673,
     "geom:longitude":-96.746333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 S West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371155523,
-    "wof:lastmodified":1449049919,
+    "wof:lastmodified":1467082670,
     "wof:name":"Fins & Skin Taxidermy",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-96.746333,43.528673,-96.746333,43.528673],
-  "geometry": {"coordinates":[-96.746333,43.528673],"type":"Point"}
+  "bbox": [
+    -96.746333,
+    43.528673,
+    -96.746333,
+    43.528673
+],
+  "geometry": {"coordinates":[-96.74633300000001,43.528673],"type":"Point"}
 }

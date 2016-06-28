@@ -2,13 +2,14 @@
   "id": 387870369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687552,43.524247,-96.687552,43.524247",
     "geom:latitude":43.524247,
     "geom:longitude":-96.687552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2349 S Woodbine Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387870369,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1467082706,
     "wof:name":"Marilyn Williams Interior Dsgn",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drapery"
     ]
 },
-  "bbox": [-96.687552,43.524247,-96.687552,43.524247],
+  "bbox": [
+    -96.687552,
+    43.524247,
+    -96.687552,
+    43.524247
+],
   "geometry": {"coordinates":[-96.687552,43.524247],"type":"Point"}
 }

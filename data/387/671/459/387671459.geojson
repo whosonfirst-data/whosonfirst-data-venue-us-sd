@@ -2,13 +2,14 @@
   "id": 387671459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.532178,43.5547,-96.532178,43.5547",
     "geom:latitude":43.5547,
     "geom:longitude":-96.532178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26427 484th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387671459,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1467082704,
     "wof:name":"Dakota Floors Inc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-96.532178,43.5547,-96.532178,43.5547],
+  "bbox": [
+    -96.532178,
+    43.5547,
+    -96.532178,
+    43.5547
+],
   "geometry": {"coordinates":[-96.532178,43.5547],"type":"Point"}
 }

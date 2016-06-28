@@ -2,13 +2,14 @@
   "id": 387882371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810788,43.508298,-96.810788,43.508298",
     "geom:latitude":43.508298,
     "geom:longitude":-96.810788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6805 W Essex Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387882371,
-    "wof:lastmodified":1449056781,
+    "wof:lastmodified":1467082700,
     "wof:name":"Ronning Companies",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.810788,43.508298,-96.810788,43.508298],
+  "bbox": [
+    -96.810788,
+    43.508298,
+    -96.810788,
+    43.508298
+],
   "geometry": {"coordinates":[-96.810788,43.508298],"type":"Point"}
 }

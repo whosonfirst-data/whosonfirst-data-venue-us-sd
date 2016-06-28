@@ -2,13 +2,14 @@
   "id": 387604177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.486549,43.433237,-103.486549,43.433237",
     "geom:latitude":43.433237,
     "geom:longitude":-103.486549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 Washington Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387604177,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1467082754,
     "wof:name":"Southern Hlls Dvlopmental Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.486549,43.433237,-103.486549,43.433237],
+  "bbox": [
+    -103.486549,
+    43.433237,
+    -103.486549,
+    43.433237
+],
   "geometry": {"coordinates":[-103.486549,43.433237],"type":"Point"}
 }

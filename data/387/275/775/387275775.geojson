@@ -2,13 +2,14 @@
   "id": 387275775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.828923,43.451596,-96.828923,43.451596",
     "geom:latitude":43.451596,
     "geom:longitude":-96.828923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 E Jesse Ct",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387275775,
-    "wof:lastmodified":1449057323,
+    "wof:lastmodified":1467082711,
     "wof:name":"Angi's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.828923,43.451596,-96.828923,43.451596],
+  "bbox": [
+    -96.828923,
+    43.451596,
+    -96.828923,
+    43.451596
+],
   "geometry": {"coordinates":[-96.828923,43.451596],"type":"Point"}
 }

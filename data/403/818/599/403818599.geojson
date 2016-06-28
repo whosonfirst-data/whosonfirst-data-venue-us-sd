@@ -2,13 +2,14 @@
   "id": 403818599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.524203,45.341054,-97.524203,45.341054",
     "geom:latitude":45.341054,
     "geom:longitude":-97.524203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403818599,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1467082680,
     "wof:name":"Dave's Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sales"
     ]
 },
-  "bbox": [-97.524203,45.341054,-97.524203,45.341054],
+  "bbox": [
+    -97.524203,
+    45.341054,
+    -97.524203,
+    45.341054
+],
   "geometry": {"coordinates":[-97.524203,45.341054],"type":"Point"}
 }

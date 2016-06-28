@@ -2,13 +2,14 @@
   "id": 387591287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.754271,43.525847,-96.754271,43.525847",
     "geom:latitude":43.525847,
     "geom:longitude":-96.754271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 S Holly Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387591287,
-    "wof:lastmodified":1449058143,
+    "wof:lastmodified":1467082728,
     "wof:name":"Holly Stained Glass",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.754271,43.525847,-96.754271,43.525847],
+  "bbox": [
+    -96.754271,
+    43.525847,
+    -96.754271,
+    43.525847
+],
   "geometry": {"coordinates":[-96.754271,43.525847],"type":"Point"}
 }

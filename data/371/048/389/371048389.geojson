@@ -2,13 +2,14 @@
   "id": 371048389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.613028,43.051698,-99.613028,43.051698",
     "geom:latitude":43.051698,
     "geom:longitude":-99.613028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29954 328th Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371048389,
-    "wof:lastmodified":1449049371,
+    "wof:lastmodified":1467082663,
     "wof:name":"Rodney K & Beverly K Graesser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.613028,43.051698,-99.613028,43.051698],
+  "bbox": [
+    -99.613028,
+    43.051698,
+    -99.613028,
+    43.051698
+],
   "geometry": {"coordinates":[-99.613028,43.051698],"type":"Point"}
 }

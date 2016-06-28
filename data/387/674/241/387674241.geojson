@@ -2,13 +2,14 @@
   "id": 387674241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.90236,44.574742,-96.90236,44.574742",
     "geom:latitude":44.574742,
     "geom:longitude":-96.90236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Bell Ave",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387674241,
-    "wof:lastmodified":1449058953,
+    "wof:lastmodified":1467082744,
     "wof:name":"Gail B Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-96.90236,44.574742,-96.90236,44.574742],
+  "bbox": [
+    -96.90236,
+    44.574742,
+    -96.90236,
+    44.574742
+],
   "geometry": {"coordinates":[-96.90236,44.574742],"type":"Point"}
 }

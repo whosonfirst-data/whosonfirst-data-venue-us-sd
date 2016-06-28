@@ -2,13 +2,14 @@
   "id": 387051301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.100391,44.005313,-97.100391,44.005313",
     "geom:latitude":44.005313,
     "geom:longitude":-97.100391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387051301,
-    "wof:lastmodified":1449058453,
+    "wof:lastmodified":1467082734,
     "wof:name":"Madison Nursery School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-97.100391,44.005313,-97.100391,44.005313],
+  "bbox": [
+    -97.100391,
+    44.005313,
+    -97.100391,
+    44.005313
+],
   "geometry": {"coordinates":[-97.100391,44.005313],"type":"Point"}
 }

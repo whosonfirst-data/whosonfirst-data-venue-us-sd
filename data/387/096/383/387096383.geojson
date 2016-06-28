@@ -2,13 +2,14 @@
   "id": 387096383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.858744,43.379571,-99.858744,43.379571",
     "geom:latitude":43.379571,
     "geom:longitude":-99.858744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 W Tripp Ave",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387096383,
-    "wof:lastmodified":1449057331,
+    "wof:lastmodified":1467082711,
     "wof:name":"Mid-Dakota Meats LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.858744,43.379571,-99.858744,43.379571],
+  "bbox": [
+    -99.858744,
+    43.379571,
+    -99.858744,
+    43.379571
+],
   "geometry": {"coordinates":[-99.858744,43.379571],"type":"Point"}
 }

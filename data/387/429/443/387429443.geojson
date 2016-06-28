@@ -2,13 +2,14 @@
   "id": 387429443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671497,43.54848,-96.671497,43.54848",
     "geom:latitude":43.54848,
     "geom:longitude":-96.671497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387429443,
-    "wof:lastmodified":1449059718,
+    "wof:lastmodified":1467082759,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.671497,43.54848,-96.671497,43.54848],
+  "bbox": [
+    -96.671497,
+    43.54848,
+    -96.671497,
+    43.54848
+],
   "geometry": {"coordinates":[-96.671497,43.54848],"type":"Point"}
 }

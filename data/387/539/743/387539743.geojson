@@ -2,13 +2,14 @@
   "id": 387539743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.967553,43.119204,-96.967553,43.119204",
     "geom:latitude":43.119204,
     "geom:longitude":-96.967553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 Vermillion St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387539743,
-    "wof:lastmodified":1449059996,
+    "wof:lastmodified":1467082765,
     "wof:name":"Pk & K Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.967553,43.119204,-96.967553,43.119204],
+  "bbox": [
+    -96.967553,
+    43.119204,
+    -96.967553,
+    43.119204
+],
   "geometry": {"coordinates":[-96.967553,43.119204],"type":"Point"}
 }

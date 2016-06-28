@@ -2,13 +2,14 @@
   "id": 387474431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488116,45.457927,-98.488116,45.457927",
     "geom:latitude":45.457927,
     "geom:longitude":-98.488116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387474431,
-    "wof:lastmodified":1449056274,
+    "wof:lastmodified":1467082690,
     "wof:name":"Brown Law Firm",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.488116,45.457927,-98.488116,45.457927],
-  "geometry": {"coordinates":[-98.488116,45.457927],"type":"Point"}
+  "bbox": [
+    -98.488116,
+    45.457927,
+    -98.488116,
+    45.457927
+],
+  "geometry": {"coordinates":[-98.48811600000001,45.457927],"type":"Point"}
 }

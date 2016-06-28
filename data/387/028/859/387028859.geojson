@@ -2,13 +2,14 @@
   "id": 387028859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025704,43.71241,-98.025704,43.71241",
     "geom:latitude":43.71241,
     "geom:longitude":-98.025704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W 4th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387028859,
-    "wof:lastmodified":1449058166,
+    "wof:lastmodified":1467082728,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bond"
     ]
 },
-  "bbox": [-98.025704,43.71241,-98.025704,43.71241],
+  "bbox": [
+    -98.025704,
+    43.71241,
+    -98.025704,
+    43.71241
+],
   "geometry": {"coordinates":[-98.025704,43.71241],"type":"Point"}
 }

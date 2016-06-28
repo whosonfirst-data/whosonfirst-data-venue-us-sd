@@ -2,13 +2,14 @@
   "id": 370972945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221888,44.076784,-103.221888,44.076784",
     "geom:latitude":44.076784,
     "geom:longitude":-103.221888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Quincy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370972945,
-    "wof:lastmodified":1449030777,
+    "wof:lastmodified":1467082656,
     "wof:name":"Merchant Services",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "credit"
     ]
 },
-  "bbox": [-103.221888,44.076784,-103.221888,44.076784],
-  "geometry": {"coordinates":[-103.221888,44.076784],"type":"Point"}
+  "bbox": [
+    -103.221888,
+    44.076784,
+    -103.221888,
+    44.076784
+],
+  "geometry": {"coordinates":[-103.22188800000001,44.076784],"type":"Point"}
 }

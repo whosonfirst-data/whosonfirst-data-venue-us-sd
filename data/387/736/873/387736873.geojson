@@ -2,13 +2,14 @@
   "id": 387736873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.075325,44.839369,-100.075325,44.839369",
     "geom:latitude":44.839369,
     "geom:longitude":-100.075325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Pine St",
     "sg:city":"Agar",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387736873,
-    "wof:lastmodified":1449059879,
+    "wof:lastmodified":1467082762,
     "wof:name":"Martin's Door Repair & Instltn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-100.075325,44.839369,-100.075325,44.839369],
-  "geometry": {"coordinates":[-100.075325,44.839369],"type":"Point"}
+  "bbox": [
+    -100.075325,
+    44.839369,
+    -100.075325,
+    44.839369
+],
+  "geometry": {"coordinates":[-100.07532500000001,44.839369],"type":"Point"}
 }

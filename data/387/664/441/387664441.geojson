@@ -2,13 +2,14 @@
   "id": 387664441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769639,43.513927,-96.769639,43.513927",
     "geom:latitude":43.513927,
     "geom:longitude":-96.769639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 S Kelley Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387664441,
-    "wof:lastmodified":1449057505,
+    "wof:lastmodified":1467082715,
     "wof:name":"Omni Bill Supply Svc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.769639,43.513927,-96.769639,43.513927],
+  "bbox": [
+    -96.769639,
+    43.513927,
+    -96.769639,
+    43.513927
+],
   "geometry": {"coordinates":[-96.769639,43.513927],"type":"Point"}
 }

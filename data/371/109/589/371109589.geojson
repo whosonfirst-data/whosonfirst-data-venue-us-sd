@@ -2,13 +2,14 @@
   "id": 371109589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.942568,45.011346,-99.942568,45.011346",
     "geom:latitude":45.011346,
     "geom:longitude":-99.942568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 E Commercial Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371109589,
-    "wof:lastmodified":1449049364,
+    "wof:lastmodified":1467082663,
     "wof:name":"Computer Record Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.942568,45.011346,-99.942568,45.011346],
-  "geometry": {"coordinates":[-99.942568,45.011346],"type":"Point"}
+  "bbox": [
+    -99.942568,
+    45.011346,
+    -99.942568,
+    45.011346
+],
+  "geometry": {"coordinates":[-99.94256799999999,45.011346],"type":"Point"}
 }

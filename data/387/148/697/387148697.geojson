@@ -2,13 +2,14 @@
   "id": 387148697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.681039,45.28302,-98.681039,45.28302",
     "geom:latitude":45.28302,
     "geom:longitude":-98.681039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14527 376th Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387148697,
-    "wof:lastmodified":1449059331,
+    "wof:lastmodified":1467082751,
     "wof:name":"Leland Bierman",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.681039,45.28302,-98.681039,45.28302],
+  "bbox": [
+    -98.681039,
+    45.28302,
+    -98.681039,
+    45.28302
+],
   "geometry": {"coordinates":[-98.681039,45.28302],"type":"Point"}
 }

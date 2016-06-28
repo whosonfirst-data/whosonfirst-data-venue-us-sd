@@ -2,13 +2,14 @@
   "id": 387540213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.147715,43.227986,-97.147715,43.227986",
     "geom:latitude":43.227986,
     "geom:longitude":-97.147715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45225 287th St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387540213,
-    "wof:lastmodified":1449057604,
+    "wof:lastmodified":1467082717,
     "wof:name":"Greg Farrar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.147715,43.227986,-97.147715,43.227986],
-  "geometry": {"coordinates":[-97.147715,43.227986],"type":"Point"}
+  "bbox": [
+    -97.147715,
+    43.227986,
+    -97.147715,
+    43.227986
+],
+  "geometry": {"coordinates":[-97.14771500000001,43.227986],"type":"Point"}
 }

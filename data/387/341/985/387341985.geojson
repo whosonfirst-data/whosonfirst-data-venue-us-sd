@@ -2,13 +2,14 @@
   "id": 387341985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.14702,44.100798,-103.14702,44.100798",
     "geom:latitude":44.100798,
     "geom:longitude":-103.14702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 S Interstate 90 Svc Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387341985,
-    "wof:lastmodified":1449059751,
+    "wof:lastmodified":1467082760,
     "wof:name":"Cow Country Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.14702,44.100798,-103.14702,44.100798],
+  "bbox": [
+    -103.14702,
+    44.100798,
+    -103.14702,
+    44.100798
+],
   "geometry": {"coordinates":[-103.14702,44.100798],"type":"Point"}
 }

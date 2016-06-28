@@ -2,13 +2,14 @@
   "id": 387152355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.19197,44.087645,-103.19197,44.087645",
     "geom:latitude":44.087645,
     "geom:longitude":-103.19197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387152355,
-    "wof:lastmodified":1449059032,
+    "wof:lastmodified":1467082745,
     "wof:name":"V B's Superstore",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-103.19197,44.087645,-103.19197,44.087645],
+  "bbox": [
+    -103.19197,
+    44.087645,
+    -103.19197,
+    44.087645
+],
   "geometry": {"coordinates":[-103.19197,44.087645],"type":"Point"}
 }

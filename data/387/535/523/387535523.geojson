@@ -2,13 +2,14 @@
   "id": 387535523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69123,44.757801,-96.69123,44.757801",
     "geom:latitude":44.757801,
     "geom:longitude":-96.69123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 9th Ave S",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387535523,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1467082700,
     "wof:name":"Clear Lake Clipper Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.69123,44.757801,-96.69123,44.757801],
+  "bbox": [
+    -96.69123,
+    44.757801,
+    -96.69123,
+    44.757801
+],
   "geometry": {"coordinates":[-96.69123,44.757801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386934973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.228828,44.081364,-103.228828,44.081364",
     "geom:latitude":44.081364,
     "geom:longitude":-103.228828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386934973,
-    "wof:lastmodified":1449028644,
+    "wof:lastmodified":1467082649,
     "wof:name":"Western Wholesale",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spirits"
     ]
 },
-  "bbox": [-103.228828,44.081364,-103.228828,44.081364],
-  "geometry": {"coordinates":[-103.228828,44.081364],"type":"Point"}
+  "bbox": [
+    -103.228828,
+    44.081364,
+    -103.228828,
+    44.081364
+],
+  "geometry": {"coordinates":[-103.22882799999999,44.081364],"type":"Point"}
 }

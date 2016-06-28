@@ -2,13 +2,14 @@
   "id": 371179491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713397,43.823415,-96.713397,43.823415",
     "geom:latitude":43.823415,
     "geom:longitude":-96.713397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371179491,
-    "wof:lastmodified":1449050019,
+    "wof:lastmodified":1467082672,
     "wof:name":"Hair Line",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.713397,43.823415,-96.713397,43.823415],
+  "bbox": [
+    -96.713397,
+    43.823415,
+    -96.713397,
+    43.823415
+],
   "geometry": {"coordinates":[-96.713397,43.823415],"type":"Point"}
 }

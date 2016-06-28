@@ -2,13 +2,14 @@
   "id": 387496263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.188411,43.593748,-97.188411,43.593748",
     "geom:latitude":43.593748,
     "geom:longitude":-97.188411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26176 451st Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387496263,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467082752,
     "wof:name":"Battle Creek Campground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.188411,43.593748,-97.188411,43.593748],
+  "bbox": [
+    -97.188411,
+    43.593748,
+    -97.188411,
+    43.593748
+],
   "geometry": {"coordinates":[-97.188411,43.593748],"type":"Point"}
 }

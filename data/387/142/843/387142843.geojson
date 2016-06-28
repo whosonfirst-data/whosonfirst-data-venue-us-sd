@@ -2,13 +2,14 @@
   "id": 387142843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.441689,44.522814,-99.441689,44.522814",
     "geom:latitude":44.522814,
     "geom:longitude":-99.441689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Iowa Ave N",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387142843,
-    "wof:lastmodified":1449059151,
+    "wof:lastmodified":1467082748,
     "wof:name":"KUT Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.441689,44.522814,-99.441689,44.522814],
+  "bbox": [
+    -99.441689,
+    44.522814,
+    -99.441689,
+    44.522814
+],
   "geometry": {"coordinates":[-99.441689,44.522814],"type":"Point"}
 }

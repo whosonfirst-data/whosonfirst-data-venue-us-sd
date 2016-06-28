@@ -2,13 +2,14 @@
   "id": 387259267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.997202,44.340514,-96.997202,44.340514",
     "geom:latitude":44.340514,
     "geom:longitude":-96.997202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46062 210th St",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387259267,
-    "wof:lastmodified":1449056977,
+    "wof:lastmodified":1467082704,
     "wof:name":"Ferguson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "co"
     ]
 },
-  "bbox": [-96.997202,44.340514,-96.997202,44.340514],
+  "bbox": [
+    -96.997202,
+    44.340514,
+    -96.997202,
+    44.340514
+],
   "geometry": {"coordinates":[-96.997202,44.340514],"type":"Point"}
 }

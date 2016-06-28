@@ -2,13 +2,14 @@
   "id": 387381151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.597795,44.043536,-96.597795,44.043536",
     "geom:latitude":44.043536,
     "geom:longitude":-96.597795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Center St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387381151,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1467082693,
     "wof:name":"Flandreau Santee Sioux Tribe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-96.597795,44.043536,-96.597795,44.043536],
+  "bbox": [
+    -96.597795,
+    44.043536,
+    -96.597795,
+    44.043536
+],
   "geometry": {"coordinates":[-96.597795,44.043536],"type":"Point"}
 }

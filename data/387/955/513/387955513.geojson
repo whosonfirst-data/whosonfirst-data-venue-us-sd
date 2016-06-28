@@ -2,13 +2,14 @@
   "id": 387955513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.988213,45.391391,-99.988213,45.391391",
     "geom:latitude":45.391391,
     "geom:longitude":-99.988213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30940 138th St",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387955513,
-    "wof:lastmodified":1449058751,
+    "wof:lastmodified":1467082740,
     "wof:name":"Raymond Ruzsa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.988213,45.391391,-99.988213,45.391391],
+  "bbox": [
+    -99.988213,
+    45.391391,
+    -99.988213,
+    45.391391
+],
   "geometry": {"coordinates":[-99.988213,45.391391],"type":"Point"}
 }

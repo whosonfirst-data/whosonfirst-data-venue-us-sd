@@ -2,13 +2,14 @@
   "id": 371119911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.10245,44.675545,-98.10245,44.675545",
     "geom:latitude":44.675545,
     "geom:longitude":-98.10245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40582 187th St",
     "sg:city":"Carpenter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371119911,
-    "wof:lastmodified":1449049799,
+    "wof:lastmodified":1467082669,
     "wof:name":"R T Tschetter Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grain"
     ]
 },
-  "bbox": [-98.10245,44.675545,-98.10245,44.675545],
+  "bbox": [
+    -98.10245,
+    44.675545,
+    -98.10245,
+    44.675545
+],
   "geometry": {"coordinates":[-98.10245,44.675545],"type":"Point"}
 }

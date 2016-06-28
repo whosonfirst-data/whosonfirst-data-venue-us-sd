@@ -2,13 +2,14 @@
   "id": 387355381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.021202,44.398274,-98.021202,44.398274",
     "geom:latitude":44.398274,
     "geom:longitude":-98.021202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40956 206th St",
     "sg:city":"Cavour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387355381,
-    "wof:lastmodified":1449057159,
+    "wof:lastmodified":1467082707,
     "wof:name":"Gary French Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.021202,44.398274,-98.021202,44.398274],
+  "bbox": [
+    -98.021202,
+    44.398274,
+    -98.021202,
+    44.398274
+],
   "geometry": {"coordinates":[-98.021202,44.398274],"type":"Point"}
 }

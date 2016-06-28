@@ -2,13 +2,14 @@
   "id": 386942757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798552,44.303108,-96.798552,44.303108",
     "geom:latitude":44.303108,
     "geom:longitude":-96.798552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386942757,
-    "wof:lastmodified":1449028766,
+    "wof:lastmodified":1467082652,
     "wof:name":"Benjamin L Gates DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.798552,44.303108,-96.798552,44.303108],
+  "bbox": [
+    -96.798552,
+    44.303108,
+    -96.798552,
+    44.303108
+],
   "geometry": {"coordinates":[-96.798552,44.303108],"type":"Point"}
 }

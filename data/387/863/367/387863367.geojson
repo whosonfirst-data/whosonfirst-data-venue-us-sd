@@ -2,13 +2,14 @@
   "id": 387863367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758202,43.645354,-96.758202,43.645354",
     "geom:latitude":43.645354,
     "geom:longitude":-96.758202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47272 258th St",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387863367,
-    "wof:lastmodified":1449058739,
+    "wof:lastmodified":1467082739,
     "wof:name":"Eaton Trucking",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.758202,43.645354,-96.758202,43.645354],
+  "bbox": [
+    -96.758202,
+    43.645354,
+    -96.758202,
+    43.645354
+],
   "geometry": {"coordinates":[-96.758202,43.645354],"type":"Point"}
 }

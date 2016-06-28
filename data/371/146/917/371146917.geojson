@@ -2,13 +2,14 @@
   "id": 371146917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469125,43.833614,-97.469125,43.833614",
     "geom:latitude":43.833614,
     "geom:longitude":-97.469125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24478 437th Ave",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371146917,
-    "wof:lastmodified":1449049458,
+    "wof:lastmodified":1467082664,
     "wof:name":"Robert Wobig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-97.469125,43.833614,-97.469125,43.833614],
-  "geometry": {"coordinates":[-97.469125,43.833614],"type":"Point"}
+  "bbox": [
+    -97.469125,
+    43.833614,
+    -97.469125,
+    43.833614
+],
+  "geometry": {"coordinates":[-97.46912500000001,43.833614],"type":"Point"}
 }

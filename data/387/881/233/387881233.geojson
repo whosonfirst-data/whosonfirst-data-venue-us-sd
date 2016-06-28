@@ -2,13 +2,14 @@
   "id": 387881233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773228,43.505254,-96.773228,43.505254",
     "geom:latitude":43.505254,
     "geom:longitude":-96.773228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 W Technology Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387881233,
-    "wof:lastmodified":1449058312,
+    "wof:lastmodified":1467082731,
     "wof:name":"H I C A Holding Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-96.773228,43.505254,-96.773228,43.505254],
+  "bbox": [
+    -96.773228,
+    43.505254,
+    -96.773228,
+    43.505254
+],
   "geometry": {"coordinates":[-96.773228,43.505254],"type":"Point"}
 }

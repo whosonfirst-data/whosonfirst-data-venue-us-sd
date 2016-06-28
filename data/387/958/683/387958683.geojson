@@ -2,13 +2,14 @@
   "id": 387958683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675176,43.510355,-96.675176,43.510355",
     "geom:latitude":43.510355,
     "geom:longitude":-96.675176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 S Florence Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387958683,
-    "wof:lastmodified":1449059072,
+    "wof:lastmodified":1467082746,
     "wof:name":"Assured Home Inspections Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.675176,43.510355,-96.675176,43.510355],
-  "geometry": {"coordinates":[-96.675176,43.510355],"type":"Point"}
+  "bbox": [
+    -96.675176,
+    43.510355,
+    -96.675176,
+    43.510355
+],
+  "geometry": {"coordinates":[-96.67517599999999,43.510355],"type":"Point"}
 }

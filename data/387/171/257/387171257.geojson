@@ -2,13 +2,14 @@
   "id": 387171257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.000134,45.732441,-98.000134,45.732441",
     "geom:latitude":45.732441,
     "geom:longitude":-98.000134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11409 411th Ave",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387171257,
-    "wof:lastmodified":1449059933,
+    "wof:lastmodified":1467082763,
     "wof:name":"Traxinger Simmentals",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.000134,45.732441,-98.000134,45.732441],
+  "bbox": [
+    -98.000134,
+    45.732441,
+    -98.000134,
+    45.732441
+],
   "geometry": {"coordinates":[-98.000134,45.732441],"type":"Point"}
 }

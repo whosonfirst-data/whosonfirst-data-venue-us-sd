@@ -2,13 +2,14 @@
   "id": 387554343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711253,43.526646,-96.711253,43.526646",
     "geom:latitude":43.526646,
     "geom:longitude":-96.711253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387554343,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1467082702,
     "wof:name":"Woodlawn Cemetery",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "association"
     ]
 },
-  "bbox": [-96.711253,43.526646,-96.711253,43.526646],
+  "bbox": [
+    -96.711253,
+    43.526646,
+    -96.711253,
+    43.526646
+],
   "geometry": {"coordinates":[-96.711253,43.526646],"type":"Point"}
 }

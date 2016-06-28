@@ -2,13 +2,14 @@
   "id": 403739607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.285908,44.092129,-103.285908,44.092129",
     "geom:latitude":44.092129,
     "geom:longitude":-103.285908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403739607,
-    "wof:lastmodified":1449055188,
+    "wof:lastmodified":1467082679,
     "wof:name":"Meadowwood Lanes",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alley"
     ]
 },
-  "bbox": [-103.285908,44.092129,-103.285908,44.092129],
-  "geometry": {"coordinates":[-103.285908,44.092129],"type":"Point"}
+  "bbox": [
+    -103.285908,
+    44.092129,
+    -103.285908,
+    44.092129
+],
+  "geometry": {"coordinates":[-103.28590800000001,44.092129],"type":"Point"}
 }

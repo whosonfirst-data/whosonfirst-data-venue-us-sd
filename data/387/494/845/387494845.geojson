@@ -2,13 +2,14 @@
   "id": 387494845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.545264,43.267151,-98.545264,43.267151",
     "geom:latitude":43.267151,
     "geom:longitude":-98.545264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28428 382nd Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387494845,
-    "wof:lastmodified":1449059495,
+    "wof:lastmodified":1467082755,
     "wof:name":"James Bultje",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-98.545264,43.267151,-98.545264,43.267151],
+  "bbox": [
+    -98.545264,
+    43.267151,
+    -98.545264,
+    43.267151
+],
   "geometry": {"coordinates":[-98.545264,43.267151],"type":"Point"}
 }

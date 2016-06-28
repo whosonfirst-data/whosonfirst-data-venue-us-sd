@@ -2,13 +2,14 @@
   "id": 371089675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689002,43.540383,-96.689002,43.540383",
     "geom:latitude":43.540383,
     "geom:longitude":-96.689002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2810 E 15th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371089675,
-    "wof:lastmodified":1449049250,
+    "wof:lastmodified":1467082661,
     "wof:name":"De Vriend Office Maintenance",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-96.689002,43.540383,-96.689002,43.540383],
+  "bbox": [
+    -96.689002,
+    43.540383,
+    -96.689002,
+    43.540383
+],
   "geometry": {"coordinates":[-96.689002,43.540383],"type":"Point"}
 }

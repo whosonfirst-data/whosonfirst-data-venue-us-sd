@@ -2,13 +2,14 @@
   "id": 387927529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801807,44.26145,-96.801807,44.26145",
     "geom:latitude":44.26145,
     "geom:longitude":-96.801807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 38th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387927529,
-    "wof:lastmodified":1449059519,
+    "wof:lastmodified":1467082755,
     "wof:name":"Country Ceramic & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.801807,44.26145,-96.801807,44.26145],
+  "bbox": [
+    -96.801807,
+    44.26145,
+    -96.801807,
+    44.26145
+],
   "geometry": {"coordinates":[-96.801807,44.26145],"type":"Point"}
 }

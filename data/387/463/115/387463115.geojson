@@ -2,13 +2,14 @@
   "id": 387463115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.367827,44.218285,-102.367827,44.218285",
     "geom:latitude":44.218285,
     "geom:longitude":-102.367827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22025 Trask Rd",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387463115,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1467082740,
     "wof:name":"Cow Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.367827,44.218285,-102.367827,44.218285],
-  "geometry": {"coordinates":[-102.367827,44.218285],"type":"Point"}
+  "bbox": [
+    -102.367827,
+    44.218285,
+    -102.367827,
+    44.218285
+],
+  "geometry": {"coordinates":[-102.36782700000001,44.218285],"type":"Point"}
 }

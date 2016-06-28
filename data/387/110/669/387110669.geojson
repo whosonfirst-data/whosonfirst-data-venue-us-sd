@@ -2,13 +2,14 @@
   "id": 387110669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.062082,45.798946,-98.062082,45.798946",
     "geom:latitude":45.798946,
     "geom:longitude":-98.062082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10949 408th Ave",
     "sg:city":"Hecla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387110669,
-    "wof:lastmodified":1449057344,
+    "wof:lastmodified":1467082711,
     "wof:name":"Donald Dinger",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-98.062082,45.798946,-98.062082,45.798946],
+  "bbox": [
+    -98.062082,
+    45.798946,
+    -98.062082,
+    45.798946
+],
   "geometry": {"coordinates":[-98.062082,45.798946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387057275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.156075,45.941917,-102.156075,45.941917",
     "geom:latitude":45.941917,
     "geom:longitude":-102.156075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 2nd Ave E",
     "sg:city":"Mc Laughlin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387057275,
-    "wof:lastmodified":1449057988,
+    "wof:lastmodified":1467082725,
     "wof:name":"Child Protection Svc Oniyapi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-102.156075,45.941917,-102.156075,45.941917],
+  "bbox": [
+    -102.156075,
+    45.941917,
+    -102.156075,
+    45.941917
+],
   "geometry": {"coordinates":[-102.156075,45.941917],"type":"Point"}
 }

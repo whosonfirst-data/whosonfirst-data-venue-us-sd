@@ -2,13 +2,14 @@
   "id": 371190271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112572,44.900107,-97.112572,44.900107",
     "geom:latitude":44.900107,
     "geom:longitude":-97.112572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371190271,
-    "wof:lastmodified":1449050087,
+    "wof:lastmodified":1467082673,
     "wof:name":"Details By Starla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.112572,44.900107,-97.112572,44.900107],
+  "bbox": [
+    -97.112572,
+    44.900107,
+    -97.112572,
+    44.900107
+],
   "geometry": {"coordinates":[-97.112572,44.900107],"type":"Point"}
 }

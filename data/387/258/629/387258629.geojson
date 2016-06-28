@@ -2,13 +2,14 @@
   "id": 387258629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518261,45.340987,-97.518261,45.340987",
     "geom:latitude":45.340987,
     "geom:longitude":-97.518261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387258629,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1467082747,
     "wof:name":"Webster Municipal Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.518261,45.340987,-97.518261,45.340987],
+  "bbox": [
+    -97.518261,
+    45.340987,
+    -97.518261,
+    45.340987
+],
   "geometry": {"coordinates":[-97.518261,45.340987],"type":"Point"}
 }

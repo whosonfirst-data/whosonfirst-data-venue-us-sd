@@ -2,13 +2,14 @@
   "id": 371013049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492015,45.459135,-98.492015,45.459135",
     "geom:latitude":45.459135,
     "geom:longitude":-98.492015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371013049,
-    "wof:lastmodified":1449049764,
+    "wof:lastmodified":1467082668,
     "wof:name":"Mac's Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.492015,45.459135,-98.492015,45.459135],
-  "geometry": {"coordinates":[-98.492015,45.459135],"type":"Point"}
+  "bbox": [
+    -98.492015,
+    45.459135,
+    -98.492015,
+    45.459135
+],
+  "geometry": {"coordinates":[-98.49201499999999,45.459135],"type":"Point"}
 }

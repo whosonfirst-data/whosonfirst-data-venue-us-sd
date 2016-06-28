@@ -2,13 +2,14 @@
   "id": 387636473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.42655,42.894441,-97.42655,42.894441",
     "geom:latitude":42.894441,
     "geom:longitude":-97.42655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 W 23rd St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387636473,
-    "wof:lastmodified":1449057618,
+    "wof:lastmodified":1467082717,
     "wof:name":"Comnetone LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.42655,42.894441,-97.42655,42.894441],
-  "geometry": {"coordinates":[-97.42655,42.894441],"type":"Point"}
+  "bbox": [
+    -97.42655,
+    42.894441,
+    -97.42655,
+    42.894441
+],
+  "geometry": {"coordinates":[-97.42655000000001,42.894441],"type":"Point"}
 }

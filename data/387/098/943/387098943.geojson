@@ -2,13 +2,14 @@
   "id": 387098943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.494882,43.612746,-98.494882,43.612746",
     "geom:latitude":43.612746,
     "geom:longitude":-98.494882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26011 385th Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387098943,
-    "wof:lastmodified":1449059512,
+    "wof:lastmodified":1467082755,
     "wof:name":"Marvin Vangenderen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-98.494882,43.612746,-98.494882,43.612746],
+  "bbox": [
+    -98.494882,
+    43.612746,
+    -98.494882,
+    43.612746
+],
   "geometry": {"coordinates":[-98.494882,43.612746],"type":"Point"}
 }

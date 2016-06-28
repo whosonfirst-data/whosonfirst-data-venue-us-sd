@@ -2,13 +2,14 @@
   "id": 371081883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.354939,44.365486,-100.354939,44.365486",
     "geom:latitude":44.365486,
     "geom:longitude":-100.354939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Dakota Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371081883,
-    "wof:lastmodified":1449049335,
+    "wof:lastmodified":1467082662,
     "wof:name":"A A A Locksmith Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.354939,44.365486,-100.354939,44.365486],
+  "bbox": [
+    -100.354939,
+    44.365486,
+    -100.354939,
+    44.365486
+],
   "geometry": {"coordinates":[-100.354939,44.365486],"type":"Point"}
 }

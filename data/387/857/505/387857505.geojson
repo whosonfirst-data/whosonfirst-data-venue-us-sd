@@ -2,13 +2,14 @@
   "id": 387857505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.320304,44.150736,-103.320304,44.150736",
     "geom:latitude":44.150736,
     "geom:longitude":-103.320304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 W Elm Street Ct",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387857505,
-    "wof:lastmodified":1449058580,
+    "wof:lastmodified":1467082736,
     "wof:name":"Cameron's Pump & Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-103.320304,44.150736,-103.320304,44.150736],
-  "geometry": {"coordinates":[-103.320304,44.150736],"type":"Point"}
+  "bbox": [
+    -103.320304,
+    44.150736,
+    -103.320304,
+    44.150736
+],
+  "geometry": {"coordinates":[-103.32030399999999,44.150736],"type":"Point"}
 }

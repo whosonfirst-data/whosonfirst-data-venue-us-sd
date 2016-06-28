@@ -2,13 +2,14 @@
   "id": 387828815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.911264,43.417687,-96.911264,43.417687",
     "geom:latitude":43.417687,
     "geom:longitude":-96.911264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46472 274th St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387828815,
-    "wof:lastmodified":1449058035,
+    "wof:lastmodified":1467082726,
     "wof:name":"Lynn Kroeger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.911264,43.417687,-96.911264,43.417687],
+  "bbox": [
+    -96.911264,
+    43.417687,
+    -96.911264,
+    43.417687
+],
   "geometry": {"coordinates":[-96.911264,43.417687],"type":"Point"}
 }

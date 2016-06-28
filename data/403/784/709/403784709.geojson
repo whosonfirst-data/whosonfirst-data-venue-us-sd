@@ -2,13 +2,14 @@
   "id": 403784709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118253,44.890179,-97.118253,44.890179",
     "geom:latitude":44.890179,
     "geom:longitude":-97.118253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403784709,
-    "wof:lastmodified":1449055502,
+    "wof:lastmodified":1467082681,
     "wof:name":"Money Lenders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-97.118253,44.890179,-97.118253,44.890179],
+  "bbox": [
+    -97.118253,
+    44.890179,
+    -97.118253,
+    44.890179
+],
   "geometry": {"coordinates":[-97.118253,44.890179],"type":"Point"}
 }

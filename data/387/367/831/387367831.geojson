@@ -2,13 +2,14 @@
   "id": 387367831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219549,44.080005,-103.219549,44.080005",
     "geom:latitude":44.080005,
     "geom:longitude":-103.219549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 2nd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387367831,
-    "wof:lastmodified":1449058357,
+    "wof:lastmodified":1467082732,
     "wof:name":"Whispering Thunder",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-103.219549,44.080005,-103.219549,44.080005],
+  "bbox": [
+    -103.219549,
+    44.080005,
+    -103.219549,
+    44.080005
+],
   "geometry": {"coordinates":[-103.219549,44.080005],"type":"Point"}
 }

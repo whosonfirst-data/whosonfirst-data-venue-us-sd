@@ -2,13 +2,14 @@
   "id": 387776453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232324,44.070665,-103.232324,44.070665",
     "geom:latitude":44.070665,
     "geom:longitude":-103.232324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387776453,
-    "wof:lastmodified":1449056930,
+    "wof:lastmodified":1467082703,
     "wof:name":"RJ Concepts Incorporated",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "research"
     ]
 },
-  "bbox": [-103.232324,44.070665,-103.232324,44.070665],
-  "geometry": {"coordinates":[-103.232324,44.070665],"type":"Point"}
+  "bbox": [
+    -103.232324,
+    44.070665,
+    -103.232324,
+    44.070665
+],
+  "geometry": {"coordinates":[-103.23232400000001,44.070665],"type":"Point"}
 }

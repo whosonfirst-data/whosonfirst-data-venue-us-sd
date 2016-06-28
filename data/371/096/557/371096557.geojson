@@ -2,13 +2,14 @@
   "id": 371096557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.426484,45.537486,-100.426484,45.537486",
     "geom:latitude":45.537486,
     "geom:longitude":-100.426484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371096557,
-    "wof:lastmodified":1449049343,
+    "wof:lastmodified":1467082662,
     "wof:name":"Harry Banik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.426484,45.537486,-100.426484,45.537486],
+  "bbox": [
+    -100.426484,
+    45.537486,
+    -100.426484,
+    45.537486
+],
   "geometry": {"coordinates":[-100.426484,45.537486],"type":"Point"}
 }

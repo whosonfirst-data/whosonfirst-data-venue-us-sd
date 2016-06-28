@@ -2,13 +2,14 @@
   "id": 387561947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.974182,43.329922,-96.974182,43.329922",
     "geom:latitude":43.329922,
     "geom:longitude":-96.974182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46152 280th St",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387561947,
-    "wof:lastmodified":1449058808,
+    "wof:lastmodified":1467082741,
     "wof:name":"Winterboer Orval",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.974182,43.329922,-96.974182,43.329922],
+  "bbox": [
+    -96.974182,
+    43.329922,
+    -96.974182,
+    43.329922
+],
   "geometry": {"coordinates":[-96.974182,43.329922],"type":"Point"}
 }

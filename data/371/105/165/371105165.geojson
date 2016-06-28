@@ -2,13 +2,14 @@
   "id": 371105165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.137084,44.894735,-97.137084,44.894735",
     "geom:latitude":44.894735,
     "geom:longitude":-97.137084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Oakwood Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371105165,
-    "wof:lastmodified":1449049420,
+    "wof:lastmodified":1467082663,
     "wof:name":"Miracle Span Steel Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "prefabricated"
     ]
 },
-  "bbox": [-97.137084,44.894735,-97.137084,44.894735],
+  "bbox": [
+    -97.137084,
+    44.894735,
+    -97.137084,
+    44.894735
+],
   "geometry": {"coordinates":[-97.137084,44.894735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387720725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711382,43.608263,-96.711382,43.608263",
     "geom:latitude":43.608263,
     "geom:longitude":-96.711382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387720725,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467082705,
     "wof:name":"Peterson Vance Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.711382,43.608263,-96.711382,43.608263],
+  "bbox": [
+    -96.711382,
+    43.608263,
+    -96.711382,
+    43.608263
+],
   "geometry": {"coordinates":[-96.711382,43.608263],"type":"Point"}
 }

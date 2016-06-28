@@ -2,13 +2,14 @@
   "id": 371056335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.290762,43.183491,-99.290762,43.183491",
     "geom:latitude":43.183491,
     "geom:longitude":-99.290762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Washington St",
     "sg:city":"Burke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371056335,
-    "wof:lastmodified":1449049297,
+    "wof:lastmodified":1467082662,
     "wof:name":"Ambulance Service Of Burke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-99.290762,43.183491,-99.290762,43.183491],
+  "bbox": [
+    -99.290762,
+    43.183491,
+    -99.290762,
+    43.183491
+],
   "geometry": {"coordinates":[-99.290762,43.183491],"type":"Point"}
 }

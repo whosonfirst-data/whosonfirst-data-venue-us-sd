@@ -2,13 +2,14 @@
   "id": 387505187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.524025,44.415845,-103.524025,44.415845",
     "geom:latitude":44.415845,
     "geom:longitude":-103.524025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387505187,
-    "wof:lastmodified":1449059299,
+    "wof:lastmodified":1467082751,
     "wof:name":"Last Ride Saloon LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-103.524025,44.415845,-103.524025,44.415845],
-  "geometry": {"coordinates":[-103.524025,44.415845],"type":"Point"}
+  "bbox": [
+    -103.524025,
+    44.415845,
+    -103.524025,
+    44.415845
+],
+  "geometry": {"coordinates":[-103.52402499999999,44.415845],"type":"Point"}
 }

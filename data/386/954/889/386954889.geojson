@@ -2,13 +2,14 @@
   "id": 386954889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482076,45.463064,-98.482076,45.463064",
     "geom:latitude":45.463064,
     "geom:longitude":-98.482076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Kline St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386954889,
-    "wof:lastmodified":1449028919,
+    "wof:lastmodified":1467082654,
     "wof:name":"Benedictine Sisters",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convent"
     ]
 },
-  "bbox": [-98.482076,45.463064,-98.482076,45.463064],
-  "geometry": {"coordinates":[-98.482076,45.463064],"type":"Point"}
+  "bbox": [
+    -98.482076,
+    45.463064,
+    -98.482076,
+    45.463064
+],
+  "geometry": {"coordinates":[-98.48207600000001,45.463064],"type":"Point"}
 }

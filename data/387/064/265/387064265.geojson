@@ -2,13 +2,14 @@
   "id": 387064265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.990625,44.530072,-98.990625,44.530072",
     "geom:latitude":44.530072,
     "geom:longitude":-98.990625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 14th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387064265,
-    "wof:lastmodified":1449057438,
+    "wof:lastmodified":1467082713,
     "wof:name":"Dew Drop Inn Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.990625,44.530072,-98.990625,44.530072],
-  "geometry": {"coordinates":[-98.990625,44.530072],"type":"Point"}
+  "bbox": [
+    -98.990625,
+    44.530072,
+    -98.990625,
+    44.530072
+],
+  "geometry": {"coordinates":[-98.99062499999999,44.530072],"type":"Point"}
 }

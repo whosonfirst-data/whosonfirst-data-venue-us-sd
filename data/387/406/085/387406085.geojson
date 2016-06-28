@@ -2,13 +2,14 @@
   "id": 387406085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726718,43.54509,-96.726718,43.54509",
     "geom:latitude":43.54509,
     "geom:longitude":-96.726718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387406085,
-    "wof:lastmodified":1449058148,
+    "wof:lastmodified":1467082728,
     "wof:name":"US Alcohol Tobacco & Firearms",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.726718,43.54509,-96.726718,43.54509],
-  "geometry": {"coordinates":[-96.726718,43.54509],"type":"Point"}
+  "bbox": [
+    -96.726718,
+    43.54509,
+    -96.726718,
+    43.54509
+],
+  "geometry": {"coordinates":[-96.72671800000001,43.54509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387433641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.466496,45.525893,-102.466496,45.525893",
     "geom:latitude":45.525893,
     "geom:longitude":-102.466496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 1st Ave W",
     "sg:city":"Bison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387433641,
-    "wof:lastmodified":1449056550,
+    "wof:lastmodified":1467082695,
     "wof:name":"Badlands Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-102.466496,45.525893,-102.466496,45.525893],
-  "geometry": {"coordinates":[-102.466496,45.525893],"type":"Point"}
+  "bbox": [
+    -102.466496,
+    45.525893,
+    -102.466496,
+    45.525893
+],
+  "geometry": {"coordinates":[-102.46649600000001,45.525893],"type":"Point"}
 }

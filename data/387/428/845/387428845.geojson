@@ -2,13 +2,14 @@
   "id": 387428845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811416,43.461003,-96.811416,43.461003",
     "geom:latitude":43.461003,
     "geom:longitude":-96.811416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46974 271st St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387428845,
-    "wof:lastmodified":1449059658,
+    "wof:lastmodified":1467082758,
     "wof:name":"First Quality Lawn Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.811416,43.461003,-96.811416,43.461003],
-  "geometry": {"coordinates":[-96.811416,43.461003],"type":"Point"}
+  "bbox": [
+    -96.811416,
+    43.461003,
+    -96.811416,
+    43.461003
+],
+  "geometry": {"coordinates":[-96.81141599999999,43.461003],"type":"Point"}
 }

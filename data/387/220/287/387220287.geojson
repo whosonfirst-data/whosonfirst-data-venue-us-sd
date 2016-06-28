@@ -2,13 +2,14 @@
   "id": 387220287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0738,43.64438,-97.0738,43.64438",
     "geom:latitude":43.64438,
     "geom:longitude":-97.0738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Main St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387220287,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1467082760,
     "wof:name":"Beckers Bright Beginnings",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.0738,43.64438,-97.0738,43.64438],
-  "geometry": {"coordinates":[-97.0738,43.64438],"type":"Point"}
+  "bbox": [
+    -97.0738,
+    43.64438,
+    -97.0738,
+    43.64438
+],
+  "geometry": {"coordinates":[-97.07380000000001,43.64438],"type":"Point"}
 }

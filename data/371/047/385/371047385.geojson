@@ -2,13 +2,14 @@
   "id": 371047385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.438948,43.198177,-97.438948,43.198177",
     "geom:latitude":43.198177,
     "geom:longitude":-97.438948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28848 438th Ave",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371047385,
-    "wof:lastmodified":1449049733,
+    "wof:lastmodified":1467082668,
     "wof:name":"Ray Buechler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.438948,43.198177,-97.438948,43.198177],
+  "bbox": [
+    -97.438948,
+    43.198177,
+    -97.438948,
+    43.198177
+],
   "geometry": {"coordinates":[-97.438948,43.198177],"type":"Point"}
 }

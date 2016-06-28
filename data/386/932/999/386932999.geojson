@@ -2,13 +2,14 @@
   "id": 386932999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219249,44.079881,-103.219249,44.079881",
     "geom:latitude":44.079881,
     "geom:longitude":-103.219249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386932999,
-    "wof:lastmodified":1449028744,
+    "wof:lastmodified":1467082651,
     "wof:name":"Unique Signs Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-103.219249,44.079881,-103.219249,44.079881],
+  "bbox": [
+    -103.219249,
+    44.079881,
+    -103.219249,
+    44.079881
+],
   "geometry": {"coordinates":[-103.219249,44.079881],"type":"Point"}
 }

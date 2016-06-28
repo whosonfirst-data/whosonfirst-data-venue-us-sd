@@ -2,13 +2,14 @@
   "id": 387398733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796842,44.305741,-96.796842,44.305741",
     "geom:latitude":44.305741,
     "geom:longitude":-96.796842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 1st St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387398733,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1467082693,
     "wof:name":"Brookings Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.796842,44.305741,-96.796842,44.305741],
+  "bbox": [
+    -96.796842,
+    44.305741,
+    -96.796842,
+    44.305741
+],
   "geometry": {"coordinates":[-96.796842,44.305741],"type":"Point"}
 }

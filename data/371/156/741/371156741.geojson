@@ -2,13 +2,14 @@
   "id": 371156741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.434502,43.444123,-97.434502,43.444123",
     "geom:latitude":43.444123,
     "geom:longitude":-97.434502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43856 272nd St",
     "sg:city":"Bridgewater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371156741,
-    "wof:lastmodified":1449049244,
+    "wof:lastmodified":1467082661,
     "wof:name":"Hofer Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.434502,43.444123,-97.434502,43.444123],
-  "geometry": {"coordinates":[-97.434502,43.444123],"type":"Point"}
+  "bbox": [
+    -97.434502,
+    43.444123,
+    -97.434502,
+    43.444123
+],
+  "geometry": {"coordinates":[-97.43450199999999,43.444123],"type":"Point"}
 }

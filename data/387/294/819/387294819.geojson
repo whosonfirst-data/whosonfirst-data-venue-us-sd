@@ -2,13 +2,14 @@
   "id": 387294819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.324432,44.157268,-103.324432,44.157268",
     "geom:latitude":44.157268,
     "geom:longitude":-103.324432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 Fairway Dr",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387294819,
-    "wof:lastmodified":1449058818,
+    "wof:lastmodified":1467082741,
     "wof:name":"Impressions Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.324432,44.157268,-103.324432,44.157268],
+  "bbox": [
+    -103.324432,
+    44.157268,
+    -103.324432,
+    44.157268
+],
   "geometry": {"coordinates":[-103.324432,44.157268],"type":"Point"}
 }

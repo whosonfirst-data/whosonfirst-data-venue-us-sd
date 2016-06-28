@@ -2,13 +2,14 @@
   "id": 387090541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.983117,43.393696,-97.983117,43.393696",
     "geom:latitude":43.393696,
     "geom:longitude":-97.983117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Railroad St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387090541,
-    "wof:lastmodified":1449059141,
+    "wof:lastmodified":1467082748,
     "wof:name":"Bormann Brothers Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pointing"
     ]
 },
-  "bbox": [-97.983117,43.393696,-97.983117,43.393696],
-  "geometry": {"coordinates":[-97.983117,43.393696],"type":"Point"}
+  "bbox": [
+    -97.983117,
+    43.393696,
+    -97.983117,
+    43.393696
+],
+  "geometry": {"coordinates":[-97.98311699999999,43.393696],"type":"Point"}
 }

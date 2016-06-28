@@ -2,13 +2,14 @@
   "id": 403771667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.187773,44.365041,-98.187773,44.365041",
     "geom:latitude":44.365041,
     "geom:longitude":-98.187773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Aberdeen Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403771667,
-    "wof:lastmodified":1449055352,
+    "wof:lastmodified":1467082680,
     "wof:name":"North Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.187773,44.365041,-98.187773,44.365041],
-  "geometry": {"coordinates":[-98.187773,44.365041],"type":"Point"}
+  "bbox": [
+    -98.187773,
+    44.365041,
+    -98.187773,
+    44.365041
+],
+  "geometry": {"coordinates":[-98.18777300000001,44.365041],"type":"Point"}
 }

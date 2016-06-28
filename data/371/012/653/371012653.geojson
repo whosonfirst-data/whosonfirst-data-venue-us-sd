@@ -2,13 +2,14 @@
   "id": 371012653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.78414,43.50299,-96.78414,43.50299",
     "geom:latitude":43.50299,
     "geom:longitude":-96.78414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 W Custer Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371012653,
-    "wof:lastmodified":1449050028,
+    "wof:lastmodified":1467082672,
     "wof:name":"J Dupic Event Designs",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [-96.78414,43.50299,-96.78414,43.50299],
-  "geometry": {"coordinates":[-96.78414,43.50299],"type":"Point"}
+  "bbox": [
+    -96.78414,
+    43.50299,
+    -96.78414,
+    43.50299
+],
+  "geometry": {"coordinates":[-96.78413999999999,43.50299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371133703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198125,44.081498,-103.198125,44.081498",
     "geom:latitude":44.081498,
     "geom:longitude":-103.198125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 E Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":371133703,
-    "wof:lastmodified":1449049928,
+    "wof:lastmodified":1467082670,
     "wof:name":"Sysco Foods Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.198125,44.081498,-103.198125,44.081498],
+  "bbox": [
+    -103.198125,
+    44.081498,
+    -103.198125,
+    44.081498
+],
   "geometry": {"coordinates":[-103.198125,44.081498],"type":"Point"}
 }

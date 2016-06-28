@@ -2,13 +2,14 @@
   "id": 371085749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.830669,43.543468,-96.830669,43.543468",
     "geom:latitude":43.543468,
     "geom:longitude":-96.830669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S Ellis Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371085749,
-    "wof:lastmodified":1449049286,
+    "wof:lastmodified":1467082661,
     "wof:name":"Genesis Autoworks",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-96.830669,43.543468,-96.830669,43.543468],
+  "bbox": [
+    -96.830669,
+    43.543468,
+    -96.830669,
+    43.543468
+],
   "geometry": {"coordinates":[-96.830669,43.543468],"type":"Point"}
 }

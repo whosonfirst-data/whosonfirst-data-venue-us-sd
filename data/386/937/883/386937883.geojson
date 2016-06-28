@@ -2,13 +2,14 @@
   "id": 386937883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.477652,45.482602,-98.477652,45.482602",
     "geom:latitude":45.482602,
     "geom:longitude":-98.477652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 17th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386937883,
-    "wof:lastmodified":1449028678,
+    "wof:lastmodified":1467082650,
     "wof:name":"Craig Stein Horseshoeing",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blacksmith"
     ]
 },
-  "bbox": [-98.477652,45.482602,-98.477652,45.482602],
-  "geometry": {"coordinates":[-98.477652,45.482602],"type":"Point"}
+  "bbox": [
+    -98.477652,
+    45.482602,
+    -98.477652,
+    45.482602
+],
+  "geometry": {"coordinates":[-98.47765200000001,45.482602],"type":"Point"}
 }

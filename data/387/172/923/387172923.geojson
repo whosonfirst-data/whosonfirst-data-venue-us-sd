@@ -2,13 +2,14 @@
   "id": 387172923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.498391,45.326104,-98.498391,45.326104",
     "geom:latitude":45.326104,
     "geom:longitude":-98.498391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 2nd Ave NW",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387172923,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1467082717,
     "wof:name":"Casino Bowling Alley",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-98.498391,45.326104,-98.498391,45.326104],
+  "bbox": [
+    -98.498391,
+    45.326104,
+    -98.498391,
+    45.326104
+],
   "geometry": {"coordinates":[-98.498391,45.326104],"type":"Point"}
 }

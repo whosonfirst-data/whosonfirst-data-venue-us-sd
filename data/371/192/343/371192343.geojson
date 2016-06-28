@@ -2,13 +2,14 @@
   "id": 371192343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.3938,44.064338,-103.3938,44.064338",
     "geom:latitude":44.064338,
     "geom:longitude":-103.3938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10090 Pioneer Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371192343,
-    "wof:lastmodified":1449049795,
+    "wof:lastmodified":1467082669,
     "wof:name":"Tucker & Tucker",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.3938,44.064338,-103.3938,44.064338],
+  "bbox": [
+    -103.3938,
+    44.064338,
+    -103.3938,
+    44.064338
+],
   "geometry": {"coordinates":[-103.3938,44.064338],"type":"Point"}
 }

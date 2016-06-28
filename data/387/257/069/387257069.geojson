@@ -2,13 +2,14 @@
   "id": 387257069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701302,43.544869,-96.701302,43.544869",
     "geom:latitude":43.544869,
     "geom:longitude":-96.701302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Lewis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387257069,
-    "wof:lastmodified":1449057222,
+    "wof:lastmodified":1467082709,
     "wof:name":"Justice Fire & Safety",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-96.701302,43.544869,-96.701302,43.544869],
+  "bbox": [
+    -96.701302,
+    43.544869,
+    -96.701302,
+    43.544869
+],
   "geometry": {"coordinates":[-96.701302,43.544869],"type":"Point"}
 }

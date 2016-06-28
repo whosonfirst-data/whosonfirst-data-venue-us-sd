@@ -2,13 +2,14 @@
   "id": 387091123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489496,45.45163,-98.489496,45.45163",
     "geom:latitude":45.45163,
     "geom:longitude":-98.489496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S 1st St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387091123,
-    "wof:lastmodified":1449056487,
+    "wof:lastmodified":1467082694,
     "wof:name":"Htl Holdings LLC",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.489496,45.45163,-98.489496,45.45163],
+  "bbox": [
+    -98.489496,
+    45.45163,
+    -98.489496,
+    45.45163
+],
   "geometry": {"coordinates":[-98.489496,45.45163],"type":"Point"}
 }

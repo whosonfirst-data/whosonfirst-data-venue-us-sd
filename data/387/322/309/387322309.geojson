@@ -2,13 +2,14 @@
   "id": 387322309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751163,43.510699,-96.751163,43.510699",
     "geom:latitude":43.510699,
     "geom:longitude":-96.751163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387322309,
-    "wof:lastmodified":1449056072,
+    "wof:lastmodified":1467082686,
     "wof:name":"Inter-Tel Data Net",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-96.751163,43.510699,-96.751163,43.510699],
-  "geometry": {"coordinates":[-96.751163,43.510699],"type":"Point"}
+  "bbox": [
+    -96.751163,
+    43.510699,
+    -96.751163,
+    43.510699
+],
+  "geometry": {"coordinates":[-96.75116300000001,43.510699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371118457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74051,43.761237,-96.74051,43.761237",
     "geom:latitude":43.761237,
     "geom:longitude":-96.74051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Lovely Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371118457,
-    "wof:lastmodified":1449049899,
+    "wof:lastmodified":1467082670,
     "wof:name":"Baltic Lounge",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.74051,43.761237,-96.74051,43.761237],
+  "bbox": [
+    -96.74051,
+    43.761237,
+    -96.74051,
+    43.761237
+],
   "geometry": {"coordinates":[-96.74051,43.761237],"type":"Point"}
 }

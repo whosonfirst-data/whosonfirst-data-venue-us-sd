@@ -2,13 +2,14 @@
   "id": 386952555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098105,45.154062,-98.098105,45.154062",
     "geom:latitude":45.154062,
     "geom:longitude":-98.098105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Co Rd 6",
     "sg:city":"Conde",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386952555,
-    "wof:lastmodified":1449028857,
+    "wof:lastmodified":1467082653,
     "wof:name":"Harvey's Sinclair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-98.098105,45.154062,-98.098105,45.154062],
+  "bbox": [
+    -98.098105,
+    45.154062,
+    -98.098105,
+    45.154062
+],
   "geometry": {"coordinates":[-98.098105,45.154062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387410253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.808942,43.270466,-99.808942,43.270466",
     "geom:latitude":43.270466,
     "geom:longitude":-99.808942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31808 285th St",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387410253,
-    "wof:lastmodified":1449056171,
+    "wof:lastmodified":1467082688,
     "wof:name":"Farm Credit and Services Amer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.808942,43.270466,-99.808942,43.270466],
+  "bbox": [
+    -99.808942,
+    43.270466,
+    -99.808942,
+    43.270466
+],
   "geometry": {"coordinates":[-99.808942,43.270466],"type":"Point"}
 }

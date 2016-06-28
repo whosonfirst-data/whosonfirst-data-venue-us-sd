@@ -2,13 +2,14 @@
   "id": 387287243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129513,43.399626,-97.129513,43.399626",
     "geom:latitude":43.399626,
     "geom:longitude":-97.129513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 E 4th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387287243,
-    "wof:lastmodified":1449056343,
+    "wof:lastmodified":1467082691,
     "wof:name":"Public Health Nurse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "registry"
     ]
 },
-  "bbox": [-97.129513,43.399626,-97.129513,43.399626],
+  "bbox": [
+    -97.129513,
+    43.399626,
+    -97.129513,
+    43.399626
+],
   "geometry": {"coordinates":[-97.129513,43.399626],"type":"Point"}
 }

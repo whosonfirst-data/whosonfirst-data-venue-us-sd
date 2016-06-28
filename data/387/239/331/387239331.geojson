@@ -2,13 +2,14 @@
   "id": 387239331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627253,43.747197,-97.627253,43.747197",
     "geom:latitude":43.747197,
     "geom:longitude":-97.627253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25089 429th Ave",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387239331,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1467082694,
     "wof:name":"Kenneth Steichen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.627253,43.747197,-97.627253,43.747197],
+  "bbox": [
+    -97.627253,
+    43.747197,
+    -97.627253,
+    43.747197
+],
   "geometry": {"coordinates":[-97.627253,43.747197],"type":"Point"}
 }

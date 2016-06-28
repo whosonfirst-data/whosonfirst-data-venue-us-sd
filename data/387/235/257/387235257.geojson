@@ -2,13 +2,14 @@
   "id": 387235257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331085,44.293279,-97.331085,44.293279",
     "geom:latitude":44.293279,
     "geom:longitude":-97.331085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21332 444th Ave",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387235257,
-    "wof:lastmodified":1449056756,
+    "wof:lastmodified":1467082699,
     "wof:name":"Farm Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-97.331085,44.293279,-97.331085,44.293279],
+  "bbox": [
+    -97.331085,
+    44.293279,
+    -97.331085,
+    44.293279
+],
   "geometry": {"coordinates":[-97.331085,44.293279],"type":"Point"}
 }

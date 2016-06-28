@@ -2,13 +2,14 @@
   "id": 387609555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.866742,44.490669,-103.866742,44.490669",
     "geom:latitude":44.490669,
     "geom:longitude":-103.866742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 W Jackson Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387609555,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1467082715,
     "wof:name":"Motor Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-103.866742,44.490669,-103.866742,44.490669],
+  "bbox": [
+    -103.866742,
+    44.490669,
+    -103.866742,
+    44.490669
+],
   "geometry": {"coordinates":[-103.866742,44.490669],"type":"Point"}
 }

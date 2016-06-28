@@ -2,13 +2,14 @@
   "id": 387540359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.125277,43.997337,-97.125277,43.997337",
     "geom:latitude":43.997337,
     "geom:longitude":-97.125277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 7th St SW",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387540359,
-    "wof:lastmodified":1449057605,
+    "wof:lastmodified":1467082717,
     "wof:name":"May & Scofield Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-97.125277,43.997337,-97.125277,43.997337],
+  "bbox": [
+    -97.125277,
+    43.997337,
+    -97.125277,
+    43.997337
+],
   "geometry": {"coordinates":[-97.125277,43.997337],"type":"Point"}
 }

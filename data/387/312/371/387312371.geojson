@@ -2,13 +2,14 @@
   "id": 387312371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.816765,43.46642,-96.816765,43.46642",
     "geom:latitude":43.46642,
     "geom:longitude":-96.816765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27073 Kerslake Pl",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387312371,
-    "wof:lastmodified":1449058030,
+    "wof:lastmodified":1467082725,
     "wof:name":"Empire Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.816765,43.46642,-96.816765,43.46642],
+  "bbox": [
+    -96.816765,
+    43.46642,
+    -96.816765,
+    43.46642
+],
   "geometry": {"coordinates":[-96.816765,43.46642],"type":"Point"}
 }

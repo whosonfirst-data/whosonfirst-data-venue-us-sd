@@ -2,13 +2,14 @@
   "id": 403755739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.825366,43.359508,-99.825366,43.359508",
     "geom:latitude":43.359508,
     "geom:longitude":-99.825366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31731 US Hwy 18",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403755739,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1467082678,
     "wof:name":"Haley's Hiway Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-99.825366,43.359508,-99.825366,43.359508],
+  "bbox": [
+    -99.825366,
+    43.359508,
+    -99.825366,
+    43.359508
+],
   "geometry": {"coordinates":[-99.825366,43.359508],"type":"Point"}
 }

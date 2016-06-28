@@ -2,13 +2,14 @@
   "id": 403716939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694931,43.531217,-96.694931,43.531217",
     "geom:latitude":43.531217,
     "geom:longitude":-96.694931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403716939,
-    "wof:lastmodified":1449054814,
+    "wof:lastmodified":1467082676,
     "wof:name":"Marshall T Lavin DDS PC",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.694931,43.531217,-96.694931,43.531217],
+  "bbox": [
+    -96.694931,
+    43.531217,
+    -96.694931,
+    43.531217
+],
   "geometry": {"coordinates":[-96.694931,43.531217],"type":"Point"}
 }

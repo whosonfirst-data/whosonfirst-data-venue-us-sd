@@ -2,13 +2,14 @@
   "id": 387772763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.739844,44.878724,-97.739844,44.878724",
     "geom:latitude":44.878724,
     "geom:longitude":-97.739844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Utah St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387772763,
-    "wof:lastmodified":1449057812,
+    "wof:lastmodified":1467082721,
     "wof:name":"Lee Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.739844,44.878724,-97.739844,44.878724],
-  "geometry": {"coordinates":[-97.739844,44.878724],"type":"Point"}
+  "bbox": [
+    -97.739844,
+    44.878724,
+    -97.739844,
+    44.878724
+],
+  "geometry": {"coordinates":[-97.73984400000001,44.878724],"type":"Point"}
 }

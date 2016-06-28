@@ -2,13 +2,14 @@
   "id": 387561571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381969,42.902183,-97.381969,42.902183",
     "geom:latitude":42.902183,
     "geom:longitude":-97.381969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Regal Dr",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387561571,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1467082741,
     "wof:name":"Acacia Real Estate Holdings LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-97.381969,42.902183,-97.381969,42.902183],
+  "bbox": [
+    -97.381969,
+    42.902183,
+    -97.381969,
+    42.902183
+],
   "geometry": {"coordinates":[-97.381969,42.902183],"type":"Point"}
 }

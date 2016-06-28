@@ -2,13 +2,14 @@
   "id": 371092271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.26479,44.092597,-103.26479,44.092597",
     "geom:latitude":44.092597,
     "geom:longitude":-103.26479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Industrial Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371092271,
-    "wof:lastmodified":1449049904,
+    "wof:lastmodified":1467082670,
     "wof:name":"Ricer Co Trucking",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-103.26479,44.092597,-103.26479,44.092597],
+  "bbox": [
+    -103.26479,
+    44.092597,
+    -103.26479,
+    44.092597
+],
   "geometry": {"coordinates":[-103.26479,44.092597],"type":"Point"}
 }

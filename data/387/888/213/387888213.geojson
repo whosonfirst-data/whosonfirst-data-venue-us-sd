@@ -2,13 +2,14 @@
   "id": 387888213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.031812,43.691106,-98.031812,43.691106",
     "geom:latitude":43.691106,
     "geom:longitude":-98.031812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 S Wisconsin St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387888213,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1467082734,
     "wof:name":"Dealers Livestock Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "livestock"
     ]
 },
-  "bbox": [-98.031812,43.691106,-98.031812,43.691106],
+  "bbox": [
+    -98.031812,
+    43.691106,
+    -98.031812,
+    43.691106
+],
   "geometry": {"coordinates":[-98.031812,43.691106],"type":"Point"}
 }

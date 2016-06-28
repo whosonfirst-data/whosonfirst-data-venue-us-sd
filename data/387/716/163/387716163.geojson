@@ -2,13 +2,14 @@
   "id": 387716163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699849,43.498193,-96.699849,43.498193",
     "geom:latitude":43.498193,
     "geom:longitude":-96.699849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1921 E Briar Den Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387716163,
-    "wof:lastmodified":1449056644,
+    "wof:lastmodified":1467082697,
     "wof:name":"Jehovah's Witnesses Kingswood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.699849,43.498193,-96.699849,43.498193],
+  "bbox": [
+    -96.699849,
+    43.498193,
+    -96.699849,
+    43.498193
+],
   "geometry": {"coordinates":[-96.699849,43.498193],"type":"Point"}
 }

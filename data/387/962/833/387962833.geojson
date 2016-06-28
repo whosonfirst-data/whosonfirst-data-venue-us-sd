@@ -2,13 +2,14 @@
   "id": 387962833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229451,44.059247,-103.229451,44.059247",
     "geom:latitude":44.059247,
     "geom:longitude":-103.229451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Cathedral Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387962833,
-    "wof:lastmodified":1449058338,
+    "wof:lastmodified":1467082732,
     "wof:name":"Catholic Chancery",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-103.229451,44.059247,-103.229451,44.059247],
+  "bbox": [
+    -103.229451,
+    44.059247,
+    -103.229451,
+    44.059247
+],
   "geometry": {"coordinates":[-103.229451,44.059247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387319987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.751037,43.10135,-99.751037,43.10135",
     "geom:latitude":43.10135,
     "geom:longitude":-99.751037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29666 US Hwy 183",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387319987,
-    "wof:lastmodified":1449057657,
+    "wof:lastmodified":1467082718,
     "wof:name":"Charles Axtell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.751037,43.10135,-99.751037,43.10135],
+  "bbox": [
+    -99.751037,
+    43.10135,
+    -99.751037,
+    43.10135
+],
   "geometry": {"coordinates":[-99.751037,43.10135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387176075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751245,43.707101,-96.751245,43.707101",
     "geom:latitude":43.707101,
     "geom:longitude":-96.751245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25370 473rd Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387176075,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1467082737,
     "wof:name":"Haagenson Farms Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.751245,43.707101,-96.751245,43.707101],
+  "bbox": [
+    -96.751245,
+    43.707101,
+    -96.751245,
+    43.707101
+],
   "geometry": {"coordinates":[-96.751245,43.707101],"type":"Point"}
 }

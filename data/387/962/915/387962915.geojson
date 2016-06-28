@@ -2,13 +2,14 @@
   "id": 387962915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.288245,45.481256,-98.288245,45.481256",
     "geom:latitude":45.481256,
     "geom:longitude":-98.288245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13143 397th Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387962915,
-    "wof:lastmodified":1449058344,
+    "wof:lastmodified":1467082732,
     "wof:name":"Floyd Beaman",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.288245,45.481256,-98.288245,45.481256],
+  "bbox": [
+    -98.288245,
+    45.481256,
+    -98.288245,
+    45.481256
+],
   "geometry": {"coordinates":[-98.288245,45.481256],"type":"Point"}
 }

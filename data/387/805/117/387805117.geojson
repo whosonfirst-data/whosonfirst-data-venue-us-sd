@@ -2,13 +2,14 @@
   "id": 387805117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.674861,44.03947,-101.674861,44.03947",
     "geom:latitude":44.03947,
     "geom:longitude":-101.674861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 W Pine St",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387805117,
-    "wof:lastmodified":1449057371,
+    "wof:lastmodified":1467082712,
     "wof:name":"Philip Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-101.674861,44.03947,-101.674861,44.03947],
-  "geometry": {"coordinates":[-101.674861,44.03947],"type":"Point"}
+  "bbox": [
+    -101.674861,
+    44.03947,
+    -101.674861,
+    44.03947
+],
+  "geometry": {"coordinates":[-101.67486100000001,44.03947],"type":"Point"}
 }

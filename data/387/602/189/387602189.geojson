@@ -2,13 +2,14 @@
   "id": 387602189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.630885,43.021681,-96.630885,43.021681",
     "geom:latitude":43.021681,
     "geom:longitude":-96.630885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E 2nd St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387602189,
-    "wof:lastmodified":1449057893,
+    "wof:lastmodified":1467082723,
     "wof:name":"Alcester Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.630885,43.021681,-96.630885,43.021681],
-  "geometry": {"coordinates":[-96.630885,43.021681],"type":"Point"}
+  "bbox": [
+    -96.630885,
+    43.021681,
+    -96.630885,
+    43.021681
+],
+  "geometry": {"coordinates":[-96.63088500000001,43.021681],"type":"Point"}
 }

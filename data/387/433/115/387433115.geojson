@@ -2,13 +2,14 @@
   "id": 387433115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768379,44.297121,-96.768379,44.297121",
     "geom:latitude":44.297121,
     "geom:longitude":-96.768379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"780 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387433115,
-    "wof:lastmodified":1449056549,
+    "wof:lastmodified":1467082695,
     "wof:name":"Midwest Card Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "short"
     ]
 },
-  "bbox": [-96.768379,44.297121,-96.768379,44.297121],
+  "bbox": [
+    -96.768379,
+    44.297121,
+    -96.768379,
+    44.297121
+],
   "geometry": {"coordinates":[-96.768379,44.297121],"type":"Point"}
 }

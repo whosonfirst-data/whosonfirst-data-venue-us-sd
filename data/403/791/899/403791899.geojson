@@ -2,13 +2,14 @@
   "id": 403791899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.668951,43.559973,-96.668951,43.559973",
     "geom:latitude":43.559973,
     "geom:longitude":-96.668951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Pikes Peak Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403791899,
-    "wof:lastmodified":1449055662,
+    "wof:lastmodified":1467082682,
     "wof:name":"Eberts Construction Corp",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-96.668951,43.559973,-96.668951,43.559973],
-  "geometry": {"coordinates":[-96.668951,43.559973],"type":"Point"}
+  "bbox": [
+    -96.668951,
+    43.559973,
+    -96.668951,
+    43.559973
+],
+  "geometry": {"coordinates":[-96.66895100000001,43.559973],"type":"Point"}
 }

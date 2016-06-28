@@ -2,13 +2,14 @@
   "id": 403802877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515363,45.439408,-98.515363,45.439408",
     "geom:latitude":45.439408,
     "geom:longitude":-98.515363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 S Hwy 281",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403802877,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1467082683,
     "wof:name":"Centennial Homes Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.515363,45.439408,-98.515363,45.439408],
-  "geometry": {"coordinates":[-98.515363,45.439408],"type":"Point"}
+  "bbox": [
+    -98.515363,
+    45.439408,
+    -98.515363,
+    45.439408
+],
+  "geometry": {"coordinates":[-98.51536299999999,45.439408],"type":"Point"}
 }

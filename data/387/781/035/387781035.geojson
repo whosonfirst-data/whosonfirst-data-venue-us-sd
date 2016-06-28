@@ -2,13 +2,14 @@
   "id": 387781035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.36025,44.370436,-100.36025,44.370436",
     "geom:latitude":44.370436,
     "geom:longitude":-100.36025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387781035,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1467082701,
     "wof:name":"Zander Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-100.36025,44.370436,-100.36025,44.370436],
-  "geometry": {"coordinates":[-100.36025,44.370436],"type":"Point"}
+  "bbox": [
+    -100.36025,
+    44.370436,
+    -100.36025,
+    44.370436
+],
+  "geometry": {"coordinates":[-100.36024999999999,44.370436],"type":"Point"}
 }

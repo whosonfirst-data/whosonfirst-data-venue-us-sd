@@ -2,13 +2,14 @@
   "id": 386978213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.625371,45.771907,-99.625371,45.771907",
     "geom:latitude":45.771907,
     "geom:longitude":-99.625371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 11th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386978213,
-    "wof:lastmodified":1449028801,
+    "wof:lastmodified":1467082652,
     "wof:name":"Evangel United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.625371,45.771907,-99.625371,45.771907],
+  "bbox": [
+    -99.625371,
+    45.771907,
+    -99.625371,
+    45.771907
+],
   "geometry": {"coordinates":[-99.625371,45.771907],"type":"Point"}
 }

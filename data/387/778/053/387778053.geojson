@@ -2,13 +2,14 @@
   "id": 387778053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.948984,44.54339,-96.948984,44.54339",
     "geom:latitude":44.54339,
     "geom:longitude":-96.948984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19565 463rd Ave",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387778053,
-    "wof:lastmodified":1449056194,
+    "wof:lastmodified":1467082688,
     "wof:name":"Ralph Schwartz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.948984,44.54339,-96.948984,44.54339],
+  "bbox": [
+    -96.948984,
+    44.54339,
+    -96.948984,
+    44.54339
+],
   "geometry": {"coordinates":[-96.948984,44.54339],"type":"Point"}
 }

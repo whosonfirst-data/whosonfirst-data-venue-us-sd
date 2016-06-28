@@ -2,13 +2,14 @@
   "id": 387160355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733423,43.584607,-96.733423,43.584607",
     "geom:latitude":43.584607,
     "geom:longitude":-96.733423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 N Aviation Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387160355,
-    "wof:lastmodified":1449059320,
+    "wof:lastmodified":1467082751,
     "wof:name":"Abbott Travel Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-96.733423,43.584607,-96.733423,43.584607],
+  "bbox": [
+    -96.733423,
+    43.584607,
+    -96.733423,
+    43.584607
+],
   "geometry": {"coordinates":[-96.733423,43.584607],"type":"Point"}
 }

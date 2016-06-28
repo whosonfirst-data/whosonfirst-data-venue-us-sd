@@ -2,13 +2,14 @@
   "id": 387542329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193317,44.085756,-103.193317,44.085756",
     "geom:latitude":44.085756,
     "geom:longitude":-103.193317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 E Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387542329,
-    "wof:lastmodified":1449059057,
+    "wof:lastmodified":1467082746,
     "wof:name":"Amcom Distributing Order Dept",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-103.193317,44.085756,-103.193317,44.085756],
-  "geometry": {"coordinates":[-103.193317,44.085756],"type":"Point"}
+  "bbox": [
+    -103.193317,
+    44.085756,
+    -103.193317,
+    44.085756
+],
+  "geometry": {"coordinates":[-103.19331699999999,44.085756],"type":"Point"}
 }

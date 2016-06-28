@@ -2,13 +2,14 @@
   "id": 387077277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698551,43.587377,-96.698551,43.587377",
     "geom:latitude":43.587377,
     "geom:longitude":-96.698551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 E Benson Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387077277,
-    "wof:lastmodified":1449056707,
+    "wof:lastmodified":1467082699,
     "wof:name":"Hsbc Card Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "counseling"
     ]
 },
-  "bbox": [-96.698551,43.587377,-96.698551,43.587377],
-  "geometry": {"coordinates":[-96.698551,43.587377],"type":"Point"}
+  "bbox": [
+    -96.698551,
+    43.587377,
+    -96.698551,
+    43.587377
+],
+  "geometry": {"coordinates":[-96.69855099999999,43.587377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387569067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.486087,43.91024,-103.486087,43.91024",
     "geom:latitude":43.91024,
     "geom:longitude":-103.486087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24110 Leaky Valley Rd",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387569067,
-    "wof:lastmodified":1449059766,
+    "wof:lastmodified":1467082760,
     "wof:name":"Anchorage Bed & Breakfast",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-103.486087,43.91024,-103.486087,43.91024],
+  "bbox": [
+    -103.486087,
+    43.91024,
+    -103.486087,
+    43.91024
+],
   "geometry": {"coordinates":[-103.486087,43.91024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371122891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214052,44.36275,-98.214052,44.36275",
     "geom:latitude":44.36275,
     "geom:longitude":-98.214052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371122891,
-    "wof:lastmodified":1449049645,
+    "wof:lastmodified":1467082666,
     "wof:name":"Ridgefield Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214052,44.36275,-98.214052,44.36275],
+  "bbox": [
+    -98.214052,
+    44.36275,
+    -98.214052,
+    44.36275
+],
   "geometry": {"coordinates":[-98.214052,44.36275],"type":"Point"}
 }

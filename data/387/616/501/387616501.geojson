@@ -2,13 +2,14 @@
   "id": 387616501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.350089,44.375677,-100.350089,44.375677",
     "geom:latitude":44.375677,
     "geom:longitude":-100.350089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Grand Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387616501,
-    "wof:lastmodified":1449058903,
+    "wof:lastmodified":1467082743,
     "wof:name":"Cowan Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.350089,44.375677,-100.350089,44.375677],
+  "bbox": [
+    -100.350089,
+    44.375677,
+    -100.350089,
+    44.375677
+],
   "geometry": {"coordinates":[-100.350089,44.375677],"type":"Point"}
 }

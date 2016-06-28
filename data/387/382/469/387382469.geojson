@@ -2,13 +2,14 @@
   "id": 387382469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.007853,43.739539,-98.007853,43.739539",
     "geom:latitude":43.739539,
     "geom:longitude":-98.007853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3170 Liberty Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387382469,
-    "wof:lastmodified":1449057116,
+    "wof:lastmodified":1467082707,
     "wof:name":"Ken Johnson Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-98.007853,43.739539,-98.007853,43.739539],
+  "bbox": [
+    -98.007853,
+    43.739539,
+    -98.007853,
+    43.739539
+],
   "geometry": {"coordinates":[-98.007853,43.739539],"type":"Point"}
 }

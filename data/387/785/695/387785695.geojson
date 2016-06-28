@@ -2,13 +2,14 @@
   "id": 387785695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726881,43.543914,-96.726881,43.543914",
     "geom:latitude":43.543914,
     "geom:longitude":-96.726881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387785695,
-    "wof:lastmodified":1449059272,
+    "wof:lastmodified":1467082750,
     "wof:name":"Touch Of Europe",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ethic"
     ]
 },
-  "bbox": [-96.726881,43.543914,-96.726881,43.543914],
-  "geometry": {"coordinates":[-96.726881,43.543914],"type":"Point"}
+  "bbox": [
+    -96.726881,
+    43.543914,
+    -96.726881,
+    43.543914
+],
+  "geometry": {"coordinates":[-96.72688100000001,43.543914],"type":"Point"}
 }

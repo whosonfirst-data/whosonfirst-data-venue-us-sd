@@ -2,13 +2,14 @@
   "id": 387053095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387431,43.726405,-97.387431,43.726405",
     "geom:latitude":43.726405,
     "geom:longitude":-97.387431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387053095,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1467082701,
     "wof:name":"Eich's Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-97.387431,43.726405,-97.387431,43.726405],
-  "geometry": {"coordinates":[-97.387431,43.726405],"type":"Point"}
+  "bbox": [
+    -97.387431,
+    43.726405,
+    -97.387431,
+    43.726405
+],
+  "geometry": {"coordinates":[-97.38743100000001,43.726405],"type":"Point"}
 }

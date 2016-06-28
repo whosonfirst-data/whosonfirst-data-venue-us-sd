@@ -2,13 +2,14 @@
   "id": 387843679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751228,43.523266,-96.751228,43.523266",
     "geom:latitude":43.523266,
     "geom:longitude":-96.751228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387843679,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1467082693,
     "wof:name":"Douglas E Idema DDS",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.751228,43.523266,-96.751228,43.523266],
+  "bbox": [
+    -96.751228,
+    43.523266,
+    -96.751228,
+    43.523266
+],
   "geometry": {"coordinates":[-96.751228,43.523266],"type":"Point"}
 }

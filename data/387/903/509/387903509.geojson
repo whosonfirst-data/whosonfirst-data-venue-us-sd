@@ -2,13 +2,14 @@
   "id": 387903509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.302287,44.08294,-103.302287,44.08294",
     "geom:latitude":44.08294,
     "geom:longitude":-103.302287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Berry Pine Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387903509,
-    "wof:lastmodified":1449056339,
+    "wof:lastmodified":1467082691,
     "wof:name":"AA Contractors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-103.302287,44.08294,-103.302287,44.08294],
-  "geometry": {"coordinates":[-103.302287,44.08294],"type":"Point"}
+  "bbox": [
+    -103.302287,
+    44.08294,
+    -103.302287,
+    44.08294
+],
+  "geometry": {"coordinates":[-103.30228700000001,44.08294],"type":"Point"}
 }

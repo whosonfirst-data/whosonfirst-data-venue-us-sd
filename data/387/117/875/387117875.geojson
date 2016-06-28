@@ -2,13 +2,14 @@
   "id": 387117875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.100002,44.894854,-97.100002,44.894854",
     "geom:latitude":44.894854,
     "geom:longitude":-97.100002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 10th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387117875,
-    "wof:lastmodified":1449058694,
+    "wof:lastmodified":1467082739,
     "wof:name":"Garfield Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.100002,44.894854,-97.100002,44.894854],
+  "bbox": [
+    -97.100002,
+    44.894854,
+    -97.100002,
+    44.894854
+],
   "geometry": {"coordinates":[-97.100002,44.894854],"type":"Point"}
 }

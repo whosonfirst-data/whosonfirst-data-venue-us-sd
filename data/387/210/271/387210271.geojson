@@ -2,13 +2,14 @@
   "id": 387210271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646093,44.449101,-96.646093,44.449101",
     "geom:latitude":44.449101,
     "geom:longitude":-96.646093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20251 478th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387210271,
-    "wof:lastmodified":1449057391,
+    "wof:lastmodified":1467082712,
     "wof:name":"Six Mile Creek Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-96.646093,44.449101,-96.646093,44.449101],
-  "geometry": {"coordinates":[-96.646093,44.449101],"type":"Point"}
+  "bbox": [
+    -96.646093,
+    44.449101,
+    -96.646093,
+    44.449101
+],
+  "geometry": {"coordinates":[-96.64609299999999,44.449101],"type":"Point"}
 }

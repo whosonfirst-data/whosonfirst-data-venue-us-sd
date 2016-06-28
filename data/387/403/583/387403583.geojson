@@ -2,13 +2,14 @@
   "id": 387403583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.217621,44.086236,-103.217621,44.086236",
     "geom:latitude":44.086236,
     "geom:longitude":-103.217621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N 2nd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387403583,
-    "wof:lastmodified":1449059392,
+    "wof:lastmodified":1467082752,
     "wof:name":"Pennington Treasurer Tax Dept",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "taxation"
     ]
 },
-  "bbox": [-103.217621,44.086236,-103.217621,44.086236],
-  "geometry": {"coordinates":[-103.217621,44.086236],"type":"Point"}
+  "bbox": [
+    -103.217621,
+    44.086236,
+    -103.217621,
+    44.086236
+],
+  "geometry": {"coordinates":[-103.21762099999999,44.086236],"type":"Point"}
 }

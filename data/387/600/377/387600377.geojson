@@ -2,13 +2,14 @@
   "id": 387600377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.98623,44.601536,-96.98623,44.601536",
     "geom:latitude":44.601536,
     "geom:longitude":-96.98623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46105 192nd St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387600377,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1467082694,
     "wof:name":"Rust Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.98623,44.601536,-96.98623,44.601536],
-  "geometry": {"coordinates":[-96.98623,44.601536],"type":"Point"}
+  "bbox": [
+    -96.98623,
+    44.601536,
+    -96.98623,
+    44.601536
+],
+  "geometry": {"coordinates":[-96.98623000000001,44.601536],"type":"Point"}
 }

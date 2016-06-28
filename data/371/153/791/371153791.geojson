@@ -2,13 +2,14 @@
   "id": 371153791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795104,43.52937,-96.795104,43.52937",
     "geom:latitude":43.52937,
     "geom:longitude":-96.795104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 W 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371153791,
-    "wof:lastmodified":1449049777,
+    "wof:lastmodified":1467082668,
     "wof:name":"Resurrection Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.795104,43.52937,-96.795104,43.52937],
-  "geometry": {"coordinates":[-96.795104,43.52937],"type":"Point"}
+  "bbox": [
+    -96.795104,
+    43.52937,
+    -96.795104,
+    43.52937
+],
+  "geometry": {"coordinates":[-96.79510399999999,43.52937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.005725,43.712795,-98.005725,43.712795",
     "geom:latitude":43.712795,
     "geom:longitude":-98.005725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 E 4th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387439495,
-    "wof:lastmodified":1449057149,
+    "wof:lastmodified":1467082707,
     "wof:name":"Presentation Sisters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convent"
     ]
 },
-  "bbox": [-98.005725,43.712795,-98.005725,43.712795],
+  "bbox": [
+    -98.005725,
+    43.712795,
+    -98.005725,
+    43.712795
+],
   "geometry": {"coordinates":[-98.005725,43.712795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370984479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48813,45.472698,-98.48813,45.472698",
     "geom:latitude":45.472698,
     "geom:longitude":-98.48813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370984479,
-    "wof:lastmodified":1449030989,
+    "wof:lastmodified":1467082657,
     "wof:name":"Dons Handyman Service",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.48813,45.472698,-98.48813,45.472698],
+  "bbox": [
+    -98.48813,
+    45.472698,
+    -98.48813,
+    45.472698
+],
   "geometry": {"coordinates":[-98.48813,45.472698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371054729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.19433,44.236104,-98.19433,44.236104",
     "geom:latitude":44.236104,
     "geom:longitude":-98.19433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21724 401st Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371054729,
-    "wof:lastmodified":1449049498,
+    "wof:lastmodified":1467082664,
     "wof:name":"Cronin Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.19433,44.236104,-98.19433,44.236104],
-  "geometry": {"coordinates":[-98.19433,44.236104],"type":"Point"}
+  "bbox": [
+    -98.19433,
+    44.236104,
+    -98.19433,
+    44.236104
+],
+  "geometry": {"coordinates":[-98.19432999999999,44.236104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387732241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.469447,43.422814,-103.469447,43.422814",
     "geom:latitude":43.422814,
     "geom:longitude":-103.469447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387732241,
-    "wof:lastmodified":1449060034,
+    "wof:lastmodified":1467082766,
     "wof:name":"National Federation-The Blind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.469447,43.422814,-103.469447,43.422814],
+  "bbox": [
+    -103.469447,
+    43.422814,
+    -103.469447,
+    43.422814
+],
   "geometry": {"coordinates":[-103.469447,43.422814],"type":"Point"}
 }

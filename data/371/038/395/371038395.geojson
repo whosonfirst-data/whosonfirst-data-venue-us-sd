@@ -2,13 +2,14 @@
   "id": 371038395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.151346,44.056266,-103.151346,44.056266",
     "geom:latitude":44.056266,
     "geom:longitude":-103.151346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2962 Jolly Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371038395,
-    "wof:lastmodified":1449049731,
+    "wof:lastmodified":1467082668,
     "wof:name":"Jolly Lane Greenhouse",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-103.151346,44.056266,-103.151346,44.056266],
+  "bbox": [
+    -103.151346,
+    44.056266,
+    -103.151346,
+    44.056266
+],
   "geometry": {"coordinates":[-103.151346,44.056266],"type":"Point"}
 }

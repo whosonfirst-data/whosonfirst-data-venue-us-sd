@@ -2,13 +2,14 @@
   "id": 387239377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.988232,43.765861,-97.988232,43.765861",
     "geom:latitude":43.765861,
     "geom:longitude":-97.988232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24974 411th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387239377,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1467082694,
     "wof:name":"Dakota Trackers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hunting"
     ]
 },
-  "bbox": [-97.988232,43.765861,-97.988232,43.765861],
+  "bbox": [
+    -97.988232,
+    43.765861,
+    -97.988232,
+    43.765861
+],
   "geometry": {"coordinates":[-97.988232,43.765861],"type":"Point"}
 }

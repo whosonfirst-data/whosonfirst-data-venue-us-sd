@@ -2,13 +2,14 @@
   "id": 387732107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.472948,45.459141,-98.472948,45.459141",
     "geom:latitude":45.459141,
     "geom:longitude":-98.472948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387732107,
-    "wof:lastmodified":1449060033,
+    "wof:lastmodified":1467082765,
     "wof:name":"Rausch Brothers Monument Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-98.472948,45.459141,-98.472948,45.459141],
+  "bbox": [
+    -98.472948,
+    45.459141,
+    -98.472948,
+    45.459141
+],
   "geometry": {"coordinates":[-98.472948,45.459141],"type":"Point"}
 }

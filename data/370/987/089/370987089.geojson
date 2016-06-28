@@ -2,13 +2,14 @@
   "id": 370987089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.541383,44.558285,-96.541383,44.558285",
     "geom:latitude":44.558285,
     "geom:longitude":-96.541383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Main St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370987089,
-    "wof:lastmodified":1449030961,
+    "wof:lastmodified":1467082657,
     "wof:name":"Astoria School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.541383,44.558285,-96.541383,44.558285],
+  "bbox": [
+    -96.541383,
+    44.558285,
+    -96.541383,
+    44.558285
+],
   "geometry": {"coordinates":[-96.541383,44.558285],"type":"Point"}
 }

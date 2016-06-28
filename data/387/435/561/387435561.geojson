@@ -2,13 +2,14 @@
   "id": 387435561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710331,43.548573,-96.710331,43.548573",
     "geom:latitude":43.548573,
     "geom:longitude":-96.710331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387435561,
-    "wof:lastmodified":1449059565,
+    "wof:lastmodified":1467082756,
     "wof:name":"Our Lady Of Guadalupe",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.710331,43.548573,-96.710331,43.548573],
+  "bbox": [
+    -96.710331,
+    43.548573,
+    -96.710331,
+    43.548573
+],
   "geometry": {"coordinates":[-96.710331,43.548573],"type":"Point"}
 }

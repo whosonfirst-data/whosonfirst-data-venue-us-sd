@@ -2,13 +2,14 @@
   "id": 387440123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547442,44.386028,-97.547442,44.386028",
     "geom:latitude":44.386028,
     "geom:longitude":-97.547442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 2nd St SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387440123,
-    "wof:lastmodified":1449057444,
+    "wof:lastmodified":1467082713,
     "wof:name":"Health Dept Public Health Nrse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-97.547442,44.386028,-97.547442,44.386028],
+  "bbox": [
+    -97.547442,
+    44.386028,
+    -97.547442,
+    44.386028
+],
   "geometry": {"coordinates":[-97.547442,44.386028],"type":"Point"}
 }

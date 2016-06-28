@@ -2,13 +2,14 @@
   "id": 403778993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728793,43.530325,-96.728793,43.530325",
     "geom:latitude":43.530325,
     "geom:longitude":-96.728793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 25th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403778993,
-    "wof:lastmodified":1449054651,
+    "wof:lastmodified":1467082674,
     "wof:name":"David V Vrooman",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.728793,43.530325,-96.728793,43.530325],
+  "bbox": [
+    -96.728793,
+    43.530325,
+    -96.728793,
+    43.530325
+],
   "geometry": {"coordinates":[-96.728793,43.530325],"type":"Point"}
 }

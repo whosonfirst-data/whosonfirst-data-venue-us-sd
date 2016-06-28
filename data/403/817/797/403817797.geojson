@@ -2,13 +2,14 @@
   "id": 403817797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.477483,45.458913,-98.477483,45.458913",
     "geom:latitude":45.458913,
     "geom:longitude":-98.477483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403817797,
-    "wof:lastmodified":1449055699,
+    "wof:lastmodified":1467082682,
     "wof:name":"Cartney Bearing & Supply",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bearing"
     ]
 },
-  "bbox": [-98.477483,45.458913,-98.477483,45.458913],
-  "geometry": {"coordinates":[-98.477483,45.458913],"type":"Point"}
+  "bbox": [
+    -98.477483,
+    45.458913,
+    -98.477483,
+    45.458913
+],
+  "geometry": {"coordinates":[-98.47748300000001,45.458913],"type":"Point"}
 }

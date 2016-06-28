@@ -2,13 +2,14 @@
   "id": 387162235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.843319,43.381146,-98.843319,43.381146",
     "geom:latitude":43.381146,
     "geom:longitude":-98.843319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 10th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387162235,
-    "wof:lastmodified":1449059370,
+    "wof:lastmodified":1467082752,
     "wof:name":"Denny's Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-98.843319,43.381146,-98.843319,43.381146],
-  "geometry": {"coordinates":[-98.843319,43.381146],"type":"Point"}
+  "bbox": [
+    -98.843319,
+    43.381146,
+    -98.843319,
+    43.381146
+],
+  "geometry": {"coordinates":[-98.84331899999999,43.381146],"type":"Point"}
 }

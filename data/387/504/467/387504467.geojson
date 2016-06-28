@@ -2,13 +2,14 @@
   "id": 387504467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025495,43.714362,-98.025495,43.714362",
     "geom:latitude":43.714362,
     "geom:longitude":-98.025495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387504467,
-    "wof:lastmodified":1449056771,
+    "wof:lastmodified":1467082700,
     "wof:name":"Mad Cow Coffee House & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "coffee"
     ]
 },
-  "bbox": [-98.025495,43.714362,-98.025495,43.714362],
-  "geometry": {"coordinates":[-98.025495,43.714362],"type":"Point"}
+  "bbox": [
+    -98.025495,
+    43.714362,
+    -98.025495,
+    43.714362
+],
+  "geometry": {"coordinates":[-98.02549500000001,43.714362],"type":"Point"}
 }

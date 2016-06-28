@@ -2,13 +2,14 @@
   "id": 387852933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.987929,45.451087,-98.987929,45.451087",
     "geom:latitude":45.451087,
     "geom:longitude":-98.987929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13324 360th Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387852933,
-    "wof:lastmodified":1449059274,
+    "wof:lastmodified":1467082750,
     "wof:name":"Lawrence J & Cynthia Geditz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.987929,45.451087,-98.987929,45.451087],
-  "geometry": {"coordinates":[-98.987929,45.451087],"type":"Point"}
+  "bbox": [
+    -98.987929,
+    45.451087,
+    -98.987929,
+    45.451087
+],
+  "geometry": {"coordinates":[-98.98792899999999,45.451087],"type":"Point"}
 }

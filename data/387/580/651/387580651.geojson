@@ -2,13 +2,14 @@
   "id": 387580651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685554,43.5076,-96.685554,43.5076",
     "geom:latitude":43.5076,
     "geom:longitude":-96.685554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 S Kris Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387580651,
-    "wof:lastmodified":1449058670,
+    "wof:lastmodified":1467082738,
     "wof:name":"Ken & Deb Kontz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.685554,43.5076,-96.685554,43.5076],
+  "bbox": [
+    -96.685554,
+    43.5076,
+    -96.685554,
+    43.5076
+],
   "geometry": {"coordinates":[-96.685554,43.5076],"type":"Point"}
 }

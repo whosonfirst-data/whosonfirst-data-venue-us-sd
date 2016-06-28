@@ -2,13 +2,14 @@
   "id": 387009103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.56803,44.084559,-98.56803,44.084559",
     "geom:latitude":44.084559,
     "geom:longitude":-98.56803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Barrett Ave N",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387009103,
-    "wof:lastmodified":1449059843,
+    "wof:lastmodified":1467082761,
     "wof:name":"H/M Service Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.56803,44.084559,-98.56803,44.084559],
-  "geometry": {"coordinates":[-98.56803,44.084559],"type":"Point"}
+  "bbox": [
+    -98.56803,
+    44.084559,
+    -98.56803,
+    44.084559
+],
+  "geometry": {"coordinates":[-98.56802999999999,44.084559],"type":"Point"}
 }

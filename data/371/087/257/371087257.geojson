@@ -2,13 +2,14 @@
   "id": 371087257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486534,45.4639,-98.486534,45.4639",
     "geom:latitude":45.4639,
     "geom:longitude":-98.486534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Lincoln St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371087257,
-    "wof:lastmodified":1449049485,
+    "wof:lastmodified":1467082664,
     "wof:name":"Aberdeen Park & Recreation",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "park"
     ]
 },
-  "bbox": [-98.486534,45.4639,-98.486534,45.4639],
-  "geometry": {"coordinates":[-98.486534,45.4639],"type":"Point"}
+  "bbox": [
+    -98.486534,
+    45.4639,
+    -98.486534,
+    45.4639
+],
+  "geometry": {"coordinates":[-98.48653400000001,45.4639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387189249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.150155,44.068879,-103.150155,44.068879",
     "geom:latitude":44.068879,
     "geom:longitude":-103.150155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1727 Sharp Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387189249,
-    "wof:lastmodified":1449058797,
+    "wof:lastmodified":1467082741,
     "wof:name":"D B Construction Services Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-103.150155,44.068879,-103.150155,44.068879],
+  "bbox": [
+    -103.150155,
+    44.068879,
+    -103.150155,
+    44.068879
+],
   "geometry": {"coordinates":[-103.150155,44.068879],"type":"Point"}
 }

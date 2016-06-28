@@ -2,13 +2,14 @@
   "id": 387188093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.479271,43.505745,-96.479271,43.505745",
     "geom:latitude":43.505745,
     "geom:longitude":-96.479271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26769 Ben Clare Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387188093,
-    "wof:lastmodified":1449057994,
+    "wof:lastmodified":1467082725,
     "wof:name":"Paul Dubbelde",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.479271,43.505745,-96.479271,43.505745],
+  "bbox": [
+    -96.479271,
+    43.505745,
+    -96.479271,
+    43.505745
+],
   "geometry": {"coordinates":[-96.479271,43.505745],"type":"Point"}
 }

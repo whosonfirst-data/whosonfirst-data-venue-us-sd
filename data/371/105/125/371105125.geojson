@@ -2,13 +2,14 @@
   "id": 371105125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.285614,43.685145,-98.285614,43.685145",
     "geom:latitude":43.685145,
     "geom:longitude":-98.285614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25519 396th Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371105125,
-    "wof:lastmodified":1449049419,
+    "wof:lastmodified":1467082663,
     "wof:name":"Sarge's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-98.285614,43.685145,-98.285614,43.685145],
+  "bbox": [
+    -98.285614,
+    43.685145,
+    -98.285614,
+    43.685145
+],
   "geometry": {"coordinates":[-98.285614,43.685145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387864741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.26221,44.082264,-103.26221,44.082264",
     "geom:latitude":44.082264,
     "geom:longitude":-103.26221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387864741,
-    "wof:lastmodified":1449059964,
+    "wof:lastmodified":1467082764,
     "wof:name":"NATIVE AMERICAN HERITAGE ASSOC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-103.26221,44.082264,-103.26221,44.082264],
+  "bbox": [
+    -103.26221,
+    44.082264,
+    -103.26221,
+    44.082264
+],
   "geometry": {"coordinates":[-103.26221,44.082264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387202701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.919176,42.786557,-96.919176,42.786557",
     "geom:latitude":42.786557,
     "geom:longitude":-96.919176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 E Cherry St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387202701,
-    "wof:lastmodified":1449059428,
+    "wof:lastmodified":1467082753,
     "wof:name":"Latte Da",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-96.919176,42.786557,-96.919176,42.786557],
-  "geometry": {"coordinates":[-96.919176,42.786557],"type":"Point"}
+  "bbox": [
+    -96.919176,
+    42.786557,
+    -96.919176,
+    42.786557
+],
+  "geometry": {"coordinates":[-96.91917599999999,42.786557],"type":"Point"}
 }

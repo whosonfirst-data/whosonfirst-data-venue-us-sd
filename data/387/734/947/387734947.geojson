@@ -2,13 +2,14 @@
   "id": 387734947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.626968,44.234391,-96.626968,44.234391",
     "geom:latitude":44.234391,
     "geom:longitude":-96.626968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21730 479th Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387734947,
-    "wof:lastmodified":1449059438,
+    "wof:lastmodified":1467082753,
     "wof:name":"Donald L Stein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.626968,44.234391,-96.626968,44.234391],
-  "geometry": {"coordinates":[-96.626968,44.234391],"type":"Point"}
+  "bbox": [
+    -96.626968,
+    44.234391,
+    -96.626968,
+    44.234391
+],
+  "geometry": {"coordinates":[-96.62696800000001,44.234391],"type":"Point"}
 }

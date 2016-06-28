@@ -2,13 +2,14 @@
   "id": 387881989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.962983,45.013647,-99.962983,45.013647",
     "geom:latitude":45.013647,
     "geom:longitude":-99.962983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387881989,
-    "wof:lastmodified":1449058312,
+    "wof:lastmodified":1467082731,
     "wof:name":"West Side Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-99.962983,45.013647,-99.962983,45.013647],
-  "geometry": {"coordinates":[-99.962983,45.013647],"type":"Point"}
+  "bbox": [
+    -99.962983,
+    45.013647,
+    -99.962983,
+    45.013647
+],
+  "geometry": {"coordinates":[-99.96298299999999,45.013647],"type":"Point"}
 }

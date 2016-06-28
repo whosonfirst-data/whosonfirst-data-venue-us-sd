@@ -2,13 +2,14 @@
   "id": 371122559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191756,44.084717,-103.191756,44.084717",
     "geom:latitude":44.084717,
     "geom:longitude":-103.191756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371122559,
-    "wof:lastmodified":1449049646,
+    "wof:lastmodified":1467082666,
     "wof:name":"Poker Joe's",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-103.191756,44.084717,-103.191756,44.084717],
+  "bbox": [
+    -103.191756,
+    44.084717,
+    -103.191756,
+    44.084717
+],
   "geometry": {"coordinates":[-103.191756,44.084717],"type":"Point"}
 }

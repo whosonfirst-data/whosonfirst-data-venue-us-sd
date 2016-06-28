@@ -2,13 +2,14 @@
   "id": 387070211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.995587,43.257482,-96.995587,43.257482",
     "geom:latitude":43.257482,
     "geom:longitude":-96.995587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 US Hwy 18",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387070211,
-    "wof:lastmodified":1449057956,
+    "wof:lastmodified":1467082724,
     "wof:name":"My Other Closet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.995587,43.257482,-96.995587,43.257482],
+  "bbox": [
+    -96.995587,
+    43.257482,
+    -96.995587,
+    43.257482
+],
   "geometry": {"coordinates":[-96.995587,43.257482],"type":"Point"}
 }

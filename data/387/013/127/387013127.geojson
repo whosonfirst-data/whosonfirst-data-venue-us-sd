@@ -2,13 +2,14 @@
   "id": 387013127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.217936,45.035851,-97.217936,45.035851",
     "geom:latitude":45.035851,
     "geom:longitude":-97.217936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16134 Still Lake Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387013127,
-    "wof:lastmodified":1449058684,
+    "wof:lastmodified":1467082738,
     "wof:name":"Steven Maag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.217936,45.035851,-97.217936,45.035851],
-  "geometry": {"coordinates":[-97.217936,45.035851],"type":"Point"}
+  "bbox": [
+    -97.217936,
+    45.035851,
+    -97.217936,
+    45.035851
+],
+  "geometry": {"coordinates":[-97.21793599999999,45.035851],"type":"Point"}
 }

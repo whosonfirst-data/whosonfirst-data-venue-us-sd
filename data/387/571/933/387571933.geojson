@@ -2,13 +2,14 @@
   "id": 387571933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803845,43.539731,-96.803845,43.539731",
     "geom:latitude":43.539731,
     "geom:longitude":-96.803845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6506 W Jade Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387571933,
-    "wof:lastmodified":1449058706,
+    "wof:lastmodified":1467082739,
     "wof:name":"Walsh Lawn",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.803845,43.539731,-96.803845,43.539731],
+  "bbox": [
+    -96.803845,
+    43.539731,
+    -96.803845,
+    43.539731
+],
   "geometry": {"coordinates":[-96.803845,43.539731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387899733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.708147,45.42477,-99.708147,45.42477",
     "geom:latitude":45.42477,
     "geom:longitude":-99.708147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13568 323rd Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387899733,
-    "wof:lastmodified":1449059727,
+    "wof:lastmodified":1467082759,
     "wof:name":"Ken Schuh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.708147,45.42477,-99.708147,45.42477],
+  "bbox": [
+    -99.708147,
+    45.42477,
+    -99.708147,
+    45.42477
+],
   "geometry": {"coordinates":[-99.708147,45.42477],"type":"Point"}
 }

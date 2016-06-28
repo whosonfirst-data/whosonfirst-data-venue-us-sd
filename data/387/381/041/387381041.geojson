@@ -2,13 +2,14 @@
   "id": 387381041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82633,43.49499,-96.82633,43.49499",
     "geom:latitude":43.49499,
     "geom:longitude":-96.82633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26840 469th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387381041,
-    "wof:lastmodified":1449056418,
+    "wof:lastmodified":1467082693,
     "wof:name":"Sandman Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.82633,43.49499,-96.82633,43.49499],
+  "bbox": [
+    -96.82633,
+    43.49499,
+    -96.82633,
+    43.49499
+],
   "geometry": {"coordinates":[-96.82633,43.49499],"type":"Point"}
 }

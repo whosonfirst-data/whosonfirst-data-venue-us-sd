@@ -2,13 +2,14 @@
   "id": 387935585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708826,43.584963,-96.708826,43.584963",
     "geom:latitude":43.584963,
     "geom:longitude":-96.708826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 N Van Eps Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387935585,
-    "wof:lastmodified":1449059244,
+    "wof:lastmodified":1467082750,
     "wof:name":"Home Run Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-96.708826,43.584963,-96.708826,43.584963],
+  "bbox": [
+    -96.708826,
+    43.584963,
+    -96.708826,
+    43.584963
+],
   "geometry": {"coordinates":[-96.708826,43.584963],"type":"Point"}
 }

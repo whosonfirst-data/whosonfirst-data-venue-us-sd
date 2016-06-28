@@ -2,13 +2,14 @@
   "id": 403722445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.1319,44.905522,-97.1319,44.905522",
     "geom:latitude":44.905522,
     "geom:longitude":-97.1319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 10th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403722445,
-    "wof:lastmodified":1449055090,
+    "wof:lastmodified":1467082678,
     "wof:name":"Pederson Travel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-97.1319,44.905522,-97.1319,44.905522],
+  "bbox": [
+    -97.1319,
+    44.905522,
+    -97.1319,
+    44.905522
+],
   "geometry": {"coordinates":[-97.1319,44.905522],"type":"Point"}
 }

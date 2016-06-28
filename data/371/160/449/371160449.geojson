@@ -2,13 +2,14 @@
   "id": 371160449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489201,43.810816,-97.489201,43.810816",
     "geom:latitude":43.810816,
     "geom:longitude":-97.489201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24656 436th Ave",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371160449,
-    "wof:lastmodified":1449049959,
+    "wof:lastmodified":1467082671,
     "wof:name":"Rural Area Television",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.489201,43.810816,-97.489201,43.810816],
-  "geometry": {"coordinates":[-97.489201,43.810816],"type":"Point"}
+  "bbox": [
+    -97.489201,
+    43.810816,
+    -97.489201,
+    43.810816
+],
+  "geometry": {"coordinates":[-97.48920099999999,43.810816],"type":"Point"}
 }

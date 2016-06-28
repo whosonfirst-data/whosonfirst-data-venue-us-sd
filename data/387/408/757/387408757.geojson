@@ -2,13 +2,14 @@
   "id": 387408757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747191,43.546014,-96.747191,43.546014",
     "geom:latitude":43.546014,
     "geom:longitude":-96.747191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 W 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387408757,
-    "wof:lastmodified":1449056579,
+    "wof:lastmodified":1467082696,
     "wof:name":"Antiques Gallery Midwest",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.747191,43.546014,-96.747191,43.546014],
+  "bbox": [
+    -96.747191,
+    43.546014,
+    -96.747191,
+    43.546014
+],
   "geometry": {"coordinates":[-96.747191,43.546014],"type":"Point"}
 }

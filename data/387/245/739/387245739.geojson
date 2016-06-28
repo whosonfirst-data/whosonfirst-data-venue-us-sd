@@ -2,13 +2,14 @@
   "id": 387245739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.866036,43.314192,-96.866036,43.314192",
     "geom:latitude":43.314192,
     "geom:longitude":-96.866036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28106 467th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387245739,
-    "wof:lastmodified":1449059795,
+    "wof:lastmodified":1467082760,
     "wof:name":"Douglas L Kuper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.866036,43.314192,-96.866036,43.314192],
-  "geometry": {"coordinates":[-96.866036,43.314192],"type":"Point"}
+  "bbox": [
+    -96.866036,
+    43.314192,
+    -96.866036,
+    43.314192
+],
+  "geometry": {"coordinates":[-96.86603599999999,43.314192],"type":"Point"}
 }

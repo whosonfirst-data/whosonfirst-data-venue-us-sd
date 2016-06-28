@@ -2,13 +2,14 @@
   "id": 387913141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.466216,45.46297,-98.466216,45.46297",
     "geom:latitude":45.46297,
     "geom:longitude":-98.466216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Marcie Cir",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387913141,
-    "wof:lastmodified":1449057574,
+    "wof:lastmodified":1467082716,
     "wof:name":"Rausch Bros Monument Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-98.466216,45.46297,-98.466216,45.46297],
+  "bbox": [
+    -98.466216,
+    45.46297,
+    -98.466216,
+    45.46297
+],
   "geometry": {"coordinates":[-98.466216,45.46297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387795063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025842,43.728417,-98.025842,43.728417",
     "geom:latitude":43.728417,
     "geom:longitude":-98.025842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1691 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387795063,
-    "wof:lastmodified":1449058357,
+    "wof:lastmodified":1467082732,
     "wof:name":"Fanny Horners Eating Estab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.025842,43.728417,-98.025842,43.728417],
+  "bbox": [
+    -98.025842,
+    43.728417,
+    -98.025842,
+    43.728417
+],
   "geometry": {"coordinates":[-98.025842,43.728417],"type":"Point"}
 }

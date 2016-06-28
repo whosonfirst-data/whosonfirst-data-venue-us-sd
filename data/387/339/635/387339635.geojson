@@ -2,13 +2,14 @@
   "id": 387339635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207594,44.056594,-103.207594,44.056594",
     "geom:latitude":44.056594,
     "geom:longitude":-103.207594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Fairlane Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387339635,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1467082721,
     "wof:name":"Driftwood Estates",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.207594,44.056594,-103.207594,44.056594],
+  "bbox": [
+    -103.207594,
+    44.056594,
+    -103.207594,
+    44.056594
+],
   "geometry": {"coordinates":[-103.207594,44.056594],"type":"Point"}
 }

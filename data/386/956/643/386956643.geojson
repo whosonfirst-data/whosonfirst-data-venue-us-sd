@@ -2,13 +2,14 @@
   "id": 386956643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.834875,44.384196,-96.834875,44.384196",
     "geom:latitude":44.384196,
     "geom:longitude":-96.834875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46874 207th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386956643,
-    "wof:lastmodified":1449028668,
+    "wof:lastmodified":1467082650,
     "wof:name":"Erma Sutton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.834875,44.384196,-96.834875,44.384196],
+  "bbox": [
+    -96.834875,
+    44.384196,
+    -96.834875,
+    44.384196
+],
   "geometry": {"coordinates":[-96.834875,44.384196],"type":"Point"}
 }

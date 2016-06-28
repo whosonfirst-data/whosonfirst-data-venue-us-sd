@@ -2,13 +2,14 @@
   "id": 387154147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671453,43.5384,-96.671453,43.5384",
     "geom:latitude":43.5384,
     "geom:longitude":-96.671453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 E 16th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387154147,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1467082764,
     "wof:name":"Sycamore Court",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.671453,43.5384,-96.671453,43.5384],
+  "bbox": [
+    -96.671453,
+    43.5384,
+    -96.671453,
+    43.5384
+],
   "geometry": {"coordinates":[-96.671453,43.5384],"type":"Point"}
 }

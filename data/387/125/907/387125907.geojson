@@ -2,13 +2,14 @@
   "id": 387125907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.438306,45.542428,-100.438306,45.542428",
     "geom:latitude":45.542428,
     "geom:longitude":-100.438306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 3rd Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387125907,
-    "wof:lastmodified":1449059787,
+    "wof:lastmodified":1467082760,
     "wof:name":"Northwest Area Schools Ed Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.438306,45.542428,-100.438306,45.542428],
+  "bbox": [
+    -100.438306,
+    45.542428,
+    -100.438306,
+    45.542428
+],
   "geometry": {"coordinates":[-100.438306,45.542428],"type":"Point"}
 }

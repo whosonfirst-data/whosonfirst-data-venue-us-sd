@@ -2,13 +2,14 @@
   "id": 371172221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707591,43.537518,-96.707591,43.537518",
     "geom:latitude":43.537518,
     "geom:longitude":-96.707591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 S Wayland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371172221,
-    "wof:lastmodified":1449049444,
+    "wof:lastmodified":1467082664,
     "wof:name":"Tunge Electric",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.707591,43.537518,-96.707591,43.537518],
-  "geometry": {"coordinates":[-96.707591,43.537518],"type":"Point"}
+  "bbox": [
+    -96.707591,
+    43.537518,
+    -96.707591,
+    43.537518
+],
+  "geometry": {"coordinates":[-96.70759099999999,43.537518],"type":"Point"}
 }

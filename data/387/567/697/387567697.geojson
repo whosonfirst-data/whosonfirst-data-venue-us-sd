@@ -2,13 +2,14 @@
   "id": 387567697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.940261,43.625191,-96.940261,43.625191",
     "geom:latitude":43.625191,
     "geom:longitude":-96.940261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 4th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387567697,
-    "wof:lastmodified":1449059947,
+    "wof:lastmodified":1467082764,
     "wof:name":"Barney's Old Things Antiques",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-96.940261,43.625191,-96.940261,43.625191],
-  "geometry": {"coordinates":[-96.940261,43.625191],"type":"Point"}
+  "bbox": [
+    -96.940261,
+    43.625191,
+    -96.940261,
+    43.625191
+],
+  "geometry": {"coordinates":[-96.94026100000001,43.625191],"type":"Point"}
 }

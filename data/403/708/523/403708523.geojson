@@ -2,13 +2,14 @@
   "id": 403708523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.730625,45.448396,-98.730625,45.448396",
     "geom:latitude":45.448396,
     "geom:longitude":-98.730625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Nesbitt Dr",
     "sg:city":"Mina",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403708523,
-    "wof:lastmodified":1449054843,
+    "wof:lastmodified":1467082676,
     "wof:name":"Home Improvements Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "improvement"
     ]
 },
-  "bbox": [-98.730625,45.448396,-98.730625,45.448396],
+  "bbox": [
+    -98.730625,
+    45.448396,
+    -98.730625,
+    45.448396
+],
   "geometry": {"coordinates":[-98.730625,45.448396],"type":"Point"}
 }

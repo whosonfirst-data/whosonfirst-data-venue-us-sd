@@ -2,13 +2,14 @@
   "id": 387109857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.014325,43.713502,-98.014325,43.713502",
     "geom:latitude":43.713502,
     "geom:longitude":-98.014325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E 5th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387109857,
-    "wof:lastmodified":1449057420,
+    "wof:lastmodified":1467082713,
     "wof:name":"Rang Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.014325,43.713502,-98.014325,43.713502],
+  "bbox": [
+    -98.014325,
+    43.713502,
+    -98.014325,
+    43.713502
+],
   "geometry": {"coordinates":[-98.014325,43.713502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403799079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694904,43.531137,-96.694904,43.531137",
     "geom:latitude":43.531137,
     "geom:longitude":-96.694904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403799079,
-    "wof:lastmodified":1449055971,
+    "wof:lastmodified":1467082684,
     "wof:name":"River Ridge Oral & Maxillo",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.694904,43.531137,-96.694904,43.531137],
-  "geometry": {"coordinates":[-96.694904,43.531137],"type":"Point"}
+  "bbox": [
+    -96.694904,
+    43.531137,
+    -96.694904,
+    43.531137
+],
+  "geometry": {"coordinates":[-96.69490399999999,43.531137],"type":"Point"}
 }

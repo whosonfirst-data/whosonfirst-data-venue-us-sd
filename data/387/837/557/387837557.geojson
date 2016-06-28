@@ -2,13 +2,14 @@
   "id": 387837557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710757,43.616364,-96.710757,43.616364",
     "geom:latitude":43.616364,
     "geom:longitude":-96.710757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387837557,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1467082698,
     "wof:name":"Soo Dell Mobile Home Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-96.710757,43.616364,-96.710757,43.616364],
+  "bbox": [
+    -96.710757,
+    43.616364,
+    -96.710757,
+    43.616364
+],
   "geometry": {"coordinates":[-96.710757,43.616364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387644961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.262938,44.101615,-103.262938,44.101615",
     "geom:latitude":44.101615,
     "geom:longitude":-103.262938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2131 Rand Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387644961,
-    "wof:lastmodified":1449058286,
+    "wof:lastmodified":1467082731,
     "wof:name":"Industrial Supply Company Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "industrial"
     ]
 },
-  "bbox": [-103.262938,44.101615,-103.262938,44.101615],
-  "geometry": {"coordinates":[-103.262938,44.101615],"type":"Point"}
+  "bbox": [
+    -103.262938,
+    44.101615,
+    -103.262938,
+    44.101615
+],
+  "geometry": {"coordinates":[-103.26293800000001,44.101615],"type":"Point"}
 }

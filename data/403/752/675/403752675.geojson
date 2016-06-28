@@ -2,13 +2,14 @@
   "id": 403752675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196229,44.051748,-103.196229,44.051748",
     "geom:latitude":44.051748,
     "geom:longitude":-103.196229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Oregon St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403752675,
-    "wof:lastmodified":1449054851,
+    "wof:lastmodified":1467082676,
     "wof:name":"Keehner's Repair",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-103.196229,44.051748,-103.196229,44.051748],
+  "bbox": [
+    -103.196229,
+    44.051748,
+    -103.196229,
+    44.051748
+],
   "geometry": {"coordinates":[-103.196229,44.051748],"type":"Point"}
 }

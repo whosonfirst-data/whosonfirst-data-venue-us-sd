@@ -2,13 +2,14 @@
   "id": 387914899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.737909,43.443447,-97.737909,43.443447",
     "geom:latitude":43.443447,
     "geom:longitude":-97.737909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42318 272nd St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387914899,
-    "wof:lastmodified":1449057561,
+    "wof:lastmodified":1467082716,
     "wof:name":"Albert G Werning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-97.737909,43.443447,-97.737909,43.443447],
+  "bbox": [
+    -97.737909,
+    43.443447,
+    -97.737909,
+    43.443447
+],
   "geometry": {"coordinates":[-97.737909,43.443447],"type":"Point"}
 }

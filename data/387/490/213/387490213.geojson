@@ -2,13 +2,14 @@
   "id": 387490213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.346867,44.374997,-100.346867,44.374997",
     "geom:latitude":44.374997,
     "geom:longitude":-100.346867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 E Elizabeth St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387490213,
-    "wof:lastmodified":1449059528,
+    "wof:lastmodified":1467082755,
     "wof:name":"Hyde Holding Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-100.346867,44.374997,-100.346867,44.374997],
+  "bbox": [
+    -100.346867,
+    44.374997,
+    -100.346867,
+    44.374997
+],
   "geometry": {"coordinates":[-100.346867,44.374997],"type":"Point"}
 }

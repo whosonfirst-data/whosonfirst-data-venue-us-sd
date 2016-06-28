@@ -2,13 +2,14 @@
   "id": 387015755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750511,43.5666,-96.750511,43.5666",
     "geom:latitude":43.5666,
     "geom:longitude":-96.750511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 W Elkhorn St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387015755,
-    "wof:lastmodified":1449056971,
+    "wof:lastmodified":1467082704,
     "wof:name":"Robinson & Muenster Assoc Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "analysis"
     ]
 },
-  "bbox": [-96.750511,43.5666,-96.750511,43.5666],
+  "bbox": [
+    -96.750511,
+    43.5666,
+    -96.750511,
+    43.5666
+],
   "geometry": {"coordinates":[-96.750511,43.5666],"type":"Point"}
 }

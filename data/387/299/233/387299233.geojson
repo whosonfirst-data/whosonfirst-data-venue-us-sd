@@ -2,13 +2,14 @@
   "id": 387299233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810074,43.461351,-96.810074,43.461351",
     "geom:latitude":43.461351,
     "geom:longitude":-96.810074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27088 Thomas Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387299233,
-    "wof:lastmodified":1449057072,
+    "wof:lastmodified":1467082706,
     "wof:name":"Heritage Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.810074,43.461351,-96.810074,43.461351],
+  "bbox": [
+    -96.810074,
+    43.461351,
+    -96.810074,
+    43.461351
+],
   "geometry": {"coordinates":[-96.810074,43.461351],"type":"Point"}
 }

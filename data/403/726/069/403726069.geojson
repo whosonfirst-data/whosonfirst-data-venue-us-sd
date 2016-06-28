@@ -2,13 +2,14 @@
   "id": 403726069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.679148,43.508523,-96.679148,43.508523",
     "geom:latitude":43.508523,
     "geom:longitude":-96.679148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 S Lisanne Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403726069,
-    "wof:lastmodified":1449055519,
+    "wof:lastmodified":1467082681,
     "wof:name":"Nipce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.679148,43.508523,-96.679148,43.508523],
+  "bbox": [
+    -96.679148,
+    43.508523,
+    -96.679148,
+    43.508523
+],
   "geometry": {"coordinates":[-96.679148,43.508523],"type":"Point"}
 }

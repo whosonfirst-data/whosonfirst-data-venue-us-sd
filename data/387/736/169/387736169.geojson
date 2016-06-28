@@ -2,13 +2,14 @@
   "id": 387736169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.062974,45.369203,-98.062974,45.369203",
     "geom:latitude":45.369203,
     "geom:longitude":-98.062974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13911 408th Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387736169,
-    "wof:lastmodified":1449059879,
+    "wof:lastmodified":1467082762,
     "wof:name":"Mike Harry",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.062974,45.369203,-98.062974,45.369203],
+  "bbox": [
+    -98.062974,
+    45.369203,
+    -98.062974,
+    45.369203
+],
   "geometry": {"coordinates":[-98.062974,45.369203],"type":"Point"}
 }

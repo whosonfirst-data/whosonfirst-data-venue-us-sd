@@ -2,13 +2,14 @@
   "id": 387051437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.076455,43.24295,-97.076455,43.24295",
     "geom:latitude":43.24295,
     "geom:longitude":-97.076455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45670 286th St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387051437,
-    "wof:lastmodified":1449058454,
+    "wof:lastmodified":1467082734,
     "wof:name":"Shear Expressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.076455,43.24295,-97.076455,43.24295],
+  "bbox": [
+    -97.076455,
+    43.24295,
+    -97.076455,
+    43.24295
+],
   "geometry": {"coordinates":[-97.076455,43.24295],"type":"Point"}
 }

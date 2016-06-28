@@ -2,13 +2,14 @@
   "id": 387223721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.032798,43.6989,-98.032798,43.6989",
     "geom:latitude":43.6989,
     "geom:longitude":-98.032798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 W University Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387223721,
-    "wof:lastmodified":1449056375,
+    "wof:lastmodified":1467082692,
     "wof:name":"Layne Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.032798,43.6989,-98.032798,43.6989],
+  "bbox": [
+    -98.032798,
+    43.6989,
+    -98.032798,
+    43.6989
+],
   "geometry": {"coordinates":[-98.032798,43.6989],"type":"Point"}
 }

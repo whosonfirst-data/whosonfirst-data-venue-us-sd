@@ -2,13 +2,14 @@
   "id": 387371923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.16547,43.668319,-98.16547,43.668319",
     "geom:latitude":43.668319,
     "geom:longitude":-98.16547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25632 402nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387371923,
-    "wof:lastmodified":1449059063,
+    "wof:lastmodified":1467082746,
     "wof:name":"Rhoades Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welding"
     ]
 },
-  "bbox": [-98.16547,43.668319,-98.16547,43.668319],
+  "bbox": [
+    -98.16547,
+    43.668319,
+    -98.16547,
+    43.668319
+],
   "geometry": {"coordinates":[-98.16547,43.668319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403772241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.213607,44.348804,-98.213607,44.348804",
     "geom:latitude":44.348804,
     "geom:longitude":-98.213607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 15th St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403772241,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1467082679,
     "wof:name":"Jim's Custom Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "frame"
     ]
 },
-  "bbox": [-98.213607,44.348804,-98.213607,44.348804],
+  "bbox": [
+    -98.213607,
+    44.348804,
+    -98.213607,
+    44.348804
+],
   "geometry": {"coordinates":[-98.213607,44.348804],"type":"Point"}
 }

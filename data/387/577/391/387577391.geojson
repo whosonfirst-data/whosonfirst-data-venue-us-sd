@@ -2,13 +2,14 @@
   "id": 387577391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.117214,44.902276,-97.117214,44.902276",
     "geom:latitude":44.902276,
     "geom:longitude":-97.117214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 1st Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387577391,
-    "wof:lastmodified":1449060030,
+    "wof:lastmodified":1467082765,
     "wof:name":"Haney's Transmission Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-97.117214,44.902276,-97.117214,44.902276],
+  "bbox": [
+    -97.117214,
+    44.902276,
+    -97.117214,
+    44.902276
+],
   "geometry": {"coordinates":[-97.117214,44.902276],"type":"Point"}
 }

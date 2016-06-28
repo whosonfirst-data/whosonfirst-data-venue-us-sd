@@ -2,13 +2,14 @@
   "id": 387454571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.126473,43.984977,-102.126473,43.984977",
     "geom:latitude":43.984977,
     "geom:longitude":-102.126473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Hwy 1416",
     "sg:city":"Quinn",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387454571,
-    "wof:lastmodified":1449059557,
+    "wof:lastmodified":1467082756,
     "wof:name":"US Post Office",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.126473,43.984977,-102.126473,43.984977],
+  "bbox": [
+    -102.126473,
+    43.984977,
+    -102.126473,
+    43.984977
+],
   "geometry": {"coordinates":[-102.126473,43.984977],"type":"Point"}
 }

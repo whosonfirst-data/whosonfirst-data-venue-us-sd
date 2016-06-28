@@ -2,13 +2,14 @@
   "id": 387012599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711615,43.823386,-96.711615,43.823386",
     "geom:latitude":43.823386,
     "geom:longitude":-96.711615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387012599,
-    "wof:lastmodified":1449059531,
+    "wof:lastmodified":1467082755,
     "wof:name":"Front Porch Peddler",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.711615,43.823386,-96.711615,43.823386],
-  "geometry": {"coordinates":[-96.711615,43.823386],"type":"Point"}
+  "bbox": [
+    -96.711615,
+    43.823386,
+    -96.711615,
+    43.823386
+],
+  "geometry": {"coordinates":[-96.71161499999999,43.823386],"type":"Point"}
 }

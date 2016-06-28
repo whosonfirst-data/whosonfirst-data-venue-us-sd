@@ -2,13 +2,14 @@
   "id": 387389959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025444,43.696701,-98.025444,43.696701",
     "geom:latitude":43.696701,
     "geom:longitude":-98.025444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 S Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387389959,
-    "wof:lastmodified":1449059139,
+    "wof:lastmodified":1467082747,
     "wof:name":"Paul's Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-98.025444,43.696701,-98.025444,43.696701],
-  "geometry": {"coordinates":[-98.025444,43.696701],"type":"Point"}
+  "bbox": [
+    -98.025444,
+    43.696701,
+    -98.025444,
+    43.696701
+],
+  "geometry": {"coordinates":[-98.02544399999999,43.696701],"type":"Point"}
 }

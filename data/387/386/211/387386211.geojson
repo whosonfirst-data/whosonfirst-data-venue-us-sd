@@ -2,13 +2,14 @@
   "id": 387386211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214091,44.346398,-98.214091,44.346398",
     "geom:latitude":44.346398,
     "geom:longitude":-98.214091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387386211,
-    "wof:lastmodified":1449058104,
+    "wof:lastmodified":1467082727,
     "wof:name":"South Side Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-98.214091,44.346398,-98.214091,44.346398],
+  "bbox": [
+    -98.214091,
+    44.346398,
+    -98.214091,
+    44.346398
+],
   "geometry": {"coordinates":[-98.214091,44.346398],"type":"Point"}
 }

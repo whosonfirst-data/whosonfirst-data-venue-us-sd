@@ -2,13 +2,14 @@
   "id": 387721453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.812089,43.083667,-96.812089,43.083667",
     "geom:latitude":43.083667,
     "geom:longitude":-96.812089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46967 State Hwy 46",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387721453,
-    "wof:lastmodified":1449059911,
+    "wof:lastmodified":1467082763,
     "wof:name":"Vik Horse Drawn Carriage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.812089,43.083667,-96.812089,43.083667],
+  "bbox": [
+    -96.812089,
+    43.083667,
+    -96.812089,
+    43.083667
+],
   "geometry": {"coordinates":[-96.812089,43.083667],"type":"Point"}
 }

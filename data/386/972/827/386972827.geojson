@@ -2,13 +2,14 @@
   "id": 386972827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.927368,43.500071,-99.927368,43.500071",
     "geom:latitude":43.500071,
     "geom:longitude":-99.927368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31176 269th St",
     "sg:city":"Ideal",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386972827,
-    "wof:lastmodified":1449028785,
+    "wof:lastmodified":1467082652,
     "wof:name":"Blare Pork LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [-99.927368,43.500071,-99.927368,43.500071],
+  "bbox": [
+    -99.927368,
+    43.500071,
+    -99.927368,
+    43.500071
+],
   "geometry": {"coordinates":[-99.927368,43.500071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371177459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.616212,43.560889,-96.616212,43.560889",
     "geom:latitude":43.560889,
     "geom:longitude":-96.616212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8609 E Hidden Valley Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371177459,
-    "wof:lastmodified":1449050137,
+    "wof:lastmodified":1467082673,
     "wof:name":"B & B Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-96.616212,43.560889,-96.616212,43.560889],
+  "bbox": [
+    -96.616212,
+    43.560889,
+    -96.616212,
+    43.560889
+],
   "geometry": {"coordinates":[-96.616212,43.560889],"type":"Point"}
 }

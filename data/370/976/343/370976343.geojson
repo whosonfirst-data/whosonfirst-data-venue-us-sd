@@ -2,13 +2,14 @@
   "id": 370976343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219207,44.081099,-103.219207,44.081099",
     "geom:latitude":44.081099,
     "geom:longitude":-103.219207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 2nd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370976343,
-    "wof:lastmodified":1449030486,
+    "wof:lastmodified":1467082656,
     "wof:name":"Detail Center",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clean"
     ]
 },
-  "bbox": [-103.219207,44.081099,-103.219207,44.081099],
+  "bbox": [
+    -103.219207,
+    44.081099,
+    -103.219207,
+    44.081099
+],
   "geometry": {"coordinates":[-103.219207,44.081099],"type":"Point"}
 }

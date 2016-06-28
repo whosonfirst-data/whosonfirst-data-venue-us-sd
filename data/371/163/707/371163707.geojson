@@ -2,13 +2,14 @@
   "id": 371163707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789872,43.228867,-96.789872,43.228867",
     "geom:latitude":43.228867,
     "geom:longitude":-96.789872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47066 287th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371163707,
-    "wof:lastmodified":1449050117,
+    "wof:lastmodified":1467082673,
     "wof:name":"Joel Westra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.789872,43.228867,-96.789872,43.228867],
+  "bbox": [
+    -96.789872,
+    43.228867,
+    -96.789872,
+    43.228867
+],
   "geometry": {"coordinates":[-96.789872,43.228867],"type":"Point"}
 }

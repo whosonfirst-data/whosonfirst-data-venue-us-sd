@@ -2,13 +2,14 @@
   "id": 387779477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.208158,43.281603,-98.208158,43.281603",
     "geom:latitude":43.281603,
     "geom:longitude":-98.208158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28308 399th Ave",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387779477,
-    "wof:lastmodified":1449056685,
+    "wof:lastmodified":1467082698,
     "wof:name":"Robert E Kurtz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.208158,43.281603,-98.208158,43.281603],
+  "bbox": [
+    -98.208158,
+    43.281603,
+    -98.208158,
+    43.281603
+],
   "geometry": {"coordinates":[-98.208158,43.281603],"type":"Point"}
 }

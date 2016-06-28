@@ -2,13 +2,14 @@
   "id": 387969033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80501,43.492528,-96.80501,43.492528",
     "geom:latitude":43.492528,
     "geom:longitude":-96.80501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6104 W Misty Glen Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387969033,
-    "wof:lastmodified":1449057015,
+    "wof:lastmodified":1467082705,
     "wof:name":"Lon Hatcher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-96.80501,43.492528,-96.80501,43.492528],
+  "bbox": [
+    -96.80501,
+    43.492528,
+    -96.80501,
+    43.492528
+],
   "geometry": {"coordinates":[-96.80501,43.492528],"type":"Point"}
 }

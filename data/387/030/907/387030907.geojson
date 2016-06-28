@@ -2,13 +2,14 @@
   "id": 387030907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52079,45.341059,-97.52079,45.341059",
     "geom:latitude":45.341059,
     "geom:longitude":-97.52079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387030907,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"Webster Auto Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.52079,45.341059,-97.52079,45.341059],
-  "geometry": {"coordinates":[-97.52079,45.341059],"type":"Point"}
+  "bbox": [
+    -97.52079,
+    45.341059,
+    -97.52079,
+    45.341059
+],
+  "geometry": {"coordinates":[-97.52079000000001,45.341059],"type":"Point"}
 }

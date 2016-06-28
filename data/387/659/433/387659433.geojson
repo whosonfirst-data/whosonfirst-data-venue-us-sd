@@ -2,13 +2,14 @@
   "id": 387659433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736456,44.879955,-97.736456,44.879955",
     "geom:latitude":44.879955,
     "geom:longitude":-97.736456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 3rd Ave NW",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387659433,
-    "wof:lastmodified":1449056514,
+    "wof:lastmodified":1467082695,
     "wof:name":"Northwest Transportation Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-97.736456,44.879955,-97.736456,44.879955],
+  "bbox": [
+    -97.736456,
+    44.879955,
+    -97.736456,
+    44.879955
+],
   "geometry": {"coordinates":[-97.736456,44.879955],"type":"Point"}
 }

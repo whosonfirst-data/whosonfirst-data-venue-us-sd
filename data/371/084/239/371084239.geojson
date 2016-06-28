@@ -2,13 +2,14 @@
   "id": 371084239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.124022,45.428822,-98.124022,45.428822",
     "geom:latitude":45.428822,
     "geom:longitude":-98.124022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W Willow St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371084239,
-    "wof:lastmodified":1449049133,
+    "wof:lastmodified":1467082659,
     "wof:name":"Harvey Fleihs Jr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.124022,45.428822,-98.124022,45.428822],
+  "bbox": [
+    -98.124022,
+    45.428822,
+    -98.124022,
+    45.428822
+],
   "geometry": {"coordinates":[-98.124022,45.428822],"type":"Point"}
 }

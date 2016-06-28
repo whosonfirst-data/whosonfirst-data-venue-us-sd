@@ -2,13 +2,14 @@
   "id": 387640819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.213078,44.061287,-103.213078,44.061287",
     "geom:latitude":44.061287,
     "geom:longitude":-103.213078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387640819,
-    "wof:lastmodified":1449057759,
+    "wof:lastmodified":1467082720,
     "wof:name":"Rightsound By Greg Wright",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-103.213078,44.061287,-103.213078,44.061287],
+  "bbox": [
+    -103.213078,
+    44.061287,
+    -103.213078,
+    44.061287
+],
   "geometry": {"coordinates":[-103.213078,44.061287],"type":"Point"}
 }

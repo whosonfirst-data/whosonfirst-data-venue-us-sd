@@ -2,13 +2,14 @@
   "id": 387827561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.63047,44.662897,-98.63047,44.662897",
     "geom:latitude":44.662897,
     "geom:longitude":-98.63047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37706 188th St",
     "sg:city":"Tulare",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387827561,
-    "wof:lastmodified":1449057462,
+    "wof:lastmodified":1467082714,
     "wof:name":"Lavern Hague",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.63047,44.662897,-98.63047,44.662897],
+  "bbox": [
+    -98.63047,
+    44.662897,
+    -98.63047,
+    44.662897
+],
   "geometry": {"coordinates":[-98.63047,44.662897],"type":"Point"}
 }

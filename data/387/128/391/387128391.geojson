@@ -2,13 +2,14 @@
   "id": 387128391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.152823,44.485246,-97.152823,44.485246",
     "geom:latitude":44.485246,
     "geom:longitude":-97.152823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45230 200th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387128391,
-    "wof:lastmodified":1449057597,
+    "wof:lastmodified":1467082717,
     "wof:name":"Glacial Lakes Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.152823,44.485246,-97.152823,44.485246],
+  "bbox": [
+    -97.152823,
+    44.485246,
+    -97.152823,
+    44.485246
+],
   "geometry": {"coordinates":[-97.152823,44.485246],"type":"Point"}
 }

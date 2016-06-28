@@ -2,13 +2,14 @@
   "id": 387081147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.048209,45.804369,-102.048209,45.804369",
     "geom:latitude":45.804369,
     "geom:longitude":-102.048209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19963 Lemmon Lake Rd",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387081147,
-    "wof:lastmodified":1449057281,
+    "wof:lastmodified":1467082710,
     "wof:name":"Wm Penfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-102.048209,45.804369,-102.048209,45.804369],
+  "bbox": [
+    -102.048209,
+    45.804369,
+    -102.048209,
+    45.804369
+],
   "geometry": {"coordinates":[-102.048209,45.804369],"type":"Point"}
 }

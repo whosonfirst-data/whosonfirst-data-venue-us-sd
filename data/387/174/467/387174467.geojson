@@ -2,13 +2,14 @@
   "id": 387174467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798605,44.310282,-96.798605,44.310282",
     "geom:latitude":44.310282,
     "geom:longitude":-96.798605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387174467,
-    "wof:lastmodified":1449056623,
+    "wof:lastmodified":1467082697,
     "wof:name":"Tadpoles To Tulips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-96.798605,44.310282,-96.798605,44.310282],
-  "geometry": {"coordinates":[-96.798605,44.310282],"type":"Point"}
+  "bbox": [
+    -96.798605,
+    44.310282,
+    -96.798605,
+    44.310282
+],
+  "geometry": {"coordinates":[-96.79860499999999,44.310282],"type":"Point"}
 }

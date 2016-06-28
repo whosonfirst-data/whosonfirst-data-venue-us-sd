@@ -2,13 +2,14 @@
   "id": 387735113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800112,44.304164,-96.800112,44.304164",
     "geom:latitude":44.304164,
     "geom:longitude":-96.800112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 3rd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387735113,
-    "wof:lastmodified":1449059832,
+    "wof:lastmodified":1467082761,
     "wof:name":"Super Storage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-96.800112,44.304164,-96.800112,44.304164],
+  "bbox": [
+    -96.800112,
+    44.304164,
+    -96.800112,
+    44.304164
+],
   "geometry": {"coordinates":[-96.800112,44.304164],"type":"Point"}
 }

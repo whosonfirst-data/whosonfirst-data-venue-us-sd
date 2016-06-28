@@ -2,13 +2,14 @@
   "id": 387939103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.400305,44.050627,-97.400305,44.050627",
     "geom:latitude":44.050627,
     "geom:longitude":-97.400305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23073 440th Ave",
     "sg:city":"Winfred",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387939103,
-    "wof:lastmodified":1449057216,
+    "wof:lastmodified":1467082709,
     "wof:name":"Martin J & Susan R Connor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.400305,44.050627,-97.400305,44.050627],
+  "bbox": [
+    -97.400305,
+    44.050627,
+    -97.400305,
+    44.050627
+],
   "geometry": {"coordinates":[-97.400305,44.050627],"type":"Point"}
 }

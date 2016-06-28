@@ -2,13 +2,14 @@
   "id": 387155551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70548,43.507486,-96.70548,43.507486",
     "geom:latitude":43.507486,
     "geom:longitude":-96.70548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 E 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387155551,
-    "wof:lastmodified":1449059255,
+    "wof:lastmodified":1467082750,
     "wof:name":"Oma100 LLC",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.70548,43.507486,-96.70548,43.507486],
-  "geometry": {"coordinates":[-96.70548,43.507486],"type":"Point"}
+  "bbox": [
+    -96.70548,
+    43.507486,
+    -96.70548,
+    43.507486
+],
+  "geometry": {"coordinates":[-96.70547999999999,43.507486],"type":"Point"}
 }

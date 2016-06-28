@@ -2,13 +2,14 @@
   "id": 387308319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.380093,44.067367,-98.380093,44.067367",
     "geom:latitude":44.067367,
     "geom:longitude":-98.380093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39159 228th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387308319,
-    "wof:lastmodified":1449060016,
+    "wof:lastmodified":1467082765,
     "wof:name":"Glen Hohn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.380093,44.067367,-98.380093,44.067367],
+  "bbox": [
+    -98.380093,
+    44.067367,
+    -98.380093,
+    44.067367
+],
   "geometry": {"coordinates":[-98.380093,44.067367],"type":"Point"}
 }

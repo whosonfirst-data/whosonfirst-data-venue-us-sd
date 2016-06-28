@@ -2,13 +2,14 @@
   "id": 387132243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227528,44.078999,-103.227528,44.078999",
     "geom:latitude":44.078999,
     "geom:longitude":-103.227528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387132243,
-    "wof:lastmodified":1449057961,
+    "wof:lastmodified":1467082724,
     "wof:name":"Graphics Plus",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.227528,44.078999,-103.227528,44.078999],
-  "geometry": {"coordinates":[-103.227528,44.078999],"type":"Point"}
+  "bbox": [
+    -103.227528,
+    44.078999,
+    -103.227528,
+    44.078999
+],
+  "geometry": {"coordinates":[-103.22752800000001,44.078999],"type":"Point"}
 }

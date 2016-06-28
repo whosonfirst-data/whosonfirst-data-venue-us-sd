@@ -2,13 +2,14 @@
   "id": 387290211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.44997,43.980522,-98.44997,43.980522",
     "geom:latitude":43.980522,
     "geom:longitude":-98.44997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38817 235th St",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387290211,
-    "wof:lastmodified":1449057741,
+    "wof:lastmodified":1467082720,
     "wof:name":"Kyle Wolter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.44997,43.980522,-98.44997,43.980522],
-  "geometry": {"coordinates":[-98.44997,43.980522],"type":"Point"}
+  "bbox": [
+    -98.44997,
+    43.980522,
+    -98.44997,
+    43.980522
+],
+  "geometry": {"coordinates":[-98.44996999999999,43.980522],"type":"Point"}
 }

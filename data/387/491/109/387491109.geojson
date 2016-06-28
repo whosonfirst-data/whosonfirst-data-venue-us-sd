@@ -2,13 +2,14 @@
   "id": 387491109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.511504,43.68882,-96.511504,43.68882",
     "geom:latitude":43.68882,
     "geom:longitude":-96.511504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25495 485th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387491109,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1467082686,
     "wof:name":"Palisades State Park",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "parks"
     ]
 },
-  "bbox": [-96.511504,43.68882,-96.511504,43.68882],
+  "bbox": [
+    -96.511504,
+    43.68882,
+    -96.511504,
+    43.68882
+],
   "geometry": {"coordinates":[-96.511504,43.68882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387901727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791236,43.463476,-96.791236,43.463476",
     "geom:latitude":43.463476,
     "geom:longitude":-96.791236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27062 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387901727,
-    "wof:lastmodified":1449057699,
+    "wof:lastmodified":1467082719,
     "wof:name":"Midwest Factory Finishes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.791236,43.463476,-96.791236,43.463476],
+  "bbox": [
+    -96.791236,
+    43.463476,
+    -96.791236,
+    43.463476
+],
   "geometry": {"coordinates":[-96.791236,43.463476],"type":"Point"}
 }

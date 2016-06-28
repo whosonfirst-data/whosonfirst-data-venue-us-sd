@@ -2,13 +2,14 @@
   "id": 387027255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.846394,43.376811,-99.846394,43.376811",
     "geom:latitude":43.376811,
     "geom:longitude":-99.846394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 E Hwy 44",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387027255,
-    "wof:lastmodified":1449056811,
+    "wof:lastmodified":1467082701,
     "wof:name":"Lamro Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-99.846394,43.376811,-99.846394,43.376811],
+  "bbox": [
+    -99.846394,
+    43.376811,
+    -99.846394,
+    43.376811
+],
   "geometry": {"coordinates":[-99.846394,43.376811],"type":"Point"}
 }

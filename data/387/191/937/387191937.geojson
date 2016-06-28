@@ -2,13 +2,14 @@
   "id": 387191937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437331,43.352451,-97.437331,43.352451",
     "geom:latitude":43.352451,
     "geom:longitude":-97.437331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387191937,
-    "wof:lastmodified":1449058409,
+    "wof:lastmodified":1467082733,
     "wof:name":"Freeman Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-97.437331,43.352451,-97.437331,43.352451],
+  "bbox": [
+    -97.437331,
+    43.352451,
+    -97.437331,
+    43.352451
+],
   "geometry": {"coordinates":[-97.437331,43.352451],"type":"Point"}
 }

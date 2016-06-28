@@ -2,13 +2,14 @@
   "id": 403781127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.434003,45.535282,-100.434003,45.535282",
     "geom:latitude":45.535282,
     "geom:longitude":-100.434003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 3rd St W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781127,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1467082677,
     "wof:name":"Mobridge Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-100.434003,45.535282,-100.434003,45.535282],
+  "bbox": [
+    -100.434003,
+    45.535282,
+    -100.434003,
+    45.535282
+],
   "geometry": {"coordinates":[-100.434003,45.535282],"type":"Point"}
 }

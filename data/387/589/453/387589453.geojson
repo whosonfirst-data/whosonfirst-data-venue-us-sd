@@ -2,13 +2,14 @@
   "id": 387589453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487964,45.472773,-98.487964,45.472773",
     "geom:latitude":45.472773,
     "geom:longitude":-98.487964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 7th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387589453,
-    "wof:lastmodified":1449058141,
+    "wof:lastmodified":1467082728,
     "wof:name":"D & S Wood",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-98.487964,45.472773,-98.487964,45.472773],
-  "geometry": {"coordinates":[-98.487964,45.472773],"type":"Point"}
+  "bbox": [
+    -98.487964,
+    45.472773,
+    -98.487964,
+    45.472773
+],
+  "geometry": {"coordinates":[-98.48796400000001,45.472773],"type":"Point"}
 }

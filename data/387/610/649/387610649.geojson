@@ -2,13 +2,14 @@
   "id": 387610649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.06025,43.003886,-98.06025,43.003886",
     "geom:latitude":43.003886,
     "geom:longitude":-98.06025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Main St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387610649,
-    "wof:lastmodified":1449059859,
+    "wof:lastmodified":1467082762,
     "wof:name":"Powers Furniture & Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.06025,43.003886,-98.06025,43.003886],
+  "bbox": [
+    -98.06025,
+    43.003886,
+    -98.06025,
+    43.003886
+],
   "geometry": {"coordinates":[-98.06025,43.003886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387732623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330184,43.808932,-99.330184,43.808932",
     "geom:latitude":43.808932,
     "geom:longitude":-99.330184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E King St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387732623,
-    "wof:lastmodified":1449060034,
+    "wof:lastmodified":1467082766,
     "wof:name":"Caseys General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.330184,43.808932,-99.330184,43.808932],
+  "bbox": [
+    -99.330184,
+    43.808932,
+    -99.330184,
+    43.808932
+],
   "geometry": {"coordinates":[-99.330184,43.808932],"type":"Point"}
 }

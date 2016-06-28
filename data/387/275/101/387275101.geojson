@@ -2,13 +2,14 @@
   "id": 387275101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.203128,44.355849,-98.203128,44.355849",
     "geom:latitude":44.355849,
     "geom:longitude":-98.203128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Simmons Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387275101,
-    "wof:lastmodified":1449057321,
+    "wof:lastmodified":1467082711,
     "wof:name":"J & J Lawn Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sprinkler"
     ]
 },
-  "bbox": [-98.203128,44.355849,-98.203128,44.355849],
-  "geometry": {"coordinates":[-98.203128,44.355849],"type":"Point"}
+  "bbox": [
+    -98.203128,
+    44.355849,
+    -98.203128,
+    44.355849
+],
+  "geometry": {"coordinates":[-98.20312800000001,44.355849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387479015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.494894,45.473815,-98.494894,45.473815",
     "geom:latitude":45.473815,
     "geom:longitude":-98.494894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 8th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387479015,
-    "wof:lastmodified":1449058711,
+    "wof:lastmodified":1467082739,
     "wof:name":"Northern Plains Psychological",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.494894,45.473815,-98.494894,45.473815],
+  "bbox": [
+    -98.494894,
+    45.473815,
+    -98.494894,
+    45.473815
+],
   "geometry": {"coordinates":[-98.494894,45.473815],"type":"Point"}
 }

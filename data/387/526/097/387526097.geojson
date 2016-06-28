@@ -2,13 +2,14 @@
   "id": 387526097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.176735,44.069777,-103.176735,44.069777",
     "geom:latitude":44.069777,
     "geom:longitude":-103.176735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1795 Sedivy Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387526097,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1467082710,
     "wof:name":"UPS",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-103.176735,44.069777,-103.176735,44.069777],
-  "geometry": {"coordinates":[-103.176735,44.069777],"type":"Point"}
+  "bbox": [
+    -103.176735,
+    44.069777,
+    -103.176735,
+    44.069777
+],
+  "geometry": {"coordinates":[-103.17673499999999,44.069777],"type":"Point"}
 }

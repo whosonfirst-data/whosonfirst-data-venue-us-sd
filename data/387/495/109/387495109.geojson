@@ -2,13 +2,14 @@
   "id": 387495109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.470617,43.433714,-103.470617,43.433714",
     "geom:latitude":43.433714,
     "geom:longitude":-103.470617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Jennings Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387495109,
-    "wof:lastmodified":1449057786,
+    "wof:lastmodified":1467082720,
     "wof:name":"Fall River Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.470617,43.433714,-103.470617,43.433714],
+  "bbox": [
+    -103.470617,
+    43.433714,
+    -103.470617,
+    43.433714
+],
   "geometry": {"coordinates":[-103.470617,43.433714],"type":"Point"}
 }

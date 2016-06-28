@@ -2,13 +2,14 @@
   "id": 387296731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773232,43.076302,-96.773232,43.076302",
     "geom:latitude":43.076302,
     "geom:longitude":-96.773232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Maple St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387296731,
-    "wof:lastmodified":1449059215,
+    "wof:lastmodified":1467082749,
     "wof:name":"Sundown Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.773232,43.076302,-96.773232,43.076302],
-  "geometry": {"coordinates":[-96.773232,43.076302],"type":"Point"}
+  "bbox": [
+    -96.773232,
+    43.076302,
+    -96.773232,
+    43.076302
+],
+  "geometry": {"coordinates":[-96.77323199999999,43.076302],"type":"Point"}
 }

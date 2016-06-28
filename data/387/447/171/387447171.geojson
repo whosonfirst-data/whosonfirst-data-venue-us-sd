@@ -2,13 +2,14 @@
   "id": 387447171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.717748,43.527636,-96.717748,43.527636",
     "geom:latitude":43.527636,
     "geom:longitude":-96.717748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E 28th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387447171,
-    "wof:lastmodified":1449058792,
+    "wof:lastmodified":1467082740,
     "wof:name":"Kayl Daycare",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.717748,43.527636,-96.717748,43.527636],
+  "bbox": [
+    -96.717748,
+    43.527636,
+    -96.717748,
+    43.527636
+],
   "geometry": {"coordinates":[-96.717748,43.527636],"type":"Point"}
 }

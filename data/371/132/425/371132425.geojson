@@ -2,13 +2,14 @@
   "id": 371132425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.022662,43.712472,-98.022662,43.712472",
     "geom:latitude":43.712472,
     "geom:longitude":-98.022662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 4th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371132425,
-    "wof:lastmodified":1449049519,
+    "wof:lastmodified":1467082665,
     "wof:name":"Carlon & Millar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.022662,43.712472,-98.022662,43.712472],
+  "bbox": [
+    -98.022662,
+    43.712472,
+    -98.022662,
+    43.712472
+],
   "geometry": {"coordinates":[-98.022662,43.712472],"type":"Point"}
 }

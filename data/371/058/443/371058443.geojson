@@ -2,13 +2,14 @@
   "id": 371058443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.723904,43.541357,-96.723904,43.541357",
     "geom:latitude":43.541357,
     "geom:longitude":-96.723904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E 14th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371058443,
-    "wof:lastmodified":1449049183,
+    "wof:lastmodified":1467082660,
     "wof:name":"Stockwell Engineers Inc",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-96.723904,43.541357,-96.723904,43.541357],
+  "bbox": [
+    -96.723904,
+    43.541357,
+    -96.723904,
+    43.541357
+],
   "geometry": {"coordinates":[-96.723904,43.541357],"type":"Point"}
 }

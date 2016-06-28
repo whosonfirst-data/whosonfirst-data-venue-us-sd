@@ -2,13 +2,14 @@
   "id": 387698749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77593,43.543974,-96.77593,43.543974",
     "geom:latitude":43.543974,
     "geom:longitude":-96.77593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387698749,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1467082758,
     "wof:name":"Billions Toyota",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.77593,43.543974,-96.77593,43.543974],
+  "bbox": [
+    -96.77593,
+    43.543974,
+    -96.77593,
+    43.543974
+],
   "geometry": {"coordinates":[-96.77593,43.543974],"type":"Point"}
 }

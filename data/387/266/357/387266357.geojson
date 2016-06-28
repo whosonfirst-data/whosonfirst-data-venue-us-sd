@@ -2,13 +2,14 @@
   "id": 387266357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.618593,43.542675,-96.618593,43.542675",
     "geom:latitude":43.542675,
     "geom:longitude":-96.618593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8605 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387266357,
-    "wof:lastmodified":1449056237,
+    "wof:lastmodified":1467082689,
     "wof:name":"A-1 Cleaning Service",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-96.618593,43.542675,-96.618593,43.542675],
+  "bbox": [
+    -96.618593,
+    43.542675,
+    -96.618593,
+    43.542675
+],
   "geometry": {"coordinates":[-96.618593,43.542675],"type":"Point"}
 }

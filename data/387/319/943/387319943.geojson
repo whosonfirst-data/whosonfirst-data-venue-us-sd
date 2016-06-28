@@ -2,13 +2,14 @@
   "id": 387319943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.741818,45.204099,-96.741818,45.204099",
     "geom:latitude":45.204099,
     "geom:longitude":-96.741818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15027 473rd Ave",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387319943,
-    "wof:lastmodified":1449057657,
+    "wof:lastmodified":1467082718,
     "wof:name":"Neil Pauli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-96.741818,45.204099,-96.741818,45.204099],
-  "geometry": {"coordinates":[-96.741818,45.204099],"type":"Point"}
+  "bbox": [
+    -96.741818,
+    45.204099,
+    -96.741818,
+    45.204099
+],
+  "geometry": {"coordinates":[-96.74181799999999,45.204099],"type":"Point"}
 }

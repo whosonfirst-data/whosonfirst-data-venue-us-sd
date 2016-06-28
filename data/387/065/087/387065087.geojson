@@ -2,13 +2,14 @@
   "id": 387065087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.385683,44.370522,-100.385683,44.370522",
     "geom:latitude":44.370522,
     "geom:longitude":-100.385683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 US Hwy 14",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387065087,
-    "wof:lastmodified":1449059875,
+    "wof:lastmodified":1467082762,
     "wof:name":"Midcontinent Cable Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.385683,44.370522,-100.385683,44.370522],
+  "bbox": [
+    -100.385683,
+    44.370522,
+    -100.385683,
+    44.370522
+],
   "geometry": {"coordinates":[-100.385683,44.370522],"type":"Point"}
 }

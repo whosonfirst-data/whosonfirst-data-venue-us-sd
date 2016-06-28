@@ -2,13 +2,14 @@
   "id": 403732241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.105717,43.008853,-97.105717,43.008853",
     "geom:latitude":43.008853,
     "geom:longitude":-97.105717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 2nd St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403732241,
-    "wof:lastmodified":1449056017,
+    "wof:lastmodified":1467082685,
     "wof:name":"One Stop Derby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.105717,43.008853,-97.105717,43.008853],
+  "bbox": [
+    -97.105717,
+    43.008853,
+    -97.105717,
+    43.008853
+],
   "geometry": {"coordinates":[-97.105717,43.008853],"type":"Point"}
 }

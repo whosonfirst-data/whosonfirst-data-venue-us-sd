@@ -2,13 +2,14 @@
   "id": 371035447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.958776,45.008217,-99.958776,45.008217",
     "geom:latitude":45.008217,
     "geom:longitude":-99.958776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W King Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371035447,
-    "wof:lastmodified":1449049894,
+    "wof:lastmodified":1467082670,
     "wof:name":"Lonny Potts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-99.958776,45.008217,-99.958776,45.008217],
+  "bbox": [
+    -99.958776,
+    45.008217,
+    -99.958776,
+    45.008217
+],
   "geometry": {"coordinates":[-99.958776,45.008217],"type":"Point"}
 }

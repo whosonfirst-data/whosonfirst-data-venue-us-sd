@@ -2,13 +2,14 @@
   "id": 371041085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.82635,45.507213,-99.82635,45.507213",
     "geom:latitude":45.507213,
     "geom:longitude":-99.82635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31731 130th St",
     "sg:city":"Java",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371041085,
-    "wof:lastmodified":1449049387,
+    "wof:lastmodified":1467082663,
     "wof:name":"Marlow J Schaffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.82635,45.507213,-99.82635,45.507213],
-  "geometry": {"coordinates":[-99.82635,45.507213],"type":"Point"}
+  "bbox": [
+    -99.82635,
+    45.507213,
+    -99.82635,
+    45.507213
+],
+  "geometry": {"coordinates":[-99.82635000000001,45.507213],"type":"Point"}
 }

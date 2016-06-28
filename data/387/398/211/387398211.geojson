@@ -2,13 +2,14 @@
   "id": 387398211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.738821,44.362527,-103.738821,44.362527",
     "geom:latitude":44.362527,
     "geom:longitude":-103.738821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Cliff St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387398211,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1467082693,
     "wof:name":"Twin City Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.738821,44.362527,-103.738821,44.362527],
+  "bbox": [
+    -103.738821,
+    44.362527,
+    -103.738821,
+    44.362527
+],
   "geometry": {"coordinates":[-103.738821,44.362527],"type":"Point"}
 }

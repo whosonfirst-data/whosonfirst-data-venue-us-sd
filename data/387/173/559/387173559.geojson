@@ -2,13 +2,14 @@
   "id": 387173559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76108,43.548228,-96.76108,43.548228",
     "geom:latitude":43.548228,
     "geom:longitude":-96.76108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387173559,
-    "wof:lastmodified":1449056834,
+    "wof:lastmodified":1467082701,
     "wof:name":"Plains Builders Exchange",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "construction"
     ]
 },
-  "bbox": [-96.76108,43.548228,-96.76108,43.548228],
-  "geometry": {"coordinates":[-96.76108,43.548228],"type":"Point"}
+  "bbox": [
+    -96.76108,
+    43.548228,
+    -96.76108,
+    43.548228
+],
+  "geometry": {"coordinates":[-96.76108000000001,43.548228],"type":"Point"}
 }

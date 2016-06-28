@@ -2,13 +2,14 @@
   "id": 387232567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.325409,44.094381,-103.325409,44.094381",
     "geom:latitude":44.094381,
     "geom:longitude":-103.325409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6444 Sun Ridge Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387232567,
-    "wof:lastmodified":1449057330,
+    "wof:lastmodified":1467082711,
     "wof:name":"Mox Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "real estate"
     ]
 },
-  "bbox": [-103.325409,44.094381,-103.325409,44.094381],
-  "geometry": {"coordinates":[-103.325409,44.094381],"type":"Point"}
+  "bbox": [
+    -103.325409,
+    44.094381,
+    -103.325409,
+    44.094381
+],
+  "geometry": {"coordinates":[-103.32540899999999,44.094381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387262795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.376954,43.938618,-103.376954,43.938618",
     "geom:latitude":43.938618,
     "geom:longitude":-103.376954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23906 Sun Country Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387262795,
-    "wof:lastmodified":1449058460,
+    "wof:lastmodified":1467082734,
     "wof:name":"Premier Homes Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.376954,43.938618,-103.376954,43.938618],
+  "bbox": [
+    -103.376954,
+    43.938618,
+    -103.376954,
+    43.938618
+],
   "geometry": {"coordinates":[-103.376954,43.938618],"type":"Point"}
 }

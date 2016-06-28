@@ -2,13 +2,14 @@
   "id": 387258877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.92143,44.004081,-97.92143,44.004081",
     "geom:latitude":44.004081,
     "geom:longitude":-97.92143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S Main St",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387258877,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1467082747,
     "wof:name":"Scott S Interior Finish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.92143,44.004081,-97.92143,44.004081],
+  "bbox": [
+    -97.92143,
+    44.004081,
+    -97.92143,
+    44.004081
+],
   "geometry": {"coordinates":[-97.92143,44.004081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387478537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.432562,45.534295,-100.432562,45.534295",
     "geom:latitude":45.534295,
     "geom:longitude":-100.432562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 2nd St E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387478537,
-    "wof:lastmodified":1449056243,
+    "wof:lastmodified":1467082689,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-100.432562,45.534295,-100.432562,45.534295],
+  "bbox": [
+    -100.432562,
+    45.534295,
+    -100.432562,
+    45.534295
+],
   "geometry": {"coordinates":[-100.432562,45.534295],"type":"Point"}
 }

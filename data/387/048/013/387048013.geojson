@@ -2,13 +2,14 @@
   "id": 387048013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.29229,43.183109,-99.29229,43.183109",
     "geom:latitude":43.183109,
     "geom:longitude":-99.29229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Main St",
     "sg:city":"Burke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387048013,
-    "wof:lastmodified":1449057422,
+    "wof:lastmodified":1467082713,
     "wof:name":"Pat's Food Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.29229,43.183109,-99.29229,43.183109],
-  "geometry": {"coordinates":[-99.29229,43.183109],"type":"Point"}
+  "bbox": [
+    -99.29229,
+    43.183109,
+    -99.29229,
+    43.183109
+],
+  "geometry": {"coordinates":[-99.29228999999999,43.183109],"type":"Point"}
 }

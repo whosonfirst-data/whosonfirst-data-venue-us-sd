@@ -2,13 +2,14 @@
   "id": 387509441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645863,43.533771,-96.645863,43.533771",
     "geom:latitude":43.533771,
     "geom:longitude":-96.645863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 E Splitrock Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387509441,
-    "wof:lastmodified":1449056271,
+    "wof:lastmodified":1467082690,
     "wof:name":"Markhardt Medical",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-96.645863,43.533771,-96.645863,43.533771],
-  "geometry": {"coordinates":[-96.645863,43.533771],"type":"Point"}
+  "bbox": [
+    -96.645863,
+    43.533771,
+    -96.645863,
+    43.533771
+],
+  "geometry": {"coordinates":[-96.64586300000001,43.533771],"type":"Point"}
 }

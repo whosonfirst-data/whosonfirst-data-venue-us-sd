@@ -2,13 +2,14 @@
   "id": 387912439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.153198,45.942944,-102.153198,45.942944",
     "geom:latitude":45.942944,
     "geom:longitude":-102.153198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 2nd St E",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387912439,
-    "wof:lastmodified":1449057983,
+    "wof:lastmodified":1467082725,
     "wof:name":"Lemmon Propane Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-102.153198,45.942944,-102.153198,45.942944],
+  "bbox": [
+    -102.153198,
+    45.942944,
+    -102.153198,
+    45.942944
+],
   "geometry": {"coordinates":[-102.153198,45.942944],"type":"Point"}
 }

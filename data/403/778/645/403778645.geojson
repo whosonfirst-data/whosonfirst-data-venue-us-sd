@@ -2,13 +2,14 @@
   "id": 403778645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.809941,45.434682,-99.809941,45.434682",
     "geom:latitude":45.434682,
     "geom:longitude":-99.809941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31807 135th St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403778645,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1467082674,
     "wof:name":"Dwane Lee Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.809941,45.434682,-99.809941,45.434682],
-  "geometry": {"coordinates":[-99.809941,45.434682],"type":"Point"}
+  "bbox": [
+    -99.809941,
+    45.434682,
+    -99.809941,
+    45.434682
+],
+  "geometry": {"coordinates":[-99.80994099999999,45.434682],"type":"Point"}
 }

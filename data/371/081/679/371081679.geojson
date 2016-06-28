@@ -2,13 +2,14 @@
   "id": 371081679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.836969,44.297254,-96.836969,44.297254",
     "geom:latitude":44.297254,
     "geom:longitude":-96.836969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 W 8th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371081679,
-    "wof:lastmodified":1449049332,
+    "wof:lastmodified":1467082662,
     "wof:name":"Southland Court Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.836969,44.297254,-96.836969,44.297254],
+  "bbox": [
+    -96.836969,
+    44.297254,
+    -96.836969,
+    44.297254
+],
   "geometry": {"coordinates":[-96.836969,44.297254],"type":"Point"}
 }

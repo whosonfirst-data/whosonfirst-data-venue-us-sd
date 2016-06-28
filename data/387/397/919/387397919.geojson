@@ -2,13 +2,14 @@
   "id": 387397919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.356108,43.964235,-103.356108,43.964235",
     "geom:latitude":43.964235,
     "geom:longitude":-103.356108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13514 Earl Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387397919,
-    "wof:lastmodified":1449057626,
+    "wof:lastmodified":1467082717,
     "wof:name":"Black Hills Adjusting Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.356108,43.964235,-103.356108,43.964235],
-  "geometry": {"coordinates":[-103.356108,43.964235],"type":"Point"}
+  "bbox": [
+    -103.356108,
+    43.964235,
+    -103.356108,
+    43.964235
+],
+  "geometry": {"coordinates":[-103.35610800000001,43.964235],"type":"Point"}
 }

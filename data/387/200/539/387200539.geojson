@@ -2,13 +2,14 @@
   "id": 387200539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734918,44.869884,-97.734918,44.869884",
     "geom:latitude":44.869884,
     "geom:longitude":-97.734918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 8th Ave SE",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387200539,
-    "wof:lastmodified":1449057632,
+    "wof:lastmodified":1467082717,
     "wof:name":"Kenneth Nordhus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.734918,44.869884,-97.734918,44.869884],
-  "geometry": {"coordinates":[-97.734918,44.869884],"type":"Point"}
+  "bbox": [
+    -97.734918,
+    44.869884,
+    -97.734918,
+    44.869884
+],
+  "geometry": {"coordinates":[-97.73491799999999,44.869884],"type":"Point"}
 }

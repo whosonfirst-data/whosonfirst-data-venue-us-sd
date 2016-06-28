@@ -2,13 +2,14 @@
   "id": 387013235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.464898,45.291563,-96.464898,45.291563",
     "geom:latitude":45.291563,
     "geom:longitude":-96.464898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Main St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387013235,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1467082738,
     "wof:name":"Big Stone City Auditor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-96.464898,45.291563,-96.464898,45.291563],
-  "geometry": {"coordinates":[-96.464898,45.291563],"type":"Point"}
+  "bbox": [
+    -96.464898,
+    45.291563,
+    -96.464898,
+    45.291563
+],
+  "geometry": {"coordinates":[-96.46489800000001,45.291563],"type":"Point"}
 }

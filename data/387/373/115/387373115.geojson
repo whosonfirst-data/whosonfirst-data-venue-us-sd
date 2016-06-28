@@ -2,13 +2,14 @@
   "id": 387373115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396696,42.882448,-97.396696,42.882448",
     "geom:latitude":42.882448,
     "geom:longitude":-97.396696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Broadway St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387373115,
-    "wof:lastmodified":1449058076,
+    "wof:lastmodified":1467082726,
     "wof:name":"K & R Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.396696,42.882448,-97.396696,42.882448],
-  "geometry": {"coordinates":[-97.396696,42.882448],"type":"Point"}
+  "bbox": [
+    -97.396696,
+    42.882448,
+    -97.396696,
+    42.882448
+],
+  "geometry": {"coordinates":[-97.39669600000001,42.882448],"type":"Point"}
 }

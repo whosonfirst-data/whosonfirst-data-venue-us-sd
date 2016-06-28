@@ -2,13 +2,14 @@
   "id": 387727809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.81763,43.533016,-96.81763,43.533016",
     "geom:latitude":43.533016,
     "geom:longitude":-96.81763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7400 W 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387727809,
-    "wof:lastmodified":1449056678,
+    "wof:lastmodified":1467082698,
     "wof:name":"Fast Coolers",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.81763,43.533016,-96.81763,43.533016],
-  "geometry": {"coordinates":[-96.81763,43.533016],"type":"Point"}
+  "bbox": [
+    -96.81763,
+    43.533016,
+    -96.81763,
+    43.533016
+],
+  "geometry": {"coordinates":[-96.81762999999999,43.533016],"type":"Point"}
 }

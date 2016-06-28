@@ -2,13 +2,14 @@
   "id": 387447051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844833,43.388148,-98.844833,43.388148",
     "geom:latitude":43.388148,
     "geom:longitude":-98.844833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387447051,
-    "wof:lastmodified":1449058790,
+    "wof:lastmodified":1467082740,
     "wof:name":"Carlon & Millar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.844833,43.388148,-98.844833,43.388148],
-  "geometry": {"coordinates":[-98.844833,43.388148],"type":"Point"}
+  "bbox": [
+    -98.844833,
+    43.388148,
+    -98.844833,
+    43.388148
+],
+  "geometry": {"coordinates":[-98.84483299999999,43.388148],"type":"Point"}
 }

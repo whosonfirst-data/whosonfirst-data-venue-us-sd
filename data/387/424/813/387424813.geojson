@@ -2,13 +2,14 @@
   "id": 387424813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.240282,43.992297,-102.240282,43.992297",
     "geom:latitude":43.992297,
     "geom:longitude":-102.240282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Norris St",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387424813,
-    "wof:lastmodified":1449059681,
+    "wof:lastmodified":1467082758,
     "wof:name":"Wall High School",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.240282,43.992297,-102.240282,43.992297],
-  "geometry": {"coordinates":[-102.240282,43.992297],"type":"Point"}
+  "bbox": [
+    -102.240282,
+    43.992297,
+    -102.240282,
+    43.992297
+],
+  "geometry": {"coordinates":[-102.24028199999999,43.992297],"type":"Point"}
 }

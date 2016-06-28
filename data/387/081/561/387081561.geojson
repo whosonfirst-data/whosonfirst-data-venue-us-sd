@@ -2,13 +2,14 @@
   "id": 387081561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520361,44.012378,-97.520361,44.012378",
     "geom:latitude":44.012378,
     "geom:longitude":-97.520361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Arthur St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387081561,
-    "wof:lastmodified":1449057280,
+    "wof:lastmodified":1467082710,
     "wof:name":"Howard Hsing Rdevelopment Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-97.520361,44.012378,-97.520361,44.012378],
-  "geometry": {"coordinates":[-97.520361,44.012378],"type":"Point"}
+  "bbox": [
+    -97.520361,
+    44.012378,
+    -97.520361,
+    44.012378
+],
+  "geometry": {"coordinates":[-97.52036099999999,44.012378],"type":"Point"}
 }

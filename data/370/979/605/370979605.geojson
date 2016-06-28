@@ -2,13 +2,14 @@
   "id": 370979605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63035,45.211631,-96.63035,45.211631",
     "geom:latitude":45.211631,
     "geom:longitude":-96.63035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Kerrydon Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370979605,
-    "wof:lastmodified":1449031473,
+    "wof:lastmodified":1467082657,
     "wof:name":"R E Lean Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arrangement"
     ]
 },
-  "bbox": [-96.63035,45.211631,-96.63035,45.211631],
-  "geometry": {"coordinates":[-96.63035,45.211631],"type":"Point"}
+  "bbox": [
+    -96.63035,
+    45.211631,
+    -96.63035,
+    45.211631
+],
+  "geometry": {"coordinates":[-96.63035000000001,45.211631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387772257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.10337,45.455982,-98.10337,45.455982",
     "geom:latitude":45.455982,
     "geom:longitude":-98.10337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 E 11th Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387772257,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1467082721,
     "wof:name":"Pizza Ranch",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.10337,45.455982,-98.10337,45.455982],
+  "bbox": [
+    -98.10337,
+    45.455982,
+    -98.10337,
+    45.455982
+],
   "geometry": {"coordinates":[-98.10337,45.455982],"type":"Point"}
 }

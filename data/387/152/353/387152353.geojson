@@ -2,13 +2,14 @@
   "id": 387152353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.757348,43.512226,-96.757348,43.512226",
     "geom:latitude":43.512226,
     "geom:longitude":-96.757348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 W Bethel Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387152353,
-    "wof:lastmodified":1449059033,
+    "wof:lastmodified":1467082745,
     "wof:name":"Western Park Apartments",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.757348,43.512226,-96.757348,43.512226],
-  "geometry": {"coordinates":[-96.757348,43.512226],"type":"Point"}
+  "bbox": [
+    -96.757348,
+    43.512226,
+    -96.757348,
+    43.512226
+],
+  "geometry": {"coordinates":[-96.75734799999999,43.512226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387309889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396672,42.877491,-97.396672,42.877491",
     "geom:latitude":42.877491,
     "geom:longitude":-97.396672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Broadway St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387309889,
-    "wof:lastmodified":1449056947,
+    "wof:lastmodified":1467082703,
     "wof:name":"Tripp Park Warming House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.396672,42.877491,-97.396672,42.877491],
+  "bbox": [
+    -97.396672,
+    42.877491,
+    -97.396672,
+    42.877491
+],
   "geometry": {"coordinates":[-97.396672,42.877491],"type":"Point"}
 }

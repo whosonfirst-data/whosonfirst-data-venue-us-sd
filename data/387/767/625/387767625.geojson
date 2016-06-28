@@ -2,13 +2,14 @@
   "id": 387767625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735744,43.553826,-96.735744,43.553826",
     "geom:latitude":43.553826,
     "geom:longitude":-96.735744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 W 4th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387767625,
-    "wof:lastmodified":1449057187,
+    "wof:lastmodified":1467082708,
     "wof:name":"St Joseph Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "religious"
     ]
 },
-  "bbox": [-96.735744,43.553826,-96.735744,43.553826],
+  "bbox": [
+    -96.735744,
+    43.553826,
+    -96.735744,
+    43.553826
+],
   "geometry": {"coordinates":[-96.735744,43.553826],"type":"Point"}
 }

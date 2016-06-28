@@ -2,13 +2,14 @@
   "id": 387468085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.069195,45.84077,-100.069195,45.84077",
     "geom:latitude":45.84077,
     "geom:longitude":-100.069195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Main St",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387468085,
-    "wof:lastmodified":1449058834,
+    "wof:lastmodified":1467082741,
     "wof:name":"Foothills Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-100.069195,45.84077,-100.069195,45.84077],
-  "geometry": {"coordinates":[-100.069195,45.84077],"type":"Point"}
+  "bbox": [
+    -100.069195,
+    45.84077,
+    -100.069195,
+    45.84077
+],
+  "geometry": {"coordinates":[-100.06919499999999,45.84077],"type":"Point"}
 }

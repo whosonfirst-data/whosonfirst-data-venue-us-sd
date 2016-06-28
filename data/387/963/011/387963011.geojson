@@ -2,13 +2,14 @@
   "id": 387963011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844748,43.38719,-98.844748,43.38719",
     "geom:latitude":43.38719,
     "geom:longitude":-98.844748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387963011,
-    "wof:lastmodified":1449056473,
+    "wof:lastmodified":1467082694,
     "wof:name":"Bultsma Truck Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-98.844748,43.38719,-98.844748,43.38719],
+  "bbox": [
+    -98.844748,
+    43.38719,
+    -98.844748,
+    43.38719
+],
   "geometry": {"coordinates":[-98.844748,43.38719],"type":"Point"}
 }

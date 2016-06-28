@@ -2,13 +2,14 @@
   "id": 387896473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.253487,44.101349,-103.253487,44.101349",
     "geom:latitude":44.101349,
     "geom:longitude":-103.253487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 S Plaza Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387896473,
-    "wof:lastmodified":1449057484,
+    "wof:lastmodified":1467082714,
     "wof:name":"Black Hills Machine",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-103.253487,44.101349,-103.253487,44.101349],
-  "geometry": {"coordinates":[-103.253487,44.101349],"type":"Point"}
+  "bbox": [
+    -103.253487,
+    44.101349,
+    -103.253487,
+    44.101349
+],
+  "geometry": {"coordinates":[-103.25348700000001,44.101349],"type":"Point"}
 }

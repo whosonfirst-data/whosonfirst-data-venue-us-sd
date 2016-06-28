@@ -2,13 +2,14 @@
   "id": 387292825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331082,43.601276,-97.331082,43.601276",
     "geom:latitude":43.601276,
     "geom:longitude":-97.331082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44302 261st St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387292825,
-    "wof:lastmodified":1449056425,
+    "wof:lastmodified":1467082693,
     "wof:name":"Buehner Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.331082,43.601276,-97.331082,43.601276],
-  "geometry": {"coordinates":[-97.331082,43.601276],"type":"Point"}
+  "bbox": [
+    -97.331082,
+    43.601276,
+    -97.331082,
+    43.601276
+],
+  "geometry": {"coordinates":[-97.33108199999999,43.601276],"type":"Point"}
 }

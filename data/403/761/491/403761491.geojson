@@ -2,13 +2,14 @@
   "id": 403761491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.599212,45.055839,-96.599212,45.055839",
     "geom:latitude":45.055839,
     "geom:longitude":-96.599212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16054 480th Ave",
     "sg:city":"Revillo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403761491,
-    "wof:lastmodified":1449055642,
+    "wof:lastmodified":1467082682,
     "wof:name":"Tucholke Homestead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "property"
     ]
 },
-  "bbox": [-96.599212,45.055839,-96.599212,45.055839],
-  "geometry": {"coordinates":[-96.599212,45.055839],"type":"Point"}
+  "bbox": [
+    -96.599212,
+    45.055839,
+    -96.599212,
+    45.055839
+],
+  "geometry": {"coordinates":[-96.59921199999999,45.055839],"type":"Point"}
 }

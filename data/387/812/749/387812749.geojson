@@ -2,13 +2,14 @@
   "id": 387812749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.413192,45.269188,-98.413192,45.269188",
     "geom:latitude":45.269188,
     "geom:longitude":-98.413192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14611 391st Ave",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387812749,
-    "wof:lastmodified":1449056226,
+    "wof:lastmodified":1467082689,
     "wof:name":"Kopacrest",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.413192,45.269188,-98.413192,45.269188],
+  "bbox": [
+    -98.413192,
+    45.269188,
+    -98.413192,
+    45.269188
+],
   "geometry": {"coordinates":[-98.413192,45.269188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387881895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689597,43.520202,-96.689597,43.520202",
     "geom:latitude":43.520202,
     "geom:longitude":-96.689597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2861 E Old Orchard Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387881895,
-    "wof:lastmodified":1449058310,
+    "wof:lastmodified":1467082731,
     "wof:name":"Old Orchard Studio",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-96.689597,43.520202,-96.689597,43.520202],
-  "geometry": {"coordinates":[-96.689597,43.520202],"type":"Point"}
+  "bbox": [
+    -96.689597,
+    43.520202,
+    -96.689597,
+    43.520202
+],
+  "geometry": {"coordinates":[-96.68959700000001,43.520202],"type":"Point"}
 }

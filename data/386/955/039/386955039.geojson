@@ -2,13 +2,14 @@
   "id": 386955039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488045,45.467498,-98.488045,45.467498",
     "geom:latitude":45.467498,
     "geom:longitude":-98.488045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":386955039,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1467082653,
     "wof:name":"Loren's Archery Shop",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.488045,45.467498,-98.488045,45.467498],
+  "bbox": [
+    -98.488045,
+    45.467498,
+    -98.488045,
+    45.467498
+],
   "geometry": {"coordinates":[-98.488045,45.467498],"type":"Point"}
 }

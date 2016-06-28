@@ -2,13 +2,14 @@
   "id": 387517111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.055923,43.010051,-98.055923,43.010051",
     "geom:latitude":43.010051,
     "geom:longitude":-98.055923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 N Birch St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387517111,
-    "wof:lastmodified":1449058282,
+    "wof:lastmodified":1467082730,
     "wof:name":"Dokota Senior Meals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.055923,43.010051,-98.055923,43.010051],
-  "geometry": {"coordinates":[-98.055923,43.010051],"type":"Point"}
+  "bbox": [
+    -98.055923,
+    43.010051,
+    -98.055923,
+    43.010051
+],
+  "geometry": {"coordinates":[-98.05592300000001,43.010051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403827883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.184997,43.701102,-97.184997,43.701102",
     "geom:latitude":43.701102,
     "geom:longitude":-97.184997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403827883,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1467082679,
     "wof:name":"General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.184997,43.701102,-97.184997,43.701102],
+  "bbox": [
+    -97.184997,
+    43.701102,
+    -97.184997,
+    43.701102
+],
   "geometry": {"coordinates":[-97.184997,43.701102],"type":"Point"}
 }

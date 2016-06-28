@@ -2,13 +2,14 @@
   "id": 370985563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.378543,44.362414,-97.378543,44.362414",
     "geom:latitude":44.362414,
     "geom:longitude":-97.378543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 2nd St NW",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370985563,
-    "wof:lastmodified":1449030761,
+    "wof:lastmodified":1467082656,
     "wof:name":"Lake Preston Co-Op Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-97.378543,44.362414,-97.378543,44.362414],
-  "geometry": {"coordinates":[-97.378543,44.362414],"type":"Point"}
+  "bbox": [
+    -97.378543,
+    44.362414,
+    -97.378543,
+    44.362414
+],
+  "geometry": {"coordinates":[-97.37854299999999,44.362414],"type":"Point"}
 }

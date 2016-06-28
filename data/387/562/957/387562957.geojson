@@ -2,13 +2,14 @@
   "id": 387562957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795097,43.527688,-96.795097,43.527688",
     "geom:latitude":43.527688,
     "geom:longitude":-96.795097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5512 W Abbey Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387562957,
-    "wof:lastmodified":1449058125,
+    "wof:lastmodified":1467082727,
     "wof:name":"Siteit Web Design",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-96.795097,43.527688,-96.795097,43.527688],
+  "bbox": [
+    -96.795097,
+    43.527688,
+    -96.795097,
+    43.527688
+],
   "geometry": {"coordinates":[-96.795097,43.527688],"type":"Point"}
 }

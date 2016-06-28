@@ -2,13 +2,14 @@
   "id": 403781725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.237604,44.028553,-103.237604,44.028553",
     "geom:latitude":44.028553,
     "geom:longitude":-103.237604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1364 Panorama Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403781725,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1467082677,
     "wof:name":"Z & S Dust Control Systems",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "material"
     ]
 },
-  "bbox": [-103.237604,44.028553,-103.237604,44.028553],
+  "bbox": [
+    -103.237604,
+    44.028553,
+    -103.237604,
+    44.028553
+],
   "geometry": {"coordinates":[-103.237604,44.028553],"type":"Point"}
 }

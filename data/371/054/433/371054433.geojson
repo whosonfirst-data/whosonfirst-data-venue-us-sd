@@ -2,13 +2,14 @@
   "id": 371054433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718964,45.2908,-96.718964,45.2908",
     "geom:latitude":45.2908,
     "geom:longitude":-96.718964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14444 474th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371054433,
-    "wof:lastmodified":1449049494,
+    "wof:lastmodified":1467082664,
     "wof:name":"Uncle Eddie's Auto Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.718964,45.2908,-96.718964,45.2908],
+  "bbox": [
+    -96.718964,
+    45.2908,
+    -96.718964,
+    45.2908
+],
   "geometry": {"coordinates":[-96.718964,45.2908],"type":"Point"}
 }

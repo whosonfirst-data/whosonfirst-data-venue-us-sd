@@ -2,13 +2,14 @@
   "id": 387579091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.313811,44.149097,-103.313811,44.149097",
     "geom:latitude":44.149097,
     "geom:longitude":-103.313811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5606 Cedar St",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387579091,
-    "wof:lastmodified":1449057306,
+    "wof:lastmodified":1467082710,
     "wof:name":"Byte After Byte Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.313811,44.149097,-103.313811,44.149097],
+  "bbox": [
+    -103.313811,
+    44.149097,
+    -103.313811,
+    44.149097
+],
   "geometry": {"coordinates":[-103.313811,44.149097],"type":"Point"}
 }

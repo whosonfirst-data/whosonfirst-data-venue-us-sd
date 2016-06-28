@@ -2,13 +2,14 @@
   "id": 371186699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.027018,43.712262,-98.027018,43.712262",
     "geom:latitude":43.712262,
     "geom:longitude":-98.027018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Rowley St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371186699,
-    "wof:lastmodified":1449049854,
+    "wof:lastmodified":1467082669,
     "wof:name":"Elaine Barrett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.027018,43.712262,-98.027018,43.712262],
+  "bbox": [
+    -98.027018,
+    43.712262,
+    -98.027018,
+    43.712262
+],
   "geometry": {"coordinates":[-98.027018,43.712262],"type":"Point"}
 }

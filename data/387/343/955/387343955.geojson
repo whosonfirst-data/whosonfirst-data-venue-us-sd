@@ -2,13 +2,14 @@
   "id": 387343955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820673,43.525254,-96.820673,43.525254",
     "geom:latitude":43.525254,
     "geom:longitude":-96.820673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7300 W Strabane St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387343955,
-    "wof:lastmodified":1449058811,
+    "wof:lastmodified":1467082741,
     "wof:name":"Chang Photography",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.820673,43.525254,-96.820673,43.525254],
+  "bbox": [
+    -96.820673,
+    43.525254,
+    -96.820673,
+    43.525254
+],
   "geometry": {"coordinates":[-96.820673,43.525254],"type":"Point"}
 }

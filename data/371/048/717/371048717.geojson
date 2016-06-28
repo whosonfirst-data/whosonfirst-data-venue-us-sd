@@ -2,13 +2,14 @@
   "id": 371048717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712006,43.513861,-96.712006,43.513861",
     "geom:latitude":43.513861,
     "geom:longitude":-96.712006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371048717,
-    "wof:lastmodified":1449049369,
+    "wof:lastmodified":1467082663,
     "wof:name":"Taylor Oil Co",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "station"
     ]
 },
-  "bbox": [-96.712006,43.513861,-96.712006,43.513861],
+  "bbox": [
+    -96.712006,
+    43.513861,
+    -96.712006,
+    43.513861
+],
   "geometry": {"coordinates":[-96.712006,43.513861],"type":"Point"}
 }

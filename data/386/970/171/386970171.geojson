@@ -2,13 +2,14 @@
   "id": 386970171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.616305,45.164804,-96.616305,45.164804",
     "geom:latitude":45.164804,
     "geom:longitude":-96.616305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47925 153rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386970171,
-    "wof:lastmodified":1449028972,
+    "wof:lastmodified":1467082655,
     "wof:name":"Loren Steinlicht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.616305,45.164804,-96.616305,45.164804],
+  "bbox": [
+    -96.616305,
+    45.164804,
+    -96.616305,
+    45.164804
+],
   "geometry": {"coordinates":[-96.616305,45.164804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387918357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785857,43.543307,-96.785857,43.543307",
     "geom:latitude":43.543307,
     "geom:longitude":-96.785857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Ebenezer Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387918357,
-    "wof:lastmodified":1449058701,
+    "wof:lastmodified":1467082739,
     "wof:name":"Tri State Cemetery Svc",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-96.785857,43.543307,-96.785857,43.543307],
-  "geometry": {"coordinates":[-96.785857,43.543307],"type":"Point"}
+  "bbox": [
+    -96.785857,
+    43.543307,
+    -96.785857,
+    43.543307
+],
+  "geometry": {"coordinates":[-96.78585699999999,43.543307],"type":"Point"}
 }

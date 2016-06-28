@@ -2,13 +2,14 @@
   "id": 387540493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578202,43.242176,-97.578202,43.242176",
     "geom:latitude":43.242176,
     "geom:longitude":-97.578202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N 5th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387540493,
-    "wof:lastmodified":1449057608,
+    "wof:lastmodified":1467082717,
     "wof:name":"Wilcoxon Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.578202,43.242176,-97.578202,43.242176],
+  "bbox": [
+    -97.578202,
+    43.242176,
+    -97.578202,
+    43.242176
+],
   "geometry": {"coordinates":[-97.578202,43.242176],"type":"Point"}
 }

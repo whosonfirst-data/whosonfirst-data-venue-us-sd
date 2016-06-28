@@ -2,13 +2,14 @@
   "id": 387519653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.333584,43.969886,-103.333584,43.969886",
     "geom:latitude":43.969886,
     "geom:longitude":-103.333584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23694 Strato Rim Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387519653,
-    "wof:lastmodified":1449059665,
+    "wof:lastmodified":1467082758,
     "wof:name":"Putz N' Glo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "golf"
     ]
 },
-  "bbox": [-103.333584,43.969886,-103.333584,43.969886],
+  "bbox": [
+    -103.333584,
+    43.969886,
+    -103.333584,
+    43.969886
+],
   "geometry": {"coordinates":[-103.333584,43.969886],"type":"Point"}
 }

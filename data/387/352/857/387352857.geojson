@@ -2,13 +2,14 @@
   "id": 387352857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.203263,43.527181,-98.203263,43.527181",
     "geom:latitude":43.527181,
     "geom:longitude":-98.203263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39948 266th St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387352857,
-    "wof:lastmodified":1449058443,
+    "wof:lastmodified":1467082734,
     "wof:name":"Chas Storm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.203263,43.527181,-98.203263,43.527181],
-  "geometry": {"coordinates":[-98.203263,43.527181],"type":"Point"}
+  "bbox": [
+    -98.203263,
+    43.527181,
+    -98.203263,
+    43.527181
+],
+  "geometry": {"coordinates":[-98.20326300000001,43.527181],"type":"Point"}
 }

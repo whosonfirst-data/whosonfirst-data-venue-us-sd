@@ -2,13 +2,14 @@
   "id": 387142025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115506,44.908941,-97.115506,44.908941",
     "geom:latitude":44.908941,
     "geom:longitude":-97.115506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 1st St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387142025,
-    "wof:lastmodified":1449059156,
+    "wof:lastmodified":1467082748,
     "wof:name":"Lgrsw Investment Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "closed"
     ]
 },
-  "bbox": [-97.115506,44.908941,-97.115506,44.908941],
+  "bbox": [
+    -97.115506,
+    44.908941,
+    -97.115506,
+    44.908941
+],
   "geometry": {"coordinates":[-97.115506,44.908941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387638545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480663,43.427268,-103.480663,43.427268",
     "geom:latitude":43.427268,
     "geom:longitude":-103.480663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 S 16th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387638545,
-    "wof:lastmodified":1449056323,
+    "wof:lastmodified":1467082691,
     "wof:name":"Bonde Gloria Beauty Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-103.480663,43.427268,-103.480663,43.427268],
-  "geometry": {"coordinates":[-103.480663,43.427268],"type":"Point"}
+  "bbox": [
+    -103.480663,
+    43.427268,
+    -103.480663,
+    43.427268
+],
+  "geometry": {"coordinates":[-103.48066300000001,43.427268],"type":"Point"}
 }

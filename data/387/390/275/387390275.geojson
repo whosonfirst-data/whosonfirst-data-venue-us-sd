@@ -2,13 +2,14 @@
   "id": 387390275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025554,43.713512,-98.025554,43.713512",
     "geom:latitude":43.713512,
     "geom:longitude":-98.025554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 5th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387390275,
-    "wof:lastmodified":1449059957,
+    "wof:lastmodified":1467082764,
     "wof:name":"Associates Of Mitchell Mtg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-98.025554,43.713512,-98.025554,43.713512],
+  "bbox": [
+    -98.025554,
+    43.713512,
+    -98.025554,
+    43.713512
+],
   "geometry": {"coordinates":[-98.025554,43.713512],"type":"Point"}
 }

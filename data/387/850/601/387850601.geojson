@@ -2,13 +2,14 @@
   "id": 387850601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.387992,44.232149,-103.387992,44.232149",
     "geom:latitude":44.232149,
     "geom:longitude":-103.387992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Main St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387850601,
-    "wof:lastmodified":1449058306,
+    "wof:lastmodified":1467082731,
     "wof:name":"Valley Wash House Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.387992,44.232149,-103.387992,44.232149],
+  "bbox": [
+    -103.387992,
+    44.232149,
+    -103.387992,
+    44.232149
+],
   "geometry": {"coordinates":[-103.387992,44.232149],"type":"Point"}
 }

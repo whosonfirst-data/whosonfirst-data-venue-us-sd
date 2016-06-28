@@ -2,13 +2,14 @@
   "id": 387961433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789218,43.543825,-96.789218,43.543825",
     "geom:latitude":43.543825,
     "geom:longitude":-96.789218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5009 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387961433,
-    "wof:lastmodified":1449059845,
+    "wof:lastmodified":1467082761,
     "wof:name":"South Dakota Assn-Rural Water",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.789218,43.543825,-96.789218,43.543825],
-  "geometry": {"coordinates":[-96.789218,43.543825],"type":"Point"}
+  "bbox": [
+    -96.789218,
+    43.543825,
+    -96.789218,
+    43.543825
+],
+  "geometry": {"coordinates":[-96.78921800000001,43.543825],"type":"Point"}
 }

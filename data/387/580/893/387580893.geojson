@@ -2,13 +2,14 @@
   "id": 387580893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768583,43.330294,-96.768583,43.330294",
     "geom:latitude":43.330294,
     "geom:longitude":-96.768583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Maple St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387580893,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1467082738,
     "wof:name":"Outlaw Slingers Beef Jerkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768583,43.330294,-96.768583,43.330294],
-  "geometry": {"coordinates":[-96.768583,43.330294],"type":"Point"}
+  "bbox": [
+    -96.768583,
+    43.330294,
+    -96.768583,
+    43.330294
+],
+  "geometry": {"coordinates":[-96.76858300000001,43.330294],"type":"Point"}
 }

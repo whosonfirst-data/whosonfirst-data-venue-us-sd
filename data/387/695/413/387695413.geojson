@@ -2,13 +2,14 @@
   "id": 387695413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.628074,43.025858,-96.628074,43.025858",
     "geom:latitude":43.025858,
     "geom:longitude":-96.628074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29960 State Hwy 11",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387695413,
-    "wof:lastmodified":1449057545,
+    "wof:lastmodified":1467082716,
     "wof:name":"R Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.628074,43.025858,-96.628074,43.025858],
+  "bbox": [
+    -96.628074,
+    43.025858,
+    -96.628074,
+    43.025858
+],
   "geometry": {"coordinates":[-96.628074,43.025858],"type":"Point"}
 }

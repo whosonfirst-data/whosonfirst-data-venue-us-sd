@@ -2,13 +2,14 @@
   "id": 387168743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713853,43.56976,-96.713853,43.56976",
     "geom:latitude":43.56976,
     "geom:longitude":-96.713853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Chambers St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387168743,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1467082727,
     "wof:name":"Sioux Falls Street Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.713853,43.56976,-96.713853,43.56976],
+  "bbox": [
+    -96.713853,
+    43.56976,
+    -96.713853,
+    43.56976
+],
   "geometry": {"coordinates":[-96.713853,43.56976],"type":"Point"}
 }

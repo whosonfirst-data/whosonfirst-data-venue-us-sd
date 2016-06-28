@@ -2,13 +2,14 @@
   "id": 387647065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522794,45.341056,-97.522794,45.341056",
     "geom:latitude":45.341056,
     "geom:longitude":-97.522794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387647065,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1467082723,
     "wof:name":"Bethesda Home Resident's Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.522794,45.341056,-97.522794,45.341056],
+  "bbox": [
+    -97.522794,
+    45.341056,
+    -97.522794,
+    45.341056
+],
   "geometry": {"coordinates":[-97.522794,45.341056],"type":"Point"}
 }

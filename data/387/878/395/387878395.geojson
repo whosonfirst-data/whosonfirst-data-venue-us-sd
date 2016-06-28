@@ -2,13 +2,14 @@
   "id": 387878395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499097,44.22389,-97.499097,44.22389",
     "geom:latitude":44.22389,
     "geom:longitude":-97.499097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43595 218th St",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387878395,
-    "wof:lastmodified":1449058097,
+    "wof:lastmodified":1467082727,
     "wof:name":"Shade Hill Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.499097,44.22389,-97.499097,44.22389],
-  "geometry": {"coordinates":[-97.499097,44.22389],"type":"Point"}
+  "bbox": [
+    -97.499097,
+    44.22389,
+    -97.499097,
+    44.22389
+],
+  "geometry": {"coordinates":[-97.49909700000001,44.22389],"type":"Point"}
 }

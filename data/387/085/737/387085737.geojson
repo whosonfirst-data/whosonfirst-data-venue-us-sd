@@ -2,13 +2,14 @@
   "id": 387085737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.669313,43.686936,-98.669313,43.686936",
     "geom:latitude":43.686936,
     "geom:longitude":-98.669313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37624 255th St",
     "sg:city":"White Lake",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387085737,
-    "wof:lastmodified":1449057056,
+    "wof:lastmodified":1467082705,
     "wof:name":"Bradley Hohbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.669313,43.686936,-98.669313,43.686936],
+  "bbox": [
+    -98.669313,
+    43.686936,
+    -98.669313,
+    43.686936
+],
   "geometry": {"coordinates":[-98.669313,43.686936],"type":"Point"}
 }

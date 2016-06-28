@@ -2,13 +2,14 @@
   "id": 387650377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085802,43.171835,-97.085802,43.171835",
     "geom:latitude":43.171835,
     "geom:longitude":-97.085802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Maple St",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387650377,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1467082733,
     "wof:name":"P D T LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.085802,43.171835,-97.085802,43.171835],
+  "bbox": [
+    -97.085802,
+    43.171835,
+    -97.085802,
+    43.171835
+],
   "geometry": {"coordinates":[-97.085802,43.171835],"type":"Point"}
 }

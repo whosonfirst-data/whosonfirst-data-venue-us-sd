@@ -2,13 +2,14 @@
   "id": 387003257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.395302,42.876704,-97.395302,42.876704",
     "geom:latitude":42.876704,
     "geom:longitude":-97.395302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Cedar St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387003257,
-    "wof:lastmodified":1449059620,
+    "wof:lastmodified":1467082757,
     "wof:name":"Lammers Sales & Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.395302,42.876704,-97.395302,42.876704],
+  "bbox": [
+    -97.395302,
+    42.876704,
+    -97.395302,
+    42.876704
+],
   "geometry": {"coordinates":[-97.395302,42.876704],"type":"Point"}
 }

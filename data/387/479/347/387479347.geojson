@@ -2,13 +2,14 @@
   "id": 387479347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751335,43.717682,-96.751335,43.717682",
     "geom:latitude":43.717682,
     "geom:longitude":-96.751335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25357 473rd Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387479347,
-    "wof:lastmodified":1449058712,
+    "wof:lastmodified":1467082739,
     "wof:name":"David Haagenson",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.751335,43.717682,-96.751335,43.717682],
+  "bbox": [
+    -96.751335,
+    43.717682,
+    -96.751335,
+    43.717682
+],
   "geometry": {"coordinates":[-96.751335,43.717682],"type":"Point"}
 }

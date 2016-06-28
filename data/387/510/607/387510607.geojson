@@ -2,13 +2,14 @@
   "id": 387510607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646778,44.337004,-96.646778,44.337004",
     "geom:latitude":44.337004,
     "geom:longitude":-96.646778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21025 478th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387510607,
-    "wof:lastmodified":1449058394,
+    "wof:lastmodified":1467082733,
     "wof:name":"Log Home Dealers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.646778,44.337004,-96.646778,44.337004],
+  "bbox": [
+    -96.646778,
+    44.337004,
+    -96.646778,
+    44.337004
+],
   "geometry": {"coordinates":[-96.646778,44.337004],"type":"Point"}
 }

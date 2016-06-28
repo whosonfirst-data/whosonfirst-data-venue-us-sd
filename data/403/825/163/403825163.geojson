@@ -2,13 +2,14 @@
   "id": 403825163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.565418,43.24245,-98.565418,43.24245",
     "geom:latitude":43.24245,
     "geom:longitude":-98.565418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28599 381st Ave",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403825163,
-    "wof:lastmodified":1449054671,
+    "wof:lastmodified":1467082675,
     "wof:name":"Bruner Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.565418,43.24245,-98.565418,43.24245],
-  "geometry": {"coordinates":[-98.565418,43.24245],"type":"Point"}
+  "bbox": [
+    -98.565418,
+    43.24245,
+    -98.565418,
+    43.24245
+],
+  "geometry": {"coordinates":[-98.56541799999999,43.24245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387235849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.274922,43.154216,-98.274922,43.154216",
     "geom:latitude":43.154216,
     "geom:longitude":-98.274922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39588 292nd St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387235849,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1467082699,
     "wof:name":"Choteau Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.274922,43.154216,-98.274922,43.154216],
+  "bbox": [
+    -98.274922,
+    43.154216,
+    -98.274922,
+    43.154216
+],
   "geometry": {"coordinates":[-98.274922,43.154216],"type":"Point"}
 }

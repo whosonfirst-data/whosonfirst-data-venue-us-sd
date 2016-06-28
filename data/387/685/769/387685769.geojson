@@ -2,13 +2,14 @@
   "id": 387685769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715806,43.54869,-96.715806,43.54869",
     "geom:latitude":43.54869,
     "geom:longitude":-96.715806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387685769,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1467082761,
     "wof:name":"Roger's Shop",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoring"
     ]
 },
-  "bbox": [-96.715806,43.54869,-96.715806,43.54869],
+  "bbox": [
+    -96.715806,
+    43.54869,
+    -96.715806,
+    43.54869
+],
   "geometry": {"coordinates":[-96.715806,43.54869],"type":"Point"}
 }

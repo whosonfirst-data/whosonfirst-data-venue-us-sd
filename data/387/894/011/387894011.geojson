@@ -2,13 +2,14 @@
   "id": 387894011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.848428,43.674231,-96.848428,43.674231",
     "geom:latitude":43.674231,
     "geom:longitude":-96.848428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46832 256th St",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387894011,
-    "wof:lastmodified":1449057677,
+    "wof:lastmodified":1467082718,
     "wof:name":"Dakota Grain Dryers Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.848428,43.674231,-96.848428,43.674231],
+  "bbox": [
+    -96.848428,
+    43.674231,
+    -96.848428,
+    43.674231
+],
   "geometry": {"coordinates":[-96.848428,43.674231],"type":"Point"}
 }

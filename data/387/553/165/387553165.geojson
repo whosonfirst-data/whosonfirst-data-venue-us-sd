@@ -2,13 +2,14 @@
   "id": 387553165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486469,45.461173,-98.486469,45.461173",
     "geom:latitude":45.461173,
     "geom:longitude":-98.486469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 4th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387553165,
-    "wof:lastmodified":1449056138,
+    "wof:lastmodified":1467082687,
     "wof:name":"Federal Bldg Cafeteria 2nd Flr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.486469,45.461173,-98.486469,45.461173],
+  "bbox": [
+    -98.486469,
+    45.461173,
+    -98.486469,
+    45.461173
+],
   "geometry": {"coordinates":[-98.486469,45.461173],"type":"Point"}
 }

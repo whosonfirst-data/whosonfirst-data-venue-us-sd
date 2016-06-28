@@ -2,13 +2,14 @@
   "id": 371103749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04154,43.068997,-97.04154,43.068997",
     "geom:latitude":43.068997,
     "geom:longitude":-97.04154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45838 298th St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371103749,
-    "wof:lastmodified":1449049693,
+    "wof:lastmodified":1467082667,
     "wof:name":"Knutson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.04154,43.068997,-97.04154,43.068997],
+  "bbox": [
+    -97.04154,
+    43.068997,
+    -97.04154,
+    43.068997
+],
   "geometry": {"coordinates":[-97.04154,43.068997],"type":"Point"}
 }

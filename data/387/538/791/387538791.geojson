@@ -2,13 +2,14 @@
   "id": 387538791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.919597,44.892057,-96.919597,44.892057",
     "geom:latitude":44.892057,
     "geom:longitude":-96.919597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Dakota Ave N",
     "sg:city":"Kranzburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387538791,
-    "wof:lastmodified":1449056587,
+    "wof:lastmodified":1467082696,
     "wof:name":"First Premier Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.919597,44.892057,-96.919597,44.892057],
+  "bbox": [
+    -96.919597,
+    44.892057,
+    -96.919597,
+    44.892057
+],
   "geometry": {"coordinates":[-96.919597,44.892057],"type":"Point"}
 }

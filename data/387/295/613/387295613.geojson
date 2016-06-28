@@ -2,13 +2,14 @@
   "id": 387295613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781112,44.291151,-96.781112,44.291151",
     "geom:latitude":44.291151,
     "geom:longitude":-96.781112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Camelot Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387295613,
-    "wof:lastmodified":1449057649,
+    "wof:lastmodified":1467082718,
     "wof:name":"Egeberg Sharan Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.781112,44.291151,-96.781112,44.291151],
-  "geometry": {"coordinates":[-96.781112,44.291151],"type":"Point"}
+  "bbox": [
+    -96.781112,
+    44.291151,
+    -96.781112,
+    44.291151
+],
+  "geometry": {"coordinates":[-96.78111199999999,44.291151],"type":"Point"}
 }

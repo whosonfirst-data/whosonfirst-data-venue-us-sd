@@ -2,13 +2,14 @@
   "id": 387864091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217135,44.373578,-98.217135,44.373578",
     "geom:latitude":44.373578,
     "geom:longitude":-98.217135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"657 Illinois Ave NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387864091,
-    "wof:lastmodified":1449059965,
+    "wof:lastmodified":1467082764,
     "wof:name":"Buschs Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.217135,44.373578,-98.217135,44.373578],
+  "bbox": [
+    -98.217135,
+    44.373578,
+    -98.217135,
+    44.373578
+],
   "geometry": {"coordinates":[-98.217135,44.373578],"type":"Point"}
 }

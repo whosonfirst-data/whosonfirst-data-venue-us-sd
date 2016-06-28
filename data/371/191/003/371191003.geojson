@@ -2,13 +2,14 @@
   "id": 371191003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109713,44.016033,-97.109713,44.016033",
     "geom:latitude":44.016033,
     "geom:longitude":-97.109713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371191003,
-    "wof:lastmodified":1449049666,
+    "wof:lastmodified":1467082667,
     "wof:name":"Thrivent Fincl For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-97.109713,44.016033,-97.109713,44.016033],
+  "bbox": [
+    -97.109713,
+    44.016033,
+    -97.109713,
+    44.016033
+],
   "geometry": {"coordinates":[-97.109713,44.016033],"type":"Point"}
 }

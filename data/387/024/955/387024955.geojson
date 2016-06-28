@@ -2,13 +2,14 @@
   "id": 387024955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.818197,45.461875,-98.818197,45.461875",
     "geom:latitude":45.461875,
     "geom:longitude":-98.818197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36892 133rd St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387024955,
-    "wof:lastmodified":1449057927,
+    "wof:lastmodified":1467082723,
     "wof:name":"Leslie Kessler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.818197,45.461875,-98.818197,45.461875],
+  "bbox": [
+    -98.818197,
+    45.461875,
+    -98.818197,
+    45.461875
+],
   "geometry": {"coordinates":[-98.818197,45.461875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387034369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.883347,43.502331,-96.883347,43.502331",
     "geom:latitude":43.502331,
     "geom:longitude":-96.883347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26793 Meadow Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387034369,
-    "wof:lastmodified":1449056535,
+    "wof:lastmodified":1467082695,
     "wof:name":"A & J Excavating Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.883347,43.502331,-96.883347,43.502331],
+  "bbox": [
+    -96.883347,
+    43.502331,
+    -96.883347,
+    43.502331
+],
   "geometry": {"coordinates":[-96.883347,43.502331],"type":"Point"}
 }

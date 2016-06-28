@@ -2,13 +2,14 @@
   "id": 387726941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.026671,45.666372,-100.026671,45.666372",
     "geom:latitude":45.666372,
     "geom:longitude":-100.026671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30856 119th St",
     "sg:city":"Mound City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387726941,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1467082739,
     "wof:name":"Iverson AG Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.026671,45.666372,-100.026671,45.666372],
-  "geometry": {"coordinates":[-100.026671,45.666372],"type":"Point"}
+  "bbox": [
+    -100.026671,
+    45.666372,
+    -100.026671,
+    45.666372
+],
+  "geometry": {"coordinates":[-100.02667099999999,45.666372],"type":"Point"}
 }

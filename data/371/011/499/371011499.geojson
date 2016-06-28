@@ -2,13 +2,14 @@
   "id": 371011499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489571,45.465081,-98.489571,45.465081",
     "geom:latitude":45.465081,
     "geom:longitude":-98.489571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 S 1st St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371011499,
-    "wof:lastmodified":1449049907,
+    "wof:lastmodified":1467082670,
     "wof:name":"O K Tire Stores",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-98.489571,45.465081,-98.489571,45.465081],
+  "bbox": [
+    -98.489571,
+    45.465081,
+    -98.489571,
+    45.465081
+],
   "geometry": {"coordinates":[-98.489571,45.465081],"type":"Point"}
 }

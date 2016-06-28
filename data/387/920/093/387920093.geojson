@@ -2,13 +2,14 @@
   "id": 387920093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77416,43.080416,-96.77416,43.080416",
     "geom:latitude":43.080416,
     "geom:longitude":-96.77416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S 3rd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387920093,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1467082746,
     "wof:name":"Hairwork's Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.77416,43.080416,-96.77416,43.080416],
-  "geometry": {"coordinates":[-96.77416,43.080416],"type":"Point"}
+  "bbox": [
+    -96.77416,
+    43.080416,
+    -96.77416,
+    43.080416
+],
+  "geometry": {"coordinates":[-96.77415999999999,43.080416],"type":"Point"}
 }

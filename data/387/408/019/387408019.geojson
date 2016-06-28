@@ -2,13 +2,14 @@
   "id": 387408019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.23207,44.063236,-103.23207,44.063236",
     "geom:latitude":44.063236,
     "geom:longitude":-103.23207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Meade St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387408019,
-    "wof:lastmodified":1449056579,
+    "wof:lastmodified":1467082696,
     "wof:name":"Pine Peaks Dental",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-103.23207,44.063236,-103.23207,44.063236],
-  "geometry": {"coordinates":[-103.23207,44.063236],"type":"Point"}
+  "bbox": [
+    -103.23207,
+    44.063236,
+    -103.23207,
+    44.063236
+],
+  "geometry": {"coordinates":[-103.23206999999999,44.063236],"type":"Point"}
 }

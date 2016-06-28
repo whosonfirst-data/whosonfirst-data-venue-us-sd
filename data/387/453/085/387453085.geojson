@@ -2,13 +2,14 @@
   "id": 387453085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598535,43.767914,-103.598535,43.767914",
     "geom:latitude":43.767914,
     "geom:longitude":-103.598535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Crook St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387453085,
-    "wof:lastmodified":1449058963,
+    "wof:lastmodified":1467082744,
     "wof:name":"Allen's Home Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.598535,43.767914,-103.598535,43.767914],
+  "bbox": [
+    -103.598535,
+    43.767914,
+    -103.598535,
+    43.767914
+],
   "geometry": {"coordinates":[-103.598535,43.767914],"type":"Point"}
 }

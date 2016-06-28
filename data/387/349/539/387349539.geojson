@@ -2,13 +2,14 @@
   "id": 387349539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.639808,44.460449,-103.639808,44.460449",
     "geom:latitude":44.460449,
     "geom:longitude":-103.639808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Pine St",
     "sg:city":"Whitewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387349539,
-    "wof:lastmodified":1449057544,
+    "wof:lastmodified":1467082716,
     "wof:name":"Randy Tinnell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-103.639808,44.460449,-103.639808,44.460449],
+  "bbox": [
+    -103.639808,
+    44.460449,
+    -103.639808,
+    44.460449
+],
   "geometry": {"coordinates":[-103.639808,44.460449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403703939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7294,43.545922,-96.7294,43.545922",
     "geom:latitude":43.545922,
     "geom:longitude":-96.7294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 W 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403703939,
-    "wof:lastmodified":1449055047,
+    "wof:lastmodified":1467082678,
     "wof:name":"Sioux Falls Community Dev Dept",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dev"
     ]
 },
-  "bbox": [-96.7294,43.545922,-96.7294,43.545922],
+  "bbox": [
+    -96.7294,
+    43.545922,
+    -96.7294,
+    43.545922
+],
   "geometry": {"coordinates":[-96.7294,43.545922],"type":"Point"}
 }

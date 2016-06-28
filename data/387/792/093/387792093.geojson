@@ -2,13 +2,14 @@
   "id": 387792093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.783302,44.474309,-103.783302,44.474309",
     "geom:latitude":44.474309,
     "geom:longitude":-103.783302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387792093,
-    "wof:lastmodified":1449056915,
+    "wof:lastmodified":1467082703,
     "wof:name":"TWL Billing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.783302,44.474309,-103.783302,44.474309],
-  "geometry": {"coordinates":[-103.783302,44.474309],"type":"Point"}
+  "bbox": [
+    -103.783302,
+    44.474309,
+    -103.783302,
+    44.474309
+],
+  "geometry": {"coordinates":[-103.78330200000001,44.474309],"type":"Point"}
 }

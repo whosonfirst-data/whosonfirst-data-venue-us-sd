@@ -2,13 +2,14 @@
   "id": 386940119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.874119,44.503139,-103.874119,44.503139",
     "geom:latitude":44.503139,
     "geom:longitude":-103.874119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Hillsview Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386940119,
-    "wof:lastmodified":1449028691,
+    "wof:lastmodified":1467082650,
     "wof:name":"Pat's Moving & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-103.874119,44.503139,-103.874119,44.503139],
-  "geometry": {"coordinates":[-103.874119,44.503139],"type":"Point"}
+  "bbox": [
+    -103.874119,
+    44.503139,
+    -103.874119,
+    44.503139
+],
+  "geometry": {"coordinates":[-103.87411899999999,44.503139],"type":"Point"}
 }

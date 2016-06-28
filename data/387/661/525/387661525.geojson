@@ -2,13 +2,14 @@
   "id": 387661525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.66853,43.521311,-96.66853,43.521311",
     "geom:latitude":43.521311,
     "geom:longitude":-96.66853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 S Bernhaven Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387661525,
-    "wof:lastmodified":1449059505,
+    "wof:lastmodified":1467082755,
     "wof:name":"Permaglaze Of The Sioux Empire",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-96.66853,43.521311,-96.66853,43.521311],
+  "bbox": [
+    -96.66853,
+    43.521311,
+    -96.66853,
+    43.521311
+],
   "geometry": {"coordinates":[-96.66853,43.521311],"type":"Point"}
 }

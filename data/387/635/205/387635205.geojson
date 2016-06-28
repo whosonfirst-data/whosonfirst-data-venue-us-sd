@@ -2,13 +2,14 @@
   "id": 387635205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191625,44.072916,-103.191625,44.072916",
     "geom:latitude":44.072916,
     "geom:longitude":-103.191625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":387635205,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1467082720,
     "wof:name":"Select Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-103.191625,44.072916,-103.191625,44.072916],
+  "bbox": [
+    -103.191625,
+    44.072916,
+    -103.191625,
+    44.072916
+],
   "geometry": {"coordinates":[-103.191625,44.072916],"type":"Point"}
 }

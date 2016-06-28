@@ -2,13 +2,14 @@
   "id": 387584663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.04562,43.703407,-98.04562,43.703407",
     "geom:latitude":43.703407,
     "geom:longitude":-98.04562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 W Elm St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387584663,
-    "wof:lastmodified":1449056526,
+    "wof:lastmodified":1467082695,
     "wof:name":"Mitchell Catholic Religious",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.04562,43.703407,-98.04562,43.703407],
+  "bbox": [
+    -98.04562,
+    43.703407,
+    -98.04562,
+    43.703407
+],
   "geometry": {"coordinates":[-98.04562,43.703407],"type":"Point"}
 }

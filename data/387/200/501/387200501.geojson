@@ -2,13 +2,14 @@
   "id": 387200501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768399,44.29488,-96.768399,44.29488",
     "geom:latitude":44.29488,
     "geom:longitude":-96.768399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"972 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387200501,
-    "wof:lastmodified":1449057631,
+    "wof:lastmodified":1467082717,
     "wof:name":"Audio Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-96.768399,44.29488,-96.768399,44.29488],
+  "bbox": [
+    -96.768399,
+    44.29488,
+    -96.768399,
+    44.29488
+],
   "geometry": {"coordinates":[-96.768399,44.29488],"type":"Point"}
 }

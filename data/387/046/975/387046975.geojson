@@ -2,13 +2,14 @@
   "id": 387046975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.166477,44.019907,-103.166477,44.019907",
     "geom:latitude":44.019907,
     "geom:longitude":-103.166477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5406 Old Folsom Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387046975,
-    "wof:lastmodified":1449058223,
+    "wof:lastmodified":1467082729,
     "wof:name":"Dakota Craft Builders Supply",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-103.166477,44.019907,-103.166477,44.019907],
+  "bbox": [
+    -103.166477,
+    44.019907,
+    -103.166477,
+    44.019907
+],
   "geometry": {"coordinates":[-103.166477,44.019907],"type":"Point"}
 }

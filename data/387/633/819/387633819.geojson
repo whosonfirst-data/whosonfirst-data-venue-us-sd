@@ -2,13 +2,14 @@
   "id": 387633819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.262092,44.098257,-103.262092,44.098257",
     "geom:latitude":44.098257,
     "geom:longitude":-103.262092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 Rand Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387633819,
-    "wof:lastmodified":1449059891,
+    "wof:lastmodified":1467082762,
     "wof:name":"Natures Touch Log Furniture Sp",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mill"
     ]
 },
-  "bbox": [-103.262092,44.098257,-103.262092,44.098257],
+  "bbox": [
+    -103.262092,
+    44.098257,
+    -103.262092,
+    44.098257
+],
   "geometry": {"coordinates":[-103.262092,44.098257],"type":"Point"}
 }

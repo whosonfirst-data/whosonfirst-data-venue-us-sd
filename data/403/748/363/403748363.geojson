@@ -2,13 +2,14 @@
   "id": 403748363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710004,43.535997,-96.710004,43.535997",
     "geom:latitude":43.535997,
     "geom:longitude":-96.710004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 S Sherman Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403748363,
-    "wof:lastmodified":1449055622,
+    "wof:lastmodified":1467082682,
     "wof:name":"Jaymar Business Forms Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-96.710004,43.535997,-96.710004,43.535997],
+  "bbox": [
+    -96.710004,
+    43.535997,
+    -96.710004,
+    43.535997
+],
   "geometry": {"coordinates":[-96.710004,43.535997],"type":"Point"}
 }

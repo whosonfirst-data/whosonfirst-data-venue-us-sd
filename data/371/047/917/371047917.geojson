@@ -2,13 +2,14 @@
   "id": 371047917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.50935,43.709846,-96.50935,43.709846",
     "geom:latitude":43.709846,
     "geom:longitude":-96.50935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Dows St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371047917,
-    "wof:lastmodified":1449049732,
+    "wof:lastmodified":1467082668,
     "wof:name":"River Avenue Court",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-96.50935,43.709846,-96.50935,43.709846],
+  "bbox": [
+    -96.50935,
+    43.709846,
+    -96.50935,
+    43.709846
+],
   "geometry": {"coordinates":[-96.50935,43.709846],"type":"Point"}
 }

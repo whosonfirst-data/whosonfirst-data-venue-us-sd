@@ -2,13 +2,14 @@
   "id": 387081629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.290735,43.181432,-99.290735,43.181432",
     "geom:latitude":43.181432,
     "geom:longitude":-99.290735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Washington St",
     "sg:city":"Burke",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387081629,
-    "wof:lastmodified":1449057281,
+    "wof:lastmodified":1467082710,
     "wof:name":"Burke Superintendent Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.290735,43.181432,-99.290735,43.181432],
+  "bbox": [
+    -99.290735,
+    43.181432,
+    -99.290735,
+    43.181432
+],
   "geometry": {"coordinates":[-99.290735,43.181432],"type":"Point"}
 }

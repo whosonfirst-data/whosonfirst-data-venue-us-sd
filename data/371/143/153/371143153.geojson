@@ -2,13 +2,14 @@
   "id": 371143153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.518843,44.871764,-98.518843,44.871764",
     "geom:latitude":44.871764,
     "geom:longitude":-98.518843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 W Commercial Ln",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371143153,
-    "wof:lastmodified":1449049939,
+    "wof:lastmodified":1467082671,
     "wof:name":"South Dakota Wheat Grwrs Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-98.518843,44.871764,-98.518843,44.871764],
+  "bbox": [
+    -98.518843,
+    44.871764,
+    -98.518843,
+    44.871764
+],
   "geometry": {"coordinates":[-98.518843,44.871764],"type":"Point"}
 }

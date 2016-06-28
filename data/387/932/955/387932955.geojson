@@ -2,13 +2,14 @@
   "id": 387932955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80391,43.373962,-96.80391,43.373962",
     "geom:latitude":43.373962,
     "geom:longitude":-96.80391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47034 277th St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387932955,
-    "wof:lastmodified":1449057521,
+    "wof:lastmodified":1467082715,
     "wof:name":"Dose's Custom Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.80391,43.373962,-96.80391,43.373962],
+  "bbox": [
+    -96.80391,
+    43.373962,
+    -96.80391,
+    43.373962
+],
   "geometry": {"coordinates":[-96.80391,43.373962],"type":"Point"}
 }

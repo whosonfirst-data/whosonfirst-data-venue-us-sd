@@ -2,13 +2,14 @@
   "id": 387870663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.194732,44.91223,-97.194732,44.91223",
     "geom:latitude":44.91223,
     "geom:longitude":-97.194732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Golf Course Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387870663,
-    "wof:lastmodified":1449057104,
+    "wof:lastmodified":1467082706,
     "wof:name":"Tim Mack Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "system"
     ]
 },
-  "bbox": [-97.194732,44.91223,-97.194732,44.91223],
+  "bbox": [
+    -97.194732,
+    44.91223,
+    -97.194732,
+    44.91223
+],
   "geometry": {"coordinates":[-97.194732,44.91223],"type":"Point"}
 }

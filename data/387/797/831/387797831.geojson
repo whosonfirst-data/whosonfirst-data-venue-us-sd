@@ -2,13 +2,14 @@
   "id": 387797831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.887518,43.352332,-96.887518,43.352332",
     "geom:latitude":43.352332,
     "geom:longitude":-96.887518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E 4th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387797831,
-    "wof:lastmodified":1449059540,
+    "wof:lastmodified":1467082755,
     "wof:name":"Bossman Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.887518,43.352332,-96.887518,43.352332],
+  "bbox": [
+    -96.887518,
+    43.352332,
+    -96.887518,
+    43.352332
+],
   "geometry": {"coordinates":[-96.887518,43.352332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371143223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7536,43.542145,-96.7536,43.542145",
     "geom:latitude":43.542145,
     "geom:longitude":-96.7536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 W 13th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371143223,
-    "wof:lastmodified":1449049937,
+    "wof:lastmodified":1467082671,
     "wof:name":"Hines Shine Quality Window Clg",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.7536,43.542145,-96.7536,43.542145],
-  "geometry": {"coordinates":[-96.7536,43.542145],"type":"Point"}
+  "bbox": [
+    -96.7536,
+    43.542145,
+    -96.7536,
+    43.542145
+],
+  "geometry": {"coordinates":[-96.75360000000001,43.542145],"type":"Point"}
 }

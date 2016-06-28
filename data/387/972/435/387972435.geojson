@@ -2,13 +2,14 @@
   "id": 387972435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.122904,44.896945,-97.122904,44.896945",
     "geom:latitude":44.896945,
     "geom:longitude":-97.122904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 4th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387972435,
-    "wof:lastmodified":1449058016,
+    "wof:lastmodified":1467082725,
     "wof:name":"Chuck's Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.122904,44.896945,-97.122904,44.896945],
-  "geometry": {"coordinates":[-97.122904,44.896945],"type":"Point"}
+  "bbox": [
+    -97.122904,
+    44.896945,
+    -97.122904,
+    44.896945
+],
+  "geometry": {"coordinates":[-97.12290400000001,44.896945],"type":"Point"}
 }

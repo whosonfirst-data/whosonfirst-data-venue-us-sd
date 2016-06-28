@@ -2,13 +2,14 @@
   "id": 387579337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.047199,45.663818,-97.047199,45.663818",
     "geom:latitude":45.663818,
     "geom:longitude":-97.047199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Maple St E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387579337,
-    "wof:lastmodified":1449057310,
+    "wof:lastmodified":1467082710,
     "wof:name":"Red Nation Gaming LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.047199,45.663818,-97.047199,45.663818],
-  "geometry": {"coordinates":[-97.047199,45.663818],"type":"Point"}
+  "bbox": [
+    -97.047199,
+    45.663818,
+    -97.047199,
+    45.663818
+],
+  "geometry": {"coordinates":[-97.04719900000001,45.663818],"type":"Point"}
 }

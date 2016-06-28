@@ -2,13 +2,14 @@
   "id": 387613797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714553,43.551294,-96.714553,43.551294",
     "geom:latitude":43.551294,
     "geom:longitude":-96.714553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 E 6th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387613797,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1467082722,
     "wof:name":"Whittier Middle School",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.714553,43.551294,-96.714553,43.551294],
+  "bbox": [
+    -96.714553,
+    43.551294,
+    -96.714553,
+    43.551294
+],
   "geometry": {"coordinates":[-96.714553,43.551294],"type":"Point"}
 }

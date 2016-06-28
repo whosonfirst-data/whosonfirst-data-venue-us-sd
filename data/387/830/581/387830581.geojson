@@ -2,13 +2,14 @@
   "id": 387830581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249845,44.080368,-103.249845,44.080368",
     "geom:latitude":44.080368,
     "geom:longitude":-103.249845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 W Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387830581,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1467082702,
     "wof:name":"Curt's Upholstery",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-103.249845,44.080368,-103.249845,44.080368],
-  "geometry": {"coordinates":[-103.249845,44.080368],"type":"Point"}
+  "bbox": [
+    -103.249845,
+    44.080368,
+    -103.249845,
+    44.080368
+],
+  "geometry": {"coordinates":[-103.24984499999999,44.080368],"type":"Point"}
 }

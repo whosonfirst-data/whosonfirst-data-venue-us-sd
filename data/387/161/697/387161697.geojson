@@ -2,13 +2,14 @@
   "id": 387161697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.697201,43.558453,-96.697201,43.558453",
     "geom:latitude":43.558453,
     "geom:longitude":-96.697201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 N Omaha Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387161697,
-    "wof:lastmodified":1449057616,
+    "wof:lastmodified":1467082717,
     "wof:name":"Newlin Roofing & Insulation Co",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.697201,43.558453,-96.697201,43.558453],
-  "geometry": {"coordinates":[-96.697201,43.558453],"type":"Point"}
+  "bbox": [
+    -96.697201,
+    43.558453,
+    -96.697201,
+    43.558453
+],
+  "geometry": {"coordinates":[-96.69720100000001,43.558453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371078385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.990099,43.398945,-97.990099,43.398945",
     "geom:latitude":43.398945,
     "geom:longitude":-97.990099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N 4th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371078385,
-    "wof:lastmodified":1449049968,
+    "wof:lastmodified":1467082671,
     "wof:name":"Avera Bormann Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.990099,43.398945,-97.990099,43.398945],
+  "bbox": [
+    -97.990099,
+    43.398945,
+    -97.990099,
+    43.398945
+],
   "geometry": {"coordinates":[-97.990099,43.398945],"type":"Point"}
 }

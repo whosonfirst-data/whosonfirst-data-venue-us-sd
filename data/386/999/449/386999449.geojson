@@ -2,13 +2,14 @@
   "id": 386999449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.885915,43.262848,-96.885915,43.262848",
     "geom:latitude":43.262848,
     "geom:longitude":-96.885915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28466 466th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386999449,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1467082655,
     "wof:name":"Wyatt Gedstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.885915,43.262848,-96.885915,43.262848],
+  "bbox": [
+    -96.885915,
+    43.262848,
+    -96.885915,
+    43.262848
+],
   "geometry": {"coordinates":[-96.885915,43.262848],"type":"Point"}
 }

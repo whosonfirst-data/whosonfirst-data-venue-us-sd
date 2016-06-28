@@ -2,13 +2,14 @@
   "id": 387177659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.670093,43.560047,-96.670093,43.560047",
     "geom:latitude":43.560047,
     "geom:longitude":-96.670093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 N Vail Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387177659,
-    "wof:lastmodified":1449059916,
+    "wof:lastmodified":1467082763,
     "wof:name":"Old English Building Maint",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-96.670093,43.560047,-96.670093,43.560047],
-  "geometry": {"coordinates":[-96.670093,43.560047],"type":"Point"}
+  "bbox": [
+    -96.670093,
+    43.560047,
+    -96.670093,
+    43.560047
+],
+  "geometry": {"coordinates":[-96.67009299999999,43.560047],"type":"Point"}
 }

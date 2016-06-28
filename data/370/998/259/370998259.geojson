@@ -2,13 +2,14 @@
   "id": 370998259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.62688,43.733058,-97.62688,43.733058",
     "geom:latitude":43.733058,
     "geom:longitude":-97.62688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25108 429th Ave",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370998259,
-    "wof:lastmodified":1449030216,
+    "wof:lastmodified":1467082656,
     "wof:name":"K & M Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-97.62688,43.733058,-97.62688,43.733058],
+  "bbox": [
+    -97.62688,
+    43.733058,
+    -97.62688,
+    43.733058
+],
   "geometry": {"coordinates":[-97.62688,43.733058],"type":"Point"}
 }

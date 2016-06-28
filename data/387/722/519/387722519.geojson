@@ -2,13 +2,14 @@
   "id": 387722519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.510203,44.006802,-97.510203,44.006802",
     "geom:latitude":44.006802,
     "geom:longitude":-97.510203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23303 435th Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387722519,
-    "wof:lastmodified":1449057435,
+    "wof:lastmodified":1467082713,
     "wof:name":"Clarke Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.510203,44.006802,-97.510203,44.006802],
+  "bbox": [
+    -97.510203,
+    44.006802,
+    -97.510203,
+    44.006802
+],
   "geometry": {"coordinates":[-97.510203,44.006802],"type":"Point"}
 }

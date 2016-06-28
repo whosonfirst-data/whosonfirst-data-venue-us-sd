@@ -2,13 +2,14 @@
   "id": 387844719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.621126,45.76724,-99.621126,45.76724",
     "geom:latitude":45.76724,
     "geom:longitude":-99.621126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 J Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387844719,
-    "wof:lastmodified":1449057727,
+    "wof:lastmodified":1467082719,
     "wof:name":"Prairie Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.621126,45.76724,-99.621126,45.76724],
+  "bbox": [
+    -99.621126,
+    45.76724,
+    -99.621126,
+    45.76724
+],
   "geometry": {"coordinates":[-99.621126,45.76724],"type":"Point"}
 }

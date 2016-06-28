@@ -2,13 +2,14 @@
   "id": 387162835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.423163,44.713517,-103.423163,44.713517",
     "geom:latitude":44.713517,
     "geom:longitude":-103.423163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 2nd St",
     "sg:city":"St Onge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387162835,
-    "wof:lastmodified":1449059368,
+    "wof:lastmodified":1467082752,
     "wof:name":"Heavenly Radiator Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-103.423163,44.713517,-103.423163,44.713517],
+  "bbox": [
+    -103.423163,
+    44.713517,
+    -103.423163,
+    44.713517
+],
   "geometry": {"coordinates":[-103.423163,44.713517],"type":"Point"}
 }

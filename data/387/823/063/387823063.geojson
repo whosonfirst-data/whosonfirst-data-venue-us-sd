@@ -2,13 +2,14 @@
   "id": 387823063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.103436,44.895854,-98.103436,44.895854",
     "geom:latitude":44.895854,
     "geom:longitude":-98.103436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 2nd St",
     "sg:city":"Doland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387823063,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1467082762,
     "wof:name":"Doland Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-98.103436,44.895854,-98.103436,44.895854],
+  "bbox": [
+    -98.103436,
+    44.895854,
+    -98.103436,
+    44.895854
+],
   "geometry": {"coordinates":[-98.103436,44.895854],"type":"Point"}
 }

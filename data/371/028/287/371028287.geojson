@@ -2,13 +2,14 @@
   "id": 371028287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.007561,45.580478,-99.007561,45.580478",
     "geom:latitude":45.580478,
     "geom:longitude":-99.007561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12465 359th Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371028287,
-    "wof:lastmodified":1449049616,
+    "wof:lastmodified":1467082666,
     "wof:name":"Plainsview Colony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.007561,45.580478,-99.007561,45.580478],
+  "bbox": [
+    -99.007561,
+    45.580478,
+    -99.007561,
+    45.580478
+],
   "geometry": {"coordinates":[-99.007561,45.580478],"type":"Point"}
 }

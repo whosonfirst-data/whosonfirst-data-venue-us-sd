@@ -2,13 +2,14 @@
   "id": 387546335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.789008,44.474388,-103.789008,44.474388",
     "geom:latitude":44.474388,
     "geom:longitude":-103.789008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4325 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387546335,
-    "wof:lastmodified":1449056107,
+    "wof:lastmodified":1467082687,
     "wof:name":"Centennial Campgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.789008,44.474388,-103.789008,44.474388],
+  "bbox": [
+    -103.789008,
+    44.474388,
+    -103.789008,
+    44.474388
+],
   "geometry": {"coordinates":[-103.789008,44.474388],"type":"Point"}
 }

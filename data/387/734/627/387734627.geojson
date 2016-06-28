@@ -2,13 +2,14 @@
   "id": 387734627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.436915,45.536207,-100.436915,45.536207",
     "geom:latitude":45.536207,
     "geom:longitude":-100.436915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 2nd Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387734627,
-    "wof:lastmodified":1449059439,
+    "wof:lastmodified":1467082753,
     "wof:name":"Hardcastle Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-100.436915,45.536207,-100.436915,45.536207],
+  "bbox": [
+    -100.436915,
+    45.536207,
+    -100.436915,
+    45.536207
+],
   "geometry": {"coordinates":[-100.436915,45.536207],"type":"Point"}
 }

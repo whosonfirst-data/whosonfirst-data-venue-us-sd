@@ -2,13 +2,14 @@
   "id": 371169767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205822,44.083439,-103.205822,44.083439",
     "geom:latitude":44.083439,
     "geom:longitude":-103.205822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Waterloo St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371169767,
-    "wof:lastmodified":1449049673,
+    "wof:lastmodified":1467082667,
     "wof:name":"Rapid City Recreation Dept",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-103.205822,44.083439,-103.205822,44.083439],
+  "bbox": [
+    -103.205822,
+    44.083439,
+    -103.205822,
+    44.083439
+],
   "geometry": {"coordinates":[-103.205822,44.083439],"type":"Point"}
 }

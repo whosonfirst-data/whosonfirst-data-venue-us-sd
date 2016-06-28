@@ -2,13 +2,14 @@
   "id": 387521785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.648206,43.53773,-96.648206,43.53773",
     "geom:latitude":43.53773,
     "geom:longitude":-96.648206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6004 E Quartzite Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387521785,
-    "wof:lastmodified":1449059732,
+    "wof:lastmodified":1467082759,
     "wof:name":"Siouxland K & K Construction",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.648206,43.53773,-96.648206,43.53773],
+  "bbox": [
+    -96.648206,
+    43.53773,
+    -96.648206,
+    43.53773
+],
   "geometry": {"coordinates":[-96.648206,43.53773],"type":"Point"}
 }

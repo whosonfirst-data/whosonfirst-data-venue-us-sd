@@ -2,13 +2,14 @@
   "id": 387486535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.032277,44.722689,-97.032277,44.722689",
     "geom:latitude":44.722689,
     "geom:longitude":-97.032277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Main St",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387486535,
-    "wof:lastmodified":1449058232,
+    "wof:lastmodified":1467082730,
     "wof:name":"Community Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.032277,44.722689,-97.032277,44.722689],
-  "geometry": {"coordinates":[-97.032277,44.722689],"type":"Point"}
+  "bbox": [
+    -97.032277,
+    44.722689,
+    -97.032277,
+    44.722689
+],
+  "geometry": {"coordinates":[-97.03227699999999,44.722689],"type":"Point"}
 }

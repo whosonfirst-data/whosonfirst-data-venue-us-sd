@@ -2,13 +2,14 @@
   "id": 387157755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.039512,43.765128,-98.039512,43.765128",
     "geom:latitude":43.765128,
     "geom:longitude":-98.039512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 Airport Rd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387157755,
-    "wof:lastmodified":1449059385,
+    "wof:lastmodified":1467082752,
     "wof:name":"Hendrickson Turner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.039512,43.765128,-98.039512,43.765128],
+  "bbox": [
+    -98.039512,
+    43.765128,
+    -98.039512,
+    43.765128
+],
   "geometry": {"coordinates":[-98.039512,43.765128],"type":"Point"}
 }

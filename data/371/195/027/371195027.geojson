@@ -2,13 +2,14 @@
   "id": 371195027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.346607,43.320747,-98.346607,43.320747",
     "geom:latitude":43.320747,
     "geom:longitude":-98.346607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Main St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371195027,
-    "wof:lastmodified":1449049748,
+    "wof:lastmodified":1467082668,
     "wof:name":"Carnegie Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.346607,43.320747,-98.346607,43.320747],
-  "geometry": {"coordinates":[-98.346607,43.320747],"type":"Point"}
+  "bbox": [
+    -98.346607,
+    43.320747,
+    -98.346607,
+    43.320747
+],
+  "geometry": {"coordinates":[-98.34660700000001,43.320747],"type":"Point"}
 }

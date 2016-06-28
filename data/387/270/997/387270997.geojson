@@ -2,13 +2,14 @@
   "id": 387270997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.690047,43.62164,-96.690047,43.62164",
     "geom:latitude":43.62164,
     "geom:longitude":-96.690047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47604 Surrel St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387270997,
-    "wof:lastmodified":1449056777,
+    "wof:lastmodified":1467082700,
     "wof:name":"Level Construction Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.690047,43.62164,-96.690047,43.62164],
-  "geometry": {"coordinates":[-96.690047,43.62164],"type":"Point"}
+  "bbox": [
+    -96.690047,
+    43.62164,
+    -96.690047,
+    43.62164
+],
+  "geometry": {"coordinates":[-96.69004700000001,43.62164],"type":"Point"}
 }

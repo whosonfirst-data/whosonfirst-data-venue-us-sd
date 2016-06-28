@@ -2,13 +2,14 @@
   "id": 371159059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763547,43.550569,-96.763547,43.550569",
     "geom:latitude":43.550569,
     "geom:longitude":-96.763547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 W 7th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371159059,
-    "wof:lastmodified":1449049152,
+    "wof:lastmodified":1467082659,
     "wof:name":"Swift Self Storage",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-96.763547,43.550569,-96.763547,43.550569],
+  "bbox": [
+    -96.763547,
+    43.550569,
+    -96.763547,
+    43.550569
+],
   "geometry": {"coordinates":[-96.763547,43.550569],"type":"Point"}
 }

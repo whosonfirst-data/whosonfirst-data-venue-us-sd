@@ -2,13 +2,14 @@
   "id": 371051045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707609,43.496779,-96.707609,43.496779",
     "geom:latitude":43.496779,
     "geom:longitude":-96.707609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5132 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371051045,
-    "wof:lastmodified":1449049683,
+    "wof:lastmodified":1467082667,
     "wof:name":"Teamwork Physical Therapy LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.707609,43.496779,-96.707609,43.496779],
-  "geometry": {"coordinates":[-96.707609,43.496779],"type":"Point"}
+  "bbox": [
+    -96.707609,
+    43.496779,
+    -96.707609,
+    43.496779
+],
+  "geometry": {"coordinates":[-96.70760900000001,43.496779],"type":"Point"}
 }

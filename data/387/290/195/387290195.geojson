@@ -2,13 +2,14 @@
   "id": 387290195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.754895,43.542256,-96.754895,43.542256",
     "geom:latitude":43.542256,
     "geom:longitude":-96.754895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Holly Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387290195,
-    "wof:lastmodified":1449057746,
+    "wof:lastmodified":1467082720,
     "wof:name":"Budget Master Home Imprvs",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.754895,43.542256,-96.754895,43.542256],
+  "bbox": [
+    -96.754895,
+    43.542256,
+    -96.754895,
+    43.542256
+],
   "geometry": {"coordinates":[-96.754895,43.542256],"type":"Point"}
 }

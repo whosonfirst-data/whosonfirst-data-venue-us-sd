@@ -2,13 +2,14 @@
   "id": 403718267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.06771,44.517009,-100.06771,44.517009",
     "geom:latitude":44.517009,
     "geom:longitude":-100.06771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19786 US Hwy 83",
     "sg:city":"Blunt",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403718267,
-    "wof:lastmodified":1449054933,
+    "wof:lastmodified":1467082677,
     "wof:name":"Sperry Bros Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.06771,44.517009,-100.06771,44.517009],
-  "geometry": {"coordinates":[-100.06771,44.517009],"type":"Point"}
+  "bbox": [
+    -100.06771,
+    44.517009,
+    -100.06771,
+    44.517009
+],
+  "geometry": {"coordinates":[-100.06771000000001,44.517009],"type":"Point"}
 }

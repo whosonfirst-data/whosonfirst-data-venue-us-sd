@@ -2,13 +2,14 @@
   "id": 387443479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.456651,44.790738,-96.456651,44.790738",
     "geom:latitude":44.790738,
     "geom:longitude":-96.456651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Coteau St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387443479,
-    "wof:lastmodified":1449059220,
+    "wof:lastmodified":1467082749,
     "wof:name":"Khc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.456651,44.790738,-96.456651,44.790738],
-  "geometry": {"coordinates":[-96.456651,44.790738],"type":"Point"}
+  "bbox": [
+    -96.456651,
+    44.790738,
+    -96.456651,
+    44.790738
+],
+  "geometry": {"coordinates":[-96.45665099999999,44.790738],"type":"Point"}
 }

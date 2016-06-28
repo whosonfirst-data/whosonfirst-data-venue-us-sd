@@ -2,13 +2,14 @@
   "id": 371068009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.291504,44.089239,-103.291504,44.089239",
     "geom:latitude":44.089239,
     "geom:longitude":-103.291504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 Meadowwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371068009,
-    "wof:lastmodified":1449049568,
+    "wof:lastmodified":1467082665,
     "wof:name":"Ltj Transport",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.291504,44.089239,-103.291504,44.089239],
+  "bbox": [
+    -103.291504,
+    44.089239,
+    -103.291504,
+    44.089239
+],
   "geometry": {"coordinates":[-103.291504,44.089239],"type":"Point"}
 }

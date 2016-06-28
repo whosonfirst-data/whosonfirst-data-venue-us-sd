@@ -2,13 +2,14 @@
   "id": 387347795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.921463,44.32608,-96.921463,44.32608",
     "geom:latitude":44.32608,
     "geom:longitude":-96.921463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 US Hwy 14",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387347795,
-    "wof:lastmodified":1449057942,
+    "wof:lastmodified":1467082724,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.921463,44.32608,-96.921463,44.32608],
+  "bbox": [
+    -96.921463,
+    44.32608,
+    -96.921463,
+    44.32608
+],
   "geometry": {"coordinates":[-96.921463,44.32608],"type":"Point"}
 }

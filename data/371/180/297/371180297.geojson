@@ -2,13 +2,14 @@
   "id": 371180297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.619852,45.770522,-99.619852,45.770522",
     "geom:latitude":45.770522,
     "geom:longitude":-99.619852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 7th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371180297,
-    "wof:lastmodified":1449049103,
+    "wof:lastmodified":1467082659,
     "wof:name":"Kathryn Schulkoski Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.619852,45.770522,-99.619852,45.770522],
-  "geometry": {"coordinates":[-99.619852,45.770522],"type":"Point"}
+  "bbox": [
+    -99.619852,
+    45.770522,
+    -99.619852,
+    45.770522
+],
+  "geometry": {"coordinates":[-99.61985199999999,45.770522],"type":"Point"}
 }

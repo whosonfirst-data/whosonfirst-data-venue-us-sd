@@ -2,13 +2,14 @@
   "id": 387392977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813167,43.531237,-96.813167,43.531237",
     "geom:latitude":43.531237,
     "geom:longitude":-96.813167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 S Paisley Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387392977,
-    "wof:lastmodified":1449059159,
+    "wof:lastmodified":1467082748,
     "wof:name":"Kay Eden Day Care",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.813167,43.531237,-96.813167,43.531237],
-  "geometry": {"coordinates":[-96.813167,43.531237],"type":"Point"}
+  "bbox": [
+    -96.813167,
+    43.531237,
+    -96.813167,
+    43.531237
+],
+  "geometry": {"coordinates":[-96.81316700000001,43.531237],"type":"Point"}
 }

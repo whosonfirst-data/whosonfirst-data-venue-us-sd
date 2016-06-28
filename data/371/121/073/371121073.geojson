@@ -2,13 +2,14 @@
   "id": 371121073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.020857,43.722805,-98.020857,43.722805",
     "geom:latitude":43.722805,
     "geom:longitude":-98.020857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E 14th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371121073,
-    "wof:lastmodified":1449049848,
+    "wof:lastmodified":1467082669,
     "wof:name":"Grace Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.020857,43.722805,-98.020857,43.722805],
-  "geometry": {"coordinates":[-98.020857,43.722805],"type":"Point"}
+  "bbox": [
+    -98.020857,
+    43.722805,
+    -98.020857,
+    43.722805
+],
+  "geometry": {"coordinates":[-98.02085700000001,43.722805],"type":"Point"}
 }

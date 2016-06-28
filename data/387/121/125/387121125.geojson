@@ -2,13 +2,14 @@
   "id": 387121125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.347724,45.288841,-99.347724,45.288841",
     "geom:latitude":45.288841,
     "geom:longitude":-99.347724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34190 145th St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387121125,
-    "wof:lastmodified":1449059079,
+    "wof:lastmodified":1467082746,
     "wof:name":"Mark Baer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.347724,45.288841,-99.347724,45.288841],
+  "bbox": [
+    -99.347724,
+    45.288841,
+    -99.347724,
+    45.288841
+],
   "geometry": {"coordinates":[-99.347724,45.288841],"type":"Point"}
 }

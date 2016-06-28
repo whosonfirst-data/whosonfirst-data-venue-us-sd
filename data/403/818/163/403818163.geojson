@@ -2,13 +2,14 @@
   "id": 403818163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74997,45.346481,-97.74997,45.346481",
     "geom:latitude":45.346481,
     "geom:longitude":-97.74997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Main St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403818163,
-    "wof:lastmodified":1449055283,
+    "wof:lastmodified":1467082680,
     "wof:name":"Capitol Lanes & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.74997,45.346481,-97.74997,45.346481],
+  "bbox": [
+    -97.74997,
+    45.346481,
+    -97.74997,
+    45.346481
+],
   "geometry": {"coordinates":[-97.74997,45.346481],"type":"Point"}
 }

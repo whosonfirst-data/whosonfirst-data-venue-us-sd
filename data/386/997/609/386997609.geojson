@@ -2,13 +2,14 @@
   "id": 386997609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698483,43.558632,-96.698483,43.558632",
     "geom:latitude":43.558632,
     "geom:longitude":-96.698483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 N Lowell Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386997609,
-    "wof:lastmodified":1449028898,
+    "wof:lastmodified":1467082654,
     "wof:name":"Erck Trucking",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.698483,43.558632,-96.698483,43.558632],
+  "bbox": [
+    -96.698483,
+    43.558632,
+    -96.698483,
+    43.558632
+],
   "geometry": {"coordinates":[-96.698483,43.558632],"type":"Point"}
 }

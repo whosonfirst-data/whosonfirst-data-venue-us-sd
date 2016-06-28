@@ -2,13 +2,14 @@
   "id": 403810509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.739698,44.520324,-99.739698,44.520324",
     "geom:latitude":44.520324,
     "geom:longitude":-99.739698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Wyman Ave",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403810509,
-    "wof:lastmodified":1449055029,
+    "wof:lastmodified":1467082678,
     "wof:name":"Hughes County Highway Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.739698,44.520324,-99.739698,44.520324],
+  "bbox": [
+    -99.739698,
+    44.520324,
+    -99.739698,
+    44.520324
+],
   "geometry": {"coordinates":[-99.739698,44.520324],"type":"Point"}
 }

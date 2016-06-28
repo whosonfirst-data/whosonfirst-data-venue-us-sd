@@ -2,13 +2,14 @@
   "id": 403828085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.99108,43.630676,-96.99108,43.630676",
     "geom:latitude":43.630676,
     "geom:longitude":-96.99108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46096 State Hwy 38",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403828085,
-    "wof:lastmodified":1449055326,
+    "wof:lastmodified":1467082680,
     "wof:name":"R Place Kennel",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-96.99108,43.630676,-96.99108,43.630676],
+  "bbox": [
+    -96.99108,
+    43.630676,
+    -96.99108,
+    43.630676
+],
   "geometry": {"coordinates":[-96.99108,43.630676],"type":"Point"}
 }

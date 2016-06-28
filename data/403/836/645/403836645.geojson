@@ -2,13 +2,14 @@
   "id": 403836645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.596975,44.049365,-96.596975,44.049365",
     "geom:latitude":44.049365,
     "geom:longitude":-96.596975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403836645,
-    "wof:lastmodified":1449055498,
+    "wof:lastmodified":1467082681,
     "wof:name":"Ekern Home Equipment Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.596975,44.049365,-96.596975,44.049365],
+  "bbox": [
+    -96.596975,
+    44.049365,
+    -96.596975,
+    44.049365
+],
   "geometry": {"coordinates":[-96.596975,44.049365],"type":"Point"}
 }

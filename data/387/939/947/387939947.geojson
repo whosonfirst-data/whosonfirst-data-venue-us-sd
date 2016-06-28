@@ -2,13 +2,14 @@
   "id": 387939947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72753,43.533958,-96.72753,43.533958",
     "geom:latitude":43.533958,
     "geom:longitude":-96.72753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387939947,
-    "wof:lastmodified":1449057216,
+    "wof:lastmodified":1467082709,
     "wof:name":"Ray Fuller Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.72753,43.533958,-96.72753,43.533958],
+  "bbox": [
+    -96.72753,
+    43.533958,
+    -96.72753,
+    43.533958
+],
   "geometry": {"coordinates":[-96.72753,43.533958],"type":"Point"}
 }

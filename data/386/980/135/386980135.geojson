@@ -2,13 +2,14 @@
   "id": 386980135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.511826,43.570676,-96.511826,43.570676",
     "geom:latitude":43.570676,
     "geom:longitude":-96.511826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26316 485th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386980135,
-    "wof:lastmodified":1449028651,
+    "wof:lastmodified":1467082650,
     "wof:name":"Anc Transweb Marketing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.511826,43.570676,-96.511826,43.570676],
+  "bbox": [
+    -96.511826,
+    43.570676,
+    -96.511826,
+    43.570676
+],
   "geometry": {"coordinates":[-96.511826,43.570676],"type":"Point"}
 }

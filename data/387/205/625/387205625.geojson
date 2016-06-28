@@ -2,13 +2,14 @@
   "id": 387205625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.429225,43.235595,-99.429225,43.235595",
     "geom:latitude":43.235595,
     "geom:longitude":-99.429225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 9th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387205625,
-    "wof:lastmodified":1449058407,
+    "wof:lastmodified":1467082733,
     "wof:name":"Elane Nemwer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.429225,43.235595,-99.429225,43.235595],
+  "bbox": [
+    -99.429225,
+    43.235595,
+    -99.429225,
+    43.235595
+],
   "geometry": {"coordinates":[-99.429225,43.235595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387955437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211654,44.067628,-103.211654,44.067628",
     "geom:latitude":44.067628,
     "geom:longitude":-103.211654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 Elm Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387955437,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1467082740,
     "wof:name":"Black Hills Orthotics Ctr",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appliance"
     ]
 },
-  "bbox": [-103.211654,44.067628,-103.211654,44.067628],
+  "bbox": [
+    -103.211654,
+    44.067628,
+    -103.211654,
+    44.067628
+],
   "geometry": {"coordinates":[-103.211654,44.067628],"type":"Point"}
 }

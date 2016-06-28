@@ -2,13 +2,14 @@
   "id": 387236215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669239,43.529288,-96.669239,43.529288",
     "geom:latitude":43.529288,
     "geom:longitude":-96.669239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387236215,
-    "wof:lastmodified":1449056514,
+    "wof:lastmodified":1467082695,
     "wof:name":"Contours Express",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-96.669239,43.529288,-96.669239,43.529288],
+  "bbox": [
+    -96.669239,
+    43.529288,
+    -96.669239,
+    43.529288
+],
   "geometry": {"coordinates":[-96.669239,43.529288],"type":"Point"}
 }

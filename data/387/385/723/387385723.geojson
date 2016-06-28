@@ -2,13 +2,14 @@
   "id": 387385723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.842743,43.449347,-96.842743,43.449347",
     "geom:latitude":43.449347,
     "geom:longitude":-96.842743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Charish St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387385723,
-    "wof:lastmodified":1449058368,
+    "wof:lastmodified":1467082732,
     "wof:name":"Tea Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.842743,43.449347,-96.842743,43.449347],
+  "bbox": [
+    -96.842743,
+    43.449347,
+    -96.842743,
+    43.449347
+],
   "geometry": {"coordinates":[-96.842743,43.449347],"type":"Point"}
 }

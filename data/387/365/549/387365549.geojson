@@ -2,13 +2,14 @@
   "id": 387365549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.842492,43.371929,-99.842492,43.371929",
     "geom:latitude":43.371929,
     "geom:longitude":-99.842492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 E 7th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387365549,
-    "wof:lastmodified":1449056718,
+    "wof:lastmodified":1467082699,
     "wof:name":"B & J Painting & Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-99.842492,43.371929,-99.842492,43.371929],
-  "geometry": {"coordinates":[-99.842492,43.371929],"type":"Point"}
+  "bbox": [
+    -99.842492,
+    43.371929,
+    -99.842492,
+    43.371929
+],
+  "geometry": {"coordinates":[-99.84249199999999,43.371929],"type":"Point"}
 }

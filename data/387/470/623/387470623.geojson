@@ -2,13 +2,14 @@
   "id": 387470623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72401,43.524294,-96.72401,43.524294",
     "geom:latitude":43.524294,
     "geom:longitude":-96.72401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 31st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387470623,
-    "wof:lastmodified":1449057025,
+    "wof:lastmodified":1467082705,
     "wof:name":"M B Paulson Dr",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.72401,43.524294,-96.72401,43.524294],
-  "geometry": {"coordinates":[-96.72401,43.524294],"type":"Point"}
+  "bbox": [
+    -96.72401,
+    43.524294,
+    -96.72401,
+    43.524294
+],
+  "geometry": {"coordinates":[-96.72401000000001,43.524294],"type":"Point"}
 }

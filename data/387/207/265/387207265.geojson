@@ -2,13 +2,14 @@
   "id": 387207265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232949,44.081096,-103.232949,44.081096",
     "geom:latitude":44.081096,
     "geom:longitude":-103.232949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387207265,
-    "wof:lastmodified":1449058770,
+    "wof:lastmodified":1467082740,
     "wof:name":"Bruce M Palmer",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marshall"
     ]
 },
-  "bbox": [-103.232949,44.081096,-103.232949,44.081096],
+  "bbox": [
+    -103.232949,
+    44.081096,
+    -103.232949,
+    44.081096
+],
   "geometry": {"coordinates":[-103.232949,44.081096],"type":"Point"}
 }

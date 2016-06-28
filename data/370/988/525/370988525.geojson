@@ -2,13 +2,14 @@
   "id": 370988525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.986784,44.517146,-98.986784,44.517146",
     "geom:latitude":44.517146,
     "geom:longitude":-98.986784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 2nd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370988525,
-    "wof:lastmodified":1449030268,
+    "wof:lastmodified":1467082656,
     "wof:name":"Winter Marlen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.986784,44.517146,-98.986784,44.517146],
+  "bbox": [
+    -98.986784,
+    44.517146,
+    -98.986784,
+    44.517146
+],
   "geometry": {"coordinates":[-98.986784,44.517146],"type":"Point"}
 }

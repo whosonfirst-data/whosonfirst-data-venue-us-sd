@@ -2,13 +2,14 @@
   "id": 403758827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.474837,43.442139,-103.474837,43.442139",
     "geom:latitude":43.442139,
     "geom:longitude":-103.474837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Sherman St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403758827,
-    "wof:lastmodified":1449055041,
+    "wof:lastmodified":1467082678,
     "wof:name":"Dew Drop Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.474837,43.442139,-103.474837,43.442139],
-  "geometry": {"coordinates":[-103.474837,43.442139],"type":"Point"}
+  "bbox": [
+    -103.474837,
+    43.442139,
+    -103.474837,
+    43.442139
+],
+  "geometry": {"coordinates":[-103.47483699999999,43.442139],"type":"Point"}
 }

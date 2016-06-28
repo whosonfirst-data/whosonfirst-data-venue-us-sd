@@ -2,13 +2,14 @@
   "id": 387106341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.236067,44.076089,-103.236067,44.076089",
     "geom:latitude":44.076089,
     "geom:longitude":-103.236067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 West Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387106341,
-    "wof:lastmodified":1449056063,
+    "wof:lastmodified":1467082686,
     "wof:name":"Sam Hurst",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sale"
     ]
 },
-  "bbox": [-103.236067,44.076089,-103.236067,44.076089],
-  "geometry": {"coordinates":[-103.236067,44.076089],"type":"Point"}
+  "bbox": [
+    -103.236067,
+    44.076089,
+    -103.236067,
+    44.076089
+],
+  "geometry": {"coordinates":[-103.23606700000001,44.076089],"type":"Point"}
 }

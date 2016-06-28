@@ -2,13 +2,14 @@
   "id": 387046005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844759,43.389174,-98.844759,43.389174",
     "geom:latitude":43.389174,
     "geom:longitude":-98.844759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387046005,
-    "wof:lastmodified":1449058223,
+    "wof:lastmodified":1467082729,
     "wof:name":"Randal's Bus Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "line"
     ]
 },
-  "bbox": [-98.844759,43.389174,-98.844759,43.389174],
+  "bbox": [
+    -98.844759,
+    43.389174,
+    -98.844759,
+    43.389174
+],
   "geometry": {"coordinates":[-98.844759,43.389174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387634213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.862565,44.491546,-103.862565,44.491546",
     "geom:latitude":44.491546,
     "geom:longitude":-103.862565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 N Canyon St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387634213,
-    "wof:lastmodified":1449057915,
+    "wof:lastmodified":1467082723,
     "wof:name":"Spearfish Building & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-103.862565,44.491546,-103.862565,44.491546],
+  "bbox": [
+    -103.862565,
+    44.491546,
+    -103.862565,
+    44.491546
+],
   "geometry": {"coordinates":[-103.862565,44.491546],"type":"Point"}
 }

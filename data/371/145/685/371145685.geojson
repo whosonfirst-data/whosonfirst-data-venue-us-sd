@@ -2,13 +2,14 @@
   "id": 371145685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.398939,43.125503,-97.398939,43.125503",
     "geom:latitude":43.125503,
     "geom:longitude":-97.398939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29403 US Hwy 81",
     "sg:city":"Irene",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371145685,
-    "wof:lastmodified":1449049325,
+    "wof:lastmodified":1467082662,
     "wof:name":"Huber Home Improvements Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.398939,43.125503,-97.398939,43.125503],
+  "bbox": [
+    -97.398939,
+    43.125503,
+    -97.398939,
+    43.125503
+],
   "geometry": {"coordinates":[-97.398939,43.125503],"type":"Point"}
 }

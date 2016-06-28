@@ -2,13 +2,14 @@
   "id": 387015265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387423,43.726058,-97.387423,43.726058",
     "geom:latitude":43.726058,
     "geom:longitude":-97.387423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387015265,
-    "wof:lastmodified":1449056972,
+    "wof:lastmodified":1467082704,
     "wof:name":"Mc Cook Electric Co-Op Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-97.387423,43.726058,-97.387423,43.726058],
+  "bbox": [
+    -97.387423,
+    43.726058,
+    -97.387423,
+    43.726058
+],
   "geometry": {"coordinates":[-97.387423,43.726058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403830375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205129,44.077965,-103.205129,44.077965",
     "geom:latitude":44.077965,
     "geom:longitude":-103.205129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Steele Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403830375,
-    "wof:lastmodified":1449054919,
+    "wof:lastmodified":1467082677,
     "wof:name":"Rapid City Traffic Signals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-103.205129,44.077965,-103.205129,44.077965],
+  "bbox": [
+    -103.205129,
+    44.077965,
+    -103.205129,
+    44.077965
+],
   "geometry": {"coordinates":[-103.205129,44.077965],"type":"Point"}
 }

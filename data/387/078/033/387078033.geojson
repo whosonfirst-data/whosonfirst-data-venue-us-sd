@@ -2,13 +2,14 @@
   "id": 387078033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.515633,43.835812,-101.515633,43.835812",
     "geom:latitude":43.835812,
     "geom:longitude":-101.515633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Maple St",
     "sg:city":"Kadoka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387078033,
-    "wof:lastmodified":1449059336,
+    "wof:lastmodified":1467082751,
     "wof:name":"Byrd Redi-Mix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ready"
     ]
 },
-  "bbox": [-101.515633,43.835812,-101.515633,43.835812],
-  "geometry": {"coordinates":[-101.515633,43.835812],"type":"Point"}
+  "bbox": [
+    -101.515633,
+    43.835812,
+    -101.515633,
+    43.835812
+],
+  "geometry": {"coordinates":[-101.51563299999999,43.835812],"type":"Point"}
 }

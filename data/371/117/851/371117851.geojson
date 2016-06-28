@@ -2,13 +2,14 @@
   "id": 371117851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.56658,43.082768,-98.56658,43.082768",
     "geom:latitude":43.082768,
     "geom:longitude":-98.56658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38089 297th St",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371117851,
-    "wof:lastmodified":1449049771,
+    "wof:lastmodified":1467082668,
     "wof:name":"North Point State Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.56658,43.082768,-98.56658,43.082768],
+  "bbox": [
+    -98.56658,
+    43.082768,
+    -98.56658,
+    43.082768
+],
   "geometry": {"coordinates":[-98.56658,43.082768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387406709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.887493,45.246234,-99.887493,45.246234",
     "geom:latitude":45.246234,
     "geom:longitude":-99.887493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31430 148th St",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387406709,
-    "wof:lastmodified":1449058149,
+    "wof:lastmodified":1467082728,
     "wof:name":"Vic Simon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.887493,45.246234,-99.887493,45.246234],
-  "geometry": {"coordinates":[-99.887493,45.246234],"type":"Point"}
+  "bbox": [
+    -99.887493,
+    45.246234,
+    -99.887493,
+    45.246234
+],
+  "geometry": {"coordinates":[-99.88749300000001,45.246234],"type":"Point"}
 }

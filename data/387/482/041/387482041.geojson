@@ -2,13 +2,14 @@
   "id": 387482041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.012437,45.331767,-99.012437,45.331767",
     "geom:latitude":45.331767,
     "geom:longitude":-99.012437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35891 142nd St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387482041,
-    "wof:lastmodified":1449057448,
+    "wof:lastmodified":1467082713,
     "wof:name":"Richard R Pfaff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.012437,45.331767,-99.012437,45.331767],
-  "geometry": {"coordinates":[-99.012437,45.331767],"type":"Point"}
+  "bbox": [
+    -99.012437,
+    45.331767,
+    -99.012437,
+    45.331767
+],
+  "geometry": {"coordinates":[-99.01243700000001,45.331767],"type":"Point"}
 }

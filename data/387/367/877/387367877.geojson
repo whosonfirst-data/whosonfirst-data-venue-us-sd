@@ -2,13 +2,14 @@
   "id": 387367877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.431016,45.533199,-100.431016,45.533199",
     "geom:latitude":45.533199,
     "geom:longitude":-100.431016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 2nd Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387367877,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1467082732,
     "wof:name":"Board Foot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-100.431016,45.533199,-100.431016,45.533199],
+  "bbox": [
+    -100.431016,
+    45.533199,
+    -100.431016,
+    45.533199
+],
   "geometry": {"coordinates":[-100.431016,45.533199],"type":"Point"}
 }

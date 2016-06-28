@@ -2,13 +2,14 @@
   "id": 387086757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774015,43.080486,-96.774015,43.080486",
     "geom:latitude":43.080486,
     "geom:longitude":-96.774015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S 3rd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387086757,
-    "wof:lastmodified":1449058658,
+    "wof:lastmodified":1467082738,
     "wof:name":"Schlotfeldt Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-96.774015,43.080486,-96.774015,43.080486],
-  "geometry": {"coordinates":[-96.774015,43.080486],"type":"Point"}
+  "bbox": [
+    -96.774015,
+    43.080486,
+    -96.774015,
+    43.080486
+],
+  "geometry": {"coordinates":[-96.77401500000001,43.080486],"type":"Point"}
 }

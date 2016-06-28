@@ -2,13 +2,14 @@
   "id": 386946857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.479142,43.75704,-96.479142,43.75704",
     "geom:latitude":43.75704,
     "geom:longitude":-96.479142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Michigan Ave",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386946857,
-    "wof:lastmodified":1449028932,
+    "wof:lastmodified":1467082655,
     "wof:name":"State Line Seed Co",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-96.479142,43.75704,-96.479142,43.75704],
+  "bbox": [
+    -96.479142,
+    43.75704,
+    -96.479142,
+    43.75704
+],
   "geometry": {"coordinates":[-96.479142,43.75704],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386951011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781015,44.311352,-96.781015,44.311352",
     "geom:latitude":44.311352,
     "geom:longitude":-96.781015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386951011,
-    "wof:lastmodified":1449028635,
+    "wof:lastmodified":1467082649,
     "wof:name":"Brookings Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.781015,44.311352,-96.781015,44.311352],
+  "bbox": [
+    -96.781015,
+    44.311352,
+    -96.781015,
+    44.311352
+],
   "geometry": {"coordinates":[-96.781015,44.311352],"type":"Point"}
 }

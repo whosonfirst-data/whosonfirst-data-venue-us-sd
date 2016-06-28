@@ -2,13 +2,14 @@
   "id": 387495371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.574198,43.168916,-98.574198,43.168916",
     "geom:latitude":43.168916,
     "geom:longitude":-98.574198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38053 State Hwy 50",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387495371,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1467082720,
     "wof:name":"Southern Missouri Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "center"
     ]
 },
-  "bbox": [-98.574198,43.168916,-98.574198,43.168916],
+  "bbox": [
+    -98.574198,
+    43.168916,
+    -98.574198,
+    43.168916
+],
   "geometry": {"coordinates":[-98.574198,43.168916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387215655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742397,43.53311,-96.742397,43.53311",
     "geom:latitude":43.53311,
     "geom:longitude":-96.742397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 W 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387215655,
-    "wof:lastmodified":1449059260,
+    "wof:lastmodified":1467082750,
     "wof:name":"Dakota Heart P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-96.742397,43.53311,-96.742397,43.53311],
+  "bbox": [
+    -96.742397,
+    43.53311,
+    -96.742397,
+    43.53311
+],
   "geometry": {"coordinates":[-96.742397,43.53311],"type":"Point"}
 }

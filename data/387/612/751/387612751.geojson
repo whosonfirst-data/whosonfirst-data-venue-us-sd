@@ -2,13 +2,14 @@
   "id": 387612751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714644,43.594603,-96.714644,43.594603",
     "geom:latitude":43.594603,
     "geom:longitude":-96.714644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E 54th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387612751,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1467082720,
     "wof:name":"Sioux Valley Clinic Executive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.714644,43.594603,-96.714644,43.594603],
-  "geometry": {"coordinates":[-96.714644,43.594603],"type":"Point"}
+  "bbox": [
+    -96.714644,
+    43.594603,
+    -96.714644,
+    43.594603
+],
+  "geometry": {"coordinates":[-96.71464400000001,43.594603],"type":"Point"}
 }

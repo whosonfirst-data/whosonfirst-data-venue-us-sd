@@ -2,13 +2,14 @@
   "id": 387563731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.300568,43.901493,-103.300568,43.901493",
     "geom:latitude":43.901493,
     "geom:longitude":-103.300568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24226 Pine Grove Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387563731,
-    "wof:lastmodified":1449056176,
+    "wof:lastmodified":1467082688,
     "wof:name":"Jeds LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.300568,43.901493,-103.300568,43.901493],
+  "bbox": [
+    -103.300568,
+    43.901493,
+    -103.300568,
+    43.901493
+],
   "geometry": {"coordinates":[-103.300568,43.901493],"type":"Point"}
 }

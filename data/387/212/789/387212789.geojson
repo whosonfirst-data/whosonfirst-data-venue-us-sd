@@ -2,13 +2,14 @@
   "id": 387212789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716561,43.533605,-96.716561,43.533605",
     "geom:latitude":43.533605,
     "geom:longitude":-96.716561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 E 21st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387212789,
-    "wof:lastmodified":1449058573,
+    "wof:lastmodified":1467082736,
     "wof:name":"Presentation Sisters",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.716561,43.533605,-96.716561,43.533605],
+  "bbox": [
+    -96.716561,
+    43.533605,
+    -96.716561,
+    43.533605
+],
   "geometry": {"coordinates":[-96.716561,43.533605],"type":"Point"}
 }

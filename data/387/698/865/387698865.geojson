@@ -2,13 +2,14 @@
   "id": 387698865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675225,45.050703,-96.675225,45.050703",
     "geom:latitude":45.050703,
     "geom:longitude":-96.675225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Georgia Ave",
     "sg:city":"Labolt",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387698865,
-    "wof:lastmodified":1449059687,
+    "wof:lastmodified":1467082758,
     "wof:name":"Evangelical Covenant Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.675225,45.050703,-96.675225,45.050703],
+  "bbox": [
+    -96.675225,
+    45.050703,
+    -96.675225,
+    45.050703
+],
   "geometry": {"coordinates":[-96.675225,45.050703],"type":"Point"}
 }

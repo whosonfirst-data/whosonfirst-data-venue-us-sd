@@ -2,13 +2,14 @@
   "id": 386997547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724992,43.517586,-96.724992,43.517586",
     "geom:latitude":43.517586,
     "geom:longitude":-96.724992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 38th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386997547,
-    "wof:lastmodified":1449028897,
+    "wof:lastmodified":1467082654,
     "wof:name":"Ann E Mc Clenahan MD",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.724992,43.517586,-96.724992,43.517586],
+  "bbox": [
+    -96.724992,
+    43.517586,
+    -96.724992,
+    43.517586
+],
   "geometry": {"coordinates":[-96.724992,43.517586],"type":"Point"}
 }

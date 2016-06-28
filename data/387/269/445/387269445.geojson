@@ -2,13 +2,14 @@
   "id": 387269445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712428,43.534076,-96.712428,43.534076",
     "geom:latitude":43.534076,
     "geom:longitude":-96.712428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E 21st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387269445,
-    "wof:lastmodified":1449058497,
+    "wof:lastmodified":1467082735,
     "wof:name":"Cynthia L Pilkington PHD",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.712428,43.534076,-96.712428,43.534076],
+  "bbox": [
+    -96.712428,
+    43.534076,
+    -96.712428,
+    43.534076
+],
   "geometry": {"coordinates":[-96.712428,43.534076],"type":"Point"}
 }

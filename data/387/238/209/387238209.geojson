@@ -2,13 +2,14 @@
   "id": 387238209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.631506,45.212553,-96.631506,45.212553",
     "geom:latitude":45.212553,
     "geom:longitude":-96.631506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 E 10th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387238209,
-    "wof:lastmodified":1449057533,
+    "wof:lastmodified":1467082715,
     "wof:name":"Kettwig Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.631506,45.212553,-96.631506,45.212553],
+  "bbox": [
+    -96.631506,
+    45.212553,
+    -96.631506,
+    45.212553
+],
   "geometry": {"coordinates":[-96.631506,45.212553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387253963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.546613,44.235771,-96.546613,44.235771",
     "geom:latitude":44.235771,
     "geom:longitude":-96.546613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21723 483rd Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387253963,
-    "wof:lastmodified":1449059448,
+    "wof:lastmodified":1467082754,
     "wof:name":"Heesch Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.546613,44.235771,-96.546613,44.235771],
-  "geometry": {"coordinates":[-96.546613,44.235771],"type":"Point"}
+  "bbox": [
+    -96.546613,
+    44.235771,
+    -96.546613,
+    44.235771
+],
+  "geometry": {"coordinates":[-96.54661299999999,44.235771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387016427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.683396,43.315763,-98.683396,43.315763",
     "geom:latitude":43.315763,
     "geom:longitude":-98.683396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37514 281st St",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387016427,
-    "wof:lastmodified":1449056759,
+    "wof:lastmodified":1467082700,
     "wof:name":"Harold Pavlis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.683396,43.315763,-98.683396,43.315763],
+  "bbox": [
+    -98.683396,
+    43.315763,
+    -98.683396,
+    43.315763
+],
   "geometry": {"coordinates":[-98.683396,43.315763],"type":"Point"}
 }

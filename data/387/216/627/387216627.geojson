@@ -2,13 +2,14 @@
   "id": 387216627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781067,43.761105,-96.781067,43.761105",
     "geom:latitude":43.761105,
     "geom:longitude":-96.781067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47155 250th St",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387216627,
-    "wof:lastmodified":1449059487,
+    "wof:lastmodified":1467082754,
     "wof:name":"Fair Deal Truck Sales",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.781067,43.761105,-96.781067,43.761105],
-  "geometry": {"coordinates":[-96.781067,43.761105],"type":"Point"}
+  "bbox": [
+    -96.781067,
+    43.761105,
+    -96.781067,
+    43.761105
+],
+  "geometry": {"coordinates":[-96.78106699999999,43.761105],"type":"Point"}
 }

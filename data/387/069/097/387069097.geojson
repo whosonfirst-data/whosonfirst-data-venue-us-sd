@@ -2,13 +2,14 @@
   "id": 387069097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71136,43.563779,-96.71136,43.563779",
     "geom:latitude":43.563779,
     "geom:longitude":-96.71136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387069097,
-    "wof:lastmodified":1449058514,
+    "wof:lastmodified":1467082735,
     "wof:name":"Blue Nile Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.71136,43.563779,-96.71136,43.563779],
+  "bbox": [
+    -96.71136,
+    43.563779,
+    -96.71136,
+    43.563779
+],
   "geometry": {"coordinates":[-96.71136,43.563779],"type":"Point"}
 }

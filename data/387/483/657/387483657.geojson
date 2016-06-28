@@ -2,13 +2,14 @@
   "id": 387483657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724059,43.544609,-96.724059,43.544609",
     "geom:latitude":43.544609,
     "geom:longitude":-96.724059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387483657,
-    "wof:lastmodified":1449059103,
+    "wof:lastmodified":1467082747,
     "wof:name":"Professional Image By Rosemary",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modeling"
     ]
 },
-  "bbox": [-96.724059,43.544609,-96.724059,43.544609],
+  "bbox": [
+    -96.724059,
+    43.544609,
+    -96.724059,
+    43.544609
+],
   "geometry": {"coordinates":[-96.724059,43.544609],"type":"Point"}
 }

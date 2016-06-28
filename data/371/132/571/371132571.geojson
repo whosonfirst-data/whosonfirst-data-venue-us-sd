@@ -2,13 +2,14 @@
   "id": 371132571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.846032,43.332753,-96.846032,43.332753",
     "geom:latitude":43.332753,
     "geom:longitude":-96.846032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27985 468th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371132571,
-    "wof:lastmodified":1449049518,
+    "wof:lastmodified":1467082665,
     "wof:name":"Brad Smidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.846032,43.332753,-96.846032,43.332753],
-  "geometry": {"coordinates":[-96.846032,43.332753],"type":"Point"}
+  "bbox": [
+    -96.846032,
+    43.332753,
+    -96.846032,
+    43.332753
+],
+  "geometry": {"coordinates":[-96.84603199999999,43.332753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387440331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.970132,43.554066,-96.970132,43.554066",
     "geom:latitude":43.554066,
     "geom:longitude":-96.970132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26418 462nd Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387440331,
-    "wof:lastmodified":1449057446,
+    "wof:lastmodified":1467082713,
     "wof:name":"William Marketon",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.970132,43.554066,-96.970132,43.554066],
-  "geometry": {"coordinates":[-96.970132,43.554066],"type":"Point"}
+  "bbox": [
+    -96.970132,
+    43.554066,
+    -96.970132,
+    43.554066
+],
+  "geometry": {"coordinates":[-96.97013200000001,43.554066],"type":"Point"}
 }

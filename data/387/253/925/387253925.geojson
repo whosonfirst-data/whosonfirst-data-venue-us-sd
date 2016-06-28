@@ -2,13 +2,14 @@
   "id": 387253925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749894,43.511588,-96.749894,43.511588",
     "geom:latitude":43.511588,
     "geom:longitude":-96.749894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 S Willow Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387253925,
-    "wof:lastmodified":1449059448,
+    "wof:lastmodified":1467082754,
     "wof:name":"Millennium III Hotel Images",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-96.749894,43.511588,-96.749894,43.511588],
+  "bbox": [
+    -96.749894,
+    43.511588,
+    -96.749894,
+    43.511588
+],
   "geometry": {"coordinates":[-96.749894,43.511588],"type":"Point"}
 }

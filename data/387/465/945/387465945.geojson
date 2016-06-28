@@ -2,13 +2,14 @@
   "id": 387465945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.863187,42.991325,-97.863187,42.991325",
     "geom:latitude":42.991325,
     "geom:longitude":-97.863187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W 16th Ave",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387465945,
-    "wof:lastmodified":1449058666,
+    "wof:lastmodified":1467082738,
     "wof:name":"Sanders' Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.863187,42.991325,-97.863187,42.991325],
+  "bbox": [
+    -97.863187,
+    42.991325,
+    -97.863187,
+    42.991325
+],
   "geometry": {"coordinates":[-97.863187,42.991325],"type":"Point"}
 }

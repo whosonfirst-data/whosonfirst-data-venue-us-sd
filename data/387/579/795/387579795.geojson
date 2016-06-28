@@ -2,13 +2,14 @@
   "id": 387579795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.052372,45.664735,-97.052372,45.664735",
     "geom:latitude":45.664735,
     "geom:longitude":-97.052372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Oak St W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387579795,
-    "wof:lastmodified":1449057310,
+    "wof:lastmodified":1467082711,
     "wof:name":"Sisseton Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-97.052372,45.664735,-97.052372,45.664735],
-  "geometry": {"coordinates":[-97.052372,45.664735],"type":"Point"}
+  "bbox": [
+    -97.052372,
+    45.664735,
+    -97.052372,
+    45.664735
+],
+  "geometry": {"coordinates":[-97.05237200000001,45.664735],"type":"Point"}
 }

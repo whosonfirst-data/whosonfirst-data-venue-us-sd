@@ -2,13 +2,14 @@
   "id": 371141225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712914,43.622563,-96.712914,43.622563",
     "geom:latitude":43.622563,
     "geom:longitude":-96.712914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6610 N 10th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371141225,
-    "wof:lastmodified":1449049373,
+    "wof:lastmodified":1467082663,
     "wof:name":"Rolo Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.712914,43.622563,-96.712914,43.622563],
+  "bbox": [
+    -96.712914,
+    43.622563,
+    -96.712914,
+    43.622563
+],
   "geometry": {"coordinates":[-96.712914,43.622563],"type":"Point"}
 }

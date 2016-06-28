@@ -2,13 +2,14 @@
   "id": 387860869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.74983,45.794325,-97.74983,45.794325",
     "geom:latitude":45.794325,
     "geom:longitude":-97.74983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"759 5th St",
     "sg:city":"Britton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387860869,
-    "wof:lastmodified":1449057798,
+    "wof:lastmodified":1467082721,
     "wof:name":"Britton High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.74983,45.794325,-97.74983,45.794325],
+  "bbox": [
+    -97.74983,
+    45.794325,
+    -97.74983,
+    45.794325
+],
   "geometry": {"coordinates":[-97.74983,45.794325],"type":"Point"}
 }

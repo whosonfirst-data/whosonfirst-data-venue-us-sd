@@ -2,13 +2,14 @@
   "id": 403781611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025638,43.71664,-98.025638,43.71664",
     "geom:latitude":43.71664,
     "geom:longitude":-98.025638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403781611,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1467082677,
     "wof:name":"Balloon Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "airship"
     ]
 },
-  "bbox": [-98.025638,43.71664,-98.025638,43.71664],
+  "bbox": [
+    -98.025638,
+    43.71664,
+    -98.025638,
+    43.71664
+],
   "geometry": {"coordinates":[-98.025638,43.71664],"type":"Point"}
 }

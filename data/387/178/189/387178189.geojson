@@ -2,13 +2,14 @@
   "id": 387178189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.963616,43.995911,-96.963616,43.995911",
     "geom:latitude":43.995911,
     "geom:longitude":-96.963616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S Main Ave",
     "sg:city":"Wentworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387178189,
-    "wof:lastmodified":1449058839,
+    "wof:lastmodified":1467082741,
     "wof:name":"St Peters Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.963616,43.995911,-96.963616,43.995911],
+  "bbox": [
+    -96.963616,
+    43.995911,
+    -96.963616,
+    43.995911
+],
   "geometry": {"coordinates":[-96.963616,43.995911],"type":"Point"}
 }

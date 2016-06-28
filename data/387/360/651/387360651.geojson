@@ -2,13 +2,14 @@
   "id": 387360651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714759,43.581705,-96.714759,43.581705",
     "geom:latitude":43.581705,
     "geom:longitude":-96.714759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3327 N 9th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387360651,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1467082746,
     "wof:name":"Daves Quality Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.714759,43.581705,-96.714759,43.581705],
+  "bbox": [
+    -96.714759,
+    43.581705,
+    -96.714759,
+    43.581705
+],
   "geometry": {"coordinates":[-96.714759,43.581705],"type":"Point"}
 }

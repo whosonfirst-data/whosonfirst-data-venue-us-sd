@@ -2,13 +2,14 @@
   "id": 387268987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807589,43.524475,-96.807589,43.524475",
     "geom:latitude":43.524475,
     "geom:longitude":-96.807589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 W Dover Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387268987,
-    "wof:lastmodified":1449058272,
+    "wof:lastmodified":1467082730,
     "wof:name":"Visual Magic Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-96.807589,43.524475,-96.807589,43.524475],
-  "geometry": {"coordinates":[-96.807589,43.524475],"type":"Point"}
+  "bbox": [
+    -96.807589,
+    43.524475,
+    -96.807589,
+    43.524475
+],
+  "geometry": {"coordinates":[-96.80758899999999,43.524475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387641837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721913,44.170881,-97.721913,44.170881",
     "geom:latitude":44.170881,
     "geom:longitude":-97.721913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S Drake St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387641837,
-    "wof:lastmodified":1449058994,
+    "wof:lastmodified":1467082745,
     "wof:name":"Hattervig Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.721913,44.170881,-97.721913,44.170881],
+  "bbox": [
+    -97.721913,
+    44.170881,
+    -97.721913,
+    44.170881
+],
   "geometry": {"coordinates":[-97.721913,44.170881],"type":"Point"}
 }

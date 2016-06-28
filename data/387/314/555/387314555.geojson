@@ -2,13 +2,14 @@
   "id": 387314555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726726,43.546134,-96.726726,43.546134",
     "geom:latitude":43.546134,
     "geom:longitude":-96.726726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387314555,
-    "wof:lastmodified":1449059756,
+    "wof:lastmodified":1467082760,
     "wof:name":"Sioux Falls District Office",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-96.726726,43.546134,-96.726726,43.546134],
+  "bbox": [
+    -96.726726,
+    43.546134,
+    -96.726726,
+    43.546134
+],
   "geometry": {"coordinates":[-96.726726,43.546134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387698903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120599,44.890032,-97.120599,44.890032",
     "geom:latitude":44.890032,
     "geom:longitude":-97.120599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387698903,
-    "wof:lastmodified":1449059685,
+    "wof:lastmodified":1467082758,
     "wof:name":"Watertown Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.120599,44.890032,-97.120599,44.890032],
+  "bbox": [
+    -97.120599,
+    44.890032,
+    -97.120599,
+    44.890032
+],
   "geometry": {"coordinates":[-97.120599,44.890032],"type":"Point"}
 }

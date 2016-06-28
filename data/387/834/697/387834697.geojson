@@ -2,13 +2,14 @@
   "id": 387834697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.68247,43.54592,-96.68247,43.54592",
     "geom:latitude":43.54592,
     "geom:longitude":-96.68247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 S Bahnson Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387834697,
-    "wof:lastmodified":1449056458,
+    "wof:lastmodified":1467082694,
     "wof:name":"Church Of The Harvest",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.68247,43.54592,-96.68247,43.54592],
+  "bbox": [
+    -96.68247,
+    43.54592,
+    -96.68247,
+    43.54592
+],
   "geometry": {"coordinates":[-96.68247,43.54592],"type":"Point"}
 }

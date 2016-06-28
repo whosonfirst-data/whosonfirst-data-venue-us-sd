@@ -2,13 +2,14 @@
   "id": 371105801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811232,43.664714,-96.811232,43.664714",
     "geom:latitude":43.664714,
     "geom:longitude":-96.811232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 N West Ave",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371105801,
-    "wof:lastmodified":1449049414,
+    "wof:lastmodified":1467082663,
     "wof:name":"Crooks Country Corner Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-96.811232,43.664714,-96.811232,43.664714],
+  "bbox": [
+    -96.811232,
+    43.664714,
+    -96.811232,
+    43.664714
+],
   "geometry": {"coordinates":[-96.811232,43.664714],"type":"Point"}
 }

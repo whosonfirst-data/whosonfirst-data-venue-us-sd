@@ -2,13 +2,14 @@
   "id": 387177437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.110981,44.052886,-103.110981,44.052886",
     "geom:latitude":44.052886,
     "geom:longitude":-103.110981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3153 Anderson Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387177437,
-    "wof:lastmodified":1449059919,
+    "wof:lastmodified":1467082763,
     "wof:name":"Scott D C Co Land Surveyors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-103.110981,44.052886,-103.110981,44.052886],
+  "bbox": [
+    -103.110981,
+    44.052886,
+    -103.110981,
+    44.052886
+],
   "geometry": {"coordinates":[-103.110981,44.052886],"type":"Point"}
 }

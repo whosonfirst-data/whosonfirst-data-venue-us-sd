@@ -2,13 +2,14 @@
   "id": 387151579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114074,43.995512,-97.114074,43.995512",
     "geom:latitude":43.995512,
     "geom:longitude":-97.114074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387151579,
-    "wof:lastmodified":1449056158,
+    "wof:lastmodified":1467082688,
     "wof:name":"Bethel Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.114074,43.995512,-97.114074,43.995512],
+  "bbox": [
+    -97.114074,
+    43.995512,
+    -97.114074,
+    43.995512
+],
   "geometry": {"coordinates":[-97.114074,43.995512],"type":"Point"}
 }

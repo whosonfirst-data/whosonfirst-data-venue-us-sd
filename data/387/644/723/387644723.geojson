@@ -2,13 +2,14 @@
   "id": 387644723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.783146,43.58905,-96.783146,43.58905",
     "geom:latitude":43.58905,
     "geom:longitude":-96.783146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3932 N Pennsylvania Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387644723,
-    "wof:lastmodified":1449058285,
+    "wof:lastmodified":1467082730,
     "wof:name":"A&D Air Services",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.783146,43.58905,-96.783146,43.58905],
+  "bbox": [
+    -96.783146,
+    43.58905,
+    -96.783146,
+    43.58905
+],
   "geometry": {"coordinates":[-96.783146,43.58905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387862161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.664178,44.039741,-101.664178,44.039741",
     "geom:latitude":44.039741,
     "geom:longitude":-101.664178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Center Ave",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387862161,
-    "wof:lastmodified":1449060008,
+    "wof:lastmodified":1467082765,
     "wof:name":"Haakon County Highway Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-101.664178,44.039741,-101.664178,44.039741],
-  "geometry": {"coordinates":[-101.664178,44.039741],"type":"Point"}
+  "bbox": [
+    -101.664178,
+    44.039741,
+    -101.664178,
+    44.039741
+],
+  "geometry": {"coordinates":[-101.66417800000001,44.039741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387340663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487964,45.454701,-98.487964,45.454701",
     "geom:latitude":45.454701,
     "geom:longitude":-98.487964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387340663,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1467082746,
     "wof:name":"Bud & Owens Cllsion Tchnicians",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-98.487964,45.454701,-98.487964,45.454701],
-  "geometry": {"coordinates":[-98.487964,45.454701],"type":"Point"}
+  "bbox": [
+    -98.487964,
+    45.454701,
+    -98.487964,
+    45.454701
+],
+  "geometry": {"coordinates":[-98.48796400000001,45.454701],"type":"Point"}
 }

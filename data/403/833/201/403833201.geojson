@@ -2,13 +2,14 @@
   "id": 403833201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722212,43.508227,-96.722212,43.508227",
     "geom:latitude":43.508227,
     "geom:longitude":-96.722212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 E Twin Oaks Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403833201,
-    "wof:lastmodified":1449054792,
+    "wof:lastmodified":1467082676,
     "wof:name":"Bontje Construction",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.722212,43.508227,-96.722212,43.508227],
+  "bbox": [
+    -96.722212,
+    43.508227,
+    -96.722212,
+    43.508227
+],
   "geometry": {"coordinates":[-96.722212,43.508227],"type":"Point"}
 }

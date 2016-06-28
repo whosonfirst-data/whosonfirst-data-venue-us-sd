@@ -2,13 +2,14 @@
   "id": 387293951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.061575,44.043254,-103.061575,44.043254",
     "geom:latitude":44.043254,
     "geom:longitude":-103.061575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4190 Fire Station Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387293951,
-    "wof:lastmodified":1449056844,
+    "wof:lastmodified":1467082701,
     "wof:name":"Rapid City Airport Fire Dept",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-103.061575,44.043254,-103.061575,44.043254],
+  "bbox": [
+    -103.061575,
+    44.043254,
+    -103.061575,
+    44.043254
+],
   "geometry": {"coordinates":[-103.061575,44.043254],"type":"Point"}
 }

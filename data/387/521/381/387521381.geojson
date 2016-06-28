@@ -2,13 +2,14 @@
   "id": 387521381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.077082,43.17136,-97.077082,43.17136",
     "geom:latitude":43.17136,
     "geom:longitude":-97.077082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Nora St",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387521381,
-    "wof:lastmodified":1449059729,
+    "wof:lastmodified":1467082759,
     "wof:name":"Johnny's Portable Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.077082,43.17136,-97.077082,43.17136],
+  "bbox": [
+    -97.077082,
+    43.17136,
+    -97.077082,
+    43.17136
+],
   "geometry": {"coordinates":[-97.077082,43.17136],"type":"Point"}
 }

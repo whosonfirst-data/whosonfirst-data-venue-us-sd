@@ -2,13 +2,14 @@
   "id": 371150029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859652,44.500176,-103.859652,44.500176",
     "geom:latitude":44.500176,
     "geom:longitude":-103.859652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 North Ave",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371150029,
-    "wof:lastmodified":1449049087,
+    "wof:lastmodified":1467082658,
     "wof:name":"Mane Attraction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.859652,44.500176,-103.859652,44.500176],
+  "bbox": [
+    -103.859652,
+    44.500176,
+    -103.859652,
+    44.500176
+],
   "geometry": {"coordinates":[-103.859652,44.500176],"type":"Point"}
 }

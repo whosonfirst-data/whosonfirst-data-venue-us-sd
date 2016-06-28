@@ -2,13 +2,14 @@
   "id": 387394073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797033,44.302924,-96.797033,44.302924",
     "geom:latitude":44.302924,
     "geom:longitude":-96.797033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 5th Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387394073,
-    "wof:lastmodified":1449056837,
+    "wof:lastmodified":1467082701,
     "wof:name":"Brookings Cnty Human Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.797033,44.302924,-96.797033,44.302924],
+  "bbox": [
+    -96.797033,
+    44.302924,
+    -96.797033,
+    44.302924
+],
   "geometry": {"coordinates":[-96.797033,44.302924],"type":"Point"}
 }

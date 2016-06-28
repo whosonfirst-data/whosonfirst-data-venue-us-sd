@@ -2,13 +2,14 @@
   "id": 386996471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.385154,44.757864,-97.385154,44.757864",
     "geom:latitude":44.757864,
     "geom:longitude":-97.385154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 4th St",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386996471,
-    "wof:lastmodified":1449028702,
+    "wof:lastmodified":1467082650,
     "wof:name":"Hamilton Bee Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-97.385154,44.757864,-97.385154,44.757864],
+  "bbox": [
+    -97.385154,
+    44.757864,
+    -97.385154,
+    44.757864
+],
   "geometry": {"coordinates":[-97.385154,44.757864],"type":"Point"}
 }

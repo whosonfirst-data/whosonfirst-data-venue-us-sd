@@ -2,13 +2,14 @@
   "id": 387797973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.372272,42.879234,-97.372272,42.879234",
     "geom:latitude":42.879234,
     "geom:longitude":-97.372272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Ferdig St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387797973,
-    "wof:lastmodified":1449059540,
+    "wof:lastmodified":1467082755,
     "wof:name":"Gehl Power Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.372272,42.879234,-97.372272,42.879234],
+  "bbox": [
+    -97.372272,
+    42.879234,
+    -97.372272,
+    42.879234
+],
   "geometry": {"coordinates":[-97.372272,42.879234],"type":"Point"}
 }

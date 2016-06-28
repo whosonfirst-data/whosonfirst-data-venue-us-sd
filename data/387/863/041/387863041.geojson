@@ -2,13 +2,14 @@
   "id": 387863041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926632,44.323643,-96.926632,44.323643",
     "geom:latitude":44.323643,
     "geom:longitude":-96.926632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387863041,
-    "wof:lastmodified":1449058739,
+    "wof:lastmodified":1467082739,
     "wof:name":"City Of Volga Municipal Utilit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-96.926632,44.323643,-96.926632,44.323643],
+  "bbox": [
+    -96.926632,
+    44.323643,
+    -96.926632,
+    44.323643
+],
   "geometry": {"coordinates":[-96.926632,44.323643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387777761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.474976,43.431089,-103.474976,43.431089",
     "geom:latitude":43.431089,
     "geom:longitude":-103.474976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387777761,
-    "wof:lastmodified":1449058116,
+    "wof:lastmodified":1467082727,
     "wof:name":"Sturdley's Family Eating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.474976,43.431089,-103.474976,43.431089],
+  "bbox": [
+    -103.474976,
+    43.431089,
+    -103.474976,
+    43.431089
+],
   "geometry": {"coordinates":[-103.474976,43.431089],"type":"Point"}
 }

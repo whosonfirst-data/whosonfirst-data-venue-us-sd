@@ -2,13 +2,14 @@
   "id": 387685657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.43902,43.498477,-98.43902,43.498477",
     "geom:latitude":43.498477,
     "geom:longitude":-98.43902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38751 268th St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387685657,
-    "wof:lastmodified":1449059825,
+    "wof:lastmodified":1467082761,
     "wof:name":"C & J Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.43902,43.498477,-98.43902,43.498477],
+  "bbox": [
+    -98.43902,
+    43.498477,
+    -98.43902,
+    43.498477
+],
   "geometry": {"coordinates":[-98.43902,43.498477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387404549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810222,43.461635,-96.810222,43.461635",
     "geom:latitude":43.461635,
     "geom:longitude":-96.810222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27081 Thomas Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387404549,
-    "wof:lastmodified":1449058637,
+    "wof:lastmodified":1467082737,
     "wof:name":"Lawn Pro Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.810222,43.461635,-96.810222,43.461635],
+  "bbox": [
+    -96.810222,
+    43.461635,
+    -96.810222,
+    43.461635
+],
   "geometry": {"coordinates":[-96.810222,43.461635],"type":"Point"}
 }

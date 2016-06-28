@@ -2,13 +2,14 @@
   "id": 371012569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.029587,43.703595,-98.029587,43.703595",
     "geom:latitude":43.703595,
     "geom:longitude":-98.029587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Sanborn Blvd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371012569,
-    "wof:lastmodified":1449050034,
+    "wof:lastmodified":1467082672,
     "wof:name":"Planet Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-98.029587,43.703595,-98.029587,43.703595],
-  "geometry": {"coordinates":[-98.029587,43.703595],"type":"Point"}
+  "bbox": [
+    -98.029587,
+    43.703595,
+    -98.029587,
+    43.703595
+],
+  "geometry": {"coordinates":[-98.02958700000001,43.703595],"type":"Point"}
 }

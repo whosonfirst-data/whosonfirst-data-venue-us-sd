@@ -2,13 +2,14 @@
   "id": 403721261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.231615,44.078558,-103.231615,44.078558",
     "geom:latitude":44.078558,
     "geom:longitude":-103.231615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403721261,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1467082684,
     "wof:name":"Joseph M Lytle",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.231615,44.078558,-103.231615,44.078558],
-  "geometry": {"coordinates":[-103.231615,44.078558],"type":"Point"}
+  "bbox": [
+    -103.231615,
+    44.078558,
+    -103.231615,
+    44.078558
+],
+  "geometry": {"coordinates":[-103.23161500000001,44.078558],"type":"Point"}
 }

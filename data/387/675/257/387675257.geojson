@@ -2,13 +2,14 @@
   "id": 387675257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.369278,44.354209,-100.369278,44.354209",
     "geom:latitude":44.354209,
     "geom:longitude":-100.369278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 E Main Ave",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387675257,
-    "wof:lastmodified":1449058040,
+    "wof:lastmodified":1467082726,
     "wof:name":"Community & Youth Involved Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-100.369278,44.354209,-100.369278,44.354209],
-  "geometry": {"coordinates":[-100.369278,44.354209],"type":"Point"}
+  "bbox": [
+    -100.369278,
+    44.354209,
+    -100.369278,
+    44.354209
+],
+  "geometry": {"coordinates":[-100.36927799999999,44.354209],"type":"Point"}
 }

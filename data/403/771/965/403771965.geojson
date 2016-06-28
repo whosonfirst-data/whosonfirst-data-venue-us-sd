@@ -2,13 +2,14 @@
   "id": 403771965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.210776,44.580563,-97.210776,44.580563",
     "geom:latitude":44.580563,
     "geom:longitude":-97.210776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Dakota St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403771965,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1467082680,
     "wof:name":"Rob Ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.210776,44.580563,-97.210776,44.580563],
+  "bbox": [
+    -97.210776,
+    44.580563,
+    -97.210776,
+    44.580563
+],
   "geometry": {"coordinates":[-97.210776,44.580563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387803435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.265759,43.778238,-98.265759,43.778238",
     "geom:latitude":43.778238,
     "geom:longitude":-98.265759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24880 397th Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387803435,
-    "wof:lastmodified":1449059965,
+    "wof:lastmodified":1467082764,
     "wof:name":"Rosewood Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-98.265759,43.778238,-98.265759,43.778238],
+  "bbox": [
+    -98.265759,
+    43.778238,
+    -98.265759,
+    43.778238
+],
   "geometry": {"coordinates":[-98.265759,43.778238],"type":"Point"}
 }

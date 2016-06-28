@@ -2,13 +2,14 @@
   "id": 371089433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308544,43.513307,-97.308544,43.513307",
     "geom:latitude":43.513307,
     "geom:longitude":-97.308544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26731 445th Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371089433,
-    "wof:lastmodified":1449049250,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ortman Del",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.308544,43.513307,-97.308544,43.513307],
+  "bbox": [
+    -97.308544,
+    43.513307,
+    -97.308544,
+    43.513307
+],
   "geometry": {"coordinates":[-97.308544,43.513307],"type":"Point"}
 }

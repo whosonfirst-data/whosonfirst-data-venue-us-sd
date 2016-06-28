@@ -2,13 +2,14 @@
   "id": 387836713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.990167,44.518197,-98.990167,44.518197",
     "geom:latitude":44.518197,
     "geom:longitude":-98.990167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387836713,
-    "wof:lastmodified":1449058628,
+    "wof:lastmodified":1467082737,
     "wof:name":"Miller Press Newspaper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-98.990167,44.518197,-98.990167,44.518197],
+  "bbox": [
+    -98.990167,
+    44.518197,
+    -98.990167,
+    44.518197
+],
   "geometry": {"coordinates":[-98.990167,44.518197],"type":"Point"}
 }

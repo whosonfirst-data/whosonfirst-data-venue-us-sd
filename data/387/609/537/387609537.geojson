@@ -2,13 +2,14 @@
   "id": 387609537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.705998,43.912908,-102.705998,43.912908",
     "geom:latitude":43.912908,
     "geom:longitude":-102.705998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16780 E Hwy 44",
     "sg:city":"Caputa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387609537,
-    "wof:lastmodified":1449057521,
+    "wof:lastmodified":1467082715,
     "wof:name":"Rapid Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "camp"
     ]
 },
-  "bbox": [-102.705998,43.912908,-102.705998,43.912908],
-  "geometry": {"coordinates":[-102.705998,43.912908],"type":"Point"}
+  "bbox": [
+    -102.705998,
+    43.912908,
+    -102.705998,
+    43.912908
+],
+  "geometry": {"coordinates":[-102.70599799999999,43.912908],"type":"Point"}
 }

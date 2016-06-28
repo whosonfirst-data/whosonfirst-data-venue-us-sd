@@ -2,13 +2,14 @@
   "id": 387222887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.086643,43.687504,-98.086643,43.687504",
     "geom:latitude":43.687504,
     "geom:longitude":-98.086643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W Spruce St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387222887,
-    "wof:lastmodified":1449058655,
+    "wof:lastmodified":1467082738,
     "wof:name":"Quality Wood Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.086643,43.687504,-98.086643,43.687504],
+  "bbox": [
+    -98.086643,
+    43.687504,
+    -98.086643,
+    43.687504
+],
   "geometry": {"coordinates":[-98.086643,43.687504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370980833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548554,44.39101,-97.548554,44.39101",
     "geom:latitude":44.39101,
     "geom:longitude":-97.548554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Calumet Ave N",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370980833,
-    "wof:lastmodified":1449029307,
+    "wof:lastmodified":1467082656,
     "wof:name":"Good Samaritan Hm Health - De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.548554,44.39101,-97.548554,44.39101],
+  "bbox": [
+    -97.548554,
+    44.39101,
+    -97.548554,
+    44.39101
+],
   "geometry": {"coordinates":[-97.548554,44.39101],"type":"Point"}
 }

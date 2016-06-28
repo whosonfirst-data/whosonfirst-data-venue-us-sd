@@ -2,13 +2,14 @@
   "id": 387526525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.751155,43.161686,-99.751155,43.161686",
     "geom:latitude":43.161686,
     "geom:longitude":-99.751155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29250 321st Ave",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387526525,
-    "wof:lastmodified":1449057270,
+    "wof:lastmodified":1467082710,
     "wof:name":"George Shippy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.751155,43.161686,-99.751155,43.161686],
+  "bbox": [
+    -99.751155,
+    43.161686,
+    -99.751155,
+    43.161686
+],
   "geometry": {"coordinates":[-99.751155,43.161686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387265075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.497479,43.599206,-98.497479,43.599206",
     "geom:latitude":43.599206,
     "geom:longitude":-98.497479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26105 385th Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387265075,
-    "wof:lastmodified":1449057393,
+    "wof:lastmodified":1467082712,
     "wof:name":"Wayne Keizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.497479,43.599206,-98.497479,43.599206],
+  "bbox": [
+    -98.497479,
+    43.599206,
+    -98.497479,
+    43.599206
+],
   "geometry": {"coordinates":[-98.497479,43.599206],"type":"Point"}
 }

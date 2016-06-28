@@ -2,13 +2,14 @@
   "id": 387956161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.278435,44.085337,-103.278435,44.085337",
     "geom:latitude":44.085337,
     "geom:longitude":-103.278435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3445 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387956161,
-    "wof:lastmodified":1449056747,
+    "wof:lastmodified":1467082699,
     "wof:name":"Diversified Contractors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.278435,44.085337,-103.278435,44.085337],
+  "bbox": [
+    -103.278435,
+    44.085337,
+    -103.278435,
+    44.085337
+],
   "geometry": {"coordinates":[-103.278435,44.085337],"type":"Point"}
 }

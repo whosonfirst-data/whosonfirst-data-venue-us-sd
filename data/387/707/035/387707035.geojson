@@ -2,13 +2,14 @@
   "id": 387707035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.241404,44.341684,-98.241404,44.341684",
     "geom:latitude":44.341684,
     "geom:longitude":-98.241404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 21st St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387707035,
-    "wof:lastmodified":1449059330,
+    "wof:lastmodified":1467082751,
     "wof:name":"Prairie Villa Mobile Home Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-98.241404,44.341684,-98.241404,44.341684],
+  "bbox": [
+    -98.241404,
+    44.341684,
+    -98.241404,
+    44.341684
+],
   "geometry": {"coordinates":[-98.241404,44.341684],"type":"Point"}
 }

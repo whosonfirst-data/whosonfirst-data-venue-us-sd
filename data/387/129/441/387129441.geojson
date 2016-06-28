@@ -2,13 +2,14 @@
   "id": 387129441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396848,42.883462,-97.396848,42.883462",
     "geom:latitude":42.883462,
     "geom:longitude":-97.396848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 W 15th St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387129441,
-    "wof:lastmodified":1449059179,
+    "wof:lastmodified":1467082748,
     "wof:name":"Orchard Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.396848,42.883462,-97.396848,42.883462],
-  "geometry": {"coordinates":[-97.396848,42.883462],"type":"Point"}
+  "bbox": [
+    -97.396848,
+    42.883462,
+    -97.396848,
+    42.883462
+],
+  "geometry": {"coordinates":[-97.39684800000001,42.883462],"type":"Point"}
 }

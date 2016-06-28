@@ -2,13 +2,14 @@
   "id": 403837439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492159,45.462204,-98.492159,45.462204",
     "geom:latitude":45.462204,
     "geom:longitude":-98.492159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 3rd Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403837439,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1467082676,
     "wof:name":"Ken's Alignment Auto Svc Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-98.492159,45.462204,-98.492159,45.462204],
+  "bbox": [
+    -98.492159,
+    45.462204,
+    -98.492159,
+    45.462204
+],
   "geometry": {"coordinates":[-98.492159,45.462204],"type":"Point"}
 }

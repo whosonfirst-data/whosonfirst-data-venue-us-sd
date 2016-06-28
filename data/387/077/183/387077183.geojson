@@ -2,13 +2,14 @@
   "id": 387077183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129297,44.007232,-97.129297,44.007232",
     "geom:latitude":44.007232,
     "geom:longitude":-97.129297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Highland Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387077183,
-    "wof:lastmodified":1449056708,
+    "wof:lastmodified":1467082699,
     "wof:name":"Keever Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.129297,44.007232,-97.129297,44.007232],
-  "geometry": {"coordinates":[-97.129297,44.007232],"type":"Point"}
+  "bbox": [
+    -97.129297,
+    44.007232,
+    -97.129297,
+    44.007232
+],
+  "geometry": {"coordinates":[-97.12929699999999,44.007232],"type":"Point"}
 }

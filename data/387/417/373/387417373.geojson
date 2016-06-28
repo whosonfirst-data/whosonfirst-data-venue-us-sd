@@ -2,13 +2,14 @@
   "id": 387417373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.511352,44.408687,-103.511352,44.408687",
     "geom:latitude":44.408687,
     "geom:longitude":-103.511352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 Shephard St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387417373,
-    "wof:lastmodified":1449057661,
+    "wof:lastmodified":1467082718,
     "wof:name":"Daves Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.511352,44.408687,-103.511352,44.408687],
+  "bbox": [
+    -103.511352,
+    44.408687,
+    -103.511352,
+    44.408687
+],
   "geometry": {"coordinates":[-103.511352,44.408687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387464311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.312279,44.15118,-103.312279,44.15118",
     "geom:latitude":44.15118,
     "geom:longitude":-103.312279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5508 W Elm St",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387464311,
-    "wof:lastmodified":1449057124,
+    "wof:lastmodified":1467082707,
     "wof:name":"West River Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.312279,44.15118,-103.312279,44.15118],
+  "bbox": [
+    -103.312279,
+    44.15118,
+    -103.312279,
+    44.15118
+],
   "geometry": {"coordinates":[-103.312279,44.15118],"type":"Point"}
 }

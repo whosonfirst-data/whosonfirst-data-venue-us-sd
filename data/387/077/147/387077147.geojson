@@ -2,13 +2,14 @@
   "id": 387077147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.936315,42.783609,-96.936315,42.783609",
     "geom:latitude":42.783609,
     "geom:longitude":-96.936315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 W Dartmouth St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387077147,
-    "wof:lastmodified":1449056709,
+    "wof:lastmodified":1467082699,
     "wof:name":"Riehle Marilyn Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.936315,42.783609,-96.936315,42.783609],
-  "geometry": {"coordinates":[-96.936315,42.783609],"type":"Point"}
+  "bbox": [
+    -96.936315,
+    42.783609,
+    -96.936315,
+    42.783609
+],
+  "geometry": {"coordinates":[-96.93631499999999,42.783609],"type":"Point"}
 }

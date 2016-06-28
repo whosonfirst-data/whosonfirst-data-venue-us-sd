@@ -2,13 +2,14 @@
   "id": 387695157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67136,43.514596,-96.67136,43.514596",
     "geom:latitude":43.514596,
     "geom:longitude":-96.67136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387695157,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1467082716,
     "wof:name":"Home Federal Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.67136,43.514596,-96.67136,43.514596],
-  "geometry": {"coordinates":[-96.67136,43.514596],"type":"Point"}
+  "bbox": [
+    -96.67136,
+    43.514596,
+    -96.67136,
+    43.514596
+],
+  "geometry": {"coordinates":[-96.67136000000001,43.514596],"type":"Point"}
 }

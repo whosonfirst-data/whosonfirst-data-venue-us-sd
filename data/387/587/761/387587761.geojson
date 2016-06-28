@@ -2,13 +2,14 @@
   "id": 387587761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.606879,44.043579,-96.606879,44.043579",
     "geom:latitude":44.043579,
     "geom:longitude":-96.606879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Broad Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387587761,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1467082713,
     "wof:name":"Community Health Represent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.606879,44.043579,-96.606879,44.043579],
-  "geometry": {"coordinates":[-96.606879,44.043579],"type":"Point"}
+  "bbox": [
+    -96.606879,
+    44.043579,
+    -96.606879,
+    44.043579
+],
+  "geometry": {"coordinates":[-96.60687900000001,44.043579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386985365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128714,44.36946,-97.128714,44.36946",
     "geom:latitude":44.36946,
     "geom:longitude":-97.128714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 US Hwy 81",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386985365,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1467082652,
     "wof:name":"D M & E Railroad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.128714,44.36946,-97.128714,44.36946],
+  "bbox": [
+    -97.128714,
+    44.36946,
+    -97.128714,
+    44.36946
+],
   "geometry": {"coordinates":[-97.128714,44.36946],"type":"Point"}
 }

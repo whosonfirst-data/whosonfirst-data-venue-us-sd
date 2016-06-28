@@ -2,13 +2,14 @@
   "id": 387801397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.662082,43.305711,-100.662082,43.305711",
     "geom:latitude":43.305711,
     "geom:longitude":-100.662082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 2nd St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387801397,
-    "wof:lastmodified":1449059250,
+    "wof:lastmodified":1467082750,
     "wof:name":"Zion's Evangelical Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.662082,43.305711,-100.662082,43.305711],
+  "bbox": [
+    -100.662082,
+    43.305711,
+    -100.662082,
+    43.305711
+],
   "geometry": {"coordinates":[-100.662082,43.305711],"type":"Point"}
 }

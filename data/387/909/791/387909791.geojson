@@ -2,13 +2,14 @@
   "id": 387909791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.314041,45.612998,-98.314041,45.612998",
     "geom:latitude":45.612998,
     "geom:longitude":-98.314041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Lake Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387909791,
-    "wof:lastmodified":1449058970,
+    "wof:lastmodified":1467082744,
     "wof:name":"Kampa Cheryl L Day Care",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.314041,45.612998,-98.314041,45.612998],
+  "bbox": [
+    -98.314041,
+    45.612998,
+    -98.314041,
+    45.612998
+],
   "geometry": {"coordinates":[-98.314041,45.612998],"type":"Point"}
 }

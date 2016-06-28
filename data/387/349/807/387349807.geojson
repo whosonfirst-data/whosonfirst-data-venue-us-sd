@@ -2,13 +2,14 @@
   "id": 387349807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.814578,43.540217,-96.814578,43.540217",
     "geom:latitude":43.540217,
     "geom:longitude":-96.814578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Outlook Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387349807,
-    "wof:lastmodified":1449057541,
+    "wof:lastmodified":1467082715,
     "wof:name":"Fogies Liquor Gallery",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-96.814578,43.540217,-96.814578,43.540217],
+  "bbox": [
+    -96.814578,
+    43.540217,
+    -96.814578,
+    43.540217
+],
   "geometry": {"coordinates":[-96.814578,43.540217],"type":"Point"}
 }

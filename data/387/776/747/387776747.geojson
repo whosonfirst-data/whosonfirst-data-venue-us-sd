@@ -2,13 +2,14 @@
   "id": 387776747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803018,43.524118,-96.803018,43.524118",
     "geom:latitude":43.524118,
     "geom:longitude":-96.803018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 S Sheffield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387776747,
-    "wof:lastmodified":1449056927,
+    "wof:lastmodified":1467082703,
     "wof:name":"Kingswood Mowing",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.803018,43.524118,-96.803018,43.524118],
-  "geometry": {"coordinates":[-96.803018,43.524118],"type":"Point"}
+  "bbox": [
+    -96.803018,
+    43.524118,
+    -96.803018,
+    43.524118
+],
+  "geometry": {"coordinates":[-96.80301799999999,43.524118],"type":"Point"}
 }

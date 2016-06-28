@@ -2,13 +2,14 @@
   "id": 387174719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.651459,42.937524,-97.651459,42.937524",
     "geom:latitude":42.937524,
     "geom:longitude":-97.651459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42719 307th St",
     "sg:city":"Tabor",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387174719,
-    "wof:lastmodified":1449056621,
+    "wof:lastmodified":1467082697,
     "wof:name":"Donald Koranda Well Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-97.651459,42.937524,-97.651459,42.937524],
+  "bbox": [
+    -97.651459,
+    42.937524,
+    -97.651459,
+    42.937524
+],
   "geometry": {"coordinates":[-97.651459,42.937524],"type":"Point"}
 }

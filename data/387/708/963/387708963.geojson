@@ -2,13 +2,14 @@
   "id": 387708963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.876344,44.499484,-103.876344,44.499484",
     "geom:latitude":44.499484,
     "geom:longitude":-103.876344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 College Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387708963,
-    "wof:lastmodified":1449056697,
+    "wof:lastmodified":1467082698,
     "wof:name":"Tiger's Taxi & Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-103.876344,44.499484,-103.876344,44.499484],
+  "bbox": [
+    -103.876344,
+    44.499484,
+    -103.876344,
+    44.499484
+],
   "geometry": {"coordinates":[-103.876344,44.499484],"type":"Point"}
 }

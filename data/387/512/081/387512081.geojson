@@ -2,13 +2,14 @@
   "id": 387512081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.584725,43.587304,-96.584725,43.587304",
     "geom:latitude":43.587304,
     "geom:longitude":-96.584725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Aspen Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387512081,
-    "wof:lastmodified":1449058877,
+    "wof:lastmodified":1467082742,
     "wof:name":"Keith Goemble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-96.584725,43.587304,-96.584725,43.587304],
-  "geometry": {"coordinates":[-96.584725,43.587304],"type":"Point"}
+  "bbox": [
+    -96.584725,
+    43.587304,
+    -96.584725,
+    43.587304
+],
+  "geometry": {"coordinates":[-96.58472500000001,43.587304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387030577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.218644,44.363172,-98.218644,44.363172",
     "geom:latitude":44.363172,
     "geom:longitude":-98.218644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 3rd St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387030577,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"Carpet Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-98.218644,44.363172,-98.218644,44.363172],
+  "bbox": [
+    -98.218644,
+    44.363172,
+    -98.218644,
+    44.363172
+],
   "geometry": {"coordinates":[-98.218644,44.363172],"type":"Point"}
 }

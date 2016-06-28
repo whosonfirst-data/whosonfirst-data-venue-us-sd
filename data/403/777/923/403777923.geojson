@@ -2,13 +2,14 @@
   "id": 403777923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530159,45.344547,-97.530159,45.344547",
     "geom:latitude":45.344547,
     "geom:longitude":-97.530159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 W 7th St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403777923,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1467082680,
     "wof:name":"P&K Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530159,45.344547,-97.530159,45.344547],
+  "bbox": [
+    -97.530159,
+    45.344547,
+    -97.530159,
+    45.344547
+],
   "geometry": {"coordinates":[-97.530159,45.344547],"type":"Point"}
 }

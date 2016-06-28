@@ -2,13 +2,14 @@
   "id": 387615305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11606,44.900827,-97.11606,44.900827",
     "geom:latitude":44.900827,
     "geom:longitude":-97.11606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387615305,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1467082710,
     "wof:name":"Curl Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.11606,44.900827,-97.11606,44.900827],
+  "bbox": [
+    -97.11606,
+    44.900827,
+    -97.11606,
+    44.900827
+],
   "geometry": {"coordinates":[-97.11606,44.900827],"type":"Point"}
 }

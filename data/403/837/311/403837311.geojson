@@ -2,13 +2,14 @@
   "id": 403837311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.726967,44.371306,-103.726967,44.371306",
     "geom:latitude":44.371306,
     "geom:longitude":-103.726967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Charles St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403837311,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1467082676,
     "wof:name":"Timberline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.726967,44.371306,-103.726967,44.371306],
+  "bbox": [
+    -103.726967,
+    44.371306,
+    -103.726967,
+    44.371306
+],
   "geometry": {"coordinates":[-103.726967,44.371306],"type":"Point"}
 }

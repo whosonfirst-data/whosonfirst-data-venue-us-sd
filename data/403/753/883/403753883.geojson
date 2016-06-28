@@ -2,13 +2,14 @@
   "id": 403753883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.569378,44.077209,-98.569378,44.077209",
     "geom:latitude":44.077209,
     "geom:longitude":-98.569378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Wallace Ave S",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403753883,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1467082675,
     "wof:name":"Kreative Design Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.569378,44.077209,-98.569378,44.077209],
+  "bbox": [
+    -98.569378,
+    44.077209,
+    -98.569378,
+    44.077209
+],
   "geometry": {"coordinates":[-98.569378,44.077209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387615585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214232,44.370636,-98.214232,44.370636",
     "geom:latitude":44.370636,
     "geom:longitude":-98.214232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387615585,
-    "wof:lastmodified":1449057302,
+    "wof:lastmodified":1467082710,
     "wof:name":"Helping Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214232,44.370636,-98.214232,44.370636],
+  "bbox": [
+    -98.214232,
+    44.370636,
+    -98.214232,
+    44.370636
+],
   "geometry": {"coordinates":[-98.214232,44.370636],"type":"Point"}
 }

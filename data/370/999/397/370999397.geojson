@@ -2,13 +2,14 @@
   "id": 370999397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.113122,44.898844,-97.113122,44.898844",
     "geom:latitude":44.898844,
     "geom:longitude":-97.113122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 1st Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370999397,
-    "wof:lastmodified":1449032054,
+    "wof:lastmodified":1467082658,
     "wof:name":"Windshield Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "replacement"
     ]
 },
-  "bbox": [-97.113122,44.898844,-97.113122,44.898844],
+  "bbox": [
+    -97.113122,
+    44.898844,
+    -97.113122,
+    44.898844
+],
   "geometry": {"coordinates":[-97.113122,44.898844],"type":"Point"}
 }

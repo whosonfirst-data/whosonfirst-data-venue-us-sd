@@ -2,13 +2,14 @@
   "id": 387314729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329196,43.758379,-97.329196,43.758379",
     "geom:latitude":43.758379,
     "geom:longitude":-97.329196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25056 444th Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387314729,
-    "wof:lastmodified":1449059756,
+    "wof:lastmodified":1467082760,
     "wof:name":"Dan Westhoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.329196,43.758379,-97.329196,43.758379],
+  "bbox": [
+    -97.329196,
+    43.758379,
+    -97.329196,
+    43.758379
+],
   "geometry": {"coordinates":[-97.329196,43.758379],"type":"Point"}
 }

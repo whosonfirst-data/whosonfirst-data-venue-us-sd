@@ -2,13 +2,14 @@
   "id": 371078025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.902551,43.355359,-96.902551,43.355359",
     "geom:latitude":43.355359,
     "geom:longitude":-96.902551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W 1st Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371078025,
-    "wof:lastmodified":1449049969,
+    "wof:lastmodified":1467082671,
     "wof:name":"Lennox City Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "city"
     ]
 },
-  "bbox": [-96.902551,43.355359,-96.902551,43.355359],
+  "bbox": [
+    -96.902551,
+    43.355359,
+    -96.902551,
+    43.355359
+],
   "geometry": {"coordinates":[-96.902551,43.355359],"type":"Point"}
 }

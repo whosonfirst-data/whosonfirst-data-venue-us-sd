@@ -2,13 +2,14 @@
   "id": 387232723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.737072,43.558942,-96.737072,43.558942",
     "geom:latitude":43.558942,
     "geom:longitude":-96.737072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W McClellan St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387232723,
-    "wof:lastmodified":1449057327,
+    "wof:lastmodified":1467082711,
     "wof:name":"Simply Green Lawn Care Spec",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.737072,43.558942,-96.737072,43.558942],
+  "bbox": [
+    -96.737072,
+    43.558942,
+    -96.737072,
+    43.558942
+],
   "geometry": {"coordinates":[-96.737072,43.558942],"type":"Point"}
 }

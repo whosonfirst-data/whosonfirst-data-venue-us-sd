@@ -2,13 +2,14 @@
   "id": 387537877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803469,44.31426,-96.803469,44.31426",
     "geom:latitude":44.31426,
     "geom:longitude":-96.803469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 8th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387537877,
-    "wof:lastmodified":1449057039,
+    "wof:lastmodified":1467082705,
     "wof:name":"Michele Haaseth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.803469,44.31426,-96.803469,44.31426],
-  "geometry": {"coordinates":[-96.803469,44.31426],"type":"Point"}
+  "bbox": [
+    -96.803469,
+    44.31426,
+    -96.803469,
+    44.31426
+],
+  "geometry": {"coordinates":[-96.80346900000001,44.31426],"type":"Point"}
 }

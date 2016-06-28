@@ -2,13 +2,14 @@
   "id": 387870357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739447,43.565656,-96.739447,43.565656",
     "geom:latitude":43.565656,
     "geom:longitude":-96.739447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Cherokee St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387870357,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1467082706,
     "wof:name":"Tessier's Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.739447,43.565656,-96.739447,43.565656],
+  "bbox": [
+    -96.739447,
+    43.565656,
+    -96.739447,
+    43.565656
+],
   "geometry": {"coordinates":[-96.739447,43.565656],"type":"Point"}
 }

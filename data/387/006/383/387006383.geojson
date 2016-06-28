@@ -2,13 +2,14 @@
   "id": 387006383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.163995,44.906436,-97.163995,44.906436",
     "geom:latitude":44.906436,
     "geom:longitude":-97.163995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 4th Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387006383,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1467082748,
     "wof:name":"McJaningler Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.163995,44.906436,-97.163995,44.906436],
+  "bbox": [
+    -97.163995,
+    44.906436,
+    -97.163995,
+    44.906436
+],
   "geometry": {"coordinates":[-97.163995,44.906436],"type":"Point"}
 }

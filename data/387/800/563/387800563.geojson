@@ -2,13 +2,14 @@
   "id": 387800563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.968959,44.245991,-96.968959,44.245991",
     "geom:latitude":44.245991,
     "geom:longitude":-96.968959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21654 462nd Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387800563,
-    "wof:lastmodified":1449056408,
+    "wof:lastmodified":1467082693,
     "wof:name":"L & H Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.968959,44.245991,-96.968959,44.245991],
+  "bbox": [
+    -96.968959,
+    44.245991,
+    -96.968959,
+    44.245991
+],
   "geometry": {"coordinates":[-96.968959,44.245991],"type":"Point"}
 }

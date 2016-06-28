@@ -2,13 +2,14 @@
   "id": 387885765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112628,44.005032,-97.112628,44.005032",
     "geom:latitude":44.005032,
     "geom:longitude":-97.112628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387885765,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1467082728,
     "wof:name":"Giles Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-97.112628,44.005032,-97.112628,44.005032],
+  "bbox": [
+    -97.112628,
+    44.005032,
+    -97.112628,
+    44.005032
+],
   "geometry": {"coordinates":[-97.112628,44.005032],"type":"Point"}
 }

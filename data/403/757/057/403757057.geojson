@@ -2,13 +2,14 @@
   "id": 403757057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.347028,44.362758,-100.347028,44.362758",
     "geom:latitude":44.362758,
     "geom:longitude":-100.347028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403757057,
-    "wof:lastmodified":1449055383,
+    "wof:lastmodified":1467082681,
     "wof:name":"Gary A Heintz Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.347028,44.362758,-100.347028,44.362758],
-  "geometry": {"coordinates":[-100.347028,44.362758],"type":"Point"}
+  "bbox": [
+    -100.347028,
+    44.362758,
+    -100.347028,
+    44.362758
+],
+  "geometry": {"coordinates":[-100.34702799999999,44.362758],"type":"Point"}
 }

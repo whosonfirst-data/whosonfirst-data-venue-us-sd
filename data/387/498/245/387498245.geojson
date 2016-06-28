@@ -2,13 +2,14 @@
   "id": 387498245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.262194,44.070137,-103.262194,44.070137",
     "geom:latitude":44.070137,
     "geom:longitude":-103.262194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387498245,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1467082745,
     "wof:name":"Pechota Leach & Dewell",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.262194,44.070137,-103.262194,44.070137],
-  "geometry": {"coordinates":[-103.262194,44.070137],"type":"Point"}
+  "bbox": [
+    -103.262194,
+    44.070137,
+    -103.262194,
+    44.070137
+],
+  "geometry": {"coordinates":[-103.26219399999999,44.070137],"type":"Point"}
 }

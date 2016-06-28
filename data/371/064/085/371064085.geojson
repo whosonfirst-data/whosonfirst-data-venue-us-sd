@@ -2,13 +2,14 @@
   "id": 371064085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530433,44.017441,-97.530433,44.017441",
     "geom:latitude":44.017441,
     "geom:longitude":-97.530433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 N Section Line St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371064085,
-    "wof:lastmodified":1449049381,
+    "wof:lastmodified":1467082663,
     "wof:name":"Howard Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530433,44.017441,-97.530433,44.017441],
+  "bbox": [
+    -97.530433,
+    44.017441,
+    -97.530433,
+    44.017441
+],
   "geometry": {"coordinates":[-97.530433,44.017441],"type":"Point"}
 }

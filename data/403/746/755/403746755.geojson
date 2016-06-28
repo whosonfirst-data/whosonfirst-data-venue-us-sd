@@ -2,13 +2,14 @@
   "id": 403746755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.110387,43.294227,-98.110387,43.294227",
     "geom:latitude":43.294227,
     "geom:longitude":-98.110387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28223 404th Ave",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403746755,
-    "wof:lastmodified":1449054614,
+    "wof:lastmodified":1467082674,
     "wof:name":"Heinert Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.110387,43.294227,-98.110387,43.294227],
+  "bbox": [
+    -98.110387,
+    43.294227,
+    -98.110387,
+    43.294227
+],
   "geometry": {"coordinates":[-98.110387,43.294227],"type":"Point"}
 }

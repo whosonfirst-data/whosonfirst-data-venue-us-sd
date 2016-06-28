@@ -2,13 +2,14 @@
   "id": 387598679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777732,44.296959,-96.777732,44.296959",
     "geom:latitude":44.296959,
     "geom:longitude":-96.777732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 8th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387598679,
-    "wof:lastmodified":1449056315,
+    "wof:lastmodified":1467082691,
     "wof:name":"St Thomas More Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.777732,44.296959,-96.777732,44.296959],
+  "bbox": [
+    -96.777732,
+    44.296959,
+    -96.777732,
+    44.296959
+],
   "geometry": {"coordinates":[-96.777732,44.296959],"type":"Point"}
 }

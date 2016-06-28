@@ -2,13 +2,14 @@
   "id": 387517021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058713,45.16519,-97.058713,45.16519",
     "geom:latitude":45.16519,
     "geom:longitude":-97.058713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45745 153rd St",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387517021,
-    "wof:lastmodified":1449058278,
+    "wof:lastmodified":1467082730,
     "wof:name":"Elsie Kriesel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.058713,45.16519,-97.058713,45.16519],
+  "bbox": [
+    -97.058713,
+    45.16519,
+    -97.058713,
+    45.16519
+],
   "geometry": {"coordinates":[-97.058713,45.16519],"type":"Point"}
 }

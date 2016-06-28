@@ -2,13 +2,14 @@
   "id": 387920209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.925863,44.688985,-96.925863,44.688985",
     "geom:latitude":44.688985,
     "geom:longitude":-96.925863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18597 464th Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387920209,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1467082746,
     "wof:name":"Hamlin Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.925863,44.688985,-96.925863,44.688985],
-  "geometry": {"coordinates":[-96.925863,44.688985],"type":"Point"}
+  "bbox": [
+    -96.925863,
+    44.688985,
+    -96.925863,
+    44.688985
+],
+  "geometry": {"coordinates":[-96.92586300000001,44.688985],"type":"Point"}
 }

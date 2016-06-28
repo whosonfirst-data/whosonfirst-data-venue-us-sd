@@ -2,13 +2,14 @@
   "id": 387399397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766539,43.566579,-96.766539,43.566579",
     "geom:latitude":43.566579,
     "geom:longitude":-96.766539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2902 W Russell St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387399397,
-    "wof:lastmodified":1449056771,
+    "wof:lastmodified":1467082700,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.766539,43.566579,-96.766539,43.566579],
-  "geometry": {"coordinates":[-96.766539,43.566579],"type":"Point"}
+  "bbox": [
+    -96.766539,
+    43.566579,
+    -96.766539,
+    43.566579
+],
+  "geometry": {"coordinates":[-96.76653899999999,43.566579],"type":"Point"}
 }

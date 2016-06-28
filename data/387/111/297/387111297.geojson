@@ -2,13 +2,14 @@
   "id": 387111297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128344,44.009408,-97.128344,44.009408",
     "geom:latitude":44.009408,
     "geom:longitude":-97.128344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Kansas Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387111297,
-    "wof:lastmodified":1449060041,
+    "wof:lastmodified":1467082766,
     "wof:name":"Hair Happenings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.128344,44.009408,-97.128344,44.009408],
+  "bbox": [
+    -97.128344,
+    44.009408,
+    -97.128344,
+    44.009408
+],
   "geometry": {"coordinates":[-97.128344,44.009408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387447101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689675,43.520519,-96.689675,43.520519",
     "geom:latitude":43.520519,
     "geom:longitude":-96.689675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2885 E Old Orchard Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387447101,
-    "wof:lastmodified":1449058790,
+    "wof:lastmodified":1467082740,
     "wof:name":"Kent W Broadwine CPA",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-96.689675,43.520519,-96.689675,43.520519],
-  "geometry": {"coordinates":[-96.689675,43.520519],"type":"Point"}
+  "bbox": [
+    -96.689675,
+    43.520519,
+    -96.689675,
+    43.520519
+],
+  "geometry": {"coordinates":[-96.68967499999999,43.520519],"type":"Point"}
 }

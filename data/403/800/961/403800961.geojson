@@ -2,13 +2,14 @@
   "id": 403800961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.570847,43.595554,-96.570847,43.595554",
     "geom:latitude":43.595554,
     "geom:longitude":-96.570847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Pipestone St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403800961,
-    "wof:lastmodified":1449054740,
+    "wof:lastmodified":1467082675,
     "wof:name":"Klassy K-9 Dog Grooming",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.570847,43.595554,-96.570847,43.595554],
+  "bbox": [
+    -96.570847,
+    43.595554,
+    -96.570847,
+    43.595554
+],
   "geometry": {"coordinates":[-96.570847,43.595554],"type":"Point"}
 }

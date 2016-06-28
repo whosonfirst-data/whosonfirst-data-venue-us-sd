@@ -2,13 +2,14 @@
   "id": 387016553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.334085,44.364105,-100.334085,44.364105",
     "geom:latitude":44.364105,
     "geom:longitude":-100.334085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Monroe Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387016553,
-    "wof:lastmodified":1449056759,
+    "wof:lastmodified":1467082700,
     "wof:name":"Washington Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.334085,44.364105,-100.334085,44.364105],
+  "bbox": [
+    -100.334085,
+    44.364105,
+    -100.334085,
+    44.364105
+],
   "geometry": {"coordinates":[-100.334085,44.364105],"type":"Point"}
 }

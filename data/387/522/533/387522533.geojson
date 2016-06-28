@@ -2,13 +2,14 @@
   "id": 387522533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52,45.337623,-97.52,45.337623",
     "geom:latitude":45.337623,
     "geom:longitude":-97.52,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Main St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387522533,
-    "wof:lastmodified":1449057913,
+    "wof:lastmodified":1467082723,
     "wof:name":"Mike's Jack & Jill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.52,45.337623,-97.52,45.337623],
+  "bbox": [
+    -97.52,
+    45.337623,
+    -97.52,
+    45.337623
+],
   "geometry": {"coordinates":[-97.52,45.337623],"type":"Point"}
 }

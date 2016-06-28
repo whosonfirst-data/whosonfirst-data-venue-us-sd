@@ -2,13 +2,14 @@
   "id": 403753119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.113671,44.92097,-97.113671,44.92097",
     "geom:latitude":44.92097,
     "geom:longitude":-97.113671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 N Broadway",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403753119,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1467082675,
     "wof:name":"Burns Jennifer Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.113671,44.92097,-97.113671,44.92097],
+  "bbox": [
+    -97.113671,
+    44.92097,
+    -97.113671,
+    44.92097
+],
   "geometry": {"coordinates":[-97.113671,44.92097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371139555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798457,44.310204,-96.798457,44.310204",
     "geom:latitude":44.310204,
     "geom:longitude":-96.798457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 5th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371139555,
-    "wof:lastmodified":1449049128,
+    "wof:lastmodified":1467082659,
     "wof:name":"Trim Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.798457,44.310204,-96.798457,44.310204],
+  "bbox": [
+    -96.798457,
+    44.310204,
+    -96.798457,
+    44.310204
+],
   "geometry": {"coordinates":[-96.798457,44.310204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387635431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820608,43.526237,-96.820608,43.526237",
     "geom:latitude":43.526237,
     "geom:longitude":-96.820608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 S Grinnell Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387635431,
-    "wof:lastmodified":1449057755,
+    "wof:lastmodified":1467082720,
     "wof:name":"A Plus Concrete",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.820608,43.526237,-96.820608,43.526237],
-  "geometry": {"coordinates":[-96.820608,43.526237],"type":"Point"}
+  "bbox": [
+    -96.820608,
+    43.526237,
+    -96.820608,
+    43.526237
+],
+  "geometry": {"coordinates":[-96.82060799999999,43.526237],"type":"Point"}
 }

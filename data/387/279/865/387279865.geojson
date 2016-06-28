@@ -2,13 +2,14 @@
   "id": 387279865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.066228,44.707698,-100.066228,44.707698",
     "geom:latitude":44.707698,
     "geom:longitude":-100.066228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387279865,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1467082722,
     "wof:name":"Mission Police Chief",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-100.066228,44.707698,-100.066228,44.707698],
+  "bbox": [
+    -100.066228,
+    44.707698,
+    -100.066228,
+    44.707698
+],
   "geometry": {"coordinates":[-100.066228,44.707698],"type":"Point"}
 }

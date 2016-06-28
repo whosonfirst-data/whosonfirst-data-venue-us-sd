@@ -2,13 +2,14 @@
   "id": 387632359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.839237,43.369059,-99.839237,43.369059",
     "geom:latitude":43.369059,
     "geom:longitude":-99.839237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 E 10th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387632359,
-    "wof:lastmodified":1449058536,
+    "wof:lastmodified":1467082735,
     "wof:name":"Dale Lookabill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.839237,43.369059,-99.839237,43.369059],
+  "bbox": [
+    -99.839237,
+    43.369059,
+    -99.839237,
+    43.369059
+],
   "geometry": {"coordinates":[-99.839237,43.369059],"type":"Point"}
 }

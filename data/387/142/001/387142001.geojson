@@ -2,13 +2,14 @@
   "id": 387142001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.21069,44.579815,-97.21069,44.579815",
     "geom:latitude":44.579815,
     "geom:longitude":-97.21069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Dakota St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387142001,
-    "wof:lastmodified":1449059151,
+    "wof:lastmodified":1467082748,
     "wof:name":"Sunset Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "clean"
     ]
 },
-  "bbox": [-97.21069,44.579815,-97.21069,44.579815],
+  "bbox": [
+    -97.21069,
+    44.579815,
+    -97.21069,
+    44.579815
+],
   "geometry": {"coordinates":[-97.21069,44.579815],"type":"Point"}
 }

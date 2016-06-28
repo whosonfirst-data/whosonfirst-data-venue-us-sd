@@ -2,13 +2,14 @@
   "id": 387712929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.573498,43.239867,-97.573498,43.239867",
     "geom:latitude":43.239867,
     "geom:longitude":-97.573498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S East St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387712929,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1467082719,
     "wof:name":"Zion Reformed Chr Pastor's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.573498,43.239867,-97.573498,43.239867],
+  "bbox": [
+    -97.573498,
+    43.239867,
+    -97.573498,
+    43.239867
+],
   "geometry": {"coordinates":[-97.573498,43.239867],"type":"Point"}
 }

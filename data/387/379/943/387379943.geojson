@@ -2,13 +2,14 @@
   "id": 387379943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.97928,45.718013,-97.97928,45.718013",
     "geom:latitude":45.718013,
     "geom:longitude":-97.97928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11520 412th Ave",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387379943,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1467082731,
     "wof:name":"D & D Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.97928,45.718013,-97.97928,45.718013],
+  "bbox": [
+    -97.97928,
+    45.718013,
+    -97.97928,
+    45.718013
+],
   "geometry": {"coordinates":[-97.97928,45.718013],"type":"Point"}
 }

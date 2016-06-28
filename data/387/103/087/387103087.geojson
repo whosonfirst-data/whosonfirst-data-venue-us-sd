@@ -2,13 +2,14 @@
   "id": 387103087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.416713,44.247118,-103.416713,44.247118",
     "geom:latitude":44.247118,
     "geom:longitude":-103.416713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11617 Little Elk Creek Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387103087,
-    "wof:lastmodified":1449058485,
+    "wof:lastmodified":1467082734,
     "wof:name":"All Seasons Pet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-103.416713,44.247118,-103.416713,44.247118],
+  "bbox": [
+    -103.416713,
+    44.247118,
+    -103.416713,
+    44.247118
+],
   "geometry": {"coordinates":[-103.416713,44.247118],"type":"Point"}
 }

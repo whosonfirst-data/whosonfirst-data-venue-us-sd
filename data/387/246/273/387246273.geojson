@@ -2,13 +2,14 @@
   "id": 387246273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.392005,42.870953,-97.392005,42.870953",
     "geom:latitude":42.870953,
     "geom:longitude":-97.392005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Douglas Ave",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387246273,
-    "wof:lastmodified":1449056369,
+    "wof:lastmodified":1467082692,
     "wof:name":"Boller Printing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "offset"
     ]
 },
-  "bbox": [-97.392005,42.870953,-97.392005,42.870953],
+  "bbox": [
+    -97.392005,
+    42.870953,
+    -97.392005,
+    42.870953
+],
   "geometry": {"coordinates":[-97.392005,42.870953],"type":"Point"}
 }

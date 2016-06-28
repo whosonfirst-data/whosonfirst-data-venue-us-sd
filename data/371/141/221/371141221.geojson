@@ -2,13 +2,14 @@
   "id": 371141221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.750896,44.357548,-103.750896,44.357548",
     "geom:latitude":44.357548,
     "geom:longitude":-103.750896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Irwin St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371141221,
-    "wof:lastmodified":1449049373,
+    "wof:lastmodified":1467082663,
     "wof:name":"Black Hills Special Svcs Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.750896,44.357548,-103.750896,44.357548],
+  "bbox": [
+    -103.750896,
+    44.357548,
+    -103.750896,
+    44.357548
+],
   "geometry": {"coordinates":[-103.750896,44.357548],"type":"Point"}
 }

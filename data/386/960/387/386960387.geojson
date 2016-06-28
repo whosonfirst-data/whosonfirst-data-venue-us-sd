@@ -2,13 +2,14 @@
   "id": 386960387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.222857,44.058151,-103.222857,44.058151",
     "geom:latitude":44.058151,
     "geom:longitude":-103.222857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Fairmont Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386960387,
-    "wof:lastmodified":1449028853,
+    "wof:lastmodified":1467082653,
     "wof:name":"Randy Bagby",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.222857,44.058151,-103.222857,44.058151],
+  "bbox": [
+    -103.222857,
+    44.058151,
+    -103.222857,
+    44.058151
+],
   "geometry": {"coordinates":[-103.222857,44.058151],"type":"Point"}
 }

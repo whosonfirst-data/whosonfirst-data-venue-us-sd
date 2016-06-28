@@ -2,13 +2,14 @@
   "id": 387702133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119932,44.012384,-97.119932,44.012384",
     "geom:latitude":44.012384,
     "geom:longitude":-97.119932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Union Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387702133,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1467082725,
     "wof:name":"Eugene Boer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.119932,44.012384,-97.119932,44.012384],
-  "geometry": {"coordinates":[-97.119932,44.012384],"type":"Point"}
+  "bbox": [
+    -97.119932,
+    44.012384,
+    -97.119932,
+    44.012384
+],
+  "geometry": {"coordinates":[-97.11993200000001,44.012384],"type":"Point"}
 }

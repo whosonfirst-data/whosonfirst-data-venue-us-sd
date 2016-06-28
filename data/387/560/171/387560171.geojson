@@ -2,13 +2,14 @@
   "id": 387560171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708796,43.533006,-96.708796,43.533006",
     "geom:latitude":43.533006,
     "geom:longitude":-96.708796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Van Eps Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387560171,
-    "wof:lastmodified":1449059012,
+    "wof:lastmodified":1467082745,
     "wof:name":"Mid-City Storage",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.708796,43.533006,-96.708796,43.533006],
-  "geometry": {"coordinates":[-96.708796,43.533006],"type":"Point"}
+  "bbox": [
+    -96.708796,
+    43.533006,
+    -96.708796,
+    43.533006
+],
+  "geometry": {"coordinates":[-96.70879600000001,43.533006],"type":"Point"}
 }

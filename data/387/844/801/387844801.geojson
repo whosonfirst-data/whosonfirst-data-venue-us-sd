@@ -2,13 +2,14 @@
   "id": 387844801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.508987,44.413941,-103.508987,44.413941",
     "geom:latitude":44.413941,
     "geom:longitude":-103.508987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387844801,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1467082719,
     "wof:name":"Sturgis Harley Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-103.508987,44.413941,-103.508987,44.413941],
+  "bbox": [
+    -103.508987,
+    44.413941,
+    -103.508987,
+    44.413941
+],
   "geometry": {"coordinates":[-103.508987,44.413941],"type":"Point"}
 }

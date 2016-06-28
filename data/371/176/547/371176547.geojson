@@ -2,13 +2,14 @@
   "id": 371176547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77189,43.503847,-96.77189,43.503847",
     "geom:latitude":43.503847,
     "geom:longitude":-96.77189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 W 53rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371176547,
-    "wof:lastmodified":1449049743,
+    "wof:lastmodified":1467082668,
     "wof:name":"Dakota King",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.77189,43.503847,-96.77189,43.503847],
+  "bbox": [
+    -96.77189,
+    43.503847,
+    -96.77189,
+    43.503847
+],
   "geometry": {"coordinates":[-96.77189,43.503847],"type":"Point"}
 }

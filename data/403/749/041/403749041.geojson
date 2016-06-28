@@ -2,13 +2,14 @@
   "id": 403749041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527642,44.012696,-97.527642,44.012696",
     "geom:latitude":44.012696,
     "geom:longitude":-97.527642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W College Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403749041,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1467082678,
     "wof:name":"Calvary Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.527642,44.012696,-97.527642,44.012696],
+  "bbox": [
+    -97.527642,
+    44.012696,
+    -97.527642,
+    44.012696
+],
   "geometry": {"coordinates":[-97.527642,44.012696],"type":"Point"}
 }

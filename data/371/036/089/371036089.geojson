@@ -2,13 +2,14 @@
   "id": 371036089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716405,43.581909,-96.716405,43.581909",
     "geom:latitude":43.581909,
     "geom:longitude":-96.716405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 N 8th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371036089,
-    "wof:lastmodified":1449049260,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ces-Sioux Falls South Dakota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-96.716405,43.581909,-96.716405,43.581909],
-  "geometry": {"coordinates":[-96.716405,43.581909],"type":"Point"}
+  "bbox": [
+    -96.716405,
+    43.581909,
+    -96.716405,
+    43.581909
+],
+  "geometry": {"coordinates":[-96.71640499999999,43.581909],"type":"Point"}
 }

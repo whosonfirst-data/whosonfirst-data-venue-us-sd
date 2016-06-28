@@ -2,13 +2,14 @@
   "id": 403817663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.028405,43.723621,-98.028405,43.723621",
     "geom:latitude":43.723621,
     "geom:longitude":-98.028405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Duff St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403817663,
-    "wof:lastmodified":1449055699,
+    "wof:lastmodified":1467082682,
     "wof:name":"Rita's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.028405,43.723621,-98.028405,43.723621],
-  "geometry": {"coordinates":[-98.028405,43.723621],"type":"Point"}
+  "bbox": [
+    -98.028405,
+    43.723621,
+    -98.028405,
+    43.723621
+],
+  "geometry": {"coordinates":[-98.02840500000001,43.723621],"type":"Point"}
 }

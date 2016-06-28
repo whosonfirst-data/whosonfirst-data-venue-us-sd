@@ -2,13 +2,14 @@
   "id": 387790393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.543941,44.893483,-98.543941,44.893483",
     "geom:latitude":44.893483,
     "geom:longitude":-98.543941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17233 384th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387790393,
-    "wof:lastmodified":1449059021,
+    "wof:lastmodified":1467082745,
     "wof:name":"Redfield Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-98.543941,44.893483,-98.543941,44.893483],
+  "bbox": [
+    -98.543941,
+    44.893483,
+    -98.543941,
+    44.893483
+],
   "geometry": {"coordinates":[-98.543941,44.893483],"type":"Point"}
 }

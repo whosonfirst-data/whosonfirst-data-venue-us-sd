@@ -2,13 +2,14 @@
   "id": 371027911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774795,43.514209,-96.774795,43.514209",
     "geom:latitude":43.514209,
     "geom:longitude":-96.774795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371027911,
-    "wof:lastmodified":1449049232,
+    "wof:lastmodified":1467082661,
     "wof:name":"Naturalizer Shoes",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.774795,43.514209,-96.774795,43.514209],
+  "bbox": [
+    -96.774795,
+    43.514209,
+    -96.774795,
+    43.514209
+],
   "geometry": {"coordinates":[-96.774795,43.514209],"type":"Point"}
 }

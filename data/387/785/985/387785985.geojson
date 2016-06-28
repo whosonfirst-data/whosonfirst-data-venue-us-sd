@@ -2,13 +2,14 @@
   "id": 387785985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.225815,44.091791,-103.225815,44.091791",
     "geom:latitude":44.091791,
     "geom:longitude":-103.225815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Adams St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387785985,
-    "wof:lastmodified":1449059271,
+    "wof:lastmodified":1467082750,
     "wof:name":"Oblate Sisters",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "convent"
     ]
 },
-  "bbox": [-103.225815,44.091791,-103.225815,44.091791],
+  "bbox": [
+    -103.225815,
+    44.091791,
+    -103.225815,
+    44.091791
+],
   "geometry": {"coordinates":[-103.225815,44.091791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387407861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.238121,44.083326,-103.238121,44.083326",
     "geom:latitude":44.083326,
     "geom:longitude":-103.238121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Rapid St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387407861,
-    "wof:lastmodified":1449058226,
+    "wof:lastmodified":1467082729,
     "wof:name":"Custom Creations",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.238121,44.083326,-103.238121,44.083326],
-  "geometry": {"coordinates":[-103.238121,44.083326],"type":"Point"}
+  "bbox": [
+    -103.238121,
+    44.083326,
+    -103.238121,
+    44.083326
+],
+  "geometry": {"coordinates":[-103.23812100000001,44.083326],"type":"Point"}
 }

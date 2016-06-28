@@ -2,13 +2,14 @@
   "id": 387876283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.477694,45.466886,-98.477694,45.466886",
     "geom:latitude":45.466886,
     "geom:longitude":-98.477694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 1st Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387876283,
-    "wof:lastmodified":1449056865,
+    "wof:lastmodified":1467082702,
     "wof:name":"Schwanns Recreation",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bar"
     ]
 },
-  "bbox": [-98.477694,45.466886,-98.477694,45.466886],
+  "bbox": [
+    -98.477694,
+    45.466886,
+    -98.477694,
+    45.466886
+],
   "geometry": {"coordinates":[-98.477694,45.466886],"type":"Point"}
 }

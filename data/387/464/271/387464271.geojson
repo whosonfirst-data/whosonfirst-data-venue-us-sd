@@ -2,13 +2,14 @@
   "id": 387464271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217309,44.90867,-98.217309,44.90867",
     "geom:latitude":44.90867,
     "geom:longitude":-98.217309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40061 171st St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387464271,
-    "wof:lastmodified":1449057124,
+    "wof:lastmodified":1467082707,
     "wof:name":"Ted Pazour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.217309,44.90867,-98.217309,44.90867],
+  "bbox": [
+    -98.217309,
+    44.90867,
+    -98.217309,
+    44.90867
+],
   "geometry": {"coordinates":[-98.217309,44.90867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371076847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.988507,43.673234,-97.988507,43.673234",
     "geom:latitude":43.673234,
     "geom:longitude":-97.988507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41021 256th St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371076847,
-    "wof:lastmodified":1449049863,
+    "wof:lastmodified":1467082669,
     "wof:name":"Hiles Cecile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.988507,43.673234,-97.988507,43.673234],
+  "bbox": [
+    -97.988507,
+    43.673234,
+    -97.988507,
+    43.673234
+],
   "geometry": {"coordinates":[-97.988507,43.673234],"type":"Point"}
 }

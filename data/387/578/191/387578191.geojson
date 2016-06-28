@@ -2,13 +2,14 @@
   "id": 387578191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098633,45.446146,-98.098633,45.446146",
     "geom:latitude":45.446146,
     "geom:longitude":-98.098633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387578191,
-    "wof:lastmodified":1449057061,
+    "wof:lastmodified":1467082706,
     "wof:name":"Ron's Body Shop",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.098633,45.446146,-98.098633,45.446146],
-  "geometry": {"coordinates":[-98.098633,45.446146],"type":"Point"}
+  "bbox": [
+    -98.098633,
+    45.446146,
+    -98.098633,
+    45.446146
+],
+  "geometry": {"coordinates":[-98.09863300000001,45.446146],"type":"Point"}
 }

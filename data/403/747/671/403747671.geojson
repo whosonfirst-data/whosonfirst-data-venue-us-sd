@@ -2,13 +2,14 @@
   "id": 403747671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.851002,44.543753,-96.851002,44.543753",
     "geom:latitude":44.543753,
     "geom:longitude":-96.851002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46809 196th St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403747671,
-    "wof:lastmodified":1449054868,
+    "wof:lastmodified":1467082676,
     "wof:name":"Archer Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-96.851002,44.543753,-96.851002,44.543753],
-  "geometry": {"coordinates":[-96.851002,44.543753],"type":"Point"}
+  "bbox": [
+    -96.851002,
+    44.543753,
+    -96.851002,
+    44.543753
+],
+  "geometry": {"coordinates":[-96.85100199999999,44.543753],"type":"Point"}
 }

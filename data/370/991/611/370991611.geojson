@@ -2,13 +2,14 @@
   "id": 370991611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.099641,45.44539,-98.099641,45.44539",
     "geom:latitude":45.44539,
     "geom:longitude":-98.099641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 E Railroad Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370991611,
-    "wof:lastmodified":1449030162,
+    "wof:lastmodified":1467082656,
     "wof:name":"Hurley & Assoc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-98.099641,45.44539,-98.099641,45.44539],
-  "geometry": {"coordinates":[-98.099641,45.44539],"type":"Point"}
+  "bbox": [
+    -98.099641,
+    45.44539,
+    -98.099641,
+    45.44539
+],
+  "geometry": {"coordinates":[-98.09964100000001,45.44539],"type":"Point"}
 }

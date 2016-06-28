@@ -2,13 +2,14 @@
   "id": 403783149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.365902,45.751761,-99.365902,45.751761",
     "geom:latitude":45.751761,
     "geom:longitude":-99.365902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11505 341st Ave",
     "sg:city":"Hosmer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403783149,
-    "wof:lastmodified":1449054662,
+    "wof:lastmodified":1467082674,
     "wof:name":"Dale Mohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.365902,45.751761,-99.365902,45.751761],
-  "geometry": {"coordinates":[-99.365902,45.751761],"type":"Point"}
+  "bbox": [
+    -99.365902,
+    45.751761,
+    -99.365902,
+    45.751761
+],
+  "geometry": {"coordinates":[-99.36590200000001,45.751761],"type":"Point"}
 }

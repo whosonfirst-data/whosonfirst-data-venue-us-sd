@@ -2,13 +2,14 @@
   "id": 370972941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474324,45.45914,-98.474324,45.45914",
     "geom:latitude":45.45914,
     "geom:longitude":-98.474324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370972941,
-    "wof:lastmodified":1449030779,
+    "wof:lastmodified":1467082656,
     "wof:name":"Green Hill Computers",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.474324,45.45914,-98.474324,45.45914],
+  "bbox": [
+    -98.474324,
+    45.45914,
+    -98.474324,
+    45.45914
+],
   "geometry": {"coordinates":[-98.474324,45.45914],"type":"Point"}
 }

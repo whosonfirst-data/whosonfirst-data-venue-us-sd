@@ -2,13 +2,14 @@
   "id": 387275507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.755072,45.143165,-98.755072,45.143165",
     "geom:latitude":45.143165,
     "geom:longitude":-98.755072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37175 155th St",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387275507,
-    "wof:lastmodified":1449057322,
+    "wof:lastmodified":1467082711,
     "wof:name":"Orville Steward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.755072,45.143165,-98.755072,45.143165],
+  "bbox": [
+    -98.755072,
+    45.143165,
+    -98.755072,
+    45.143165
+],
   "geometry": {"coordinates":[-98.755072,45.143165],"type":"Point"}
 }

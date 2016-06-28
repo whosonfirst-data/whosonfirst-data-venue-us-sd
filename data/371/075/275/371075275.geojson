@@ -2,13 +2,14 @@
   "id": 371075275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.728964,44.374739,-103.728964,44.374739",
     "geom:latitude":44.374739,
     "geom:longitude":-103.728964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Sherman St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371075275,
-    "wof:lastmodified":1449049622,
+    "wof:lastmodified":1467082666,
     "wof:name":"Deckers Food Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.728964,44.374739,-103.728964,44.374739],
+  "bbox": [
+    -103.728964,
+    44.374739,
+    -103.728964,
+    44.374739
+],
   "geometry": {"coordinates":[-103.728964,44.374739],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387827815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.028278,43.709478,-98.028278,43.709478",
     "geom:latitude":43.709478,
     "geom:longitude":-98.028278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 1st Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387827815,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1467082714,
     "wof:name":"Mitchell Police Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.028278,43.709478,-98.028278,43.709478],
+  "bbox": [
+    -98.028278,
+    43.709478,
+    -98.028278,
+    43.709478
+],
   "geometry": {"coordinates":[-98.028278,43.709478],"type":"Point"}
 }

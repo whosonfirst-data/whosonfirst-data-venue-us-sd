@@ -2,13 +2,14 @@
   "id": 403808741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.476209,45.469872,-98.476209,45.469872",
     "geom:latitude":45.469872,
     "geom:longitude":-98.476209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 4th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403808741,
-    "wof:lastmodified":1449054684,
+    "wof:lastmodified":1467082675,
     "wof:name":"Downie's Piano Tuning & Repair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-98.476209,45.469872,-98.476209,45.469872],
+  "bbox": [
+    -98.476209,
+    45.469872,
+    -98.476209,
+    45.469872
+],
   "geometry": {"coordinates":[-98.476209,45.469872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387218789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.29763,44.084803,-103.29763,44.084803",
     "geom:latitude":44.084803,
     "geom:longitude":-103.29763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4568 Wentworth Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387218789,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1467082735,
     "wof:name":"Polar Outlet",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-103.29763,44.084803,-103.29763,44.084803],
+  "bbox": [
+    -103.29763,
+    44.084803,
+    -103.29763,
+    44.084803
+],
   "geometry": {"coordinates":[-103.29763,44.084803],"type":"Point"}
 }

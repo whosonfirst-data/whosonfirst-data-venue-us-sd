@@ -2,13 +2,14 @@
   "id": 371015353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811293,43.709124,-96.811293,43.709124",
     "geom:latitude":43.709124,
     "geom:longitude":-96.811293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25337 470th Ave",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371015353,
-    "wof:lastmodified":1449049282,
+    "wof:lastmodified":1467082661,
     "wof:name":"Resumes By Darci Kaye",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [-96.811293,43.709124,-96.811293,43.709124],
-  "geometry": {"coordinates":[-96.811293,43.709124],"type":"Point"}
+  "bbox": [
+    -96.811293,
+    43.709124,
+    -96.811293,
+    43.709124
+],
+  "geometry": {"coordinates":[-96.81129300000001,43.709124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386971499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791061,43.597957,-96.791061,43.597957",
     "geom:latitude":43.597957,
     "geom:longitude":-96.791061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 N Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386971499,
-    "wof:lastmodified":1449028786,
+    "wof:lastmodified":1467082652,
     "wof:name":"Holder Construction Co",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.791061,43.597957,-96.791061,43.597957],
+  "bbox": [
+    -96.791061,
+    43.597957,
+    -96.791061,
+    43.597957
+],
   "geometry": {"coordinates":[-96.791061,43.597957],"type":"Point"}
 }

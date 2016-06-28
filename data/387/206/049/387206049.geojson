@@ -2,13 +2,14 @@
   "id": 387206049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.262415,44.092959,-103.262415,44.092959",
     "geom:latitude":44.092959,
     "geom:longitude":-103.262415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2783 Plant St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387206049,
-    "wof:lastmodified":1449058695,
+    "wof:lastmodified":1467082739,
     "wof:name":"Rapid Construction Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "utility"
     ]
 },
-  "bbox": [-103.262415,44.092959,-103.262415,44.092959],
+  "bbox": [
+    -103.262415,
+    44.092959,
+    -103.262415,
+    44.092959
+],
   "geometry": {"coordinates":[-103.262415,44.092959],"type":"Point"}
 }

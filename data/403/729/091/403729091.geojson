@@ -2,13 +2,14 @@
   "id": 403729091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928784,43.895835,-96.928784,43.895835",
     "geom:latitude":43.895835,
     "geom:longitude":-96.928784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 2nd Ave",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403729091,
-    "wof:lastmodified":1449055314,
+    "wof:lastmodified":1467082680,
     "wof:name":"Dan's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.928784,43.895835,-96.928784,43.895835],
-  "geometry": {"coordinates":[-96.928784,43.895835],"type":"Point"}
+  "bbox": [
+    -96.928784,
+    43.895835,
+    -96.928784,
+    43.895835
+],
+  "geometry": {"coordinates":[-96.92878399999999,43.895835],"type":"Point"}
 }

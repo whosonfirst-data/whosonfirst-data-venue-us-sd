@@ -2,13 +2,14 @@
   "id": 387848283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.577406,43.499599,-98.577406,43.499599",
     "geom:latitude":43.499599,
     "geom:longitude":-98.577406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26775 381st Ave",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387848283,
-    "wof:lastmodified":1449056637,
+    "wof:lastmodified":1467082697,
     "wof:name":"Duane Wolbrink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.577406,43.499599,-98.577406,43.499599],
+  "bbox": [
+    -98.577406,
+    43.499599,
+    -98.577406,
+    43.499599
+],
   "geometry": {"coordinates":[-98.577406,43.499599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403833207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.407676,45.544488,-100.407676,45.544488",
     "geom:latitude":45.544488,
     "geom:longitude":-100.407676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 12th St E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403833207,
-    "wof:lastmodified":1449054792,
+    "wof:lastmodified":1467082676,
     "wof:name":"Gregg's Drilling & Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "drilling"
     ]
 },
-  "bbox": [-100.407676,45.544488,-100.407676,45.544488],
+  "bbox": [
+    -100.407676,
+    45.544488,
+    -100.407676,
+    45.544488
+],
   "geometry": {"coordinates":[-100.407676,45.544488],"type":"Point"}
 }

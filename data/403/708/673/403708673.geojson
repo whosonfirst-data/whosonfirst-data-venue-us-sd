@@ -2,13 +2,14 @@
   "id": 403708673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798635,44.290868,-96.798635,44.290868",
     "geom:latitude":44.290868,
     "geom:longitude":-96.798635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403708673,
-    "wof:lastmodified":1449054843,
+    "wof:lastmodified":1467082676,
     "wof:name":"Brian's Tint Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.798635,44.290868,-96.798635,44.290868],
+  "bbox": [
+    -96.798635,
+    44.290868,
+    -96.798635,
+    44.290868
+],
   "geometry": {"coordinates":[-96.798635,44.290868],"type":"Point"}
 }

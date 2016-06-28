@@ -2,13 +2,14 @@
   "id": 387181167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.296721,43.527689,-98.296721,43.527689",
     "geom:latitude":43.527689,
     "geom:longitude":-98.296721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39522 266th St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387181167,
-    "wof:lastmodified":1449058439,
+    "wof:lastmodified":1467082734,
     "wof:name":"Brent Wieczorek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.296721,43.527689,-98.296721,43.527689],
-  "geometry": {"coordinates":[-98.296721,43.527689],"type":"Point"}
+  "bbox": [
+    -98.296721,
+    43.527689,
+    -98.296721,
+    43.527689
+],
+  "geometry": {"coordinates":[-98.29672100000001,43.527689],"type":"Point"}
 }

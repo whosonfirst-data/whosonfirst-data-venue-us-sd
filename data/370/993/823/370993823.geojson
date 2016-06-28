@@ -2,13 +2,14 @@
   "id": 370993823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.635613,44.627409,-97.635613,44.627409",
     "geom:latitude":44.627409,
     "geom:longitude":-97.635613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 3rd St",
     "sg:city":"New Effington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370993823,
-    "wof:lastmodified":1449030595,
+    "wof:lastmodified":1467082656,
     "wof:name":"Faith Cemetery Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-97.635613,44.627409,-97.635613,44.627409],
-  "geometry": {"coordinates":[-97.635613,44.627409],"type":"Point"}
+  "bbox": [
+    -97.635613,
+    44.627409,
+    -97.635613,
+    44.627409
+],
+  "geometry": {"coordinates":[-97.63561300000001,44.627409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371069899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799778,43.557131,-96.799778,43.557131",
     "geom:latitude":43.557131,
     "geom:longitude":-96.799778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 N Bobwhite Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371069899,
-    "wof:lastmodified":1449049718,
+    "wof:lastmodified":1467082667,
     "wof:name":"Visions Unlimited LLC",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-96.799778,43.557131,-96.799778,43.557131],
+  "bbox": [
+    -96.799778,
+    43.557131,
+    -96.799778,
+    43.557131
+],
   "geometry": {"coordinates":[-96.799778,43.557131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387112847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.398936,43.121227,-97.398936,43.121227",
     "geom:latitude":43.121227,
     "geom:longitude":-97.398936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29432 US Hwy 81",
     "sg:city":"Irene",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387112847,
-    "wof:lastmodified":1449057850,
+    "wof:lastmodified":1467082722,
     "wof:name":"Our Redeemer Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.398936,43.121227,-97.398936,43.121227],
-  "geometry": {"coordinates":[-97.398936,43.121227],"type":"Point"}
+  "bbox": [
+    -97.398936,
+    43.121227,
+    -97.398936,
+    43.121227
+],
+  "geometry": {"coordinates":[-97.39893600000001,43.121227],"type":"Point"}
 }

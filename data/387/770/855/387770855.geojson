@@ -2,13 +2,14 @@
   "id": 387770855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988467,44.518361,-98.988467,44.518361",
     "geom:latitude":44.518361,
     "geom:longitude":-98.988467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387770855,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1467082765,
     "wof:name":"Kohlman Bierschbach & Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.988467,44.518361,-98.988467,44.518361],
+  "bbox": [
+    -98.988467,
+    44.518361,
+    -98.988467,
+    44.518361
+],
   "geometry": {"coordinates":[-98.988467,44.518361],"type":"Point"}
 }

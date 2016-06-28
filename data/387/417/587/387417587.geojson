@@ -2,13 +2,14 @@
   "id": 387417587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.869598,44.021259,-102.869598,44.021259",
     "geom:latitude":44.021259,
     "geom:longitude":-102.869598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23350 159th Ave",
     "sg:city":"New Underwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387417587,
-    "wof:lastmodified":1449057660,
+    "wof:lastmodified":1467082718,
     "wof:name":"Don Hilmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-102.869598,44.021259,-102.869598,44.021259],
+  "bbox": [
+    -102.869598,
+    44.021259,
+    -102.869598,
+    44.021259
+],
   "geometry": {"coordinates":[-102.869598,44.021259],"type":"Point"}
 }

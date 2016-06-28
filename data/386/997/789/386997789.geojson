@@ -2,13 +2,14 @@
   "id": 386997789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733866,43.531362,-96.733866,43.531362",
     "geom:latitude":43.531362,
     "geom:longitude":-96.733866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 S Duluth Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386997789,
-    "wof:lastmodified":1449028899,
+    "wof:lastmodified":1467082654,
     "wof:name":"A&M Concrete LLC",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.733866,43.531362,-96.733866,43.531362],
-  "geometry": {"coordinates":[-96.733866,43.531362],"type":"Point"}
+  "bbox": [
+    -96.733866,
+    43.531362,
+    -96.733866,
+    43.531362
+],
+  "geometry": {"coordinates":[-96.73386600000001,43.531362],"type":"Point"}
 }

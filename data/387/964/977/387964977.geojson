@@ -2,13 +2,14 @@
   "id": 387964977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.069049,45.782699,-100.069049,45.782699",
     "geom:latitude":45.782699,
     "geom:longitude":-100.069049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11193 US Hwy 83",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387964977,
-    "wof:lastmodified":1449058976,
+    "wof:lastmodified":1467082744,
     "wof:name":"Weisbeck Seed Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.069049,45.782699,-100.069049,45.782699],
-  "geometry": {"coordinates":[-100.069049,45.782699],"type":"Point"}
+  "bbox": [
+    -100.069049,
+    45.782699,
+    -100.069049,
+    45.782699
+],
+  "geometry": {"coordinates":[-100.06904900000001,45.782699],"type":"Point"}
 }

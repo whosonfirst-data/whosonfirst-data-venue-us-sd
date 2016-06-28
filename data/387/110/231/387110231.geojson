@@ -2,13 +2,14 @@
   "id": 387110231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120638,44.890182,-97.120638,44.890182",
     "geom:latitude":44.890182,
     "geom:longitude":-97.120638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387110231,
-    "wof:lastmodified":1449057346,
+    "wof:lastmodified":1467082711,
     "wof:name":"Seller's Auto Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.120638,44.890182,-97.120638,44.890182],
+  "bbox": [
+    -97.120638,
+    44.890182,
+    -97.120638,
+    44.890182
+],
   "geometry": {"coordinates":[-97.120638,44.890182],"type":"Point"}
 }

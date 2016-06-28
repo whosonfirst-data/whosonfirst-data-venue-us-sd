@@ -2,13 +2,14 @@
   "id": 387207149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.466889,45.448812,-98.466889,45.448812",
     "geom:latitude":45.448812,
     "geom:longitude":-98.466889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 16th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387207149,
-    "wof:lastmodified":1449058769,
+    "wof:lastmodified":1467082740,
     "wof:name":"Jim Payne & Associates",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.466889,45.448812,-98.466889,45.448812],
-  "geometry": {"coordinates":[-98.466889,45.448812],"type":"Point"}
+  "bbox": [
+    -98.466889,
+    45.448812,
+    -98.466889,
+    45.448812
+],
+  "geometry": {"coordinates":[-98.46688899999999,45.448812],"type":"Point"}
 }

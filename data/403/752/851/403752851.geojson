@@ -2,13 +2,14 @@
   "id": 403752851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.595187,43.771573,-103.595187,43.771573",
     "geom:latitude":43.771573,
     "geom:longitude":-103.595187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Montgomery St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403752851,
-    "wof:lastmodified":1449054854,
+    "wof:lastmodified":1467082676,
     "wof:name":"Mlm Developers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-103.595187,43.771573,-103.595187,43.771573],
+  "bbox": [
+    -103.595187,
+    43.771573,
+    -103.595187,
+    43.771573
+],
   "geometry": {"coordinates":[-103.595187,43.771573],"type":"Point"}
 }

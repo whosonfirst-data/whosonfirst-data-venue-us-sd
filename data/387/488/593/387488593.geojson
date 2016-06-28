@@ -2,13 +2,14 @@
   "id": 387488593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.876787,43.358457,-97.876787,43.358457",
     "geom:latitude":43.358457,
     "geom:longitude":-97.876787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27792 416th Ave",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387488593,
-    "wof:lastmodified":1449059823,
+    "wof:lastmodified":1467082761,
     "wof:name":"James Stirling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.876787,43.358457,-97.876787,43.358457],
-  "geometry": {"coordinates":[-97.876787,43.358457],"type":"Point"}
+  "bbox": [
+    -97.876787,
+    43.358457,
+    -97.876787,
+    43.358457
+],
+  "geometry": {"coordinates":[-97.87678699999999,43.358457],"type":"Point"}
 }

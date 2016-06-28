@@ -2,13 +2,14 @@
   "id": 387008975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687552,43.529367,-96.687552,43.529367",
     "geom:latitude":43.529367,
     "geom:longitude":-96.687552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387008975,
-    "wof:lastmodified":1449057294,
+    "wof:lastmodified":1467082710,
     "wof:name":"Mental Health Assoc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-96.687552,43.529367,-96.687552,43.529367],
+  "bbox": [
+    -96.687552,
+    43.529367,
+    -96.687552,
+    43.529367
+],
   "geometry": {"coordinates":[-96.687552,43.529367],"type":"Point"}
 }

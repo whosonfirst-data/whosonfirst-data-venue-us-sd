@@ -2,13 +2,14 @@
   "id": 387858237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.506472,44.247168,-96.506472,44.247168",
     "geom:latitude":44.247168,
     "geom:longitude":-96.506472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21645 485th Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387858237,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1467082694,
     "wof:name":"Edward Timm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.506472,44.247168,-96.506472,44.247168],
+  "bbox": [
+    -96.506472,
+    44.247168,
+    -96.506472,
+    44.247168
+],
   "geometry": {"coordinates":[-96.506472,44.247168],"type":"Point"}
 }

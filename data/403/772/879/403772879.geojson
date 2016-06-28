@@ -2,13 +2,14 @@
   "id": 403772879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10353,44.894398,-97.10353,44.894398",
     "geom:latitude":44.894398,
     "geom:longitude":-97.10353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 8th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403772879,
-    "wof:lastmodified":1449055228,
+    "wof:lastmodified":1467082679,
     "wof:name":"Barbs Sten Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.10353,44.894398,-97.10353,44.894398],
-  "geometry": {"coordinates":[-97.10353,44.894398],"type":"Point"}
+  "bbox": [
+    -97.10353,
+    44.894398,
+    -97.10353,
+    44.894398
+],
+  "geometry": {"coordinates":[-97.10353000000001,44.894398],"type":"Point"}
 }

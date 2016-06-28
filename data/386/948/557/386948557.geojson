@@ -2,13 +2,14 @@
   "id": 386948557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487964,45.463086,-98.487964,45.463086",
     "geom:latitude":45.463086,
     "geom:longitude":-98.487964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Main St",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386948557,
-    "wof:lastmodified":1449028886,
+    "wof:lastmodified":1467082654,
     "wof:name":"Andover Volunteer Fire Dept",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-98.487964,45.463086,-98.487964,45.463086],
-  "geometry": {"coordinates":[-98.487964,45.463086],"type":"Point"}
+  "bbox": [
+    -98.487964,
+    45.463086,
+    -98.487964,
+    45.463086
+],
+  "geometry": {"coordinates":[-98.48796400000001,45.463086],"type":"Point"}
 }

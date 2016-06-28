@@ -2,13 +2,14 @@
   "id": 387925737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681367,43.522473,-96.681367,43.522473",
     "geom:latitude":43.522473,
     "geom:longitude":-96.681367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 S Bahnson Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387925737,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1467082687,
     "wof:name":"Morningside Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-96.681367,43.522473,-96.681367,43.522473],
-  "geometry": {"coordinates":[-96.681367,43.522473],"type":"Point"}
+  "bbox": [
+    -96.681367,
+    43.522473,
+    -96.681367,
+    43.522473
+],
+  "geometry": {"coordinates":[-96.68136699999999,43.522473],"type":"Point"}
 }

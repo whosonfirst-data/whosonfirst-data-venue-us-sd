@@ -2,13 +2,14 @@
   "id": 387263771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488049,45.468449,-98.488049,45.468449",
     "geom:latitude":45.468449,
     "geom:longitude":-98.488049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387263771,
-    "wof:lastmodified":1449059807,
+    "wof:lastmodified":1467082761,
     "wof:name":"Buzy Kidz",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-98.488049,45.468449,-98.488049,45.468449],
+  "bbox": [
+    -98.488049,
+    45.468449,
+    -98.488049,
+    45.468449
+],
   "geometry": {"coordinates":[-98.488049,45.468449],"type":"Point"}
 }

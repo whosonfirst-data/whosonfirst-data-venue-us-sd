@@ -2,13 +2,14 @@
   "id": 371115573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750988,43.509012,-96.750988,43.509012",
     "geom:latitude":43.509012,
     "geom:longitude":-96.750988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 W 47th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371115573,
-    "wof:lastmodified":1449049056,
+    "wof:lastmodified":1467082658,
     "wof:name":"SOO Sport Sales Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.750988,43.509012,-96.750988,43.509012],
-  "geometry": {"coordinates":[-96.750988,43.509012],"type":"Point"}
+  "bbox": [
+    -96.750988,
+    43.509012,
+    -96.750988,
+    43.509012
+],
+  "geometry": {"coordinates":[-96.75098800000001,43.509012],"type":"Point"}
 }

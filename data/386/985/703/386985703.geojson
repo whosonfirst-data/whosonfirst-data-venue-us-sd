@@ -2,13 +2,14 @@
   "id": 386985703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.137606,43.897348,-98.137606,43.897348",
     "geom:latitude":43.897348,
     "geom:longitude":-98.137606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Railway St",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386985703,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1467082652,
     "wof:name":"Artesian Letcher School Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.137606,43.897348,-98.137606,43.897348],
-  "geometry": {"coordinates":[-98.137606,43.897348],"type":"Point"}
+  "bbox": [
+    -98.137606,
+    43.897348,
+    -98.137606,
+    43.897348
+],
+  "geometry": {"coordinates":[-98.13760600000001,43.897348],"type":"Point"}
 }

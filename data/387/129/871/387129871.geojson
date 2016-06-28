@@ -2,13 +2,14 @@
   "id": 387129871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788364,43.516963,-96.788364,43.516963",
     "geom:latitude":43.516963,
     "geom:longitude":-96.788364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 W 38th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387129871,
-    "wof:lastmodified":1449059184,
+    "wof:lastmodified":1467082748,
     "wof:name":"Pair A Dice Ranch Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.788364,43.516963,-96.788364,43.516963],
+  "bbox": [
+    -96.788364,
+    43.516963,
+    -96.788364,
+    43.516963
+],
   "geometry": {"coordinates":[-96.788364,43.516963],"type":"Point"}
 }

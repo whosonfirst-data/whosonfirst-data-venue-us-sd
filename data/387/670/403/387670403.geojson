@@ -2,13 +2,14 @@
   "id": 387670403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726296,43.513133,-96.726296,43.513133",
     "geom:latitude":43.513133,
     "geom:longitude":-96.726296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387670403,
-    "wof:lastmodified":1449056676,
+    "wof:lastmodified":1467082698,
     "wof:name":"Dakotabilities Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.726296,43.513133,-96.726296,43.513133],
+  "bbox": [
+    -96.726296,
+    43.513133,
+    -96.726296,
+    43.513133
+],
   "geometry": {"coordinates":[-96.726296,43.513133],"type":"Point"}
 }

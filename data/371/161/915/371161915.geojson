@@ -2,13 +2,14 @@
   "id": 371161915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098783,45.44596,-98.098783,45.44596",
     "geom:latitude":45.44596,
     "geom:longitude":-98.098783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371161915,
-    "wof:lastmodified":1449049441,
+    "wof:lastmodified":1467082664,
     "wof:name":"Rose Creations",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-98.098783,45.44596,-98.098783,45.44596],
+  "bbox": [
+    -98.098783,
+    45.44596,
+    -98.098783,
+    45.44596
+],
   "geometry": {"coordinates":[-98.098783,45.44596],"type":"Point"}
 }

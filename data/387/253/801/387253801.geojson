@@ -2,13 +2,14 @@
   "id": 387253801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750119,45.346564,-97.750119,45.346564",
     "geom:latitude":45.346564,
     "geom:longitude":-97.750119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Main St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387253801,
-    "wof:lastmodified":1449059449,
+    "wof:lastmodified":1467082754,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.750119,45.346564,-97.750119,45.346564],
+  "bbox": [
+    -97.750119,
+    45.346564,
+    -97.750119,
+    45.346564
+],
   "geometry": {"coordinates":[-97.750119,45.346564],"type":"Point"}
 }

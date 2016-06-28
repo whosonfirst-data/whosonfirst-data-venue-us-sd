@@ -2,13 +2,14 @@
   "id": 387638827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807946,43.506419,-96.807946,43.506419",
     "geom:latitude":43.506419,
     "geom:longitude":-96.807946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6704 W 51st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387638827,
-    "wof:lastmodified":1449056322,
+    "wof:lastmodified":1467082691,
     "wof:name":"Rich Hafner",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.807946,43.506419,-96.807946,43.506419],
+  "bbox": [
+    -96.807946,
+    43.506419,
+    -96.807946,
+    43.506419
+],
   "geometry": {"coordinates":[-96.807946,43.506419],"type":"Point"}
 }

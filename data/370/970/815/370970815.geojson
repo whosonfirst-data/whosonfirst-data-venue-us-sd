@@ -2,13 +2,14 @@
   "id": 370970815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.583461,43.594706,-96.583461,43.594706",
     "geom:latitude":43.594706,
     "geom:longitude":-96.583461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370970815,
-    "wof:lastmodified":1449032411,
+    "wof:lastmodified":1467082658,
     "wof:name":"Brandon Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.583461,43.594706,-96.583461,43.594706],
+  "bbox": [
+    -96.583461,
+    43.594706,
+    -96.583461,
+    43.594706
+],
   "geometry": {"coordinates":[-96.583461,43.594706],"type":"Point"}
 }

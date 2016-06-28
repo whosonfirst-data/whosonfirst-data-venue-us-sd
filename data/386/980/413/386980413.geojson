@@ -2,13 +2,14 @@
   "id": 386980413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820369,43.674024,-96.820369,43.674024",
     "geom:latitude":43.674024,
     "geom:longitude":-96.820369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46955 256th St",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386980413,
-    "wof:lastmodified":1449028651,
+    "wof:lastmodified":1467082650,
     "wof:name":"Jeff Erickson Construction",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.820369,43.674024,-96.820369,43.674024],
+  "bbox": [
+    -96.820369,
+    43.674024,
+    -96.820369,
+    43.674024
+],
   "geometry": {"coordinates":[-96.820369,43.674024],"type":"Point"}
 }

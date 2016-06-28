@@ -2,13 +2,14 @@
   "id": 387004467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.498065,44.058803,-103.498065,44.058803",
     "geom:latitude":44.058803,
     "geom:longitude":-103.498065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23060 Custer Gulch Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387004467,
-    "wof:lastmodified":1449057491,
+    "wof:lastmodified":1467082714,
     "wof:name":"Pactola Pines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [-103.498065,44.058803,-103.498065,44.058803],
+  "bbox": [
+    -103.498065,
+    44.058803,
+    -103.498065,
+    44.058803
+],
   "geometry": {"coordinates":[-103.498065,44.058803],"type":"Point"}
 }

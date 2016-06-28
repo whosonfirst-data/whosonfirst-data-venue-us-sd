@@ -2,13 +2,14 @@
   "id": 371187769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.171586,44.067504,-103.171586,44.067504",
     "geom:latitude":44.067504,
     "geom:longitude":-103.171586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 S Valley Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371187769,
-    "wof:lastmodified":1449049190,
+    "wof:lastmodified":1467082660,
     "wof:name":"Mel's Auto Body",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.171586,44.067504,-103.171586,44.067504],
+  "bbox": [
+    -103.171586,
+    44.067504,
+    -103.171586,
+    44.067504
+],
   "geometry": {"coordinates":[-103.171586,44.067504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387607803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48356,45.480909,-98.48356,45.480909",
     "geom:latitude":45.480909,
     "geom:longitude":-98.48356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 N Jay St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387607803,
-    "wof:lastmodified":1449056612,
+    "wof:lastmodified":1467082697,
     "wof:name":"Jostens Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-98.48356,45.480909,-98.48356,45.480909],
+  "bbox": [
+    -98.48356,
+    45.480909,
+    -98.48356,
+    45.480909
+],
   "geometry": {"coordinates":[-98.48356,45.480909],"type":"Point"}
 }

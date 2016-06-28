@@ -2,13 +2,14 @@
   "id": 387642135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.33706,45.448447,-99.33706,45.448447",
     "geom:latitude":45.448447,
     "geom:longitude":-99.33706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Merrill Ave W",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387642135,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1467082691,
     "wof:name":"Roscoe Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.33706,45.448447,-99.33706,45.448447],
-  "geometry": {"coordinates":[-99.33706,45.448447],"type":"Point"}
+  "bbox": [
+    -99.33706,
+    45.448447,
+    -99.33706,
+    45.448447
+],
+  "geometry": {"coordinates":[-99.33705999999999,45.448447],"type":"Point"}
 }

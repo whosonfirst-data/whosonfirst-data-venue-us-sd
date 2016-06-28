@@ -2,13 +2,14 @@
   "id": 403771549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.148907,43.766731,-97.148907,43.766731",
     "geom:latitude":43.766731,
     "geom:longitude":-97.148907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24956 453rd Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403771549,
-    "wof:lastmodified":1449055353,
+    "wof:lastmodified":1467082680,
     "wof:name":"Roof Doctorz Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.148907,43.766731,-97.148907,43.766731],
-  "geometry": {"coordinates":[-97.148907,43.766731],"type":"Point"}
+  "bbox": [
+    -97.148907,
+    43.766731,
+    -97.148907,
+    43.766731
+],
+  "geometry": {"coordinates":[-97.14890699999999,43.766731],"type":"Point"}
 }

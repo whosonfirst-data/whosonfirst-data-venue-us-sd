@@ -2,13 +2,14 @@
   "id": 387769793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749865,43.536754,-96.749865,43.536754",
     "geom:latitude":43.536754,
     "geom:longitude":-96.749865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 W 18th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387769793,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1467082712,
     "wof:name":"Employee Diversified Solutions",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "plan"
     ]
 },
-  "bbox": [-96.749865,43.536754,-96.749865,43.536754],
+  "bbox": [
+    -96.749865,
+    43.536754,
+    -96.749865,
+    43.536754
+],
   "geometry": {"coordinates":[-96.749865,43.536754],"type":"Point"}
 }

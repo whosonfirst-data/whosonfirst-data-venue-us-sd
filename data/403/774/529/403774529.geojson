@@ -2,13 +2,14 @@
   "id": 403774529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.572257,43.603325,-96.572257,43.603325",
     "geom:latitude":43.603325,
     "geom:longitude":-96.572257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 N Splitrock Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403774529,
-    "wof:lastmodified":1449055153,
+    "wof:lastmodified":1467082679,
     "wof:name":"J3 Custom Cultured Marble",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.572257,43.603325,-96.572257,43.603325],
-  "geometry": {"coordinates":[-96.572257,43.603325],"type":"Point"}
+  "bbox": [
+    -96.572257,
+    43.603325,
+    -96.572257,
+    43.603325
+],
+  "geometry": {"coordinates":[-96.57225699999999,43.603325],"type":"Point"}
 }

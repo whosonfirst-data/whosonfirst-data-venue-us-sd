@@ -2,13 +2,14 @@
   "id": 387830767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.905366,44.514793,-103.905366,44.514793",
     "geom:latitude":44.514793,
     "geom:longitude":-103.905366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Sapphire Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387830767,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1467082702,
     "wof:name":"A K Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "programming"
     ]
 },
-  "bbox": [-103.905366,44.514793,-103.905366,44.514793],
+  "bbox": [
+    -103.905366,
+    44.514793,
+    -103.905366,
+    44.514793
+],
   "geometry": {"coordinates":[-103.905366,44.514793],"type":"Point"}
 }

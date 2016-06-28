@@ -2,13 +2,14 @@
   "id": 403741473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703578,43.547416,-96.703578,43.547416",
     "geom:latitude":43.547416,
     "geom:longitude":-96.703578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Krohn Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403741473,
-    "wof:lastmodified":1449054696,
+    "wof:lastmodified":1467082675,
     "wof:name":"Csd Relay",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "answering"
     ]
 },
-  "bbox": [-96.703578,43.547416,-96.703578,43.547416],
-  "geometry": {"coordinates":[-96.703578,43.547416],"type":"Point"}
+  "bbox": [
+    -96.703578,
+    43.547416,
+    -96.703578,
+    43.547416
+],
+  "geometry": {"coordinates":[-96.70357799999999,43.547416],"type":"Point"}
 }

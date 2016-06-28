@@ -2,13 +2,14 @@
   "id": 387604919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.848874,44.470579,-103.848874,44.470579",
     "geom:latitude":44.470579,
     "geom:longitude":-103.848874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Spearfish Canyon Hwy",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387604919,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1467082754,
     "wof:name":"2 Steps West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.848874,44.470579,-103.848874,44.470579],
+  "bbox": [
+    -103.848874,
+    44.470579,
+    -103.848874,
+    44.470579
+],
   "geometry": {"coordinates":[-103.848874,44.470579],"type":"Point"}
 }

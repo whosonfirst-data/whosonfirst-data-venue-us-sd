@@ -2,13 +2,14 @@
   "id": 403800009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.683238,43.5278,-99.683238,43.5278",
     "geom:latitude":43.5278,
     "geom:longitude":-99.683238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26711 State Hwy 49",
     "sg:city":"Hamill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403800009,
-    "wof:lastmodified":1449054741,
+    "wof:lastmodified":1467082675,
     "wof:name":"Wayne Robbins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.683238,43.5278,-99.683238,43.5278],
+  "bbox": [
+    -99.683238,
+    43.5278,
+    -99.683238,
+    43.5278
+],
   "geometry": {"coordinates":[-99.683238,43.5278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387905223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793904,43.531867,-96.793904,43.531867",
     "geom:latitude":43.531867,
     "geom:longitude":-96.793904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 S Berkshire Blvd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387905223,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1467082716,
     "wof:name":"Schmidts Sharon Day Care",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.793904,43.531867,-96.793904,43.531867],
+  "bbox": [
+    -96.793904,
+    43.531867,
+    -96.793904,
+    43.531867
+],
   "geometry": {"coordinates":[-96.793904,43.531867],"type":"Point"}
 }

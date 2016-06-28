@@ -2,13 +2,14 @@
   "id": 387351509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.846493,44.490385,-103.846493,44.490385",
     "geom:latitude":44.490385,
     "geom:longitude":-103.846493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 E Hudson Cir",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387351509,
-    "wof:lastmodified":1449059354,
+    "wof:lastmodified":1467082752,
     "wof:name":"Budget Cleaning & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-103.846493,44.490385,-103.846493,44.490385],
+  "bbox": [
+    -103.846493,
+    44.490385,
+    -103.846493,
+    44.490385
+],
   "geometry": {"coordinates":[-103.846493,44.490385],"type":"Point"}
 }

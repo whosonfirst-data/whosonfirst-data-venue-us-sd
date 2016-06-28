@@ -2,13 +2,14 @@
   "id": 387329755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801432,45.265008,-96.801432,45.265008",
     "geom:latitude":45.265008,
     "geom:longitude":-96.801432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14623 470th Ave",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387329755,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1467082707,
     "wof:name":"Boerger Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.801432,45.265008,-96.801432,45.265008],
-  "geometry": {"coordinates":[-96.801432,45.265008],"type":"Point"}
+  "bbox": [
+    -96.801432,
+    45.265008,
+    -96.801432,
+    45.265008
+],
+  "geometry": {"coordinates":[-96.80143200000001,45.265008],"type":"Point"}
 }

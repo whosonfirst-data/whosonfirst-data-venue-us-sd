@@ -2,13 +2,14 @@
   "id": 387672423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.558185,45.020601,-96.558185,45.020601",
     "geom:latitude":45.020601,
     "geom:longitude":-96.558185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16370 482nd Ave",
     "sg:city":"Revillo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387672423,
-    "wof:lastmodified":1449056356,
+    "wof:lastmodified":1467082692,
     "wof:name":"Grant Deuel School Dist 25-3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.558185,45.020601,-96.558185,45.020601],
-  "geometry": {"coordinates":[-96.558185,45.020601],"type":"Point"}
+  "bbox": [
+    -96.558185,
+    45.020601,
+    -96.558185,
+    45.020601
+],
+  "geometry": {"coordinates":[-96.55818499999999,45.020601],"type":"Point"}
 }

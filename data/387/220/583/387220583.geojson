@@ -2,13 +2,14 @@
   "id": 387220583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.528667,43.591849,-96.528667,43.591849",
     "geom:latitude":43.591849,
     "geom:longitude":-96.528667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48412 Beaver Valley Rd",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387220583,
-    "wof:lastmodified":1449059783,
+    "wof:lastmodified":1467082760,
     "wof:name":"J & E Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.528667,43.591849,-96.528667,43.591849],
+  "bbox": [
+    -96.528667,
+    43.591849,
+    -96.528667,
+    43.591849
+],
   "geometry": {"coordinates":[-96.528667,43.591849],"type":"Point"}
 }

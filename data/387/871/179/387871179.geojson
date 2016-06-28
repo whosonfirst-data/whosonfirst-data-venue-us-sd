@@ -2,13 +2,14 @@
   "id": 387871179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73134,43.541215,-96.73134,43.541215",
     "geom:latitude":43.541215,
     "geom:longitude":-96.73134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387871179,
-    "wof:lastmodified":1449057354,
+    "wof:lastmodified":1467082711,
     "wof:name":"REPRESENTATIVE Tim Johnson",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.73134,43.541215,-96.73134,43.541215],
+  "bbox": [
+    -96.73134,
+    43.541215,
+    -96.73134,
+    43.541215
+],
   "geometry": {"coordinates":[-96.73134,43.541215],"type":"Point"}
 }

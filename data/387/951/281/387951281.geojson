@@ -2,13 +2,14 @@
   "id": 387951281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.360798,44.208626,-103.360798,44.208626",
     "geom:latitude":44.208626,
     "geom:longitude":-103.360798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13294 Carson Ct",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387951281,
-    "wof:lastmodified":1449056288,
+    "wof:lastmodified":1467082690,
     "wof:name":"Back To Health Wellness Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.360798,44.208626,-103.360798,44.208626],
+  "bbox": [
+    -103.360798,
+    44.208626,
+    -103.360798,
+    44.208626
+],
   "geometry": {"coordinates":[-103.360798,44.208626],"type":"Point"}
 }

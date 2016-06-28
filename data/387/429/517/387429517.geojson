@@ -2,13 +2,14 @@
   "id": 387429517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.358787,42.996516,-97.358787,42.996516",
     "geom:latitude":42.996516,
     "geom:longitude":-97.358787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30280 NE Jim River Rd",
     "sg:city":"Mission Hill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387429517,
-    "wof:lastmodified":1449059715,
+    "wof:lastmodified":1467082759,
     "wof:name":"Snoozy Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.358787,42.996516,-97.358787,42.996516],
-  "geometry": {"coordinates":[-97.358787,42.996516],"type":"Point"}
+  "bbox": [
+    -97.358787,
+    42.996516,
+    -97.358787,
+    42.996516
+],
+  "geometry": {"coordinates":[-97.35878700000001,42.996516],"type":"Point"}
 }

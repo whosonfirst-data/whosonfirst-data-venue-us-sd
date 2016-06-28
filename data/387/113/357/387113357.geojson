@@ -2,13 +2,14 @@
   "id": 387113357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.862731,43.370176,-99.862731,43.370176",
     "geom:latitude":43.370176,
     "geom:longitude":-99.862731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W 9th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387113357,
-    "wof:lastmodified":1449059600,
+    "wof:lastmodified":1467082757,
     "wof:name":"Trinity Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.862731,43.370176,-99.862731,43.370176],
+  "bbox": [
+    -99.862731,
+    43.370176,
+    -99.862731,
+    43.370176
+],
   "geometry": {"coordinates":[-99.862731,43.370176],"type":"Point"}
 }

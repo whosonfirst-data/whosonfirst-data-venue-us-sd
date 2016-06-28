@@ -2,13 +2,14 @@
   "id": 387791725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.534104,45.491882,-99.534104,45.491882",
     "geom:latitude":45.491882,
     "geom:longitude":-99.534104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33185 131st St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387791725,
-    "wof:lastmodified":1449059024,
+    "wof:lastmodified":1467082745,
     "wof:name":"Donald Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.534104,45.491882,-99.534104,45.491882],
+  "bbox": [
+    -99.534104,
+    45.491882,
+    -99.534104,
+    45.491882
+],
   "geometry": {"coordinates":[-99.534104,45.491882],"type":"Point"}
 }

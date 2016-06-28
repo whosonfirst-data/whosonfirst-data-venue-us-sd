@@ -2,13 +2,14 @@
   "id": 387280721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.481069,45.481967,-98.481069,45.481967",
     "geom:latitude":45.481967,
     "geom:longitude":-98.481069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 16th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387280721,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1467082724,
     "wof:name":"Brick Antiques",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.481069,45.481967,-98.481069,45.481967],
-  "geometry": {"coordinates":[-98.481069,45.481967],"type":"Point"}
+  "bbox": [
+    -98.481069,
+    45.481967,
+    -98.481069,
+    45.481967
+],
+  "geometry": {"coordinates":[-98.48106900000001,45.481967],"type":"Point"}
 }

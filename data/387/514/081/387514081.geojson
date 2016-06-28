@@ -2,13 +2,14 @@
   "id": 387514081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708795,43.558063,-96.708795,43.558063",
     "geom:latitude":43.558063,
     "geom:longitude":-96.708795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Van Eps Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387514081,
-    "wof:lastmodified":1449058019,
+    "wof:lastmodified":1467082725,
     "wof:name":"Dans Pallets Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.708795,43.558063,-96.708795,43.558063],
-  "geometry": {"coordinates":[-96.708795,43.558063],"type":"Point"}
+  "bbox": [
+    -96.708795,
+    43.558063,
+    -96.708795,
+    43.558063
+],
+  "geometry": {"coordinates":[-96.70879499999999,43.558063],"type":"Point"}
 }

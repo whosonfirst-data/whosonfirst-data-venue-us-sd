@@ -2,13 +2,14 @@
   "id": 387131405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947511,44.425437,-96.947511,44.425437",
     "geom:latitude":44.425437,
     "geom:longitude":-96.947511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20414 463rd Ave",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387131405,
-    "wof:lastmodified":1449057247,
+    "wof:lastmodified":1467082709,
     "wof:name":"Fryer Tractor Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.947511,44.425437,-96.947511,44.425437],
-  "geometry": {"coordinates":[-96.947511,44.425437],"type":"Point"}
+  "bbox": [
+    -96.947511,
+    44.425437,
+    -96.947511,
+    44.425437
+],
+  "geometry": {"coordinates":[-96.94751100000001,44.425437],"type":"Point"}
 }

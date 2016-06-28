@@ -2,13 +2,14 @@
   "id": 371018053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.559897,45.165112,-96.559897,45.165112",
     "geom:latitude":45.165112,
     "geom:longitude":-96.559897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48176 153rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371018053,
-    "wof:lastmodified":1449049552,
+    "wof:lastmodified":1467082665,
     "wof:name":"Victory Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.559897,45.165112,-96.559897,45.165112],
-  "geometry": {"coordinates":[-96.559897,45.165112],"type":"Point"}
+  "bbox": [
+    -96.559897,
+    45.165112,
+    -96.559897,
+    45.165112
+],
+  "geometry": {"coordinates":[-96.55989700000001,45.165112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387440785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774925,43.537767,-96.774925,43.537767",
     "geom:latitude":43.537767,
     "geom:longitude":-96.774925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 S Newcomb Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387440785,
-    "wof:lastmodified":1449057445,
+    "wof:lastmodified":1467082713,
     "wof:name":"AAA Pools",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.774925,43.537767,-96.774925,43.537767],
+  "bbox": [
+    -96.774925,
+    43.537767,
+    -96.774925,
+    43.537767
+],
   "geometry": {"coordinates":[-96.774925,43.537767],"type":"Point"}
 }

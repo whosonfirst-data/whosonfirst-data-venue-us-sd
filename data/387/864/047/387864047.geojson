@@ -2,13 +2,14 @@
   "id": 387864047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.498483,45.470538,-98.498483,45.470538",
     "geom:latitude":45.470538,
     "geom:longitude":-98.498483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Auto Plaza Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387864047,
-    "wof:lastmodified":1449059966,
+    "wof:lastmodified":1467082764,
     "wof:name":"Floor Max",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-98.498483,45.470538,-98.498483,45.470538],
-  "geometry": {"coordinates":[-98.498483,45.470538],"type":"Point"}
+  "bbox": [
+    -98.498483,
+    45.470538,
+    -98.498483,
+    45.470538
+],
+  "geometry": {"coordinates":[-98.49848299999999,45.470538],"type":"Point"}
 }

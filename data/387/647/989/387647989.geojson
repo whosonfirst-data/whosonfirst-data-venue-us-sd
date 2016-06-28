@@ -2,13 +2,14 @@
   "id": 387647989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713599,44.495729,-97.713599,44.495729",
     "geom:latitude":44.495729,
     "geom:longitude":-97.713599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19922 425th Ave",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387647989,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1467082723,
     "wof:name":"Guy Rusche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.713599,44.495729,-97.713599,44.495729],
+  "bbox": [
+    -97.713599,
+    44.495729,
+    -97.713599,
+    44.495729
+],
   "geometry": {"coordinates":[-97.713599,44.495729],"type":"Point"}
 }

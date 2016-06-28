@@ -2,13 +2,14 @@
   "id": 387159973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227108,44.078929,-103.227108,44.078929",
     "geom:latitude":44.078929,
     "geom:longitude":-103.227108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387159973,
-    "wof:lastmodified":1449056569,
+    "wof:lastmodified":1467082696,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-103.227108,44.078929,-103.227108,44.078929],
+  "bbox": [
+    -103.227108,
+    44.078929,
+    -103.227108,
+    44.078929
+],
   "geometry": {"coordinates":[-103.227108,44.078929],"type":"Point"}
 }

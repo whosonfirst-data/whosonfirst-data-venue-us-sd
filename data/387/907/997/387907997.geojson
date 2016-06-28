@@ -2,13 +2,14 @@
   "id": 387907997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.228127,45.697974,-98.228127,45.697974",
     "geom:latitude":45.697974,
     "geom:longitude":-98.228127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11646 400th Ave",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387907997,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1467082757,
     "wof:name":"Mettler Farm Shop",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.228127,45.697974,-98.228127,45.697974],
+  "bbox": [
+    -98.228127,
+    45.697974,
+    -98.228127,
+    45.697974
+],
   "geometry": {"coordinates":[-98.228127,45.697974],"type":"Point"}
 }

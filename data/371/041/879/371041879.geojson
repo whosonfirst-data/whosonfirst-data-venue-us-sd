@@ -2,13 +2,14 @@
   "id": 371041879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760904,43.543854,-96.760904,43.543854",
     "geom:latitude":43.543854,
     "geom:longitude":-96.760904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371041879,
-    "wof:lastmodified":1449049385,
+    "wof:lastmodified":1467082663,
     "wof:name":"Walgreens",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.760904,43.543854,-96.760904,43.543854],
+  "bbox": [
+    -96.760904,
+    43.543854,
+    -96.760904,
+    43.543854
+],
   "geometry": {"coordinates":[-96.760904,43.543854],"type":"Point"}
 }

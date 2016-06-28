@@ -2,13 +2,14 @@
   "id": 371018903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.556015,43.52018,-96.556015,43.52018",
     "geom:latitude":43.52018,
     "geom:longitude":-96.556015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48272 State Hwy 42",
     "sg:city":"Rowena",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371018903,
-    "wof:lastmodified":1449049554,
+    "wof:lastmodified":1467082665,
     "wof:name":"King's Plumbing Svc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.556015,43.52018,-96.556015,43.52018],
+  "bbox": [
+    -96.556015,
+    43.52018,
+    -96.556015,
+    43.52018
+],
   "geometry": {"coordinates":[-96.556015,43.52018],"type":"Point"}
 }

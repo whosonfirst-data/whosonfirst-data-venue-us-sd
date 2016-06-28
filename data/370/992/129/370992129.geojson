@@ -2,13 +2,14 @@
   "id": 370992129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.012577,43.710438,-98.012577,43.710438",
     "geom:latitude":43.710438,
     "geom:longitude":-98.012577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 E 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370992129,
-    "wof:lastmodified":1449030688,
+    "wof:lastmodified":1467082656,
     "wof:name":"Longfellow Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.012577,43.710438,-98.012577,43.710438],
-  "geometry": {"coordinates":[-98.012577,43.710438],"type":"Point"}
+  "bbox": [
+    -98.012577,
+    43.710438,
+    -98.012577,
+    43.710438
+],
+  "geometry": {"coordinates":[-98.01257699999999,43.710438],"type":"Point"}
 }

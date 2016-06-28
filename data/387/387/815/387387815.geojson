@@ -2,13 +2,14 @@
   "id": 387387815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.723948,43.541357,-96.723948,43.541357",
     "geom:latitude":43.541357,
     "geom:longitude":-96.723948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 E 14th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387387815,
-    "wof:lastmodified":1449059409,
+    "wof:lastmodified":1467082753,
     "wof:name":"Artistic Renovations",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.723948,43.541357,-96.723948,43.541357],
-  "geometry": {"coordinates":[-96.723948,43.541357],"type":"Point"}
+  "bbox": [
+    -96.723948,
+    43.541357,
+    -96.723948,
+    43.541357
+],
+  "geometry": {"coordinates":[-96.72394799999999,43.541357],"type":"Point"}
 }

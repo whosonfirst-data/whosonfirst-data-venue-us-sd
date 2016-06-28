@@ -2,13 +2,14 @@
   "id": 387551135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.579209,43.23822,-97.579209,43.23822",
     "geom:latitude":43.23822,
     "geom:longitude":-97.579209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 W Poplar St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387551135,
-    "wof:lastmodified":1449056861,
+    "wof:lastmodified":1467082702,
     "wof:name":"Sorlien Welding & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.579209,43.23822,-97.579209,43.23822],
-  "geometry": {"coordinates":[-97.579209,43.23822],"type":"Point"}
+  "bbox": [
+    -97.579209,
+    43.23822,
+    -97.579209,
+    43.23822
+],
+  "geometry": {"coordinates":[-97.57920900000001,43.23822],"type":"Point"}
 }

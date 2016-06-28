@@ -2,13 +2,14 @@
   "id": 387066675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.34911,44.367646,-100.34911,44.367646",
     "geom:latitude":44.367646,
     "geom:longitude":-100.34911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E Capitol Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387066675,
-    "wof:lastmodified":1449057208,
+    "wof:lastmodified":1467082708,
     "wof:name":"US Labor Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-100.34911,44.367646,-100.34911,44.367646],
+  "bbox": [
+    -100.34911,
+    44.367646,
+    -100.34911,
+    44.367646
+],
   "geometry": {"coordinates":[-100.34911,44.367646],"type":"Point"}
 }

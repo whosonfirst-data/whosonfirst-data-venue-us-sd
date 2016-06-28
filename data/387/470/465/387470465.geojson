@@ -2,13 +2,14 @@
   "id": 387470465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098786,45.447197,-98.098786,45.447197",
     "geom:latitude":45.447197,
     "geom:longitude":-98.098786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387470465,
-    "wof:lastmodified":1449057023,
+    "wof:lastmodified":1467082705,
     "wof:name":"Johnson Agency",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.098786,45.447197,-98.098786,45.447197],
+  "bbox": [
+    -98.098786,
+    45.447197,
+    -98.098786,
+    45.447197
+],
   "geometry": {"coordinates":[-98.098786,45.447197],"type":"Point"}
 }

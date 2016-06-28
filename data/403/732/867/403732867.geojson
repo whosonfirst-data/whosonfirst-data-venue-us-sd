@@ -2,13 +2,14 @@
   "id": 403732867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790985,43.463082,-96.790985,43.463082",
     "geom:latitude":43.463082,
     "geom:longitude":-96.790985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27082 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403732867,
-    "wof:lastmodified":1449056016,
+    "wof:lastmodified":1467082685,
     "wof:name":"Lipetzky's Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.790985,43.463082,-96.790985,43.463082],
-  "geometry": {"coordinates":[-96.790985,43.463082],"type":"Point"}
+  "bbox": [
+    -96.790985,
+    43.463082,
+    -96.790985,
+    43.463082
+],
+  "geometry": {"coordinates":[-96.79098500000001,43.463082],"type":"Point"}
 }

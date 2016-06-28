@@ -2,13 +2,14 @@
   "id": 403825453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.674806,43.509363,-96.674806,43.509363",
     "geom:latitude":43.509363,
     "geom:longitude":-96.674806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 S Florence Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403825453,
-    "wof:lastmodified":1449054667,
+    "wof:lastmodified":1467082674,
     "wof:name":"Premier Garage of Sioux Empire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.674806,43.509363,-96.674806,43.509363],
+  "bbox": [
+    -96.674806,
+    43.509363,
+    -96.674806,
+    43.509363
+],
   "geometry": {"coordinates":[-96.674806,43.509363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371110507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820044,43.432287,-96.820044,43.432287",
     "geom:latitude":43.432287,
     "geom:longitude":-96.820044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27297 Hemlock Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371110507,
-    "wof:lastmodified":1449049348,
+    "wof:lastmodified":1467082662,
     "wof:name":"Hartson Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.820044,43.432287,-96.820044,43.432287],
+  "bbox": [
+    -96.820044,
+    43.432287,
+    -96.820044,
+    43.432287
+],
   "geometry": {"coordinates":[-96.820044,43.432287],"type":"Point"}
 }

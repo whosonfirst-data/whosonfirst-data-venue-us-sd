@@ -2,13 +2,14 @@
   "id": 387221993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.468048,45.522487,-102.468048,45.522487",
     "geom:latitude":45.522487,
     "geom:longitude":-102.468048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Main St",
     "sg:city":"Mc Intosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387221993,
-    "wof:lastmodified":1449057781,
+    "wof:lastmodified":1467082720,
     "wof:name":"Mc Intosh Community Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-102.468048,45.522487,-102.468048,45.522487],
+  "bbox": [
+    -102.468048,
+    45.522487,
+    -102.468048,
+    45.522487
+],
   "geometry": {"coordinates":[-102.468048,45.522487],"type":"Point"}
 }

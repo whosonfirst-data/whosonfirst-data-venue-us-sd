@@ -2,13 +2,14 @@
   "id": 403746001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891661,43.354149,-96.891661,43.354149",
     "geom:latitude":43.354149,
     "geom:longitude":-96.891661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 S Main St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403746001,
-    "wof:lastmodified":1449054613,
+    "wof:lastmodified":1467082674,
     "wof:name":"Lincoln Investment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-96.891661,43.354149,-96.891661,43.354149],
+  "bbox": [
+    -96.891661,
+    43.354149,
+    -96.891661,
+    43.354149
+],
   "geometry": {"coordinates":[-96.891661,43.354149],"type":"Point"}
 }

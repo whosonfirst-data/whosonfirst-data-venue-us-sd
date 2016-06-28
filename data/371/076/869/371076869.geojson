@@ -2,13 +2,14 @@
   "id": 371076869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.113949,44.004851,-97.113949,44.004851",
     "geom:latitude":44.004851,
     "geom:longitude":-97.113949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371076869,
-    "wof:lastmodified":1449049867,
+    "wof:lastmodified":1467082670,
     "wof:name":"Foley's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.113949,44.004851,-97.113949,44.004851],
-  "geometry": {"coordinates":[-97.113949,44.004851],"type":"Point"}
+  "bbox": [
+    -97.113949,
+    44.004851,
+    -97.113949,
+    44.004851
+],
+  "geometry": {"coordinates":[-97.11394900000001,44.004851],"type":"Point"}
 }

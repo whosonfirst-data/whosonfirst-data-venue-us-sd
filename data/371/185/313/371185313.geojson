@@ -2,13 +2,14 @@
   "id": 371185313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.998845,43.258935,-96.998845,43.258935",
     "geom:latitude":43.258935,
     "geom:longitude":-96.998845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Dakota Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371185313,
-    "wof:lastmodified":1449049208,
+    "wof:lastmodified":1467082660,
     "wof:name":"Christian Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.998845,43.258935,-96.998845,43.258935],
+  "bbox": [
+    -96.998845,
+    43.258935,
+    -96.998845,
+    43.258935
+],
   "geometry": {"coordinates":[-96.998845,43.258935],"type":"Point"}
 }

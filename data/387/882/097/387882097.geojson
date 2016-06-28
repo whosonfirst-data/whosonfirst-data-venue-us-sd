@@ -2,13 +2,14 @@
   "id": 387882097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.960154,43.586306,-97.960154,43.586306",
     "geom:latitude":43.586306,
     "geom:longitude":-97.960154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41256 262nd St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387882097,
-    "wof:lastmodified":1449056779,
+    "wof:lastmodified":1467082700,
     "wof:name":"Hohn Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.960154,43.586306,-97.960154,43.586306],
+  "bbox": [
+    -97.960154,
+    43.586306,
+    -97.960154,
+    43.586306
+],
   "geometry": {"coordinates":[-97.960154,43.586306],"type":"Point"}
 }

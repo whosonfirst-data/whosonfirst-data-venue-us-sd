@@ -2,13 +2,14 @@
   "id": 387796433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48804,45.465686,-98.48804,45.465686",
     "geom:latitude":45.465686,
     "geom:longitude":-98.48804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387796433,
-    "wof:lastmodified":1449057898,
+    "wof:lastmodified":1467082723,
     "wof:name":"Flame Restaurant & Lounge",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-98.48804,45.465686,-98.48804,45.465686],
+  "bbox": [
+    -98.48804,
+    45.465686,
+    -98.48804,
+    45.465686
+],
   "geometry": {"coordinates":[-98.48804,45.465686],"type":"Point"}
 }

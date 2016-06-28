@@ -2,13 +2,14 @@
   "id": 387543241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385446,43.649963,-98.385446,43.649963",
     "geom:latitude":43.649963,
     "geom:longitude":-98.385446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25741 391st Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387543241,
-    "wof:lastmodified":1449056845,
+    "wof:lastmodified":1467082701,
     "wof:name":"Larry's Country Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.385446,43.649963,-98.385446,43.649963],
+  "bbox": [
+    -98.385446,
+    43.649963,
+    -98.385446,
+    43.649963
+],
   "geometry": {"coordinates":[-98.385446,43.649963],"type":"Point"}
 }

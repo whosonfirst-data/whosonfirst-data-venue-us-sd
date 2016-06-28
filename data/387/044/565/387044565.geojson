@@ -2,13 +2,14 @@
   "id": 387044565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408855,43.423789,-98.408855,43.423789",
     "geom:latitude":43.423789,
     "geom:longitude":-98.408855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387044565,
-    "wof:lastmodified":1449058089,
+    "wof:lastmodified":1467082727,
     "wof:name":"First Dakota National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-98.408855,43.423789,-98.408855,43.423789],
+  "bbox": [
+    -98.408855,
+    43.423789,
+    -98.408855,
+    43.423789
+],
   "geometry": {"coordinates":[-98.408855,43.423789],"type":"Point"}
 }

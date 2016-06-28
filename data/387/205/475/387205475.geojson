@@ -2,13 +2,14 @@
   "id": 387205475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711371,43.540293,-96.711371,43.540293",
     "geom:latitude":43.540293,
     "geom:longitude":-96.711371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387205475,
-    "wof:lastmodified":1449058406,
+    "wof:lastmodified":1467082733,
     "wof:name":"Us Veterans Affairs Dept",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "admin"
     ]
 },
-  "bbox": [-96.711371,43.540293,-96.711371,43.540293],
+  "bbox": [
+    -96.711371,
+    43.540293,
+    -96.711371,
+    43.540293
+],
   "geometry": {"coordinates":[-96.711371,43.540293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387405475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.159421,45.940882,-102.159421,45.940882",
     "geom:latitude":45.940882,
     "geom:longitude":-102.159421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Main Ave",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387405475,
-    "wof:lastmodified":1449059594,
+    "wof:lastmodified":1467082757,
     "wof:name":"Bills Super Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "independent"
     ]
 },
-  "bbox": [-102.159421,45.940882,-102.159421,45.940882],
-  "geometry": {"coordinates":[-102.159421,45.940882],"type":"Point"}
+  "bbox": [
+    -102.159421,
+    45.940882,
+    -102.159421,
+    45.940882
+],
+  "geometry": {"coordinates":[-102.15942099999999,45.940882],"type":"Point"}
 }

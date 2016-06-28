@@ -2,13 +2,14 @@
   "id": 387585007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.660936,42.945929,-97.660936,42.945929",
     "geom:latitude":42.945929,
     "geom:longitude":-97.660936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 S Janda St",
     "sg:city":"Tabor",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387585007,
-    "wof:lastmodified":1449058644,
+    "wof:lastmodified":1467082738,
     "wof:name":"Ilenes Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.660936,42.945929,-97.660936,42.945929],
-  "geometry": {"coordinates":[-97.660936,42.945929],"type":"Point"}
+  "bbox": [
+    -97.660936,
+    42.945929,
+    -97.660936,
+    42.945929
+],
+  "geometry": {"coordinates":[-97.66093600000001,42.945929],"type":"Point"}
 }

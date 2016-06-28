@@ -2,13 +2,14 @@
   "id": 371083015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.839116,43.386004,-98.839116,43.386004",
     "geom:latitude":43.386004,
     "geom:longitude":-98.839116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Illinois Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371083015,
-    "wof:lastmodified":1449049501,
+    "wof:lastmodified":1467082664,
     "wof:name":"Reiser Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.839116,43.386004,-98.839116,43.386004],
+  "bbox": [
+    -98.839116,
+    43.386004,
+    -98.839116,
+    43.386004
+],
   "geometry": {"coordinates":[-98.839116,43.386004],"type":"Point"}
 }

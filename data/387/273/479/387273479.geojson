@@ -2,13 +2,14 @@
   "id": 387273479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.990632,43.833111,-96.990632,43.833111",
     "geom:latitude":43.833111,
     "geom:longitude":-96.990632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24506 461st Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387273479,
-    "wof:lastmodified":1449058080,
+    "wof:lastmodified":1467082727,
     "wof:name":"Dean Baumberger",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.990632,43.833111,-96.990632,43.833111],
-  "geometry": {"coordinates":[-96.990632,43.833111],"type":"Point"}
+  "bbox": [
+    -96.990632,
+    43.833111,
+    -96.990632,
+    43.833111
+],
+  "geometry": {"coordinates":[-96.99063200000001,43.833111],"type":"Point"}
 }

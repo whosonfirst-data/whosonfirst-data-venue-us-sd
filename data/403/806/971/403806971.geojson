@@ -2,13 +2,14 @@
   "id": 403806971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71687,43.594755,-96.71687,43.594755",
     "geom:latitude":43.594755,
     "geom:longitude":-96.71687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 54th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403806971,
-    "wof:lastmodified":1449054626,
+    "wof:lastmodified":1467082674,
     "wof:name":"Sioux Pipe Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pipe"
     ]
 },
-  "bbox": [-96.71687,43.594755,-96.71687,43.594755],
+  "bbox": [
+    -96.71687,
+    43.594755,
+    -96.71687,
+    43.594755
+],
   "geometry": {"coordinates":[-96.71687,43.594755],"type":"Point"}
 }

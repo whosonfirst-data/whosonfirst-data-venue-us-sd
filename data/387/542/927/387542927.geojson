@@ -2,13 +2,14 @@
   "id": 387542927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485119,45.460036,-98.485119,45.460036",
     "geom:latitude":45.460036,
     "geom:longitude":-98.485119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387542927,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1467082746,
     "wof:name":"Mc Neary & Anderson",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.485119,45.460036,-98.485119,45.460036],
+  "bbox": [
+    -98.485119,
+    45.460036,
+    -98.485119,
+    45.460036
+],
   "geometry": {"coordinates":[-98.485119,45.460036],"type":"Point"}
 }

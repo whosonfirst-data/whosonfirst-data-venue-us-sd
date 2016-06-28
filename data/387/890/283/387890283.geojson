@@ -2,13 +2,14 @@
   "id": 387890283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.311118,45.613081,-98.311118,45.613081",
     "geom:latitude":45.613081,
     "geom:longitude":-98.311118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Broadway St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387890283,
-    "wof:lastmodified":1449056933,
+    "wof:lastmodified":1467082703,
     "wof:name":"A T Webber Auto",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.311118,45.613081,-98.311118,45.613081],
-  "geometry": {"coordinates":[-98.311118,45.613081],"type":"Point"}
+  "bbox": [
+    -98.311118,
+    45.613081,
+    -98.311118,
+    45.613081
+],
+  "geometry": {"coordinates":[-98.31111799999999,45.613081],"type":"Point"}
 }

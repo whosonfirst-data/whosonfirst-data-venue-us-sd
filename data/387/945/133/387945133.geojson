@@ -2,13 +2,14 @@
   "id": 387945133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.644344,45.220044,-96.644344,45.220044",
     "geom:latitude":45.220044,
     "geom:longitude":-96.644344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W 3rd Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387945133,
-    "wof:lastmodified":1449056430,
+    "wof:lastmodified":1467082693,
     "wof:name":"Country Detailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.644344,45.220044,-96.644344,45.220044],
+  "bbox": [
+    -96.644344,
+    45.220044,
+    -96.644344,
+    45.220044
+],
   "geometry": {"coordinates":[-96.644344,45.220044],"type":"Point"}
 }

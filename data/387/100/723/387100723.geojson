@@ -2,13 +2,14 @@
   "id": 387100723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742463,43.544583,-96.742463,43.544583",
     "geom:latitude":43.544583,
     "geom:longitude":-96.742463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387100723,
-    "wof:lastmodified":1449058927,
+    "wof:lastmodified":1467082743,
     "wof:name":"Unite Youth Ctr",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-96.742463,43.544583,-96.742463,43.544583],
+  "bbox": [
+    -96.742463,
+    43.544583,
+    -96.742463,
+    43.544583
+],
   "geometry": {"coordinates":[-96.742463,43.544583],"type":"Point"}
 }

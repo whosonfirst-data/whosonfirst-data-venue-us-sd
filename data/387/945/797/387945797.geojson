@@ -2,13 +2,14 @@
   "id": 387945797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.1118,44.89845,-97.1118,44.89845",
     "geom:latitude":44.89845,
     "geom:longitude":-97.1118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 2nd St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387945797,
-    "wof:lastmodified":1449056431,
+    "wof:lastmodified":1467082693,
     "wof:name":"Portrait Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-97.1118,44.89845,-97.1118,44.89845],
+  "bbox": [
+    -97.1118,
+    44.89845,
+    -97.1118,
+    44.89845
+],
   "geometry": {"coordinates":[-97.1118,44.89845],"type":"Point"}
 }

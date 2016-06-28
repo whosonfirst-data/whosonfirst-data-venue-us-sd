@@ -2,13 +2,14 @@
   "id": 387786875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761138,43.520942,-96.761138,43.520942",
     "geom:latitude":43.520942,
     "geom:longitude":-96.761138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387786875,
-    "wof:lastmodified":1449056603,
+    "wof:lastmodified":1467082696,
     "wof:name":"Terrace Hills Apts",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.761138,43.520942,-96.761138,43.520942],
+  "bbox": [
+    -96.761138,
+    43.520942,
+    -96.761138,
+    43.520942
+],
   "geometry": {"coordinates":[-96.761138,43.520942],"type":"Point"}
 }

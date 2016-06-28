@@ -2,13 +2,14 @@
   "id": 386925285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.872348,44.529227,-96.872348,44.529227",
     "geom:latitude":44.529227,
     "geom:longitude":-96.872348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46698 197th St",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386925285,
-    "wof:lastmodified":1449028626,
+    "wof:lastmodified":1467082649,
     "wof:name":"Steve Casjene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.872348,44.529227,-96.872348,44.529227],
+  "bbox": [
+    -96.872348,
+    44.529227,
+    -96.872348,
+    44.529227
+],
   "geometry": {"coordinates":[-96.872348,44.529227],"type":"Point"}
 }

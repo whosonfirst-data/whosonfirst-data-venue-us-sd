@@ -2,13 +2,14 @@
   "id": 387414739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.595502,44.048279,-96.595502,44.048279",
     "geom:latitude":44.048279,
     "geom:longitude":-96.595502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Wind St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387414739,
-    "wof:lastmodified":1449057884,
+    "wof:lastmodified":1467082722,
     "wof:name":"J & K Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-96.595502,44.048279,-96.595502,44.048279],
+  "bbox": [
+    -96.595502,
+    44.048279,
+    -96.595502,
+    44.048279
+],
   "geometry": {"coordinates":[-96.595502,44.048279],"type":"Point"}
 }

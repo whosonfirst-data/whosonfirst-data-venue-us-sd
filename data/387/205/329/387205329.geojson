@@ -2,13 +2,14 @@
   "id": 387205329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.996068,45.580202,-99.996068,45.580202",
     "geom:latitude":45.580202,
     "geom:longitude":-99.996068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30906 125th St",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387205329,
-    "wof:lastmodified":1449058405,
+    "wof:lastmodified":1467082733,
     "wof:name":"Sand Hills Red Angus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.996068,45.580202,-99.996068,45.580202],
-  "geometry": {"coordinates":[-99.996068,45.580202],"type":"Point"}
+  "bbox": [
+    -99.996068,
+    45.580202,
+    -99.996068,
+    45.580202
+],
+  "geometry": {"coordinates":[-99.99606799999999,45.580202],"type":"Point"}
 }

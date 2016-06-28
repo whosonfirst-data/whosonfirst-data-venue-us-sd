@@ -2,13 +2,14 @@
   "id": 387443761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.16557,45.818717,-98.16557,45.818717",
     "geom:latitude":45.818717,
     "geom:longitude":-98.16557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10814 403rd Ave",
     "sg:city":"Hecla",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387443761,
-    "wof:lastmodified":1449059221,
+    "wof:lastmodified":1467082749,
     "wof:name":"Russell Clark",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.16557,45.818717,-98.16557,45.818717],
+  "bbox": [
+    -98.16557,
+    45.818717,
+    -98.16557,
+    45.818717
+],
   "geometry": {"coordinates":[-98.16557,45.818717],"type":"Point"}
 }

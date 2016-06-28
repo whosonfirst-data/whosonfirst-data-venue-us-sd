@@ -2,13 +2,14 @@
   "id": 387438115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.846295,43.724932,-96.846295,43.724932",
     "geom:latitude":43.724932,
     "geom:longitude":-96.846295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46870 Willow Creek St",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387438115,
-    "wof:lastmodified":1449057385,
+    "wof:lastmodified":1467082712,
     "wof:name":"Milton Opland Electric Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.846295,43.724932,-96.846295,43.724932],
+  "bbox": [
+    -96.846295,
+    43.724932,
+    -96.846295,
+    43.724932
+],
   "geometry": {"coordinates":[-96.846295,43.724932],"type":"Point"}
 }

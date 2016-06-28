@@ -2,13 +2,14 @@
   "id": 387399367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730808,43.586995,-96.730808,43.586995",
     "geom:latitude":43.586995,
     "geom:longitude":-96.730808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 N John Orr Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387399367,
-    "wof:lastmodified":1449056772,
+    "wof:lastmodified":1467082700,
     "wof:name":"J & R Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "airline"
     ]
 },
-  "bbox": [-96.730808,43.586995,-96.730808,43.586995],
+  "bbox": [
+    -96.730808,
+    43.586995,
+    -96.730808,
+    43.586995
+],
   "geometry": {"coordinates":[-96.730808,43.586995],"type":"Point"}
 }

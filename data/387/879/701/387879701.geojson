@@ -2,13 +2,14 @@
   "id": 387879701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.197988,44.081423,-103.197988,44.081423",
     "geom:latitude":44.081423,
     "geom:longitude":-103.197988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387879701,
-    "wof:lastmodified":1449056148,
+    "wof:lastmodified":1467082688,
     "wof:name":"Hills Tire & Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-103.197988,44.081423,-103.197988,44.081423],
+  "bbox": [
+    -103.197988,
+    44.081423,
+    -103.197988,
+    44.081423
+],
   "geometry": {"coordinates":[-103.197988,44.081423],"type":"Point"}
 }

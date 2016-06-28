@@ -2,13 +2,14 @@
   "id": 387233791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488113,45.463005,-98.488113,45.463005",
     "geom:latitude":45.463005,
     "geom:longitude":-98.488113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387233791,
-    "wof:lastmodified":1449059985,
+    "wof:lastmodified":1467082765,
     "wof:name":"Noah's Critters Pet Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-98.488113,45.463005,-98.488113,45.463005],
+  "bbox": [
+    -98.488113,
+    45.463005,
+    -98.488113,
+    45.463005
+],
   "geometry": {"coordinates":[-98.488113,45.463005],"type":"Point"}
 }

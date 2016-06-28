@@ -2,13 +2,14 @@
   "id": 371106695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.355235,44.059836,-103.355235,44.059836",
     "geom:latitude":44.059836,
     "geom:longitude":-103.355235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Cavern Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":371106695,
-    "wof:lastmodified":1449049051,
+    "wof:lastmodified":1467082658,
     "wof:name":"Black Hills Caverns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "convention"
     ]
 },
-  "bbox": [-103.355235,44.059836,-103.355235,44.059836],
-  "geometry": {"coordinates":[-103.355235,44.059836],"type":"Point"}
+  "bbox": [
+    -103.355235,
+    44.059836,
+    -103.355235,
+    44.059836
+],
+  "geometry": {"coordinates":[-103.35523499999999,44.059836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371008999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.741319,43.531462,-96.741319,43.531462",
     "geom:latitude":43.531462,
     "geom:longitude":-96.741319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 S Grange Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371008999,
-    "wof:lastmodified":1449049339,
+    "wof:lastmodified":1467082662,
     "wof:name":"First Priority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-96.741319,43.531462,-96.741319,43.531462],
+  "bbox": [
+    -96.741319,
+    43.531462,
+    -96.741319,
+    43.531462
+],
   "geometry": {"coordinates":[-96.741319,43.531462],"type":"Point"}
 }

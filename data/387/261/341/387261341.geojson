@@ -2,13 +2,14 @@
   "id": 387261341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.26516,44.06906,-103.26516,44.06906",
     "geom:latitude":44.06906,
     "geom:longitude":-103.26516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387261341,
-    "wof:lastmodified":1449056179,
+    "wof:lastmodified":1467082688,
     "wof:name":"Osheim-Catron Funeral Home",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.26516,44.06906,-103.26516,44.06906],
-  "geometry": {"coordinates":[-103.26516,44.06906],"type":"Point"}
+  "bbox": [
+    -103.26516,
+    44.06906,
+    -103.26516,
+    44.06906
+],
+  "geometry": {"coordinates":[-103.26515999999999,44.06906],"type":"Point"}
 }

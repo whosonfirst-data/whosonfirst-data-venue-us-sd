@@ -2,13 +2,14 @@
   "id": 387809059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.664026,45.453086,-99.664026,45.453086",
     "geom:latitude":45.453086,
     "geom:longitude":-99.664026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 Main St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809059,
-    "wof:lastmodified":1449059240,
+    "wof:lastmodified":1467082749,
     "wof:name":"De Wald Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.664026,45.453086,-99.664026,45.453086],
-  "geometry": {"coordinates":[-99.664026,45.453086],"type":"Point"}
+  "bbox": [
+    -99.664026,
+    45.453086,
+    -99.664026,
+    45.453086
+],
+  "geometry": {"coordinates":[-99.66402600000001,45.453086],"type":"Point"}
 }

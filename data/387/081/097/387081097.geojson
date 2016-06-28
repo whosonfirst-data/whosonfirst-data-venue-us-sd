@@ -2,13 +2,14 @@
   "id": 387081097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.6763,43.52093,-96.6763,43.52093",
     "geom:latitude":43.52093,
     "geom:longitude":-96.6763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 E 36th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387081097,
-    "wof:lastmodified":1449057279,
+    "wof:lastmodified":1467082710,
     "wof:name":"Lyle Boysen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.6763,43.52093,-96.6763,43.52093],
+  "bbox": [
+    -96.6763,
+    43.52093,
+    -96.6763,
+    43.52093
+],
   "geometry": {"coordinates":[-96.6763,43.52093],"type":"Point"}
 }

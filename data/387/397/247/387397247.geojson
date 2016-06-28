@@ -2,13 +2,14 @@
   "id": 387397247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.949762,45.011301,-99.949762,45.011301",
     "geom:latitude":45.011301,
     "geom:longitude":-99.949762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 E Commercial Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387397247,
-    "wof:lastmodified":1449057625,
+    "wof:lastmodified":1467082717,
     "wof:name":"Luce Funeral Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-99.949762,45.011301,-99.949762,45.011301],
-  "geometry": {"coordinates":[-99.949762,45.011301],"type":"Point"}
+  "bbox": [
+    -99.949762,
+    45.011301,
+    -99.949762,
+    45.011301
+],
+  "geometry": {"coordinates":[-99.94976200000001,45.011301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387093117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.781267,45.242259,-99.781267,45.242259",
     "geom:latitude":45.242259,
     "geom:longitude":-99.781267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 3rd Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387093117,
-    "wof:lastmodified":1449056118,
+    "wof:lastmodified":1467082687,
     "wof:name":"P J Agency LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.781267,45.242259,-99.781267,45.242259],
+  "bbox": [
+    -99.781267,
+    45.242259,
+    -99.781267,
+    45.242259
+],
   "geometry": {"coordinates":[-99.781267,45.242259],"type":"Point"}
 }

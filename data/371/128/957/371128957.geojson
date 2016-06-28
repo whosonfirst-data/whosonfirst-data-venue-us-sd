@@ -2,13 +2,14 @@
   "id": 371128957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712457,43.516148,-96.712457,43.516148",
     "geom:latitude":43.516148,
     "geom:longitude":-96.712457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371128957,
-    "wof:lastmodified":1449049427,
+    "wof:lastmodified":1467082663,
     "wof:name":"R C Guy",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.712457,43.516148,-96.712457,43.516148],
+  "bbox": [
+    -96.712457,
+    43.516148,
+    -96.712457,
+    43.516148
+],
   "geometry": {"coordinates":[-96.712457,43.516148],"type":"Point"}
 }

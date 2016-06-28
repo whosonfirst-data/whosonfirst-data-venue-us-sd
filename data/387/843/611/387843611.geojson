@@ -2,13 +2,14 @@
   "id": 387843611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.958753,45.602895,-97.958753,45.602895",
     "geom:latitude":45.602895,
     "geom:longitude":-97.958753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41277 123rd St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387843611,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1467082693,
     "wof:name":"Roy Boe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.958753,45.602895,-97.958753,45.602895],
+  "bbox": [
+    -97.958753,
+    45.602895,
+    -97.958753,
+    45.602895
+],
   "geometry": {"coordinates":[-97.958753,45.602895],"type":"Point"}
 }

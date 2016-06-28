@@ -2,13 +2,14 @@
   "id": 387824897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.64056,43.551391,-96.64056,43.551391",
     "geom:latitude":43.551391,
     "geom:longitude":-96.64056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6908 N Pine Lake Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387824897,
-    "wof:lastmodified":1449057456,
+    "wof:lastmodified":1467082714,
     "wof:name":"Prairie Sky Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.64056,43.551391,-96.64056,43.551391],
-  "geometry": {"coordinates":[-96.64056,43.551391],"type":"Point"}
+  "bbox": [
+    -96.64056,
+    43.551391,
+    -96.64056,
+    43.551391
+],
+  "geometry": {"coordinates":[-96.64055999999999,43.551391],"type":"Point"}
 }

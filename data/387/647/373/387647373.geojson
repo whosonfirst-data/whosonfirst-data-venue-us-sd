@@ -2,13 +2,14 @@
   "id": 387647373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.261079,44.070533,-103.261079,44.070533",
     "geom:latitude":44.070533,
     "geom:longitude":-103.261079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387647373,
-    "wof:lastmodified":1449057904,
+    "wof:lastmodified":1467082723,
     "wof:name":"Carol White Ultimate Personal",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "miscellaneous"
     ]
 },
-  "bbox": [-103.261079,44.070533,-103.261079,44.070533],
+  "bbox": [
+    -103.261079,
+    44.070533,
+    -103.261079,
+    44.070533
+],
   "geometry": {"coordinates":[-103.261079,44.070533],"type":"Point"}
 }

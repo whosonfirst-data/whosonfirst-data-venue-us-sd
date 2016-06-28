@@ -2,13 +2,14 @@
   "id": 403835659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.575046,43.520825,-98.575046,43.520825",
     "geom:latitude":43.520825,
     "geom:longitude":-98.575046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26690 381st Ave",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403835659,
-    "wof:lastmodified":1449054816,
+    "wof:lastmodified":1467082676,
     "wof:name":"Phyllis Pennings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.575046,43.520825,-98.575046,43.520825],
+  "bbox": [
+    -98.575046,
+    43.520825,
+    -98.575046,
+    43.520825
+],
   "geometry": {"coordinates":[-98.575046,43.520825],"type":"Point"}
 }

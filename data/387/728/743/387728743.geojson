@@ -2,13 +2,14 @@
   "id": 387728743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048533,45.665593,-97.048533,45.665593",
     "geom:latitude":45.665593,
     "geom:longitude":-97.048533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Cherry St E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387728743,
-    "wof:lastmodified":1449056996,
+    "wof:lastmodified":1467082704,
     "wof:name":"Social Services SD Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "social"
     ]
 },
-  "bbox": [-97.048533,45.665593,-97.048533,45.665593],
-  "geometry": {"coordinates":[-97.048533,45.665593],"type":"Point"}
+  "bbox": [
+    -97.048533,
+    45.665593,
+    -97.048533,
+    45.665593
+],
+  "geometry": {"coordinates":[-97.04853300000001,45.665593],"type":"Point"}
 }

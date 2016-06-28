@@ -2,13 +2,14 @@
   "id": 371167771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249569,44.019573,-103.249569,44.019573",
     "geom:latitude":44.019573,
     "geom:longitude":-103.249569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371167771,
-    "wof:lastmodified":1449049572,
+    "wof:lastmodified":1467082665,
     "wof:name":"Splat Zone Paintball",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [-103.249569,44.019573,-103.249569,44.019573],
-  "geometry": {"coordinates":[-103.249569,44.019573],"type":"Point"}
+  "bbox": [
+    -103.249569,
+    44.019573,
+    -103.249569,
+    44.019573
+],
+  "geometry": {"coordinates":[-103.24956899999999,44.019573],"type":"Point"}
 }

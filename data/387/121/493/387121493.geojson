@@ -2,13 +2,14 @@
   "id": 387121493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223777,44.097162,-103.223777,44.097162",
     "geom:latitude":44.097162,
     "geom:longitude":-103.223777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Atlas St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387121493,
-    "wof:lastmodified":1449059074,
+    "wof:lastmodified":1467082746,
     "wof:name":"Hainesway Apartments",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.223777,44.097162,-103.223777,44.097162],
+  "bbox": [
+    -103.223777,
+    44.097162,
+    -103.223777,
+    44.097162
+],
   "geometry": {"coordinates":[-103.223777,44.097162],"type":"Point"}
 }

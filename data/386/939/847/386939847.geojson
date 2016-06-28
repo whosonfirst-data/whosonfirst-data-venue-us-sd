@@ -2,13 +2,14 @@
   "id": 386939847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004751,43.194407,-97.004751,43.194407",
     "geom:latitude":43.194407,
     "geom:longitude":-97.004751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28936 460th Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386939847,
-    "wof:lastmodified":1449028705,
+    "wof:lastmodified":1467082651,
     "wof:name":"Vasgaard Elayton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.004751,43.194407,-97.004751,43.194407],
+  "bbox": [
+    -97.004751,
+    43.194407,
+    -97.004751,
+    43.194407
+],
   "geometry": {"coordinates":[-97.004751,43.194407],"type":"Point"}
 }

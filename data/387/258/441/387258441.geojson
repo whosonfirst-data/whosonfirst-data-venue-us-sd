@@ -2,13 +2,14 @@
   "id": 387258441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.868348,43.367075,-99.868348,43.367075",
     "geom:latitude":43.367075,
     "geom:longitude":-99.868348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 W 12th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387258441,
-    "wof:lastmodified":1449059130,
+    "wof:lastmodified":1467082747,
     "wof:name":"Conservation District Tree Shd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-99.868348,43.367075,-99.868348,43.367075],
+  "bbox": [
+    -99.868348,
+    43.367075,
+    -99.868348,
+    43.367075
+],
   "geometry": {"coordinates":[-99.868348,43.367075],"type":"Point"}
 }

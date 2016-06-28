@@ -2,13 +2,14 @@
   "id": 387524227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790969,43.540345,-96.790969,43.540345",
     "geom:latitude":43.540345,
     "geom:longitude":-96.790969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 S Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387524227,
-    "wof:lastmodified":1449056075,
+    "wof:lastmodified":1467082686,
     "wof:name":"Vacuums & More",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-96.790969,43.540345,-96.790969,43.540345],
+  "bbox": [
+    -96.790969,
+    43.540345,
+    -96.790969,
+    43.540345
+],
   "geometry": {"coordinates":[-96.790969,43.540345],"type":"Point"}
 }

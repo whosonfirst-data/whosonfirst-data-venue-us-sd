@@ -2,13 +2,14 @@
   "id": 403793051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.513006,43.835808,-101.513006,43.835808",
     "geom:latitude":43.835808,
     "geom:longitude":-101.513006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Maple St",
     "sg:city":"Kadoka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403793051,
-    "wof:lastmodified":1449055370,
+    "wof:lastmodified":1467082680,
     "wof:name":"Kadoka Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-101.513006,43.835808,-101.513006,43.835808],
+  "bbox": [
+    -101.513006,
+    43.835808,
+    -101.513006,
+    43.835808
+],
   "geometry": {"coordinates":[-101.513006,43.835808],"type":"Point"}
 }

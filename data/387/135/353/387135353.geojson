@@ -2,13 +2,14 @@
   "id": 387135353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.093971,44.90862,-97.093971,44.90862",
     "geom:latitude":44.90862,
     "geom:longitude":-97.093971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 13th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387135353,
-    "wof:lastmodified":1449057567,
+    "wof:lastmodified":1467082716,
     "wof:name":"Boys & Girls Club Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.093971,44.90862,-97.093971,44.90862],
+  "bbox": [
+    -97.093971,
+    44.90862,
+    -97.093971,
+    44.90862
+],
   "geometry": {"coordinates":[-97.093971,44.90862],"type":"Point"}
 }

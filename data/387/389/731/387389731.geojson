@@ -2,13 +2,14 @@
   "id": 387389731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.219573,44.363323,-98.219573,44.363323",
     "geom:latitude":44.363323,
     "geom:longitude":-98.219573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 3rd St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387389731,
-    "wof:lastmodified":1449059138,
+    "wof:lastmodified":1467082747,
     "wof:name":"Fair City Economy Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.219573,44.363323,-98.219573,44.363323],
+  "bbox": [
+    -98.219573,
+    44.363323,
+    -98.219573,
+    44.363323
+],
   "geometry": {"coordinates":[-98.219573,44.363323],"type":"Point"}
 }

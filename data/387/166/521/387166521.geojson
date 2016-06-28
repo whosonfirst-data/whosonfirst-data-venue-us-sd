@@ -2,13 +2,14 @@
   "id": 387166521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.990414,44.518246,-98.990414,44.518246",
     "geom:latitude":44.518246,
     "geom:longitude":-98.990414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W 1st Ave",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387166521,
-    "wof:lastmodified":1449058238,
+    "wof:lastmodified":1467082730,
     "wof:name":"Amber & Lace Tea House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-98.990414,44.518246,-98.990414,44.518246],
+  "bbox": [
+    -98.990414,
+    44.518246,
+    -98.990414,
+    44.518246
+],
   "geometry": {"coordinates":[-98.990414,44.518246],"type":"Point"}
 }

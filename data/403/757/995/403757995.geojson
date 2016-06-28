@@ -2,13 +2,14 @@
   "id": 403757995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.662662,44.039486,-101.662662,44.039486",
     "geom:latitude":44.039486,
     "geom:longitude":-101.662662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Wood Ave",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403757995,
-    "wof:lastmodified":1449055382,
+    "wof:lastmodified":1467082681,
     "wof:name":"Ravellette Publications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-101.662662,44.039486,-101.662662,44.039486],
+  "bbox": [
+    -101.662662,
+    44.039486,
+    -101.662662,
+    44.039486
+],
   "geometry": {"coordinates":[-101.662662,44.039486],"type":"Point"}
 }

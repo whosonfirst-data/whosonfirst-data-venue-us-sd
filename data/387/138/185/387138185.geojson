@@ -2,13 +2,14 @@
   "id": 387138185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.140885,44.36607,-97.140885,44.36607",
     "geom:latitude":44.36607,
     "geom:longitude":-97.140885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Willow St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387138185,
-    "wof:lastmodified":1449057196,
+    "wof:lastmodified":1467082708,
     "wof:name":"Dakota Sanitary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-97.140885,44.36607,-97.140885,44.36607],
+  "bbox": [
+    -97.140885,
+    44.36607,
+    -97.140885,
+    44.36607
+],
   "geometry": {"coordinates":[-97.140885,44.36607],"type":"Point"}
 }

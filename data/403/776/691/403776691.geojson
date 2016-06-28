@@ -2,13 +2,14 @@
   "id": 403776691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.469696,44.876459,-97.469696,44.876459",
     "geom:latitude":44.876459,
     "geom:longitude":-97.469696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 4th St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403776691,
-    "wof:lastmodified":1449054937,
+    "wof:lastmodified":1467082677,
     "wof:name":"Russ's Standard Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-97.469696,44.876459,-97.469696,44.876459],
+  "bbox": [
+    -97.469696,
+    44.876459,
+    -97.469696,
+    44.876459
+],
   "geometry": {"coordinates":[-97.469696,44.876459],"type":"Point"}
 }

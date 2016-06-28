@@ -2,13 +2,14 @@
   "id": 387694605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48661,45.465221,-98.48661,45.465221",
     "geom:latitude":45.465221,
     "geom:longitude":-98.48661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Railroad Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387694605,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1467082708,
     "wof:name":"Rohl Beverages Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "beverage"
     ]
 },
-  "bbox": [-98.48661,45.465221,-98.48661,45.465221],
+  "bbox": [
+    -98.48661,
+    45.465221,
+    -98.48661,
+    45.465221
+],
   "geometry": {"coordinates":[-98.48661,45.465221],"type":"Point"}
 }

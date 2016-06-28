@@ -2,13 +2,14 @@
   "id": 387442661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.937929,45.676399,-97.937929,45.676399",
     "geom:latitude":45.676399,
     "geom:longitude":-97.937929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11796 414th Ave",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387442661,
-    "wof:lastmodified":1449057779,
+    "wof:lastmodified":1467082720,
     "wof:name":"Newport Hutterian Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "community"
     ]
 },
-  "bbox": [-97.937929,45.676399,-97.937929,45.676399],
+  "bbox": [
+    -97.937929,
+    45.676399,
+    -97.937929,
+    45.676399
+],
   "geometry": {"coordinates":[-97.937929,45.676399],"type":"Point"}
 }

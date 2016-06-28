@@ -2,13 +2,14 @@
   "id": 403719069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798824,44.305487,-96.798824,44.305487",
     "geom:latitude":44.305487,
     "geom:longitude":-96.798824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403719069,
-    "wof:lastmodified":1449054795,
+    "wof:lastmodified":1467082676,
     "wof:name":"Computer One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.798824,44.305487,-96.798824,44.305487],
+  "bbox": [
+    -96.798824,
+    44.305487,
+    -96.798824,
+    44.305487
+],
   "geometry": {"coordinates":[-96.798824,44.305487],"type":"Point"}
 }

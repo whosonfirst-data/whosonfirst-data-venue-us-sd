@@ -2,13 +2,14 @@
   "id": 370987745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.965455,43.20029,-96.965455,43.20029",
     "geom:latitude":43.20029,
     "geom:longitude":-96.965455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46166 289th St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":370987745,
-    "wof:lastmodified":1449030966,
+    "wof:lastmodified":1467082657,
     "wof:name":"Chester Hult",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-96.965455,43.20029,-96.965455,43.20029],
-  "geometry": {"coordinates":[-96.965455,43.20029],"type":"Point"}
+  "bbox": [
+    -96.965455,
+    43.20029,
+    -96.965455,
+    43.20029
+],
+  "geometry": {"coordinates":[-96.96545500000001,43.20029],"type":"Point"}
 }

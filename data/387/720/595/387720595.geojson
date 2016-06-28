@@ -2,13 +2,14 @@
   "id": 387720595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.999572,44.714533,-99.999572,44.714533",
     "geom:latitude":44.714533,
     "geom:longitude":-99.999572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18430 308th Ave",
     "sg:city":"Onida",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387720595,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467082705,
     "wof:name":"Yackley Ranches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-99.999572,44.714533,-99.999572,44.714533],
+  "bbox": [
+    -99.999572,
+    44.714533,
+    -99.999572,
+    44.714533
+],
   "geometry": {"coordinates":[-99.999572,44.714533],"type":"Point"}
 }

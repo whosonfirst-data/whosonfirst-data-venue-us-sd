@@ -2,13 +2,14 @@
   "id": 387817681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483556,45.469653,-98.483556,45.469653",
     "geom:latitude":45.469653,
     "geom:longitude":-98.483556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 N Jay St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387817681,
-    "wof:lastmodified":1449059171,
+    "wof:lastmodified":1467082748,
     "wof:name":"Tree Gems Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-98.483556,45.469653,-98.483556,45.469653],
-  "geometry": {"coordinates":[-98.483556,45.469653],"type":"Point"}
+  "bbox": [
+    -98.483556,
+    45.469653,
+    -98.483556,
+    45.469653
+],
+  "geometry": {"coordinates":[-98.48355599999999,45.469653],"type":"Point"}
 }

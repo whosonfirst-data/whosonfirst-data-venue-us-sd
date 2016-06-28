@@ -2,13 +2,14 @@
   "id": 371072135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635876,45.218925,-96.635876,45.218925",
     "geom:latitude":45.218925,
     "geom:longitude":-96.635876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371072135,
-    "wof:lastmodified":1449049594,
+    "wof:lastmodified":1467082666,
     "wof:name":"Milbank City Police Hdqrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.635876,45.218925,-96.635876,45.218925],
+  "bbox": [
+    -96.635876,
+    45.218925,
+    -96.635876,
+    45.218925
+],
   "geometry": {"coordinates":[-96.635876,45.218925],"type":"Point"}
 }

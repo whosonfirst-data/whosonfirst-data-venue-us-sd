@@ -2,13 +2,14 @@
   "id": 387818831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.526698,44.339155,-96.526698,44.339155",
     "geom:latitude":44.339155,
     "geom:longitude":-96.526698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21008 484th Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387818831,
-    "wof:lastmodified":1449057948,
+    "wof:lastmodified":1467082724,
     "wof:name":"Koch Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.526698,44.339155,-96.526698,44.339155],
+  "bbox": [
+    -96.526698,
+    44.339155,
+    -96.526698,
+    44.339155
+],
   "geometry": {"coordinates":[-96.526698,44.339155],"type":"Point"}
 }

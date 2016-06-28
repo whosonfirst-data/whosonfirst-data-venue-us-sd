@@ -2,13 +2,14 @@
   "id": 387715021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.951595,45.679647,-98.951595,45.679647",
     "geom:latitude":45.679647,
     "geom:longitude":-98.951595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11722 362nd Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387715021,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1467082748,
     "wof:name":"Leland Berreth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-98.951595,45.679647,-98.951595,45.679647],
+  "bbox": [
+    -98.951595,
+    45.679647,
+    -98.951595,
+    45.679647
+],
   "geometry": {"coordinates":[-98.951595,45.679647],"type":"Point"}
 }

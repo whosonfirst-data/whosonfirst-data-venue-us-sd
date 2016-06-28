@@ -2,13 +2,14 @@
   "id": 387032131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.521185,44.400032,-103.521185,44.400032",
     "geom:latitude":44.400032,
     "geom:longitude":-103.521185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1913 Elk Rd",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387032131,
-    "wof:lastmodified":1449057967,
+    "wof:lastmodified":1467082724,
     "wof:name":"Hunt Ramona Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.521185,44.400032,-103.521185,44.400032],
+  "bbox": [
+    -103.521185,
+    44.400032,
+    -103.521185,
+    44.400032
+],
   "geometry": {"coordinates":[-103.521185,44.400032],"type":"Point"}
 }

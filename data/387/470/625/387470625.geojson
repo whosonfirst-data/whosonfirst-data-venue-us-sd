@@ -2,13 +2,14 @@
   "id": 387470625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716452,43.53466,-96.716452,43.53466",
     "geom:latitude":43.53466,
     "geom:longitude":-96.716452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 E 20th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387470625,
-    "wof:lastmodified":1449057024,
+    "wof:lastmodified":1467082705,
     "wof:name":"Triangle Properties LLP",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.716452,43.53466,-96.716452,43.53466],
+  "bbox": [
+    -96.716452,
+    43.53466,
+    -96.716452,
+    43.53466
+],
   "geometry": {"coordinates":[-96.716452,43.53466],"type":"Point"}
 }

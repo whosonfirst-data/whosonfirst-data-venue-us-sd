@@ -2,13 +2,14 @@
   "id": 403706555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.12622,44.125503,-103.12622,44.125503",
     "geom:latitude":44.125503,
     "geom:longitude":-103.12622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14645 Country Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403706555,
-    "wof:lastmodified":1449054732,
+    "wof:lastmodified":1467082675,
     "wof:name":"Star Storage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.12622,44.125503,-103.12622,44.125503],
+  "bbox": [
+    -103.12622,
+    44.125503,
+    -103.12622,
+    44.125503
+],
   "geometry": {"coordinates":[-103.12622,44.125503],"type":"Point"}
 }

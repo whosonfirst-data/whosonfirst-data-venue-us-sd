@@ -2,13 +2,14 @@
   "id": 387184699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7506,45.789181,-97.7506,45.789181",
     "geom:latitude":45.789181,
     "geom:longitude":-97.7506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Main Ave",
     "sg:city":"Britton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387184699,
-    "wof:lastmodified":1449056744,
+    "wof:lastmodified":1467082699,
     "wof:name":"Wurth Adams Nut & Bolt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-97.7506,45.789181,-97.7506,45.789181],
-  "geometry": {"coordinates":[-97.7506,45.789181],"type":"Point"}
+  "bbox": [
+    -97.7506,
+    45.789181,
+    -97.7506,
+    45.789181
+],
+  "geometry": {"coordinates":[-97.75060000000001,45.789181],"type":"Point"}
 }

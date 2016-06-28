@@ -2,13 +2,14 @@
   "id": 387666273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.572672,43.630937,-96.572672,43.630937",
     "geom:latitude":43.630937,
     "geom:longitude":-96.572672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48165 259th St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387666273,
-    "wof:lastmodified":1449057494,
+    "wof:lastmodified":1467082714,
     "wof:name":"Superturf Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.572672,43.630937,-96.572672,43.630937],
+  "bbox": [
+    -96.572672,
+    43.630937,
+    -96.572672,
+    43.630937
+],
   "geometry": {"coordinates":[-96.572672,43.630937],"type":"Point"}
 }

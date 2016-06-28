@@ -2,13 +2,14 @@
   "id": 387802703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.103295,45.454169,-98.103295,45.454169",
     "geom:latitude":45.454169,
     "geom:longitude":-98.103295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 E 9th Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387802703,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1467082749,
     "wof:name":"Teddy Bear Day Care",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.103295,45.454169,-98.103295,45.454169],
+  "bbox": [
+    -98.103295,
+    45.454169,
+    -98.103295,
+    45.454169
+],
   "geometry": {"coordinates":[-98.103295,45.454169],"type":"Point"}
 }

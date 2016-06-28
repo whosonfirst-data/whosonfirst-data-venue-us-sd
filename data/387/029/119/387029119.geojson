@@ -2,13 +2,14 @@
   "id": 387029119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.579398,44.457789,-98.579398,44.457789",
     "geom:latitude":44.457789,
     "geom:longitude":-98.579398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38217 US Hwy 14",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387029119,
-    "wof:lastmodified":1449057713,
+    "wof:lastmodified":1467082719,
     "wof:name":"Harold Larsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.579398,44.457789,-98.579398,44.457789],
+  "bbox": [
+    -98.579398,
+    44.457789,
+    -98.579398,
+    44.457789
+],
   "geometry": {"coordinates":[-98.579398,44.457789],"type":"Point"}
 }

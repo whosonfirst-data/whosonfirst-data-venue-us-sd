@@ -2,13 +2,14 @@
   "id": 387268061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191607,44.084604,-103.191607,44.084604",
     "geom:latitude":44.084604,
     "geom:longitude":-103.191607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387268061,
-    "wof:lastmodified":1449058272,
+    "wof:lastmodified":1467082730,
     "wof:name":"Black Hills Auto Sales",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.191607,44.084604,-103.191607,44.084604],
+  "bbox": [
+    -103.191607,
+    44.084604,
+    -103.191607,
+    44.084604
+],
   "geometry": {"coordinates":[-103.191607,44.084604],"type":"Point"}
 }

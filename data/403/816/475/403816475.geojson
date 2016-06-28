@@ -2,13 +2,14 @@
   "id": 403816475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.642656,45.645189,-102.642656,45.645189",
     "geom:latitude":45.645189,
     "geom:longitude":-102.642656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12696 State Hwy 75",
     "sg:city":"Lodgepole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403816475,
-    "wof:lastmodified":1449055415,
+    "wof:lastmodified":1467082681,
     "wof:name":"John M Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.642656,45.645189,-102.642656,45.645189],
+  "bbox": [
+    -102.642656,
+    45.645189,
+    -102.642656,
+    45.645189
+],
   "geometry": {"coordinates":[-102.642656,45.645189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387542985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.904768,44.578757,-96.904768,44.578757",
     "geom:latitude":44.578757,
     "geom:longitude":-96.904768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Fjerstad Ave",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387542985,
-    "wof:lastmodified":1449059058,
+    "wof:lastmodified":1467082746,
     "wof:name":"Estelline Nursing Hm/Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.904768,44.578757,-96.904768,44.578757],
+  "bbox": [
+    -96.904768,
+    44.578757,
+    -96.904768,
+    44.578757
+],
   "geometry": {"coordinates":[-96.904768,44.578757],"type":"Point"}
 }

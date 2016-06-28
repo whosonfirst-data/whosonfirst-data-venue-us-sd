@@ -2,13 +2,14 @@
   "id": 387922765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.999902,45.793108,-97.999902,45.793108",
     "geom:latitude":45.793108,
     "geom:longitude":-97.999902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10989 411th Ave",
     "sg:city":"Amherst",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387922765,
-    "wof:lastmodified":1449056452,
+    "wof:lastmodified":1467082693,
     "wof:name":"Olson Kervin",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-97.999902,45.793108,-97.999902,45.793108],
-  "geometry": {"coordinates":[-97.999902,45.793108],"type":"Point"}
+  "bbox": [
+    -97.999902,
+    45.793108,
+    -97.999902,
+    45.793108
+],
+  "geometry": {"coordinates":[-97.99990200000001,45.793108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387527397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186494,44.073867,-103.186494,44.073867",
     "geom:latitude":44.073867,
     "geom:longitude":-103.186494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Creek Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387527397,
-    "wof:lastmodified":1449059129,
+    "wof:lastmodified":1467082747,
     "wof:name":"Bice Drilling Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.186494,44.073867,-103.186494,44.073867],
+  "bbox": [
+    -103.186494,
+    44.073867,
+    -103.186494,
+    44.073867
+],
   "geometry": {"coordinates":[-103.186494,44.073867],"type":"Point"}
 }

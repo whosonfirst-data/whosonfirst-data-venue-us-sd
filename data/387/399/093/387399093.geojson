@@ -2,13 +2,14 @@
   "id": 387399093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798473,44.292379,-96.798473,44.292379",
     "geom:latitude":44.292379,
     "geom:longitude":-96.798473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387399093,
-    "wof:lastmodified":1449056769,
+    "wof:lastmodified":1467082700,
     "wof:name":"Brookings Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "animal"
     ]
 },
-  "bbox": [-96.798473,44.292379,-96.798473,44.292379],
+  "bbox": [
+    -96.798473,
+    44.292379,
+    -96.798473,
+    44.292379
+],
   "geometry": {"coordinates":[-96.798473,44.292379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387704065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470923,44.459415,-97.470923,44.459415",
     "geom:latitude":44.459415,
     "geom:longitude":-97.470923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20172 437th Ave",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387704065,
-    "wof:lastmodified":1449057096,
+    "wof:lastmodified":1467082706,
     "wof:name":"Sonjas DRG & Alcohol Tstg Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.470923,44.459415,-97.470923,44.459415],
+  "bbox": [
+    -97.470923,
+    44.459415,
+    -97.470923,
+    44.459415
+],
   "geometry": {"coordinates":[-97.470923,44.459415],"type":"Point"}
 }

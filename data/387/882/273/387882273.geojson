@@ -2,13 +2,14 @@
   "id": 387882273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.293505,43.082636,-98.293505,43.082636",
     "geom:latitude":43.082636,
     "geom:longitude":-98.293505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main Ave N",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387882273,
-    "wof:lastmodified":1449056781,
+    "wof:lastmodified":1467082700,
     "wof:name":"Bures-Kronaizl Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.293505,43.082636,-98.293505,43.082636],
+  "bbox": [
+    -98.293505,
+    43.082636,
+    -98.293505,
+    43.082636
+],
   "geometry": {"coordinates":[-98.293505,43.082636],"type":"Point"}
 }

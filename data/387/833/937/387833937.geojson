@@ -2,13 +2,14 @@
   "id": 387833937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.001256,43.728371,-98.001256,43.728371",
     "geom:latitude":43.728371,
     "geom:longitude":-98.001256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Westview Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387833937,
-    "wof:lastmodified":1449056592,
+    "wof:lastmodified":1467082696,
     "wof:name":"National Assoc Hlth Unt Coord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.001256,43.728371,-98.001256,43.728371],
+  "bbox": [
+    -98.001256,
+    43.728371,
+    -98.001256,
+    43.728371
+],
   "geometry": {"coordinates":[-98.001256,43.728371],"type":"Point"}
 }

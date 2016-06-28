@@ -2,13 +2,14 @@
   "id": 387712417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716315,43.529298,-96.716315,43.529298",
     "geom:latitude":43.529298,
     "geom:longitude":-96.716315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387712417,
-    "wof:lastmodified":1449057738,
+    "wof:lastmodified":1467082719,
     "wof:name":"Home Away From Home Child Care",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.716315,43.529298,-96.716315,43.529298],
-  "geometry": {"coordinates":[-96.716315,43.529298],"type":"Point"}
+  "bbox": [
+    -96.716315,
+    43.529298,
+    -96.716315,
+    43.529298
+],
+  "geometry": {"coordinates":[-96.71631499999999,43.529298],"type":"Point"}
 }

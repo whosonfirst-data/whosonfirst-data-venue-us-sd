@@ -2,13 +2,14 @@
   "id": 387000455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207679,44.087649,-103.207679,44.087649",
     "geom:latitude":44.087649,
     "geom:longitude":-103.207679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387000455,
-    "wof:lastmodified":1449056715,
+    "wof:lastmodified":1467082699,
     "wof:name":"Ranch House Motel",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.207679,44.087649,-103.207679,44.087649],
+  "bbox": [
+    -103.207679,
+    44.087649,
+    -103.207679,
+    44.087649
+],
   "geometry": {"coordinates":[-103.207679,44.087649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387843889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.106304,43.794859,-98.106304,43.794859",
     "geom:latitude":43.794859,
     "geom:longitude":-98.106304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40506 Lewis St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387843889,
-    "wof:lastmodified":1449056441,
+    "wof:lastmodified":1467082693,
     "wof:name":"Loomis Construction & Bldg Sup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.106304,43.794859,-98.106304,43.794859],
-  "geometry": {"coordinates":[-98.106304,43.794859],"type":"Point"}
+  "bbox": [
+    -98.106304,
+    43.794859,
+    -98.106304,
+    43.794859
+],
+  "geometry": {"coordinates":[-98.10630399999999,43.794859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387207233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767732,43.57028,-96.767732,43.57028",
     "geom:latitude":43.57028,
     "geom:longitude":-96.767732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387207233,
-    "wof:lastmodified":1449058772,
+    "wof:lastmodified":1467082740,
     "wof:name":"Tex Dust Service Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "toiletry"
     ]
 },
-  "bbox": [-96.767732,43.57028,-96.767732,43.57028],
+  "bbox": [
+    -96.767732,
+    43.57028,
+    -96.767732,
+    43.57028
+],
   "geometry": {"coordinates":[-96.767732,43.57028],"type":"Point"}
 }

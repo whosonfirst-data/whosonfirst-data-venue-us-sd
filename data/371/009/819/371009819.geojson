@@ -2,13 +2,14 @@
   "id": 371009819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808149,43.655954,-96.808149,43.655954",
     "geom:latitude":43.655954,
     "geom:longitude":-96.808149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 8th St",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371009819,
-    "wof:lastmodified":1449050119,
+    "wof:lastmodified":1467082673,
     "wof:name":"C & D Amusement",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-96.808149,43.655954,-96.808149,43.655954],
+  "bbox": [
+    -96.808149,
+    43.655954,
+    -96.808149,
+    43.655954
+],
   "geometry": {"coordinates":[-96.808149,43.655954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387630163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221195,44.056439,-103.221195,44.056439",
     "geom:latitude":44.056439,
     "geom:longitude":-103.221195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Wisconsin Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387630163,
-    "wof:lastmodified":1449057460,
+    "wof:lastmodified":1467082714,
     "wof:name":"Dear One's Daycare & Preschool",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.221195,44.056439,-103.221195,44.056439],
-  "geometry": {"coordinates":[-103.221195,44.056439],"type":"Point"}
+  "bbox": [
+    -103.221195,
+    44.056439,
+    -103.221195,
+    44.056439
+],
+  "geometry": {"coordinates":[-103.22119499999999,44.056439],"type":"Point"}
 }

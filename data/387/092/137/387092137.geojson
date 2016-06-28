@@ -2,13 +2,14 @@
   "id": 387092137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.861672,43.368152,-99.861672,43.368152",
     "geom:latitude":43.368152,
     "geom:longitude":-99.861672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Hillside Dr",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387092137,
-    "wof:lastmodified":1449059209,
+    "wof:lastmodified":1467082749,
     "wof:name":"Nancy Behr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nurse"
     ]
 },
-  "bbox": [-99.861672,43.368152,-99.861672,43.368152],
+  "bbox": [
+    -99.861672,
+    43.368152,
+    -99.861672,
+    43.368152
+],
   "geometry": {"coordinates":[-99.861672,43.368152],"type":"Point"}
 }

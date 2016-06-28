@@ -2,13 +2,14 @@
   "id": 387263463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04808,43.834263,-97.04808,43.834263",
     "geom:latitude":43.834263,
     "geom:longitude":-97.04808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45808 245th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387263463,
-    "wof:lastmodified":1449059806,
+    "wof:lastmodified":1467082761,
     "wof:name":"Virgil Schaefer",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.04808,43.834263,-97.04808,43.834263],
+  "bbox": [
+    -97.04808,
+    43.834263,
+    -97.04808,
+    43.834263
+],
   "geometry": {"coordinates":[-97.04808,43.834263],"type":"Point"}
 }

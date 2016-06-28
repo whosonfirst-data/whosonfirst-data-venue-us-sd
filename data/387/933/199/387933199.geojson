@@ -2,13 +2,14 @@
   "id": 387933199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486885,43.710445,-98.486885,43.710445",
     "geom:latitude":43.710445,
     "geom:longitude":-98.486885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Davenport St",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387933199,
-    "wof:lastmodified":1449056882,
+    "wof:lastmodified":1467082702,
     "wof:name":"Aurora County Glass Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-98.486885,43.710445,-98.486885,43.710445],
+  "bbox": [
+    -98.486885,
+    43.710445,
+    -98.486885,
+    43.710445
+],
   "geometry": {"coordinates":[-98.486885,43.710445],"type":"Point"}
 }

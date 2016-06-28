@@ -2,13 +2,14 @@
   "id": 387785553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.031726,43.687409,-98.031726,43.687409",
     "geom:latitude":43.687409,
     "geom:longitude":-98.031726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Spruce St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387785553,
-    "wof:lastmodified":1449059270,
+    "wof:lastmodified":1467082750,
     "wof:name":"Slectro Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-98.031726,43.687409,-98.031726,43.687409],
-  "geometry": {"coordinates":[-98.031726,43.687409],"type":"Point"}
+  "bbox": [
+    -98.031726,
+    43.687409,
+    -98.031726,
+    43.687409
+],
+  "geometry": {"coordinates":[-98.03172600000001,43.687409],"type":"Point"}
 }

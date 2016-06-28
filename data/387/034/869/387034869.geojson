@@ -2,13 +2,14 @@
   "id": 387034869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.854908,43.376627,-99.854908,43.376627",
     "geom:latitude":43.376627,
     "geom:longitude":-99.854908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387034869,
-    "wof:lastmodified":1449056536,
+    "wof:lastmodified":1467082695,
     "wof:name":"Kooch's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.854908,43.376627,-99.854908,43.376627],
-  "geometry": {"coordinates":[-99.854908,43.376627],"type":"Point"}
+  "bbox": [
+    -99.854908,
+    43.376627,
+    -99.854908,
+    43.376627
+],
+  "geometry": {"coordinates":[-99.85490799999999,43.376627],"type":"Point"}
 }

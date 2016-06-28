@@ -2,13 +2,14 @@
   "id": 387826547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.335468,44.365351,-100.335468,44.365351",
     "geom:latitude":44.365351,
     "geom:longitude":-100.335468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 E Cabot St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387826547,
-    "wof:lastmodified":1449058872,
+    "wof:lastmodified":1467082742,
     "wof:name":"Larson Janitorial Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-100.335468,44.365351,-100.335468,44.365351],
-  "geometry": {"coordinates":[-100.335468,44.365351],"type":"Point"}
+  "bbox": [
+    -100.335468,
+    44.365351,
+    -100.335468,
+    44.365351
+],
+  "geometry": {"coordinates":[-100.33546800000001,44.365351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387346915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.729074,44.375539,-103.729074,44.375539",
     "geom:latitude":44.375539,
     "geom:longitude":-103.729074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Sherman St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387346915,
-    "wof:lastmodified":1449056093,
+    "wof:lastmodified":1467082686,
     "wof:name":"Lawrence County Register-Deeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.729074,44.375539,-103.729074,44.375539],
+  "bbox": [
+    -103.729074,
+    44.375539,
+    -103.729074,
+    44.375539
+],
   "geometry": {"coordinates":[-103.729074,44.375539],"type":"Point"}
 }

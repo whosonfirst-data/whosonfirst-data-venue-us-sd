@@ -2,13 +2,14 @@
   "id": 387763681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.159058,44.183959,-98.159058,44.183959",
     "geom:latitude":44.183959,
     "geom:longitude":-98.159058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40264 221st St",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387763681,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1467082763,
     "wof:name":"Craig Brueske Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.159058,44.183959,-98.159058,44.183959],
+  "bbox": [
+    -98.159058,
+    44.183959,
+    -98.159058,
+    44.183959
+],
   "geometry": {"coordinates":[-98.159058,44.183959],"type":"Point"}
 }

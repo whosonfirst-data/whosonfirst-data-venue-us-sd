@@ -2,13 +2,14 @@
   "id": 387177325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.952166,43.11873,-96.952166,43.11873",
     "geom:latitude":43.11873,
     "geom:longitude":-96.952166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Dennis Dr",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387177325,
-    "wof:lastmodified":1449059920,
+    "wof:lastmodified":1467082763,
     "wof:name":"Sp Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-96.952166,43.11873,-96.952166,43.11873],
-  "geometry": {"coordinates":[-96.952166,43.11873],"type":"Point"}
+  "bbox": [
+    -96.952166,
+    43.11873,
+    -96.952166,
+    43.11873
+],
+  "geometry": {"coordinates":[-96.95216600000001,43.11873],"type":"Point"}
 }

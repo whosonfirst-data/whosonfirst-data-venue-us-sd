@@ -2,13 +2,14 @@
   "id": 371135677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728247,43.550824,-96.728247,43.550824",
     "geom:latitude":43.550824,
     "geom:longitude":-96.728247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371135677,
-    "wof:lastmodified":1449049421,
+    "wof:lastmodified":1467082663,
     "wof:name":"Mc Gowan Law Office",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.728247,43.550824,-96.728247,43.550824],
+  "bbox": [
+    -96.728247,
+    43.550824,
+    -96.728247,
+    43.550824
+],
   "geometry": {"coordinates":[-96.728247,43.550824],"type":"Point"}
 }

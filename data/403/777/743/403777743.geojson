@@ -2,13 +2,14 @@
   "id": 403777743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.845959,43.384219,-98.845959,43.384219",
     "geom:latitude":43.384219,
     "geom:longitude":-98.845959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 W 7th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403777743,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1467082680,
     "wof:name":"Randy's Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.845959,43.384219,-98.845959,43.384219],
-  "geometry": {"coordinates":[-98.845959,43.384219],"type":"Point"}
+  "bbox": [
+    -98.845959,
+    43.384219,
+    -98.845959,
+    43.384219
+],
+  "geometry": {"coordinates":[-98.84595899999999,43.384219],"type":"Point"}
 }

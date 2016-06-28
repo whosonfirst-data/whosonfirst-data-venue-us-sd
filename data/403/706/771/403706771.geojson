@@ -2,13 +2,14 @@
   "id": 403706771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.232803,44.345383,-98.232803,44.345383",
     "geom:latitude":44.345383,
     "geom:longitude":-98.232803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 18th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403706771,
-    "wof:lastmodified":1449054730,
+    "wof:lastmodified":1467082675,
     "wof:name":"Christopher & Banks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.232803,44.345383,-98.232803,44.345383],
+  "bbox": [
+    -98.232803,
+    44.345383,
+    -98.232803,
+    44.345383
+],
   "geometry": {"coordinates":[-98.232803,44.345383],"type":"Point"}
 }

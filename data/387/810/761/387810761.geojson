@@ -2,13 +2,14 @@
   "id": 387810761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.301604,44.219641,-103.301604,44.219641",
     "geom:latitude":44.219641,
     "geom:longitude":-103.301604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14646 Canyon Trl",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387810761,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1467082708,
     "wof:name":"North Central Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "whole"
     ]
 },
-  "bbox": [-103.301604,44.219641,-103.301604,44.219641],
+  "bbox": [
+    -103.301604,
+    44.219641,
+    -103.301604,
+    44.219641
+],
   "geometry": {"coordinates":[-103.301604,44.219641],"type":"Point"}
 }

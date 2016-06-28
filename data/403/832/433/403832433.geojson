@@ -2,13 +2,14 @@
   "id": 403832433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72827,43.55487,-96.72827,43.55487",
     "geom:latitude":43.55487,
     "geom:longitude":-96.72827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403832433,
-    "wof:lastmodified":1449054629,
+    "wof:lastmodified":1467082674,
     "wof:name":"Furniture Discounters",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mattress"
     ]
 },
-  "bbox": [-96.72827,43.55487,-96.72827,43.55487],
-  "geometry": {"coordinates":[-96.72827,43.55487],"type":"Point"}
+  "bbox": [
+    -96.72827,
+    43.55487,
+    -96.72827,
+    43.55487
+],
+  "geometry": {"coordinates":[-96.72826999999999,43.55487],"type":"Point"}
 }

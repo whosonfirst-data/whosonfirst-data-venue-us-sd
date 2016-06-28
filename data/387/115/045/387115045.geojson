@@ -2,13 +2,14 @@
   "id": 387115045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.272361,43.851534,-98.272361,43.851534",
     "geom:latitude":43.851534,
     "geom:longitude":-98.272361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39674 244th St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387115045,
-    "wof:lastmodified":1449056088,
+    "wof:lastmodified":1467082686,
     "wof:name":"Brian Sonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.272361,43.851534,-98.272361,43.851534],
+  "bbox": [
+    -98.272361,
+    43.851534,
+    -98.272361,
+    43.851534
+],
   "geometry": {"coordinates":[-98.272361,43.851534],"type":"Point"}
 }

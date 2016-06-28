@@ -2,13 +2,14 @@
   "id": 387163123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.32313,44.153099,-103.32313,44.153099",
     "geom:latitude":44.153099,
     "geom:longitude":-103.32313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7200 Wedgewood Dr",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387163123,
-    "wof:lastmodified":1449059835,
+    "wof:lastmodified":1467082761,
     "wof:name":"Tims Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-103.32313,44.153099,-103.32313,44.153099],
-  "geometry": {"coordinates":[-103.32313,44.153099],"type":"Point"}
+  "bbox": [
+    -103.32313,
+    44.153099,
+    -103.32313,
+    44.153099
+],
+  "geometry": {"coordinates":[-103.32313000000001,44.153099],"type":"Point"}
 }

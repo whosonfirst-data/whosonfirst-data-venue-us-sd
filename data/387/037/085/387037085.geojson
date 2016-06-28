@@ -2,13 +2,14 @@
   "id": 387037085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768911,43.645583,-96.768911,43.645583",
     "geom:latitude":43.645583,
     "geom:longitude":-96.768911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25773 472nd Ave",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387037085,
-    "wof:lastmodified":1449059987,
+    "wof:lastmodified":1467082765,
     "wof:name":"Dakota Tree Nursery",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-96.768911,43.645583,-96.768911,43.645583],
+  "bbox": [
+    -96.768911,
+    43.645583,
+    -96.768911,
+    43.645583
+],
   "geometry": {"coordinates":[-96.768911,43.645583],"type":"Point"}
 }

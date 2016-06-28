@@ -2,13 +2,14 @@
   "id": 386946717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.477747,44.236263,-96.477747,44.236263",
     "geom:latitude":44.236263,
     "geom:longitude":-96.477747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Badger St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386946717,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1467082655,
     "wof:name":"Twin City Fan & Blower Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fan"
     ]
 },
-  "bbox": [-96.477747,44.236263,-96.477747,44.236263],
-  "geometry": {"coordinates":[-96.477747,44.236263],"type":"Point"}
+  "bbox": [
+    -96.477747,
+    44.236263,
+    -96.477747,
+    44.236263
+],
+  "geometry": {"coordinates":[-96.47774699999999,44.236263],"type":"Point"}
 }

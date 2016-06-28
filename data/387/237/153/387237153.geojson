@@ -2,13 +2,14 @@
   "id": 387237153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.104671,43.546352,-98.104671,43.546352",
     "geom:latitude":43.546352,
     "geom:longitude":-98.104671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26471 405th Ave",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387237153,
-    "wof:lastmodified":1449056213,
+    "wof:lastmodified":1467082689,
     "wof:name":"Wilber Hohn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.104671,43.546352,-98.104671,43.546352],
+  "bbox": [
+    -98.104671,
+    43.546352,
+    -98.104671,
+    43.546352
+],
   "geometry": {"coordinates":[-98.104671,43.546352],"type":"Point"}
 }

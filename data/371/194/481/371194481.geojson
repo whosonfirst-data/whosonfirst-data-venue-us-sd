@@ -2,13 +2,14 @@
   "id": 371194481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.963884,45.010024,-99.963884,45.010024",
     "geom:latitude":45.010024,
     "geom:longitude":-99.963884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Hilltop Dr",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371194481,
-    "wof:lastmodified":1449049982,
+    "wof:lastmodified":1467082671,
     "wof:name":"Alvin Heier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.963884,45.010024,-99.963884,45.010024],
-  "geometry": {"coordinates":[-99.963884,45.010024],"type":"Point"}
+  "bbox": [
+    -99.963884,
+    45.010024,
+    -99.963884,
+    45.010024
+],
+  "geometry": {"coordinates":[-99.96388399999999,45.010024],"type":"Point"}
 }

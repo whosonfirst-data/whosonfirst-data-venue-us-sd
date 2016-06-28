@@ -2,13 +2,14 @@
   "id": 386950935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.82834,45.720251,-98.82834,45.720251",
     "geom:latitude":45.720251,
     "geom:longitude":-98.82834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11535 368th Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386950935,
-    "wof:lastmodified":1449028753,
+    "wof:lastmodified":1467082651,
     "wof:name":"Myron Fauth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.82834,45.720251,-98.82834,45.720251],
+  "bbox": [
+    -98.82834,
+    45.720251,
+    -98.82834,
+    45.720251
+],
   "geometry": {"coordinates":[-98.82834,45.720251],"type":"Point"}
 }

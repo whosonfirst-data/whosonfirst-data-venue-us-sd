@@ -2,13 +2,14 @@
   "id": 387491123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.040581,44.244447,-97.040581,44.244447",
     "geom:latitude":44.244447,
     "geom:longitude":-97.040581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 Main Ave",
     "sg:city":"Sinai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387491123,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1467082686,
     "wof:name":"Sinai Cooperative Elevator Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-97.040581,44.244447,-97.040581,44.244447],
+  "bbox": [
+    -97.040581,
+    44.244447,
+    -97.040581,
+    44.244447
+],
   "geometry": {"coordinates":[-97.040581,44.244447],"type":"Point"}
 }

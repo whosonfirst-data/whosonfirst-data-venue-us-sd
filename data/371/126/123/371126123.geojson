@@ -2,13 +2,14 @@
   "id": 371126123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.497262,45.689263,-98.497262,45.689263",
     "geom:latitude":45.689263,
     "geom:longitude":-98.497262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11715 387th Ave",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371126123,
-    "wof:lastmodified":1449049402,
+    "wof:lastmodified":1467082663,
     "wof:name":"Troy Engelhart",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.497262,45.689263,-98.497262,45.689263],
-  "geometry": {"coordinates":[-98.497262,45.689263],"type":"Point"}
+  "bbox": [
+    -98.497262,
+    45.689263,
+    -98.497262,
+    45.689263
+],
+  "geometry": {"coordinates":[-98.49726200000001,45.689263],"type":"Point"}
 }

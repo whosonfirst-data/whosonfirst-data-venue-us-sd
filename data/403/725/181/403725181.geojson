@@ -2,13 +2,14 @@
   "id": 403725181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.219764,43.486457,-97.219764,43.486457",
     "geom:latitude":43.486457,
     "geom:longitude":-97.219764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 W Maple St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403725181,
-    "wof:lastmodified":1449054972,
+    "wof:lastmodified":1467082677,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.219764,43.486457,-97.219764,43.486457],
+  "bbox": [
+    -97.219764,
+    43.486457,
+    -97.219764,
+    43.486457
+],
   "geometry": {"coordinates":[-97.219764,43.486457],"type":"Point"}
 }

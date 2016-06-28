@@ -2,13 +2,14 @@
   "id": 403816493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75154,45.343576,-97.75154,45.343576",
     "geom:latitude":45.343576,
     "geom:longitude":-97.75154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 2nd St S",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403816493,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1467082681,
     "wof:name":"Sun Dial Manor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.75154,45.343576,-97.75154,45.343576],
-  "geometry": {"coordinates":[-97.75154,45.343576],"type":"Point"}
+  "bbox": [
+    -97.75154,
+    45.343576,
+    -97.75154,
+    45.343576
+],
+  "geometry": {"coordinates":[-97.75154000000001,45.343576],"type":"Point"}
 }

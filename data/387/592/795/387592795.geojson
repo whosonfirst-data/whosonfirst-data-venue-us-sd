@@ -2,13 +2,14 @@
   "id": 387592795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.706524,45.114222,-98.706524,45.114222",
     "geom:latitude":45.114222,
     "geom:longitude":-98.706524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37359 157th St",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387592795,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1467082731,
     "wof:name":"Daryls Engine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.706524,45.114222,-98.706524,45.114222],
+  "bbox": [
+    -98.706524,
+    45.114222,
+    -98.706524,
+    45.114222
+],
   "geometry": {"coordinates":[-98.706524,45.114222],"type":"Point"}
 }

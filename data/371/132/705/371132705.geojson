@@ -2,13 +2,14 @@
   "id": 371132705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.282952,44.876612,-97.282952,44.876612",
     "geom:latitude":44.876612,
     "geom:longitude":-97.282952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44628 173rd St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371132705,
-    "wof:lastmodified":1449049523,
+    "wof:lastmodified":1467082665,
     "wof:name":"JW Tack Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.282952,44.876612,-97.282952,44.876612],
-  "geometry": {"coordinates":[-97.282952,44.876612],"type":"Point"}
+  "bbox": [
+    -97.282952,
+    44.876612,
+    -97.282952,
+    44.876612
+],
+  "geometry": {"coordinates":[-97.28295199999999,44.876612],"type":"Point"}
 }

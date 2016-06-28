@@ -2,13 +2,14 @@
   "id": 387167695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.22724,44.078958,-103.22724,44.078958",
     "geom:latitude":44.078958,
     "geom:longitude":-103.22724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387167695,
-    "wof:lastmodified":1449058084,
+    "wof:lastmodified":1467082727,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.22724,44.078958,-103.22724,44.078958],
-  "geometry": {"coordinates":[-103.22724,44.078958],"type":"Point"}
+  "bbox": [
+    -103.22724,
+    44.078958,
+    -103.22724,
+    44.078958
+],
+  "geometry": {"coordinates":[-103.22723999999999,44.078958],"type":"Point"}
 }

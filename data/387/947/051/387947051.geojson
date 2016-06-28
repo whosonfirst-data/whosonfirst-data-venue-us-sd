@@ -2,13 +2,14 @@
   "id": 387947051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.033936,43.703623,-98.033936,43.703623",
     "geom:latitude":43.703623,
     "geom:longitude":-98.033936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 W Elm St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387947051,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1467082742,
     "wof:name":"Prickett Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.033936,43.703623,-98.033936,43.703623],
+  "bbox": [
+    -98.033936,
+    43.703623,
+    -98.033936,
+    43.703623
+],
   "geometry": {"coordinates":[-98.033936,43.703623],"type":"Point"}
 }

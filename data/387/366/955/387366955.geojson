@@ -2,13 +2,14 @@
   "id": 387366955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.881031,45.201448,-98.881031,45.201448",
     "geom:latitude":45.201448,
     "geom:longitude":-98.881031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36414 151st St",
     "sg:city":"Cresbard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387366955,
-    "wof:lastmodified":1449058886,
+    "wof:lastmodified":1467082742,
     "wof:name":"Holsing Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-98.881031,45.201448,-98.881031,45.201448],
-  "geometry": {"coordinates":[-98.881031,45.201448],"type":"Point"}
+  "bbox": [
+    -98.881031,
+    45.201448,
+    -98.881031,
+    45.201448
+],
+  "geometry": {"coordinates":[-98.88103099999999,45.201448],"type":"Point"}
 }

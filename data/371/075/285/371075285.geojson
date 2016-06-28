@@ -2,13 +2,14 @@
   "id": 371075285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689104,43.511295,-96.689104,43.511295",
     "geom:latitude":43.511295,
     "geom:longitude":-96.689104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3642 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371075285,
-    "wof:lastmodified":1449049620,
+    "wof:lastmodified":1467082666,
     "wof:name":"Trisha Burbach Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.689104,43.511295,-96.689104,43.511295],
+  "bbox": [
+    -96.689104,
+    43.511295,
+    -96.689104,
+    43.511295
+],
   "geometry": {"coordinates":[-96.689104,43.511295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371052229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795429,44.285365,-96.795429,44.285365",
     "geom:latitude":44.285365,
     "geom:longitude":-96.795429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Hunters Ridge Rd",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371052229,
-    "wof:lastmodified":1449049476,
+    "wof:lastmodified":1467082664,
     "wof:name":"Smith Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.795429,44.285365,-96.795429,44.285365],
+  "bbox": [
+    -96.795429,
+    44.285365,
+    -96.795429,
+    44.285365
+],
   "geometry": {"coordinates":[-96.795429,44.285365],"type":"Point"}
 }

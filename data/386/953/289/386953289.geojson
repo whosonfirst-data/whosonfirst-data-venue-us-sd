@@ -2,13 +2,14 @@
   "id": 386953289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.440084,44.51911,-99.440084,44.51911",
     "geom:latitude":44.51911,
     "geom:longitude":-99.440084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Commercial Ave SE",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386953289,
-    "wof:lastmodified":1449028835,
+    "wof:lastmodified":1467082653,
     "wof:name":"Venture Communications Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-99.440084,44.51911,-99.440084,44.51911],
+  "bbox": [
+    -99.440084,
+    44.51911,
+    -99.440084,
+    44.51911
+],
   "geometry": {"coordinates":[-99.440084,44.51911],"type":"Point"}
 }

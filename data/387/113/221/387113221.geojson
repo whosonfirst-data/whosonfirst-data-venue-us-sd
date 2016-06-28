@@ -2,13 +2,14 @@
   "id": 387113221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74714,43.56757,-96.74714,43.56757",
     "geom:latitude":43.56757,
     "geom:longitude":-96.74714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 N Industrial Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387113221,
-    "wof:lastmodified":1449059598,
+    "wof:lastmodified":1467082757,
     "wof:name":"Variety Foods Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.74714,43.56757,-96.74714,43.56757],
+  "bbox": [
+    -96.74714,
+    43.56757,
+    -96.74714,
+    43.56757
+],
   "geometry": {"coordinates":[-96.74714,43.56757],"type":"Point"}
 }

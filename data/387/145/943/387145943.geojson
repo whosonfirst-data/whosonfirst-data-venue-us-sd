@@ -2,13 +2,14 @@
   "id": 387145943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988605,44.524756,-98.988605,44.524756",
     "geom:latitude":44.524756,
     "geom:longitude":-98.988605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387145943,
-    "wof:lastmodified":1449057256,
+    "wof:lastmodified":1467082709,
     "wof:name":"Thiels Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.988605,44.524756,-98.988605,44.524756],
-  "geometry": {"coordinates":[-98.988605,44.524756],"type":"Point"}
+  "bbox": [
+    -98.988605,
+    44.524756,
+    -98.988605,
+    44.524756
+],
+  "geometry": {"coordinates":[-98.98860500000001,44.524756],"type":"Point"}
 }

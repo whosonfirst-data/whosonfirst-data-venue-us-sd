@@ -2,13 +2,14 @@
   "id": 370984513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767269,44.315321,-96.767269,44.315321",
     "geom:latitude":44.315321,
     "geom:longitude":-96.767269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 9th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370984513,
-    "wof:lastmodified":1449030988,
+    "wof:lastmodified":1467082657,
     "wof:name":"Campus View",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.767269,44.315321,-96.767269,44.315321],
+  "bbox": [
+    -96.767269,
+    44.315321,
+    -96.767269,
+    44.315321
+],
   "geometry": {"coordinates":[-96.767269,44.315321],"type":"Point"}
 }

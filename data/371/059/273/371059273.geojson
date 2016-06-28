@@ -2,13 +2,14 @@
   "id": 371059273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.445328,45.544409,-100.445328,45.544409",
     "geom:latitude":45.544409,
     "geom:longitude":-100.445328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 8th Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371059273,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467082661,
     "wof:name":"Sips Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-100.445328,45.544409,-100.445328,45.544409],
+  "bbox": [
+    -100.445328,
+    45.544409,
+    -100.445328,
+    45.544409
+],
   "geometry": {"coordinates":[-100.445328,45.544409],"type":"Point"}
 }

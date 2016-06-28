@@ -2,13 +2,14 @@
   "id": 387762023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.017045,43.708467,-98.017045,43.708467",
     "geom:latitude":43.708467,
     "geom:longitude":-98.017045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Hanson St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387762023,
-    "wof:lastmodified":1449058796,
+    "wof:lastmodified":1467082741,
     "wof:name":"Roger's Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.017045,43.708467,-98.017045,43.708467],
+  "bbox": [
+    -98.017045,
+    43.708467,
+    -98.017045,
+    43.708467
+],
   "geometry": {"coordinates":[-98.017045,43.708467],"type":"Point"}
 }

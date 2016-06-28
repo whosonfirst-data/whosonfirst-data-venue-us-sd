@@ -2,13 +2,14 @@
   "id": 387867217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.225477,43.756201,-98.225477,43.756201",
     "geom:latitude":43.756201,
     "geom:longitude":-98.225477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25028 399th Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387867217,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1467082720,
     "wof:name":"Deb's Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.225477,43.756201,-98.225477,43.756201],
+  "bbox": [
+    -98.225477,
+    43.756201,
+    -98.225477,
+    43.756201
+],
   "geometry": {"coordinates":[-98.225477,43.756201],"type":"Point"}
 }

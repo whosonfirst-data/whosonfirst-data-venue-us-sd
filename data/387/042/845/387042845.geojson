@@ -2,13 +2,14 @@
   "id": 387042845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785915,42.880057,-96.785915,42.880057",
     "geom:latitude":42.880057,
     "geom:longitude":-96.785915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31101 471st Ave",
     "sg:city":"Burbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387042845,
-    "wof:lastmodified":1449058994,
+    "wof:lastmodified":1467082745,
     "wof:name":"Art Press Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "printing"
     ]
 },
-  "bbox": [-96.785915,42.880057,-96.785915,42.880057],
+  "bbox": [
+    -96.785915,
+    42.880057,
+    -96.785915,
+    42.880057
+],
   "geometry": {"coordinates":[-96.785915,42.880057],"type":"Point"}
 }

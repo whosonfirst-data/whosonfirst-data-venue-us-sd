@@ -2,13 +2,14 @@
   "id": 371002209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742069,45.186038,-96.742069,45.186038",
     "geom:latitude":45.186038,
     "geom:longitude":-96.742069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15151 473rd Ave",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371002209,
-    "wof:lastmodified":1449049918,
+    "wof:lastmodified":1467082670,
     "wof:name":"Bates Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.742069,45.186038,-96.742069,45.186038],
+  "bbox": [
+    -96.742069,
+    45.186038,
+    -96.742069,
+    45.186038
+],
   "geometry": {"coordinates":[-96.742069,45.186038],"type":"Point"}
 }

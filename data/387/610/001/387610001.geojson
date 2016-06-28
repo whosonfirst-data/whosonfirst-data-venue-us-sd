@@ -2,13 +2,14 @@
   "id": 387610001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.738466,44.080202,-98.738466,44.080202",
     "geom:latitude":44.080202,
     "geom:longitude":-98.738466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37288 State Hwy 34",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387610001,
-    "wof:lastmodified":1449059858,
+    "wof:lastmodified":1467082762,
     "wof:name":"John Swanson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.738466,44.080202,-98.738466,44.080202],
+  "bbox": [
+    -98.738466,
+    44.080202,
+    -98.738466,
+    44.080202
+],
   "geometry": {"coordinates":[-98.738466,44.080202],"type":"Point"}
 }

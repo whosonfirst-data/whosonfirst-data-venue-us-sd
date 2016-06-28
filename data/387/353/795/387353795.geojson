@@ -2,13 +2,14 @@
   "id": 387353795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.193084,43.892576,-98.193084,43.892576",
     "geom:latitude":43.892576,
     "geom:longitude":-98.193084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24104 401st Ave",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387353795,
-    "wof:lastmodified":1449057192,
+    "wof:lastmodified":1467082708,
     "wof:name":"Myron Sonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.193084,43.892576,-98.193084,43.892576],
+  "bbox": [
+    -98.193084,
+    43.892576,
+    -98.193084,
+    43.892576
+],
   "geometry": {"coordinates":[-98.193084,43.892576],"type":"Point"}
 }

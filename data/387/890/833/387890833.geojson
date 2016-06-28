@@ -2,13 +2,14 @@
   "id": 387890833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330224,43.81085,-99.330224,43.81085",
     "geom:latitude":43.81085,
     "geom:longitude":-99.330224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Lawler Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387890833,
-    "wof:lastmodified":1449056931,
+    "wof:lastmodified":1467082703,
     "wof:name":"Larson Sundall Larson Schaub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.330224,43.81085,-99.330224,43.81085],
+  "bbox": [
+    -99.330224,
+    43.81085,
+    -99.330224,
+    43.81085
+],
   "geometry": {"coordinates":[-99.330224,43.81085],"type":"Point"}
 }

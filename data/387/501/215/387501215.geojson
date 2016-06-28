@@ -2,13 +2,14 @@
   "id": 387501215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711383,43.563115,-96.711383,43.563115",
     "geom:latitude":43.563115,
     "geom:longitude":-96.711383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387501215,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1467082764,
     "wof:name":"G & H Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-96.711383,43.563115,-96.711383,43.563115],
+  "bbox": [
+    -96.711383,
+    43.563115,
+    -96.711383,
+    43.563115
+],
   "geometry": {"coordinates":[-96.711383,43.563115],"type":"Point"}
 }

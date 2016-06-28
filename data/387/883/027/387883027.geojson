@@ -2,13 +2,14 @@
   "id": 387883027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.517082,44.413017,-103.517082,44.413017",
     "geom:latitude":44.413017,
     "geom:longitude":-103.517082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 5th St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387883027,
-    "wof:lastmodified":1449059014,
+    "wof:lastmodified":1467082745,
     "wof:name":"Short Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.517082,44.413017,-103.517082,44.413017],
+  "bbox": [
+    -103.517082,
+    44.413017,
+    -103.517082,
+    44.413017
+],
   "geometry": {"coordinates":[-103.517082,44.413017],"type":"Point"}
 }

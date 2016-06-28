@@ -2,13 +2,14 @@
   "id": 387555785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.439717,44.183982,-98.439717,44.183982",
     "geom:latitude":44.183982,
     "geom:longitude":-98.439717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38848 221st St",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387555785,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1467082752,
     "wof:name":"Orth Bros Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.439717,44.183982,-98.439717,44.183982],
+  "bbox": [
+    -98.439717,
+    44.183982,
+    -98.439717,
+    44.183982
+],
   "geometry": {"coordinates":[-98.439717,44.183982],"type":"Point"}
 }

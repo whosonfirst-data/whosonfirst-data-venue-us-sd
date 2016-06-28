@@ -2,13 +2,14 @@
   "id": 371141245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.467923,43.425663,-103.467923,43.425663",
     "geom:latitude":43.425663,
     "geom:longitude":-103.467923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Jensen Hwy",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371141245,
-    "wof:lastmodified":1449049378,
+    "wof:lastmodified":1467082663,
     "wof:name":"Murner Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.467923,43.425663,-103.467923,43.425663],
+  "bbox": [
+    -103.467923,
+    43.425663,
+    -103.467923,
+    43.425663
+],
   "geometry": {"coordinates":[-103.467923,43.425663],"type":"Point"}
 }

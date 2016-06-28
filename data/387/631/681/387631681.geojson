@@ -2,13 +2,14 @@
   "id": 387631681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.486437,44.267948,-96.486437,44.267948",
     "geom:latitude":44.267948,
     "geom:longitude":-96.486437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21505 State Hwy 13",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387631681,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1467082710,
     "wof:name":"Skyview Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.486437,44.267948,-96.486437,44.267948],
+  "bbox": [
+    -96.486437,
+    44.267948,
+    -96.486437,
+    44.267948
+],
   "geometry": {"coordinates":[-96.486437,44.267948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387800315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772697,44.303453,-96.772697,44.303453",
     "geom:latitude":44.303453,
     "geom:longitude":-96.772697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Lincoln Ln S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387800315,
-    "wof:lastmodified":1449056415,
+    "wof:lastmodified":1467082693,
     "wof:name":"Hanson Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.772697,44.303453,-96.772697,44.303453],
-  "geometry": {"coordinates":[-96.772697,44.303453],"type":"Point"}
+  "bbox": [
+    -96.772697,
+    44.303453,
+    -96.772697,
+    44.303453
+],
+  "geometry": {"coordinates":[-96.77269699999999,44.303453],"type":"Point"}
 }

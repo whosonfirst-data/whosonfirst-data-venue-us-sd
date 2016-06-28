@@ -2,13 +2,14 @@
   "id": 403806711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788338,44.311515,-96.788338,44.311515",
     "geom:latitude":44.311515,
     "geom:longitude":-96.788338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403806711,
-    "wof:lastmodified":1449054631,
+    "wof:lastmodified":1467082674,
     "wof:name":"Pro Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.788338,44.311515,-96.788338,44.311515],
+  "bbox": [
+    -96.788338,
+    44.311515,
+    -96.788338,
+    44.311515
+],
   "geometry": {"coordinates":[-96.788338,44.311515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371162941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857329,44.489185,-103.857329,44.489185",
     "geom:latitude":44.489185,
     "geom:longitude":-103.857329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E Hudson St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371162941,
-    "wof:lastmodified":1449049972,
+    "wof:lastmodified":1467082671,
     "wof:name":"Valley Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.857329,44.489185,-103.857329,44.489185],
-  "geometry": {"coordinates":[-103.857329,44.489185],"type":"Point"}
+  "bbox": [
+    -103.857329,
+    44.489185,
+    -103.857329,
+    44.489185
+],
+  "geometry": {"coordinates":[-103.85732899999999,44.489185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386949031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715657,43.55384,-96.715657,43.55384",
     "geom:latitude":43.55384,
     "geom:longitude":-96.715657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 4th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386949031,
-    "wof:lastmodified":1449028823,
+    "wof:lastmodified":1467082653,
     "wof:name":"Allstate",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-96.715657,43.55384,-96.715657,43.55384],
-  "geometry": {"coordinates":[-96.715657,43.55384],"type":"Point"}
+  "bbox": [
+    -96.715657,
+    43.55384,
+    -96.715657,
+    43.55384
+],
+  "geometry": {"coordinates":[-96.71565699999999,43.55384],"type":"Point"}
 }

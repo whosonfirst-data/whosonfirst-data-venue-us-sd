@@ -2,13 +2,14 @@
   "id": 387007339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.439113,42.876167,-97.439113,42.876167",
     "geom:latitude":42.876167,
     "geom:longitude":-97.439113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4908 W 8th St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387007339,
-    "wof:lastmodified":1449059270,
+    "wof:lastmodified":1467082750,
     "wof:name":"Karttrax Go-Kart & Amusement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.439113,42.876167,-97.439113,42.876167],
-  "geometry": {"coordinates":[-97.439113,42.876167],"type":"Point"}
+  "bbox": [
+    -97.439113,
+    42.876167,
+    -97.439113,
+    42.876167
+],
+  "geometry": {"coordinates":[-97.43911300000001,42.876167],"type":"Point"}
 }

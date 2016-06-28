@@ -2,13 +2,14 @@
   "id": 371012501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944128,43.327304,-97.944128,43.327304",
     "geom:latitude":43.327304,
     "geom:longitude":-97.944128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41239 280th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371012501,
-    "wof:lastmodified":1449050033,
+    "wof:lastmodified":1467082672,
     "wof:name":"Willard Maas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.944128,43.327304,-97.944128,43.327304],
-  "geometry": {"coordinates":[-97.944128,43.327304],"type":"Point"}
+  "bbox": [
+    -97.944128,
+    43.327304,
+    -97.944128,
+    43.327304
+],
+  "geometry": {"coordinates":[-97.94412800000001,43.327304],"type":"Point"}
 }

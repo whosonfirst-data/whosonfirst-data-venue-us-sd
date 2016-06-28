@@ -2,13 +2,14 @@
   "id": 387250435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.511179,44.415408,-103.511179,44.415408",
     "geom:latitude":44.415408,
     "geom:longitude":-103.511179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 1st St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387250435,
-    "wof:lastmodified":1449058276,
+    "wof:lastmodified":1467082730,
     "wof:name":"Buffalo Bill's Bowling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-103.511179,44.415408,-103.511179,44.415408],
+  "bbox": [
+    -103.511179,
+    44.415408,
+    -103.511179,
+    44.415408
+],
   "geometry": {"coordinates":[-103.511179,44.415408],"type":"Point"}
 }

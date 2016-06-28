@@ -2,13 +2,14 @@
   "id": 371056603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811277,43.758475,-96.811277,43.758475",
     "geom:latitude":43.758475,
     "geom:longitude":-96.811277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25045 470th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371056603,
-    "wof:lastmodified":1449049298,
+    "wof:lastmodified":1467082662,
     "wof:name":"Colton Saw Mill",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-96.811277,43.758475,-96.811277,43.758475],
+  "bbox": [
+    -96.811277,
+    43.758475,
+    -96.811277,
+    43.758475
+],
   "geometry": {"coordinates":[-96.811277,43.758475],"type":"Point"}
 }

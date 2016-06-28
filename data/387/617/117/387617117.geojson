@@ -2,13 +2,14 @@
   "id": 387617117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.277326,44.05777,-103.277326,44.05777",
     "geom:latitude":44.05777,
     "geom:longitude":-103.277326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2927 Evergreen Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387617117,
-    "wof:lastmodified":1449056249,
+    "wof:lastmodified":1467082689,
     "wof:name":"James S Steele Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.277326,44.05777,-103.277326,44.05777],
+  "bbox": [
+    -103.277326,
+    44.05777,
+    -103.277326,
+    44.05777
+],
   "geometry": {"coordinates":[-103.277326,44.05777],"type":"Point"}
 }

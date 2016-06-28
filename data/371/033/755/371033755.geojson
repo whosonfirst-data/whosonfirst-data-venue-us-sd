@@ -2,13 +2,14 @@
   "id": 371033755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720941,43.533584,-96.720941,43.533584",
     "geom:latitude":43.533584,
     "geom:longitude":-96.720941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 S 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371033755,
-    "wof:lastmodified":1449049257,
+    "wof:lastmodified":1467082661,
     "wof:name":"Omanson Tour & Travel Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-96.720941,43.533584,-96.720941,43.533584],
+  "bbox": [
+    -96.720941,
+    43.533584,
+    -96.720941,
+    43.533584
+],
   "geometry": {"coordinates":[-96.720941,43.533584],"type":"Point"}
 }

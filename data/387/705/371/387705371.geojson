@@ -2,13 +2,14 @@
   "id": 387705371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.312254,43.973245,-103.312254,43.973245",
     "geom:latitude":43.973245,
     "geom:longitude":-103.312254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13720 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387705371,
-    "wof:lastmodified":1449059943,
+    "wof:lastmodified":1467082764,
     "wof:name":"Rockerville Vlntr Fire Dept",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-103.312254,43.973245,-103.312254,43.973245],
+  "bbox": [
+    -103.312254,
+    43.973245,
+    -103.312254,
+    43.973245
+],
   "geometry": {"coordinates":[-103.312254,43.973245],"type":"Point"}
 }

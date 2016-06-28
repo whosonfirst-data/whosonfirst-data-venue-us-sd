@@ -2,13 +2,14 @@
   "id": 387288575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.264756,44.10419,-103.264756,44.10419",
     "geom:latitude":44.10419,
     "geom:longitude":-103.264756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1891 Rand Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387288575,
-    "wof:lastmodified":1449056509,
+    "wof:lastmodified":1467082695,
     "wof:name":"ABC Trucking",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.264756,44.10419,-103.264756,44.10419],
-  "geometry": {"coordinates":[-103.264756,44.10419],"type":"Point"}
+  "bbox": [
+    -103.264756,
+    44.10419,
+    -103.264756,
+    44.10419
+],
+  "geometry": {"coordinates":[-103.26475600000001,44.10419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403787621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646729,43.416981,-96.646729,43.416981",
     "geom:latitude":43.416981,
     "geom:longitude":-96.646729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47814 274th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403787621,
-    "wof:lastmodified":1449055240,
+    "wof:lastmodified":1467082679,
     "wof:name":"Melvin Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.646729,43.416981,-96.646729,43.416981],
-  "geometry": {"coordinates":[-96.646729,43.416981],"type":"Point"}
+  "bbox": [
+    -96.646729,
+    43.416981,
+    -96.646729,
+    43.416981
+],
+  "geometry": {"coordinates":[-96.64672899999999,43.416981],"type":"Point"}
 }

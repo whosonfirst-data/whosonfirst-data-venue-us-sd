@@ -2,13 +2,14 @@
   "id": 387153949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.665699,43.536772,-96.665699,43.536772",
     "geom:latitude":43.536772,
     "geom:longitude":-96.665699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 S Clover Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387153949,
-    "wof:lastmodified":1449058730,
+    "wof:lastmodified":1467082739,
     "wof:name":"Triple Orbit Web Development",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-96.665699,43.536772,-96.665699,43.536772],
+  "bbox": [
+    -96.665699,
+    43.536772,
+    -96.665699,
+    43.536772
+],
   "geometry": {"coordinates":[-96.665699,43.536772],"type":"Point"}
 }

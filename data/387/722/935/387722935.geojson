@@ -2,13 +2,14 @@
   "id": 387722935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.484049,45.447711,-98.484049,45.447711",
     "geom:latitude":45.447711,
     "geom:longitude":-98.484049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1539 S Grant St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387722935,
-    "wof:lastmodified":1449057435,
+    "wof:lastmodified":1467082713,
     "wof:name":"Jack Riley & Son Masonry",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.484049,45.447711,-98.484049,45.447711],
+  "bbox": [
+    -98.484049,
+    45.447711,
+    -98.484049,
+    45.447711
+],
   "geometry": {"coordinates":[-98.484049,45.447711],"type":"Point"}
 }

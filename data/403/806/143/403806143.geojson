@@ -2,13 +2,14 @@
   "id": 403806143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.106824,44.692475,-99.106824,44.692475",
     "geom:latitude":44.692475,
     "geom:longitude":-99.106824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35421 186th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403806143,
-    "wof:lastmodified":1449054630,
+    "wof:lastmodified":1467082674,
     "wof:name":"Rob Schlecter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.106824,44.692475,-99.106824,44.692475],
+  "bbox": [
+    -99.106824,
+    44.692475,
+    -99.106824,
+    44.692475
+],
   "geometry": {"coordinates":[-99.106824,44.692475],"type":"Point"}
 }

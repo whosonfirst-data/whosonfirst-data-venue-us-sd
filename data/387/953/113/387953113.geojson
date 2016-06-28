@@ -2,13 +2,14 @@
   "id": 387953113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.054262,43.004977,-98.054262,43.004977",
     "geom:latitude":43.004977,
     "geom:longitude":-98.054262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E 1st Ave",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387953113,
-    "wof:lastmodified":1449058736,
+    "wof:lastmodified":1467082739,
     "wof:name":"Jurrens Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.054262,43.004977,-98.054262,43.004977],
-  "geometry": {"coordinates":[-98.054262,43.004977],"type":"Point"}
+  "bbox": [
+    -98.054262,
+    43.004977,
+    -98.054262,
+    43.004977
+],
+  "geometry": {"coordinates":[-98.05426199999999,43.004977],"type":"Point"}
 }

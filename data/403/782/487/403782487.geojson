@@ -2,13 +2,14 @@
   "id": 403782487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10157,43.008475,-97.10157,43.008475",
     "geom:latitude":43.008475,
     "geom:longitude":-97.10157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 4th St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403782487,
-    "wof:lastmodified":1449054619,
+    "wof:lastmodified":1467082674,
     "wof:name":"Bangal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-97.10157,43.008475,-97.10157,43.008475],
+  "bbox": [
+    -97.10157,
+    43.008475,
+    -97.10157,
+    43.008475
+],
   "geometry": {"coordinates":[-97.10157,43.008475],"type":"Point"}
 }

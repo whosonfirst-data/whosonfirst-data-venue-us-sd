@@ -2,13 +2,14 @@
   "id": 387335695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.595462,44.049287,-96.595462,44.049287",
     "geom:latitude":44.049287,
     "geom:longitude":-96.595462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Wind St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387335695,
-    "wof:lastmodified":1449058620,
+    "wof:lastmodified":1467082737,
     "wof:name":"B J's Fine Food & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.595462,44.049287,-96.595462,44.049287],
+  "bbox": [
+    -96.595462,
+    44.049287,
+    -96.595462,
+    44.049287
+],
   "geometry": {"coordinates":[-96.595462,44.049287],"type":"Point"}
 }

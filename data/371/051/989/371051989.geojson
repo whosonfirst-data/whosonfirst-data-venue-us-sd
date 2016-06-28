@@ -2,13 +2,14 @@
   "id": 371051989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.147902,45.052994,-98.147902,45.052994",
     "geom:latitude":45.052994,
     "geom:longitude":-98.147902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40342 161st St",
     "sg:city":"Turton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371051989,
-    "wof:lastmodified":1449049682,
+    "wof:lastmodified":1467082667,
     "wof:name":"Rahm Seed Cleaning & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-98.147902,45.052994,-98.147902,45.052994],
+  "bbox": [
+    -98.147902,
+    45.052994,
+    -98.147902,
+    45.052994
+],
   "geometry": {"coordinates":[-98.147902,45.052994],"type":"Point"}
 }

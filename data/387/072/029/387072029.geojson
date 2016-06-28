@@ -2,13 +2,14 @@
   "id": 387072029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.951254,45.721425,-98.951254,45.721425",
     "geom:latitude":45.721425,
     "geom:longitude":-98.951254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11523 362nd Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387072029,
-    "wof:lastmodified":1449058113,
+    "wof:lastmodified":1467082727,
     "wof:name":"Marvin Hoffman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.951254,45.721425,-98.951254,45.721425],
-  "geometry": {"coordinates":[-98.951254,45.721425],"type":"Point"}
+  "bbox": [
+    -98.951254,
+    45.721425,
+    -98.951254,
+    45.721425
+],
+  "geometry": {"coordinates":[-98.95125400000001,45.721425],"type":"Point"}
 }

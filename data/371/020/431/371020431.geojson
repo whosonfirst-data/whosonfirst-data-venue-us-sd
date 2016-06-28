@@ -2,13 +2,14 @@
   "id": 371020431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.852564,43.376374,-99.852564,43.376374",
     "geom:latitude":43.376374,
     "geom:longitude":-99.852564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Adams St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371020431,
-    "wof:lastmodified":1449049488,
+    "wof:lastmodified":1467082664,
     "wof:name":"Charles Corkle DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.852564,43.376374,-99.852564,43.376374],
+  "bbox": [
+    -99.852564,
+    43.376374,
+    -99.852564,
+    43.376374
+],
   "geometry": {"coordinates":[-99.852564,43.376374],"type":"Point"}
 }

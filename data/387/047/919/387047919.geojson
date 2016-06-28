@@ -2,13 +2,14 @@
   "id": 387047919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.429796,44.717255,-97.429796,44.717255",
     "geom:latitude":44.717255,
     "geom:longitude":-97.429796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43906 184th St",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387047919,
-    "wof:lastmodified":1449058566,
+    "wof:lastmodified":1467082736,
     "wof:name":"Beman Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.429796,44.717255,-97.429796,44.717255],
+  "bbox": [
+    -97.429796,
+    44.717255,
+    -97.429796,
+    44.717255
+],
   "geometry": {"coordinates":[-97.429796,44.717255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371036443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79098,43.538817,-96.79098,43.538817",
     "geom:latitude":43.538817,
     "geom:longitude":-96.79098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 S Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371036443,
-    "wof:lastmodified":1449049263,
+    "wof:lastmodified":1467082661,
     "wof:name":"Liquor Stadium",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-96.79098,43.538817,-96.79098,43.538817],
+  "bbox": [
+    -96.79098,
+    43.538817,
+    -96.79098,
+    43.538817
+],
   "geometry": {"coordinates":[-96.79098,43.538817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387797019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.179839,44.075011,-103.179839,44.075011",
     "geom:latitude":44.075011,
     "geom:longitude":-103.179839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1981 E Centre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387797019,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1467082755,
     "wof:name":"Retired Enlisted Assn",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.179839,44.075011,-103.179839,44.075011],
+  "bbox": [
+    -103.179839,
+    44.075011,
+    -103.179839,
+    44.075011
+],
   "geometry": {"coordinates":[-103.179839,44.075011],"type":"Point"}
 }

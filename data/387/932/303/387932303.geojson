@@ -2,13 +2,14 @@
   "id": 387932303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765838,43.543929,-96.765838,43.543929",
     "geom:latitude":43.543929,
     "geom:longitude":-96.765838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387932303,
-    "wof:lastmodified":1449057516,
+    "wof:lastmodified":1467082715,
     "wof:name":"Lewis Express Video",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tape"
     ]
 },
-  "bbox": [-96.765838,43.543929,-96.765838,43.543929],
+  "bbox": [
+    -96.765838,
+    43.543929,
+    -96.765838,
+    43.543929
+],
   "geometry": {"coordinates":[-96.765838,43.543929],"type":"Point"}
 }

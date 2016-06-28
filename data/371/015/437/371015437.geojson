@@ -2,13 +2,14 @@
   "id": 371015437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772842,43.080651,-96.772842,43.080651",
     "geom:latitude":43.080651,
     "geom:longitude":-96.772842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E Main St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371015437,
-    "wof:lastmodified":1449049283,
+    "wof:lastmodified":1467082661,
     "wof:name":"Beresford Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.772842,43.080651,-96.772842,43.080651],
+  "bbox": [
+    -96.772842,
+    43.080651,
+    -96.772842,
+    43.080651
+],
   "geometry": {"coordinates":[-96.772842,43.080651],"type":"Point"}
 }

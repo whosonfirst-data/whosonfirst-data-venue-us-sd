@@ -2,13 +2,14 @@
   "id": 387460317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.359018,44.102698,-103.359018,44.102698",
     "geom:latitude":44.102698,
     "geom:longitude":-103.359018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8520 King's Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387460317,
-    "wof:lastmodified":1449059703,
+    "wof:lastmodified":1467082759,
     "wof:name":"Iron Horse Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.359018,44.102698,-103.359018,44.102698],
-  "geometry": {"coordinates":[-103.359018,44.102698],"type":"Point"}
+  "bbox": [
+    -103.359018,
+    44.102698,
+    -103.359018,
+    44.102698
+],
+  "geometry": {"coordinates":[-103.35901800000001,44.102698],"type":"Point"}
 }

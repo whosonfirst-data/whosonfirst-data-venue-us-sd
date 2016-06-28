@@ -2,13 +2,14 @@
   "id": 387335635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.572069,43.236219,-97.572069,43.236219",
     "geom:latitude":43.236219,
     "geom:longitude":-97.572069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Pine St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387335635,
-    "wof:lastmodified":1449058620,
+    "wof:lastmodified":1467082737,
     "wof:name":"Henry Bender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.572069,43.236219,-97.572069,43.236219],
+  "bbox": [
+    -97.572069,
+    43.236219,
+    -97.572069,
+    43.236219
+],
   "geometry": {"coordinates":[-97.572069,43.236219],"type":"Point"}
 }

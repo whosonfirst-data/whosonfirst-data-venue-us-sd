@@ -2,13 +2,14 @@
   "id": 403720429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511495,45.459367,-98.511495,45.459367",
     "geom:latitude":45.459367,
     "geom:longitude":-98.511495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 S 16th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403720429,
-    "wof:lastmodified":1449054964,
+    "wof:lastmodified":1467082677,
     "wof:name":"R & R Sales & Svc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-98.511495,45.459367,-98.511495,45.459367],
+  "bbox": [
+    -98.511495,
+    45.459367,
+    -98.511495,
+    45.459367
+],
   "geometry": {"coordinates":[-98.511495,45.459367],"type":"Point"}
 }

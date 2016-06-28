@@ -2,13 +2,14 @@
   "id": 387742475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109614,43.993118,-97.109614,43.993118",
     "geom:latitude":43.993118,
     "geom:longitude":-97.109614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 10th St SE",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387742475,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1467082692,
     "wof:name":"Madison Vision Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.109614,43.993118,-97.109614,43.993118],
-  "geometry": {"coordinates":[-97.109614,43.993118],"type":"Point"}
+  "bbox": [
+    -97.109614,
+    43.993118,
+    -97.109614,
+    43.993118
+],
+  "geometry": {"coordinates":[-97.10961399999999,43.993118],"type":"Point"}
 }

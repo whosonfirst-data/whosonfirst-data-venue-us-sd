@@ -2,13 +2,14 @@
   "id": 387751903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79084,43.54956,-96.79084,43.54956",
     "geom:latitude":43.54956,
     "geom:longitude":-96.79084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387751903,
-    "wof:lastmodified":1449056328,
+    "wof:lastmodified":1467082691,
     "wof:name":"Print Right Printing Inc",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.79084,43.54956,-96.79084,43.54956],
+  "bbox": [
+    -96.79084,
+    43.54956,
+    -96.79084,
+    43.54956
+],
   "geometry": {"coordinates":[-96.79084,43.54956],"type":"Point"}
 }

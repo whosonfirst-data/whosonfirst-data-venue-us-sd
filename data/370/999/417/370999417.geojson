@@ -2,13 +2,14 @@
   "id": 370999417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.585303,45.50324,-99.585303,45.50324",
     "geom:latitude":45.50324,
     "geom:longitude":-99.585303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13012 329th Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370999417,
-    "wof:lastmodified":1449032054,
+    "wof:lastmodified":1467082658,
     "wof:name":"Francis Heilman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.585303,45.50324,-99.585303,45.50324],
+  "bbox": [
+    -99.585303,
+    45.50324,
+    -99.585303,
+    45.50324
+],
   "geometry": {"coordinates":[-99.585303,45.50324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371005007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.867481,42.992326,-97.867481,42.992326",
     "geom:latitude":42.992326,
     "geom:longitude":-97.867481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 W 17th Ave",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371005007,
-    "wof:lastmodified":1449050060,
+    "wof:lastmodified":1467082672,
     "wof:name":"Baptist Church Tyndall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.867481,42.992326,-97.867481,42.992326],
+  "bbox": [
+    -97.867481,
+    42.992326,
+    -97.867481,
+    42.992326
+],
   "geometry": {"coordinates":[-97.867481,42.992326],"type":"Point"}
 }

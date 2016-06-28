@@ -2,13 +2,14 @@
   "id": 387361223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1917,44.076437,-103.1917,44.076437",
     "geom:latitude":44.076437,
     "geom:longitude":-103.1917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387361223,
-    "wof:lastmodified":1449058882,
+    "wof:lastmodified":1467082742,
     "wof:name":"Affordable Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-103.1917,44.076437,-103.1917,44.076437],
+  "bbox": [
+    -103.1917,
+    44.076437,
+    -103.1917,
+    44.076437
+],
   "geometry": {"coordinates":[-103.1917,44.076437],"type":"Point"}
 }

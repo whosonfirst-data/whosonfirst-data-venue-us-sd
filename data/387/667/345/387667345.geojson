@@ -2,13 +2,14 @@
   "id": 387667345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.023925,43.704491,-98.023925,43.704491",
     "geom:latitude":43.704491,
     "geom:longitude":-98.023925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 S Lawler St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387667345,
-    "wof:lastmodified":1449058599,
+    "wof:lastmodified":1467082737,
     "wof:name":"R W Machine Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.023925,43.704491,-98.023925,43.704491],
-  "geometry": {"coordinates":[-98.023925,43.704491],"type":"Point"}
+  "bbox": [
+    -98.023925,
+    43.704491,
+    -98.023925,
+    43.704491
+],
+  "geometry": {"coordinates":[-98.02392500000001,43.704491],"type":"Point"}
 }

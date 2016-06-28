@@ -2,13 +2,14 @@
   "id": 387588403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857515,44.490181,-103.857515,44.490181",
     "geom:latitude":44.490181,
     "geom:longitude":-103.857515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Illinois St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387588403,
-    "wof:lastmodified":1449059168,
+    "wof:lastmodified":1467082748,
     "wof:name":"Crocs Up & Over",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.857515,44.490181,-103.857515,44.490181],
-  "geometry": {"coordinates":[-103.857515,44.490181],"type":"Point"}
+  "bbox": [
+    -103.857515,
+    44.490181,
+    -103.857515,
+    44.490181
+],
+  "geometry": {"coordinates":[-103.85751500000001,44.490181],"type":"Point"}
 }

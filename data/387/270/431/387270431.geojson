@@ -2,13 +2,14 @@
   "id": 387270431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.306875,44.218661,-103.306875,44.218661",
     "geom:latitude":44.218661,
     "geom:longitude":-103.306875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15373 Canyon Trl",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387270431,
-    "wof:lastmodified":1449056773,
+    "wof:lastmodified":1467082700,
     "wof:name":"Mountain Movers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.306875,44.218661,-103.306875,44.218661],
-  "geometry": {"coordinates":[-103.306875,44.218661],"type":"Point"}
+  "bbox": [
+    -103.306875,
+    44.218661,
+    -103.306875,
+    44.218661
+],
+  "geometry": {"coordinates":[-103.30687500000001,44.218661],"type":"Point"}
 }

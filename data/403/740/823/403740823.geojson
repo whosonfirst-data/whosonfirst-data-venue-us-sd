@@ -2,13 +2,14 @@
   "id": 403740823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381636,43.723564,-97.381636,43.723564",
     "geom:latitude":43.723564,
     "geom:longitude":-97.381636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Drake Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403740823,
-    "wof:lastmodified":1449055244,
+    "wof:lastmodified":1467082679,
     "wof:name":"Mc Cook County Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-97.381636,43.723564,-97.381636,43.723564],
+  "bbox": [
+    -97.381636,
+    43.723564,
+    -97.381636,
+    43.723564
+],
   "geometry": {"coordinates":[-97.381636,43.723564],"type":"Point"}
 }

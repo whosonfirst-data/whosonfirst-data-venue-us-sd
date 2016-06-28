@@ -2,13 +2,14 @@
   "id": 387915947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.532202,43.609716,-96.532202,43.609716",
     "geom:latitude":43.609716,
     "geom:longitude":-96.532202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26041 484th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387915947,
-    "wof:lastmodified":1449059884,
+    "wof:lastmodified":1467082762,
     "wof:name":"Gary Bosch",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.532202,43.609716,-96.532202,43.609716],
+  "bbox": [
+    -96.532202,
+    43.609716,
+    -96.532202,
+    43.609716
+],
   "geometry": {"coordinates":[-96.532202,43.609716],"type":"Point"}
 }

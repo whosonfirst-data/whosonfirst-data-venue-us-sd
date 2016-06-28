@@ -2,13 +2,14 @@
   "id": 387384709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.171486,45.936787,-102.171486,45.936787",
     "geom:latitude":45.936787,
     "geom:longitude":-102.171486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 8th St W",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387384709,
-    "wof:lastmodified":1449056581,
+    "wof:lastmodified":1467082696,
     "wof:name":"Live Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "group"
     ]
 },
-  "bbox": [-102.171486,45.936787,-102.171486,45.936787],
+  "bbox": [
+    -102.171486,
+    45.936787,
+    -102.171486,
+    45.936787
+],
   "geometry": {"coordinates":[-102.171486,45.936787],"type":"Point"}
 }

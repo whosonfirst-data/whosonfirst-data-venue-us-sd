@@ -2,13 +2,14 @@
   "id": 403800683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.468581,43.426541,-103.468581,43.426541",
     "geom:latitude":43.426541,
     "geom:longitude":-103.468581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 S 5th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403800683,
-    "wof:lastmodified":1449054738,
+    "wof:lastmodified":1467082675,
     "wof:name":"Rolling Thunder Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-103.468581,43.426541,-103.468581,43.426541],
+  "bbox": [
+    -103.468581,
+    43.426541,
+    -103.468581,
+    43.426541
+],
   "geometry": {"coordinates":[-103.468581,43.426541],"type":"Point"}
 }

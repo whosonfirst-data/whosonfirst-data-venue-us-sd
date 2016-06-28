@@ -2,13 +2,14 @@
   "id": 370982513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926618,44.324651,-96.926618,44.324651",
     "geom:latitude":44.324651,
     "geom:longitude":-96.926618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370982513,
-    "wof:lastmodified":1449029665,
+    "wof:lastmodified":1467082656,
     "wof:name":"Sioux Valley Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.926618,44.324651,-96.926618,44.324651],
+  "bbox": [
+    -96.926618,
+    44.324651,
+    -96.926618,
+    44.324651
+],
   "geometry": {"coordinates":[-96.926618,44.324651],"type":"Point"}
 }

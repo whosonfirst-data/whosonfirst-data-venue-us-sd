@@ -2,13 +2,14 @@
   "id": 387487697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.723548,44.374177,-103.723548,44.374177",
     "geom:latitude":44.374177,
     "geom:longitude":-103.723548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Lincoln Ave",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387487697,
-    "wof:lastmodified":1449057344,
+    "wof:lastmodified":1467082711,
     "wof:name":"Tim E Conrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.723548,44.374177,-103.723548,44.374177],
-  "geometry": {"coordinates":[-103.723548,44.374177],"type":"Point"}
+  "bbox": [
+    -103.723548,
+    44.374177,
+    -103.723548,
+    44.374177
+],
+  "geometry": {"coordinates":[-103.72354799999999,44.374177],"type":"Point"}
 }

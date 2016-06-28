@@ -2,13 +2,14 @@
   "id": 403837761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.007254,43.71348,-98.007254,43.71348",
     "geom:latitude":43.71348,
     "geom:longitude":-98.007254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 N Foster St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403837761,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1467082676,
     "wof:name":"A-1 Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-98.007254,43.71348,-98.007254,43.71348],
+  "bbox": [
+    -98.007254,
+    43.71348,
+    -98.007254,
+    43.71348
+],
   "geometry": {"coordinates":[-98.007254,43.71348],"type":"Point"}
 }

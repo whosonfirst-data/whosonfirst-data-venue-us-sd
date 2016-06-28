@@ -2,13 +2,14 @@
   "id": 387407509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798744,44.299382,-96.798744,44.299382",
     "geom:latitude":44.299382,
     "geom:longitude":-96.798744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387407509,
-    "wof:lastmodified":1449058222,
+    "wof:lastmodified":1467082729,
     "wof:name":"Coopers Plumbing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.798744,44.299382,-96.798744,44.299382],
+  "bbox": [
+    -96.798744,
+    44.299382,
+    -96.798744,
+    44.299382
+],
   "geometry": {"coordinates":[-96.798744,44.299382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371141239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.59947,43.76653,-103.59947,43.76653",
     "geom:latitude":43.76653,
     "geom:longitude":-103.59947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371141239,
-    "wof:lastmodified":1449049373,
+    "wof:lastmodified":1467082663,
     "wof:name":"Lundquist Wood & Bradeen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.59947,43.76653,-103.59947,43.76653],
+  "bbox": [
+    -103.59947,
+    43.76653,
+    -103.59947,
+    43.76653
+],
   "geometry": {"coordinates":[-103.59947,43.76653],"type":"Point"}
 }

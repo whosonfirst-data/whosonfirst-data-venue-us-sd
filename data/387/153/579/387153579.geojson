@@ -2,13 +2,14 @@
   "id": 387153579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.86128,43.374509,-99.86128,43.374509",
     "geom:latitude":43.374509,
     "geom:longitude":-99.86128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W 4th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387153579,
-    "wof:lastmodified":1449058729,
+    "wof:lastmodified":1467082739,
     "wof:name":"Immaculate Conception Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.86128,43.374509,-99.86128,43.374509],
-  "geometry": {"coordinates":[-99.86128,43.374509],"type":"Point"}
+  "bbox": [
+    -99.86128,
+    43.374509,
+    -99.86128,
+    43.374509
+],
+  "geometry": {"coordinates":[-99.86127999999999,43.374509],"type":"Point"}
 }

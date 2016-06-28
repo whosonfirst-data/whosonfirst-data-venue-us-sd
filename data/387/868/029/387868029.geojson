@@ -2,13 +2,14 @@
   "id": 387868029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.02243,43.70957,-98.02243,43.70957",
     "geom:latitude":43.70957,
     "geom:longitude":-98.02243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E 1st Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387868029,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1467082690,
     "wof:name":"Ciavarella Design Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-98.02243,43.70957,-98.02243,43.70957],
+  "bbox": [
+    -98.02243,
+    43.70957,
+    -98.02243,
+    43.70957
+],
   "geometry": {"coordinates":[-98.02243,43.70957],"type":"Point"}
 }

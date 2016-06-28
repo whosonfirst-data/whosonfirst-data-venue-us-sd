@@ -2,13 +2,14 @@
   "id": 387831139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10961,43.808884,-97.10961,43.808884",
     "geom:latitude":43.808884,
     "geom:longitude":-97.10961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24669 455th Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387831139,
-    "wof:lastmodified":1449058333,
+    "wof:lastmodified":1467082731,
     "wof:name":"Ed Skotvold",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-97.10961,43.808884,-97.10961,43.808884],
+  "bbox": [
+    -97.10961,
+    43.808884,
+    -97.10961,
+    43.808884
+],
   "geometry": {"coordinates":[-97.10961,43.808884],"type":"Point"}
 }

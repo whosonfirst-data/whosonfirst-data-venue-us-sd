@@ -2,13 +2,14 @@
   "id": 403820211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726756,43.542458,-96.726756,43.542458",
     "geom:latitude":43.542458,
     "geom:longitude":-96.726756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403820211,
-    "wof:lastmodified":1449055335,
+    "wof:lastmodified":1467082680,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.726756,43.542458,-96.726756,43.542458],
-  "geometry": {"coordinates":[-96.726756,43.542458],"type":"Point"}
+  "bbox": [
+    -96.726756,
+    43.542458,
+    -96.726756,
+    43.542458
+],
+  "geometry": {"coordinates":[-96.72675599999999,43.542458],"type":"Point"}
 }

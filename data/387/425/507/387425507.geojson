@@ -2,13 +2,14 @@
   "id": 387425507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.381457,44.361892,-100.381457,44.361892",
     "geom:latitude":44.361892,
     "geom:longitude":-100.381457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Salebarn Rd",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387425507,
-    "wof:lastmodified":1449057442,
+    "wof:lastmodified":1467082713,
     "wof:name":"First Dakota Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.381457,44.361892,-100.381457,44.361892],
+  "bbox": [
+    -100.381457,
+    44.361892,
+    -100.381457,
+    44.361892
+],
   "geometry": {"coordinates":[-100.381457,44.361892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387862153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.977829,43.528806,-96.977829,43.528806",
     "geom:latitude":43.528806,
     "geom:longitude":-96.977829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46161 266th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387862153,
-    "wof:lastmodified":1449060008,
+    "wof:lastmodified":1467082765,
     "wof:name":"CJ Electric",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.977829,43.528806,-96.977829,43.528806],
+  "bbox": [
+    -96.977829,
+    43.528806,
+    -96.977829,
+    43.528806
+],
   "geometry": {"coordinates":[-96.977829,43.528806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387061937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.429512,45.542372,-100.429512,45.542372",
     "geom:latitude":45.542372,
     "geom:longitude":-100.429512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 3rd Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387061937,
-    "wof:lastmodified":1449058857,
+    "wof:lastmodified":1467082742,
     "wof:name":"Ervin Dupper Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-100.429512,45.542372,-100.429512,45.542372],
+  "bbox": [
+    -100.429512,
+    45.542372,
+    -100.429512,
+    45.542372
+],
   "geometry": {"coordinates":[-100.429512,45.542372],"type":"Point"}
 }

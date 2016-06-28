@@ -2,13 +2,14 @@
   "id": 387750795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359469,43.615637,-97.359469,43.615637",
     "geom:latitude":43.615637,
     "geom:longitude":-97.359469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44247 260th St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387750795,
-    "wof:lastmodified":1449058403,
+    "wof:lastmodified":1467082733,
     "wof:name":"Java Cup Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-97.359469,43.615637,-97.359469,43.615637],
+  "bbox": [
+    -97.359469,
+    43.615637,
+    -97.359469,
+    43.615637
+],
   "geometry": {"coordinates":[-97.359469,43.615637],"type":"Point"}
 }

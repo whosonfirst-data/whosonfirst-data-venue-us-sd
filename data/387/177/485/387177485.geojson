@@ -2,13 +2,14 @@
   "id": 387177485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487965,45.460867,-98.487965,45.460867",
     "geom:latitude":45.460867,
     "geom:longitude":-98.487965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387177485,
-    "wof:lastmodified":1449059919,
+    "wof:lastmodified":1467082763,
     "wof:name":"Remien Mortgage Family",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-98.487965,45.460867,-98.487965,45.460867],
+  "bbox": [
+    -98.487965,
+    45.460867,
+    -98.487965,
+    45.460867
+],
   "geometry": {"coordinates":[-98.487965,45.460867],"type":"Point"}
 }

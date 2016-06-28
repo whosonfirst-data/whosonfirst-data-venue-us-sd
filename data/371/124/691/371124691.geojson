@@ -2,13 +2,14 @@
   "id": 371124691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.117562,44.901125,-97.117562,44.901125",
     "geom:latitude":44.901125,
     "geom:longitude":-97.117562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371124691,
-    "wof:lastmodified":1449050070,
+    "wof:lastmodified":1467082672,
     "wof:name":"S & P Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.117562,44.901125,-97.117562,44.901125],
-  "geometry": {"coordinates":[-97.117562,44.901125],"type":"Point"}
+  "bbox": [
+    -97.117562,
+    44.901125,
+    -97.117562,
+    44.901125
+],
+  "geometry": {"coordinates":[-97.11756200000001,44.901125],"type":"Point"}
 }

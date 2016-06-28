@@ -2,13 +2,14 @@
   "id": 387860497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.042966,45.128941,-99.042966,45.128941",
     "geom:latitude":45.128941,
     "geom:longitude":-99.042966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35691 156th St",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387860497,
-    "wof:lastmodified":1449057799,
+    "wof:lastmodified":1467082721,
     "wof:name":"Evergreen Colony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.042966,45.128941,-99.042966,45.128941],
-  "geometry": {"coordinates":[-99.042966,45.128941],"type":"Point"}
+  "bbox": [
+    -99.042966,
+    45.128941,
+    -99.042966,
+    45.128941
+],
+  "geometry": {"coordinates":[-99.04296600000001,45.128941],"type":"Point"}
 }

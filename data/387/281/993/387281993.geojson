@@ -2,13 +2,14 @@
   "id": 387281993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.536338,45.493409,-98.536338,45.493409",
     "geom:latitude":45.493409,
     "geom:longitude":-98.536338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13066 385th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387281993,
-    "wof:lastmodified":1449059346,
+    "wof:lastmodified":1467082752,
     "wof:name":"Jung Construction Inc",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.536338,45.493409,-98.536338,45.493409],
+  "bbox": [
+    -98.536338,
+    45.493409,
+    -98.536338,
+    45.493409
+],
   "geometry": {"coordinates":[-98.536338,45.493409],"type":"Point"}
 }

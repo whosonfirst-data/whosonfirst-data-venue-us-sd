@@ -2,13 +2,14 @@
   "id": 371192627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763056,43.547941,-96.763056,43.547941",
     "geom:latitude":43.547941,
     "geom:longitude":-96.763056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 W 9th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371192627,
-    "wof:lastmodified":1449049797,
+    "wof:lastmodified":1467082669,
     "wof:name":"Dennis Supply Co Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-96.763056,43.547941,-96.763056,43.547941],
-  "geometry": {"coordinates":[-96.763056,43.547941],"type":"Point"}
+  "bbox": [
+    -96.763056,
+    43.547941,
+    -96.763056,
+    43.547941
+],
+  "geometry": {"coordinates":[-96.76305600000001,43.547941],"type":"Point"}
 }

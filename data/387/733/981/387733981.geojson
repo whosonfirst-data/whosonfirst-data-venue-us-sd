@@ -2,13 +2,14 @@
   "id": 387733981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20959,44.109263,-103.20959,44.109263",
     "geom:latitude":44.109263,
     "geom:longitude":-103.20959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 N Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387733981,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1467082697,
     "wof:name":"Backyards & Billiards",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tub"
     ]
 },
-  "bbox": [-103.20959,44.109263,-103.20959,44.109263],
-  "geometry": {"coordinates":[-103.20959,44.109263],"type":"Point"}
+  "bbox": [
+    -103.20959,
+    44.109263,
+    -103.20959,
+    44.109263
+],
+  "geometry": {"coordinates":[-103.20959000000001,44.109263],"type":"Point"}
 }

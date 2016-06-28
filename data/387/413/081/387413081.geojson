@@ -2,13 +2,14 @@
   "id": 387413081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.616945,44.506195,-97.616945,44.506195",
     "geom:latitude":44.506195,
     "geom:longitude":-97.616945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42943 Ash St",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387413081,
-    "wof:lastmodified":1449056704,
+    "wof:lastmodified":1467082698,
     "wof:name":"Poppen Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.616945,44.506195,-97.616945,44.506195],
+  "bbox": [
+    -97.616945,
+    44.506195,
+    -97.616945,
+    44.506195
+],
   "geometry": {"coordinates":[-97.616945,44.506195],"type":"Point"}
 }

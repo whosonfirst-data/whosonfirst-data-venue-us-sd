@@ -2,13 +2,14 @@
   "id": 387389347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.163279,43.372553,-97.163279,43.372553",
     "geom:latitude":43.372553,
     "geom:longitude":-97.163279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45112 277th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387389347,
-    "wof:lastmodified":1449059139,
+    "wof:lastmodified":1467082747,
     "wof:name":"Bob Leloux Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.163279,43.372553,-97.163279,43.372553],
+  "bbox": [
+    -97.163279,
+    43.372553,
+    -97.163279,
+    43.372553
+],
   "geometry": {"coordinates":[-97.163279,43.372553],"type":"Point"}
 }

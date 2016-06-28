@@ -2,13 +2,14 @@
   "id": 403705925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.536386,45.50317,-98.536386,45.50317",
     "geom:latitude":45.50317,
     "geom:longitude":-98.536386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13011 385th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403705925,
-    "wof:lastmodified":1449055968,
+    "wof:lastmodified":1467082684,
     "wof:name":"Agriliance LLC",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.536386,45.50317,-98.536386,45.50317],
-  "geometry": {"coordinates":[-98.536386,45.50317],"type":"Point"}
+  "bbox": [
+    -98.536386,
+    45.50317,
+    -98.536386,
+    45.50317
+],
+  "geometry": {"coordinates":[-98.53638599999999,45.50317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387871017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474761,45.461059,-98.474761,45.461059",
     "geom:latitude":45.461059,
     "geom:longitude":-98.474761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Dakota St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387871017,
-    "wof:lastmodified":1449057350,
+    "wof:lastmodified":1467082711,
     "wof:name":"Wild Card Casino",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-98.474761,45.461059,-98.474761,45.461059],
+  "bbox": [
+    -98.474761,
+    45.461059,
+    -98.474761,
+    45.461059
+],
   "geometry": {"coordinates":[-98.474761,45.461059],"type":"Point"}
 }

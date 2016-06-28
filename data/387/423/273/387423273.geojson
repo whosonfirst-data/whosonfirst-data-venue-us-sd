@@ -2,13 +2,14 @@
   "id": 387423273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.469,44.095454,-102.469,44.095454",
     "geom:latitude":44.095454,
     "geom:longitude":-102.469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22821 Elm Springs Rd",
     "sg:city":"Wasta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387423273,
-    "wof:lastmodified":1449056733,
+    "wof:lastmodified":1467082699,
     "wof:name":"Price Buildings",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-102.469,44.095454,-102.469,44.095454],
-  "geometry": {"coordinates":[-102.469,44.095454],"type":"Point"}
+  "bbox": [
+    -102.469,
+    44.095454,
+    -102.469,
+    44.095454
+],
+  "geometry": {"coordinates":[-102.46899999999999,44.095454],"type":"Point"}
 }

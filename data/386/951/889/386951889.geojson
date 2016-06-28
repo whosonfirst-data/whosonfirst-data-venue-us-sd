@@ -2,13 +2,14 @@
   "id": 386951889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.511549,44.239391,-97.511549,44.239391",
     "geom:latitude":44.239391,
     "geom:longitude":-97.511549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21692 435th Ave",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386951889,
-    "wof:lastmodified":1449028630,
+    "wof:lastmodified":1467082649,
     "wof:name":"Greg Albrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.511549,44.239391,-97.511549,44.239391],
+  "bbox": [
+    -97.511549,
+    44.239391,
+    -97.511549,
+    44.239391
+],
   "geometry": {"coordinates":[-97.511549,44.239391],"type":"Point"}
 }

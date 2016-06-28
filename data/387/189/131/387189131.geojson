@@ -2,13 +2,14 @@
   "id": 387189131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.741187,43.530516,-96.741187,43.530516",
     "geom:latitude":43.530516,
     "geom:longitude":-96.741187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 S Grange Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387189131,
-    "wof:lastmodified":1449058796,
+    "wof:lastmodified":1467082741,
     "wof:name":"House Master",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-96.741187,43.530516,-96.741187,43.530516],
+  "bbox": [
+    -96.741187,
+    43.530516,
+    -96.741187,
+    43.530516
+],
   "geometry": {"coordinates":[-96.741187,43.530516],"type":"Point"}
 }

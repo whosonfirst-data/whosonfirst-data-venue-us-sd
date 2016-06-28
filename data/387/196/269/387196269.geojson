@@ -2,13 +2,14 @@
   "id": 387196269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.470815,43.935517,-97.470815,43.935517",
     "geom:latitude":43.935517,
     "geom:longitude":-97.470815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43676 238th St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387196269,
-    "wof:lastmodified":1449056966,
+    "wof:lastmodified":1467082704,
     "wof:name":"Vales and Broncs Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.470815,43.935517,-97.470815,43.935517],
+  "bbox": [
+    -97.470815,
+    43.935517,
+    -97.470815,
+    43.935517
+],
   "geometry": {"coordinates":[-97.470815,43.935517],"type":"Point"}
 }

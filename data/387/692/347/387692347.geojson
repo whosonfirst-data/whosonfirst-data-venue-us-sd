@@ -2,13 +2,14 @@
   "id": 387692347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10659,44.897672,-97.10659,44.897672",
     "geom:latitude":44.897672,
     "geom:longitude":-97.10659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 1st Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387692347,
-    "wof:lastmodified":1449057111,
+    "wof:lastmodified":1467082707,
     "wof:name":"Dakota Satellite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.10659,44.897672,-97.10659,44.897672],
+  "bbox": [
+    -97.10659,
+    44.897672,
+    -97.10659,
+    44.897672
+],
   "geometry": {"coordinates":[-97.10659,44.897672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387733691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799913,43.529913,-96.799913,43.529913",
     "geom:latitude":43.529913,
     "geom:longitude":-96.799913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6008 W Tecumseh Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387733691,
-    "wof:lastmodified":1449056633,
+    "wof:lastmodified":1467082697,
     "wof:name":"R J Larsen Systems & Svc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radon"
     ]
 },
-  "bbox": [-96.799913,43.529913,-96.799913,43.529913],
+  "bbox": [
+    -96.799913,
+    43.529913,
+    -96.799913,
+    43.529913
+],
   "geometry": {"coordinates":[-96.799913,43.529913],"type":"Point"}
 }

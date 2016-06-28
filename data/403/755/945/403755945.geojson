@@ -2,13 +2,14 @@
   "id": 403755945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.921317,42.776984,-96.921317,42.776984",
     "geom:latitude":42.776984,
     "geom:longitude":-96.921317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Pine St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403755945,
-    "wof:lastmodified":1449055014,
+    "wof:lastmodified":1467082678,
     "wof:name":"Research Line VA Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.921317,42.776984,-96.921317,42.776984],
+  "bbox": [
+    -96.921317,
+    42.776984,
+    -96.921317,
+    42.776984
+],
   "geometry": {"coordinates":[-96.921317,42.776984],"type":"Point"}
 }

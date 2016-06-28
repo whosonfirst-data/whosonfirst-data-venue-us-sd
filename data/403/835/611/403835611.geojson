@@ -2,13 +2,14 @@
   "id": 403835611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.102824,44.89169,-97.102824,44.89169",
     "geom:latitude":44.89169,
     "geom:longitude":-97.102824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 9th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403835611,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1467082676,
     "wof:name":"Lutheran Brethren Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.102824,44.89169,-97.102824,44.89169],
+  "bbox": [
+    -97.102824,
+    44.89169,
+    -97.102824,
+    44.89169
+],
   "geometry": {"coordinates":[-97.102824,44.89169],"type":"Point"}
 }

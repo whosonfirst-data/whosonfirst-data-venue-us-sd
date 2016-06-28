@@ -2,13 +2,14 @@
   "id": 371072839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.587836,43.590465,-96.587836,43.590465",
     "geom:latitude":43.590465,
     "geom:longitude":-96.587836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Main Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371072839,
-    "wof:lastmodified":1449049594,
+    "wof:lastmodified":1467082666,
     "wof:name":"Brandon Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-96.587836,43.590465,-96.587836,43.590465],
+  "bbox": [
+    -96.587836,
+    43.590465,
+    -96.587836,
+    43.590465
+],
   "geometry": {"coordinates":[-96.587836,43.590465],"type":"Point"}
 }

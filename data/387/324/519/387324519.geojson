@@ -2,13 +2,14 @@
   "id": 387324519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.639696,45.279225,-98.639696,45.279225",
     "geom:latitude":45.279225,
     "geom:longitude":-98.639696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14551 378th Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387324519,
-    "wof:lastmodified":1449058326,
+    "wof:lastmodified":1467082731,
     "wof:name":"Edwin Haselhorst",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.639696,45.279225,-98.639696,45.279225],
+  "bbox": [
+    -98.639696,
+    45.279225,
+    -98.639696,
+    45.279225
+],
   "geometry": {"coordinates":[-98.639696,45.279225],"type":"Point"}
 }

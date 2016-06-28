@@ -2,13 +2,14 @@
   "id": 370982711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.895796,43.345751,-96.895796,43.345751",
     "geom:latitude":43.345751,
     "geom:longitude":-96.895796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 S Elm St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370982711,
-    "wof:lastmodified":1449029666,
+    "wof:lastmodified":1467082656,
     "wof:name":"Second Reformed Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.895796,43.345751,-96.895796,43.345751],
+  "bbox": [
+    -96.895796,
+    43.345751,
+    -96.895796,
+    43.345751
+],
   "geometry": {"coordinates":[-96.895796,43.345751],"type":"Point"}
 }

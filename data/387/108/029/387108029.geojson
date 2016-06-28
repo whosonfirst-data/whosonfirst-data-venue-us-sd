@@ -2,13 +2,14 @@
   "id": 387108029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.791024,44.466708,-103.791024,44.466708",
     "geom:latitude":44.466708,
     "geom:longitude":-103.791024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Spearfish Mountain Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387108029,
-    "wof:lastmodified":1449056186,
+    "wof:lastmodified":1467082688,
     "wof:name":"Randy's Portable Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.791024,44.466708,-103.791024,44.466708],
-  "geometry": {"coordinates":[-103.791024,44.466708],"type":"Point"}
+  "bbox": [
+    -103.791024,
+    44.466708,
+    -103.791024,
+    44.466708
+],
+  "geometry": {"coordinates":[-103.79102399999999,44.466708],"type":"Point"}
 }

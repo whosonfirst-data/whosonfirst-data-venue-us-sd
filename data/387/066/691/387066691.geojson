@@ -2,13 +2,14 @@
   "id": 387066691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.915408,43.833715,-96.915408,43.833715",
     "geom:latitude":43.833715,
     "geom:longitude":-96.915408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46477 245th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387066691,
-    "wof:lastmodified":1449057207,
+    "wof:lastmodified":1467082708,
     "wof:name":"Huntimer-St Joseph The Workman",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.915408,43.833715,-96.915408,43.833715],
+  "bbox": [
+    -96.915408,
+    43.833715,
+    -96.915408,
+    43.833715
+],
   "geometry": {"coordinates":[-96.915408,43.833715],"type":"Point"}
 }

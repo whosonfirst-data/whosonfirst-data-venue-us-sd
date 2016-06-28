@@ -2,13 +2,14 @@
   "id": 387954613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.210843,44.363054,-98.210843,44.363054",
     "geom:latitude":44.363054,
     "geom:longitude":-98.210843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Iowa Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387954613,
-    "wof:lastmodified":1449059430,
+    "wof:lastmodified":1467082753,
     "wof:name":"Community Counseling Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-98.210843,44.363054,-98.210843,44.363054],
+  "bbox": [
+    -98.210843,
+    44.363054,
+    -98.210843,
+    44.363054
+],
   "geometry": {"coordinates":[-98.210843,44.363054],"type":"Point"}
 }

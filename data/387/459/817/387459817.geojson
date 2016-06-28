@@ -2,13 +2,14 @@
   "id": 387459817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.575596,43.931556,-103.575596,43.931556",
     "geom:latitude":43.931556,
     "geom:longitude":-103.575596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Main St",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387459817,
-    "wof:lastmodified":1449057655,
+    "wof:lastmodified":1467082718,
     "wof:name":"Warrior's Work Studio",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.575596,43.931556,-103.575596,43.931556],
+  "bbox": [
+    -103.575596,
+    43.931556,
+    -103.575596,
+    43.931556
+],
   "geometry": {"coordinates":[-103.575596,43.931556],"type":"Point"}
 }

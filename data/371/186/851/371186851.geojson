@@ -2,13 +2,14 @@
   "id": 371186851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.723872,43.542517,-96.723872,43.542517",
     "geom:latitude":43.542517,
     "geom:longitude":-96.723872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S 2nd Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371186851,
-    "wof:lastmodified":1449049861,
+    "wof:lastmodified":1467082669,
     "wof:name":"Rels Title Co",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-96.723872,43.542517,-96.723872,43.542517],
+  "bbox": [
+    -96.723872,
+    43.542517,
+    -96.723872,
+    43.542517
+],
   "geometry": {"coordinates":[-96.723872,43.542517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387451681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.40082,44.063843,-103.40082,44.063843",
     "geom:latitude":44.063843,
     "geom:longitude":-103.40082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23021 Hisega Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387451681,
-    "wof:lastmodified":1449057771,
+    "wof:lastmodified":1467082720,
     "wof:name":"Fireside Inn",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.40082,44.063843,-103.40082,44.063843],
+  "bbox": [
+    -103.40082,
+    44.063843,
+    -103.40082,
+    44.063843
+],
   "geometry": {"coordinates":[-103.40082,44.063843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387729579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.547012,44.557243,-96.547012,44.557243",
     "geom:latitude":44.557243,
     "geom:longitude":-96.547012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Togstad St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387729579,
-    "wof:lastmodified":1449058023,
+    "wof:lastmodified":1467082725,
     "wof:name":"Bethel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.547012,44.557243,-96.547012,44.557243],
+  "bbox": [
+    -96.547012,
+    44.557243,
+    -96.547012,
+    44.557243
+],
   "geometry": {"coordinates":[-96.547012,44.557243],"type":"Point"}
 }

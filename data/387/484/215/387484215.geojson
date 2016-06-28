@@ -2,13 +2,14 @@
   "id": 387484215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.99278,43.398873,-97.99278,43.398873",
     "geom:latitude":43.398873,
     "geom:longitude":-97.99278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Bismark St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387484215,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1467082759,
     "wof:name":"Harvey Bialas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.99278,43.398873,-97.99278,43.398873],
+  "bbox": [
+    -97.99278,
+    43.398873,
+    -97.99278,
+    43.398873
+],
   "geometry": {"coordinates":[-97.99278,43.398873],"type":"Point"}
 }

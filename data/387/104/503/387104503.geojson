@@ -2,13 +2,14 @@
   "id": 387104503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696738,43.5065,-96.696738,43.5065",
     "geom:latitude":43.5065,
     "geom:longitude":-96.696738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 S Birchwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387104503,
-    "wof:lastmodified":1449057673,
+    "wof:lastmodified":1467082718,
     "wof:name":"Zimbelman Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.696738,43.5065,-96.696738,43.5065],
+  "bbox": [
+    -96.696738,
+    43.5065,
+    -96.696738,
+    43.5065
+],
   "geometry": {"coordinates":[-96.696738,43.5065],"type":"Point"}
 }

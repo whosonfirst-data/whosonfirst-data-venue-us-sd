@@ -2,13 +2,14 @@
   "id": 387535485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.027924,45.444156,-99.027924,45.444156",
     "geom:latitude":45.444156,
     "geom:longitude":-99.027924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Main St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387535485,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1467082700,
     "wof:name":"Montana's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-99.027924,45.444156,-99.027924,45.444156],
+  "bbox": [
+    -99.027924,
+    45.444156,
+    -99.027924,
+    45.444156
+],
   "geometry": {"coordinates":[-99.027924,45.444156],"type":"Point"}
 }

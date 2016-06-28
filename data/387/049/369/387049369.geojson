@@ -2,13 +2,14 @@
   "id": 387049369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.257926,43.71444,-98.257926,43.71444",
     "geom:latitude":43.71444,
     "geom:longitude":-98.257926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Tibbetts St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387049369,
-    "wof:lastmodified":1449057993,
+    "wof:lastmodified":1467082725,
     "wof:name":"E F Johnson Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.257926,43.71444,-98.257926,43.71444],
+  "bbox": [
+    -98.257926,
+    43.71444,
+    -98.257926,
+    43.71444
+],
   "geometry": {"coordinates":[-98.257926,43.71444],"type":"Point"}
 }

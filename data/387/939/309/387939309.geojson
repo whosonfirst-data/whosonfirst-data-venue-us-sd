@@ -2,13 +2,14 @@
   "id": 387939309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.460453,45.294024,-96.460453,45.294024",
     "geom:latitude":45.294024,
     "geom:longitude":-96.460453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Mitchell Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387939309,
-    "wof:lastmodified":1449057214,
+    "wof:lastmodified":1467082709,
     "wof:name":"Birthright Of Big Stone City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "abortion"
     ]
 },
-  "bbox": [-96.460453,45.294024,-96.460453,45.294024],
+  "bbox": [
+    -96.460453,
+    45.294024,
+    -96.460453,
+    45.294024
+],
   "geometry": {"coordinates":[-96.460453,45.294024],"type":"Point"}
 }

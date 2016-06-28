@@ -2,13 +2,14 @@
   "id": 371098655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.71756,44.385948,-103.71756,44.385948",
     "geom:latitude":44.385948,
     "geom:longitude":-103.71756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Crescent Dr",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371098655,
-    "wof:lastmodified":1449050019,
+    "wof:lastmodified":1467082672,
     "wof:name":"Phoenix Photography By Sandy G",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-103.71756,44.385948,-103.71756,44.385948],
-  "geometry": {"coordinates":[-103.71756,44.385948],"type":"Point"}
+  "bbox": [
+    -103.71756,
+    44.385948,
+    -103.71756,
+    44.385948
+],
+  "geometry": {"coordinates":[-103.71756000000001,44.385948],"type":"Point"}
 }

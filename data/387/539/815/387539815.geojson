@@ -2,13 +2,14 @@
   "id": 387539815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.552823,45.315092,-98.552823,45.315092",
     "geom:latitude":45.315092,
     "geom:longitude":-98.552823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38422 143rd St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387539815,
-    "wof:lastmodified":1449059996,
+    "wof:lastmodified":1467082765,
     "wof:name":"Larry Lowe",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.552823,45.315092,-98.552823,45.315092],
+  "bbox": [
+    -98.552823,
+    45.315092,
+    -98.552823,
+    45.315092
+],
   "geometry": {"coordinates":[-98.552823,45.315092],"type":"Point"}
 }

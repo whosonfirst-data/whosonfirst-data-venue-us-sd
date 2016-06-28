@@ -2,13 +2,14 @@
   "id": 403802067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.754071,43.497021,-96.754071,43.497021",
     "geom:latitude":43.497021,
     "geom:longitude":-96.754071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5103 S Swift Park Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403802067,
-    "wof:lastmodified":1449055716,
+    "wof:lastmodified":1467082682,
     "wof:name":"Mettler Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.754071,43.497021,-96.754071,43.497021],
+  "bbox": [
+    -96.754071,
+    43.497021,
+    -96.754071,
+    43.497021
+],
   "geometry": {"coordinates":[-96.754071,43.497021],"type":"Point"}
 }

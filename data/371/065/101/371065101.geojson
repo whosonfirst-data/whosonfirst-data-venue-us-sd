@@ -2,13 +2,14 @@
   "id": 371065101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.202294,44.341597,-98.202294,44.341597",
     "geom:latitude":44.341597,
     "geom:longitude":-98.202294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 21st St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371065101,
-    "wof:lastmodified":1449050133,
+    "wof:lastmodified":1467082673,
     "wof:name":"Double d Western Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "western"
     ]
 },
-  "bbox": [-98.202294,44.341597,-98.202294,44.341597],
-  "geometry": {"coordinates":[-98.202294,44.341597],"type":"Point"}
+  "bbox": [
+    -98.202294,
+    44.341597,
+    -98.202294,
+    44.341597
+],
+  "geometry": {"coordinates":[-98.20229399999999,44.341597],"type":"Point"}
 }

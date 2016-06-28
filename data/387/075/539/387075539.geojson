@@ -2,13 +2,14 @@
   "id": 387075539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.960316,44.398528,-96.960316,44.398528",
     "geom:latitude":44.398528,
     "geom:longitude":-96.960316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46226 206th St",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387075539,
-    "wof:lastmodified":1449058178,
+    "wof:lastmodified":1467082728,
     "wof:name":"Douglas Algra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.960316,44.398528,-96.960316,44.398528],
-  "geometry": {"coordinates":[-96.960316,44.398528],"type":"Point"}
+  "bbox": [
+    -96.960316,
+    44.398528,
+    -96.960316,
+    44.398528
+],
+  "geometry": {"coordinates":[-96.96031600000001,44.398528],"type":"Point"}
 }

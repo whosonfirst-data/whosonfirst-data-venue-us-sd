@@ -2,13 +2,14 @@
   "id": 387619539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.525282,44.413839,-103.525282,44.413839",
     "geom:latitude":44.413839,
     "geom:longitude":-103.525282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2035 Hill St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387619539,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1467082700,
     "wof:name":"Like Home Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.525282,44.413839,-103.525282,44.413839],
+  "bbox": [
+    -103.525282,
+    44.413839,
+    -103.525282,
+    44.413839
+],
   "geometry": {"coordinates":[-103.525282,44.413839],"type":"Point"}
 }

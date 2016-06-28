@@ -2,13 +2,14 @@
   "id": 387778413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844788,43.401215,-98.844788,43.401215",
     "geom:latitude":43.401215,
     "geom:longitude":-98.844788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27480 State Hwy 45",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387778413,
-    "wof:lastmodified":1449056195,
+    "wof:lastmodified":1467082688,
     "wof:name":"Yellow Rose Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.844788,43.401215,-98.844788,43.401215],
-  "geometry": {"coordinates":[-98.844788,43.401215],"type":"Point"}
+  "bbox": [
+    -98.844788,
+    43.401215,
+    -98.844788,
+    43.401215
+],
+  "geometry": {"coordinates":[-98.84478799999999,43.401215],"type":"Point"}
 }

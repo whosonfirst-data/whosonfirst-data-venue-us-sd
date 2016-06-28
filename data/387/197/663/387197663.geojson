@@ -2,13 +2,14 @@
   "id": 387197663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774802,43.688736,-96.774802,43.688736",
     "geom:latitude":43.688736,
     "geom:longitude":-96.774802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47176 255th St",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387197663,
-    "wof:lastmodified":1449059441,
+    "wof:lastmodified":1467082753,
     "wof:name":"Carl Eliason",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.774802,43.688736,-96.774802,43.688736],
-  "geometry": {"coordinates":[-96.774802,43.688736],"type":"Point"}
+  "bbox": [
+    -96.774802,
+    43.688736,
+    -96.774802,
+    43.688736
+],
+  "geometry": {"coordinates":[-96.77480199999999,43.688736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370976231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767666,43.50768,-96.767666,43.50768",
     "geom:latitude":43.50768,
     "geom:longitude":-96.767666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370976231,
-    "wof:lastmodified":1449030487,
+    "wof:lastmodified":1467082656,
     "wof:name":"Missile Muffler & Brake Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exhaust"
     ]
 },
-  "bbox": [-96.767666,43.50768,-96.767666,43.50768],
-  "geometry": {"coordinates":[-96.767666,43.50768],"type":"Point"}
+  "bbox": [
+    -96.767666,
+    43.50768,
+    -96.767666,
+    43.50768
+],
+  "geometry": {"coordinates":[-96.76766600000001,43.50768],"type":"Point"}
 }

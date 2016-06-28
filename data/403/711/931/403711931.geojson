@@ -2,13 +2,14 @@
   "id": 403711931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.94688,45.010314,-99.94688,45.010314",
     "geom:latitude":45.010314,
     "geom:longitude":-99.94688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Logan Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403711931,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1467082683,
     "wof:name":"C W Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-99.94688,45.010314,-99.94688,45.010314],
-  "geometry": {"coordinates":[-99.94688,45.010314],"type":"Point"}
+  "bbox": [
+    -99.94688,
+    45.010314,
+    -99.94688,
+    45.010314
+],
+  "geometry": {"coordinates":[-99.94687999999999,45.010314],"type":"Point"}
 }

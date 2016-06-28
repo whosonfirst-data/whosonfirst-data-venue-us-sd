@@ -2,13 +2,14 @@
   "id": 387122395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785857,43.543968,-96.785857,43.543968",
     "geom:latitude":43.543968,
     "geom:longitude":-96.785857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387122395,
-    "wof:lastmodified":1449058265,
+    "wof:lastmodified":1467082730,
     "wof:name":"Wheelco Brake & Supply Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "canopy"
     ]
 },
-  "bbox": [-96.785857,43.543968,-96.785857,43.543968],
-  "geometry": {"coordinates":[-96.785857,43.543968],"type":"Point"}
+  "bbox": [
+    -96.785857,
+    43.543968,
+    -96.785857,
+    43.543968
+],
+  "geometry": {"coordinates":[-96.78585699999999,43.543968],"type":"Point"}
 }

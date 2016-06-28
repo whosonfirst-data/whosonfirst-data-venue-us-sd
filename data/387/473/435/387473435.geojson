@@ -2,13 +2,14 @@
   "id": 387473435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.124788,45.284351,-98.124788,45.284351",
     "geom:latitude":45.284351,
     "geom:longitude":-98.124788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14496 405th Ave",
     "sg:city":"Conde",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387473435,
-    "wof:lastmodified":1449056891,
+    "wof:lastmodified":1467082702,
     "wof:name":"Krueger James Sons Wldg & Repr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.124788,45.284351,-98.124788,45.284351],
+  "bbox": [
+    -98.124788,
+    45.284351,
+    -98.124788,
+    45.284351
+],
   "geometry": {"coordinates":[-98.124788,45.284351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387761111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790847,43.516287,-96.790847,43.516287",
     "geom:latitude":43.516287,
     "geom:longitude":-96.790847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 W 39th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387761111,
-    "wof:lastmodified":1449059008,
+    "wof:lastmodified":1467082745,
     "wof:name":"Htp Systems",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-96.790847,43.516287,-96.790847,43.516287],
+  "bbox": [
+    -96.790847,
+    43.516287,
+    -96.790847,
+    43.516287
+],
   "geometry": {"coordinates":[-96.790847,43.516287],"type":"Point"}
 }

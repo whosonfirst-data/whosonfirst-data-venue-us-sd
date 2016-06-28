@@ -2,13 +2,14 @@
   "id": 387494445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.390529,43.450505,-98.390529,43.450505",
     "geom:latitude":43.450505,
     "geom:longitude":-98.390529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27140 390th Ave",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387494445,
-    "wof:lastmodified":1449059494,
+    "wof:lastmodified":1467082754,
     "wof:name":"Henry W Bamberg Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.390529,43.450505,-98.390529,43.450505],
+  "bbox": [
+    -98.390529,
+    43.450505,
+    -98.390529,
+    43.450505
+],
   "geometry": {"coordinates":[-98.390529,43.450505],"type":"Point"}
 }

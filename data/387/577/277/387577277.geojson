@@ -2,13 +2,14 @@
   "id": 387577277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721342,43.587469,-96.721342,43.587469",
     "geom:latitude":43.587469,
     "geom:longitude":-96.721342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387577277,
-    "wof:lastmodified":1449060027,
+    "wof:lastmodified":1467082765,
     "wof:name":"Hereditary Colon Cancer Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.721342,43.587469,-96.721342,43.587469],
-  "geometry": {"coordinates":[-96.721342,43.587469],"type":"Point"}
+  "bbox": [
+    -96.721342,
+    43.587469,
+    -96.721342,
+    43.587469
+],
+  "geometry": {"coordinates":[-96.72134200000001,43.587469],"type":"Point"}
 }

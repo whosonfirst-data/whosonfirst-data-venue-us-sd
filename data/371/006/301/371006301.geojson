@@ -2,13 +2,14 @@
   "id": 371006301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768377,44.297241,-96.768377,44.297241",
     "geom:latitude":44.297241,
     "geom:longitude":-96.768377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371006301,
-    "wof:lastmodified":1449049878,
+    "wof:lastmodified":1467082670,
     "wof:name":"Darkside Paintball Arena Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [-96.768377,44.297241,-96.768377,44.297241],
+  "bbox": [
+    -96.768377,
+    44.297241,
+    -96.768377,
+    44.297241
+],
   "geometry": {"coordinates":[-96.768377,44.297241],"type":"Point"}
 }

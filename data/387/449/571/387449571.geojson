@@ -2,13 +2,14 @@
   "id": 387449571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598874,43.766693,-103.598874,43.766693",
     "geom:latitude":43.766693,
     "geom:longitude":-103.598874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387449571,
-    "wof:lastmodified":1449059642,
+    "wof:lastmodified":1467082757,
     "wof:name":"Elk Canyon Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.598874,43.766693,-103.598874,43.766693],
+  "bbox": [
+    -103.598874,
+    43.766693,
+    -103.598874,
+    43.766693
+],
   "geometry": {"coordinates":[-103.598874,43.766693],"type":"Point"}
 }

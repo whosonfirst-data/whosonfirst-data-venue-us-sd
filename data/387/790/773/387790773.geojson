@@ -2,13 +2,14 @@
   "id": 387790773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.606159,43.764528,-103.606159,43.764528",
     "geom:latitude":43.764528,
     "geom:longitude":-103.606159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387790773,
-    "wof:lastmodified":1449059020,
+    "wof:lastmodified":1467082745,
     "wof:name":"Cattlemans Steakhouse & Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.606159,43.764528,-103.606159,43.764528],
-  "geometry": {"coordinates":[-103.606159,43.764528],"type":"Point"}
+  "bbox": [
+    -103.606159,
+    43.764528,
+    -103.606159,
+    43.764528
+],
+  "geometry": {"coordinates":[-103.60615900000001,43.764528],"type":"Point"}
 }

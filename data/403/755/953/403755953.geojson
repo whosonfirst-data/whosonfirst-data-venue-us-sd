@@ -2,13 +2,14 @@
   "id": 403755953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234405,44.349755,-98.234405,44.349755",
     "geom:latitude":44.349755,
     "geom:longitude":-98.234405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403755953,
-    "wof:lastmodified":1449055016,
+    "wof:lastmodified":1467082678,
     "wof:name":"Huron Area Ctr For Ind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-98.234405,44.349755,-98.234405,44.349755],
+  "bbox": [
+    -98.234405,
+    44.349755,
+    -98.234405,
+    44.349755
+],
   "geometry": {"coordinates":[-98.234405,44.349755],"type":"Point"}
 }

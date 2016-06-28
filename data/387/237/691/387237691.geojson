@@ -2,13 +2,14 @@
   "id": 387237691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.770911,43.576003,-96.770911,43.576003",
     "geom:latitude":43.576003,
     "geom:longitude":-96.770911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 N Louise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387237691,
-    "wof:lastmodified":1449056211,
+    "wof:lastmodified":1467082689,
     "wof:name":"Butler Machinery Co",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.770911,43.576003,-96.770911,43.576003],
+  "bbox": [
+    -96.770911,
+    43.576003,
+    -96.770911,
+    43.576003
+],
   "geometry": {"coordinates":[-96.770911,43.576003],"type":"Point"}
 }

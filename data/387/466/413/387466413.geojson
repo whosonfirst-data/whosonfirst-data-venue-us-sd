@@ -2,13 +2,14 @@
   "id": 387466413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.711725,43.142889,-99.711725,43.142889",
     "geom:latitude":43.142889,
     "geom:longitude":-99.711725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29478 323rd Ave",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387466413,
-    "wof:lastmodified":1449057235,
+    "wof:lastmodified":1467082709,
     "wof:name":"Demers Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.711725,43.142889,-99.711725,43.142889],
+  "bbox": [
+    -99.711725,
+    43.142889,
+    -99.711725,
+    43.142889
+],
   "geometry": {"coordinates":[-99.711725,43.142889],"type":"Point"}
 }

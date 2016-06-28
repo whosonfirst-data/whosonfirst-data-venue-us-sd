@@ -2,13 +2,14 @@
   "id": 387374905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681776,43.551213,-96.681776,43.551213",
     "geom:latitude":43.551213,
     "geom:longitude":-96.681776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 E 6th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387374905,
-    "wof:lastmodified":1449057765,
+    "wof:lastmodified":1467082720,
     "wof:name":"Sioux Falls Roofing Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.681776,43.551213,-96.681776,43.551213],
+  "bbox": [
+    -96.681776,
+    43.551213,
+    -96.681776,
+    43.551213
+],
   "geometry": {"coordinates":[-96.681776,43.551213],"type":"Point"}
 }

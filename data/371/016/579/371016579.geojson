@@ -2,13 +2,14 @@
   "id": 371016579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.861172,42.99587,-97.861172,42.99587",
     "geom:latitude":42.99587,
     "geom:longitude":-97.861172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 20th Ave",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371016579,
-    "wof:lastmodified":1449049220,
+    "wof:lastmodified":1467082660,
     "wof:name":"Pro Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.861172,42.99587,-97.861172,42.99587],
+  "bbox": [
+    -97.861172,
+    42.99587,
+    -97.861172,
+    42.99587
+],
   "geometry": {"coordinates":[-97.861172,42.99587],"type":"Point"}
 }

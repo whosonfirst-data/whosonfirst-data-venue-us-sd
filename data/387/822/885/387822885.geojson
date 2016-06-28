@@ -2,13 +2,14 @@
   "id": 387822885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.438728,45.548993,-100.438728,45.548993",
     "geom:latitude":45.548993,
     "geom:longitude":-100.438728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 3rd Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387822885,
-    "wof:lastmodified":1449059803,
+    "wof:lastmodified":1467082761,
     "wof:name":"Mobridge Youth Organization In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.438728,45.548993,-100.438728,45.548993],
+  "bbox": [
+    -100.438728,
+    45.548993,
+    -100.438728,
+    45.548993
+],
   "geometry": {"coordinates":[-100.438728,45.548993],"type":"Point"}
 }

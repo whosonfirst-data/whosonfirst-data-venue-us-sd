@@ -2,13 +2,14 @@
   "id": 371099453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.652657,43.515977,-96.652657,43.515977",
     "geom:latitude":43.515977,
     "geom:longitude":-96.652657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 S Lisa Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371099453,
-    "wof:lastmodified":1449049738,
+    "wof:lastmodified":1467082668,
     "wof:name":"Dans Garbage Service",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.652657,43.515977,-96.652657,43.515977],
+  "bbox": [
+    -96.652657,
+    43.515977,
+    -96.652657,
+    43.515977
+],
   "geometry": {"coordinates":[-96.652657,43.515977],"type":"Point"}
 }

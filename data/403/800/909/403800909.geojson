@@ -2,13 +2,14 @@
   "id": 403800909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.673953,43.659812,-96.673953,43.659812",
     "geom:latitude":43.659812,
     "geom:longitude":-96.673953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47648 257th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403800909,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1467082675,
     "wof:name":"Kapp's Fire Svc Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-96.673953,43.659812,-96.673953,43.659812],
+  "bbox": [
+    -96.673953,
+    43.659812,
+    -96.673953,
+    43.659812
+],
   "geometry": {"coordinates":[-96.673953,43.659812],"type":"Point"}
 }

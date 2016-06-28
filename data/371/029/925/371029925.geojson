@@ -2,13 +2,14 @@
   "id": 371029925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.060343,43.445651,-97.060343,43.445651",
     "geom:latitude":43.445651,
     "geom:longitude":-97.060343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45722 272nd St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371029925,
-    "wof:lastmodified":1449049464,
+    "wof:lastmodified":1467082664,
     "wof:name":"Darrell Buller Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.060343,43.445651,-97.060343,43.445651],
+  "bbox": [
+    -97.060343,
+    43.445651,
+    -97.060343,
+    43.445651
+],
   "geometry": {"coordinates":[-97.060343,43.445651],"type":"Point"}
 }

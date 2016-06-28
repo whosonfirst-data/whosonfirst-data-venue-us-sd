@@ -2,13 +2,14 @@
   "id": 387007741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798737,44.29798,-96.798737,44.29798",
     "geom:latitude":44.29798,
     "geom:longitude":-96.798737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387007741,
-    "wof:lastmodified":1449059265,
+    "wof:lastmodified":1467082750,
     "wof:name":"Pheasant Lounge & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-96.798737,44.29798,-96.798737,44.29798],
+  "bbox": [
+    -96.798737,
+    44.29798,
+    -96.798737,
+    44.29798
+],
   "geometry": {"coordinates":[-96.798737,44.29798],"type":"Point"}
 }

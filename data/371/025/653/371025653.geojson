@@ -2,13 +2,14 @@
   "id": 371025653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856834,43.379486,-99.856834,43.379486",
     "geom:latitude":43.379486,
     "geom:longitude":-99.856834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371025653,
-    "wof:lastmodified":1449049944,
+    "wof:lastmodified":1467082671,
     "wof:name":"Country Pride Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-99.856834,43.379486,-99.856834,43.379486],
-  "geometry": {"coordinates":[-99.856834,43.379486],"type":"Point"}
+  "bbox": [
+    -99.856834,
+    43.379486,
+    -99.856834,
+    43.379486
+],
+  "geometry": {"coordinates":[-99.85683400000001,43.379486],"type":"Point"}
 }

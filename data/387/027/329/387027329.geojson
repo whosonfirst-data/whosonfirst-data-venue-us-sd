@@ -2,13 +2,14 @@
   "id": 387027329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.220835,44.086996,-103.220835,44.086996",
     "geom:latitude":44.086996,
     "geom:longitude":-103.220835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387027329,
-    "wof:lastmodified":1449056808,
+    "wof:lastmodified":1467082701,
     "wof:name":"MEALS Program",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-103.220835,44.086996,-103.220835,44.086996],
-  "geometry": {"coordinates":[-103.220835,44.086996],"type":"Point"}
+  "bbox": [
+    -103.220835,
+    44.086996,
+    -103.220835,
+    44.086996
+],
+  "geometry": {"coordinates":[-103.22083499999999,44.086996],"type":"Point"}
 }

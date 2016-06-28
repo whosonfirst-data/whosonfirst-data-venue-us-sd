@@ -2,13 +2,14 @@
   "id": 387118363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708846,43.525836,-96.708846,43.525836",
     "geom:latitude":43.525836,
     "geom:longitude":-96.708846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 S Van Eps Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387118363,
-    "wof:lastmodified":1449059195,
+    "wof:lastmodified":1467082749,
     "wof:name":"Empire Baptist Temple Pastor's",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.708846,43.525836,-96.708846,43.525836],
-  "geometry": {"coordinates":[-96.708846,43.525836],"type":"Point"}
+  "bbox": [
+    -96.708846,
+    43.525836,
+    -96.708846,
+    43.525836
+],
+  "geometry": {"coordinates":[-96.70884599999999,43.525836],"type":"Point"}
 }

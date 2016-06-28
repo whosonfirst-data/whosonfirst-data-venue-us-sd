@@ -2,13 +2,14 @@
   "id": 371120345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094068,44.901094,-97.094068,44.901094",
     "geom:latitude":44.901094,
     "geom:longitude":-97.094068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 13th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371120345,
-    "wof:lastmodified":1449049984,
+    "wof:lastmodified":1467082671,
     "wof:name":"South Dakota Mfg Ext Prtnrshp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-97.094068,44.901094,-97.094068,44.901094],
-  "geometry": {"coordinates":[-97.094068,44.901094],"type":"Point"}
+  "bbox": [
+    -97.094068,
+    44.901094,
+    -97.094068,
+    44.901094
+],
+  "geometry": {"coordinates":[-97.09406799999999,44.901094],"type":"Point"}
 }

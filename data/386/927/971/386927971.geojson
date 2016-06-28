@@ -2,13 +2,14 @@
   "id": 386927971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486833,43.710442,-98.486833,43.710442",
     "geom:latitude":43.710442,
     "geom:longitude":-98.486833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Davenport St",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386927971,
-    "wof:lastmodified":1449028941,
+    "wof:lastmodified":1467082655,
     "wof:name":"St Paul's Luth Chr Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.486833,43.710442,-98.486833,43.710442],
+  "bbox": [
+    -98.486833,
+    43.710442,
+    -98.486833,
+    43.710442
+],
   "geometry": {"coordinates":[-98.486833,43.710442],"type":"Point"}
 }

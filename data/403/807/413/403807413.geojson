@@ -2,13 +2,14 @@
   "id": 403807413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396988,43.082595,-97.396988,43.082595",
     "geom:latitude":43.082595,
     "geom:longitude":-97.396988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43416 State Hwy 46",
     "sg:city":"Utica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403807413,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1467082677,
     "wof:name":"Peterson Orlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.396988,43.082595,-97.396988,43.082595],
-  "geometry": {"coordinates":[-97.396988,43.082595],"type":"Point"}
+  "bbox": [
+    -97.396988,
+    43.082595,
+    -97.396988,
+    43.082595
+],
+  "geometry": {"coordinates":[-97.39698799999999,43.082595],"type":"Point"}
 }

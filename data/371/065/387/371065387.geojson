@@ -2,13 +2,14 @@
   "id": 371065387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.252949,44.061432,-103.252949,44.061432",
     "geom:latitude":44.061432,
     "geom:longitude":-103.252949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 Arroyo Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371065387,
-    "wof:lastmodified":1449050134,
+    "wof:lastmodified":1467082673,
     "wof:name":"Fox Transcription LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-103.252949,44.061432,-103.252949,44.061432],
+  "bbox": [
+    -103.252949,
+    44.061432,
+    -103.252949,
+    44.061432
+],
   "geometry": {"coordinates":[-103.252949,44.061432],"type":"Point"}
 }

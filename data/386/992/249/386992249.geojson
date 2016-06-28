@@ -2,13 +2,14 @@
   "id": 386992249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.283688,44.066304,-103.283688,44.066304",
     "geom:latitude":44.066304,
     "geom:longitude":-103.283688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Elmhurst Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386992249,
-    "wof:lastmodified":1449028769,
+    "wof:lastmodified":1467082652,
     "wof:name":"RTS Carpet Service",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.283688,44.066304,-103.283688,44.066304],
+  "bbox": [
+    -103.283688,
+    44.066304,
+    -103.283688,
+    44.066304
+],
   "geometry": {"coordinates":[-103.283688,44.066304],"type":"Point"}
 }

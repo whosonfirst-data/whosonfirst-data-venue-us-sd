@@ -2,13 +2,14 @@
   "id": 403823895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214053,44.363071,-98.214053,44.363071",
     "geom:latitude":44.363071,
     "geom:longitude":-98.214053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403823895,
-    "wof:lastmodified":1449055943,
+    "wof:lastmodified":1467082684,
     "wof:name":"Landstrom's Photo Loft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "photographer"
     ]
 },
-  "bbox": [-98.214053,44.363071,-98.214053,44.363071],
-  "geometry": {"coordinates":[-98.214053,44.363071],"type":"Point"}
+  "bbox": [
+    -98.214053,
+    44.363071,
+    -98.214053,
+    44.363071
+],
+  "geometry": {"coordinates":[-98.21405300000001,44.363071],"type":"Point"}
 }

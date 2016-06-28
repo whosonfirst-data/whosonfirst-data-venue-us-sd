@@ -2,13 +2,14 @@
   "id": 403703209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.847021,44.491066,-103.847021,44.491066",
     "geom:latitude":44.491066,
     "geom:longitude":-103.847021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 E Illinois St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403703209,
-    "wof:lastmodified":1449055049,
+    "wof:lastmodified":1467082678,
     "wof:name":"Express Video-Spearfish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.847021,44.491066,-103.847021,44.491066],
+  "bbox": [
+    -103.847021,
+    44.491066,
+    -103.847021,
+    44.491066
+],
   "geometry": {"coordinates":[-103.847021,44.491066],"type":"Point"}
 }

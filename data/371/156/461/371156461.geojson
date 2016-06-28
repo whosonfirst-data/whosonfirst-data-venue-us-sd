@@ -2,13 +2,14 @@
   "id": 371156461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.910338,43.516492,-96.910338,43.516492",
     "geom:latitude":43.516492,
     "geom:longitude":-96.910338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26685 465th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371156461,
-    "wof:lastmodified":1449049244,
+    "wof:lastmodified":1467082661,
     "wof:name":"Smoke & Roses",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-96.910338,43.516492,-96.910338,43.516492],
+  "bbox": [
+    -96.910338,
+    43.516492,
+    -96.910338,
+    43.516492
+],
   "geometry": {"coordinates":[-96.910338,43.516492],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387114095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.218586,44.893746,-97.218586,44.893746",
     "geom:latitude":44.893746,
     "geom:longitude":-97.218586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 60th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387114095,
-    "wof:lastmodified":1449057687,
+    "wof:lastmodified":1467082718,
     "wof:name":"Kc Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.218586,44.893746,-97.218586,44.893746],
+  "bbox": [
+    -97.218586,
+    44.893746,
+    -97.218586,
+    44.893746
+],
   "geometry": {"coordinates":[-97.218586,44.893746],"type":"Point"}
 }

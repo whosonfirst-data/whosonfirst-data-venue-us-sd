@@ -2,13 +2,14 @@
   "id": 387770583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801713,43.54748,-96.801713,43.54748",
     "geom:latitude":43.54748,
     "geom:longitude":-96.801713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 W 9th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387770583,
-    "wof:lastmodified":1449059992,
+    "wof:lastmodified":1467082765,
     "wof:name":"Ed's Budget Sewer & Drain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sewer"
     ]
 },
-  "bbox": [-96.801713,43.54748,-96.801713,43.54748],
-  "geometry": {"coordinates":[-96.801713,43.54748],"type":"Point"}
+  "bbox": [
+    -96.801713,
+    43.54748,
+    -96.801713,
+    43.54748
+],
+  "geometry": {"coordinates":[-96.80171300000001,43.54748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387547531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381941,42.879924,-97.381941,42.879924",
     "geom:latitude":42.879924,
     "geom:longitude":-97.381941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E 11th St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387547531,
-    "wof:lastmodified":1449056495,
+    "wof:lastmodified":1467082694,
     "wof:name":"Brian's Electric & Trenching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.381941,42.879924,-97.381941,42.879924],
+  "bbox": [
+    -97.381941,
+    42.879924,
+    -97.381941,
+    42.879924
+],
   "geometry": {"coordinates":[-97.381941,42.879924],"type":"Point"}
 }

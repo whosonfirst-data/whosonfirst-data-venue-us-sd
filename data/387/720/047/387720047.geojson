@@ -2,13 +2,14 @@
   "id": 387720047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.732101,44.484408,-97.732101,44.484408",
     "geom:latitude":44.484408,
     "geom:longitude":-97.732101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42404 200th St",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387720047,
-    "wof:lastmodified":1449057012,
+    "wof:lastmodified":1467082705,
     "wof:name":"Lv Painting Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.732101,44.484408,-97.732101,44.484408],
+  "bbox": [
+    -97.732101,
+    44.484408,
+    -97.732101,
+    44.484408
+],
   "geometry": {"coordinates":[-97.732101,44.484408],"type":"Point"}
 }

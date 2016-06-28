@@ -2,13 +2,14 @@
   "id": 403785791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.745135,43.544015,-96.745135,43.544015",
     "geom:latitude":43.544015,
     "geom:longitude":-96.745135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403785791,
-    "wof:lastmodified":1449055747,
+    "wof:lastmodified":1467082683,
     "wof:name":"Zomer Motors",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.745135,43.544015,-96.745135,43.544015],
+  "bbox": [
+    -96.745135,
+    43.544015,
+    -96.745135,
+    43.544015
+],
   "geometry": {"coordinates":[-96.745135,43.544015],"type":"Point"}
 }

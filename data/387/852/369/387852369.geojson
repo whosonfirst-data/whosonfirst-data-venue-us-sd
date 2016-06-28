@@ -2,13 +2,14 @@
   "id": 387852369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710272,43.825136,-96.710272,43.825136",
     "geom:latitude":43.825136,
     "geom:longitude":-96.710272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Orleans Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387852369,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1467082750,
     "wof:name":"Dell Rapids Carnegie Pub Lib",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.710272,43.825136,-96.710272,43.825136],
+  "bbox": [
+    -96.710272,
+    43.825136,
+    -96.710272,
+    43.825136
+],
   "geometry": {"coordinates":[-96.710272,43.825136],"type":"Point"}
 }

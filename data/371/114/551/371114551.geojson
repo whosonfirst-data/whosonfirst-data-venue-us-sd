@@ -2,13 +2,14 @@
   "id": 371114551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.888882,43.797669,-97.888882,43.797669",
     "geom:latitude":43.797669,
     "geom:longitude":-97.888882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24789 416th Ave",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371114551,
-    "wof:lastmodified":1449049460,
+    "wof:lastmodified":1467082664,
     "wof:name":"Leonard A & Beverly A Rowley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.888882,43.797669,-97.888882,43.797669],
+  "bbox": [
+    -97.888882,
+    43.797669,
+    -97.888882,
+    43.797669
+],
   "geometry": {"coordinates":[-97.888882,43.797669],"type":"Point"}
 }

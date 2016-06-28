@@ -2,13 +2,14 @@
   "id": 371105241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774542,43.541495,-96.774542,43.541495",
     "geom:latitude":43.541495,
     "geom:longitude":-96.774542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 S Lyons Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371105241,
-    "wof:lastmodified":1449049420,
+    "wof:lastmodified":1467082663,
     "wof:name":"Pine Valley Cabinet Co",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-96.774542,43.541495,-96.774542,43.541495],
+  "bbox": [
+    -96.774542,
+    43.541495,
+    -96.774542,
+    43.541495
+],
   "geometry": {"coordinates":[-96.774542,43.541495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387048571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777238,43.543862,-96.777238,43.543862",
     "geom:latitude":43.543862,
     "geom:longitude":-96.777238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4211 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387048571,
-    "wof:lastmodified":1449057423,
+    "wof:lastmodified":1467082713,
     "wof:name":"Grand Casino",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-96.777238,43.543862,-96.777238,43.543862],
+  "bbox": [
+    -96.777238,
+    43.543862,
+    -96.777238,
+    43.543862
+],
   "geometry": {"coordinates":[-96.777238,43.543862],"type":"Point"}
 }

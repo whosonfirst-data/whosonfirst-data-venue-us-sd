@@ -2,13 +2,14 @@
   "id": 387702191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.257397,43.010372,-97.257397,43.010372",
     "geom:latitude":43.010372,
     "geom:longitude":-97.257397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44751 302nd St",
     "sg:city":"Volin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387702191,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1467082725,
     "wof:name":"Hanson Emerald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.257397,43.010372,-97.257397,43.010372],
+  "bbox": [
+    -97.257397,
+    43.010372,
+    -97.257397,
+    43.010372
+],
   "geometry": {"coordinates":[-97.257397,43.010372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387358611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.983693,44.519356,-98.983693,44.519356",
     "geom:latitude":44.519356,
     "geom:longitude":-98.983693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 E 3rd Ave",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387358611,
-    "wof:lastmodified":1449057708,
+    "wof:lastmodified":1467082719,
     "wof:name":"Renees Ltle Angls Fmly Dy Cre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.983693,44.519356,-98.983693,44.519356],
+  "bbox": [
+    -98.983693,
+    44.519356,
+    -98.983693,
+    44.519356
+],
   "geometry": {"coordinates":[-98.983693,44.519356],"type":"Point"}
 }

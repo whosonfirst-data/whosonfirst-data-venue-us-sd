@@ -2,13 +2,14 @@
   "id": 387861175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.565052,44.080304,-98.565052,44.080304",
     "geom:latitude":44.080304,
     "geom:longitude":-98.565052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Slocum Ave N",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387861175,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1467082763,
     "wof:name":"Heart To Heart Daycare Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.565052,44.080304,-98.565052,44.080304],
-  "geometry": {"coordinates":[-98.565052,44.080304],"type":"Point"}
+  "bbox": [
+    -98.565052,
+    44.080304,
+    -98.565052,
+    44.080304
+],
+  "geometry": {"coordinates":[-98.56505199999999,44.080304],"type":"Point"}
 }

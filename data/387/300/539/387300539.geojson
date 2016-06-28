@@ -2,13 +2,14 @@
   "id": 387300539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.621833,45.222997,-96.621833,45.222997",
     "geom:latitude":45.222997,
     "geom:longitude":-96.621833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E Milbank Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387300539,
-    "wof:lastmodified":1449058252,
+    "wof:lastmodified":1467082730,
     "wof:name":"Twin Valley Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.621833,45.222997,-96.621833,45.222997],
+  "bbox": [
+    -96.621833,
+    45.222997,
+    -96.621833,
+    45.222997
+],
   "geometry": {"coordinates":[-96.621833,45.222997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371008051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.200655,44.349245,-98.200655,44.349245",
     "geom:latitude":44.349245,
     "geom:longitude":-98.200655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1479 Riverview Dr",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371008051,
-    "wof:lastmodified":1449049338,
+    "wof:lastmodified":1467082662,
     "wof:name":"Beat Patrol DJ Karaoke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-98.200655,44.349245,-98.200655,44.349245],
+  "bbox": [
+    -98.200655,
+    44.349245,
+    -98.200655,
+    44.349245
+],
   "geometry": {"coordinates":[-98.200655,44.349245],"type":"Point"}
 }

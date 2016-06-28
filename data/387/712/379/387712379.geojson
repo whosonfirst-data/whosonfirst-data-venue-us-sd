@@ -2,13 +2,14 @@
   "id": 387712379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789565,44.297173,-96.789565,44.297173",
     "geom:latitude":44.297173,
     "geom:longitude":-96.789565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Brooklawn Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387712379,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1467082719,
     "wof:name":"Children's First Step Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.789565,44.297173,-96.789565,44.297173],
+  "bbox": [
+    -96.789565,
+    44.297173,
+    -96.789565,
+    44.297173
+],
   "geometry": {"coordinates":[-96.789565,44.297173],"type":"Point"}
 }

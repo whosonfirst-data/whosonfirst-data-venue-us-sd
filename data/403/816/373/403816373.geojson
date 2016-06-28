@@ -2,13 +2,14 @@
   "id": 403816373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530144,45.336957,-97.530144,45.336957",
     "geom:latitude":45.336957,
     "geom:longitude":-97.530144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 W 7th St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403816373,
-    "wof:lastmodified":1449055415,
+    "wof:lastmodified":1467082681,
     "wof:name":"Pleasent View Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.530144,45.336957,-97.530144,45.336957],
-  "geometry": {"coordinates":[-97.530144,45.336957],"type":"Point"}
+  "bbox": [
+    -97.530144,
+    45.336957,
+    -97.530144,
+    45.336957
+],
+  "geometry": {"coordinates":[-97.53014400000001,45.336957],"type":"Point"}
 }

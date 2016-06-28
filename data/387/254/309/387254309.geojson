@@ -2,13 +2,14 @@
   "id": 387254309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234419,44.52269,-98.234419,44.52269",
     "geom:latitude":44.52269,
     "geom:longitude":-98.234419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19753 399th Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387254309,
-    "wof:lastmodified":1449058725,
+    "wof:lastmodified":1467082739,
     "wof:name":"Kevin Tschetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.234419,44.52269,-98.234419,44.52269],
+  "bbox": [
+    -98.234419,
+    44.52269,
+    -98.234419,
+    44.52269
+],
   "geometry": {"coordinates":[-98.234419,44.52269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403834061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.032577,44.911543,-99.032577,44.911543",
     "geom:latitude":44.911543,
     "geom:longitude":-99.032577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35763 171st St",
     "sg:city":"Orient",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403834061,
-    "wof:lastmodified":1449054762,
+    "wof:lastmodified":1467082675,
     "wof:name":"Harold Payne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.032577,44.911543,-99.032577,44.911543],
+  "bbox": [
+    -99.032577,
+    44.911543,
+    -99.032577,
+    44.911543
+],
   "geometry": {"coordinates":[-99.032577,44.911543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387626365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.778185,44.305658,-96.778185,44.305658",
     "geom:latitude":44.305658,
     "geom:longitude":-96.778185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 1st St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387626365,
-    "wof:lastmodified":1449059921,
+    "wof:lastmodified":1467082763,
     "wof:name":"James A Rice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-96.778185,44.305658,-96.778185,44.305658],
-  "geometry": {"coordinates":[-96.778185,44.305658],"type":"Point"}
+  "bbox": [
+    -96.778185,
+    44.305658,
+    -96.778185,
+    44.305658
+],
+  "geometry": {"coordinates":[-96.77818499999999,44.305658],"type":"Point"}
 }

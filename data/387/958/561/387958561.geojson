@@ -2,13 +2,14 @@
   "id": 387958561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114833,44.899181,-97.114833,44.899181",
     "geom:latitude":44.899181,
     "geom:longitude":-97.114833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 1st Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387958561,
-    "wof:lastmodified":1449059072,
+    "wof:lastmodified":1467082746,
     "wof:name":"Codington County Welfare Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-97.114833,44.899181,-97.114833,44.899181],
+  "bbox": [
+    -97.114833,
+    44.899181,
+    -97.114833,
+    44.899181
+],
   "geometry": {"coordinates":[-97.114833,44.899181],"type":"Point"}
 }

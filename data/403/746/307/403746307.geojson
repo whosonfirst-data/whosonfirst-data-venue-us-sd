@@ -2,13 +2,14 @@
   "id": 403746307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808766,44.318031,-96.808766,44.318031",
     "geom:latitude":44.318031,
     "geom:longitude":-96.808766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Western Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403746307,
-    "wof:lastmodified":1449054613,
+    "wof:lastmodified":1467082674,
     "wof:name":"Tom O'Neill CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.808766,44.318031,-96.808766,44.318031],
-  "geometry": {"coordinates":[-96.808766,44.318031],"type":"Point"}
+  "bbox": [
+    -96.808766,
+    44.318031,
+    -96.808766,
+    44.318031
+],
+  "geometry": {"coordinates":[-96.80876600000001,44.318031],"type":"Point"}
 }

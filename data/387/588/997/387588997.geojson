@@ -2,13 +2,14 @@
   "id": 387588997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.13976,45.457669,-98.13976,45.457669",
     "geom:latitude":45.457669,
     "geom:longitude":-98.13976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40425 133rd St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387588997,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1467082748,
     "wof:name":"James Valley Ethanol Plant",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "ethanol"
     ]
 },
-  "bbox": [-98.13976,45.457669,-98.13976,45.457669],
+  "bbox": [
+    -98.13976,
+    45.457669,
+    -98.13976,
+    45.457669
+],
   "geometry": {"coordinates":[-98.13976,45.457669],"type":"Point"}
 }

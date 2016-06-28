@@ -2,13 +2,14 @@
   "id": 387220873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.945319,43.630529,-96.945319,43.630529",
     "geom:latitude":43.630529,
     "geom:longitude":-96.945319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 State Hwy 38",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387220873,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1467082760,
     "wof:name":"American Sports",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.945319,43.630529,-96.945319,43.630529],
+  "bbox": [
+    -96.945319,
+    43.630529,
+    -96.945319,
+    43.630529
+],
   "geometry": {"coordinates":[-96.945319,43.630529],"type":"Point"}
 }

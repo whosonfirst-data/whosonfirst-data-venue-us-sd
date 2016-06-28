@@ -2,13 +2,14 @@
   "id": 387489315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.015504,45.89327,-98.015504,45.89327",
     "geom:latitude":45.89327,
     "geom:longitude":-98.015504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41004 103rd St",
     "sg:city":"Hecla",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387489315,
-    "wof:lastmodified":1449058195,
+    "wof:lastmodified":1467082729,
     "wof:name":"Donovan Howard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.015504,45.89327,-98.015504,45.89327],
-  "geometry": {"coordinates":[-98.015504,45.89327],"type":"Point"}
+  "bbox": [
+    -98.015504,
+    45.89327,
+    -98.015504,
+    45.89327
+],
+  "geometry": {"coordinates":[-98.01550400000001,45.89327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387657389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.903374,45.302363,-96.903374,45.302363",
     "geom:latitude":45.302363,
     "geom:longitude":-96.903374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14321 465th Ave",
     "sg:city":"Marvin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387657389,
-    "wof:lastmodified":1449056537,
+    "wof:lastmodified":1467082695,
     "wof:name":"Gerald Thaden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.903374,45.302363,-96.903374,45.302363],
+  "bbox": [
+    -96.903374,
+    45.302363,
+    -96.903374,
+    45.302363
+],
   "geometry": {"coordinates":[-96.903374,45.302363],"type":"Point"}
 }

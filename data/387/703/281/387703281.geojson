@@ -2,13 +2,14 @@
   "id": 387703281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928468,44.324731,-96.928468,44.324731",
     "geom:latitude":44.324731,
     "geom:longitude":-96.928468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Samara Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387703281,
-    "wof:lastmodified":1449057255,
+    "wof:lastmodified":1467082709,
     "wof:name":"Volga City Of Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.928468,44.324731,-96.928468,44.324731],
+  "bbox": [
+    -96.928468,
+    44.324731,
+    -96.928468,
+    44.324731
+],
   "geometry": {"coordinates":[-96.928468,44.324731],"type":"Point"}
 }

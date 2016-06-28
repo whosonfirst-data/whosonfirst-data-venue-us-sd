@@ -2,13 +2,14 @@
   "id": 387536227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.228802,45.592714,-99.228802,45.592714",
     "geom:latitude":45.592714,
     "geom:longitude":-99.228802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34824 124th St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387536227,
-    "wof:lastmodified":1449058376,
+    "wof:lastmodified":1467082732,
     "wof:name":"Arnold Lunders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.228802,45.592714,-99.228802,45.592714],
+  "bbox": [
+    -99.228802,
+    45.592714,
+    -99.228802,
+    45.592714
+],
   "geometry": {"coordinates":[-99.228802,45.592714],"type":"Point"}
 }

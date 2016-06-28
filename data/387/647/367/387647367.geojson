@@ -2,13 +2,14 @@
   "id": 387647367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732709,43.543376,-96.732709,43.543376",
     "geom:latitude":43.543376,
     "geom:longitude":-96.732709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387647367,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1467082723,
     "wof:name":"Salon 12",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.732709,43.543376,-96.732709,43.543376],
+  "bbox": [
+    -96.732709,
+    43.543376,
+    -96.732709,
+    43.543376
+],
   "geometry": {"coordinates":[-96.732709,43.543376],"type":"Point"}
 }

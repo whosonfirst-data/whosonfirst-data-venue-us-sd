@@ -2,13 +2,14 @@
   "id": 387952931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025805,43.725736,-98.025805,43.725736",
     "geom:latitude":43.725736,
     "geom:longitude":-98.025805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387952931,
-    "wof:lastmodified":1449058852,
+    "wof:lastmodified":1467082742,
     "wof:name":"South Dakota Chiropractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.025805,43.725736,-98.025805,43.725736],
-  "geometry": {"coordinates":[-98.025805,43.725736],"type":"Point"}
+  "bbox": [
+    -98.025805,
+    43.725736,
+    -98.025805,
+    43.725736
+],
+  "geometry": {"coordinates":[-98.02580500000001,43.725736],"type":"Point"}
 }

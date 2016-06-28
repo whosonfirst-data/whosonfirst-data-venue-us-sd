@@ -2,13 +2,14 @@
   "id": 387214921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109656,44.007795,-97.109656,44.007795",
     "geom:latitude":44.007795,
     "geom:longitude":-97.109656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387214921,
-    "wof:lastmodified":1449059799,
+    "wof:lastmodified":1467082761,
     "wof:name":"Domestic Seed & Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "seed"
     ]
 },
-  "bbox": [-97.109656,44.007795,-97.109656,44.007795],
+  "bbox": [
+    -97.109656,
+    44.007795,
+    -97.109656,
+    44.007795
+],
   "geometry": {"coordinates":[-97.109656,44.007795],"type":"Point"}
 }

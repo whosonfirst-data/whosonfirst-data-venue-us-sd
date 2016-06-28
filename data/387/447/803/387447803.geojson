@@ -2,13 +2,14 @@
   "id": 387447803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.677045,43.541167,-96.677045,43.541167",
     "geom:latitude":43.541167,
     "geom:longitude":-96.677045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Rohl Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387447803,
-    "wof:lastmodified":1449058791,
+    "wof:lastmodified":1467082740,
     "wof:name":"Terrance W Tomes",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-96.677045,43.541167,-96.677045,43.541167],
-  "geometry": {"coordinates":[-96.677045,43.541167],"type":"Point"}
+  "bbox": [
+    -96.677045,
+    43.541167,
+    -96.677045,
+    43.541167
+],
+  "geometry": {"coordinates":[-96.67704500000001,43.541167],"type":"Point"}
 }

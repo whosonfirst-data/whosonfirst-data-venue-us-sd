@@ -2,13 +2,14 @@
   "id": 387006361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.915374,42.771547,-96.915374,42.771547",
     "geom:latitude":42.771547,
     "geom:longitude":-96.915374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Valley View Dr",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387006361,
-    "wof:lastmodified":1449059179,
+    "wof:lastmodified":1467082748,
     "wof:name":"Tri State Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.915374,42.771547,-96.915374,42.771547],
+  "bbox": [
+    -96.915374,
+    42.771547,
+    -96.915374,
+    42.771547
+],
   "geometry": {"coordinates":[-96.915374,42.771547],"type":"Point"}
 }

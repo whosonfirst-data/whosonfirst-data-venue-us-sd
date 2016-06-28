@@ -2,13 +2,14 @@
   "id": 387953303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.036381,45.304991,-97.036381,45.304991",
     "geom:latitude":45.304991,
     "geom:longitude":-97.036381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Maple St",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387953303,
-    "wof:lastmodified":1449058733,
+    "wof:lastmodified":1467082739,
     "wof:name":"Summit Variety & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.036381,45.304991,-97.036381,45.304991],
-  "geometry": {"coordinates":[-97.036381,45.304991],"type":"Point"}
+  "bbox": [
+    -97.036381,
+    45.304991,
+    -97.036381,
+    45.304991
+],
+  "geometry": {"coordinates":[-97.03638100000001,45.304991],"type":"Point"}
 }

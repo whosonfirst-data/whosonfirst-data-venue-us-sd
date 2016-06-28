@@ -2,13 +2,14 @@
   "id": 387607493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.024613,45.042763,-97.024613,45.042763",
     "geom:latitude":45.042763,
     "geom:longitude":-97.024613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16146 459th Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387607493,
-    "wof:lastmodified":1449056609,
+    "wof:lastmodified":1467082697,
     "wof:name":"Roger Mohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.024613,45.042763,-97.024613,45.042763],
+  "bbox": [
+    -97.024613,
+    45.042763,
+    -97.024613,
+    45.042763
+],
   "geometry": {"coordinates":[-97.024613,45.042763],"type":"Point"}
 }

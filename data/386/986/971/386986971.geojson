@@ -2,13 +2,14 @@
   "id": 386986971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793861,43.458167,-96.793861,43.458167",
     "geom:latitude":43.458167,
     "geom:longitude":-96.793861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47059 104th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386986971,
-    "wof:lastmodified":1449028889,
+    "wof:lastmodified":1467082654,
     "wof:name":"Centennial Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.793861,43.458167,-96.793861,43.458167],
-  "geometry": {"coordinates":[-96.793861,43.458167],"type":"Point"}
+  "bbox": [
+    -96.793861,
+    43.458167,
+    -96.793861,
+    43.458167
+],
+  "geometry": {"coordinates":[-96.79386100000001,43.458167],"type":"Point"}
 }

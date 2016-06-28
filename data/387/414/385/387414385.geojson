@@ -2,13 +2,14 @@
   "id": 387414385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793334,43.458316,-96.793334,43.458316",
     "geom:latitude":43.458316,
     "geom:longitude":-96.793334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27102 Albers Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387414385,
-    "wof:lastmodified":1449057884,
+    "wof:lastmodified":1467082722,
     "wof:name":"Antique Furniture Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.793334,43.458316,-96.793334,43.458316],
+  "bbox": [
+    -96.793334,
+    43.458316,
+    -96.793334,
+    43.458316
+],
   "geometry": {"coordinates":[-96.793334,43.458316],"type":"Point"}
 }

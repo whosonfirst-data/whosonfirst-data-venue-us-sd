@@ -2,13 +2,14 @@
   "id": 403712437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.660896,43.30803,-100.660896,43.30803",
     "geom:latitude":43.30803,
     "geom:longitude":-100.660896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Rosebud St",
     "sg:city":"Rosebud",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403712437,
-    "wof:lastmodified":1449055207,
+    "wof:lastmodified":1467082679,
     "wof:name":"St Bridget Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.660896,43.30803,-100.660896,43.30803],
-  "geometry": {"coordinates":[-100.660896,43.30803],"type":"Point"}
+  "bbox": [
+    -100.660896,
+    43.30803,
+    -100.660896,
+    43.30803
+],
+  "geometry": {"coordinates":[-100.66089599999999,43.30803],"type":"Point"}
 }

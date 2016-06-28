@@ -2,13 +2,14 @@
   "id": 387272519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.271081,44.05646,-98.271081,44.05646",
     "geom:latitude":44.05646,
     "geom:longitude":-98.271081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N 7th Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387272519,
-    "wof:lastmodified":1449059659,
+    "wof:lastmodified":1467082758,
     "wof:name":"Harold G Krog DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-98.271081,44.05646,-98.271081,44.05646],
+  "bbox": [
+    -98.271081,
+    44.05646,
+    -98.271081,
+    44.05646
+],
   "geometry": {"coordinates":[-98.271081,44.05646],"type":"Point"}
 }

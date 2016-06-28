@@ -2,13 +2,14 @@
   "id": 403744085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.992304,43.139753,-97.992304,43.139753",
     "geom:latitude":43.139753,
     "geom:longitude":-97.992304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40919 293rd St",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403744085,
-    "wof:lastmodified":1449055110,
+    "wof:lastmodified":1467082679,
     "wof:name":"Dewald Arlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.992304,43.139753,-97.992304,43.139753],
+  "bbox": [
+    -97.992304,
+    43.139753,
+    -97.992304,
+    43.139753
+],
   "geometry": {"coordinates":[-97.992304,43.139753],"type":"Point"}
 }

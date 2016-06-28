@@ -2,13 +2,14 @@
   "id": 403781433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711451,43.55688,-96.711451,43.55688",
     "geom:latitude":43.55688,
     "geom:longitude":-96.711451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781433,
-    "wof:lastmodified":1449054886,
+    "wof:lastmodified":1467082677,
     "wof:name":"Sioux Falls Quality Water",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-96.711451,43.55688,-96.711451,43.55688],
+  "bbox": [
+    -96.711451,
+    43.55688,
+    -96.711451,
+    43.55688
+],
   "geometry": {"coordinates":[-96.711451,43.55688],"type":"Point"}
 }

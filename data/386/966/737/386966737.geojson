@@ -2,13 +2,14 @@
   "id": 386966737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775557,43.078398,-96.775557,43.078398",
     "geom:latitude":43.078398,
     "geom:longitude":-96.775557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S 4th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386966737,
-    "wof:lastmodified":1449028622,
+    "wof:lastmodified":1467082649,
     "wof:name":"Berts Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.775557,43.078398,-96.775557,43.078398],
-  "geometry": {"coordinates":[-96.775557,43.078398],"type":"Point"}
+  "bbox": [
+    -96.775557,
+    43.078398,
+    -96.775557,
+    43.078398
+],
+  "geometry": {"coordinates":[-96.77555700000001,43.078398],"type":"Point"}
 }

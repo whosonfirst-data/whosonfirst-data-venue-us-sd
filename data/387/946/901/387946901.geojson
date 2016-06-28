@@ -2,13 +2,14 @@
   "id": 387946901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479002,45.462085,-98.479002,45.462085",
     "geom:latitude":45.462085,
     "geom:longitude":-98.479002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387946901,
-    "wof:lastmodified":1449059460,
+    "wof:lastmodified":1467082754,
     "wof:name":"Larry S Sidaway Do",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.479002,45.462085,-98.479002,45.462085],
-  "geometry": {"coordinates":[-98.479002,45.462085],"type":"Point"}
+  "bbox": [
+    -98.479002,
+    45.462085,
+    -98.479002,
+    45.462085
+],
+  "geometry": {"coordinates":[-98.47900199999999,45.462085],"type":"Point"}
 }

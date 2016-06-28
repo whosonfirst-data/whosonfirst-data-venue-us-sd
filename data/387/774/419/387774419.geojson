@@ -2,13 +2,14 @@
   "id": 387774419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.262858,44.283673,-98.262858,44.283673",
     "geom:latitude":44.283673,
     "geom:longitude":-98.262858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39750 214th St",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387774419,
-    "wof:lastmodified":1449057586,
+    "wof:lastmodified":1467082716,
     "wof:name":"Eddy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.262858,44.283673,-98.262858,44.283673],
-  "geometry": {"coordinates":[-98.262858,44.283673],"type":"Point"}
+  "bbox": [
+    -98.262858,
+    44.283673,
+    -98.262858,
+    44.283673
+],
+  "geometry": {"coordinates":[-98.26285799999999,44.283673],"type":"Point"}
 }

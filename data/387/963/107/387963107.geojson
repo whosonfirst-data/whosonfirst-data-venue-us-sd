@@ -2,13 +2,14 @@
   "id": 387963107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.664399,43.536175,-96.664399,43.536175",
     "geom:latitude":43.536175,
     "geom:longitude":-96.664399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Joliet Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387963107,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1467082694,
     "wof:name":"Francis Dirks Plumbing & Htg",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.664399,43.536175,-96.664399,43.536175],
+  "bbox": [
+    -96.664399,
+    43.536175,
+    -96.664399,
+    43.536175
+],
   "geometry": {"coordinates":[-96.664399,43.536175],"type":"Point"}
 }

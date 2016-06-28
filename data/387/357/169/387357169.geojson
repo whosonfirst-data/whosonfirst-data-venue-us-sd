@@ -2,13 +2,14 @@
   "id": 387357169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775247,43.647058,-96.775247,43.647058",
     "geom:latitude":43.647058,
     "geom:longitude":-96.775247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47185 Wild Clover Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387357169,
-    "wof:lastmodified":1449059454,
+    "wof:lastmodified":1467082754,
     "wof:name":"Dakota Security Systems Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.775247,43.647058,-96.775247,43.647058],
-  "geometry": {"coordinates":[-96.775247,43.647058],"type":"Point"}
+  "bbox": [
+    -96.775247,
+    43.647058,
+    -96.775247,
+    43.647058
+],
+  "geometry": {"coordinates":[-96.77524699999999,43.647058],"type":"Point"}
 }

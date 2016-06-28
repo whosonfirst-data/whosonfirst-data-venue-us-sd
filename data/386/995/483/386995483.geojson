@@ -2,13 +2,14 @@
   "id": 386995483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511687,44.878161,-98.511687,44.878161",
     "geom:latitude":44.878161,
     "geom:longitude":-98.511687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E 5th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386995483,
-    "wof:lastmodified":1449028940,
+    "wof:lastmodified":1467082655,
     "wof:name":"Ronnie Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.511687,44.878161,-98.511687,44.878161],
-  "geometry": {"coordinates":[-98.511687,44.878161],"type":"Point"}
+  "bbox": [
+    -98.511687,
+    44.878161,
+    -98.511687,
+    44.878161
+],
+  "geometry": {"coordinates":[-98.51168699999999,44.878161],"type":"Point"}
 }

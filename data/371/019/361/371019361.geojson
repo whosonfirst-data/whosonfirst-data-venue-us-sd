@@ -2,13 +2,14 @@
   "id": 371019361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223306,44.09517,-103.223306,44.09517",
     "geom:latitude":44.09517,
     "geom:longitude":-103.223306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Farlow Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371019361,
-    "wof:lastmodified":1449049653,
+    "wof:lastmodified":1467082667,
     "wof:name":"Sanano Karate Club",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-103.223306,44.09517,-103.223306,44.09517],
-  "geometry": {"coordinates":[-103.223306,44.09517],"type":"Point"}
+  "bbox": [
+    -103.223306,
+    44.09517,
+    -103.223306,
+    44.09517
+],
+  "geometry": {"coordinates":[-103.22330599999999,44.09517],"type":"Point"}
 }

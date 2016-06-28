@@ -2,13 +2,14 @@
   "id": 387574909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.343081,44.46691,-100.343081,44.46691",
     "geom:latitude":44.46691,
     "geom:longitude":-100.343081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Stewart Pl",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387574909,
-    "wof:lastmodified":1449056090,
+    "wof:lastmodified":1467082686,
     "wof:name":"Whitley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-100.343081,44.46691,-100.343081,44.46691],
+  "bbox": [
+    -100.343081,
+    44.46691,
+    -100.343081,
+    44.46691
+],
   "geometry": {"coordinates":[-100.343081,44.46691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387718505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.251837,44.07527,-103.251837,44.07527",
     "geom:latitude":44.07527,
     "geom:longitude":-103.251837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387718505,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1467082703,
     "wof:name":"Peak Sport",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skiing"
     ]
 },
-  "bbox": [-103.251837,44.07527,-103.251837,44.07527],
-  "geometry": {"coordinates":[-103.251837,44.07527],"type":"Point"}
+  "bbox": [
+    -103.251837,
+    44.07527,
+    -103.251837,
+    44.07527
+],
+  "geometry": {"coordinates":[-103.25183699999999,44.07527],"type":"Point"}
 }

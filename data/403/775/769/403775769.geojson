@@ -2,13 +2,14 @@
   "id": 403775769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.89165,43.352174,-96.89165,43.352174",
     "geom:latitude":43.352174,
     "geom:longitude":-96.89165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Main St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403775769,
-    "wof:lastmodified":1449055595,
+    "wof:lastmodified":1467082682,
     "wof:name":"Dindot-Klusmann Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-96.89165,43.352174,-96.89165,43.352174],
+  "bbox": [
+    -96.89165,
+    43.352174,
+    -96.89165,
+    43.352174
+],
   "geometry": {"coordinates":[-96.89165,43.352174],"type":"Point"}
 }

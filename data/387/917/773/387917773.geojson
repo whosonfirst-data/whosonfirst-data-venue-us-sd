@@ -2,13 +2,14 @@
   "id": 387917773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.659652,43.546828,-96.659652,43.546828",
     "geom:latitude":43.546828,
     "geom:longitude":-96.659652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Rochelle Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387917773,
-    "wof:lastmodified":1449059419,
+    "wof:lastmodified":1467082753,
     "wof:name":"Empire Home Inspections",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-96.659652,43.546828,-96.659652,43.546828],
-  "geometry": {"coordinates":[-96.659652,43.546828],"type":"Point"}
+  "bbox": [
+    -96.659652,
+    43.546828,
+    -96.659652,
+    43.546828
+],
+  "geometry": {"coordinates":[-96.65965199999999,43.546828],"type":"Point"}
 }

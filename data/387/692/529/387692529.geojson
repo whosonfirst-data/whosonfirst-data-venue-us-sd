@@ -2,13 +2,14 @@
   "id": 387692529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651033,43.729531,-96.651033,43.729531",
     "geom:latitude":43.729531,
     "geom:longitude":-96.651033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25230 478th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387692529,
-    "wof:lastmodified":1449057111,
+    "wof:lastmodified":1467082707,
     "wof:name":"Robert Ollerich",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "corn"
     ]
 },
-  "bbox": [-96.651033,43.729531,-96.651033,43.729531],
+  "bbox": [
+    -96.651033,
+    43.729531,
+    -96.651033,
+    43.729531
+],
   "geometry": {"coordinates":[-96.651033,43.729531],"type":"Point"}
 }

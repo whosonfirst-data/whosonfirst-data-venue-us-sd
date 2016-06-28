@@ -2,13 +2,14 @@
   "id": 387429605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.044897,43.760155,-98.044897,43.760155",
     "geom:latitude":43.760155,
     "geom:longitude":-98.044897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 N Harmon Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387429605,
-    "wof:lastmodified":1449059716,
+    "wof:lastmodified":1467082759,
     "wof:name":"David Phillips Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.044897,43.760155,-98.044897,43.760155],
-  "geometry": {"coordinates":[-98.044897,43.760155],"type":"Point"}
+  "bbox": [
+    -98.044897,
+    43.760155,
+    -98.044897,
+    43.760155
+],
+  "geometry": {"coordinates":[-98.04489700000001,43.760155],"type":"Point"}
 }

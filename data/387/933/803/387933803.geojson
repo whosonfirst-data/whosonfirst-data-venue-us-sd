@@ -2,13 +2,14 @@
   "id": 387933803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145343,44.065383,-103.145343,44.065383",
     "geom:latitude":44.065383,
     "geom:longitude":-103.145343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 Sweetbriar St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387933803,
-    "wof:lastmodified":1449056885,
+    "wof:lastmodified":1467082702,
     "wof:name":"Gingerbread Hse DAYcr&pre Schl",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.145343,44.065383,-103.145343,44.065383],
+  "bbox": [
+    -103.145343,
+    44.065383,
+    -103.145343,
+    44.065383
+],
   "geometry": {"coordinates":[-103.145343,44.065383],"type":"Point"}
 }

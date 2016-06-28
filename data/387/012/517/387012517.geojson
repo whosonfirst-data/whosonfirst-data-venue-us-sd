@@ -2,13 +2,14 @@
   "id": 387012517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719279,43.530231,-96.719279,43.530231",
     "geom:latitude":43.530231,
     "geom:longitude":-96.719279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 E Dana Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387012517,
-    "wof:lastmodified":1449059531,
+    "wof:lastmodified":1467082755,
     "wof:name":"Vucurevich Co",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.719279,43.530231,-96.719279,43.530231],
+  "bbox": [
+    -96.719279,
+    43.530231,
+    -96.719279,
+    43.530231
+],
   "geometry": {"coordinates":[-96.719279,43.530231],"type":"Point"}
 }

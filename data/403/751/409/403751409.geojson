@@ -2,13 +2,14 @@
   "id": 403751409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.648331,43.441355,-98.648331,43.441355",
     "geom:latitude":43.441355,
     "geom:longitude":-98.648331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27204 377th Ave",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403751409,
-    "wof:lastmodified":1449054700,
+    "wof:lastmodified":1467082675,
     "wof:name":"Martin E Drefs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.648331,43.441355,-98.648331,43.441355],
+  "bbox": [
+    -98.648331,
+    43.441355,
+    -98.648331,
+    43.441355
+],
   "geometry": {"coordinates":[-98.648331,43.441355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403817431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.270885,44.102476,-103.270885,44.102476",
     "geom:latitude":44.102476,
     "geom:longitude":-103.270885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403817431,
-    "wof:lastmodified":1449055695,
+    "wof:lastmodified":1467082682,
     "wof:name":"Sheehan Mack & Equipment",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.270885,44.102476,-103.270885,44.102476],
-  "geometry": {"coordinates":[-103.270885,44.102476],"type":"Point"}
+  "bbox": [
+    -103.270885,
+    44.102476,
+    -103.270885,
+    44.102476
+],
+  "geometry": {"coordinates":[-103.27088500000001,44.102476],"type":"Point"}
 }

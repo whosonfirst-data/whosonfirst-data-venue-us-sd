@@ -2,13 +2,14 @@
   "id": 371162699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.734871,43.174672,-101.734871,43.174672",
     "geom:latitude":43.174672,
     "geom:longitude":-101.734871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 3rd Ave",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371162699,
-    "wof:lastmodified":1449049971,
+    "wof:lastmodified":1467082671,
     "wof:name":"Security First Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "banking"
     ]
 },
-  "bbox": [-101.734871,43.174672,-101.734871,43.174672],
+  "bbox": [
+    -101.734871,
+    43.174672,
+    -101.734871,
+    43.174672
+],
   "geometry": {"coordinates":[-101.734871,43.174672],"type":"Point"}
 }

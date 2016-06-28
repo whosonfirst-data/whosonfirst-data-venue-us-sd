@@ -2,13 +2,14 @@
   "id": 387859875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463575,43.581618,-96.463575,43.581618",
     "geom:latitude":43.581618,
     "geom:longitude":-96.463575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Sunnyside Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387859875,
-    "wof:lastmodified":1449058830,
+    "wof:lastmodified":1467082741,
     "wof:name":"Grace Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.463575,43.581618,-96.463575,43.581618],
-  "geometry": {"coordinates":[-96.463575,43.581618],"type":"Point"}
+  "bbox": [
+    -96.463575,
+    43.581618,
+    -96.463575,
+    43.581618
+],
+  "geometry": {"coordinates":[-96.46357500000001,43.581618],"type":"Point"}
 }

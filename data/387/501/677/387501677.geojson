@@ -2,13 +2,14 @@
   "id": 387501677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.066599,43.70185,-98.066599,43.70185",
     "geom:latitude":43.70185,
     "geom:longitude":-98.066599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 W Havens St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387501677,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1467082764,
     "wof:name":"Dick's Autobody Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.066599,43.70185,-98.066599,43.70185],
+  "bbox": [
+    -98.066599,
+    43.70185,
+    -98.066599,
+    43.70185
+],
   "geometry": {"coordinates":[-98.066599,43.70185],"type":"Point"}
 }

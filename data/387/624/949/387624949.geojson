@@ -2,13 +2,14 @@
   "id": 387624949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508327,45.459533,-98.508327,45.459533",
     "geom:latitude":45.459533,
     "geom:longitude":-98.508327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387624949,
-    "wof:lastmodified":1449058723,
+    "wof:lastmodified":1467082739,
     "wof:name":"Lust Chevrolet-Buick-Geo",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.508327,45.459533,-98.508327,45.459533],
-  "geometry": {"coordinates":[-98.508327,45.459533],"type":"Point"}
+  "bbox": [
+    -98.508327,
+    45.459533,
+    -98.508327,
+    45.459533
+],
+  "geometry": {"coordinates":[-98.50832699999999,45.459533],"type":"Point"}
 }

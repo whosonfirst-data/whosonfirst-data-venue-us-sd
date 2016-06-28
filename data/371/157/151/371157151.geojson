@@ -2,13 +2,14 @@
   "id": 371157151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789953,44.304368,-96.789953,44.304368",
     "geom:latitude":44.304368,
     "geom:longitude":-96.789953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 2nd St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371157151,
-    "wof:lastmodified":1449049988,
+    "wof:lastmodified":1467082671,
     "wof:name":"Virg's Car Care & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-96.789953,44.304368,-96.789953,44.304368],
+  "bbox": [
+    -96.789953,
+    44.304368,
+    -96.789953,
+    44.304368
+],
   "geometry": {"coordinates":[-96.789953,44.304368],"type":"Point"}
 }

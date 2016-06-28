@@ -2,13 +2,14 @@
   "id": 387665723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.590907,43.514023,-96.590907,43.514023",
     "geom:latitude":43.514023,
     "geom:longitude":-96.590907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26704 481st Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387665723,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1467082710,
     "wof:name":"Prairie States",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.590907,43.514023,-96.590907,43.514023],
+  "bbox": [
+    -96.590907,
+    43.514023,
+    -96.590907,
+    43.514023
+],
   "geometry": {"coordinates":[-96.590907,43.514023],"type":"Point"}
 }

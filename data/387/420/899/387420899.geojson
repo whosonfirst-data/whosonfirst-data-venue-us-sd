@@ -2,13 +2,14 @@
   "id": 387420899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.442279,45.473703,-98.442279,45.473703",
     "geom:latitude":45.473703,
     "geom:longitude":-98.442279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3317 8th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387420899,
-    "wof:lastmodified":1449057923,
+    "wof:lastmodified":1467082723,
     "wof:name":"United Defense",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-98.442279,45.473703,-98.442279,45.473703],
+  "bbox": [
+    -98.442279,
+    45.473703,
+    -98.442279,
+    45.473703
+],
   "geometry": {"coordinates":[-98.442279,45.473703],"type":"Point"}
 }

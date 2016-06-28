@@ -2,13 +2,14 @@
   "id": 387955661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.292559,43.599107,-97.292559,43.599107",
     "geom:latitude":43.599107,
     "geom:longitude":-97.292559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W Elm St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387955661,
-    "wof:lastmodified":1449058754,
+    "wof:lastmodified":1467082740,
     "wof:name":"Addy Disposal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-97.292559,43.599107,-97.292559,43.599107],
+  "bbox": [
+    -97.292559,
+    43.599107,
+    -97.292559,
+    43.599107
+],
   "geometry": {"coordinates":[-97.292559,43.599107],"type":"Point"}
 }

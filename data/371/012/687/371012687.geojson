@@ -2,13 +2,14 @@
   "id": 371012687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.137278,44.103636,-103.137278,44.103636",
     "geom:latitude":44.103636,
     "geom:longitude":-103.137278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 S Interstate 90 Svc Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371012687,
-    "wof:lastmodified":1449050032,
+    "wof:lastmodified":1467082672,
     "wof:name":"Land O'Lakes Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-103.137278,44.103636,-103.137278,44.103636],
-  "geometry": {"coordinates":[-103.137278,44.103636],"type":"Point"}
+  "bbox": [
+    -103.137278,
+    44.103636,
+    -103.137278,
+    44.103636
+],
+  "geometry": {"coordinates":[-103.13727799999999,44.103636],"type":"Point"}
 }

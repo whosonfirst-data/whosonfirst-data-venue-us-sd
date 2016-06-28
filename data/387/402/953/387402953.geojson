@@ -2,13 +2,14 @@
   "id": 387402953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.478318,43.432552,-103.478318,43.432552",
     "geom:latitude":43.432552,
     "geom:longitude":-103.478318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387402953,
-    "wof:lastmodified":1449057319,
+    "wof:lastmodified":1467082711,
     "wof:name":"Wild Burro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.478318,43.432552,-103.478318,43.432552],
+  "bbox": [
+    -103.478318,
+    43.432552,
+    -103.478318,
+    43.432552
+],
   "geometry": {"coordinates":[-103.478318,43.432552],"type":"Point"}
 }

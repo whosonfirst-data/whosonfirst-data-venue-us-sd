@@ -2,13 +2,14 @@
   "id": 386978989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671325,43.526547,-96.671325,43.526547",
     "geom:latitude":43.526547,
     "geom:longitude":-96.671325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386978989,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1467082652,
     "wof:name":"Dakotabilities",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.671325,43.526547,-96.671325,43.526547],
+  "bbox": [
+    -96.671325,
+    43.526547,
+    -96.671325,
+    43.526547
+],
   "geometry": {"coordinates":[-96.671325,43.526547],"type":"Point"}
 }

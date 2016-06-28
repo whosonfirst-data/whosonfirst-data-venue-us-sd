@@ -2,13 +2,14 @@
   "id": 387484043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.897031,44.833656,-96.897031,44.833656",
     "geom:latitude":44.833656,
     "geom:longitude":-96.897031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46548 176th St",
     "sg:city":"Goodwin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387484043,
-    "wof:lastmodified":1449059699,
+    "wof:lastmodified":1467082759,
     "wof:name":"Hanten Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.897031,44.833656,-96.897031,44.833656],
+  "bbox": [
+    -96.897031,
+    44.833656,
+    -96.897031,
+    44.833656
+],
   "geometry": {"coordinates":[-96.897031,44.833656],"type":"Point"}
 }

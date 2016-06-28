@@ -2,13 +2,14 @@
   "id": 387772427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988746,44.527734,-98.988746,44.527734",
     "geom:latitude":44.527734,
     "geom:longitude":-98.988746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387772427,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1467082721,
     "wof:name":"Dakota Energy Cooperative Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.988746,44.527734,-98.988746,44.527734],
-  "geometry": {"coordinates":[-98.988746,44.527734],"type":"Point"}
+  "bbox": [
+    -98.988746,
+    44.527734,
+    -98.988746,
+    44.527734
+],
+  "geometry": {"coordinates":[-98.98874600000001,44.527734],"type":"Point"}
 }

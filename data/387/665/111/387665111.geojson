@@ -2,13 +2,14 @@
   "id": 387665111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799784,43.5544,-96.799784,43.5544",
     "geom:latitude":43.5544,
     "geom:longitude":-96.799784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 N Bobwhite Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387665111,
-    "wof:lastmodified":1449057265,
+    "wof:lastmodified":1467082710,
     "wof:name":"Leroy Zimmerman Construction",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.799784,43.5544,-96.799784,43.5544],
+  "bbox": [
+    -96.799784,
+    43.5544,
+    -96.799784,
+    43.5544
+],
   "geometry": {"coordinates":[-96.799784,43.5544],"type":"Point"}
 }

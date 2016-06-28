@@ -2,13 +2,14 @@
   "id": 387473891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.213145,44.363321,-98.213145,44.363321",
     "geom:latitude":44.363321,
     "geom:longitude":-98.213145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 3rd St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387473891,
-    "wof:lastmodified":1449056892,
+    "wof:lastmodified":1467082702,
     "wof:name":"Pay Day-Print Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.213145,44.363321,-98.213145,44.363321],
+  "bbox": [
+    -98.213145,
+    44.363321,
+    -98.213145,
+    44.363321
+],
   "geometry": {"coordinates":[-98.213145,44.363321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387613263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.324431,44.375284,-100.324431,44.375284",
     "geom:latitude":44.375284,
     "geom:longitude":-100.324431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Winchester Dr",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387613263,
-    "wof:lastmodified":1449057877,
+    "wof:lastmodified":1467082722,
     "wof:name":"Gary L Larson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.324431,44.375284,-100.324431,44.375284],
+  "bbox": [
+    -100.324431,
+    44.375284,
+    -100.324431,
+    44.375284
+],
   "geometry": {"coordinates":[-100.324431,44.375284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371100801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.491511,43.429898,-103.491511,43.429898",
     "geom:latitude":43.429898,
     "geom:longitude":-103.491511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371100801,
-    "wof:lastmodified":1449049823,
+    "wof:lastmodified":1467082669,
     "wof:name":"L P Parts & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.491511,43.429898,-103.491511,43.429898],
+  "bbox": [
+    -103.491511,
+    43.429898,
+    -103.491511,
+    43.429898
+],
   "geometry": {"coordinates":[-103.491511,43.429898],"type":"Point"}
 }

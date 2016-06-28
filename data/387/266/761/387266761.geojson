@@ -2,13 +2,14 @@
   "id": 387266761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720368,43.148151,-97.720368,43.148151",
     "geom:latitude":43.148151,
     "geom:longitude":-97.720368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 1st St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387266761,
-    "wof:lastmodified":1449056236,
+    "wof:lastmodified":1467082689,
     "wof:name":"Scotland City Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-97.720368,43.148151,-97.720368,43.148151],
-  "geometry": {"coordinates":[-97.720368,43.148151],"type":"Point"}
+  "bbox": [
+    -97.720368,
+    43.148151,
+    -97.720368,
+    43.148151
+],
+  "geometry": {"coordinates":[-97.72036799999999,43.148151],"type":"Point"}
 }

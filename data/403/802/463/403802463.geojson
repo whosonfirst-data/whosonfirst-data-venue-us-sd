@@ -2,13 +2,14 @@
   "id": 403802463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191568,44.14023,-103.191568,44.14023",
     "geom:latitude":44.14023,
     "geom:longitude":-103.191568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 143rd Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403802463,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1467082683,
     "wof:name":"Sherry Bolton",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.191568,44.14023,-103.191568,44.14023],
+  "bbox": [
+    -103.191568,
+    44.14023,
+    -103.191568,
+    44.14023
+],
   "geometry": {"coordinates":[-103.191568,44.14023],"type":"Point"}
 }

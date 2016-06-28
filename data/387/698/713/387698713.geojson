@@ -2,13 +2,14 @@
   "id": 387698713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635794,45.219857,-96.635794,45.219857",
     "geom:latitude":45.219857,
     "geom:longitude":-96.635794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387698713,
-    "wof:lastmodified":1449059686,
+    "wof:lastmodified":1467082758,
     "wof:name":"Gerald L Fields DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.635794,45.219857,-96.635794,45.219857],
+  "bbox": [
+    -96.635794,
+    45.219857,
+    -96.635794,
+    45.219857
+],
   "geometry": {"coordinates":[-96.635794,45.219857],"type":"Point"}
 }

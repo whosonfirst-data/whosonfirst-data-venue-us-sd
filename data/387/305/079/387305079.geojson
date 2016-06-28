@@ -2,13 +2,14 @@
   "id": 387305079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.325099,44.36891,-100.325099,44.36891",
     "geom:latitude":44.36891,
     "geom:longitude":-100.325099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 Antelope St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387305079,
-    "wof:lastmodified":1449056684,
+    "wof:lastmodified":1467082698,
     "wof:name":"Axtell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-100.325099,44.36891,-100.325099,44.36891],
-  "geometry": {"coordinates":[-100.325099,44.36891],"type":"Point"}
+  "bbox": [
+    -100.325099,
+    44.36891,
+    -100.325099,
+    44.36891
+],
+  "geometry": {"coordinates":[-100.32509899999999,44.36891],"type":"Point"}
 }

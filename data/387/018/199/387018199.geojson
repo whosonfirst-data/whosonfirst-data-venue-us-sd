@@ -2,13 +2,14 @@
   "id": 387018199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.507183,44.414443,-103.507183,44.414443",
     "geom:latitude":44.414443,
     "geom:longitude":-103.507183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"981 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387018199,
-    "wof:lastmodified":1449057999,
+    "wof:lastmodified":1467082725,
     "wof:name":"Devine Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.507183,44.414443,-103.507183,44.414443],
+  "bbox": [
+    -103.507183,
+    44.414443,
+    -103.507183,
+    44.414443
+],
   "geometry": {"coordinates":[-103.507183,44.414443],"type":"Point"}
 }

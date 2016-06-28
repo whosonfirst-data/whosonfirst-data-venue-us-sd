@@ -2,13 +2,14 @@
   "id": 387831005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.003142,43.714139,-98.003142,43.714139",
     "geom:latitude":43.714139,
     "geom:longitude":-98.003142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1613 Bridle Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387831005,
-    "wof:lastmodified":1449058338,
+    "wof:lastmodified":1467082732,
     "wof:name":"Advanced Hlth Care Soluitions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.003142,43.714139,-98.003142,43.714139],
+  "bbox": [
+    -98.003142,
+    43.714139,
+    -98.003142,
+    43.714139
+],
   "geometry": {"coordinates":[-98.003142,43.714139],"type":"Point"}
 }

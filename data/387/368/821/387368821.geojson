@@ -2,13 +2,14 @@
   "id": 387368821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515643,45.517418,-98.515643,45.517418",
     "geom:latitude":45.517418,
     "geom:longitude":-98.515643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38587 129th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387368821,
-    "wof:lastmodified":1449056980,
+    "wof:lastmodified":1467082704,
     "wof:name":"Volkze Dragline Service",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.515643,45.517418,-98.515643,45.517418],
+  "bbox": [
+    -98.515643,
+    45.517418,
+    -98.515643,
+    45.517418
+],
   "geometry": {"coordinates":[-98.515643,45.517418],"type":"Point"}
 }

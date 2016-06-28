@@ -2,13 +2,14 @@
   "id": 387333705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750591,43.506917,-96.750591,43.506917",
     "geom:latitude":43.506917,
     "geom:longitude":-96.750591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4015 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387333705,
-    "wof:lastmodified":1449059656,
+    "wof:lastmodified":1467082758,
     "wof:name":"Syverson Tile Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "stone"
     ]
 },
-  "bbox": [-96.750591,43.506917,-96.750591,43.506917],
+  "bbox": [
+    -96.750591,
+    43.506917,
+    -96.750591,
+    43.506917
+],
   "geometry": {"coordinates":[-96.750591,43.506917],"type":"Point"}
 }

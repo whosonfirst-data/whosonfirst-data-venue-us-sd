@@ -2,13 +2,14 @@
   "id": 387429635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487964,45.454765,-98.487964,45.454765",
     "geom:latitude":45.454765,
     "geom:longitude":-98.487964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387429635,
-    "wof:lastmodified":1449059716,
+    "wof:lastmodified":1467082759,
     "wof:name":"Schmidts Antq & Collectables",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-98.487964,45.454765,-98.487964,45.454765],
-  "geometry": {"coordinates":[-98.487964,45.454765],"type":"Point"}
+  "bbox": [
+    -98.487964,
+    45.454765,
+    -98.487964,
+    45.454765
+],
+  "geometry": {"coordinates":[-98.48796400000001,45.454765],"type":"Point"}
 }

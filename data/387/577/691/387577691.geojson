@@ -2,13 +2,14 @@
   "id": 387577691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.402049,43.702532,-97.402049,43.702532",
     "geom:latitude":43.702532,
     "geom:longitude":-97.402049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44075 254th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387577691,
-    "wof:lastmodified":1449060027,
+    "wof:lastmodified":1467082765,
     "wof:name":"Patrick Gottlob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-97.402049,43.702532,-97.402049,43.702532],
-  "geometry": {"coordinates":[-97.402049,43.702532],"type":"Point"}
+  "bbox": [
+    -97.402049,
+    43.702532,
+    -97.402049,
+    43.702532
+],
+  "geometry": {"coordinates":[-97.40204900000001,43.702532],"type":"Point"}
 }

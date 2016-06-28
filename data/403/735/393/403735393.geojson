@@ -2,13 +2,14 @@
   "id": 403735393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.849247,44.477889,-103.849247,44.477889",
     "geom:latitude":44.477889,
     "geom:longitude":-103.849247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Spearfish Canyon Hwy",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403735393,
-    "wof:lastmodified":1449055914,
+    "wof:lastmodified":1467082684,
     "wof:name":"Kiefer Consignment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "consignment"
     ]
 },
-  "bbox": [-103.849247,44.477889,-103.849247,44.477889],
-  "geometry": {"coordinates":[-103.849247,44.477889],"type":"Point"}
+  "bbox": [
+    -103.849247,
+    44.477889,
+    -103.849247,
+    44.477889
+],
+  "geometry": {"coordinates":[-103.84924700000001,44.477889],"type":"Point"}
 }

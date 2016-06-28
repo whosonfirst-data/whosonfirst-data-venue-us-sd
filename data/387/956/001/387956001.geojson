@@ -2,13 +2,14 @@
   "id": 387956001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739912,43.544733,-96.739912,43.544733",
     "geom:latitude":43.544733,
     "geom:longitude":-96.739912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387956001,
-    "wof:lastmodified":1449056748,
+    "wof:lastmodified":1467082699,
     "wof:name":"Diamond/Triumph Auto Glass",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass"
     ]
 },
-  "bbox": [-96.739912,43.544733,-96.739912,43.544733],
+  "bbox": [
+    -96.739912,
+    43.544733,
+    -96.739912,
+    43.544733
+],
   "geometry": {"coordinates":[-96.739912,43.544733],"type":"Point"}
 }

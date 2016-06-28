@@ -2,13 +2,14 @@
   "id": 387697973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702728,43.54595,-96.702728,43.54595",
     "geom:latitude":43.54595,
     "geom:longitude":-96.702728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S Jessica Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387697973,
-    "wof:lastmodified":1449058509,
+    "wof:lastmodified":1467082735,
     "wof:name":"McLeodusa Incorporated",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-96.702728,43.54595,-96.702728,43.54595],
-  "geometry": {"coordinates":[-96.702728,43.54595],"type":"Point"}
+  "bbox": [
+    -96.702728,
+    43.54595,
+    -96.702728,
+    43.54595
+],
+  "geometry": {"coordinates":[-96.70272799999999,43.54595],"type":"Point"}
 }

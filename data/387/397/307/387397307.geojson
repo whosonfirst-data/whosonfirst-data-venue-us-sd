@@ -2,13 +2,14 @@
   "id": 387397307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.057238,43.006084,-98.057238,43.006084",
     "geom:latitude":43.006084,
     "geom:longitude":-98.057238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Pine St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387397307,
-    "wof:lastmodified":1449057623,
+    "wof:lastmodified":1467082717,
     "wof:name":"Avon School District 4-1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.057238,43.006084,-98.057238,43.006084],
+  "bbox": [
+    -98.057238,
+    43.006084,
+    -98.057238,
+    43.006084
+],
   "geometry": {"coordinates":[-98.057238,43.006084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387355011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.667679,43.546079,-96.667679,43.546079",
     "geom:latitude":43.546079,
     "geom:longitude":-96.667679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S Detroit Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387355011,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1467082707,
     "wof:name":"Henjum Mrian Dsign Illstration",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-96.667679,43.546079,-96.667679,43.546079],
-  "geometry": {"coordinates":[-96.667679,43.546079],"type":"Point"}
+  "bbox": [
+    -96.667679,
+    43.546079,
+    -96.667679,
+    43.546079
+],
+  "geometry": {"coordinates":[-96.66767900000001,43.546079],"type":"Point"}
 }

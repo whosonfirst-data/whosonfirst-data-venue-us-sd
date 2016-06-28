@@ -2,13 +2,14 @@
   "id": 387368923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.059797,45.667533,-97.059797,45.667533",
     "geom:latitude":45.667533,
     "geom:longitude":-97.059797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Chestnut St W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387368923,
-    "wof:lastmodified":1449056983,
+    "wof:lastmodified":1467082704,
     "wof:name":"Hellwig's Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-97.059797,45.667533,-97.059797,45.667533],
+  "bbox": [
+    -97.059797,
+    45.667533,
+    -97.059797,
+    45.667533
+],
   "geometry": {"coordinates":[-97.059797,45.667533],"type":"Point"}
 }

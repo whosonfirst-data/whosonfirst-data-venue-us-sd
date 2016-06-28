@@ -2,13 +2,14 @@
   "id": 387946479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.644449,43.539432,-96.644449,43.539432",
     "geom:latitude":43.539432,
     "geom:longitude":-96.644449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 E Fawn Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387946479,
-    "wof:lastmodified":1449059461,
+    "wof:lastmodified":1467082754,
     "wof:name":"Bison Transportation Inc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.644449,43.539432,-96.644449,43.539432],
-  "geometry": {"coordinates":[-96.644449,43.539432],"type":"Point"}
+  "bbox": [
+    -96.644449,
+    43.539432,
+    -96.644449,
+    43.539432
+],
+  "geometry": {"coordinates":[-96.64444899999999,43.539432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403799115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.964071,43.115968,-96.964071,43.115968",
     "geom:latitude":43.115968,
     "geom:longitude":-96.964071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Railway St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403799115,
-    "wof:lastmodified":1449055962,
+    "wof:lastmodified":1467082684,
     "wof:name":"Co-Operative Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-96.964071,43.115968,-96.964071,43.115968],
+  "bbox": [
+    -96.964071,
+    43.115968,
+    -96.964071,
+    43.115968
+],
   "geometry": {"coordinates":[-96.964071,43.115968],"type":"Point"}
 }

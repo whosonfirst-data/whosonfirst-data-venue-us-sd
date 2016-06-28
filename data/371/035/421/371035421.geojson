@@ -2,13 +2,14 @@
   "id": 371035421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.483524,43.426617,-103.483524,43.426617",
     "geom:latitude":43.426617,
     "geom:longitude":-103.483524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S 18th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371035421,
-    "wof:lastmodified":1449049893,
+    "wof:lastmodified":1467082670,
     "wof:name":"Fisher Lock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-103.483524,43.426617,-103.483524,43.426617],
+  "bbox": [
+    -103.483524,
+    43.426617,
+    -103.483524,
+    43.426617
+],
   "geometry": {"coordinates":[-103.483524,43.426617],"type":"Point"}
 }

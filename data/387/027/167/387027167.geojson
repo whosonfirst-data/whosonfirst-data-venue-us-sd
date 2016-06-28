@@ -2,13 +2,14 @@
   "id": 387027167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.932338,42.785188,-96.932338,42.785188",
     "geom:latitude":42.785188,
     "geom:longitude":-96.932338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Cottage Ave",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387027167,
-    "wof:lastmodified":1449056809,
+    "wof:lastmodified":1467082701,
     "wof:name":"Apostolic Faith Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.932338,42.785188,-96.932338,42.785188],
+  "bbox": [
+    -96.932338,
+    42.785188,
+    -96.932338,
+    42.785188
+],
   "geometry": {"coordinates":[-96.932338,42.785188],"type":"Point"}
 }

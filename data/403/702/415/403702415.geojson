@@ -2,13 +2,14 @@
   "id": 403702415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.033803,43.716984,-98.033803,43.716984",
     "geom:latitude":43.716984,
     "geom:longitude":-98.033803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 N Minnesota St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403702415,
-    "wof:lastmodified":1449055304,
+    "wof:lastmodified":1467082680,
     "wof:name":"Westview Apartments One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.033803,43.716984,-98.033803,43.716984],
-  "geometry": {"coordinates":[-98.033803,43.716984],"type":"Point"}
+  "bbox": [
+    -98.033803,
+    43.716984,
+    -98.033803,
+    43.716984
+],
+  "geometry": {"coordinates":[-98.03380300000001,43.716984],"type":"Point"}
 }

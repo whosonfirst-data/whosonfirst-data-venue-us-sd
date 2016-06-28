@@ -2,13 +2,14 @@
   "id": 371143583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.35247,43.955526,-103.35247,43.955526",
     "geom:latitude":43.955526,
     "geom:longitude":-103.35247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23784 Golden Hills Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371143583,
-    "wof:lastmodified":1449049940,
+    "wof:lastmodified":1467082671,
     "wof:name":"Johnstone Management Syst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.35247,43.955526,-103.35247,43.955526],
+  "bbox": [
+    -103.35247,
+    43.955526,
+    -103.35247,
+    43.955526
+],
   "geometry": {"coordinates":[-103.35247,43.955526],"type":"Point"}
 }

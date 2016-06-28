@@ -2,13 +2,14 @@
   "id": 387805009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.505678,45.456939,-98.505678,45.456939",
     "geom:latitude":45.456939,
     "geom:longitude":-98.505678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S 12th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387805009,
-    "wof:lastmodified":1449057373,
+    "wof:lastmodified":1467082712,
     "wof:name":"M C R Painting",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.505678,45.456939,-98.505678,45.456939],
+  "bbox": [
+    -98.505678,
+    45.456939,
+    -98.505678,
+    45.456939
+],
   "geometry": {"coordinates":[-98.505678,45.456939],"type":"Point"}
 }

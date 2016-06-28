@@ -2,13 +2,14 @@
   "id": 403831995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.388314,44.370991,-100.388314,44.370991",
     "geom:latitude":44.370991,
     "geom:longitude":-100.388314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 US Hwy 14",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403831995,
-    "wof:lastmodified":1449055425,
+    "wof:lastmodified":1467082681,
     "wof:name":"Eddies Truck Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-100.388314,44.370991,-100.388314,44.370991],
-  "geometry": {"coordinates":[-100.388314,44.370991],"type":"Point"}
+  "bbox": [
+    -100.388314,
+    44.370991,
+    -100.388314,
+    44.370991
+],
+  "geometry": {"coordinates":[-100.38831399999999,44.370991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387742769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.57184,43.621538,-96.57184,43.621538",
     "geom:latitude":43.621538,
     "geom:longitude":-96.57184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25965 482nd Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387742769,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1467082692,
     "wof:name":"Midwest Rail Car",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "railroad"
     ]
 },
-  "bbox": [-96.57184,43.621538,-96.57184,43.621538],
-  "geometry": {"coordinates":[-96.57184,43.621538],"type":"Point"}
+  "bbox": [
+    -96.57184,
+    43.621538,
+    -96.57184,
+    43.621538
+],
+  "geometry": {"coordinates":[-96.57183999999999,43.621538],"type":"Point"}
 }

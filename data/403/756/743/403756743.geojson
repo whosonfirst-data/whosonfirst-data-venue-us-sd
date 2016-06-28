@@ -2,13 +2,14 @@
   "id": 403756743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.133612,44.003852,-97.133612,44.003852",
     "geom:latitude":44.003852,
     "geom:longitude":-97.133612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 SW 1st St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403756743,
-    "wof:lastmodified":1449055446,
+    "wof:lastmodified":1467082681,
     "wof:name":"Jersey S Sports Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.133612,44.003852,-97.133612,44.003852],
+  "bbox": [
+    -97.133612,
+    44.003852,
+    -97.133612,
+    44.003852
+],
   "geometry": {"coordinates":[-97.133612,44.003852],"type":"Point"}
 }

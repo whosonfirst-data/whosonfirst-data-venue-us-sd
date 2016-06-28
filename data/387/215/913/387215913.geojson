@@ -2,13 +2,14 @@
   "id": 387215913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.842918,43.447633,-96.842918,43.447633",
     "geom:latitude":43.447633,
     "geom:longitude":-96.842918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 W Maple St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387215913,
-    "wof:lastmodified":1449059260,
+    "wof:lastmodified":1467082750,
     "wof:name":"St Nicholas Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.842918,43.447633,-96.842918,43.447633],
+  "bbox": [
+    -96.842918,
+    43.447633,
+    -96.842918,
+    43.447633
+],
   "geometry": {"coordinates":[-96.842918,43.447633],"type":"Point"}
 }

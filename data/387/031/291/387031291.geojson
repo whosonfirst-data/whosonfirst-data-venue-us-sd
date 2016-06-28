@@ -2,13 +2,14 @@
   "id": 387031291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.197607,44.370465,-98.197607,44.370465",
     "geom:latitude":44.370465,
     "geom:longitude":-98.197607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"960 4th St NE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387031291,
-    "wof:lastmodified":1449057513,
+    "wof:lastmodified":1467082715,
     "wof:name":"Plains Dining & Recreation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-98.197607,44.370465,-98.197607,44.370465],
+  "bbox": [
+    -98.197607,
+    44.370465,
+    -98.197607,
+    44.370465
+],
   "geometry": {"coordinates":[-98.197607,44.370465],"type":"Point"}
 }

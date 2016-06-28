@@ -2,13 +2,14 @@
   "id": 387086569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.410907,44.641802,-97.410907,44.641802",
     "geom:latitude":44.641802,
     "geom:longitude":-97.410907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18920 440th Ave",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387086569,
-    "wof:lastmodified":1449058660,
+    "wof:lastmodified":1467082738,
     "wof:name":"Monson John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soybean"
     ]
 },
-  "bbox": [-97.410907,44.641802,-97.410907,44.641802],
-  "geometry": {"coordinates":[-97.410907,44.641802],"type":"Point"}
+  "bbox": [
+    -97.410907,
+    44.641802,
+    -97.410907,
+    44.641802
+],
+  "geometry": {"coordinates":[-97.41090699999999,44.641802],"type":"Point"}
 }

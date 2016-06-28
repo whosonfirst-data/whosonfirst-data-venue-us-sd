@@ -2,13 +2,14 @@
   "id": 387299837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.032758,43.731211,-98.032758,43.731211",
     "geom:latitude":43.731211,
     "geom:longitude":-98.032758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W 23rd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387299837,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1467082706,
     "wof:name":"Lakeview Municipal Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-98.032758,43.731211,-98.032758,43.731211],
+  "bbox": [
+    -98.032758,
+    43.731211,
+    -98.032758,
+    43.731211
+],
   "geometry": {"coordinates":[-98.032758,43.731211],"type":"Point"}
 }

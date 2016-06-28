@@ -2,13 +2,14 @@
   "id": 370971739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.819903,44.23934,-96.819903,44.23934",
     "geom:latitude":44.23934,
     "geom:longitude":-96.819903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46946 217th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370971739,
-    "wof:lastmodified":1449030795,
+    "wof:lastmodified":1467082656,
     "wof:name":"Cabana Banners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "banner"
     ]
 },
-  "bbox": [-96.819903,44.23934,-96.819903,44.23934],
+  "bbox": [
+    -96.819903,
+    44.23934,
+    -96.819903,
+    44.23934
+],
   "geometry": {"coordinates":[-96.819903,44.23934],"type":"Point"}
 }

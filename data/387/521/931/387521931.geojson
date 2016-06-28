@@ -2,13 +2,14 @@
   "id": 387521931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.0687,44.794531,-100.0687,44.794531",
     "geom:latitude":44.794531,
     "geom:longitude":-100.0687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30491 179th St",
     "sg:city":"Agar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387521931,
-    "wof:lastmodified":1449059735,
+    "wof:lastmodified":1467082759,
     "wof:name":"Paul Brandt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-100.0687,44.794531,-100.0687,44.794531],
-  "geometry": {"coordinates":[-100.0687,44.794531],"type":"Point"}
+  "bbox": [
+    -100.0687,
+    44.794531,
+    -100.0687,
+    44.794531
+],
+  "geometry": {"coordinates":[-100.06870000000001,44.794531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371195479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.013271,44.776653,-98.013271,44.776653",
     "geom:latitude":44.776653,
     "geom:longitude":-98.013271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41137 180th St",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371195479,
-    "wof:lastmodified":1449049749,
+    "wof:lastmodified":1467082668,
     "wof:name":"Gene Helkenn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.013271,44.776653,-98.013271,44.776653],
+  "bbox": [
+    -98.013271,
+    44.776653,
+    -98.013271,
+    44.776653
+],
   "geometry": {"coordinates":[-98.013271,44.776653],"type":"Point"}
 }

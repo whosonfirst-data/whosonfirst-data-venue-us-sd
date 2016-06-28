@@ -2,13 +2,14 @@
   "id": 387209769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.145494,44.061887,-103.145494,44.061887",
     "geom:latitude":44.061887,
     "geom:longitude":-103.145494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2481 Sweetbriar St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387209769,
-    "wof:lastmodified":1449059507,
+    "wof:lastmodified":1467082755,
     "wof:name":"Angels In Waiting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.145494,44.061887,-103.145494,44.061887],
+  "bbox": [
+    -103.145494,
+    44.061887,
+    -103.145494,
+    44.061887
+],
   "geometry": {"coordinates":[-103.145494,44.061887],"type":"Point"}
 }

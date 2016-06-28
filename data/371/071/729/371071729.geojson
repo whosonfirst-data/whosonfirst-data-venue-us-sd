@@ -2,13 +2,14 @@
   "id": 371071729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746211,43.507754,-96.746211,43.507754",
     "geom:latitude":43.507754,
     "geom:longitude":-96.746211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W 50th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371071729,
-    "wof:lastmodified":1449049707,
+    "wof:lastmodified":1467082667,
     "wof:name":"A B Propane",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-96.746211,43.507754,-96.746211,43.507754],
+  "bbox": [
+    -96.746211,
+    43.507754,
+    -96.746211,
+    43.507754
+],
   "geometry": {"coordinates":[-96.746211,43.507754],"type":"Point"}
 }

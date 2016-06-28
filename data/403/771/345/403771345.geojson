@@ -2,13 +2,14 @@
   "id": 403771345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.167093,44.067914,-103.167093,44.067914",
     "geom:latitude":44.067914,
     "geom:longitude":-103.167093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 E Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403771345,
-    "wof:lastmodified":1449055357,
+    "wof:lastmodified":1467082680,
     "wof:name":"Neumiller Truck & Auto Body",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-103.167093,44.067914,-103.167093,44.067914],
-  "geometry": {"coordinates":[-103.167093,44.067914],"type":"Point"}
+  "bbox": [
+    -103.167093,
+    44.067914,
+    -103.167093,
+    44.067914
+],
+  "geometry": {"coordinates":[-103.16709299999999,44.067914],"type":"Point"}
 }

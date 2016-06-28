@@ -2,13 +2,14 @@
   "id": 387804817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234457,44.381527,-98.234457,44.381527",
     "geom:latitude":44.381527,
     "geom:longitude":-98.234457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Lincoln Ave NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387804817,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1467082740,
     "wof:name":"Aadg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "structural"
     ]
 },
-  "bbox": [-98.234457,44.381527,-98.234457,44.381527],
-  "geometry": {"coordinates":[-98.234457,44.381527],"type":"Point"}
+  "bbox": [
+    -98.234457,
+    44.381527,
+    -98.234457,
+    44.381527
+],
+  "geometry": {"coordinates":[-98.23445700000001,44.381527],"type":"Point"}
 }

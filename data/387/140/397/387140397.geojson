@@ -2,13 +2,14 @@
   "id": 387140397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.158465,44.077923,-103.158465,44.077923",
     "geom:latitude":44.077923,
     "geom:longitude":-103.158465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Concourse Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387140397,
-    "wof:lastmodified":1449056653,
+    "wof:lastmodified":1467082698,
     "wof:name":"Sodak Distributing Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "liquor"
     ]
 },
-  "bbox": [-103.158465,44.077923,-103.158465,44.077923],
-  "geometry": {"coordinates":[-103.158465,44.077923],"type":"Point"}
+  "bbox": [
+    -103.158465,
+    44.077923,
+    -103.158465,
+    44.077923
+],
+  "geometry": {"coordinates":[-103.15846500000001,44.077923],"type":"Point"}
 }

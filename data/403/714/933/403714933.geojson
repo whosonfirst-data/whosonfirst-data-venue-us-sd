@@ -2,13 +2,14 @@
   "id": 403714933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.473507,43.429055,-103.473507,43.429055",
     "geom:latitude":43.429055,
     "geom:longitude":-103.473507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403714933,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1467082680,
     "wof:name":"Just Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.473507,43.429055,-103.473507,43.429055],
+  "bbox": [
+    -103.473507,
+    43.429055,
+    -103.473507,
+    43.429055
+],
   "geometry": {"coordinates":[-103.473507,43.429055],"type":"Point"}
 }

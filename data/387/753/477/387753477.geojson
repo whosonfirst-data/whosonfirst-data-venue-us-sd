@@ -2,13 +2,14 @@
   "id": 387753477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758452,43.544928,-96.758452,43.544928",
     "geom:latitude":43.544928,
     "geom:longitude":-96.758452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Garfield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387753477,
-    "wof:lastmodified":1449056556,
+    "wof:lastmodified":1467082696,
     "wof:name":"Prairie Freedom Center",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "disability"
     ]
 },
-  "bbox": [-96.758452,43.544928,-96.758452,43.544928],
-  "geometry": {"coordinates":[-96.758452,43.544928],"type":"Point"}
+  "bbox": [
+    -96.758452,
+    43.544928,
+    -96.758452,
+    43.544928
+],
+  "geometry": {"coordinates":[-96.75845200000001,43.544928],"type":"Point"}
 }

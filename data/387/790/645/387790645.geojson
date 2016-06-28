@@ -2,13 +2,14 @@
   "id": 387790645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76504,43.559213,-96.76504,43.559213",
     "geom:latitude":43.559213,
     "geom:longitude":-96.76504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Haley Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387790645,
-    "wof:lastmodified":1449059021,
+    "wof:lastmodified":1467082745,
     "wof:name":"Roell Drywall",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.76504,43.559213,-96.76504,43.559213],
+  "bbox": [
+    -96.76504,
+    43.559213,
+    -96.76504,
+    43.559213
+],
   "geometry": {"coordinates":[-96.76504,43.559213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387601909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.66693,44.039834,-101.66693,44.039834",
     "geom:latitude":44.039834,
     "geom:longitude":-101.66693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Howard Ave",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387601909,
-    "wof:lastmodified":1449057806,
+    "wof:lastmodified":1467082721,
     "wof:name":"Philip United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.66693,44.039834,-101.66693,44.039834],
-  "geometry": {"coordinates":[-101.66693,44.039834],"type":"Point"}
+  "bbox": [
+    -101.66693,
+    44.039834,
+    -101.66693,
+    44.039834
+],
+  "geometry": {"coordinates":[-101.66692999999999,44.039834],"type":"Point"}
 }

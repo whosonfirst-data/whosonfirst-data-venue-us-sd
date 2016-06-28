@@ -2,13 +2,14 @@
   "id": 387431647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.806811,44.474497,-103.806811,44.474497",
     "geom:latitude":44.474497,
     "geom:longitude":-103.806811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 4th Ave",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387431647,
-    "wof:lastmodified":1449056617,
+    "wof:lastmodified":1467082697,
     "wof:name":"Horizon Machine LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "arms"
     ]
 },
-  "bbox": [-103.806811,44.474497,-103.806811,44.474497],
+  "bbox": [
+    -103.806811,
+    44.474497,
+    -103.806811,
+    44.474497
+],
   "geometry": {"coordinates":[-103.806811,44.474497],"type":"Point"}
 }

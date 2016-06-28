@@ -2,13 +2,14 @@
   "id": 403766997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.512603,44.90577,-98.512603,44.90577",
     "geom:latitude":44.90577,
     "geom:longitude":-98.512603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17140 US Hwy 281",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403766997,
-    "wof:lastmodified":1449054613,
+    "wof:lastmodified":1467082674,
     "wof:name":"Northern Electric Co-Operative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-98.512603,44.90577,-98.512603,44.90577],
+  "bbox": [
+    -98.512603,
+    44.90577,
+    -98.512603,
+    44.90577
+],
   "geometry": {"coordinates":[-98.512603,44.90577],"type":"Point"}
 }

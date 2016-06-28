@@ -2,13 +2,14 @@
   "id": 387369897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.222872,43.524409,-98.222872,43.524409",
     "geom:latitude":43.524409,
     "geom:longitude":-98.222872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26616 399th Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387369897,
-    "wof:lastmodified":1449059724,
+    "wof:lastmodified":1467082759,
     "wof:name":"Wieczorek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.222872,43.524409,-98.222872,43.524409],
+  "bbox": [
+    -98.222872,
+    43.524409,
+    -98.222872,
+    43.524409
+],
   "geometry": {"coordinates":[-98.222872,43.524409],"type":"Point"}
 }

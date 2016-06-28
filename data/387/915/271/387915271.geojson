@@ -2,13 +2,14 @@
   "id": 387915271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79828,44.31419,-96.79828,44.31419",
     "geom:latitude":44.31419,
     "geom:longitude":-96.79828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 8th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387915271,
-    "wof:lastmodified":1449059884,
+    "wof:lastmodified":1467082762,
     "wof:name":"Brookings Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.79828,44.31419,-96.79828,44.31419],
-  "geometry": {"coordinates":[-96.79828,44.31419],"type":"Point"}
+  "bbox": [
+    -96.79828,
+    44.31419,
+    -96.79828,
+    44.31419
+],
+  "geometry": {"coordinates":[-96.79828000000001,44.31419],"type":"Point"}
 }

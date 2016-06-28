@@ -2,13 +2,14 @@
   "id": 387831145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.1212,44.900454,-97.1212,44.900454",
     "geom:latitude":44.900454,
     "geom:longitude":-97.1212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 1st Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387831145,
-    "wof:lastmodified":1449058337,
+    "wof:lastmodified":1467082731,
     "wof:name":"Year Round Brown Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tanning"
     ]
 },
-  "bbox": [-97.1212,44.900454,-97.1212,44.900454],
+  "bbox": [
+    -97.1212,
+    44.900454,
+    -97.1212,
+    44.900454
+],
   "geometry": {"coordinates":[-97.1212,44.900454],"type":"Point"}
 }

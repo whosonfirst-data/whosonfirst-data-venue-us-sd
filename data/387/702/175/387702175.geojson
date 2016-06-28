@@ -2,13 +2,14 @@
   "id": 387702175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214132,44.365803,-98.214132,44.365803",
     "geom:latitude":44.365803,
     "geom:longitude":-98.214132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Market St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387702175,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1467082725,
     "wof:name":"Superior Coffee & Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214132,44.365803,-98.214132,44.365803],
-  "geometry": {"coordinates":[-98.214132,44.365803],"type":"Point"}
+  "bbox": [
+    -98.214132,
+    44.365803,
+    -98.214132,
+    44.365803
+],
+  "geometry": {"coordinates":[-98.21413200000001,44.365803],"type":"Point"}
 }

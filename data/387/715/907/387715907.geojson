@@ -2,13 +2,14 @@
   "id": 387715907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720113,43.514883,-96.720113,43.514883",
     "geom:latitude":43.514883,
     "geom:longitude":-96.720113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387715907,
-    "wof:lastmodified":1449059151,
+    "wof:lastmodified":1467082748,
     "wof:name":"Church Of Christ On East 41st",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.720113,43.514883,-96.720113,43.514883],
+  "bbox": [
+    -96.720113,
+    43.514883,
+    -96.720113,
+    43.514883
+],
   "geometry": {"coordinates":[-96.720113,43.514883],"type":"Point"}
 }

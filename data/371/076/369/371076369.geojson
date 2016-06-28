@@ -2,13 +2,14 @@
   "id": 371076369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551632,44.324857,-97.551632,44.324857",
     "geom:latitude":44.324857,
     "geom:longitude":-97.551632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21105 State Hwy 25",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371076369,
-    "wof:lastmodified":1449049866,
+    "wof:lastmodified":1467082670,
     "wof:name":"Kevin Broderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.551632,44.324857,-97.551632,44.324857],
+  "bbox": [
+    -97.551632,
+    44.324857,
+    -97.551632,
+    44.324857
+],
   "geometry": {"coordinates":[-97.551632,44.324857],"type":"Point"}
 }

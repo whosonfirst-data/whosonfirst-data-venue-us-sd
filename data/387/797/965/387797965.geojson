@@ -2,13 +2,14 @@
   "id": 387797965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48599,45.464124,-98.48599,45.464124",
     "geom:latitude":45.464124,
     "geom:longitude":-98.48599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 1st Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387797965,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1467082755,
     "wof:name":"Circuit Court Administration",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-98.48599,45.464124,-98.48599,45.464124],
+  "bbox": [
+    -98.48599,
+    45.464124,
+    -98.48599,
+    45.464124
+],
   "geometry": {"coordinates":[-98.48599,45.464124],"type":"Point"}
 }

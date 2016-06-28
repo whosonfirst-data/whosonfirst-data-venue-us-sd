@@ -2,13 +2,14 @@
   "id": 371135537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.596888,44.049514,-96.596888,44.049514",
     "geom:latitude":44.049514,
     "geom:longitude":-96.596888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371135537,
-    "wof:lastmodified":1449049419,
+    "wof:lastmodified":1467082663,
     "wof:name":"Complete Automotive Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.596888,44.049514,-96.596888,44.049514],
-  "geometry": {"coordinates":[-96.596888,44.049514],"type":"Point"}
+  "bbox": [
+    -96.596888,
+    44.049514,
+    -96.596888,
+    44.049514
+],
+  "geometry": {"coordinates":[-96.59688800000001,44.049514],"type":"Point"}
 }

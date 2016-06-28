@@ -2,13 +2,14 @@
   "id": 371044661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803124,43.525218,-96.803124,43.525218",
     "geom:latitude":43.525218,
     "geom:longitude":-96.803124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 W Westminster Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371044661,
-    "wof:lastmodified":1449049580,
+    "wof:lastmodified":1467082666,
     "wof:name":"Gd Vending",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-96.803124,43.525218,-96.803124,43.525218],
+  "bbox": [
+    -96.803124,
+    43.525218,
+    -96.803124,
+    43.525218
+],
   "geometry": {"coordinates":[-96.803124,43.525218],"type":"Point"}
 }

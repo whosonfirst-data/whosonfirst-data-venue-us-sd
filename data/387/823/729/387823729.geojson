@@ -2,13 +2,14 @@
   "id": 387823729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.228635,44.100396,-103.228635,44.100396",
     "geom:latitude":44.100396,
     "geom:longitude":-103.228635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 N 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387823729,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1467082762,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-103.228635,44.100396,-103.228635,44.100396],
+  "bbox": [
+    -103.228635,
+    44.100396,
+    -103.228635,
+    44.100396
+],
   "geometry": {"coordinates":[-103.228635,44.100396],"type":"Point"}
 }

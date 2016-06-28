@@ -2,13 +2,14 @@
   "id": 387854583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106833,44.908972,-97.106833,44.908972",
     "geom:latitude":44.908972,
     "geom:longitude":-97.106833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 4th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387854583,
-    "wof:lastmodified":1449059778,
+    "wof:lastmodified":1467082760,
     "wof:name":"Center For Fmly Csmtc Dntstry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.106833,44.908972,-97.106833,44.908972],
-  "geometry": {"coordinates":[-97.106833,44.908972],"type":"Point"}
+  "bbox": [
+    -97.106833,
+    44.908972,
+    -97.106833,
+    44.908972
+],
+  "geometry": {"coordinates":[-97.10683299999999,44.908972],"type":"Point"}
 }

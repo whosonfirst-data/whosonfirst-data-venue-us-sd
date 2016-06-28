@@ -2,13 +2,14 @@
   "id": 386946323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.51924,44.493964,-98.51924,44.493964",
     "geom:latitude":44.493964,
     "geom:longitude":-98.51924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19944 385th Ave",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386946323,
-    "wof:lastmodified":1449028929,
+    "wof:lastmodified":1467082655,
     "wof:name":"E Pribyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.51924,44.493964,-98.51924,44.493964],
+  "bbox": [
+    -98.51924,
+    44.493964,
+    -98.51924,
+    44.493964
+],
   "geometry": {"coordinates":[-98.51924,44.493964],"type":"Point"}
 }

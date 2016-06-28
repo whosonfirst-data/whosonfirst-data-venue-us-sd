@@ -2,13 +2,14 @@
   "id": 403752615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049031,44.889827,-97.049031,44.889827",
     "geom:latitude":44.889827,
     "geom:longitude":-97.049031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45788 US Hwy 212",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403752615,
-    "wof:lastmodified":1449054852,
+    "wof:lastmodified":1467082676,
     "wof:name":"Prairie Coins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.049031,44.889827,-97.049031,44.889827],
+  "bbox": [
+    -97.049031,
+    44.889827,
+    -97.049031,
+    44.889827
+],
   "geometry": {"coordinates":[-97.049031,44.889827],"type":"Point"}
 }

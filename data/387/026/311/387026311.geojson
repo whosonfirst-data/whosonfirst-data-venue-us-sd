@@ -2,13 +2,14 @@
   "id": 387026311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797508,43.516555,-96.797508,43.516555",
     "geom:latitude":43.516555,
     "geom:longitude":-96.797508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 S Steven Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387026311,
-    "wof:lastmodified":1449058348,
+    "wof:lastmodified":1467082732,
     "wof:name":"Auto Tech",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-96.797508,43.516555,-96.797508,43.516555],
-  "geometry": {"coordinates":[-96.797508,43.516555],"type":"Point"}
+  "bbox": [
+    -96.797508,
+    43.516555,
+    -96.797508,
+    43.516555
+],
+  "geometry": {"coordinates":[-96.79750799999999,43.516555],"type":"Point"}
 }

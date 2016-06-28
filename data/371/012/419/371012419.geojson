@@ -2,13 +2,14 @@
   "id": 371012419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.853304,44.422224,-97.853304,44.422224",
     "geom:latitude":44.422224,
     "geom:longitude":-97.853304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20429 418th Ave",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371012419,
-    "wof:lastmodified":1449050033,
+    "wof:lastmodified":1467082672,
     "wof:name":"Jonathan Penner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.853304,44.422224,-97.853304,44.422224],
-  "geometry": {"coordinates":[-97.853304,44.422224],"type":"Point"}
+  "bbox": [
+    -97.853304,
+    44.422224,
+    -97.853304,
+    44.422224
+],
+  "geometry": {"coordinates":[-97.85330399999999,44.422224],"type":"Point"}
 }

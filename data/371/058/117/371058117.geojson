@@ -2,13 +2,14 @@
   "id": 371058117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.195729,44.111072,-103.195729,44.111072",
     "geom:latitude":44.111072,
     "geom:longitude":-103.195729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 Seger Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371058117,
-    "wof:lastmodified":1449049182,
+    "wof:lastmodified":1467082660,
     "wof:name":"LAD Enterprises",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-103.195729,44.111072,-103.195729,44.111072],
+  "bbox": [
+    -103.195729,
+    44.111072,
+    -103.195729,
+    44.111072
+],
   "geometry": {"coordinates":[-103.195729,44.111072],"type":"Point"}
 }

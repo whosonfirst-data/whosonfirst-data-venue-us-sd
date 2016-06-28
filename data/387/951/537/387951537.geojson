@@ -2,13 +2,14 @@
   "id": 387951537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.432075,43.232132,-99.432075,43.232132",
     "geom:latitude":43.232132,
     "geom:longitude":-99.432075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W 6th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387951537,
-    "wof:lastmodified":1449056285,
+    "wof:lastmodified":1467082690,
     "wof:name":"Berens Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.432075,43.232132,-99.432075,43.232132],
+  "bbox": [
+    -99.432075,
+    43.232132,
+    -99.432075,
+    43.232132
+],
   "geometry": {"coordinates":[-99.432075,43.232132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403777363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808601,43.661995,-96.808601,43.661995",
     "geom:latitude":43.661995,
     "geom:longitude":-96.808601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Main St",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403777363,
-    "wof:lastmodified":1449055345,
+    "wof:lastmodified":1467082680,
     "wof:name":"Roskens Dakota Pizza",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.808601,43.661995,-96.808601,43.661995],
+  "bbox": [
+    -96.808601,
+    43.661995,
+    -96.808601,
+    43.661995
+],
   "geometry": {"coordinates":[-96.808601,43.661995],"type":"Point"}
 }

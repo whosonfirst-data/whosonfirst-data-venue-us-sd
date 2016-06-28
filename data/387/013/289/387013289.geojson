@@ -2,13 +2,14 @@
   "id": 387013289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.130535,44.079004,-103.130535,44.079004",
     "geom:latitude":44.079004,
     "geom:longitude":-103.130535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Ennen Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387013289,
-    "wof:lastmodified":1449058684,
+    "wof:lastmodified":1467082738,
     "wof:name":"Teknet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "work"
     ]
 },
-  "bbox": [-103.130535,44.079004,-103.130535,44.079004],
-  "geometry": {"coordinates":[-103.130535,44.079004],"type":"Point"}
+  "bbox": [
+    -103.130535,
+    44.079004,
+    -103.130535,
+    44.079004
+],
+  "geometry": {"coordinates":[-103.13053499999999,44.079004],"type":"Point"}
 }

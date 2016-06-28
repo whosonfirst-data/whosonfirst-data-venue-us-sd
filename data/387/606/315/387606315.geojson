@@ -2,13 +2,14 @@
   "id": 387606315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.182289,44.032177,-103.182289,44.032177",
     "geom:latitude":44.032177,
     "geom:longitude":-103.182289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6111 Old Folsom Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387606315,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1467082698,
     "wof:name":"Weyer Creations Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-103.182289,44.032177,-103.182289,44.032177],
+  "bbox": [
+    -103.182289,
+    44.032177,
+    -103.182289,
+    44.032177
+],
   "geometry": {"coordinates":[-103.182289,44.032177],"type":"Point"}
 }

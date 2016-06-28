@@ -2,13 +2,14 @@
   "id": 387746079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507658,45.8322,-98.507658,45.8322",
     "geom:latitude":45.8322,
     "geom:longitude":-98.507658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387746079,
-    "wof:lastmodified":1449056082,
+    "wof:lastmodified":1467082686,
     "wof:name":"Emma Burnham Library",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.507658,45.8322,-98.507658,45.8322],
-  "geometry": {"coordinates":[-98.507658,45.8322],"type":"Point"}
+  "bbox": [
+    -98.507658,
+    45.8322,
+    -98.507658,
+    45.8322
+],
+  "geometry": {"coordinates":[-98.50765800000001,45.8322],"type":"Point"}
 }

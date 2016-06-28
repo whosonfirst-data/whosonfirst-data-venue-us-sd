@@ -2,13 +2,14 @@
   "id": 387575729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.639046,43.558418,-96.639046,43.558418",
     "geom:latitude":43.558418,
     "geom:longitude":-96.639046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 E Madison St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387575729,
-    "wof:lastmodified":1449057200,
+    "wof:lastmodified":1467082708,
     "wof:name":"Mark Oconnor",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-96.639046,43.558418,-96.639046,43.558418],
-  "geometry": {"coordinates":[-96.639046,43.558418],"type":"Point"}
+  "bbox": [
+    -96.639046,
+    43.558418,
+    -96.639046,
+    43.558418
+],
+  "geometry": {"coordinates":[-96.63904599999999,43.558418],"type":"Point"}
 }

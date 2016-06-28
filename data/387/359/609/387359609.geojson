@@ -2,13 +2,14 @@
   "id": 387359609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709704,43.799977,-96.709704,43.799977",
     "geom:latitude":43.799977,
     "geom:longitude":-96.709704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24708 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387359609,
-    "wof:lastmodified":1449056055,
+    "wof:lastmodified":1467082686,
     "wof:name":"Lee's Woods",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-96.709704,43.799977,-96.709704,43.799977],
+  "bbox": [
+    -96.709704,
+    43.799977,
+    -96.709704,
+    43.799977
+],
   "geometry": {"coordinates":[-96.709704,43.799977],"type":"Point"}
 }

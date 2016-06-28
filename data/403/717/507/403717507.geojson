@@ -2,13 +2,14 @@
   "id": 403717507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.580148,43.936595,-103.580148,43.936595",
     "geom:latitude":43.936595,
     "geom:longitude":-103.580148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12407 Deerfield Rd",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403717507,
-    "wof:lastmodified":1449054656,
+    "wof:lastmodified":1467082674,
     "wof:name":"Newton Fork Ranch",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.580148,43.936595,-103.580148,43.936595],
-  "geometry": {"coordinates":[-103.580148,43.936595],"type":"Point"}
+  "bbox": [
+    -103.580148,
+    43.936595,
+    -103.580148,
+    43.936595
+],
+  "geometry": {"coordinates":[-103.58014799999999,43.936595],"type":"Point"}
 }

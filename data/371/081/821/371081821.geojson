@@ -2,13 +2,14 @@
   "id": 371081821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48811,45.462045,-98.48811,45.462045",
     "geom:latitude":45.462045,
     "geom:longitude":-98.48811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371081821,
-    "wof:lastmodified":1449049332,
+    "wof:lastmodified":1467082662,
     "wof:name":"Dacotah Bank",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.48811,45.462045,-98.48811,45.462045],
-  "geometry": {"coordinates":[-98.48811,45.462045],"type":"Point"}
+  "bbox": [
+    -98.48811,
+    45.462045,
+    -98.48811,
+    45.462045
+],
+  "geometry": {"coordinates":[-98.48811000000001,45.462045],"type":"Point"}
 }

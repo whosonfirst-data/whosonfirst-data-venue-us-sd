@@ -2,13 +2,14 @@
   "id": 387725621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.65263,44.066532,-97.65263,44.066532",
     "geom:latitude":44.066532,
     "geom:longitude":-97.65263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42779 229th St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387725621,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1467082705,
     "wof:name":"Mcnames Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.65263,44.066532,-97.65263,44.066532],
+  "bbox": [
+    -97.65263,
+    44.066532,
+    -97.65263,
+    44.066532
+],
   "geometry": {"coordinates":[-97.65263,44.066532],"type":"Point"}
 }

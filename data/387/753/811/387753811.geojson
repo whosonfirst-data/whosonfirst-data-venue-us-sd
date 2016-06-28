@@ -2,13 +2,14 @@
   "id": 387753811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.300122,44.005702,-103.300122,44.005702",
     "geom:latitude":44.005702,
     "geom:longitude":-103.300122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4804 Nonanna St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387753811,
-    "wof:lastmodified":1449056558,
+    "wof:lastmodified":1467082696,
     "wof:name":"Gobblers Anonymous Partner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-103.300122,44.005702,-103.300122,44.005702],
+  "bbox": [
+    -103.300122,
+    44.005702,
+    -103.300122,
+    44.005702
+],
   "geometry": {"coordinates":[-103.300122,44.005702],"type":"Point"}
 }

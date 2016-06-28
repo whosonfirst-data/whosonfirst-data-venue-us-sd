@@ -2,13 +2,14 @@
   "id": 387091877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758004,43.512702,-96.758004,43.512702",
     "geom:latitude":43.512702,
     "geom:longitude":-96.758004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 S Sheldon Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387091877,
-    "wof:lastmodified":1449056488,
+    "wof:lastmodified":1467082694,
     "wof:name":"Peterson Farm & Ranch",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.758004,43.512702,-96.758004,43.512702],
+  "bbox": [
+    -96.758004,
+    43.512702,
+    -96.758004,
+    43.512702
+],
   "geometry": {"coordinates":[-96.758004,43.512702],"type":"Point"}
 }

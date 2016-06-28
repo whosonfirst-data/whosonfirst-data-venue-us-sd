@@ -2,13 +2,14 @@
   "id": 387322469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.29809,44.143249,-103.29809,44.143249",
     "geom:latitude":44.143249,
     "geom:longitude":-103.29809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6424 Northdale Dr",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387322469,
-    "wof:lastmodified":1449056075,
+    "wof:lastmodified":1467082686,
     "wof:name":"Creative Imagery Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-103.29809,44.143249,-103.29809,44.143249],
+  "bbox": [
+    -103.29809,
+    44.143249,
+    -103.29809,
+    44.143249
+],
   "geometry": {"coordinates":[-103.29809,44.143249],"type":"Point"}
 }

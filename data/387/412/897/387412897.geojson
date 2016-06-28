@@ -2,13 +2,14 @@
   "id": 387412897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.786352,43.442088,-98.786352,43.442088",
     "geom:latitude":43.442088,
     "geom:longitude":-98.786352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36904 272nd St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387412897,
-    "wof:lastmodified":1449056876,
+    "wof:lastmodified":1467082702,
     "wof:name":"Boltjes Digging & Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.786352,43.442088,-98.786352,43.442088],
-  "geometry": {"coordinates":[-98.786352,43.442088],"type":"Point"}
+  "bbox": [
+    -98.786352,
+    43.442088,
+    -98.786352,
+    43.442088
+],
+  "geometry": {"coordinates":[-98.78635199999999,43.442088],"type":"Point"}
 }

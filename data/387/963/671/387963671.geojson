@@ -2,13 +2,14 @@
   "id": 387963671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746117,43.51486,-96.746117,43.51486",
     "geom:latitude":43.51486,
     "geom:longitude":-96.746117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387963671,
-    "wof:lastmodified":1449056471,
+    "wof:lastmodified":1467082694,
     "wof:name":"Eye Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.746117,43.51486,-96.746117,43.51486],
+  "bbox": [
+    -96.746117,
+    43.51486,
+    -96.746117,
+    43.51486
+],
   "geometry": {"coordinates":[-96.746117,43.51486],"type":"Point"}
 }

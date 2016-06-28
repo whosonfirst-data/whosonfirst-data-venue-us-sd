@@ -2,13 +2,14 @@
   "id": 386971383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724913,43.600142,-96.724913,43.600142",
     "geom:latitude":43.600142,
     "geom:longitude":-96.724913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4811 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386971383,
-    "wof:lastmodified":1449028788,
+    "wof:lastmodified":1467082652,
     "wof:name":"Rural Community Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.724913,43.600142,-96.724913,43.600142],
+  "bbox": [
+    -96.724913,
+    43.600142,
+    -96.724913,
+    43.600142
+],
   "geometry": {"coordinates":[-96.724913,43.600142],"type":"Point"}
 }

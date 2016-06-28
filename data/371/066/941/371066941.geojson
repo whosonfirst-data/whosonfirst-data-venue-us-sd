@@ -2,13 +2,14 @@
   "id": 371066941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.492241,43.587761,-96.492241,43.587761",
     "geom:latitude":43.587761,
     "geom:longitude":-96.492241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48655 262nd St",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371066941,
-    "wof:lastmodified":1449049309,
+    "wof:lastmodified":1467082662,
     "wof:name":"Allan Kruse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.492241,43.587761,-96.492241,43.587761],
-  "geometry": {"coordinates":[-96.492241,43.587761],"type":"Point"}
+  "bbox": [
+    -96.492241,
+    43.587761,
+    -96.492241,
+    43.587761
+],
+  "geometry": {"coordinates":[-96.49224100000001,43.587761],"type":"Point"}
 }

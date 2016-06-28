@@ -2,13 +2,14 @@
   "id": 387121291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801379,43.499639,-96.801379,43.499639",
     "geom:latitude":43.499639,
     "geom:longitude":-96.801379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 S Oakland Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387121291,
-    "wof:lastmodified":1449059075,
+    "wof:lastmodified":1467082746,
     "wof:name":"Adele's Bridal To Jeans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-96.801379,43.499639,-96.801379,43.499639],
+  "bbox": [
+    -96.801379,
+    43.499639,
+    -96.801379,
+    43.499639
+],
   "geometry": {"coordinates":[-96.801379,43.499639],"type":"Point"}
 }

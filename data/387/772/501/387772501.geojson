@@ -2,13 +2,14 @@
   "id": 387772501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.273823,44.05394,-98.273823,44.05394",
     "geom:latitude":44.05394,
     "geom:longitude":-98.273823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W 7th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387772501,
-    "wof:lastmodified":1449057812,
+    "wof:lastmodified":1467082721,
     "wof:name":"Heil Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.273823,44.05394,-98.273823,44.05394],
-  "geometry": {"coordinates":[-98.273823,44.05394],"type":"Point"}
+  "bbox": [
+    -98.273823,
+    44.05394,
+    -98.273823,
+    44.05394
+],
+  "geometry": {"coordinates":[-98.27382299999999,44.05394],"type":"Point"}
 }

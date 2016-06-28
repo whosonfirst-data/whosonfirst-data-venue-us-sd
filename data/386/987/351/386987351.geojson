@@ -2,13 +2,14 @@
   "id": 386987351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.508706,43.839639,-101.508706,43.839639",
     "geom:latitude":43.839639,
     "geom:longitude":-101.508706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Hwy 16",
     "sg:city":"Presho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386987351,
-    "wof:lastmodified":1449028796,
+    "wof:lastmodified":1467082652,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.508706,43.839639,-101.508706,43.839639],
+  "bbox": [
+    -101.508706,
+    43.839639,
+    -101.508706,
+    43.839639
+],
   "geometry": {"coordinates":[-101.508706,43.839639],"type":"Point"}
 }

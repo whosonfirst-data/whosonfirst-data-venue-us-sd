@@ -2,13 +2,14 @@
   "id": 387182117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79876,44.294686,-96.79876,44.294686",
     "geom:latitude":44.294686,
     "geom:longitude":-96.79876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387182117,
-    "wof:lastmodified":1449058518,
+    "wof:lastmodified":1467082735,
     "wof:name":"Dale's Alignment Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.79876,44.294686,-96.79876,44.294686],
+  "bbox": [
+    -96.79876,
+    44.294686,
+    -96.79876,
+    44.294686
+],
   "geometry": {"coordinates":[-96.79876,44.294686],"type":"Point"}
 }

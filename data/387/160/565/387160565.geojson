@@ -2,13 +2,14 @@
   "id": 387160565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.997437,43.658616,-97.997437,43.658616",
     "geom:latitude":43.658616,
     "geom:longitude":-97.997437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41053 257th St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387160565,
-    "wof:lastmodified":1449059323,
+    "wof:lastmodified":1467082751,
     "wof:name":"J R Trailers Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utility"
     ]
 },
-  "bbox": [-97.997437,43.658616,-97.997437,43.658616],
-  "geometry": {"coordinates":[-97.997437,43.658616],"type":"Point"}
+  "bbox": [
+    -97.997437,
+    43.658616,
+    -97.997437,
+    43.658616
+],
+  "geometry": {"coordinates":[-97.99743700000001,43.658616],"type":"Point"}
 }

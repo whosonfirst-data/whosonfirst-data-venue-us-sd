@@ -2,13 +2,14 @@
   "id": 387485531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.964885,43.224595,-97.964885,43.224595",
     "geom:latitude":43.224595,
     "geom:longitude":-97.964885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 2nd St",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387485531,
-    "wof:lastmodified":1449058421,
+    "wof:lastmodified":1467082733,
     "wof:name":"Tripp Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.964885,43.224595,-97.964885,43.224595],
+  "bbox": [
+    -97.964885,
+    43.224595,
+    -97.964885,
+    43.224595
+],
   "geometry": {"coordinates":[-97.964885,43.224595],"type":"Point"}
 }

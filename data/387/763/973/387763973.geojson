@@ -2,13 +2,14 @@
   "id": 387763973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.471786,44.590536,-97.471786,44.590536",
     "geom:latitude":44.590536,
     "geom:longitude":-97.471786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Main Ave",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387763973,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1467082763,
     "wof:name":"Wendling Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.471786,44.590536,-97.471786,44.590536],
-  "geometry": {"coordinates":[-97.471786,44.590536],"type":"Point"}
+  "bbox": [
+    -97.471786,
+    44.590536,
+    -97.471786,
+    44.590536
+],
+  "geometry": {"coordinates":[-97.47178599999999,44.590536],"type":"Point"}
 }

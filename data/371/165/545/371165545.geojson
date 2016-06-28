@@ -2,13 +2,14 @@
   "id": 371165545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509223,44.410303,-103.509223,44.410303",
     "geom:latitude":44.410303,
     "geom:longitude":-103.509223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1439 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371165545,
-    "wof:lastmodified":1449050143,
+    "wof:lastmodified":1467082673,
     "wof:name":"Porch Antiques The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-103.509223,44.410303,-103.509223,44.410303],
-  "geometry": {"coordinates":[-103.509223,44.410303],"type":"Point"}
+  "bbox": [
+    -103.509223,
+    44.410303,
+    -103.509223,
+    44.410303
+],
+  "geometry": {"coordinates":[-103.50922300000001,44.410303],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387261545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.780959,44.311502,-96.780959,44.311502",
     "geom:latitude":44.311502,
     "geom:longitude":-96.780959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1455 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387261545,
-    "wof:lastmodified":1449056178,
+    "wof:lastmodified":1467082688,
     "wof:name":"Nature's Paradise Health Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-96.780959,44.311502,-96.780959,44.311502],
+  "bbox": [
+    -96.780959,
+    44.311502,
+    -96.780959,
+    44.311502
+],
   "geometry": {"coordinates":[-96.780959,44.311502],"type":"Point"}
 }

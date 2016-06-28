@@ -2,13 +2,14 @@
   "id": 403808559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.448348,45.546849,-100.448348,45.546849",
     "geom:latitude":45.546849,
     "geom:longitude":-100.448348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 10th Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403808559,
-    "wof:lastmodified":1449054686,
+    "wof:lastmodified":1467082675,
     "wof:name":"Orthopedic Surgery Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-100.448348,45.546849,-100.448348,45.546849],
+  "bbox": [
+    -100.448348,
+    45.546849,
+    -100.448348,
+    45.546849
+],
   "geometry": {"coordinates":[-100.448348,45.546849],"type":"Point"}
 }

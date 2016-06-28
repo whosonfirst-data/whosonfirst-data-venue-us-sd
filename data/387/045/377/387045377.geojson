@@ -2,13 +2,14 @@
   "id": 387045377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.777093,45.240083,-99.777093,45.240083",
     "geom:latitude":45.240083,
     "geom:longitude":-99.777093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Main St",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387045377,
-    "wof:lastmodified":1449059471,
+    "wof:lastmodified":1467082754,
     "wof:name":"Holy Infant Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.777093,45.240083,-99.777093,45.240083],
-  "geometry": {"coordinates":[-99.777093,45.240083],"type":"Point"}
+  "bbox": [
+    -99.777093,
+    45.240083,
+    -99.777093,
+    45.240083
+],
+  "geometry": {"coordinates":[-99.77709299999999,45.240083],"type":"Point"}
 }

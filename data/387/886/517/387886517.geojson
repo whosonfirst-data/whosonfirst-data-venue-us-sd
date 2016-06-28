@@ -2,13 +2,14 @@
   "id": 387886517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73322,43.498861,-96.73322,43.498861",
     "geom:latitude":43.498861,
     "geom:longitude":-96.73322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 W Chicory Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387886517,
-    "wof:lastmodified":1449058217,
+    "wof:lastmodified":1467082729,
     "wof:name":"Weatherwax Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-96.73322,43.498861,-96.73322,43.498861],
+  "bbox": [
+    -96.73322,
+    43.498861,
+    -96.73322,
+    43.498861
+],
   "geometry": {"coordinates":[-96.73322,43.498861],"type":"Point"}
 }

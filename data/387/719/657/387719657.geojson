@@ -2,13 +2,14 @@
   "id": 387719657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.778594,43.516154,-96.778594,43.516154",
     "geom:latitude":43.516154,
     "geom:longitude":-96.778594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 S Carolyn Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387719657,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1467082696,
     "wof:name":"Home Air Solutions",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.778594,43.516154,-96.778594,43.516154],
+  "bbox": [
+    -96.778594,
+    43.516154,
+    -96.778594,
+    43.516154
+],
   "geometry": {"coordinates":[-96.778594,43.516154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387794955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129258,43.641454,-97.129258,43.641454",
     "geom:latitude":43.641454,
     "geom:longitude":-97.129258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25831 454th Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387794955,
-    "wof:lastmodified":1449057930,
+    "wof:lastmodified":1467082723,
     "wof:name":"Jeff Kaperman",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.129258,43.641454,-97.129258,43.641454],
-  "geometry": {"coordinates":[-97.129258,43.641454],"type":"Point"}
+  "bbox": [
+    -97.129258,
+    43.641454,
+    -97.129258,
+    43.641454
+],
+  "geometry": {"coordinates":[-97.12925799999999,43.641454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387589411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719856,43.557292,-96.719856,43.557292",
     "geom:latitude":43.557292,
     "geom:longitude":-96.719856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Weber Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387589411,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1467082728,
     "wof:name":"All-Phase Electric",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.719856,43.557292,-96.719856,43.557292],
-  "geometry": {"coordinates":[-96.719856,43.557292],"type":"Point"}
+  "bbox": [
+    -96.719856,
+    43.557292,
+    -96.719856,
+    43.557292
+],
+  "geometry": {"coordinates":[-96.71985599999999,43.557292],"type":"Point"}
 }

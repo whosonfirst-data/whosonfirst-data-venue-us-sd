@@ -2,13 +2,14 @@
   "id": 387866189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486593,45.461027,-98.486593,45.461027",
     "geom:latitude":45.461027,
     "geom:longitude":-98.486593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 4th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387866189,
-    "wof:lastmodified":1449057913,
+    "wof:lastmodified":1467082723,
     "wof:name":"US Federal District Court",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.486593,45.461027,-98.486593,45.461027],
+  "bbox": [
+    -98.486593,
+    45.461027,
+    -98.486593,
+    45.461027
+],
   "geometry": {"coordinates":[-98.486593,45.461027],"type":"Point"}
 }

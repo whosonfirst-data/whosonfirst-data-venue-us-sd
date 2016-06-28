@@ -2,13 +2,14 @@
   "id": 370987905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025857,43.723195,-98.025857,43.723195",
     "geom:latitude":43.723195,
     "geom:longitude":-98.025857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1423 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370987905,
-    "wof:lastmodified":1449030962,
+    "wof:lastmodified":1467082657,
     "wof:name":"Kermit Black CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.025857,43.723195,-98.025857,43.723195],
+  "bbox": [
+    -98.025857,
+    43.723195,
+    -98.025857,
+    43.723195
+],
   "geometry": {"coordinates":[-98.025857,43.723195],"type":"Point"}
 }

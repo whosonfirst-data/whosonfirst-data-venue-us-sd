@@ -2,13 +2,14 @@
   "id": 387331249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.127303,45.032742,-99.127303,45.032742",
     "geom:latitude":45.032742,
     "geom:longitude":-99.127303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Saint John St",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387331249,
-    "wof:lastmodified":1449058416,
+    "wof:lastmodified":1467082733,
     "wof:name":"United Church Of Faulkton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.127303,45.032742,-99.127303,45.032742],
+  "bbox": [
+    -99.127303,
+    45.032742,
+    -99.127303,
+    45.032742
+],
   "geometry": {"coordinates":[-99.127303,45.032742],"type":"Point"}
 }

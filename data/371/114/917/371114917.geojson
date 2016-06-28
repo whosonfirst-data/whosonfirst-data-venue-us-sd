@@ -2,13 +2,14 @@
   "id": 371114917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.284931,43.079895,-98.284931,43.079895",
     "geom:latitude":43.079895,
     "geom:longitude":-98.284931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 2nd St SE",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371114917,
-    "wof:lastmodified":1449049463,
+    "wof:lastmodified":1467082664,
     "wof:name":"Christian Alliance Parson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.284931,43.079895,-98.284931,43.079895],
+  "bbox": [
+    -98.284931,
+    43.079895,
+    -98.284931,
+    43.079895
+],
   "geometry": {"coordinates":[-98.284931,43.079895],"type":"Point"}
 }

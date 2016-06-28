@@ -2,13 +2,14 @@
   "id": 370982199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508634,44.875503,-98.508634,44.875503",
     "geom:latitude":44.875503,
     "geom:longitude":-98.508634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 E 6th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370982199,
-    "wof:lastmodified":1449029663,
+    "wof:lastmodified":1467082656,
     "wof:name":"Simple Charming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.508634,44.875503,-98.508634,44.875503],
+  "bbox": [
+    -98.508634,
+    44.875503,
+    -98.508634,
+    44.875503
+],
   "geometry": {"coordinates":[-98.508634,44.875503],"type":"Point"}
 }

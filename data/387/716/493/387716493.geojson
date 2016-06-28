@@ -2,13 +2,14 @@
   "id": 387716493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744949,43.536605,-96.744949,43.536605",
     "geom:latitude":43.536605,
     "geom:longitude":-96.744949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 W 18th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387716493,
-    "wof:lastmodified":1449056641,
+    "wof:lastmodified":1467082697,
     "wof:name":"Children's Special Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-96.744949,43.536605,-96.744949,43.536605],
-  "geometry": {"coordinates":[-96.744949,43.536605],"type":"Point"}
+  "bbox": [
+    -96.744949,
+    43.536605,
+    -96.744949,
+    43.536605
+],
+  "geometry": {"coordinates":[-96.74494900000001,43.536605],"type":"Point"}
 }

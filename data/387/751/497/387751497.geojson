@@ -2,13 +2,14 @@
   "id": 387751497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.783106,43.513236,-96.783106,43.513236",
     "geom:latitude":43.513236,
     "geom:longitude":-96.783106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 S Gateway Blvd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387751497,
-    "wof:lastmodified":1449056330,
+    "wof:lastmodified":1467082691,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "air"
     ]
 },
-  "bbox": [-96.783106,43.513236,-96.783106,43.513236],
+  "bbox": [
+    -96.783106,
+    43.513236,
+    -96.783106,
+    43.513236
+],
   "geometry": {"coordinates":[-96.783106,43.513236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387033133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.279418,43.242975,-97.279418,43.242975",
     "geom:latitude":43.242975,
     "geom:longitude":-97.279418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28603 446th Ave",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387033133,
-    "wof:lastmodified":1449056881,
+    "wof:lastmodified":1467082702,
     "wof:name":"Jorgensen Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.279418,43.242975,-97.279418,43.242975],
-  "geometry": {"coordinates":[-97.279418,43.242975],"type":"Point"}
+  "bbox": [
+    -97.279418,
+    43.242975,
+    -97.279418,
+    43.242975
+],
+  "geometry": {"coordinates":[-97.27941800000001,43.242975],"type":"Point"}
 }

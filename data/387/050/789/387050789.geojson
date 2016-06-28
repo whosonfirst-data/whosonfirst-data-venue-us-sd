@@ -2,13 +2,14 @@
   "id": 387050789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.496089,43.543259,-97.496089,43.543259",
     "geom:latitude":43.543259,
     "geom:longitude":-97.496089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43566 State Hwy 42",
     "sg:city":"Bridgewater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387050789,
-    "wof:lastmodified":1449058207,
+    "wof:lastmodified":1467082729,
     "wof:name":"Jaeger Diesel Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.496089,43.543259,-97.496089,43.543259],
+  "bbox": [
+    -97.496089,
+    43.543259,
+    -97.496089,
+    43.543259
+],
   "geometry": {"coordinates":[-97.496089,43.543259],"type":"Point"}
 }

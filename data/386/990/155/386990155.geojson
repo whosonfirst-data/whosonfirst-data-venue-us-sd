@@ -2,13 +2,14 @@
   "id": 386990155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.162393,45.940927,-102.162393,45.940927",
     "geom:latitude":45.940927,
     "geom:longitude":-102.162393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 2nd Ave W",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":386990155,
-    "wof:lastmodified":1449028830,
+    "wof:lastmodified":1467082653,
     "wof:name":"Arrow Public Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "residential"
     ]
 },
-  "bbox": [-102.162393,45.940927,-102.162393,45.940927],
-  "geometry": {"coordinates":[-102.162393,45.940927],"type":"Point"}
+  "bbox": [
+    -102.162393,
+    45.940927,
+    -102.162393,
+    45.940927
+],
+  "geometry": {"coordinates":[-102.16239299999999,45.940927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387677649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.110382,44.897209,-97.110382,44.897209",
     "geom:latitude":44.897209,
     "geom:longitude":-97.110382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 2nd Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387677649,
-    "wof:lastmodified":1449057467,
+    "wof:lastmodified":1467082714,
     "wof:name":"Immaculate Conception Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.110382,44.897209,-97.110382,44.897209],
+  "bbox": [
+    -97.110382,
+    44.897209,
+    -97.110382,
+    44.897209
+],
   "geometry": {"coordinates":[-97.110382,44.897209],"type":"Point"}
 }

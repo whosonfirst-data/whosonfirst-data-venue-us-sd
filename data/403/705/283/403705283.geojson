@@ -2,13 +2,14 @@
   "id": 403705283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689119,43.510859,-96.689119,43.510859",
     "geom:latitude":43.510859,
     "geom:longitude":-96.689119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3628 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403705283,
-    "wof:lastmodified":1449055971,
+    "wof:lastmodified":1467082684,
     "wof:name":"Center For Chiropractic Wellns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.689119,43.510859,-96.689119,43.510859],
-  "geometry": {"coordinates":[-96.689119,43.510859],"type":"Point"}
+  "bbox": [
+    -96.689119,
+    43.510859,
+    -96.689119,
+    43.510859
+],
+  "geometry": {"coordinates":[-96.68911900000001,43.510859],"type":"Point"}
 }

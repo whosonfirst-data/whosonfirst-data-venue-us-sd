@@ -2,13 +2,14 @@
   "id": 387629025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.222629,44.049369,-103.222629,44.049369",
     "geom:latitude":44.049369,
     "geom:longitude":-103.222629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Texas St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387629025,
-    "wof:lastmodified":1449059018,
+    "wof:lastmodified":1467082745,
     "wof:name":"Lee & Lee",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.222629,44.049369,-103.222629,44.049369],
+  "bbox": [
+    -103.222629,
+    44.049369,
+    -103.222629,
+    44.049369
+],
   "geometry": {"coordinates":[-103.222629,44.049369],"type":"Point"}
 }

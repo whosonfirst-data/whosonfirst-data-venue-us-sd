@@ -2,13 +2,14 @@
   "id": 387572215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.02543,43.709371,-98.02543,43.709371",
     "geom:latitude":43.709371,
     "geom:longitude":-98.02543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387572215,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1467082733,
     "wof:name":"Precision Reloading LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.02543,43.709371,-98.02543,43.709371],
+  "bbox": [
+    -98.02543,
+    43.709371,
+    -98.02543,
+    43.709371
+],
   "geometry": {"coordinates":[-98.02543,43.709371],"type":"Point"}
 }

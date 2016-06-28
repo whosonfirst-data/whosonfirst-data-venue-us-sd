@@ -2,13 +2,14 @@
   "id": 371070633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.933348,45.720016,-98.933348,45.720016",
     "geom:latitude":45.720016,
     "geom:longitude":-98.933348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Burtis Ave",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371070633,
-    "wof:lastmodified":1449049516,
+    "wof:lastmodified":1467082665,
     "wof:name":"Schaffer Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.933348,45.720016,-98.933348,45.720016],
+  "bbox": [
+    -98.933348,
+    45.720016,
+    -98.933348,
+    45.720016
+],
   "geometry": {"coordinates":[-98.933348,45.720016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371038505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570635,44.045875,-97.570635,44.045875",
     "geom:latitude":44.045875,
     "geom:longitude":-97.570635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23040 432nd Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371038505,
-    "wof:lastmodified":1449049730,
+    "wof:lastmodified":1467082668,
     "wof:name":"Nielsen Randal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.570635,44.045875,-97.570635,44.045875],
+  "bbox": [
+    -97.570635,
+    44.045875,
+    -97.570635,
+    44.045875
+],
   "geometry": {"coordinates":[-97.570635,44.045875],"type":"Point"}
 }

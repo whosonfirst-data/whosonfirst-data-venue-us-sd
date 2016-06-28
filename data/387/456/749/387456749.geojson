@@ -2,13 +2,14 @@
   "id": 387456749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.260702,43.710506,-98.260702,43.710506",
     "geom:latitude":43.710506,
     "geom:longitude":-98.260702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Main St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387456749,
-    "wof:lastmodified":1449057230,
+    "wof:lastmodified":1467082709,
     "wof:name":"Corinsurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.260702,43.710506,-98.260702,43.710506],
-  "geometry": {"coordinates":[-98.260702,43.710506],"type":"Point"}
+  "bbox": [
+    -98.260702,
+    43.710506,
+    -98.260702,
+    43.710506
+],
+  "geometry": {"coordinates":[-98.26070199999999,43.710506],"type":"Point"}
 }

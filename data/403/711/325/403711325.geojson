@@ -2,13 +2,14 @@
   "id": 403711325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79135,43.702922,-96.79135,43.702922",
     "geom:latitude":43.702922,
     "geom:longitude":-96.79135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25403 471st Ave",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403711325,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1467082683,
     "wof:name":"West Nidaros Lutheran Church",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [-96.79135,43.702922,-96.79135,43.702922],
-  "geometry": {"coordinates":[-96.79135,43.702922],"type":"Point"}
+  "bbox": [
+    -96.79135,
+    43.702922,
+    -96.79135,
+    43.702922
+],
+  "geometry": {"coordinates":[-96.79134999999999,43.702922],"type":"Point"}
 }

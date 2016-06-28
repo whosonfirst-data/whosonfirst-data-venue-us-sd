@@ -2,13 +2,14 @@
   "id": 387382871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530495,44.01359,-97.530495,44.01359",
     "geom:latitude":44.01359,
     "geom:longitude":-97.530495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Section Line St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387382871,
-    "wof:lastmodified":1449057115,
+    "wof:lastmodified":1467082707,
     "wof:name":"Feldhaus Livestock Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-97.530495,44.01359,-97.530495,44.01359],
+  "bbox": [
+    -97.530495,
+    44.01359,
+    -97.530495,
+    44.01359
+],
   "geometry": {"coordinates":[-97.530495,44.01359],"type":"Point"}
 }

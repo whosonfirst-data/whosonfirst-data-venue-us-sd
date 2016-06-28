@@ -2,13 +2,14 @@
   "id": 387888779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.526266,45.1507,-96.526266,45.1507",
     "geom:latitude":45.1507,
     "geom:longitude":-96.526266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48357 154th St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387888779,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1467082734,
     "wof:name":"Arnold Hunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.526266,45.1507,-96.526266,45.1507],
-  "geometry": {"coordinates":[-96.526266,45.1507],"type":"Point"}
+  "bbox": [
+    -96.526266,
+    45.1507,
+    -96.526266,
+    45.1507
+],
+  "geometry": {"coordinates":[-96.52626600000001,45.1507],"type":"Point"}
 }

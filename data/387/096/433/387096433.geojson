@@ -2,13 +2,14 @@
   "id": 387096433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.008354,43.720757,-98.008354,43.720757",
     "geom:latitude":43.720757,
     "geom:longitude":-98.008354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Ridge Rd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387096433,
-    "wof:lastmodified":1449057330,
+    "wof:lastmodified":1467082711,
     "wof:name":"Hollaway Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-98.008354,43.720757,-98.008354,43.720757],
+  "bbox": [
+    -98.008354,
+    43.720757,
+    -98.008354,
+    43.720757
+],
   "geometry": {"coordinates":[-98.008354,43.720757],"type":"Point"}
 }

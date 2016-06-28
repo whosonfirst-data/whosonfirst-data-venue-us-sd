@@ -2,13 +2,14 @@
   "id": 387089349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677386,43.240677,-97.677386,43.240677",
     "geom:latitude":43.240677,
     "geom:longitude":-97.677386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Euclid St",
     "sg:city":"Olivet",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387089349,
-    "wof:lastmodified":1449056872,
+    "wof:lastmodified":1467082702,
     "wof:name":"Public Health Nursing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-97.677386,43.240677,-97.677386,43.240677],
+  "bbox": [
+    -97.677386,
+    43.240677,
+    -97.677386,
+    43.240677
+],
   "geometry": {"coordinates":[-97.677386,43.240677],"type":"Point"}
 }

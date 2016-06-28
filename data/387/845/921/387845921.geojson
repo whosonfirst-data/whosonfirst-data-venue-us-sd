@@ -2,13 +2,14 @@
   "id": 387845921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474297,43.570895,-98.474297,43.570895",
     "geom:latitude":43.570895,
     "geom:longitude":-98.474297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38656 263rd St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387845921,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1467082699,
     "wof:name":"Ron Prien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.474297,43.570895,-98.474297,43.570895],
-  "geometry": {"coordinates":[-98.474297,43.570895],"type":"Point"}
+  "bbox": [
+    -98.474297,
+    43.570895,
+    -98.474297,
+    43.570895
+],
+  "geometry": {"coordinates":[-98.47429700000001,43.570895],"type":"Point"}
 }

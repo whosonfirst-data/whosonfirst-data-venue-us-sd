@@ -2,13 +2,14 @@
   "id": 387666403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.569947,45.648484,-98.569947,45.648484",
     "geom:latitude":45.648484,
     "geom:longitude":-98.569947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38349 120th St",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387666403,
-    "wof:lastmodified":1449057496,
+    "wof:lastmodified":1467082714,
     "wof:name":"Roger Marko",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.569947,45.648484,-98.569947,45.648484],
+  "bbox": [
+    -98.569947,
+    45.648484,
+    -98.569947,
+    45.648484
+],
   "geometry": {"coordinates":[-98.569947,45.648484],"type":"Point"}
 }

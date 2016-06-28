@@ -2,13 +2,14 @@
   "id": 387253019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.768902,44.181185,-98.768902,44.181185",
     "geom:latitude":44.181185,
     "geom:longitude":-98.768902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37008 221st St",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387253019,
-    "wof:lastmodified":1449059451,
+    "wof:lastmodified":1467082754,
     "wof:name":"Amy K Schimke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-98.768902,44.181185,-98.768902,44.181185],
+  "bbox": [
+    -98.768902,
+    44.181185,
+    -98.768902,
+    44.181185
+],
   "geometry": {"coordinates":[-98.768902,44.181185],"type":"Point"}
 }

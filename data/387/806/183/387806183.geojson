@@ -2,13 +2,14 @@
   "id": 387806183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.666069,44.614216,-98.666069,44.614216",
     "geom:latitude":44.614216,
     "geom:longitude":-98.666069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19136 376th Ave",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387806183,
-    "wof:lastmodified":1449056101,
+    "wof:lastmodified":1467082687,
     "wof:name":"Wayne Ganske",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.666069,44.614216,-98.666069,44.614216],
-  "geometry": {"coordinates":[-98.666069,44.614216],"type":"Point"}
+  "bbox": [
+    -98.666069,
+    44.614216,
+    -98.666069,
+    44.614216
+],
+  "geometry": {"coordinates":[-98.66606899999999,44.614216],"type":"Point"}
 }

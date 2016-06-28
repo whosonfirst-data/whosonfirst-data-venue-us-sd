@@ -2,13 +2,14 @@
   "id": 370991827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.160322,44.072462,-103.160322,44.072462",
     "geom:latitude":44.072462,
     "geom:longitude":-103.160322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Concourse Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":370991827,
-    "wof:lastmodified":1449030162,
+    "wof:lastmodified":1467082656,
     "wof:name":"Balancing Professionals Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.160322,44.072462,-103.160322,44.072462],
-  "geometry": {"coordinates":[-103.160322,44.072462],"type":"Point"}
+  "bbox": [
+    -103.160322,
+    44.072462,
+    -103.160322,
+    44.072462
+],
+  "geometry": {"coordinates":[-103.16032199999999,44.072462],"type":"Point"}
 }

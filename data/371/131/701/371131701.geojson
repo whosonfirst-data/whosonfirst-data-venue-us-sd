@@ -2,13 +2,14 @@
   "id": 371131701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768152,43.49971,-96.768152,43.49971",
     "geom:latitude":43.49971,
     "geom:longitude":-96.768152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 S Tennis Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371131701,
-    "wof:lastmodified":1449049322,
+    "wof:lastmodified":1467082662,
     "wof:name":"Alpha Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "offset"
     ]
 },
-  "bbox": [-96.768152,43.49971,-96.768152,43.49971],
+  "bbox": [
+    -96.768152,
+    43.49971,
+    -96.768152,
+    43.49971
+],
   "geometry": {"coordinates":[-96.768152,43.49971],"type":"Point"}
 }

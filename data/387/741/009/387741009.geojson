@@ -2,13 +2,14 @@
   "id": 387741009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.258668,44.096746,-103.258668,44.096746",
     "geom:latitude":44.096746,
     "geom:longitude":-103.258668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Commerce Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387741009,
-    "wof:lastmodified":1449056323,
+    "wof:lastmodified":1467082691,
     "wof:name":"Taylor Drilling Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-103.258668,44.096746,-103.258668,44.096746],
+  "bbox": [
+    -103.258668,
+    44.096746,
+    -103.258668,
+    44.096746
+],
   "geometry": {"coordinates":[-103.258668,44.096746],"type":"Point"}
 }

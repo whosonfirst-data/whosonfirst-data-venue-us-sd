@@ -2,13 +2,14 @@
   "id": 387645779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.537149,45.459605,-98.537149,45.459605",
     "geom:latitude":45.459605,
     "geom:longitude":-98.537149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38497 133rd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387645779,
-    "wof:lastmodified":1449056490,
+    "wof:lastmodified":1467082694,
     "wof:name":"Bourdon's Small Engine Repair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-98.537149,45.459605,-98.537149,45.459605],
+  "bbox": [
+    -98.537149,
+    45.459605,
+    -98.537149,
+    45.459605
+],
   "geometry": {"coordinates":[-98.537149,45.459605],"type":"Point"}
 }

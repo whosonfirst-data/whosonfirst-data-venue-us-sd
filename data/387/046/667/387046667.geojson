@@ -2,13 +2,14 @@
   "id": 387046667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48796,45.462004,-98.48796,45.462004",
     "geom:latitude":45.462004,
     "geom:longitude":-98.48796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387046667,
-    "wof:lastmodified":1449058222,
+    "wof:lastmodified":1467082729,
     "wof:name":"China Trading Discount",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.48796,45.462004,-98.48796,45.462004],
+  "bbox": [
+    -98.48796,
+    45.462004,
+    -98.48796,
+    45.462004
+],
   "geometry": {"coordinates":[-98.48796,45.462004],"type":"Point"}
 }

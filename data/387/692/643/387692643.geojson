@@ -2,13 +2,14 @@
   "id": 387692643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11552,44.910789,-97.11552,44.910789",
     "geom:latitude":44.910789,
     "geom:longitude":-97.11552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 1st St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387692643,
-    "wof:lastmodified":1449057111,
+    "wof:lastmodified":1467082707,
     "wof:name":"Papka Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.11552,44.910789,-97.11552,44.910789],
+  "bbox": [
+    -97.11552,
+    44.910789,
+    -97.11552,
+    44.910789
+],
   "geometry": {"coordinates":[-97.11552,44.910789],"type":"Point"}
 }

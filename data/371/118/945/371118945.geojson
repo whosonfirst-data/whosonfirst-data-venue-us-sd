@@ -2,13 +2,14 @@
   "id": 371118945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.216933,44.363319,-98.216933,44.363319",
     "geom:latitude":44.363319,
     "geom:longitude":-98.216933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 3rd St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371118945,
-    "wof:lastmodified":1449049893,
+    "wof:lastmodified":1467082670,
     "wof:name":"First Western Bancorp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-98.216933,44.363319,-98.216933,44.363319],
+  "bbox": [
+    -98.216933,
+    44.363319,
+    -98.216933,
+    44.363319
+],
   "geometry": {"coordinates":[-98.216933,44.363319],"type":"Point"}
 }

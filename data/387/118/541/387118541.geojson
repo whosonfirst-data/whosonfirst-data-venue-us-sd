@@ -2,13 +2,14 @@
   "id": 387118541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.837799,43.442188,-96.837799,43.442188",
     "geom:latitude":43.442188,
     "geom:longitude":-96.837799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Mary Dr",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387118541,
-    "wof:lastmodified":1449059189,
+    "wof:lastmodified":1467082749,
     "wof:name":"Beauticontrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-96.837799,43.442188,-96.837799,43.442188],
+  "bbox": [
+    -96.837799,
+    43.442188,
+    -96.837799,
+    43.442188
+],
   "geometry": {"coordinates":[-96.837799,43.442188],"type":"Point"}
 }

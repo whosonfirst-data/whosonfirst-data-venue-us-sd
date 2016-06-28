@@ -2,13 +2,14 @@
   "id": 387473129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.737505,43.566225,-96.737505,43.566225",
     "geom:latitude":43.566225,
     "geom:longitude":-96.737505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 N C Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387473129,
-    "wof:lastmodified":1449056892,
+    "wof:lastmodified":1467082702,
     "wof:name":"Great Western Central Pharmacy",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-96.737505,43.566225,-96.737505,43.566225],
+  "bbox": [
+    -96.737505,
+    43.566225,
+    -96.737505,
+    43.566225
+],
   "geometry": {"coordinates":[-96.737505,43.566225],"type":"Point"}
 }

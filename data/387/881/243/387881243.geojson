@@ -2,13 +2,14 @@
   "id": 387881243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805338,43.543958,-96.805338,43.543958",
     "geom:latitude":43.543958,
     "geom:longitude":-96.805338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6308 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387881243,
-    "wof:lastmodified":1449058309,
+    "wof:lastmodified":1467082731,
     "wof:name":"Tri-State Implement Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repair"
     ]
 },
-  "bbox": [-96.805338,43.543958,-96.805338,43.543958],
-  "geometry": {"coordinates":[-96.805338,43.543958],"type":"Point"}
+  "bbox": [
+    -96.805338,
+    43.543958,
+    -96.805338,
+    43.543958
+],
+  "geometry": {"coordinates":[-96.80533800000001,43.543958],"type":"Point"}
 }

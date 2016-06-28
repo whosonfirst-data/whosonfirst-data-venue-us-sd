@@ -2,13 +2,14 @@
   "id": 387664627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803338,43.505102,-96.803338,43.505102",
     "geom:latitude":43.505102,
     "geom:longitude":-96.803338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 S Plains Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387664627,
-    "wof:lastmodified":1449057512,
+    "wof:lastmodified":1467082715,
     "wof:name":"Atlas Construction Enterprises",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.803338,43.505102,-96.803338,43.505102],
+  "bbox": [
+    -96.803338,
+    43.505102,
+    -96.803338,
+    43.505102
+],
   "geometry": {"coordinates":[-96.803338,43.505102],"type":"Point"}
 }

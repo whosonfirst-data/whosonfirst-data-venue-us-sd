@@ -2,13 +2,14 @@
   "id": 387572035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.437233,43.908596,-103.437233,43.908596",
     "geom:latitude":43.908596,
     "geom:longitude":-103.437233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24101 Hwy 16A",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387572035,
-    "wof:lastmodified":1449058433,
+    "wof:lastmodified":1467082733,
     "wof:name":"Mitzel Contracting Service",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-103.437233,43.908596,-103.437233,43.908596],
-  "geometry": {"coordinates":[-103.437233,43.908596],"type":"Point"}
+  "bbox": [
+    -103.437233,
+    43.908596,
+    -103.437233,
+    43.908596
+],
+  "geometry": {"coordinates":[-103.43723300000001,43.908596],"type":"Point"}
 }

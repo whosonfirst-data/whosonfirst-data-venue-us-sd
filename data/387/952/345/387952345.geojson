@@ -2,13 +2,14 @@
   "id": 387952345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.595522,44.038517,-96.595522,44.038517",
     "geom:latitude":44.038517,
     "geom:longitude":-96.595522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 S Wind St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387952345,
-    "wof:lastmodified":1449058851,
+    "wof:lastmodified":1467082742,
     "wof:name":"Drennen Gun Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.595522,44.038517,-96.595522,44.038517],
+  "bbox": [
+    -96.595522,
+    44.038517,
+    -96.595522,
+    44.038517
+],
   "geometry": {"coordinates":[-96.595522,44.038517],"type":"Point"}
 }

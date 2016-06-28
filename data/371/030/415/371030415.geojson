@@ -2,13 +2,14 @@
   "id": 371030415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.847545,43.384146,-98.847545,43.384146",
     "geom:latitude":43.384146,
     "geom:longitude":-98.847545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W 7th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371030415,
-    "wof:lastmodified":1449049400,
+    "wof:lastmodified":1467082663,
     "wof:name":"Ft Randall Fed Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.847545,43.384146,-98.847545,43.384146],
+  "bbox": [
+    -98.847545,
+    43.384146,
+    -98.847545,
+    43.384146
+],
   "geometry": {"coordinates":[-98.847545,43.384146],"type":"Point"}
 }

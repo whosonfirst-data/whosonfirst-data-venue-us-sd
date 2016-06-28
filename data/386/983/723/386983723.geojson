@@ -2,13 +2,14 @@
   "id": 386983723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.46843,44.589386,-97.46843,44.589386",
     "geom:latitude":44.589386,
     "geom:longitude":-97.46843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Railway St",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386983723,
-    "wof:lastmodified":1449028956,
+    "wof:lastmodified":1467082655,
     "wof:name":"Farmers Union Co Op Oil Co Frt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-97.46843,44.589386,-97.46843,44.589386],
+  "bbox": [
+    -97.46843,
+    44.589386,
+    -97.46843,
+    44.589386
+],
   "geometry": {"coordinates":[-97.46843,44.589386],"type":"Point"}
 }

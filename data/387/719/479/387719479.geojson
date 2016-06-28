@@ -2,13 +2,14 @@
   "id": 387719479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.271577,45.532965,-100.271577,45.532965",
     "geom:latitude":45.532965,
     "geom:longitude":-100.271577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main St",
     "sg:city":"Pollock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387719479,
-    "wof:lastmodified":1449056599,
+    "wof:lastmodified":1467082696,
     "wof:name":"Buffalo Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.271577,45.532965,-100.271577,45.532965],
-  "geometry": {"coordinates":[-100.271577,45.532965],"type":"Point"}
+  "bbox": [
+    -100.271577,
+    45.532965,
+    -100.271577,
+    45.532965
+],
+  "geometry": {"coordinates":[-100.27157699999999,45.532965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387418049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.810696,43.342807,-99.810696,43.342807",
     "geom:latitude":43.342807,
     "geom:longitude":-99.810696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27998 318th Ave",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387418049,
-    "wof:lastmodified":1449059088,
+    "wof:lastmodified":1467082746,
     "wof:name":"William Ringstmeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.810696,43.342807,-99.810696,43.342807],
-  "geometry": {"coordinates":[-99.810696,43.342807],"type":"Point"}
+  "bbox": [
+    -99.810696,
+    43.342807,
+    -99.810696,
+    43.342807
+],
+  "geometry": {"coordinates":[-99.81069599999999,43.342807],"type":"Point"}
 }

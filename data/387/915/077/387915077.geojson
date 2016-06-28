@@ -2,13 +2,14 @@
   "id": 387915077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.473228,45.464185,-98.473228,45.464185",
     "geom:latitude":45.464185,
     "geom:longitude":-98.473228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 1st Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387915077,
-    "wof:lastmodified":1449059881,
+    "wof:lastmodified":1467082762,
     "wof:name":"Kent Hyde Attorney",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.473228,45.464185,-98.473228,45.464185],
-  "geometry": {"coordinates":[-98.473228,45.464185],"type":"Point"}
+  "bbox": [
+    -98.473228,
+    45.464185,
+    -98.473228,
+    45.464185
+],
+  "geometry": {"coordinates":[-98.47322800000001,45.464185],"type":"Point"}
 }

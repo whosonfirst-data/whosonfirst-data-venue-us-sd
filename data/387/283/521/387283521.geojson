@@ -2,13 +2,14 @@
   "id": 387283521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.853995,43.373251,-99.853995,43.373251",
     "geom:latitude":43.373251,
     "geom:longitude":-99.853995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E 5th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387283521,
-    "wof:lastmodified":1449057226,
+    "wof:lastmodified":1467082709,
     "wof:name":"Scott's Welding & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-99.853995,43.373251,-99.853995,43.373251],
+  "bbox": [
+    -99.853995,
+    43.373251,
+    -99.853995,
+    43.373251
+],
   "geometry": {"coordinates":[-99.853995,43.373251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387211375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.96925,43.383386,-99.96925,43.383386",
     "geom:latitude":43.383386,
     "geom:longitude":-99.96925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27721 310th Ave",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387211375,
-    "wof:lastmodified":1449057041,
+    "wof:lastmodified":1467082705,
     "wof:name":"Hall Kim Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.96925,43.383386,-99.96925,43.383386],
+  "bbox": [
+    -99.96925,
+    43.383386,
+    -99.96925,
+    43.383386
+],
   "geometry": {"coordinates":[-99.96925,43.383386],"type":"Point"}
 }

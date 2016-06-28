@@ -2,13 +2,14 @@
   "id": 387870125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.970517,44.518064,-98.970517,44.518064",
     "geom:latitude":44.518064,
     "geom:longitude":-98.970517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387870125,
-    "wof:lastmodified":1449057105,
+    "wof:lastmodified":1467082706,
     "wof:name":"Transportation Dept-Mntnc Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "program"
     ]
 },
-  "bbox": [-98.970517,44.518064,-98.970517,44.518064],
+  "bbox": [
+    -98.970517,
+    44.518064,
+    -98.970517,
+    44.518064
+],
   "geometry": {"coordinates":[-98.970517,44.518064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371192237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.736736,43.17548,-101.736736,43.17548",
     "geom:latitude":43.17548,
     "geom:longitude":-101.736736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 4th Ave",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371192237,
-    "wof:lastmodified":1449049790,
+    "wof:lastmodified":1467082669,
     "wof:name":"Lindsey Memorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-101.736736,43.17548,-101.736736,43.17548],
-  "geometry": {"coordinates":[-101.736736,43.17548],"type":"Point"}
+  "bbox": [
+    -101.736736,
+    43.17548,
+    -101.736736,
+    43.17548
+],
+  "geometry": {"coordinates":[-101.73673599999999,43.17548],"type":"Point"}
 }

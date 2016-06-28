@@ -2,13 +2,14 @@
   "id": 387622217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.418105,45.569356,-100.418105,45.569356",
     "geom:latitude":45.569356,
     "geom:longitude":-100.418105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12675 State Hwy 1804",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387622217,
-    "wof:lastmodified":1449059237,
+    "wof:lastmodified":1467082749,
     "wof:name":"Albert Lindeman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-100.418105,45.569356,-100.418105,45.569356],
+  "bbox": [
+    -100.418105,
+    45.569356,
+    -100.418105,
+    45.569356
+],
   "geometry": {"coordinates":[-100.418105,45.569356],"type":"Point"}
 }

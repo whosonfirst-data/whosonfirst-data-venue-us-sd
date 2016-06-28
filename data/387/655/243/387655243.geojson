@@ -2,13 +2,14 @@
   "id": 387655243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.395588,43.798657,-99.395588,43.798657",
     "geom:latitude":43.798657,
     "geom:longitude":-99.395588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Dougan Ave",
     "sg:city":"Oacoma",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387655243,
-    "wof:lastmodified":1449058294,
+    "wof:lastmodified":1467082731,
     "wof:name":"Mid Dakota Clinic Oacoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.395588,43.798657,-99.395588,43.798657],
+  "bbox": [
+    -99.395588,
+    43.798657,
+    -99.395588,
+    43.798657
+],
   "geometry": {"coordinates":[-99.395588,43.798657],"type":"Point"}
 }

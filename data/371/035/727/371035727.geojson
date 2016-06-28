@@ -2,13 +2,14 @@
   "id": 371035727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.165152,43.267503,-98.165152,43.267503",
     "geom:latitude":43.267503,
     "geom:longitude":-98.165152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Main St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371035727,
-    "wof:lastmodified":1449049891,
+    "wof:lastmodified":1467082670,
     "wof:name":"Horner Court Reporting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "reporter"
     ]
 },
-  "bbox": [-98.165152,43.267503,-98.165152,43.267503],
-  "geometry": {"coordinates":[-98.165152,43.267503],"type":"Point"}
+  "bbox": [
+    -98.165152,
+    43.267503,
+    -98.165152,
+    43.267503
+],
+  "geometry": {"coordinates":[-98.16515200000001,43.267503],"type":"Point"}
 }

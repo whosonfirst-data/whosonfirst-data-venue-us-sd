@@ -2,13 +2,14 @@
   "id": 387763549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.567973,44.078385,-98.567973,44.078385",
     "geom:latitude":44.078385,
     "geom:longitude":-98.567973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 1st St SE",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387763549,
-    "wof:lastmodified":1449059905,
+    "wof:lastmodified":1467082763,
     "wof:name":"Dakota Ag Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-98.567973,44.078385,-98.567973,44.078385],
-  "geometry": {"coordinates":[-98.567973,44.078385],"type":"Point"}
+  "bbox": [
+    -98.567973,
+    44.078385,
+    -98.567973,
+    44.078385
+],
+  "geometry": {"coordinates":[-98.56797299999999,44.078385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386971023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485043,45.475794,-98.485043,45.475794",
     "geom:latitude":45.475794,
     "geom:longitude":-98.485043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 N Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386971023,
-    "wof:lastmodified":1449028788,
+    "wof:lastmodified":1467082652,
     "wof:name":"Gita's Embroidery & Design",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-98.485043,45.475794,-98.485043,45.475794],
+  "bbox": [
+    -98.485043,
+    45.475794,
+    -98.485043,
+    45.475794
+],
   "geometry": {"coordinates":[-98.485043,45.475794],"type":"Point"}
 }

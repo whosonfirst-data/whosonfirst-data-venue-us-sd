@@ -2,13 +2,14 @@
   "id": 387714255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728419,43.555003,-96.728419,43.555003",
     "geom:latitude":43.555003,
     "geom:longitude":-96.728419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387714255,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1467082724,
     "wof:name":"Wingler Dakota Country Auction",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-96.728419,43.555003,-96.728419,43.555003],
+  "bbox": [
+    -96.728419,
+    43.555003,
+    -96.728419,
+    43.555003
+],
   "geometry": {"coordinates":[-96.728419,43.555003],"type":"Point"}
 }

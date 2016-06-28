@@ -2,13 +2,14 @@
   "id": 387183187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.85553,44.494786,-103.85553,44.494786",
     "geom:latitude":44.494786,
     "geom:longitude":-103.85553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 State St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387183187,
-    "wof:lastmodified":1449058152,
+    "wof:lastmodified":1467082728,
     "wof:name":"Our Saviour's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.85553,44.494786,-103.85553,44.494786],
+  "bbox": [
+    -103.85553,
+    44.494786,
+    -103.85553,
+    44.494786
+],
   "geometry": {"coordinates":[-103.85553,44.494786],"type":"Point"}
 }

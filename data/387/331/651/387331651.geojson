@@ -2,13 +2,14 @@
   "id": 387331651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.580007,43.364117,-97.580007,43.364117",
     "geom:latitude":43.364117,
     "geom:longitude":-97.580007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27750 431st Ave",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387331651,
-    "wof:lastmodified":1449058417,
+    "wof:lastmodified":1467082733,
     "wof:name":"Galen Schaeffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.580007,43.364117,-97.580007,43.364117],
-  "geometry": {"coordinates":[-97.580007,43.364117],"type":"Point"}
+  "bbox": [
+    -97.580007,
+    43.364117,
+    -97.580007,
+    43.364117
+],
+  "geometry": {"coordinates":[-97.58000699999999,43.364117],"type":"Point"}
 }

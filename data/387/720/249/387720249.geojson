@@ -2,13 +2,14 @@
   "id": 387720249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.575546,43.931854,-103.575546,43.931854",
     "geom:latitude":43.931854,
     "geom:longitude":-103.575546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Main St",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387720249,
-    "wof:lastmodified":1449057010,
+    "wof:lastmodified":1467082705,
     "wof:name":"Bettys",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-103.575546,43.931854,-103.575546,43.931854],
+  "bbox": [
+    -103.575546,
+    43.931854,
+    -103.575546,
+    43.931854
+],
   "geometry": {"coordinates":[-103.575546,43.931854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387440673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7506,45.789175,-97.7506,45.789175",
     "geom:latitude":45.789175,
     "geom:longitude":-97.7506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Main Ave",
     "sg:city":"Britton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387440673,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1467082713,
     "wof:name":"Hicks Mowers & Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sharpening"
     ]
 },
-  "bbox": [-97.7506,45.789175,-97.7506,45.789175],
-  "geometry": {"coordinates":[-97.7506,45.789175],"type":"Point"}
+  "bbox": [
+    -97.7506,
+    45.789175,
+    -97.7506,
+    45.789175
+],
+  "geometry": {"coordinates":[-97.75060000000001,45.789175],"type":"Point"}
 }

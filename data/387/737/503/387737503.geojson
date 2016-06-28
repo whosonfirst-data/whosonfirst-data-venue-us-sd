@@ -2,13 +2,14 @@
   "id": 387737503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808665,44.323757,-96.808665,44.323757",
     "geom:latitude":44.323757,
     "geom:longitude":-96.808665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 Western Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387737503,
-    "wof:lastmodified":1449056952,
+    "wof:lastmodified":1467082703,
     "wof:name":"ABM Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "metal"
     ]
 },
-  "bbox": [-96.808665,44.323757,-96.808665,44.323757],
+  "bbox": [
+    -96.808665,
+    44.323757,
+    -96.808665,
+    44.323757
+],
   "geometry": {"coordinates":[-96.808665,44.323757],"type":"Point"}
 }

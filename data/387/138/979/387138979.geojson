@@ -2,13 +2,14 @@
   "id": 387138979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803479,43.543812,-96.803479,43.543812",
     "geom:latitude":43.543812,
     "geom:longitude":-96.803479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387138979,
-    "wof:lastmodified":1449057198,
+    "wof:lastmodified":1467082708,
     "wof:name":"Holiday Community Partnership",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "site"
     ]
 },
-  "bbox": [-96.803479,43.543812,-96.803479,43.543812],
+  "bbox": [
+    -96.803479,
+    43.543812,
+    -96.803479,
+    43.543812
+],
   "geometry": {"coordinates":[-96.803479,43.543812],"type":"Point"}
 }

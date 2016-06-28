@@ -2,13 +2,14 @@
   "id": 387272363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788237,43.543823,-96.788237,43.543823",
     "geom:latitude":43.543823,
     "geom:longitude":-96.788237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5109 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387272363,
-    "wof:lastmodified":1449059659,
+    "wof:lastmodified":1467082758,
     "wof:name":"Paradise Casino",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.788237,43.543823,-96.788237,43.543823],
+  "bbox": [
+    -96.788237,
+    43.543823,
+    -96.788237,
+    43.543823
+],
   "geometry": {"coordinates":[-96.788237,43.543823],"type":"Point"}
 }

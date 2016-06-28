@@ -2,13 +2,14 @@
   "id": 403819199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.1029,45.544342,-98.1029,45.544342",
     "geom:latitude":45.544342,
     "geom:longitude":-98.1029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12702 406th Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403819199,
-    "wof:lastmodified":1449054955,
+    "wof:lastmodified":1467082677,
     "wof:name":"Shawn Gengerke",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.1029,45.544342,-98.1029,45.544342],
-  "geometry": {"coordinates":[-98.1029,45.544342],"type":"Point"}
+  "bbox": [
+    -98.1029,
+    45.544342,
+    -98.1029,
+    45.544342
+],
+  "geometry": {"coordinates":[-98.10290000000001,45.544342],"type":"Point"}
 }

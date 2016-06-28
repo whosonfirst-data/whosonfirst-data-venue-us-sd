@@ -2,13 +2,14 @@
   "id": 386999177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229768,44.078067,-103.229768,44.078067",
     "geom:latitude":44.078067,
     "geom:longitude":-103.229768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Quincy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386999177,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1467082655,
     "wof:name":"Volunteers Of America",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-103.229768,44.078067,-103.229768,44.078067],
-  "geometry": {"coordinates":[-103.229768,44.078067],"type":"Point"}
+  "bbox": [
+    -103.229768,
+    44.078067,
+    -103.229768,
+    44.078067
+],
+  "geometry": {"coordinates":[-103.22976800000001,44.078067],"type":"Point"}
 }

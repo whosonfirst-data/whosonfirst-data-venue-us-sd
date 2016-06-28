@@ -2,13 +2,14 @@
   "id": 387832697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59706,44.049515,-96.59706,44.049515",
     "geom:latitude":44.049515,
     "geom:longitude":-96.59706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":387832697,
-    "wof:lastmodified":1449056132,
+    "wof:lastmodified":1467082687,
     "wof:name":"Flandreau Lockers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-96.59706,44.049515,-96.59706,44.049515],
+  "bbox": [
+    -96.59706,
+    44.049515,
+    -96.59706,
+    44.049515
+],
   "geometry": {"coordinates":[-96.59706,44.049515],"type":"Point"}
 }

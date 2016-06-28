@@ -2,13 +2,14 @@
   "id": 403724861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500807,45.411506,-98.500807,45.411506",
     "geom:latitude":45.411506,
     "geom:longitude":-98.500807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38677 Cadillac Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403724861,
-    "wof:lastmodified":1449055922,
+    "wof:lastmodified":1467082684,
     "wof:name":"Herman House Moving Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.500807,45.411506,-98.500807,45.411506],
-  "geometry": {"coordinates":[-98.500807,45.411506],"type":"Point"}
+  "bbox": [
+    -98.500807,
+    45.411506,
+    -98.500807,
+    45.411506
+],
+  "geometry": {"coordinates":[-98.50080699999999,45.411506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387230133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.472206,43.582629,-96.472206,43.582629",
     "geom:latitude":43.582629,
     "geom:longitude":-96.472206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Valley Dr",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387230133,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1467082743,
     "wof:name":"Jeremy Scadden Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.472206,43.582629,-96.472206,43.582629],
+  "bbox": [
+    -96.472206,
+    43.582629,
+    -96.472206,
+    43.582629
+],
   "geometry": {"coordinates":[-96.472206,43.582629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387837303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.925314,44.76666,-96.925314,44.76666",
     "geom:latitude":44.76666,
     "geom:longitude":-96.925314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18061 464th Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387837303,
-    "wof:lastmodified":1449056695,
+    "wof:lastmodified":1467082698,
     "wof:name":"Alberta Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.925314,44.76666,-96.925314,44.76666],
+  "bbox": [
+    -96.925314,
+    44.76666,
+    -96.925314,
+    44.76666
+],
   "geometry": {"coordinates":[-96.925314,44.76666],"type":"Point"}
 }

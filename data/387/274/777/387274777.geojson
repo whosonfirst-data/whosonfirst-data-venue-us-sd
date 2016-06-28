@@ -2,13 +2,14 @@
   "id": 387274777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.675319,44.039318,-101.675319,44.039318",
     "geom:latitude":44.039318,
     "geom:longitude":-101.675319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W Pine St",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387274777,
-    "wof:lastmodified":1449056573,
+    "wof:lastmodified":1467082696,
     "wof:name":"Philip Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-101.675319,44.039318,-101.675319,44.039318],
+  "bbox": [
+    -101.675319,
+    44.039318,
+    -101.675319,
+    44.039318
+],
   "geometry": {"coordinates":[-101.675319,44.039318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387190399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703427,43.547392,-96.703427,43.547392",
     "geom:latitude":43.547392,
     "geom:longitude":-96.703427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Krohn Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387190399,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1467082758,
     "wof:name":"Communication Services-Deaf",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [-96.703427,43.547392,-96.703427,43.547392],
+  "bbox": [
+    -96.703427,
+    43.547392,
+    -96.703427,
+    43.547392
+],
   "geometry": {"coordinates":[-96.703427,43.547392],"type":"Point"}
 }

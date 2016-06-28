@@ -2,13 +2,14 @@
   "id": 387474557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215285,44.048136,-103.215285,44.048136",
     "geom:latitude":44.048136,
     "geom:longitude":-103.215285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 E Centennial St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387474557,
-    "wof:lastmodified":1449056275,
+    "wof:lastmodified":1467082690,
     "wof:name":"Redeye Tavern",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-103.215285,44.048136,-103.215285,44.048136],
-  "geometry": {"coordinates":[-103.215285,44.048136],"type":"Point"}
+  "bbox": [
+    -103.215285,
+    44.048136,
+    -103.215285,
+    44.048136
+],
+  "geometry": {"coordinates":[-103.21528499999999,44.048136],"type":"Point"}
 }

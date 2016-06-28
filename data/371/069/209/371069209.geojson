@@ -2,13 +2,14 @@
   "id": 371069209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651596,43.645213,-96.651596,43.645213",
     "geom:latitude":43.645213,
     "geom:longitude":-96.651596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25811 478th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371069209,
-    "wof:lastmodified":1449049716,
+    "wof:lastmodified":1467082667,
     "wof:name":"Lunstra Farms LLC",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cash"
     ]
 },
-  "bbox": [-96.651596,43.645213,-96.651596,43.645213],
+  "bbox": [
+    -96.651596,
+    43.645213,
+    -96.651596,
+    43.645213
+],
   "geometry": {"coordinates":[-96.651596,43.645213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387470405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.647025,45.218844,-96.647025,45.218844",
     "geom:latitude":45.218844,
     "geom:longitude":-96.647025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387470405,
-    "wof:lastmodified":1449057024,
+    "wof:lastmodified":1467082705,
     "wof:name":"Milbank Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.647025,45.218844,-96.647025,45.218844],
+  "bbox": [
+    -96.647025,
+    45.218844,
+    -96.647025,
+    45.218844
+],
   "geometry": {"coordinates":[-96.647025,45.218844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387366033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719087,43.573093,-96.719087,43.573093",
     "geom:latitude":43.573093,
     "geom:longitude":-96.719087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 E Maple St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387366033,
-    "wof:lastmodified":1449058886,
+    "wof:lastmodified":1467082742,
     "wof:name":"Beck & Hofer Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.719087,43.573093,-96.719087,43.573093],
+  "bbox": [
+    -96.719087,
+    43.573093,
+    -96.719087,
+    43.573093
+],
   "geometry": {"coordinates":[-96.719087,43.573093],"type":"Point"}
 }

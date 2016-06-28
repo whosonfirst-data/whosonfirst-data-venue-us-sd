@@ -2,13 +2,14 @@
   "id": 387749365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.228628,44.081241,-103.228628,44.081241",
     "geom:latitude":44.081241,
     "geom:longitude":-103.228628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387749365,
-    "wof:lastmodified":1449057177,
+    "wof:lastmodified":1467082708,
     "wof:name":"Global Market Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clothes"
     ]
 },
-  "bbox": [-103.228628,44.081241,-103.228628,44.081241],
+  "bbox": [
+    -103.228628,
+    44.081241,
+    -103.228628,
+    44.081241
+],
   "geometry": {"coordinates":[-103.228628,44.081241],"type":"Point"}
 }

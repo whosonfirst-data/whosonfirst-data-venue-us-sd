@@ -2,13 +2,14 @@
   "id": 386954981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720491,43.823902,-96.720491,43.823902",
     "geom:latitude":43.823902,
     "geom:longitude":-96.720491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 State Hwy 77",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386954981,
-    "wof:lastmodified":1449028926,
+    "wof:lastmodified":1467082654,
     "wof:name":"Apple Ally",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.720491,43.823902,-96.720491,43.823902],
+  "bbox": [
+    -96.720491,
+    43.823902,
+    -96.720491,
+    43.823902
+],
   "geometry": {"coordinates":[-96.720491,43.823902],"type":"Point"}
 }

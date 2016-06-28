@@ -2,13 +2,14 @@
   "id": 403703453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549076,44.386059,-97.549076,44.386059",
     "geom:latitude":44.386059,
     "geom:longitude":-97.549076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 2nd St SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403703453,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1467082678,
     "wof:name":"Get Fit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-97.549076,44.386059,-97.549076,44.386059],
+  "bbox": [
+    -97.549076,
+    44.386059,
+    -97.549076,
+    44.386059
+],
   "geometry": {"coordinates":[-97.549076,44.386059],"type":"Point"}
 }

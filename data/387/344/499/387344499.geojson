@@ -2,13 +2,14 @@
   "id": 387344499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724647,43.548702,-96.724647,43.548702",
     "geom:latitude":43.548702,
     "geom:longitude":-96.724647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387344499,
-    "wof:lastmodified":1449056304,
+    "wof:lastmodified":1467082691,
     "wof:name":"Sioux Falls Sub-Office",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-96.724647,43.548702,-96.724647,43.548702],
+  "bbox": [
+    -96.724647,
+    43.548702,
+    -96.724647,
+    43.548702
+],
   "geometry": {"coordinates":[-96.724647,43.548702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403743607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.7367,44.877563,-97.7367,44.877563",
     "geom:latitude":44.877563,
     "geom:longitude":-97.7367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 1st Ave W",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403743607,
-    "wof:lastmodified":1449055951,
+    "wof:lastmodified":1467082684,
     "wof:name":"Gruenwald Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-97.7367,44.877563,-97.7367,44.877563],
+  "bbox": [
+    -97.7367,
+    44.877563,
+    -97.7367,
+    44.877563
+],
   "geometry": {"coordinates":[-97.7367,44.877563],"type":"Point"}
 }

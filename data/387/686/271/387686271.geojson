@@ -2,13 +2,14 @@
   "id": 387686271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.650299,43.409883,-96.650299,43.409883",
     "geom:latitude":43.409883,
     "geom:longitude":-96.650299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47782 Aspen Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387686271,
-    "wof:lastmodified":1449058986,
+    "wof:lastmodified":1467082744,
     "wof:name":"Mary Devany",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contracting"
     ]
 },
-  "bbox": [-96.650299,43.409883,-96.650299,43.409883],
+  "bbox": [
+    -96.650299,
+    43.409883,
+    -96.650299,
+    43.409883
+],
   "geometry": {"coordinates":[-96.650299,43.409883],"type":"Point"}
 }

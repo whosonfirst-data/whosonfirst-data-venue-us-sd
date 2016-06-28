@@ -2,13 +2,14 @@
   "id": 387260493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694285,43.511576,-96.694285,43.511576",
     "geom:latitude":43.511576,
     "geom:longitude":-96.694285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 E Marson Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387260493,
-    "wof:lastmodified":1449056735,
+    "wof:lastmodified":1467082699,
     "wof:name":"Jansma Enterprises Inc",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.694285,43.511576,-96.694285,43.511576],
-  "geometry": {"coordinates":[-96.694285,43.511576],"type":"Point"}
+  "bbox": [
+    -96.694285,
+    43.511576,
+    -96.694285,
+    43.511576
+],
+  "geometry": {"coordinates":[-96.69428499999999,43.511576],"type":"Point"}
 }

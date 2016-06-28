@@ -2,13 +2,14 @@
   "id": 387868265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.522005,45.372722,-98.522005,45.372722",
     "geom:latitude":45.372722,
     "geom:longitude":-98.522005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38574 139th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387868265,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1467082690,
     "wof:name":"Aberdeen Gun Club",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "skeet"
     ]
 },
-  "bbox": [-98.522005,45.372722,-98.522005,45.372722],
-  "geometry": {"coordinates":[-98.522005,45.372722],"type":"Point"}
+  "bbox": [
+    -98.522005,
+    45.372722,
+    -98.522005,
+    45.372722
+],
+  "geometry": {"coordinates":[-98.52200499999999,45.372722],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387112019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.133596,44.392595,-98.133596,44.392595",
     "geom:latitude":44.392595,
     "geom:longitude":-98.133596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20644 404th Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387112019,
-    "wof:lastmodified":1449057854,
+    "wof:lastmodified":1467082722,
     "wof:name":"E Verhelst Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.133596,44.392595,-98.133596,44.392595],
+  "bbox": [
+    -98.133596,
+    44.392595,
+    -98.133596,
+    44.392595
+],
   "geometry": {"coordinates":[-98.133596,44.392595],"type":"Point"}
 }

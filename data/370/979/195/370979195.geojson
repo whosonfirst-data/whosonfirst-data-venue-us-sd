@@ -2,13 +2,14 @@
   "id": 370979195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.531512,43.592944,-96.531512,43.592944",
     "geom:latitude":43.592944,
     "geom:longitude":-96.531512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48414 Red Rock Rd",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370979195,
-    "wof:lastmodified":1449031475,
+    "wof:lastmodified":1467082657,
     "wof:name":"SOO Sanitary & Backhoe Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.531512,43.592944,-96.531512,43.592944],
-  "geometry": {"coordinates":[-96.531512,43.592944],"type":"Point"}
+  "bbox": [
+    -96.531512,
+    43.592944,
+    -96.531512,
+    43.592944
+],
+  "geometry": {"coordinates":[-96.53151200000001,43.592944],"type":"Point"}
 }

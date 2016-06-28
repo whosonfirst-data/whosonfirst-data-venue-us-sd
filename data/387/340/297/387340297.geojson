@@ -2,13 +2,14 @@
   "id": 387340297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.293579,43.083496,-98.293579,43.083496",
     "geom:latitude":43.083496,
     "geom:longitude":-98.293579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Main Ave N",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387340297,
-    "wof:lastmodified":1449059044,
+    "wof:lastmodified":1467082746,
     "wof:name":"Tom's TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-98.293579,43.083496,-98.293579,43.083496],
-  "geometry": {"coordinates":[-98.293579,43.083496],"type":"Point"}
+  "bbox": [
+    -98.293579,
+    43.083496,
+    -98.293579,
+    43.083496
+],
+  "geometry": {"coordinates":[-98.29357899999999,43.083496],"type":"Point"}
 }

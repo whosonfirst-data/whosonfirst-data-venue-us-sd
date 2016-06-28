@@ -2,13 +2,14 @@
   "id": 387680781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214192,44.358385,-98.214192,44.358385",
     "geom:latitude":44.358385,
     "geom:longitude":-98.214192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387680781,
-    "wof:lastmodified":1449058774,
+    "wof:lastmodified":1467082740,
     "wof:name":"YWCA Family Violence Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214192,44.358385,-98.214192,44.358385],
+  "bbox": [
+    -98.214192,
+    44.358385,
+    -98.214192,
+    44.358385
+],
   "geometry": {"coordinates":[-98.214192,44.358385],"type":"Point"}
 }

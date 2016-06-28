@@ -2,13 +2,14 @@
   "id": 387950793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.61601,45.164805,-96.61601,45.164805",
     "geom:latitude":45.164805,
     "geom:longitude":-96.61601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47927 153rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387950793,
-    "wof:lastmodified":1449057588,
+    "wof:lastmodified":1467082716,
     "wof:name":"Steinlicht Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.61601,45.164805,-96.61601,45.164805],
+  "bbox": [
+    -96.61601,
+    45.164805,
+    -96.61601,
+    45.164805
+],
   "geometry": {"coordinates":[-96.61601,45.164805],"type":"Point"}
 }

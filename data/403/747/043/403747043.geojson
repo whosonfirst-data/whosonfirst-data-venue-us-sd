@@ -2,13 +2,14 @@
   "id": 403747043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.476091,45.471027,-98.476091,45.471027",
     "geom:latitude":45.471027,
     "geom:longitude":-98.476091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 5th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403747043,
-    "wof:lastmodified":1449054872,
+    "wof:lastmodified":1467082676,
     "wof:name":"Abracadabra Custom Painting",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-98.476091,45.471027,-98.476091,45.471027],
+  "bbox": [
+    -98.476091,
+    45.471027,
+    -98.476091,
+    45.471027
+],
   "geometry": {"coordinates":[-98.476091,45.471027],"type":"Point"}
 }

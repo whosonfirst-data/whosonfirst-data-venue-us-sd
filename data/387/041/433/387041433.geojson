@@ -2,13 +2,14 @@
   "id": 387041433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.525631,45.346967,-99.525631,45.346967",
     "geom:latitude":45.346967,
     "geom:longitude":-99.525631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33136 141st St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387041433,
-    "wof:lastmodified":1449057472,
+    "wof:lastmodified":1467082714,
     "wof:name":"Rohrbach Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.525631,45.346967,-99.525631,45.346967],
+  "bbox": [
+    -99.525631,
+    45.346967,
+    -99.525631,
+    45.346967
+],
   "geometry": {"coordinates":[-99.525631,45.346967],"type":"Point"}
 }

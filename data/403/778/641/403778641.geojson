@@ -2,13 +2,14 @@
   "id": 403778641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.782103,44.166262,-98.782103,44.166262",
     "geom:latitude":44.166262,
     "geom:longitude":-98.782103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37083 222nd St",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403778641,
-    "wof:lastmodified":1449054650,
+    "wof:lastmodified":1467082674,
     "wof:name":"Lynn Horsley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.782103,44.166262,-98.782103,44.166262],
-  "geometry": {"coordinates":[-98.782103,44.166262],"type":"Point"}
+  "bbox": [
+    -98.782103,
+    44.166262,
+    -98.782103,
+    44.166262
+],
+  "geometry": {"coordinates":[-98.78210300000001,44.166262],"type":"Point"}
 }

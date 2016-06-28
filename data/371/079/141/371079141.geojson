@@ -2,13 +2,14 @@
   "id": 371079141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.538797,43.157295,-98.538797,43.157295",
     "geom:latitude":43.157295,
     "geom:longitude":-98.538797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N 5th Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371079141,
-    "wof:lastmodified":1449049943,
+    "wof:lastmodified":1467082671,
     "wof:name":"Lake Andes Housing Authorities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-98.538797,43.157295,-98.538797,43.157295],
+  "bbox": [
+    -98.538797,
+    43.157295,
+    -98.538797,
+    43.157295
+],
   "geometry": {"coordinates":[-98.538797,43.157295],"type":"Point"}
 }

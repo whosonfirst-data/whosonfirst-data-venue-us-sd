@@ -2,13 +2,14 @@
   "id": 387072885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.525175,44.41321,-103.525175,44.41321",
     "geom:latitude":44.41321,
     "geom:longitude":-103.525175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 10th St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387072885,
-    "wof:lastmodified":1449058112,
+    "wof:lastmodified":1467082727,
     "wof:name":"Northern Hills Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.525175,44.41321,-103.525175,44.41321],
+  "bbox": [
+    -103.525175,
+    44.41321,
+    -103.525175,
+    44.41321
+],
   "geometry": {"coordinates":[-103.525175,44.41321],"type":"Point"}
 }

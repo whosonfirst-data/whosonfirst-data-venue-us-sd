@@ -2,13 +2,14 @@
   "id": 387087289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.274729,44.221344,-98.274729,44.221344",
     "geom:latitude":44.221344,
     "geom:longitude":-98.274729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21828 397th Ave",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387087289,
-    "wof:lastmodified":1449057866,
+    "wof:lastmodified":1467082722,
     "wof:name":"Lynn Presuhn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.274729,44.221344,-98.274729,44.221344],
-  "geometry": {"coordinates":[-98.274729,44.221344],"type":"Point"}
+  "bbox": [
+    -98.274729,
+    44.221344,
+    -98.274729,
+    44.221344
+],
+  "geometry": {"coordinates":[-98.27472899999999,44.221344],"type":"Point"}
 }

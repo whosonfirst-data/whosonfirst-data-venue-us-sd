@@ -2,13 +2,14 @@
   "id": 387600459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761062,43.542767,-96.761062,43.542767",
     "geom:latitude":43.542767,
     "geom:longitude":-96.761062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 S Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387600459,
-    "wof:lastmodified":1449056453,
+    "wof:lastmodified":1467082694,
     "wof:name":"R G I S Inventory Specialists",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inventory"
     ]
 },
-  "bbox": [-96.761062,43.542767,-96.761062,43.542767],
+  "bbox": [
+    -96.761062,
+    43.542767,
+    -96.761062,
+    43.542767
+],
   "geometry": {"coordinates":[-96.761062,43.542767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387363113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805159,43.455437,-96.805159,43.455437",
     "geom:latitude":43.455437,
     "geom:longitude":-96.805159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27119 Grummand Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387363113,
-    "wof:lastmodified":1449059459,
+    "wof:lastmodified":1467082754,
     "wof:name":"Dales Eqp Installation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.805159,43.455437,-96.805159,43.455437],
+  "bbox": [
+    -96.805159,
+    43.455437,
+    -96.805159,
+    43.455437
+],
   "geometry": {"coordinates":[-96.805159,43.455437],"type":"Point"}
 }

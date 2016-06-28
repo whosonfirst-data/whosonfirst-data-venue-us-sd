@@ -2,13 +2,14 @@
   "id": 387530313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.185889,43.589272,-97.185889,43.589272",
     "geom:latitude":43.589272,
     "geom:longitude":-97.185889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45144 Quail Dr",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387530313,
-    "wof:lastmodified":1449058134,
+    "wof:lastmodified":1467082728,
     "wof:name":"Battle Creek Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.185889,43.589272,-97.185889,43.589272],
+  "bbox": [
+    -97.185889,
+    43.589272,
+    -97.185889,
+    43.589272
+],
   "geometry": {"coordinates":[-97.185889,43.589272],"type":"Point"}
 }

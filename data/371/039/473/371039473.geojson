@@ -2,13 +2,14 @@
   "id": 371039473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7682,44.305608,-96.7682,44.305608",
     "geom:latitude":44.305608,
     "geom:longitude":-96.7682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":371039473,
-    "wof:lastmodified":1449050002,
+    "wof:lastmodified":1467082671,
     "wof:name":"Vera Sun Energy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "management"
     ]
 },
-  "bbox": [-96.7682,44.305608,-96.7682,44.305608],
-  "geometry": {"coordinates":[-96.7682,44.305608],"type":"Point"}
+  "bbox": [
+    -96.7682,
+    44.305608,
+    -96.7682,
+    44.305608
+],
+  "geometry": {"coordinates":[-96.76819999999999,44.305608],"type":"Point"}
 }

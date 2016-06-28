@@ -2,13 +2,14 @@
   "id": 387501101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751181,43.557293,-96.751181,43.557293",
     "geom:latitude":43.557293,
     "geom:longitude":-96.751181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 N Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387501101,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1467082764,
     "wof:name":"Rainbow Signs",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.751181,43.557293,-96.751181,43.557293],
+  "bbox": [
+    -96.751181,
+    43.557293,
+    -96.751181,
+    43.557293
+],
   "geometry": {"coordinates":[-96.751181,43.557293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387693497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731339,43.54268,-96.731339,43.54268",
     "geom:latitude":43.54268,
     "geom:longitude":-96.731339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387693497,
-    "wof:lastmodified":1449056333,
+    "wof:lastmodified":1467082691,
     "wof:name":"Family Drug",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-96.731339,43.54268,-96.731339,43.54268],
-  "geometry": {"coordinates":[-96.731339,43.54268],"type":"Point"}
+  "bbox": [
+    -96.731339,
+    43.54268,
+    -96.731339,
+    43.54268
+],
+  "geometry": {"coordinates":[-96.73133900000001,43.54268],"type":"Point"}
 }

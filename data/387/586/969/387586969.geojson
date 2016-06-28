@@ -2,13 +2,14 @@
   "id": 387586969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.565474,44.085185,-103.565474,44.085185",
     "geom:latitude":44.085185,
     "geom:longitude":-103.565474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Dugan St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387586969,
-    "wof:lastmodified":1449059482,
+    "wof:lastmodified":1467082754,
     "wof:name":"Tschetter Enterprises Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.565474,44.085185,-103.565474,44.085185],
-  "geometry": {"coordinates":[-103.565474,44.085185],"type":"Point"}
+  "bbox": [
+    -103.565474,
+    44.085185,
+    -103.565474,
+    44.085185
+],
+  "geometry": {"coordinates":[-103.56547399999999,44.085185],"type":"Point"}
 }

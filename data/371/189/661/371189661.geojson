@@ -2,13 +2,14 @@
   "id": 371189661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7375,43.533099,-96.7375,43.533099",
     "geom:latitude":43.533099,
     "geom:longitude":-96.7375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 W 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371189661,
-    "wof:lastmodified":1449049790,
+    "wof:lastmodified":1467082669,
     "wof:name":"South Dkota Schl Mssage Thrapy",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.7375,43.533099,-96.7375,43.533099],
+  "bbox": [
+    -96.7375,
+    43.533099,
+    -96.7375,
+    43.533099
+],
   "geometry": {"coordinates":[-96.7375,43.533099],"type":"Point"}
 }

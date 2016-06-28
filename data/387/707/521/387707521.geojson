@@ -2,13 +2,14 @@
   "id": 387707521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.666442,43.519921,-96.666442,43.519921",
     "geom:latitude":43.519921,
     "geom:longitude":-96.666442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 S Groveland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387707521,
-    "wof:lastmodified":1449059329,
+    "wof:lastmodified":1467082751,
     "wof:name":"Tender Tots",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.666442,43.519921,-96.666442,43.519921],
+  "bbox": [
+    -96.666442,
+    43.519921,
+    -96.666442,
+    43.519921
+],
   "geometry": {"coordinates":[-96.666442,43.519921],"type":"Point"}
 }

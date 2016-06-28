@@ -2,13 +2,14 @@
   "id": 387886913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.130679,44.288568,-100.130679,44.288568",
     "geom:latitude":44.288568,
     "geom:longitude":-100.130679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30318 Arrowhead Rd",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387886913,
-    "wof:lastmodified":1449058216,
+    "wof:lastmodified":1467082729,
     "wof:name":"Stoney Point Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-100.130679,44.288568,-100.130679,44.288568],
+  "bbox": [
+    -100.130679,
+    44.288568,
+    -100.130679,
+    44.288568
+],
   "geometry": {"coordinates":[-100.130679,44.288568],"type":"Point"}
 }

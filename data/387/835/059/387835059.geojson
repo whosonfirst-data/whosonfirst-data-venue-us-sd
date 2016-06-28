@@ -2,13 +2,14 @@
   "id": 387835059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77348,44.314185,-96.77348,44.314185",
     "geom:latitude":44.314185,
     "geom:longitude":-96.77348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 8th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387835059,
-    "wof:lastmodified":1449056646,
+    "wof:lastmodified":1467082697,
     "wof:name":"Alpha Gamma Rho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-96.77348,44.314185,-96.77348,44.314185],
-  "geometry": {"coordinates":[-96.77348,44.314185],"type":"Point"}
+  "bbox": [
+    -96.77348,
+    44.314185,
+    -96.77348,
+    44.314185
+],
+  "geometry": {"coordinates":[-96.77348000000001,44.314185],"type":"Point"}
 }

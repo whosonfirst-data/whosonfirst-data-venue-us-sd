@@ -2,13 +2,14 @@
   "id": 371073171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732376,43.762958,-96.732376,43.762958",
     "geom:latitude":43.762958,
     "geom:longitude":-96.732376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Elm Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371073171,
-    "wof:lastmodified":1449049168,
+    "wof:lastmodified":1467082660,
     "wof:name":"Marietta Enterprises Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.732376,43.762958,-96.732376,43.762958],
+  "bbox": [
+    -96.732376,
+    43.762958,
+    -96.732376,
+    43.762958
+],
   "geometry": {"coordinates":[-96.732376,43.762958],"type":"Point"}
 }

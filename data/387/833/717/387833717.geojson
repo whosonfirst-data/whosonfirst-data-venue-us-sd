@@ -2,13 +2,14 @@
   "id": 387833717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486687,45.464089,-98.486687,45.464089",
     "geom:latitude":45.464089,
     "geom:longitude":-98.486687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Lincoln St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387833717,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1467082696,
     "wof:name":"Clark Title Company",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "title"
     ]
 },
-  "bbox": [-98.486687,45.464089,-98.486687,45.464089],
+  "bbox": [
+    -98.486687,
+    45.464089,
+    -98.486687,
+    45.464089
+],
   "geometry": {"coordinates":[-98.486687,45.464089],"type":"Point"}
 }

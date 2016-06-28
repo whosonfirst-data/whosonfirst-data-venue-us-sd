@@ -2,13 +2,14 @@
   "id": 387480323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578267,43.243272,-97.578267,43.243272",
     "geom:latitude":43.243272,
     "geom:longitude":-97.578267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N 5th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387480323,
-    "wof:lastmodified":1449057338,
+    "wof:lastmodified":1467082711,
     "wof:name":"Bertsch Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.578267,43.243272,-97.578267,43.243272],
+  "bbox": [
+    -97.578267,
+    43.243272,
+    -97.578267,
+    43.243272
+],
   "geometry": {"coordinates":[-97.578267,43.243272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387649135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.570917,44.08884,-98.570917,44.08884",
     "geom:latitude":44.08884,
     "geom:longitude":-98.570917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Dakota Ave N",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387649135,
-    "wof:lastmodified":1449058703,
+    "wof:lastmodified":1467082739,
     "wof:name":"Central Electric Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.570917,44.08884,-98.570917,44.08884],
-  "geometry": {"coordinates":[-98.570917,44.08884],"type":"Point"}
+  "bbox": [
+    -98.570917,
+    44.08884,
+    -98.570917,
+    44.08884
+],
+  "geometry": {"coordinates":[-98.57091699999999,44.08884],"type":"Point"}
 }

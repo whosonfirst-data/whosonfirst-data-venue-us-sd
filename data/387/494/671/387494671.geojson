@@ -2,13 +2,14 @@
   "id": 387494671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.909392,44.904606,-96.909392,44.904606",
     "geom:latitude":44.904606,
     "geom:longitude":-96.909392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46470 171st St",
     "sg:city":"Goodwin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387494671,
-    "wof:lastmodified":1449059495,
+    "wof:lastmodified":1467082755,
     "wof:name":"Moes Dairy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.909392,44.904606,-96.909392,44.904606],
+  "bbox": [
+    -96.909392,
+    44.904606,
+    -96.909392,
+    44.904606
+],
   "geometry": {"coordinates":[-96.909392,44.904606],"type":"Point"}
 }

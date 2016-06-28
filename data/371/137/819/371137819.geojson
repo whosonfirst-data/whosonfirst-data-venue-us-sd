@@ -2,13 +2,14 @@
   "id": 371137819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763159,43.607193,-96.763159,43.607193",
     "geom:latitude":43.607193,
     "geom:longitude":-96.763159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5404 N Romar Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371137819,
-    "wof:lastmodified":1449049995,
+    "wof:lastmodified":1467082671,
     "wof:name":"North Central Logistics Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.763159,43.607193,-96.763159,43.607193],
+  "bbox": [
+    -96.763159,
+    43.607193,
+    -96.763159,
+    43.607193
+],
   "geometry": {"coordinates":[-96.763159,43.607193],"type":"Point"}
 }

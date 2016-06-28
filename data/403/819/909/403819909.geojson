@@ -2,13 +2,14 @@
   "id": 403819909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709169,43.511877,-96.709169,43.511877",
     "geom:latitude":43.511877,
     "geom:longitude":-96.709169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 E Saint Charles Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403819909,
-    "wof:lastmodified":1449054959,
+    "wof:lastmodified":1467082677,
     "wof:name":"Market America",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.709169,43.511877,-96.709169,43.511877],
+  "bbox": [
+    -96.709169,
+    43.511877,
+    -96.709169,
+    43.511877
+],
   "geometry": {"coordinates":[-96.709169,43.511877],"type":"Point"}
 }

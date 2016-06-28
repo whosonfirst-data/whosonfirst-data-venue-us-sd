@@ -2,13 +2,14 @@
   "id": 387927709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.875931,44.503074,-103.875931,44.503074",
     "geom:latitude":44.503074,
     "geom:longitude":-103.875931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 Hillsview Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387927709,
-    "wof:lastmodified":1449059518,
+    "wof:lastmodified":1467082755,
     "wof:name":"Chuck's Custom Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.875931,44.503074,-103.875931,44.503074],
-  "geometry": {"coordinates":[-103.875931,44.503074],"type":"Point"}
+  "bbox": [
+    -103.875931,
+    44.503074,
+    -103.875931,
+    44.503074
+],
+  "geometry": {"coordinates":[-103.87593099999999,44.503074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387227113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955618,45.012551,-99.955618,45.012551",
     "geom:latitude":45.012551,
     "geom:longitude":-99.955618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Blaine Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387227113,
-    "wof:lastmodified":1449056942,
+    "wof:lastmodified":1467082703,
     "wof:name":"Wolff Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.955618,45.012551,-99.955618,45.012551],
+  "bbox": [
+    -99.955618,
+    45.012551,
+    -99.955618,
+    45.012551
+],
   "geometry": {"coordinates":[-99.955618,45.012551],"type":"Point"}
 }

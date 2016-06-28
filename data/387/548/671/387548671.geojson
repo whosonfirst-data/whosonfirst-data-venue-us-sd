@@ -2,13 +2,14 @@
   "id": 387548671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.508724,42.54664,-96.508724,42.54664",
     "geom:latitude":42.54664,
     "geom:longitude":-96.508724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Lakeshore Dr",
     "sg:city":"North Sioux City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387548671,
-    "wof:lastmodified":1449058742,
+    "wof:lastmodified":1467082740,
     "wof:name":"Sissy's Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "artist"
     ]
 },
-  "bbox": [-96.508724,42.54664,-96.508724,42.54664],
+  "bbox": [
+    -96.508724,
+    42.54664,
+    -96.508724,
+    42.54664
+],
   "geometry": {"coordinates":[-96.508724,42.54664],"type":"Point"}
 }

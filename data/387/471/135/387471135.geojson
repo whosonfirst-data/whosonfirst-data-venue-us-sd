@@ -2,13 +2,14 @@
   "id": 387471135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771026,43.516897,-96.771026,43.516897",
     "geom:latitude":43.516897,
     "geom:longitude":-96.771026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 S Louise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387471135,
-    "wof:lastmodified":1449057634,
+    "wof:lastmodified":1467082717,
     "wof:name":"Rue 41",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.771026,43.516897,-96.771026,43.516897],
-  "geometry": {"coordinates":[-96.771026,43.516897],"type":"Point"}
+  "bbox": [
+    -96.771026,
+    43.516897,
+    -96.771026,
+    43.516897
+],
+  "geometry": {"coordinates":[-96.77102600000001,43.516897],"type":"Point"}
 }

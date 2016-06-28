@@ -2,13 +2,14 @@
   "id": 387514975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.855777,44.498195,-103.855777,44.498195",
     "geom:latitude":44.498195,
     "geom:longitude":-103.855777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Oriole Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387514975,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1467082725,
     "wof:name":"Heritage Acres Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elderly"
     ]
 },
-  "bbox": [-103.855777,44.498195,-103.855777,44.498195],
+  "bbox": [
+    -103.855777,
+    44.498195,
+    -103.855777,
+    44.498195
+],
   "geometry": {"coordinates":[-103.855777,44.498195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387651955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800899,43.518896,-96.800899,43.518896",
     "geom:latitude":43.518896,
     "geom:longitude":-96.800899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 S Valley View Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387651955,
-    "wof:lastmodified":1449056854,
+    "wof:lastmodified":1467082701,
     "wof:name":"Kuehn Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-96.800899,43.518896,-96.800899,43.518896],
+  "bbox": [
+    -96.800899,
+    43.518896,
+    -96.800899,
+    43.518896
+],
   "geometry": {"coordinates":[-96.800899,43.518896],"type":"Point"}
 }

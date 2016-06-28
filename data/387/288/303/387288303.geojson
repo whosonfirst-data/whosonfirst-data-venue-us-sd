@@ -2,13 +2,14 @@
   "id": 387288303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.469007,45.455651,-98.469007,45.455651",
     "geom:latitude":45.455651,
     "geom:longitude":-98.469007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 S Cochrane St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387288303,
-    "wof:lastmodified":1449056508,
+    "wof:lastmodified":1467082695,
     "wof:name":"Doerr's Tree Surgeon",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.469007,45.455651,-98.469007,45.455651],
+  "bbox": [
+    -98.469007,
+    45.455651,
+    -98.469007,
+    45.455651
+],
   "geometry": {"coordinates":[-98.469007,45.455651],"type":"Point"}
 }

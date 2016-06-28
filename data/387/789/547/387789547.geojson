@@ -2,13 +2,14 @@
   "id": 387789547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.112305,45.896825,-99.112305,45.896825",
     "geom:latitude":45.896825,
     "geom:longitude":-99.112305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35426 103rd St",
     "sg:city":"Longlake",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387789547,
-    "wof:lastmodified":1449057815,
+    "wof:lastmodified":1467082721,
     "wof:name":"Albert Lux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.112305,45.896825,-99.112305,45.896825],
-  "geometry": {"coordinates":[-99.112305,45.896825],"type":"Point"}
+  "bbox": [
+    -99.112305,
+    45.896825,
+    -99.112305,
+    45.896825
+],
+  "geometry": {"coordinates":[-99.11230500000001,45.896825],"type":"Point"}
 }

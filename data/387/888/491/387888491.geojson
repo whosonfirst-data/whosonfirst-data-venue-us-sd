@@ -2,13 +2,14 @@
   "id": 387888491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.093968,44.909421,-97.093968,44.909421",
     "geom:latitude":44.909421,
     "geom:longitude":-97.093968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Grandview Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387888491,
-    "wof:lastmodified":1449058476,
+    "wof:lastmodified":1467082734,
     "wof:name":"Dynotune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-97.093968,44.909421,-97.093968,44.909421],
+  "bbox": [
+    -97.093968,
+    44.909421,
+    -97.093968,
+    44.909421
+],
   "geometry": {"coordinates":[-97.093968,44.909421],"type":"Point"}
 }

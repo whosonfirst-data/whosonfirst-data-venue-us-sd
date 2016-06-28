@@ -2,13 +2,14 @@
   "id": 386976183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.278674,44.052726,-98.278674,44.052726",
     "geom:latitude":44.052726,
     "geom:longitude":-98.278674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S 2nd Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386976183,
-    "wof:lastmodified":1449028754,
+    "wof:lastmodified":1467082651,
     "wof:name":"Lane Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.278674,44.052726,-98.278674,44.052726],
+  "bbox": [
+    -98.278674,
+    44.052726,
+    -98.278674,
+    44.052726
+],
   "geometry": {"coordinates":[-98.278674,44.052726],"type":"Point"}
 }

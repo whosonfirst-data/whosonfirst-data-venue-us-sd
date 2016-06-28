@@ -2,13 +2,14 @@
   "id": 387281221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.300196,43.433191,-97.300196,43.433191",
     "geom:latitude":43.433191,
     "geom:longitude":-97.300196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27276 445th Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387281221,
-    "wof:lastmodified":1449059346,
+    "wof:lastmodified":1467082752,
     "wof:name":"Kaufman & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.300196,43.433191,-97.300196,43.433191],
+  "bbox": [
+    -97.300196,
+    43.433191,
+    -97.300196,
+    43.433191
+],
   "geometry": {"coordinates":[-97.300196,43.433191],"type":"Point"}
 }

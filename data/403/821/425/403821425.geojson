@@ -2,13 +2,14 @@
   "id": 403821425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.616973,43.603131,-97.616973,43.603131",
     "geom:latitude":43.603131,
     "geom:longitude":-97.616973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26044 N 7th St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403821425,
-    "wof:lastmodified":1449055360,
+    "wof:lastmodified":1467082680,
     "wof:name":"Hyatts Green Acres Bed N Brea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-97.616973,43.603131,-97.616973,43.603131],
+  "bbox": [
+    -97.616973,
+    43.603131,
+    -97.616973,
+    43.603131
+],
   "geometry": {"coordinates":[-97.616973,43.603131],"type":"Point"}
 }

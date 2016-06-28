@@ -2,13 +2,14 @@
   "id": 387605077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.973902,42.978355,-96.973902,42.978355",
     "geom:latitude":42.978355,
     "geom:longitude":-96.973902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30427 Pleasant Valley Ave",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387605077,
-    "wof:lastmodified":1449057951,
+    "wof:lastmodified":1467082724,
     "wof:name":"Lovejoy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-96.973902,42.978355,-96.973902,42.978355],
+  "bbox": [
+    -96.973902,
+    42.978355,
+    -96.973902,
+    42.978355
+],
   "geometry": {"coordinates":[-96.973902,42.978355],"type":"Point"}
 }

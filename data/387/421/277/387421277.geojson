@@ -2,13 +2,14 @@
   "id": 387421277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112697,44.00518,-97.112697,44.00518",
     "geom:latitude":44.00518,
     "geom:longitude":-97.112697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387421277,
-    "wof:lastmodified":1449058523,
+    "wof:lastmodified":1467082735,
     "wof:name":"Common Grounds LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-97.112697,44.00518,-97.112697,44.00518],
+  "bbox": [
+    -97.112697,
+    44.00518,
+    -97.112697,
+    44.00518
+],
   "geometry": {"coordinates":[-97.112697,44.00518],"type":"Point"}
 }

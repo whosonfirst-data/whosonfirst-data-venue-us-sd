@@ -2,13 +2,14 @@
   "id": 387559049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.528806,45.088592,-102.528806,45.088592",
     "geom:latitude":45.088592,
     "geom:longitude":-102.528806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15998 Lily Creek Rd",
     "sg:city":"Faith",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387559049,
-    "wof:lastmodified":1449059080,
+    "wof:lastmodified":1467082746,
     "wof:name":"Reese Estella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"
     ]
 },
-  "bbox": [-102.528806,45.088592,-102.528806,45.088592],
+  "bbox": [
+    -102.528806,
+    45.088592,
+    -102.528806,
+    45.088592
+],
   "geometry": {"coordinates":[-102.528806,45.088592],"type":"Point"}
 }

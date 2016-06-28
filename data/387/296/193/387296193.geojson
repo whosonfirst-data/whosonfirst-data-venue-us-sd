@@ -2,13 +2,14 @@
   "id": 387296193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308348,44.22867,-97.308348,44.22867",
     "geom:latitude":44.22867,
     "geom:longitude":-97.308348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Lillie Ave",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387296193,
-    "wof:lastmodified":1449059214,
+    "wof:lastmodified":1467082749,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.308348,44.22867,-97.308348,44.22867],
+  "bbox": [
+    -97.308348,
+    44.22867,
+    -97.308348,
+    44.22867
+],
   "geometry": {"coordinates":[-97.308348,44.22867],"type":"Point"}
 }

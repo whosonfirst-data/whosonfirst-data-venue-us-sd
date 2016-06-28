@@ -2,13 +2,14 @@
   "id": 387462131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.937036,43.624096,-96.937036,43.624096",
     "geom:latitude":43.624096,
     "geom:longitude":-96.937036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Elm Rd",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387462131,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1467082760,
     "wof:name":"Mike's Piano Repair",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-96.937036,43.624096,-96.937036,43.624096],
-  "geometry": {"coordinates":[-96.937036,43.624096],"type":"Point"}
+  "bbox": [
+    -96.937036,
+    43.624096,
+    -96.937036,
+    43.624096
+],
+  "geometry": {"coordinates":[-96.93703600000001,43.624096],"type":"Point"}
 }

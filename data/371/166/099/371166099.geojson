@@ -2,13 +2,14 @@
   "id": 371166099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.974813,43.572235,-96.974813,43.572235",
     "geom:latitude":43.572235,
     "geom:longitude":-96.974813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46177 263rd St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371166099,
-    "wof:lastmodified":1449049642,
+    "wof:lastmodified":1467082666,
     "wof:name":"Jay Titus",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.974813,43.572235,-96.974813,43.572235],
+  "bbox": [
+    -96.974813,
+    43.572235,
+    -96.974813,
+    43.572235
+],
   "geometry": {"coordinates":[-96.974813,43.572235],"type":"Point"}
 }

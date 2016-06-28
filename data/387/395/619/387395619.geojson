@@ -2,13 +2,14 @@
   "id": 387395619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221867,44.100988,-103.221867,44.100988",
     "geom:latitude":44.100988,
     "geom:longitude":-103.221867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387395619,
-    "wof:lastmodified":1449059366,
+    "wof:lastmodified":1467082752,
     "wof:name":"Sign & Trophy Westex",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-103.221867,44.100988,-103.221867,44.100988],
+  "bbox": [
+    -103.221867,
+    44.100988,
+    -103.221867,
+    44.100988
+],
   "geometry": {"coordinates":[-103.221867,44.100988],"type":"Point"}
 }

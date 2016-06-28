@@ -2,13 +2,14 @@
   "id": 403768175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732746,43.547362,-96.732746,43.547362",
     "geom:latitude":43.547362,
     "geom:longitude":-96.732746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 W 9th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403768175,
-    "wof:lastmodified":1449055144,
+    "wof:lastmodified":1467082679,
     "wof:name":"Office Furniture U S A",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.732746,43.547362,-96.732746,43.547362],
-  "geometry": {"coordinates":[-96.732746,43.547362],"type":"Point"}
+  "bbox": [
+    -96.732746,
+    43.547362,
+    -96.732746,
+    43.547362
+],
+  "geometry": {"coordinates":[-96.73274600000001,43.547362],"type":"Point"}
 }

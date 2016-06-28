@@ -2,13 +2,14 @@
   "id": 387719683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.737701,43.761177,-96.737701,43.761177",
     "geom:latitude":43.761177,
     "geom:longitude":-96.737701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Lovely Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387719683,
-    "wof:lastmodified":1449056597,
+    "wof:lastmodified":1467082696,
     "wof:name":"Buffalo Crossing Convenience",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.737701,43.761177,-96.737701,43.761177],
+  "bbox": [
+    -96.737701,
+    43.761177,
+    -96.737701,
+    43.761177
+],
   "geometry": {"coordinates":[-96.737701,43.761177],"type":"Point"}
 }

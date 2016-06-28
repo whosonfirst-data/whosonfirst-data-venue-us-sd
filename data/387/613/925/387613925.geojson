@@ -2,13 +2,14 @@
   "id": 387613925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482025,45.466825,-98.482025,45.466825",
     "geom:latitude":45.466825,
     "geom:longitude":-98.482025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 1st Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387613925,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1467082722,
     "wof:name":"Warren's Refrigeration & Appl",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-98.482025,45.466825,-98.482025,45.466825],
-  "geometry": {"coordinates":[-98.482025,45.466825],"type":"Point"}
+  "bbox": [
+    -98.482025,
+    45.466825,
+    -98.482025,
+    45.466825
+],
+  "geometry": {"coordinates":[-98.48202499999999,45.466825],"type":"Point"}
 }

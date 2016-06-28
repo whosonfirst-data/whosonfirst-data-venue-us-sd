@@ -2,13 +2,14 @@
   "id": 387316399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.080093,43.011141,-97.080093,43.011141",
     "geom:latitude":43.011141,
     "geom:longitude":-97.080093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45623 302nd St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387316399,
-    "wof:lastmodified":1449058686,
+    "wof:lastmodified":1467082738,
     "wof:name":"Martz & Sons Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.080093,43.011141,-97.080093,43.011141],
-  "geometry": {"coordinates":[-97.080093,43.011141],"type":"Point"}
+  "bbox": [
+    -97.080093,
+    43.011141,
+    -97.080093,
+    43.011141
+],
+  "geometry": {"coordinates":[-97.08009300000001,43.011141],"type":"Point"}
 }

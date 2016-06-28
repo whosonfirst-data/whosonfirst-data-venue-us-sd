@@ -2,13 +2,14 @@
   "id": 387031249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.13525,43.918506,-103.13525,43.918506",
     "geom:latitude":43.918506,
     "geom:longitude":-103.13525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14620 Lower Spring Creek Rd",
     "sg:city":"Hermosa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387031249,
-    "wof:lastmodified":1449057512,
+    "wof:lastmodified":1467082715,
     "wof:name":"Crandall Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.13525,43.918506,-103.13525,43.918506],
+  "bbox": [
+    -103.13525,
+    43.918506,
+    -103.13525,
+    43.918506
+],
   "geometry": {"coordinates":[-103.13525,43.918506],"type":"Point"}
 }

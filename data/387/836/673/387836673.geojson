@@ -2,13 +2,14 @@
   "id": 387836673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715494,43.501921,-96.715494,43.501921",
     "geom:latitude":43.501921,
     "geom:longitude":-96.715494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 S River Oaks Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387836673,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1467082737,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-96.715494,43.501921,-96.715494,43.501921],
-  "geometry": {"coordinates":[-96.715494,43.501921],"type":"Point"}
+  "bbox": [
+    -96.715494,
+    43.501921,
+    -96.715494,
+    43.501921
+],
+  "geometry": {"coordinates":[-96.71549400000001,43.501921],"type":"Point"}
 }

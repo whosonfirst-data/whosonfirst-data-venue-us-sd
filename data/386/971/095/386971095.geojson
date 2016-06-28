@@ -2,13 +2,14 @@
   "id": 386971095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.236434,44.082679,-103.236434,44.082679",
     "geom:latitude":44.082679,
     "geom:longitude":-103.236434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 11th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386971095,
-    "wof:lastmodified":1449028788,
+    "wof:lastmodified":1467082652,
     "wof:name":"Pawnee Warehouse Distrs Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.236434,44.082679,-103.236434,44.082679],
+  "bbox": [
+    -103.236434,
+    44.082679,
+    -103.236434,
+    44.082679
+],
   "geometry": {"coordinates":[-103.236434,44.082679],"type":"Point"}
 }

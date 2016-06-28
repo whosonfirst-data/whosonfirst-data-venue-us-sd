@@ -2,13 +2,14 @@
   "id": 387547251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736249,43.52597,-96.736249,43.52597",
     "geom:latitude":43.52597,
     "geom:longitude":-96.736249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S Summit Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387547251,
-    "wof:lastmodified":1449056493,
+    "wof:lastmodified":1467082694,
     "wof:name":"KAUR",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-96.736249,43.52597,-96.736249,43.52597],
+  "bbox": [
+    -96.736249,
+    43.52597,
+    -96.736249,
+    43.52597
+],
   "geometry": {"coordinates":[-96.736249,43.52597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387723239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234501,44.360926,-98.234501,44.360926",
     "geom:latitude":44.360926,
     "geom:longitude":-98.234501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387723239,
-    "wof:lastmodified":1449058326,
+    "wof:lastmodified":1467082731,
     "wof:name":"Huron Collection Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-98.234501,44.360926,-98.234501,44.360926],
-  "geometry": {"coordinates":[-98.234501,44.360926],"type":"Point"}
+  "bbox": [
+    -98.234501,
+    44.360926,
+    -98.234501,
+    44.360926
+],
+  "geometry": {"coordinates":[-98.23450099999999,44.360926],"type":"Point"}
 }

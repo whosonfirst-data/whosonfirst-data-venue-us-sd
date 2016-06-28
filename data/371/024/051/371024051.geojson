@@ -2,13 +2,14 @@
   "id": 371024051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746132,43.509574,-96.746132,43.509574",
     "geom:latitude":43.509574,
     "geom:longitude":-96.746132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 S West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371024051,
-    "wof:lastmodified":1449049510,
+    "wof:lastmodified":1467082665,
     "wof:name":"Troublemakers Band",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-96.746132,43.509574,-96.746132,43.509574],
+  "bbox": [
+    -96.746132,
+    43.509574,
+    -96.746132,
+    43.509574
+],
   "geometry": {"coordinates":[-96.746132,43.509574],"type":"Point"}
 }

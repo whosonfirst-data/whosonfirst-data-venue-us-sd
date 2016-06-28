@@ -2,13 +2,14 @@
   "id": 371029547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715759,43.557055,-96.715759,43.557055",
     "geom:latitude":43.557055,
     "geom:longitude":-96.715759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 N Indiana Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371029547,
-    "wof:lastmodified":1449049466,
+    "wof:lastmodified":1467082664,
     "wof:name":"Gordon Contracting",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "masonry"
     ]
 },
-  "bbox": [-96.715759,43.557055,-96.715759,43.557055],
-  "geometry": {"coordinates":[-96.715759,43.557055],"type":"Point"}
+  "bbox": [
+    -96.715759,
+    43.557055,
+    -96.715759,
+    43.557055
+],
+  "geometry": {"coordinates":[-96.71575900000001,43.557055],"type":"Point"}
 }

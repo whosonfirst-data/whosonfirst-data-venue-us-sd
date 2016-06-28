@@ -2,13 +2,14 @@
   "id": 387327373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52326,45.341056,-97.52326,45.341056",
     "geom:latitude":45.341056,
     "geom:longitude":-97.52326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387327373,
-    "wof:lastmodified":1449056398,
+    "wof:lastmodified":1467082692,
     "wof:name":"Northland Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.52326,45.341056,-97.52326,45.341056],
-  "geometry": {"coordinates":[-97.52326,45.341056],"type":"Point"}
+  "bbox": [
+    -97.52326,
+    45.341056,
+    -97.52326,
+    45.341056
+],
+  "geometry": {"coordinates":[-97.52325999999999,45.341056],"type":"Point"}
 }

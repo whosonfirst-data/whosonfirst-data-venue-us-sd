@@ -2,13 +2,14 @@
   "id": 387793929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677134,43.240827,-97.677134,43.240827",
     "geom:latitude":43.240827,
     "geom:longitude":-97.677134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Euclid St",
     "sg:city":"Olivet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387793929,
-    "wof:lastmodified":1449058204,
+    "wof:lastmodified":1467082729,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.677134,43.240827,-97.677134,43.240827],
+  "bbox": [
+    -97.677134,
+    43.240827,
+    -97.677134,
+    43.240827
+],
   "geometry": {"coordinates":[-97.677134,43.240827],"type":"Point"}
 }

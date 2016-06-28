@@ -2,13 +2,14 @@
   "id": 387258647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.551757,44.352772,-99.551757,44.352772",
     "geom:latitude":44.352772,
     "geom:longitude":-99.551757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33390 209th St",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387258647,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1467082747,
     "wof:name":"Paul Knox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.551757,44.352772,-99.551757,44.352772],
-  "geometry": {"coordinates":[-99.551757,44.352772],"type":"Point"}
+  "bbox": [
+    -99.551757,
+    44.352772,
+    -99.551757,
+    44.352772
+],
+  "geometry": {"coordinates":[-99.55175699999999,44.352772],"type":"Point"}
 }

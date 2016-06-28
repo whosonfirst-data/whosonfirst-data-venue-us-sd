@@ -2,13 +2,14 @@
   "id": 371171615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.303779,44.092283,-103.303779,44.092283",
     "geom:latitude":44.092283,
     "geom:longitude":-103.303779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Roubaix Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371171615,
-    "wof:lastmodified":1449050147,
+    "wof:lastmodified":1467082673,
     "wof:name":"Jody Javersak",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultation"
     ]
 },
-  "bbox": [-103.303779,44.092283,-103.303779,44.092283],
-  "geometry": {"coordinates":[-103.303779,44.092283],"type":"Point"}
+  "bbox": [
+    -103.303779,
+    44.092283,
+    -103.303779,
+    44.092283
+],
+  "geometry": {"coordinates":[-103.30377900000001,44.092283],"type":"Point"}
 }

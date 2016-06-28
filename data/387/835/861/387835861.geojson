@@ -2,13 +2,14 @@
   "id": 387835861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.456632,44.789417,-96.456632,44.789417",
     "geom:latitude":44.789417,
     "geom:longitude":-96.456632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Coteau St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387835861,
-    "wof:lastmodified":1449056649,
+    "wof:lastmodified":1467082697,
     "wof:name":"First Evangelical Lutheran Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.456632,44.789417,-96.456632,44.789417],
+  "bbox": [
+    -96.456632,
+    44.789417,
+    -96.456632,
+    44.789417
+],
   "geometry": {"coordinates":[-96.456632,44.789417],"type":"Point"}
 }

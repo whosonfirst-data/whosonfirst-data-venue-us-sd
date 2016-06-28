@@ -2,13 +2,14 @@
   "id": 387138817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.579189,43.23822,-97.579189,43.23822",
     "geom:latitude":43.23822,
     "geom:longitude":-97.579189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 W Poplar St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387138817,
-    "wof:lastmodified":1449057198,
+    "wof:lastmodified":1467082708,
     "wof:name":"Ken's Electric & Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.579189,43.23822,-97.579189,43.23822],
+  "bbox": [
+    -97.579189,
+    43.23822,
+    -97.579189,
+    43.23822
+],
   "geometry": {"coordinates":[-97.579189,43.23822],"type":"Point"}
 }

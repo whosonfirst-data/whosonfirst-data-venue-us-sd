@@ -2,13 +2,14 @@
   "id": 387603561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.299805,44.13566,-103.299805,44.13566",
     "geom:latitude":44.13566,
     "geom:longitude":-103.299805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Everest Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387603561,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1467082751,
     "wof:name":"Lee's Roofing",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.299805,44.13566,-103.299805,44.13566],
-  "geometry": {"coordinates":[-103.299805,44.13566],"type":"Point"}
+  "bbox": [
+    -103.299805,
+    44.13566,
+    -103.299805,
+    44.13566
+],
+  "geometry": {"coordinates":[-103.29980500000001,44.13566],"type":"Point"}
 }

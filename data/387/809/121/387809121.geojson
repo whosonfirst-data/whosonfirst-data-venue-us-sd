@@ -2,13 +2,14 @@
   "id": 387809121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716335,43.525835,-96.716335,43.525835",
     "geom:latitude":43.525835,
     "geom:longitude":-96.716335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 E Oak St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809121,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1467082749,
     "wof:name":"Massage By Marnie",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-96.716335,43.525835,-96.716335,43.525835],
+  "bbox": [
+    -96.716335,
+    43.525835,
+    -96.716335,
+    43.525835
+],
   "geometry": {"coordinates":[-96.716335,43.525835],"type":"Point"}
 }

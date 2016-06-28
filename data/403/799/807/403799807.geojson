@@ -2,13 +2,14 @@
   "id": 403799807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.429345,43.241019,-99.429345,43.241019",
     "geom:latitude":43.241019,
     "geom:longitude":-99.429345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 Rosebud Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403799807,
-    "wof:lastmodified":1449055965,
+    "wof:lastmodified":1467082684,
     "wof:name":"Mikkelsen Myrum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.429345,43.241019,-99.429345,43.241019],
+  "bbox": [
+    -99.429345,
+    43.241019,
+    -99.429345,
+    43.241019
+],
   "geometry": {"coordinates":[-99.429345,43.241019],"type":"Point"}
 }

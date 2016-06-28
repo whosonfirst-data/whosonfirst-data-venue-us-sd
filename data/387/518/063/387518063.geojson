@@ -2,13 +2,14 @@
   "id": 387518063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.004675,43.71051,-98.004675,43.71051",
     "geom:latitude":43.71051,
     "geom:longitude":-98.004675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 E 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387518063,
-    "wof:lastmodified":1449058255,
+    "wof:lastmodified":1467082730,
     "wof:name":"Insight Web Design LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "system"
     ]
 },
-  "bbox": [-98.004675,43.71051,-98.004675,43.71051],
-  "geometry": {"coordinates":[-98.004675,43.71051],"type":"Point"}
+  "bbox": [
+    -98.004675,
+    43.71051,
+    -98.004675,
+    43.71051
+],
+  "geometry": {"coordinates":[-98.00467500000001,43.71051],"type":"Point"}
 }

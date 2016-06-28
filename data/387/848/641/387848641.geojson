@@ -2,13 +2,14 @@
   "id": 387848641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.003121,43.600634,-98.003121,43.600634",
     "geom:latitude":43.600634,
     "geom:longitude":-98.003121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41041 261st St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387848641,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1467082697,
     "wof:name":"Bartscher Concrete & Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.003121,43.600634,-98.003121,43.600634],
-  "geometry": {"coordinates":[-98.003121,43.600634],"type":"Point"}
+  "bbox": [
+    -98.003121,
+    43.600634,
+    -98.003121,
+    43.600634
+],
+  "geometry": {"coordinates":[-98.00312099999999,43.600634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387848645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763705,43.550415,-96.763705,43.550415",
     "geom:latitude":43.550415,
     "geom:longitude":-96.763705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Harlem Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387848645,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1467082697,
     "wof:name":"Hagen Grading Co Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.763705,43.550415,-96.763705,43.550415],
+  "bbox": [
+    -96.763705,
+    43.550415,
+    -96.763705,
+    43.550415
+],
   "geometry": {"coordinates":[-96.763705,43.550415],"type":"Point"}
 }

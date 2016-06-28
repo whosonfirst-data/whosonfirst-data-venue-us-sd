@@ -2,13 +2,14 @@
   "id": 371058077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706754,43.825101,-96.706754,43.825101",
     "geom:latitude":43.825101,
     "geom:longitude":-96.706754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Garfield Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371058077,
-    "wof:lastmodified":1449049180,
+    "wof:lastmodified":1467082660,
     "wof:name":"Dell Rapids Public Safety Bldg",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-96.706754,43.825101,-96.706754,43.825101],
+  "bbox": [
+    -96.706754,
+    43.825101,
+    -96.706754,
+    43.825101
+],
   "geometry": {"coordinates":[-96.706754,43.825101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387371327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731425,43.552172,-96.731425,43.552172",
     "geom:latitude":43.552172,
     "geom:longitude":-96.731425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387371327,
-    "wof:lastmodified":1449059062,
+    "wof:lastmodified":1467082746,
     "wof:name":"Davis Chiropractic Clinic",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.731425,43.552172,-96.731425,43.552172],
+  "bbox": [
+    -96.731425,
+    43.552172,
+    -96.731425,
+    43.552172
+],
   "geometry": {"coordinates":[-96.731425,43.552172],"type":"Point"}
 }

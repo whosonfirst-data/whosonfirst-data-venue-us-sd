@@ -2,13 +2,14 @@
   "id": 387584741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.521544,44.869653,-98.521544,44.869653",
     "geom:latitude":44.869653,
     "geom:longitude":-98.521544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W 12th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387584741,
-    "wof:lastmodified":1449056522,
+    "wof:lastmodified":1467082695,
     "wof:name":"Eastern Star Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-98.521544,44.869653,-98.521544,44.869653],
-  "geometry": {"coordinates":[-98.521544,44.869653],"type":"Point"}
+  "bbox": [
+    -98.521544,
+    44.869653,
+    -98.521544,
+    44.869653
+],
+  "geometry": {"coordinates":[-98.52154400000001,44.869653],"type":"Point"}
 }

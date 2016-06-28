@@ -2,13 +2,14 @@
   "id": 371019507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115322,44.003766,-97.115322,44.003766",
     "geom:latitude":44.003766,
     "geom:longitude":-97.115322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Van Eps Ave S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371019507,
-    "wof:lastmodified":1449049654,
+    "wof:lastmodified":1467082667,
     "wof:name":"Stardevant's Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.115322,44.003766,-97.115322,44.003766],
-  "geometry": {"coordinates":[-97.115322,44.003766],"type":"Point"}
+  "bbox": [
+    -97.115322,
+    44.003766,
+    -97.115322,
+    44.003766
+],
+  "geometry": {"coordinates":[-97.11532200000001,44.003766],"type":"Point"}
 }

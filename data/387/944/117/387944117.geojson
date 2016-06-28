@@ -2,13 +2,14 @@
   "id": 387944117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720842,43.149657,-97.720842,43.149657",
     "geom:latitude":43.149657,
     "geom:longitude":-97.720842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387944117,
-    "wof:lastmodified":1449058012,
+    "wof:lastmodified":1467082725,
     "wof:name":"Sioux Nation Ag Ctr-Scotland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-97.720842,43.149657,-97.720842,43.149657],
+  "bbox": [
+    -97.720842,
+    43.149657,
+    -97.720842,
+    43.149657
+],
   "geometry": {"coordinates":[-97.720842,43.149657],"type":"Point"}
 }

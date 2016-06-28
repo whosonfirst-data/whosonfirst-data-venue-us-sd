@@ -2,13 +2,14 @@
   "id": 403705517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.439812,44.088119,-103.439812,44.088119",
     "geom:latitude":44.088119,
     "geom:longitude":-103.439812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13073 Pine Cliff Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403705517,
-    "wof:lastmodified":1449055972,
+    "wof:lastmodified":1467082684,
     "wof:name":"S Schauer",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-103.439812,44.088119,-103.439812,44.088119],
+  "bbox": [
+    -103.439812,
+    44.088119,
+    -103.439812,
+    44.088119
+],
   "geometry": {"coordinates":[-103.439812,44.088119],"type":"Point"}
 }

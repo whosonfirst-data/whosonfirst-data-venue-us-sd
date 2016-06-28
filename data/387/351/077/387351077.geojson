@@ -2,13 +2,14 @@
   "id": 387351077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.626249,44.19637,-96.626249,44.19637",
     "geom:latitude":44.19637,
     "geom:longitude":-96.626249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21993 479th Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387351077,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467082752,
     "wof:name":"Roy Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.626249,44.19637,-96.626249,44.19637],
+  "bbox": [
+    -96.626249,
+    44.19637,
+    -96.626249,
+    44.19637
+],
   "geometry": {"coordinates":[-96.626249,44.19637],"type":"Point"}
 }

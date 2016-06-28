@@ -2,13 +2,14 @@
   "id": 387682863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.480913,42.525268,-96.480913,42.525268",
     "geom:latitude":42.525268,
     "geom:longitude":-96.480913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Military Rd",
     "sg:city":"North Sioux City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387682863,
-    "wof:lastmodified":1449056764,
+    "wof:lastmodified":1467082700,
     "wof:name":"4 Aces/Reno Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.480913,42.525268,-96.480913,42.525268],
+  "bbox": [
+    -96.480913,
+    42.525268,
+    -96.480913,
+    42.525268
+],
   "geometry": {"coordinates":[-96.480913,42.525268],"type":"Point"}
 }

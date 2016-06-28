@@ -2,13 +2,14 @@
   "id": 387006689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234256,44.07496,-103.234256,44.07496",
     "geom:latitude":44.07496,
     "geom:longitude":-103.234256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387006689,
-    "wof:lastmodified":1449059179,
+    "wof:lastmodified":1467082748,
     "wof:name":"Arrow Bonding Agency",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-103.234256,44.07496,-103.234256,44.07496],
+  "bbox": [
+    -103.234256,
+    44.07496,
+    -103.234256,
+    44.07496
+],
   "geometry": {"coordinates":[-103.234256,44.07496],"type":"Point"}
 }

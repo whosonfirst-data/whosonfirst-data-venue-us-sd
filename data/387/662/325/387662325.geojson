@@ -2,13 +2,14 @@
   "id": 387662325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.502676,44.411898,-103.502676,44.411898",
     "geom:latitude":44.411898,
     "geom:longitude":-103.502676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 Nellie St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387662325,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1467082738,
     "wof:name":"Western Slope Townhouse Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.502676,44.411898,-103.502676,44.411898],
-  "geometry": {"coordinates":[-103.502676,44.411898],"type":"Point"}
+  "bbox": [
+    -103.502676,
+    44.411898,
+    -103.502676,
+    44.411898
+],
+  "geometry": {"coordinates":[-103.50267599999999,44.411898],"type":"Point"}
 }

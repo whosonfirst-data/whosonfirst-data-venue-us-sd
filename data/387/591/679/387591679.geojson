@@ -2,13 +2,14 @@
   "id": 387591679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713827,43.541363,-96.713827,43.541363",
     "geom:latitude":43.541363,
     "geom:longitude":-96.713827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E 14th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387591679,
-    "wof:lastmodified":1449058144,
+    "wof:lastmodified":1467082728,
     "wof:name":"Ed Enterprizes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.713827,43.541363,-96.713827,43.541363],
-  "geometry": {"coordinates":[-96.713827,43.541363],"type":"Point"}
+  "bbox": [
+    -96.713827,
+    43.541363,
+    -96.713827,
+    43.541363
+],
+  "geometry": {"coordinates":[-96.71382699999999,43.541363],"type":"Point"}
 }

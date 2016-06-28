@@ -2,13 +2,14 @@
   "id": 403776493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121034,43.997422,-97.121034,43.997422",
     "geom:latitude":43.997422,
     "geom:longitude":-97.121034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 7th St SW",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403776493,
-    "wof:lastmodified":1449054938,
+    "wof:lastmodified":1467082677,
     "wof:name":"Falcon Plastics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.121034,43.997422,-97.121034,43.997422],
-  "geometry": {"coordinates":[-97.121034,43.997422],"type":"Point"}
+  "bbox": [
+    -97.121034,
+    43.997422,
+    -97.121034,
+    43.997422
+],
+  "geometry": {"coordinates":[-97.12103399999999,43.997422],"type":"Point"}
 }

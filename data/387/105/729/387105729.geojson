@@ -2,13 +2,14 @@
   "id": 387105729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751019,43.514688,-96.751019,43.514688",
     "geom:latitude":43.514688,
     "geom:longitude":-96.751019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387105729,
-    "wof:lastmodified":1449057557,
+    "wof:lastmodified":1467082716,
     "wof:name":"Audio Playground",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-96.751019,43.514688,-96.751019,43.514688],
+  "bbox": [
+    -96.751019,
+    43.514688,
+    -96.751019,
+    43.514688
+],
   "geometry": {"coordinates":[-96.751019,43.514688],"type":"Point"}
 }

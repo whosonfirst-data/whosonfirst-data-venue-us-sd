@@ -2,13 +2,14 @@
   "id": 387795979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707615,43.475909,-96.707615,43.475909",
     "geom:latitude":43.475909,
     "geom:longitude":-96.707615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26938 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387795979,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1467082732,
     "wof:name":"Elsie Pike Ltd Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.707615,43.475909,-96.707615,43.475909],
+  "bbox": [
+    -96.707615,
+    43.475909,
+    -96.707615,
+    43.475909
+],
   "geometry": {"coordinates":[-96.707615,43.475909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371063519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795244,44.318168,-96.795244,44.318168",
     "geom:latitude":44.318168,
     "geom:longitude":-96.795244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 6th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371063519,
-    "wof:lastmodified":1449049115,
+    "wof:lastmodified":1467082659,
     "wof:name":"Jodaw Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.795244,44.318168,-96.795244,44.318168],
+  "bbox": [
+    -96.795244,
+    44.318168,
+    -96.795244,
+    44.318168
+],
   "geometry": {"coordinates":[-96.795244,44.318168],"type":"Point"}
 }

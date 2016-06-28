@@ -2,13 +2,14 @@
   "id": 387631807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.072781,44.485088,-97.072781,44.485088",
     "geom:latitude":44.485088,
     "geom:longitude":-97.072781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45635 200th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387631807,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1467082710,
     "wof:name":"Spilde Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.072781,44.485088,-97.072781,44.485088],
-  "geometry": {"coordinates":[-97.072781,44.485088],"type":"Point"}
+  "bbox": [
+    -97.072781,
+    44.485088,
+    -97.072781,
+    44.485088
+],
+  "geometry": {"coordinates":[-97.07278100000001,44.485088],"type":"Point"}
 }

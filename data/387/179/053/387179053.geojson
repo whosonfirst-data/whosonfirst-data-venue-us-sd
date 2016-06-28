@@ -2,13 +2,14 @@
   "id": 387179053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.430631,44.122843,-97.430631,44.122843",
     "geom:latitude":44.122843,
     "geom:longitude":-97.430631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22578 439th Ave",
     "sg:city":"Winfred",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387179053,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1467082755,
     "wof:name":"Kim Lewis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.430631,44.122843,-97.430631,44.122843],
-  "geometry": {"coordinates":[-97.430631,44.122843],"type":"Point"}
+  "bbox": [
+    -97.430631,
+    44.122843,
+    -97.430631,
+    44.122843
+],
+  "geometry": {"coordinates":[-97.43063100000001,44.122843],"type":"Point"}
 }

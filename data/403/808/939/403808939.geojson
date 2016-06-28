@@ -2,13 +2,14 @@
   "id": 403808939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.85358,44.493004,-103.85358,44.493004",
     "geom:latitude":44.493004,
     "geom:longitude":-103.85358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N 10th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403808939,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1467082675,
     "wof:name":"Penney's Bookkeeping & Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-103.85358,44.493004,-103.85358,44.493004],
-  "geometry": {"coordinates":[-103.85358,44.493004],"type":"Point"}
+  "bbox": [
+    -103.85358,
+    44.493004,
+    -103.85358,
+    44.493004
+],
+  "geometry": {"coordinates":[-103.85357999999999,44.493004],"type":"Point"}
 }

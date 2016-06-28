@@ -2,13 +2,14 @@
   "id": 387729435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.159271,45.940944,-102.159271,45.940944",
     "geom:latitude":45.940944,
     "geom:longitude":-102.159271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Main Ave",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387729435,
-    "wof:lastmodified":1449058025,
+    "wof:lastmodified":1467082725,
     "wof:name":"Farmers Union Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.159271,45.940944,-102.159271,45.940944],
+  "bbox": [
+    -102.159271,
+    45.940944,
+    -102.159271,
+    45.940944
+],
   "geometry": {"coordinates":[-102.159271,45.940944],"type":"Point"}
 }

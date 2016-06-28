@@ -2,13 +2,14 @@
   "id": 403815031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.854844,43.57277,-96.854844,43.57277",
     "geom:latitude":43.57277,
     "geom:longitude":-96.854844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46766 263rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403815031,
-    "wof:lastmodified":1449055274,
+    "wof:lastmodified":1467082680,
     "wof:name":"Pats Pumpkin Patch",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.854844,43.57277,-96.854844,43.57277],
+  "bbox": [
+    -96.854844,
+    43.57277,
+    -96.854844,
+    43.57277
+],
   "geometry": {"coordinates":[-96.854844,43.57277],"type":"Point"}
 }

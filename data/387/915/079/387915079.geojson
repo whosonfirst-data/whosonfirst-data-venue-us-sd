@@ -2,13 +2,14 @@
   "id": 387915079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.983373,43.446158,-96.983373,43.446158",
     "geom:latitude":43.446158,
     "geom:longitude":-96.983373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46110 272nd St",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387915079,
-    "wof:lastmodified":1449059884,
+    "wof:lastmodified":1467082762,
     "wof:name":"Douglas Deneui",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-96.983373,43.446158,-96.983373,43.446158],
+  "bbox": [
+    -96.983373,
+    43.446158,
+    -96.983373,
+    43.446158
+],
   "geometry": {"coordinates":[-96.983373,43.446158],"type":"Point"}
 }

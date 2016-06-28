@@ -2,13 +2,14 @@
   "id": 387814051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.540058,43.158125,-98.540058,43.158125",
     "geom:latitude":43.158125,
     "geom:longitude":-98.540058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N 4th Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387814051,
-    "wof:lastmodified":1449056796,
+    "wof:lastmodified":1467082700,
     "wof:name":"NACB Womens Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.540058,43.158125,-98.540058,43.158125],
+  "bbox": [
+    -98.540058,
+    43.158125,
+    -98.540058,
+    43.158125
+],
   "geometry": {"coordinates":[-98.540058,43.158125],"type":"Point"}
 }

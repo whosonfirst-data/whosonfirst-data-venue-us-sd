@@ -2,13 +2,14 @@
   "id": 387177913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.764726,43.520016,-96.764726,43.520016",
     "geom:latitude":43.520016,
     "geom:longitude":-96.764726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 S Ridgeview Way",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387177913,
-    "wof:lastmodified":1449059919,
+    "wof:lastmodified":1467082763,
     "wof:name":"Bluffs Clubhouse",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.764726,43.520016,-96.764726,43.520016],
+  "bbox": [
+    -96.764726,
+    43.520016,
+    -96.764726,
+    43.520016
+],
   "geometry": {"coordinates":[-96.764726,43.520016],"type":"Point"}
 }

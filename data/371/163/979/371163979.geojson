@@ -2,13 +2,14 @@
   "id": 371163979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10877,44.900709,-97.10877,44.900709",
     "geom:latitude":44.900709,
     "geom:longitude":-97.10877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 1st Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371163979,
-    "wof:lastmodified":1449050118,
+    "wof:lastmodified":1467082673,
     "wof:name":"Human Service Agcy Care Cnnctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-97.10877,44.900709,-97.10877,44.900709],
-  "geometry": {"coordinates":[-97.10877,44.900709],"type":"Point"}
+  "bbox": [
+    -97.10877,
+    44.900709,
+    -97.10877,
+    44.900709
+],
+  "geometry": {"coordinates":[-97.10877000000001,44.900709],"type":"Point"}
 }

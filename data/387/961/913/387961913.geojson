@@ -2,13 +2,14 @@
   "id": 387961913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682622,44.746734,-96.682622,44.746734",
     "geom:latitude":44.746734,
     "geom:longitude":-96.682622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 3rd Ave S",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387961913,
-    "wof:lastmodified":1449059847,
+    "wof:lastmodified":1467082761,
     "wof:name":"Cook's Lumber & General Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.682622,44.746734,-96.682622,44.746734],
-  "geometry": {"coordinates":[-96.682622,44.746734],"type":"Point"}
+  "bbox": [
+    -96.682622,
+    44.746734,
+    -96.682622,
+    44.746734
+],
+  "geometry": {"coordinates":[-96.68262199999999,44.746734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371081213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.829436,44.575962,-103.829436,44.575962",
     "geom:latitude":44.575962,
     "geom:longitude":-103.829436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Mountain View Rd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371081213,
-    "wof:lastmodified":1449049330,
+    "wof:lastmodified":1467082662,
     "wof:name":"Sandford Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "logging"
     ]
 },
-  "bbox": [-103.829436,44.575962,-103.829436,44.575962],
+  "bbox": [
+    -103.829436,
+    44.575962,
+    -103.829436,
+    44.575962
+],
   "geometry": {"coordinates":[-103.829436,44.575962],"type":"Point"}
 }

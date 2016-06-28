@@ -2,13 +2,14 @@
   "id": 371188909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859624,44.492056,-103.859624,44.492056",
     "geom:latitude":44.492056,
     "geom:longitude":-103.859624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 N Main St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371188909,
-    "wof:lastmodified":1449049552,
+    "wof:lastmodified":1467082665,
     "wof:name":"Mini Mart 445",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-103.859624,44.492056,-103.859624,44.492056],
+  "bbox": [
+    -103.859624,
+    44.492056,
+    -103.859624,
+    44.492056
+],
   "geometry": {"coordinates":[-103.859624,44.492056],"type":"Point"}
 }

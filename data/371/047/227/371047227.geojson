@@ -2,13 +2,14 @@
   "id": 371047227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796135,43.512686,-96.796135,43.512686",
     "geom:latitude":43.512686,
     "geom:longitude":-96.796135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 W 45th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371047227,
-    "wof:lastmodified":1449049730,
+    "wof:lastmodified":1467082668,
     "wof:name":"Sam Assembly",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "music"
     ]
 },
-  "bbox": [-96.796135,43.512686,-96.796135,43.512686],
-  "geometry": {"coordinates":[-96.796135,43.512686],"type":"Point"}
+  "bbox": [
+    -96.796135,
+    43.512686,
+    -96.796135,
+    43.512686
+],
+  "geometry": {"coordinates":[-96.79613500000001,43.512686],"type":"Point"}
 }

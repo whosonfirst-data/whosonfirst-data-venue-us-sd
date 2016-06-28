@@ -2,13 +2,14 @@
   "id": 386982583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748706,43.521295,-96.748706,43.521295",
     "geom:latitude":43.521295,
     "geom:longitude":-96.748706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 S Hawthorne Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386982583,
-    "wof:lastmodified":1449028671,
+    "wof:lastmodified":1467082650,
     "wof:name":"East Central Grain Marketing",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-96.748706,43.521295,-96.748706,43.521295],
+  "bbox": [
+    -96.748706,
+    43.521295,
+    -96.748706,
+    43.521295
+],
   "geometry": {"coordinates":[-96.748706,43.521295],"type":"Point"}
 }

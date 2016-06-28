@@ -2,13 +2,14 @@
   "id": 387791321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.402433,44.051891,-103.402433,44.051891",
     "geom:latitude":44.051891,
     "geom:longitude":-103.402433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23101 Triangle Trl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387791321,
-    "wof:lastmodified":1449059024,
+    "wof:lastmodified":1467082745,
     "wof:name":"Hisega Lodge",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-103.402433,44.051891,-103.402433,44.051891],
+  "bbox": [
+    -103.402433,
+    44.051891,
+    -103.402433,
+    44.051891
+],
   "geometry": {"coordinates":[-103.402433,44.051891],"type":"Point"}
 }

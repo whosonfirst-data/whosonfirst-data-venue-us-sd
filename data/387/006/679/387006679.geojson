@@ -2,13 +2,14 @@
   "id": 387006679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.473221,43.433571,-103.473221,43.433571",
     "geom:latitude":43.433571,
     "geom:longitude":-103.473221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 N 5th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387006679,
-    "wof:lastmodified":1449059178,
+    "wof:lastmodified":1467082748,
     "wof:name":"Hair Hutch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.473221,43.433571,-103.473221,43.433571],
+  "bbox": [
+    -103.473221,
+    43.433571,
+    -103.473221,
+    43.433571
+],
   "geometry": {"coordinates":[-103.473221,43.433571],"type":"Point"}
 }

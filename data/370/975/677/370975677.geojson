@@ -2,13 +2,14 @@
   "id": 370975677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.580331,43.574299,-96.580331,43.574299",
     "geom:latitude":43.574299,
     "geom:longitude":-96.580331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2012 S Splitrock Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370975677,
-    "wof:lastmodified":1449032001,
+    "wof:lastmodified":1467082657,
     "wof:name":"Husets Speedway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.580331,43.574299,-96.580331,43.574299],
+  "bbox": [
+    -96.580331,
+    43.574299,
+    -96.580331,
+    43.574299
+],
   "geometry": {"coordinates":[-96.580331,43.574299],"type":"Point"}
 }

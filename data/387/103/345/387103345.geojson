@@ -2,13 +2,14 @@
   "id": 387103345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.110424,44.89009,-97.110424,44.89009",
     "geom:latitude":44.89009,
     "geom:longitude":-97.110424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387103345,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1467082734,
     "wof:name":"Mint Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-97.110424,44.89009,-97.110424,44.89009],
-  "geometry": {"coordinates":[-97.110424,44.89009],"type":"Point"}
+  "bbox": [
+    -97.110424,
+    44.89009,
+    -97.110424,
+    44.89009
+],
+  "geometry": {"coordinates":[-97.11042399999999,44.89009],"type":"Point"}
 }

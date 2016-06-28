@@ -2,13 +2,14 @@
   "id": 387499271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.717485,43.388078,-96.717485,43.388078",
     "geom:latitude":43.388078,
     "geom:longitude":-96.717485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47449 276th St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387499271,
-    "wof:lastmodified":1449056826,
+    "wof:lastmodified":1467082701,
     "wof:name":"Leslie Schuer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.717485,43.388078,-96.717485,43.388078],
+  "bbox": [
+    -96.717485,
+    43.388078,
+    -96.717485,
+    43.388078
+],
   "geometry": {"coordinates":[-96.717485,43.388078],"type":"Point"}
 }

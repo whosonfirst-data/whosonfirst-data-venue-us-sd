@@ -2,13 +2,14 @@
   "id": 387189539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738323,44.878701,-97.738323,44.878701",
     "geom:latitude":44.878701,
     "geom:longitude":-97.738323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Idaho St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387189539,
-    "wof:lastmodified":1449058800,
+    "wof:lastmodified":1467082741,
     "wof:name":"St Michael's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.738323,44.878701,-97.738323,44.878701],
-  "geometry": {"coordinates":[-97.738323,44.878701],"type":"Point"}
+  "bbox": [
+    -97.738323,
+    44.878701,
+    -97.738323,
+    44.878701
+],
+  "geometry": {"coordinates":[-97.73832299999999,44.878701],"type":"Point"}
 }

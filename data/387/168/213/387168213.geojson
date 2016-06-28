@@ -2,13 +2,14 @@
   "id": 387168213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712483,43.515951,-96.712483,43.515951",
     "geom:latitude":43.515951,
     "geom:longitude":-96.712483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387168213,
-    "wof:lastmodified":1449058091,
+    "wof:lastmodified":1467082727,
     "wof:name":"Sonstegard Foods Company",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "processed"
     ]
 },
-  "bbox": [-96.712483,43.515951,-96.712483,43.515951],
-  "geometry": {"coordinates":[-96.712483,43.515951],"type":"Point"}
+  "bbox": [
+    -96.712483,
+    43.515951,
+    -96.712483,
+    43.515951
+],
+  "geometry": {"coordinates":[-96.71248300000001,43.515951],"type":"Point"}
 }

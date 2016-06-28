@@ -2,13 +2,14 @@
   "id": 387684809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.210749,44.078048,-103.210749,44.078048",
     "geom:latitude":44.078048,
     "geom:longitude":-103.210749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387684809,
-    "wof:lastmodified":1449057050,
+    "wof:lastmodified":1467082705,
     "wof:name":"Hills Red-E-Mix Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-103.210749,44.078048,-103.210749,44.078048],
-  "geometry": {"coordinates":[-103.210749,44.078048],"type":"Point"}
+  "bbox": [
+    -103.210749,
+    44.078048,
+    -103.210749,
+    44.078048
+],
+  "geometry": {"coordinates":[-103.21074900000001,44.078048],"type":"Point"}
 }

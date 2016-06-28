@@ -2,13 +2,14 @@
   "id": 387025307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.851705,43.386154,-98.851705,43.386154",
     "geom:latitude":43.386154,
     "geom:longitude":-98.851705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W 5th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387025307,
-    "wof:lastmodified":1449059297,
+    "wof:lastmodified":1467082751,
     "wof:name":"St Ann's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.851705,43.386154,-98.851705,43.386154],
+  "bbox": [
+    -98.851705,
+    43.386154,
+    -98.851705,
+    43.386154
+],
   "geometry": {"coordinates":[-98.851705,43.386154],"type":"Point"}
 }

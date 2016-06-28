@@ -2,13 +2,14 @@
   "id": 371078909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765176,43.508271,-96.765176,43.508271",
     "geom:latitude":43.508271,
     "geom:longitude":-96.765176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 S Carnegie Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":371078909,
-    "wof:lastmodified":1449049968,
+    "wof:lastmodified":1467082671,
     "wof:name":"Great Plains Psychological Svc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "family"
     ]
 },
-  "bbox": [-96.765176,43.508271,-96.765176,43.508271],
+  "bbox": [
+    -96.765176,
+    43.508271,
+    -96.765176,
+    43.508271
+],
   "geometry": {"coordinates":[-96.765176,43.508271],"type":"Point"}
 }

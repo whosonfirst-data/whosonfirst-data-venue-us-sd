@@ -2,13 +2,14 @@
   "id": 371023169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.287893,44.065284,-103.287893,44.065284",
     "geom:latitude":44.065284,
     "geom:longitude":-103.287893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Canyon Lake Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371023169,
-    "wof:lastmodified":1449050036,
+    "wof:lastmodified":1467082672,
     "wof:name":"Creative Hair Designs",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.287893,44.065284,-103.287893,44.065284],
+  "bbox": [
+    -103.287893,
+    44.065284,
+    -103.287893,
+    44.065284
+],
   "geometry": {"coordinates":[-103.287893,44.065284],"type":"Point"}
 }

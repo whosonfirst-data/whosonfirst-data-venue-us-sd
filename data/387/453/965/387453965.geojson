@@ -2,13 +2,14 @@
   "id": 387453965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.212524,44.364092,-98.212524,44.364092",
     "geom:latitude":44.364092,
     "geom:longitude":-98.212524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Kansas Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387453965,
-    "wof:lastmodified":1449058966,
+    "wof:lastmodified":1467082744,
     "wof:name":"Huron-Telco Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chartered"
     ]
 },
-  "bbox": [-98.212524,44.364092,-98.212524,44.364092],
+  "bbox": [
+    -98.212524,
+    44.364092,
+    -98.212524,
+    44.364092
+],
   "geometry": {"coordinates":[-98.212524,44.364092],"type":"Point"}
 }

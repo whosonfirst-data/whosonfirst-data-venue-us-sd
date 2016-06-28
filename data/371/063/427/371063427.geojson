@@ -2,13 +2,14 @@
   "id": 371063427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480166,43.435431,-103.480166,43.435431",
     "geom:latitude":43.435431,
     "geom:longitude":-103.480166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 National Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371063427,
-    "wof:lastmodified":1449049113,
+    "wof:lastmodified":1467082659,
     "wof:name":"Golden West Telecommunication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-103.480166,43.435431,-103.480166,43.435431],
+  "bbox": [
+    -103.480166,
+    43.435431,
+    -103.480166,
+    43.435431
+],
   "geometry": {"coordinates":[-103.480166,43.435431],"type":"Point"}
 }

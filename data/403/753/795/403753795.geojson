@@ -2,13 +2,14 @@
   "id": 403753795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791257,43.463259,-96.791257,43.463259",
     "geom:latitude":43.463259,
     "geom:longitude":-96.791257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27071 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403753795,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1467082675,
     "wof:name":"Premiergarage-Siouxempire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-96.791257,43.463259,-96.791257,43.463259],
+  "bbox": [
+    -96.791257,
+    43.463259,
+    -96.791257,
+    43.463259
+],
   "geometry": {"coordinates":[-96.791257,43.463259],"type":"Point"}
 }

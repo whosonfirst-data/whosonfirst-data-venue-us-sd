@@ -2,13 +2,14 @@
   "id": 387774271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.647264,45.217317,-96.647264,45.217317",
     "geom:latitude":45.217317,
     "geom:longitude":-96.647264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Friendship Cir",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387774271,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1467082716,
     "wof:name":"Friendship Circle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.647264,45.217317,-96.647264,45.217317],
-  "geometry": {"coordinates":[-96.647264,45.217317],"type":"Point"}
+  "bbox": [
+    -96.647264,
+    45.217317,
+    -96.647264,
+    45.217317
+],
+  "geometry": {"coordinates":[-96.64726400000001,45.217317],"type":"Point"}
 }

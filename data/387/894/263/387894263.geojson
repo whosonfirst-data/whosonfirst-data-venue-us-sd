@@ -2,13 +2,14 @@
   "id": 387894263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742566,43.539099,-96.742566,43.539099",
     "geom:latitude":43.539099,
     "geom:longitude":-96.742566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 S Euclid Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387894263,
-    "wof:lastmodified":1449057677,
+    "wof:lastmodified":1467082718,
     "wof:name":"Als Custom Stock",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-96.742566,43.539099,-96.742566,43.539099],
+  "bbox": [
+    -96.742566,
+    43.539099,
+    -96.742566,
+    43.539099
+],
   "geometry": {"coordinates":[-96.742566,43.539099],"type":"Point"}
 }

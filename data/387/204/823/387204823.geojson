@@ -2,13 +2,14 @@
   "id": 387204823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.441753,43.918539,-103.441753,43.918539",
     "geom:latitude":43.918539,
     "geom:longitude":-103.441753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24030 Hwy 16A",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387204823,
-    "wof:lastmodified":1449060028,
+    "wof:lastmodified":1467082765,
     "wof:name":"Keystone Stables",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-103.441753,43.918539,-103.441753,43.918539],
-  "geometry": {"coordinates":[-103.441753,43.918539],"type":"Point"}
+  "bbox": [
+    -103.441753,
+    43.918539,
+    -103.441753,
+    43.918539
+],
+  "geometry": {"coordinates":[-103.44175300000001,43.918539],"type":"Point"}
 }

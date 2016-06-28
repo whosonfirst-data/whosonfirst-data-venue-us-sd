@@ -2,13 +2,14 @@
   "id": 403702485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.995055,43.398375,-97.995055,43.398375",
     "geom:latitude":43.398375,
     "geom:longitude":-97.995055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Plum St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403702485,
-    "wof:lastmodified":1449055302,
+    "wof:lastmodified":1467082680,
     "wof:name":"US Agricultural Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-97.995055,43.398375,-97.995055,43.398375],
-  "geometry": {"coordinates":[-97.995055,43.398375],"type":"Point"}
+  "bbox": [
+    -97.995055,
+    43.398375,
+    -97.995055,
+    43.398375
+],
+  "geometry": {"coordinates":[-97.99505499999999,43.398375],"type":"Point"}
 }

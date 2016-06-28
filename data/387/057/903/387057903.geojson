@@ -2,13 +2,14 @@
   "id": 387057903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.499661,45.459169,-98.499661,45.459169",
     "geom:latitude":45.459169,
     "geom:longitude":-98.499661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 S 8th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387057903,
-    "wof:lastmodified":1449057985,
+    "wof:lastmodified":1467082725,
     "wof:name":"Dakota Gold & Ceramics",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-98.499661,45.459169,-98.499661,45.459169],
+  "bbox": [
+    -98.499661,
+    45.459169,
+    -98.499661,
+    45.459169
+],
   "geometry": {"coordinates":[-98.499661,45.459169],"type":"Point"}
 }

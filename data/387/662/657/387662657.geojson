@@ -2,13 +2,14 @@
   "id": 387662657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766643,43.558483,-96.766643,43.558483",
     "geom:latitude":43.558483,
     "geom:longitude":-96.766643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 W Madison St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387662657,
-    "wof:lastmodified":1449058676,
+    "wof:lastmodified":1467082738,
     "wof:name":"Concrete Materials",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "concrete"
     ]
 },
-  "bbox": [-96.766643,43.558483,-96.766643,43.558483],
+  "bbox": [
+    -96.766643,
+    43.558483,
+    -96.766643,
+    43.558483
+],
   "geometry": {"coordinates":[-96.766643,43.558483],"type":"Point"}
 }

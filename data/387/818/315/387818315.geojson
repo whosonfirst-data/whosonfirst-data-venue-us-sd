@@ -2,13 +2,14 @@
   "id": 387818315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598616,43.766254,-103.598616,43.766254",
     "geom:latitude":43.766254,
     "geom:longitude":-103.598616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 S 6th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387818315,
-    "wof:lastmodified":1449057949,
+    "wof:lastmodified":1467082724,
     "wof:name":"Trailside Bikes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.598616,43.766254,-103.598616,43.766254],
-  "geometry": {"coordinates":[-103.598616,43.766254],"type":"Point"}
+  "bbox": [
+    -103.598616,
+    43.766254,
+    -103.598616,
+    43.766254
+],
+  "geometry": {"coordinates":[-103.59861600000001,43.766254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387711669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.483309,42.524877,-96.483309,42.524877",
     "geom:latitude":42.524877,
     "geom:longitude":-96.483309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 River Dr",
     "sg:city":"North Sioux City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387711669,
-    "wof:lastmodified":1449059225,
+    "wof:lastmodified":1467082749,
     "wof:name":"My Choice Wellness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.483309,42.524877,-96.483309,42.524877],
-  "geometry": {"coordinates":[-96.483309,42.524877],"type":"Point"}
+  "bbox": [
+    -96.483309,
+    42.524877,
+    -96.483309,
+    42.524877
+],
+  "geometry": {"coordinates":[-96.48330900000001,42.524877],"type":"Point"}
 }

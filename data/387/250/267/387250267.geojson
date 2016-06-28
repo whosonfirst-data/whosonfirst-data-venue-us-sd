@@ -2,13 +2,14 @@
   "id": 387250267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.779405,44.355748,-103.779405,44.355748",
     "geom:latitude":44.355748,
     "geom:longitude":-103.779405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Dunmire Dr",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387250267,
-    "wof:lastmodified":1449058276,
+    "wof:lastmodified":1467082730,
     "wof:name":"Lead-Deadwood Funeral Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-103.779405,44.355748,-103.779405,44.355748],
+  "bbox": [
+    -103.779405,
+    44.355748,
+    -103.779405,
+    44.355748
+],
   "geometry": {"coordinates":[-103.779405,44.355748],"type":"Point"}
 }

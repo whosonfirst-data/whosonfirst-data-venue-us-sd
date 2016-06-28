@@ -2,13 +2,14 @@
   "id": 387931827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.599954,43.474149,-96.599954,43.474149",
     "geom:latitude":43.474149,
     "geom:longitude":-96.599954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48049 E Snowbird Creek",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387931827,
-    "wof:lastmodified":1449059576,
+    "wof:lastmodified":1467082756,
     "wof:name":"D V B Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-96.599954,43.474149,-96.599954,43.474149],
+  "bbox": [
+    -96.599954,
+    43.474149,
+    -96.599954,
+    43.474149
+],
   "geometry": {"coordinates":[-96.599954,43.474149],"type":"Point"}
 }

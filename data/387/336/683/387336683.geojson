@@ -2,13 +2,14 @@
   "id": 387336683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.220086,44.082257,-103.220086,44.082257",
     "geom:latitude":44.082257,
     "geom:longitude":-103.220086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387336683,
-    "wof:lastmodified":1449056037,
+    "wof:lastmodified":1467082685,
     "wof:name":"Unpainted Furniture",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "unpainted"
     ]
 },
-  "bbox": [-103.220086,44.082257,-103.220086,44.082257],
-  "geometry": {"coordinates":[-103.220086,44.082257],"type":"Point"}
+  "bbox": [
+    -103.220086,
+    44.082257,
+    -103.220086,
+    44.082257
+],
+  "geometry": {"coordinates":[-103.22008599999999,44.082257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387765863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.415423,44.159213,-103.415423,44.159213",
     "geom:latitude":44.159213,
     "geom:longitude":-103.415423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12044 Rolling Hills Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387765863,
-    "wof:lastmodified":1449058302,
+    "wof:lastmodified":1467082731,
     "wof:name":"Executive Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-103.415423,44.159213,-103.415423,44.159213],
+  "bbox": [
+    -103.415423,
+    44.159213,
+    -103.415423,
+    44.159213
+],
   "geometry": {"coordinates":[-103.415423,44.159213],"type":"Point"}
 }

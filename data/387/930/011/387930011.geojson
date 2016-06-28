@@ -2,13 +2,14 @@
   "id": 387930011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493587,45.459118,-98.493587,45.459118",
     "geom:latitude":45.459118,
     "geom:longitude":-98.493587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387930011,
-    "wof:lastmodified":1449057313,
+    "wof:lastmodified":1467082711,
     "wof:name":"Planet Hair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.493587,45.459118,-98.493587,45.459118],
-  "geometry": {"coordinates":[-98.493587,45.459118],"type":"Point"}
+  "bbox": [
+    -98.493587,
+    45.459118,
+    -98.493587,
+    45.459118
+],
+  "geometry": {"coordinates":[-98.49358700000001,45.459118],"type":"Point"}
 }

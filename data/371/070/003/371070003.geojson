@@ -2,13 +2,14 @@
   "id": 371070003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73129,43.52941,-96.73129,43.52941",
     "geom:latitude":43.52941,
     "geom:longitude":-96.73129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371070003,
-    "wof:lastmodified":1449049517,
+    "wof:lastmodified":1467082665,
     "wof:name":"Great Plains Eye Clinic Ltd",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-96.73129,43.52941,-96.73129,43.52941],
+  "bbox": [
+    -96.73129,
+    43.52941,
+    -96.73129,
+    43.52941
+],
   "geometry": {"coordinates":[-96.73129,43.52941],"type":"Point"}
 }

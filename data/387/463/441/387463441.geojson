@@ -2,13 +2,14 @@
   "id": 387463441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.865902,44.499034,-103.865902,44.499034",
     "geom:latitude":44.499034,
     "geom:longitude":-103.865902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Rushmore St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387463441,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1467082740,
     "wof:name":"Spearfish Gymnastics Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gymnastic"
     ]
 },
-  "bbox": [-103.865902,44.499034,-103.865902,44.499034],
-  "geometry": {"coordinates":[-103.865902,44.499034],"type":"Point"}
+  "bbox": [
+    -103.865902,
+    44.499034,
+    -103.865902,
+    44.499034
+],
+  "geometry": {"coordinates":[-103.86590200000001,44.499034],"type":"Point"}
 }

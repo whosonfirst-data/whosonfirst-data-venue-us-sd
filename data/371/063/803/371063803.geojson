@@ -2,13 +2,14 @@
   "id": 371063803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.308314,44.877772,-98.308314,44.877772",
     "geom:latitude":44.877772,
     "geom:longitude":-98.308314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Monroe Ave",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371063803,
-    "wof:lastmodified":1449049117,
+    "wof:lastmodified":1467082659,
     "wof:name":"G & B Cattle Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.308314,44.877772,-98.308314,44.877772],
+  "bbox": [
+    -98.308314,
+    44.877772,
+    -98.308314,
+    44.877772
+],
   "geometry": {"coordinates":[-98.308314,44.877772],"type":"Point"}
 }

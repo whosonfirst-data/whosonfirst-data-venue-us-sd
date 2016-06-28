@@ -2,13 +2,14 @@
   "id": 403778523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.734345,43.173603,-101.734345,43.173603",
     "geom:latitude":43.173603,
     "geom:longitude":-101.734345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 School St",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403778523,
-    "wof:lastmodified":1449054651,
+    "wof:lastmodified":1467082674,
     "wof:name":"Martin City Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-101.734345,43.173603,-101.734345,43.173603],
+  "bbox": [
+    -101.734345,
+    43.173603,
+    -101.734345,
+    43.173603
+],
   "geometry": {"coordinates":[-101.734345,43.173603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387277629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.472167,43.434608,-103.472167,43.434608",
     "geom:latitude":43.434608,
     "geom:longitude":-103.472167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N 4th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387277629,
-    "wof:lastmodified":1449056542,
+    "wof:lastmodified":1467082695,
     "wof:name":"Bennett's Appliance Svc & Rpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-103.472167,43.434608,-103.472167,43.434608],
+  "bbox": [
+    -103.472167,
+    43.434608,
+    -103.472167,
+    43.434608
+],
   "geometry": {"coordinates":[-103.472167,43.434608],"type":"Point"}
 }

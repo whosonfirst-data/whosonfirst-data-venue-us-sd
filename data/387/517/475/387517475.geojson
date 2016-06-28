@@ -2,13 +2,14 @@
   "id": 387517475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08163,43.171363,-97.08163,43.171363",
     "geom:latitude":43.171363,
     "geom:longitude":-97.08163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Main St",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387517475,
-    "wof:lastmodified":1449058278,
+    "wof:lastmodified":1467082730,
     "wof:name":"Nielsen Crop Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.08163,43.171363,-97.08163,43.171363],
+  "bbox": [
+    -97.08163,
+    43.171363,
+    -97.08163,
+    43.171363
+],
   "geometry": {"coordinates":[-97.08163,43.171363],"type":"Point"}
 }

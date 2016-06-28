@@ -2,13 +2,14 @@
   "id": 371053067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.287871,45.900158,-100.287871,45.900158",
     "geom:latitude":45.900158,
     "geom:longitude":-100.287871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 B Ave",
     "sg:city":"Pollock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371053067,
-    "wof:lastmodified":1449049231,
+    "wof:lastmodified":1467082661,
     "wof:name":"Campbell County Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-100.287871,45.900158,-100.287871,45.900158],
+  "bbox": [
+    -100.287871,
+    45.900158,
+    -100.287871,
+    45.900158
+],
   "geometry": {"coordinates":[-100.287871,45.900158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387291401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480876,45.468791,-98.480876,45.468791",
     "geom:latitude":45.468791,
     "geom:longitude":-98.480876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Arch St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387291401,
-    "wof:lastmodified":1449057273,
+    "wof:lastmodified":1467082710,
     "wof:name":"Saint Marys Catholic Church",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.480876,45.468791,-98.480876,45.468791],
-  "geometry": {"coordinates":[-98.480876,45.468791],"type":"Point"}
+  "bbox": [
+    -98.480876,
+    45.468791,
+    -98.480876,
+    45.468791
+],
+  "geometry": {"coordinates":[-98.48087599999999,45.468791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387571375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211678,44.084861,-103.211678,44.084861",
     "geom:latitude":44.084861,
     "geom:longitude":-103.211678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 E New York St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387571375,
-    "wof:lastmodified":1449058705,
+    "wof:lastmodified":1467082739,
     "wof:name":"Classic Cookie",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-103.211678,44.084861,-103.211678,44.084861],
-  "geometry": {"coordinates":[-103.211678,44.084861],"type":"Point"}
+  "bbox": [
+    -103.211678,
+    44.084861,
+    -103.211678,
+    44.084861
+],
+  "geometry": {"coordinates":[-103.21167800000001,44.084861],"type":"Point"}
 }

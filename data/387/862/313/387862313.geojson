@@ -2,13 +2,14 @@
   "id": 387862313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.46824,44.412079,-103.46824,44.412079",
     "geom:latitude":44.412079,
     "geom:longitude":-103.46824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Comanche Rd",
     "sg:city":"Fort Meade",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387862313,
-    "wof:lastmodified":1449060007,
+    "wof:lastmodified":1467082765,
     "wof:name":"Black Hills Healthcare System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [-103.46824,44.412079,-103.46824,44.412079],
-  "geometry": {"coordinates":[-103.46824,44.412079],"type":"Point"}
+  "bbox": [
+    -103.46824,
+    44.412079,
+    -103.46824,
+    44.412079
+],
+  "geometry": {"coordinates":[-103.46823999999999,44.412079],"type":"Point"}
 }

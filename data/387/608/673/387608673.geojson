@@ -2,13 +2,14 @@
   "id": 387608673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944167,43.630379,-96.944167,43.630379",
     "geom:latitude":43.630379,
     "geom:longitude":-96.944167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E 9th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387608673,
-    "wof:lastmodified":1449057735,
+    "wof:lastmodified":1467082719,
     "wof:name":"A2Z Karaoke",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karaoke"
     ]
 },
-  "bbox": [-96.944167,43.630379,-96.944167,43.630379],
-  "geometry": {"coordinates":[-96.944167,43.630379],"type":"Point"}
+  "bbox": [
+    -96.944167,
+    43.630379,
+    -96.944167,
+    43.630379
+],
+  "geometry": {"coordinates":[-96.94416699999999,43.630379],"type":"Point"}
 }

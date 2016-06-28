@@ -2,13 +2,14 @@
   "id": 387745423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.466248,45.459284,-98.466248,45.459284",
     "geom:latitude":45.459284,
     "geom:longitude":-98.466248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387745423,
-    "wof:lastmodified":1449059748,
+    "wof:lastmodified":1467082760,
     "wof:name":"Center For Advanced Dentistry",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.466248,45.459284,-98.466248,45.459284],
-  "geometry": {"coordinates":[-98.466248,45.459284],"type":"Point"}
+  "bbox": [
+    -98.466248,
+    45.459284,
+    -98.466248,
+    45.459284
+],
+  "geometry": {"coordinates":[-98.46624799999999,45.459284],"type":"Point"}
 }

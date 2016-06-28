@@ -2,13 +2,14 @@
   "id": 387698437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.692908,43.647423,-96.692908,43.647423",
     "geom:latitude":43.647423,
     "geom:longitude":-96.692908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47597 Partridge St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387698437,
-    "wof:lastmodified":1449059687,
+    "wof:lastmodified":1467082758,
     "wof:name":"Schroer Bolt",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fastener"
     ]
 },
-  "bbox": [-96.692908,43.647423,-96.692908,43.647423],
+  "bbox": [
+    -96.692908,
+    43.647423,
+    -96.692908,
+    43.647423
+],
   "geometry": {"coordinates":[-96.692908,43.647423],"type":"Point"}
 }

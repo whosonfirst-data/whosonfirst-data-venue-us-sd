@@ -2,13 +2,14 @@
   "id": 387004337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.156047,45.8825,-98.156047,45.8825",
     "geom:latitude":45.8825,
     "geom:longitude":-98.156047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Tolstoy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387004337,
-    "wof:lastmodified":1449057488,
+    "wof:lastmodified":1467082714,
     "wof:name":"Tolstoy City Fire",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.156047,45.8825,-98.156047,45.8825],
+  "bbox": [
+    -98.156047,
+    45.8825,
+    -98.156047,
+    45.8825
+],
   "geometry": {"coordinates":[-98.156047,45.8825],"type":"Point"}
 }

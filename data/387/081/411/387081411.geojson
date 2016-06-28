@@ -2,13 +2,14 @@
   "id": 387081411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.053129,44.890907,-97.053129,44.890907",
     "geom:latitude":44.890907,
     "geom:longitude":-97.053129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 39th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387081411,
-    "wof:lastmodified":1449057279,
+    "wof:lastmodified":1467082710,
     "wof:name":"Prompt Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.053129,44.890907,-97.053129,44.890907],
+  "bbox": [
+    -97.053129,
+    44.890907,
+    -97.053129,
+    44.890907
+],
   "geometry": {"coordinates":[-97.053129,44.890907],"type":"Point"}
 }

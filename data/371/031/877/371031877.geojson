@@ -2,13 +2,14 @@
   "id": 371031877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715409,43.824284,-96.715409,43.824284",
     "geom:latitude":43.824284,
     "geom:longitude":-96.715409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E 5th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371031877,
-    "wof:lastmodified":1449049410,
+    "wof:lastmodified":1467082663,
     "wof:name":"Schultz Darlene Day Care",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.715409,43.824284,-96.715409,43.824284],
-  "geometry": {"coordinates":[-96.715409,43.824284],"type":"Point"}
+  "bbox": [
+    -96.715409,
+    43.824284,
+    -96.715409,
+    43.824284
+],
+  "geometry": {"coordinates":[-96.71540899999999,43.824284],"type":"Point"}
 }

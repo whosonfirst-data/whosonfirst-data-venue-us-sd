@@ -2,13 +2,14 @@
   "id": 387237869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711128,43.500702,-96.711128,43.500702",
     "geom:latitude":43.500702,
     "geom:longitude":-96.711128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 S Deerfield Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387237869,
-    "wof:lastmodified":1449056212,
+    "wof:lastmodified":1467082689,
     "wof:name":"First Cash and Exchange",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.711128,43.500702,-96.711128,43.500702],
+  "bbox": [
+    -96.711128,
+    43.500702,
+    -96.711128,
+    43.500702
+],
   "geometry": {"coordinates":[-96.711128,43.500702],"type":"Point"}
 }

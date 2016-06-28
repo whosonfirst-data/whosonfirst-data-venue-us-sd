@@ -2,13 +2,14 @@
   "id": 387239767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739787,43.552503,-96.739787,43.552503",
     "geom:latitude":43.552503,
     "geom:longitude":-96.739787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Menlo Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387239767,
-    "wof:lastmodified":1449056476,
+    "wof:lastmodified":1467082694,
     "wof:name":"Meadowbrook Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.739787,43.552503,-96.739787,43.552503],
-  "geometry": {"coordinates":[-96.739787,43.552503],"type":"Point"}
+  "bbox": [
+    -96.739787,
+    43.552503,
+    -96.739787,
+    43.552503
+],
+  "geometry": {"coordinates":[-96.73978700000001,43.552503],"type":"Point"}
 }

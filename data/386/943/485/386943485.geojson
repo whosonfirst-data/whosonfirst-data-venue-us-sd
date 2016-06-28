@@ -2,13 +2,14 @@
   "id": 386943485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520036,45.328609,-97.520036,45.328609",
     "geom:latitude":45.328609,
     "geom:longitude":-97.520036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Main St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386943485,
-    "wof:lastmodified":1449028694,
+    "wof:lastmodified":1467082650,
     "wof:name":"Als Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.520036,45.328609,-97.520036,45.328609],
+  "bbox": [
+    -97.520036,
+    45.328609,
+    -97.520036,
+    45.328609
+],
   "geometry": {"coordinates":[-97.520036,45.328609],"type":"Point"}
 }

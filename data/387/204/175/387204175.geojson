@@ -2,13 +2,14 @@
   "id": 387204175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249677,44.078582,-103.249677,44.078582",
     "geom:latitude":44.078582,
     "geom:longitude":-103.249677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387204175,
-    "wof:lastmodified":1449060025,
+    "wof:lastmodified":1467082765,
     "wof:name":"Black Hills Sleep Center LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "linen"
     ]
 },
-  "bbox": [-103.249677,44.078582,-103.249677,44.078582],
-  "geometry": {"coordinates":[-103.249677,44.078582],"type":"Point"}
+  "bbox": [
+    -103.249677,
+    44.078582,
+    -103.249677,
+    44.078582
+],
+  "geometry": {"coordinates":[-103.24967700000001,44.078582],"type":"Point"}
 }

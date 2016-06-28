@@ -2,13 +2,14 @@
   "id": 403748521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.663197,43.601742,-99.663197,43.601742",
     "geom:latitude":43.601742,
     "geom:longitude":-99.663197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26152 325th Ave",
     "sg:city":"Hamill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403748521,
-    "wof:lastmodified":1449055622,
+    "wof:lastmodified":1467082682,
     "wof:name":"Joe Fott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.663197,43.601742,-99.663197,43.601742],
+  "bbox": [
+    -99.663197,
+    43.601742,
+    -99.663197,
+    43.601742
+],
   "geometry": {"coordinates":[-99.663197,43.601742],"type":"Point"}
 }

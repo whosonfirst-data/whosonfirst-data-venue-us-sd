@@ -2,13 +2,14 @@
   "id": 403820723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683974,44.754809,-96.683974,44.754809",
     "geom:latitude":44.754809,
     "geom:longitude":-96.683974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 5th St W",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403820723,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1467082680,
     "wof:name":"Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.683974,44.754809,-96.683974,44.754809],
-  "geometry": {"coordinates":[-96.683974,44.754809],"type":"Point"}
+  "bbox": [
+    -96.683974,
+    44.754809,
+    -96.683974,
+    44.754809
+],
+  "geometry": {"coordinates":[-96.68397400000001,44.754809],"type":"Point"}
 }

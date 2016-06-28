@@ -2,13 +2,14 @@
   "id": 371044021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75105,43.519443,-96.75105,43.519443",
     "geom:latitude":43.519443,
     "geom:longitude":-96.75105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371044021,
-    "wof:lastmodified":1449049579,
+    "wof:lastmodified":1467082666,
     "wof:name":"Robert J Mohr CPA",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.75105,43.519443,-96.75105,43.519443],
-  "geometry": {"coordinates":[-96.75105,43.519443],"type":"Point"}
+  "bbox": [
+    -96.75105,
+    43.519443,
+    -96.75105,
+    43.519443
+],
+  "geometry": {"coordinates":[-96.75105000000001,43.519443],"type":"Point"}
 }

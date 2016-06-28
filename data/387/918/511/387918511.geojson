@@ -2,13 +2,14 @@
   "id": 387918511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114351,44.891808,-97.114351,44.891808",
     "geom:latitude":44.891808,
     "geom:longitude":-97.114351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 7th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387918511,
-    "wof:lastmodified":1449058701,
+    "wof:lastmodified":1467082739,
     "wof:name":"Boettecher Window & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-97.114351,44.891808,-97.114351,44.891808],
+  "bbox": [
+    -97.114351,
+    44.891808,
+    -97.114351,
+    44.891808
+],
   "geometry": {"coordinates":[-97.114351,44.891808],"type":"Point"}
 }

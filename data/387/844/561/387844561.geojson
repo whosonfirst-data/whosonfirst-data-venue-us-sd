@@ -2,13 +2,14 @@
   "id": 387844561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191698,44.059429,-103.191698,44.059429",
     "geom:latitude":44.059429,
     "geom:longitude":-103.191698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 S Hwy 79",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387844561,
-    "wof:lastmodified":1449057729,
+    "wof:lastmodified":1467082719,
     "wof:name":"Murphy Sheds",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "utility"
     ]
 },
-  "bbox": [-103.191698,44.059429,-103.191698,44.059429],
+  "bbox": [
+    -103.191698,
+    44.059429,
+    -103.191698,
+    44.059429
+],
   "geometry": {"coordinates":[-103.191698,44.059429],"type":"Point"}
 }

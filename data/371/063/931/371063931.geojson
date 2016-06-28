@@ -2,13 +2,14 @@
   "id": 371063931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.043614,43.60159,-97.043614,43.60159",
     "geom:latitude":43.60159,
     "geom:longitude":-97.043614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45779 261st St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371063931,
-    "wof:lastmodified":1449049115,
+    "wof:lastmodified":1467082659,
     "wof:name":"Ed Begeman",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.043614,43.60159,-97.043614,43.60159],
-  "geometry": {"coordinates":[-97.043614,43.60159],"type":"Point"}
+  "bbox": [
+    -97.043614,
+    43.60159,
+    -97.043614,
+    43.60159
+],
+  "geometry": {"coordinates":[-97.04361400000001,43.60159],"type":"Point"}
 }

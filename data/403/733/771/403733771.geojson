@@ -2,13 +2,14 @@
   "id": 403733771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.347514,43.084661,-98.347514,43.084661",
     "geom:latitude":43.084661,
     "geom:longitude":-98.347514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29680 392nd Ave",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403733771,
-    "wof:lastmodified":1449054805,
+    "wof:lastmodified":1467082676,
     "wof:name":"Wayne Bergin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.347514,43.084661,-98.347514,43.084661],
+  "bbox": [
+    -98.347514,
+    43.084661,
+    -98.347514,
+    43.084661
+],
   "geometry": {"coordinates":[-98.347514,43.084661],"type":"Point"}
 }

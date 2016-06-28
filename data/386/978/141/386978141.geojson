@@ -2,13 +2,14 @@
   "id": 386978141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719042,43.152323,-97.719042,43.152323",
     "geom:latitude":43.152323,
     "geom:longitude":-97.719042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 2nd St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386978141,
-    "wof:lastmodified":1449028804,
+    "wof:lastmodified":1467082652,
     "wof:name":"B-J School Buses Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-97.719042,43.152323,-97.719042,43.152323],
+  "bbox": [
+    -97.719042,
+    43.152323,
+    -97.719042,
+    43.152323
+],
   "geometry": {"coordinates":[-97.719042,43.152323],"type":"Point"}
 }

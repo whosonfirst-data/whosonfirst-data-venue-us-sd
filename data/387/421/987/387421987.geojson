@@ -2,13 +2,14 @@
   "id": 387421987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46478,45.458886,-98.46478,45.458886",
     "geom:latitude":45.458886,
     "geom:longitude":-98.46478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 S Lawson St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387421987,
-    "wof:lastmodified":1449058524,
+    "wof:lastmodified":1467082735,
     "wof:name":"D Dosch Drywall",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.46478,45.458886,-98.46478,45.458886],
+  "bbox": [
+    -98.46478,
+    45.458886,
+    -98.46478,
+    45.458886
+],
   "geometry": {"coordinates":[-98.46478,45.458886],"type":"Point"}
 }

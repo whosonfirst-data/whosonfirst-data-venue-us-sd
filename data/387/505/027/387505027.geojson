@@ -2,13 +2,14 @@
   "id": 387505027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.251763,44.075414,-103.251763,44.075414",
     "geom:latitude":44.075414,
     "geom:longitude":-103.251763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387505027,
-    "wof:lastmodified":1449059298,
+    "wof:lastmodified":1467082751,
     "wof:name":"Dakota Claims Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-103.251763,44.075414,-103.251763,44.075414],
+  "bbox": [
+    -103.251763,
+    44.075414,
+    -103.251763,
+    44.075414
+],
   "geometry": {"coordinates":[-103.251763,44.075414],"type":"Point"}
 }

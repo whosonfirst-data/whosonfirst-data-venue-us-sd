@@ -2,13 +2,14 @@
   "id": 387036199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234537,44.352837,-98.234537,44.352837",
     "geom:latitude":44.352837,
     "geom:longitude":-98.234537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387036199,
-    "wof:lastmodified":1449056956,
+    "wof:lastmodified":1467082703,
     "wof:name":"Carpet Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.234537,44.352837,-98.234537,44.352837],
+  "bbox": [
+    -98.234537,
+    44.352837,
+    -98.234537,
+    44.352837
+],
   "geometry": {"coordinates":[-98.234537,44.352837],"type":"Point"}
 }

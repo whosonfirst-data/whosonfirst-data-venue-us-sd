@@ -2,13 +2,14 @@
   "id": 403772809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.734533,44.522671,-99.734533,44.522671",
     "geom:latitude":44.522671,
     "geom:longitude":-99.734533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Nixon St",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":403772809,
-    "wof:lastmodified":1449055231,
+    "wof:lastmodified":1467082679,
     "wof:name":"Harrold High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.734533,44.522671,-99.734533,44.522671],
+  "bbox": [
+    -99.734533,
+    44.522671,
+    -99.734533,
+    44.522671
+],
   "geometry": {"coordinates":[-99.734533,44.522671],"type":"Point"}
 }

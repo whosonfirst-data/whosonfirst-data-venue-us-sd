@@ -2,13 +2,14 @@
   "id": 387702771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.414317,45.850321,-98.414317,45.850321",
     "geom:latitude":45.850321,
     "geom:longitude":-98.414317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39105 106th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387702771,
-    "wof:lastmodified":1449058008,
+    "wof:lastmodified":1467082725,
     "wof:name":"Alan Geranen",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.414317,45.850321,-98.414317,45.850321],
+  "bbox": [
+    -98.414317,
+    45.850321,
+    -98.414317,
+    45.850321
+],
   "geometry": {"coordinates":[-98.414317,45.850321],"type":"Point"}
 }

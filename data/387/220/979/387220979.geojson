@@ -2,13 +2,14 @@
   "id": 387220979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.05348,44.068544,-98.05348,44.068544",
     "geom:latitude":44.068544,
     "geom:longitude":-98.05348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40773 229th St",
     "sg:city":"Forestburg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387220979,
-    "wof:lastmodified":1449059783,
+    "wof:lastmodified":1467082760,
     "wof:name":"Kathleen Peterson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.05348,44.068544,-98.05348,44.068544],
-  "geometry": {"coordinates":[-98.05348,44.068544],"type":"Point"}
+  "bbox": [
+    -98.05348,
+    44.068544,
+    -98.05348,
+    44.068544
+],
+  "geometry": {"coordinates":[-98.05347999999999,44.068544],"type":"Point"}
 }

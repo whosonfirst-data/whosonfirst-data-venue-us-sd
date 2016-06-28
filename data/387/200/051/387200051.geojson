@@ -2,13 +2,14 @@
   "id": 387200051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724711,43.583074,-96.724711,43.583074",
     "geom:latitude":43.583074,
     "geom:longitude":-96.724711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3223 N 1st Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387200051,
-    "wof:lastmodified":1449057632,
+    "wof:lastmodified":1467082717,
     "wof:name":"Cross Country Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.724711,43.583074,-96.724711,43.583074],
+  "bbox": [
+    -96.724711,
+    43.583074,
+    -96.724711,
+    43.583074
+],
   "geometry": {"coordinates":[-96.724711,43.583074],"type":"Point"}
 }

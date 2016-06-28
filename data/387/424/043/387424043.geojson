@@ -2,13 +2,14 @@
   "id": 387424043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761419,43.650545,-96.761419,43.650545",
     "geom:latitude":43.650545,
     "geom:longitude":-96.761419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25781 Kiwanis Ave",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387424043,
-    "wof:lastmodified":1449059683,
+    "wof:lastmodified":1467082758,
     "wof:name":"Clete's Empire Painting Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "painter"
     ]
 },
-  "bbox": [-96.761419,43.650545,-96.761419,43.650545],
+  "bbox": [
+    -96.761419,
+    43.650545,
+    -96.761419,
+    43.650545
+],
   "geometry": {"coordinates":[-96.761419,43.650545],"type":"Point"}
 }

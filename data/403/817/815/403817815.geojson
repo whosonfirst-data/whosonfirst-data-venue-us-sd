@@ -2,13 +2,14 @@
   "id": 403817815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.985905,45.166402,-96.985905,45.166402",
     "geom:latitude":45.166402,
     "geom:longitude":-96.985905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15289 461st Ave",
     "sg:city":"South Shore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403817815,
-    "wof:lastmodified":1449055697,
+    "wof:lastmodified":1467082682,
     "wof:name":"Taecker Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.985905,45.166402,-96.985905,45.166402],
+  "bbox": [
+    -96.985905,
+    45.166402,
+    -96.985905,
+    45.166402
+],
   "geometry": {"coordinates":[-96.985905,45.166402],"type":"Point"}
 }

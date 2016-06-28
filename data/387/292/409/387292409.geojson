@@ -2,13 +2,14 @@
   "id": 387292409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.341507,43.517918,-98.341507,43.517918",
     "geom:latitude":43.517918,
     "geom:longitude":-98.341507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26620 393rd Ave",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387292409,
-    "wof:lastmodified":1449056426,
+    "wof:lastmodified":1467082693,
     "wof:name":"Guenthner Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.341507,43.517918,-98.341507,43.517918],
-  "geometry": {"coordinates":[-98.341507,43.517918],"type":"Point"}
+  "bbox": [
+    -98.341507,
+    43.517918,
+    -98.341507,
+    43.517918
+],
+  "geometry": {"coordinates":[-98.34150699999999,43.517918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387261273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.00243,45.037472,-98.00243,45.037472",
     "geom:latitude":45.037472,
     "geom:longitude":-98.00243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16140 411th Ave",
     "sg:city":"Conde",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387261273,
-    "wof:lastmodified":1449056178,
+    "wof:lastmodified":1467082688,
     "wof:name":"Dwight Lyren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.00243,45.037472,-98.00243,45.037472],
+  "bbox": [
+    -98.00243,
+    45.037472,
+    -98.00243,
+    45.037472
+],
   "geometry": {"coordinates":[-98.00243,45.037472],"type":"Point"}
 }

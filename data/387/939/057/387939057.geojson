@@ -2,13 +2,14 @@
   "id": 387939057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.210144,45.856682,-99.210144,45.856682",
     "geom:latitude":45.856682,
     "geom:longitude":-99.210144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Bethlehem St",
     "sg:city":"Longlake",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387939057,
-    "wof:lastmodified":1449057216,
+    "wof:lastmodified":1467082709,
     "wof:name":"Rod Hoffman Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-99.210144,45.856682,-99.210144,45.856682],
+  "bbox": [
+    -99.210144,
+    45.856682,
+    -99.210144,
+    45.856682
+],
   "geometry": {"coordinates":[-99.210144,45.856682],"type":"Point"}
 }

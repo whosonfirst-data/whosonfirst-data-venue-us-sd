@@ -2,13 +2,14 @@
   "id": 403816801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.606786,44.40302,-96.606786,44.40302",
     "geom:latitude":44.40302,
     "geom:longitude":-96.606786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20565 480th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403816801,
-    "wof:lastmodified":1449055417,
+    "wof:lastmodified":1467082681,
     "wof:name":"Roderick & Darlene Meyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.606786,44.40302,-96.606786,44.40302],
+  "bbox": [
+    -96.606786,
+    44.40302,
+    -96.606786,
+    44.40302
+],
   "geometry": {"coordinates":[-96.606786,44.40302],"type":"Point"}
 }

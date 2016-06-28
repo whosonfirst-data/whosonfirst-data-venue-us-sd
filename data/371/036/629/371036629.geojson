@@ -2,13 +2,14 @@
   "id": 371036629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.441673,44.516866,-99.441673,44.516866",
     "geom:latitude":44.516866,
     "geom:longitude":-99.441673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Iowa Ave",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371036629,
-    "wof:lastmodified":1449049263,
+    "wof:lastmodified":1467082661,
     "wof:name":"Highmore Superintendents Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.441673,44.516866,-99.441673,44.516866],
-  "geometry": {"coordinates":[-99.441673,44.516866],"type":"Point"}
+  "bbox": [
+    -99.441673,
+    44.516866,
+    -99.441673,
+    44.516866
+],
+  "geometry": {"coordinates":[-99.44167299999999,44.516866],"type":"Point"}
 }

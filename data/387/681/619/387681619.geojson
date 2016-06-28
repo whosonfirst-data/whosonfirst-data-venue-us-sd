@@ -2,13 +2,14 @@
   "id": 387681619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508532,45.462142,-98.508532,45.462142",
     "geom:latitude":45.462142,
     "geom:longitude":-98.508532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 S 14th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387681619,
-    "wof:lastmodified":1449058428,
+    "wof:lastmodified":1467082733,
     "wof:name":"Jim Dosch Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.508532,45.462142,-98.508532,45.462142],
+  "bbox": [
+    -98.508532,
+    45.462142,
+    -98.508532,
+    45.462142
+],
   "geometry": {"coordinates":[-98.508532,45.462142],"type":"Point"}
 }

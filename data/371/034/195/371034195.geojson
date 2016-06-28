@@ -2,13 +2,14 @@
   "id": 371034195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.284373,44.074645,-103.284373,44.074645",
     "geom:latitude":44.074645,
     "geom:longitude":-103.284373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 Pointe W Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371034195,
-    "wof:lastmodified":1449049142,
+    "wof:lastmodified":1467082659,
     "wof:name":"Frontier Phto/Studio Unlimited",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographic"
     ]
 },
-  "bbox": [-103.284373,44.074645,-103.284373,44.074645],
+  "bbox": [
+    -103.284373,
+    44.074645,
+    -103.284373,
+    44.074645
+],
   "geometry": {"coordinates":[-103.284373,44.074645],"type":"Point"}
 }

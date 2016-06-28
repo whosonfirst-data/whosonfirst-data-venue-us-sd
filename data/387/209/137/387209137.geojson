@@ -2,13 +2,14 @@
   "id": 387209137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.09163,44.902859,-97.09163,44.902859",
     "geom:latitude":44.902859,
     "geom:longitude":-97.09163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 15th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387209137,
-    "wof:lastmodified":1449059510,
+    "wof:lastmodified":1467082755,
     "wof:name":"Sign Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.09163,44.902859,-97.09163,44.902859],
-  "geometry": {"coordinates":[-97.09163,44.902859],"type":"Point"}
+  "bbox": [
+    -97.09163,
+    44.902859,
+    -97.09163,
+    44.902859
+],
+  "geometry": {"coordinates":[-97.09162999999999,44.902859],"type":"Point"}
 }

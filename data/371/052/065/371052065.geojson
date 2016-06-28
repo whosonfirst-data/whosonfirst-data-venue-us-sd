@@ -2,13 +2,14 @@
   "id": 371052065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752387,43.543945,-96.752387,43.543945",
     "geom:latitude":43.543945,
     "geom:longitude":-96.752387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371052065,
-    "wof:lastmodified":1449049477,
+    "wof:lastmodified":1467082664,
     "wof:name":"Frankman's W 12th",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.752387,43.543945,-96.752387,43.543945],
+  "bbox": [
+    -96.752387,
+    43.543945,
+    -96.752387,
+    43.543945
+],
   "geometry": {"coordinates":[-96.752387,43.543945],"type":"Point"}
 }

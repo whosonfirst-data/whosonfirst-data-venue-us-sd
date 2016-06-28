@@ -2,13 +2,14 @@
   "id": 387502571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.188433,43.594296,-97.188433,43.594296",
     "geom:latitude":43.594296,
     "geom:longitude":-97.188433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26150 451st Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387502571,
-    "wof:lastmodified":1449057847,
+    "wof:lastmodified":1467082722,
     "wof:name":"Koehn Implement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.188433,43.594296,-97.188433,43.594296],
+  "bbox": [
+    -97.188433,
+    43.594296,
+    -97.188433,
+    43.594296
+],
   "geometry": {"coordinates":[-97.188433,43.594296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387755583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.770861,43.512965,-96.770861,43.512965",
     "geom:latitude":43.512965,
     "geom:longitude":-96.770861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 W 43rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387755583,
-    "wof:lastmodified":1449057173,
+    "wof:lastmodified":1467082708,
     "wof:name":"Valley Bank",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.770861,43.512965,-96.770861,43.512965],
+  "bbox": [
+    -96.770861,
+    43.512965,
+    -96.770861,
+    43.512965
+],
   "geometry": {"coordinates":[-96.770861,43.512965],"type":"Point"}
 }

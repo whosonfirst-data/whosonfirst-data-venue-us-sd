@@ -2,13 +2,14 @@
   "id": 403741055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.738007,43.341018,-98.738007,43.341018",
     "geom:latitude":43.341018,
     "geom:longitude":-98.738007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37252 279th St",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403741055,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1467082675,
     "wof:name":"T & L Carpet Laying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.738007,43.341018,-98.738007,43.341018],
+  "bbox": [
+    -98.738007,
+    43.341018,
+    -98.738007,
+    43.341018
+],
   "geometry": {"coordinates":[-98.738007,43.341018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387537031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112654,44.005181,-97.112654,44.005181",
     "geom:latitude":44.005181,
     "geom:longitude":-97.112654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387537031,
-    "wof:lastmodified":1449057039,
+    "wof:lastmodified":1467082705,
     "wof:name":"Dakota International Svc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "export"
     ]
 },
-  "bbox": [-97.112654,44.005181,-97.112654,44.005181],
-  "geometry": {"coordinates":[-97.112654,44.005181],"type":"Point"}
+  "bbox": [
+    -97.112654,
+    44.005181,
+    -97.112654,
+    44.005181
+],
+  "geometry": {"coordinates":[-97.11265400000001,44.005181],"type":"Point"}
 }

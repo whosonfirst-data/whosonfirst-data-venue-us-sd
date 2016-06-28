@@ -2,13 +2,14 @@
   "id": 387182471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.882646,44.99704,-96.882646,44.99704",
     "geom:latitude":44.99704,
     "geom:longitude":-96.882646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16455 466th Ave",
     "sg:city":"Strandburg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387182471,
-    "wof:lastmodified":1449058515,
+    "wof:lastmodified":1467082735,
     "wof:name":"S & W Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.882646,44.99704,-96.882646,44.99704],
-  "geometry": {"coordinates":[-96.882646,44.99704],"type":"Point"}
+  "bbox": [
+    -96.882646,
+    44.99704,
+    -96.882646,
+    44.99704
+],
+  "geometry": {"coordinates":[-96.88264599999999,44.99704],"type":"Point"}
 }

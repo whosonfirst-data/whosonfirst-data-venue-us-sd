@@ -2,13 +2,14 @@
   "id": 387459001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760827,45.048302,-96.760827,45.048302",
     "geom:latitude":45.048302,
     "geom:longitude":-96.760827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16098 472nd Ave",
     "sg:city":"Strandburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387459001,
-    "wof:lastmodified":1449057652,
+    "wof:lastmodified":1467082718,
     "wof:name":"Melvin Swenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.760827,45.048302,-96.760827,45.048302],
-  "geometry": {"coordinates":[-96.760827,45.048302],"type":"Point"}
+  "bbox": [
+    -96.760827,
+    45.048302,
+    -96.760827,
+    45.048302
+],
+  "geometry": {"coordinates":[-96.76082700000001,45.048302],"type":"Point"}
 }

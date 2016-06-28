@@ -2,13 +2,14 @@
   "id": 371115823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480513,43.395956,-97.480513,43.395956",
     "geom:latitude":43.395956,
     "geom:longitude":-97.480513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27507 436th Ave",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371115823,
-    "wof:lastmodified":1449049060,
+    "wof:lastmodified":1467082658,
     "wof:name":"Cornerstone Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.480513,43.395956,-97.480513,43.395956],
+  "bbox": [
+    -97.480513,
+    43.395956,
+    -97.480513,
+    43.395956
+],
   "geometry": {"coordinates":[-97.480513,43.395956],"type":"Point"}
 }

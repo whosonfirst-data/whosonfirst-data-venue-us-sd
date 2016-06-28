@@ -2,13 +2,14 @@
   "id": 371002335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.484292,44.230416,-96.484292,44.230416",
     "geom:latitude":44.230416,
     "geom:longitude":-96.484292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W 7th St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371002335,
-    "wof:lastmodified":1449049916,
+    "wof:lastmodified":1467082670,
     "wof:name":"Catholic Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.484292,44.230416,-96.484292,44.230416],
+  "bbox": [
+    -96.484292,
+    44.230416,
+    -96.484292,
+    44.230416
+],
   "geometry": {"coordinates":[-96.484292,44.230416],"type":"Point"}
 }

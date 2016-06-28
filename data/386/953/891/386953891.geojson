@@ -2,13 +2,14 @@
   "id": 386953891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739987,43.544753,-96.739987,43.544753",
     "geom:latitude":43.544753,
     "geom:longitude":-96.739987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386953891,
-    "wof:lastmodified":1449028833,
+    "wof:lastmodified":1467082653,
     "wof:name":"Lalibela Restaurant",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.739987,43.544753,-96.739987,43.544753],
+  "bbox": [
+    -96.739987,
+    43.544753,
+    -96.739987,
+    43.544753
+],
   "geometry": {"coordinates":[-96.739987,43.544753],"type":"Point"}
 }

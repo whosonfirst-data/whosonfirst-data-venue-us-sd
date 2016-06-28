@@ -2,13 +2,14 @@
   "id": 387814929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.153847,44.378509,-98.153847,44.378509",
     "geom:latitude":44.378509,
     "geom:longitude":-98.153847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20740 403rd Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387814929,
-    "wof:lastmodified":1449056797,
+    "wof:lastmodified":1467082700,
     "wof:name":"Chris Waldner & Sons Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.153847,44.378509,-98.153847,44.378509],
+  "bbox": [
+    -98.153847,
+    44.378509,
+    -98.153847,
+    44.378509
+],
   "geometry": {"coordinates":[-98.153847,44.378509],"type":"Point"}
 }

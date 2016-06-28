@@ -2,13 +2,14 @@
   "id": 371138179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495365,45.411488,-98.495365,45.411488",
     "geom:latitude":45.411488,
     "geom:longitude":-98.495365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4418 S 5th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371138179,
-    "wof:lastmodified":1449049307,
+    "wof:lastmodified":1467082662,
     "wof:name":"Jarman's Water Systems",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "company"
     ]
 },
-  "bbox": [-98.495365,45.411488,-98.495365,45.411488],
-  "geometry": {"coordinates":[-98.495365,45.411488],"type":"Point"}
+  "bbox": [
+    -98.495365,
+    45.411488,
+    -98.495365,
+    45.411488
+],
+  "geometry": {"coordinates":[-98.49536500000001,45.411488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387878619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781986,45.2059,-96.781986,45.2059",
     "geom:latitude":45.2059,
     "geom:longitude":-96.781986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Twin Brooks Rd",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387878619,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1467082727,
     "wof:name":"Ol'Gunslingers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.781986,45.2059,-96.781986,45.2059],
+  "bbox": [
+    -96.781986,
+    45.2059,
+    -96.781986,
+    45.2059
+],
   "geometry": {"coordinates":[-96.781986,45.2059],"type":"Point"}
 }

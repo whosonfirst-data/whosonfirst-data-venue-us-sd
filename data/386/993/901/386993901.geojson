@@ -2,13 +2,14 @@
   "id": 386993901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746932,43.507415,-96.746932,43.507415",
     "geom:latitude":43.507415,
     "geom:longitude":-96.746932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 W 50th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386993901,
-    "wof:lastmodified":1449028757,
+    "wof:lastmodified":1467082651,
     "wof:name":"D & B Tune Up",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-96.746932,43.507415,-96.746932,43.507415],
+  "bbox": [
+    -96.746932,
+    43.507415,
+    -96.746932,
+    43.507415
+],
   "geometry": {"coordinates":[-96.746932,43.507415],"type":"Point"}
 }

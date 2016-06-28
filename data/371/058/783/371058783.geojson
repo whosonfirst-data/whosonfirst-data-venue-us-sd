@@ -2,13 +2,14 @@
   "id": 371058783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635793,45.221558,-96.635793,45.221558",
     "geom:latitude":45.221558,
     "geom:longitude":-96.635793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371058783,
-    "wof:lastmodified":1449049180,
+    "wof:lastmodified":1467082660,
     "wof:name":"Judy's Hallmark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.635793,45.221558,-96.635793,45.221558],
-  "geometry": {"coordinates":[-96.635793,45.221558],"type":"Point"}
+  "bbox": [
+    -96.635793,
+    45.221558,
+    -96.635793,
+    45.221558
+],
+  "geometry": {"coordinates":[-96.63579300000001,45.221558],"type":"Point"}
 }

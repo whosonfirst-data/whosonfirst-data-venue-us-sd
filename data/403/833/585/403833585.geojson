@@ -2,13 +2,14 @@
   "id": 403833585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.820244,43.417452,-96.820244,43.417452",
     "geom:latitude":43.417452,
     "geom:longitude":-96.820244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46931 274th St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403833585,
-    "wof:lastmodified":1449054791,
+    "wof:lastmodified":1467082676,
     "wof:name":"Henry Buus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.820244,43.417452,-96.820244,43.417452],
+  "bbox": [
+    -96.820244,
+    43.417452,
+    -96.820244,
+    43.417452
+],
   "geometry": {"coordinates":[-96.820244,43.417452],"type":"Point"}
 }

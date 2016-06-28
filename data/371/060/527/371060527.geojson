@@ -2,13 +2,14 @@
   "id": 371060527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061729,43.001224,-97.061729,43.001224",
     "geom:latitude":43.001224,
     "geom:longitude":-97.061729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30266 457th Ave",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371060527,
-    "wof:lastmodified":1449050043,
+    "wof:lastmodified":1467082672,
     "wof:name":"Warren Jensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.061729,43.001224,-97.061729,43.001224],
+  "bbox": [
+    -97.061729,
+    43.001224,
+    -97.061729,
+    43.001224
+],
   "geometry": {"coordinates":[-97.061729,43.001224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387033967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.577744,43.629555,-97.577744,43.629555",
     "geom:latitude":43.629555,
     "geom:longitude":-97.577744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43193 259th St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387033967,
-    "wof:lastmodified":1449056881,
+    "wof:lastmodified":1467082702,
     "wof:name":"Lowell Terveen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.577744,43.629555,-97.577744,43.629555],
+  "bbox": [
+    -97.577744,
+    43.629555,
+    -97.577744,
+    43.629555
+],
   "geometry": {"coordinates":[-97.577744,43.629555],"type":"Point"}
 }

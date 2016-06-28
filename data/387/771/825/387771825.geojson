@@ -2,13 +2,14 @@
   "id": 387771825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646084,44.426632,-96.646084,44.426632",
     "geom:latitude":44.426632,
     "geom:longitude":-96.646084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20402 478th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387771825,
-    "wof:lastmodified":1449058177,
+    "wof:lastmodified":1467082728,
     "wof:name":"Country Pump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-96.646084,44.426632,-96.646084,44.426632],
+  "bbox": [
+    -96.646084,
+    44.426632,
+    -96.646084,
+    44.426632
+],
   "geometry": {"coordinates":[-96.646084,44.426632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387561733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.379157,44.129094,-103.379157,44.129094",
     "geom:latitude":44.129094,
     "geom:longitude":-103.379157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10400 Nemo Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387561733,
-    "wof:lastmodified":1449058805,
+    "wof:lastmodified":1467082741,
     "wof:name":"Otrma",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "area"
     ]
 },
-  "bbox": [-103.379157,44.129094,-103.379157,44.129094],
-  "geometry": {"coordinates":[-103.379157,44.129094],"type":"Point"}
+  "bbox": [
+    -103.379157,
+    44.129094,
+    -103.379157,
+    44.129094
+],
+  "geometry": {"coordinates":[-103.37915700000001,44.129094],"type":"Point"}
 }

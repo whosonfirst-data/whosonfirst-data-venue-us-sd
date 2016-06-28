@@ -2,13 +2,14 @@
   "id": 387717571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.295438,44.125846,-103.295438,44.125846",
     "geom:latitude":44.125846,
     "geom:longitude":-103.295438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 Universal Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387717571,
-    "wof:lastmodified":1449056219,
+    "wof:lastmodified":1467082689,
     "wof:name":"Mac Construction Co Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-103.295438,44.125846,-103.295438,44.125846],
+  "bbox": [
+    -103.295438,
+    44.125846,
+    -103.295438,
+    44.125846
+],
   "geometry": {"coordinates":[-103.295438,44.125846],"type":"Point"}
 }

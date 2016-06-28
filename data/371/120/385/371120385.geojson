@@ -2,13 +2,14 @@
   "id": 371120385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.983151,43.395221,-97.983151,43.395221",
     "geom:latitude":43.395221,
     "geom:longitude":-97.983151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Railroad St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371120385,
-    "wof:lastmodified":1449049985,
+    "wof:lastmodified":1467082671,
     "wof:name":"Weiss Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-97.983151,43.395221,-97.983151,43.395221],
-  "geometry": {"coordinates":[-97.983151,43.395221],"type":"Point"}
+  "bbox": [
+    -97.983151,
+    43.395221,
+    -97.983151,
+    43.395221
+],
+  "geometry": {"coordinates":[-97.98315100000001,43.395221],"type":"Point"}
 }

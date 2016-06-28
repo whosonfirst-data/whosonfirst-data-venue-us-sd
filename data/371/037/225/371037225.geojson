@@ -2,13 +2,14 @@
   "id": 371037225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.565867,44.378637,-96.565867,44.378637",
     "geom:latitude":44.378637,
     "geom:longitude":-96.565867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20735 482nd Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371037225,
-    "wof:lastmodified":1449050163,
+    "wof:lastmodified":1467082674,
     "wof:name":"Sheffield Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.565867,44.378637,-96.565867,44.378637],
+  "bbox": [
+    -96.565867,
+    44.378637,
+    -96.565867,
+    44.378637
+],
   "geometry": {"coordinates":[-96.565867,44.378637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387593139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.638719,45.211003,-96.638719,45.211003",
     "geom:latitude":45.211003,
     "geom:longitude":-96.638719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Vista Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387593139,
-    "wof:lastmodified":1449058632,
+    "wof:lastmodified":1467082737,
     "wof:name":"Schmitt Lisa Marie Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.638719,45.211003,-96.638719,45.211003],
-  "geometry": {"coordinates":[-96.638719,45.211003],"type":"Point"}
+  "bbox": [
+    -96.638719,
+    45.211003,
+    -96.638719,
+    45.211003
+],
+  "geometry": {"coordinates":[-96.63871899999999,45.211003],"type":"Point"}
 }

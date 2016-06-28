@@ -2,13 +2,14 @@
   "id": 386948739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.108842,44.900729,-97.108842,44.900729",
     "geom:latitude":44.900729,
     "geom:longitude":-97.108842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 1st Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386948739,
-    "wof:lastmodified":1449028884,
+    "wof:lastmodified":1467082654,
     "wof:name":"Classroom Connection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.108842,44.900729,-97.108842,44.900729],
+  "bbox": [
+    -97.108842,
+    44.900729,
+    -97.108842,
+    44.900729
+],
   "geometry": {"coordinates":[-97.108842,44.900729],"type":"Point"}
 }

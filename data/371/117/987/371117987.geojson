@@ -2,13 +2,14 @@
   "id": 371117987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.218684,44.054223,-103.218684,44.054223",
     "geom:latitude":44.054223,
     "geom:longitude":-103.218684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3013 Oak Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371117987,
-    "wof:lastmodified":1449049770,
+    "wof:lastmodified":1467082668,
     "wof:name":"CBS Truck Service",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.218684,44.054223,-103.218684,44.054223],
+  "bbox": [
+    -103.218684,
+    44.054223,
+    -103.218684,
+    44.054223
+],
   "geometry": {"coordinates":[-103.218684,44.054223],"type":"Point"}
 }

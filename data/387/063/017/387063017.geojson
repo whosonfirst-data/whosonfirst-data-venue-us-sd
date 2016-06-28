@@ -2,13 +2,14 @@
   "id": 387063017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.991403,43.390564,-97.991403,43.390564",
     "geom:latitude":43.390564,
     "geom:longitude":-97.991403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S Wallace St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387063017,
-    "wof:lastmodified":1449056439,
+    "wof:lastmodified":1467082693,
     "wof:name":"Salem Lutheran Chr Elca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.991403,43.390564,-97.991403,43.390564],
-  "geometry": {"coordinates":[-97.991403,43.390564],"type":"Point"}
+  "bbox": [
+    -97.991403,
+    43.390564,
+    -97.991403,
+    43.390564
+],
+  "geometry": {"coordinates":[-97.99140300000001,43.390564],"type":"Point"}
 }

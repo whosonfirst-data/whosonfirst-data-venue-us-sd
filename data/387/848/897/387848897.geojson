@@ -2,13 +2,14 @@
   "id": 387848897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.2142,44.36233,-98.2142,44.36233",
     "geom:latitude":44.36233,
     "geom:longitude":-98.2142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387848897,
-    "wof:lastmodified":1449056640,
+    "wof:lastmodified":1467082697,
     "wof:name":"Morgan Theeler Cogley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.2142,44.36233,-98.2142,44.36233],
-  "geometry": {"coordinates":[-98.2142,44.36233],"type":"Point"}
+  "bbox": [
+    -98.2142,
+    44.36233,
+    -98.2142,
+    44.36233
+],
+  "geometry": {"coordinates":[-98.21420000000001,44.36233],"type":"Point"}
 }

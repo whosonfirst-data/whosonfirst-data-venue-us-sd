@@ -2,13 +2,14 @@
   "id": 387341903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.41242,43.485809,-98.41242,43.485809",
     "geom:latitude":43.485809,
     "geom:longitude":-98.41242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26893 US Hwy 281",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387341903,
-    "wof:lastmodified":1449059750,
+    "wof:lastmodified":1467082760,
     "wof:name":"B&D Poultry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.41242,43.485809,-98.41242,43.485809],
+  "bbox": [
+    -98.41242,
+    43.485809,
+    -98.41242,
+    43.485809
+],
   "geometry": {"coordinates":[-98.41242,43.485809],"type":"Point"}
 }

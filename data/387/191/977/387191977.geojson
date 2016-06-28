@@ -2,13 +2,14 @@
   "id": 387191977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480568,45.457089,-98.480568,45.457089",
     "geom:latitude":45.457089,
     "geom:longitude":-98.480568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 8th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387191977,
-    "wof:lastmodified":1449058413,
+    "wof:lastmodified":1467082733,
     "wof:name":"Kreative Kids Montessori",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-98.480568,45.457089,-98.480568,45.457089],
-  "geometry": {"coordinates":[-98.480568,45.457089],"type":"Point"}
+  "bbox": [
+    -98.480568,
+    45.457089,
+    -98.480568,
+    45.457089
+],
+  "geometry": {"coordinates":[-98.48056800000001,45.457089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387910141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.337013,44.360282,-100.337013,44.360282",
     "geom:latitude":44.360282,
     "geom:longitude":-100.337013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1154 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387910141,
-    "wof:lastmodified":1449057691,
+    "wof:lastmodified":1467082718,
     "wof:name":"American Medical Response",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-100.337013,44.360282,-100.337013,44.360282],
+  "bbox": [
+    -100.337013,
+    44.360282,
+    -100.337013,
+    44.360282
+],
   "geometry": {"coordinates":[-100.337013,44.360282],"type":"Point"}
 }

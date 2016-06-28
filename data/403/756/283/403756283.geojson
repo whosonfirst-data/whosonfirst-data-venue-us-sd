@@ -2,13 +2,14 @@
   "id": 403756283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205132,44.077044,-103.205132,44.077044",
     "geom:latitude":44.077044,
     "geom:longitude":-103.205132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Steele Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":403756283,
-    "wof:lastmodified":1449055444,
+    "wof:lastmodified":1467082681,
     "wof:name":"Rapid City Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.205132,44.077044,-103.205132,44.077044],
-  "geometry": {"coordinates":[-103.205132,44.077044],"type":"Point"}
+  "bbox": [
+    -103.205132,
+    44.077044,
+    -103.205132,
+    44.077044
+],
+  "geometry": {"coordinates":[-103.20513200000001,44.077044],"type":"Point"}
 }

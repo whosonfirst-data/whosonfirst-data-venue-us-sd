@@ -2,13 +2,14 @@
   "id": 387264583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.902153,43.613661,-96.902153,43.613661",
     "geom:latitude":43.613661,
     "geom:longitude":-96.902153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46537 Jeannine Dr",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387264583,
-    "wof:lastmodified":1449058581,
+    "wof:lastmodified":1467082736,
     "wof:name":"Boomerang Hobbies and Sports",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.902153,43.613661,-96.902153,43.613661],
+  "bbox": [
+    -96.902153,
+    43.613661,
+    -96.902153,
+    43.613661
+],
   "geometry": {"coordinates":[-96.902153,43.613661],"type":"Point"}
 }

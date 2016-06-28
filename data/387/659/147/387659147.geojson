@@ -2,13 +2,14 @@
   "id": 387659147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132751,44.900969,-97.132751,44.900969",
     "geom:latitude":44.900969,
     "geom:longitude":-97.132751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 11th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387659147,
-    "wof:lastmodified":1449056518,
+    "wof:lastmodified":1467082695,
     "wof:name":"Johnny Beutler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.132751,44.900969,-97.132751,44.900969],
+  "bbox": [
+    -97.132751,
+    44.900969,
+    -97.132751,
+    44.900969
+],
   "geometry": {"coordinates":[-97.132751,44.900969],"type":"Point"}
 }

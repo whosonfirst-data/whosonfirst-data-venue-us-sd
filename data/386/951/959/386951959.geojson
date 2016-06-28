@@ -2,13 +2,14 @@
   "id": 386951959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227695,44.109295,-103.227695,44.109295",
     "geom:latitude":44.109295,
     "geom:longitude":-103.227695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2430 Gnugnuska Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386951959,
-    "wof:lastmodified":1449028635,
+    "wof:lastmodified":1467082649,
     "wof:name":"Oyate Education Ctr",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-103.227695,44.109295,-103.227695,44.109295],
+  "bbox": [
+    -103.227695,
+    44.109295,
+    -103.227695,
+    44.109295
+],
   "geometry": {"coordinates":[-103.227695,44.109295],"type":"Point"}
 }

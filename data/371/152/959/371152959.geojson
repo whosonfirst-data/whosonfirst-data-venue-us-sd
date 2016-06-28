@@ -2,13 +2,14 @@
   "id": 371152959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.735422,44.468844,-99.735422,44.468844",
     "geom:latitude":44.468844,
     "geom:longitude":-99.735422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32163 201st St",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371152959,
-    "wof:lastmodified":1449049842,
+    "wof:lastmodified":1467082669,
     "wof:name":"Melvin Carroll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [-99.735422,44.468844,-99.735422,44.468844],
+  "bbox": [
+    -99.735422,
+    44.468844,
+    -99.735422,
+    44.468844
+],
   "geometry": {"coordinates":[-99.735422,44.468844],"type":"Point"}
 }

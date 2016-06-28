@@ -2,13 +2,14 @@
   "id": 387630785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.017303,43.723667,-98.017303,43.723667",
     "geom:latitude":43.723667,
     "geom:longitude":-98.017303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N Capital St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387630785,
-    "wof:lastmodified":1449057459,
+    "wof:lastmodified":1467082714,
     "wof:name":"Edward Nielsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.017303,43.723667,-98.017303,43.723667],
+  "bbox": [
+    -98.017303,
+    43.723667,
+    -98.017303,
+    43.723667
+],
   "geometry": {"coordinates":[-98.017303,43.723667],"type":"Point"}
 }

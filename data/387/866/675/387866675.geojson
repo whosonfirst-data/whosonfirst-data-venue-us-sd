@@ -2,13 +2,14 @@
   "id": 387866675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.352376,45.748619,-98.352376,45.748619",
     "geom:latitude":45.748619,
     "geom:longitude":-98.352376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11373 394th Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387866675,
-    "wof:lastmodified":1449057911,
+    "wof:lastmodified":1467082723,
     "wof:name":"Plummers",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.352376,45.748619,-98.352376,45.748619],
-  "geometry": {"coordinates":[-98.352376,45.748619],"type":"Point"}
+  "bbox": [
+    -98.352376,
+    45.748619,
+    -98.352376,
+    45.748619
+],
+  "geometry": {"coordinates":[-98.35237600000001,45.748619],"type":"Point"}
 }

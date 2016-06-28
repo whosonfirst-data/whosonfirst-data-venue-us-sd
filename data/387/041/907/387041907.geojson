@@ -2,13 +2,14 @@
   "id": 387041907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500921,45.459273,-98.500921,45.459273",
     "geom:latitude":45.459273,
     "geom:longitude":-98.500921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 S 9th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387041907,
-    "wof:lastmodified":1449057476,
+    "wof:lastmodified":1467082714,
     "wof:name":"Martin Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.500921,45.459273,-98.500921,45.459273],
-  "geometry": {"coordinates":[-98.500921,45.459273],"type":"Point"}
+  "bbox": [
+    -98.500921,
+    45.459273,
+    -98.500921,
+    45.459273
+],
+  "geometry": {"coordinates":[-98.50092100000001,45.459273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387096729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747272,43.56983,-96.747272,43.56983",
     "geom:latitude":43.56983,
     "geom:longitude":-96.747272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 W Cherokee St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387096729,
-    "wof:lastmodified":1449057332,
+    "wof:lastmodified":1467082711,
     "wof:name":"P & M Steel Company",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "structural"
     ]
 },
-  "bbox": [-96.747272,43.56983,-96.747272,43.56983],
+  "bbox": [
+    -96.747272,
+    43.56983,
+    -96.747272,
+    43.56983
+],
   "geometry": {"coordinates":[-96.747272,43.56983],"type":"Point"}
 }

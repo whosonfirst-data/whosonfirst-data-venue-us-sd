@@ -2,13 +2,14 @@
   "id": 371118085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.836394,44.096261,-102.836394,44.096261",
     "geom:latitude":44.096261,
     "geom:longitude":-102.836394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S A Ave",
     "sg:city":"New Underwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371118085,
-    "wof:lastmodified":1449049898,
+    "wof:lastmodified":1467082670,
     "wof:name":"Crosbie Ditching & Concrete",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "block"
     ]
 },
-  "bbox": [-102.836394,44.096261,-102.836394,44.096261],
+  "bbox": [
+    -102.836394,
+    44.096261,
+    -102.836394,
+    44.096261
+],
   "geometry": {"coordinates":[-102.836394,44.096261],"type":"Point"}
 }

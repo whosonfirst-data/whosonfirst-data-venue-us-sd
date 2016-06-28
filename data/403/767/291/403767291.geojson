@@ -2,13 +2,14 @@
   "id": 403767291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.014678,43.697925,-98.014678,43.697925",
     "geom:latitude":43.697925,
     "geom:longitude":-98.014678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 E Kay Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403767291,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1467082678,
     "wof:name":"Mega Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.014678,43.697925,-98.014678,43.697925],
+  "bbox": [
+    -98.014678,
+    43.697925,
+    -98.014678,
+    43.697925
+],
   "geometry": {"coordinates":[-98.014678,43.697925],"type":"Point"}
 }

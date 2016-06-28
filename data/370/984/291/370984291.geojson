@@ -2,13 +2,14 @@
   "id": 370984291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.910356,43.650243,-96.910356,43.650243",
     "geom:latitude":43.650243,
     "geom:longitude":-96.910356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25764 465th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":370984291,
-    "wof:lastmodified":1449030987,
+    "wof:lastmodified":1467082657,
     "wof:name":"Automatic Building Controls",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "security"
     ]
 },
-  "bbox": [-96.910356,43.650243,-96.910356,43.650243],
-  "geometry": {"coordinates":[-96.910356,43.650243],"type":"Point"}
+  "bbox": [
+    -96.910356,
+    43.650243,
+    -96.910356,
+    43.650243
+],
+  "geometry": {"coordinates":[-96.91035599999999,43.650243],"type":"Point"}
 }

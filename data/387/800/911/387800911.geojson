@@ -2,13 +2,14 @@
   "id": 387800911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.666696,43.517885,-96.666696,43.517885",
     "geom:latitude":43.517885,
     "geom:longitude":-96.666696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3121 S Groveland Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387800911,
-    "wof:lastmodified":1449056412,
+    "wof:lastmodified":1467082693,
     "wof:name":"Concrete Surfaces LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "repair"
     ]
 },
-  "bbox": [-96.666696,43.517885,-96.666696,43.517885],
+  "bbox": [
+    -96.666696,
+    43.517885,
+    -96.666696,
+    43.517885
+],
   "geometry": {"coordinates":[-96.666696,43.517885],"type":"Point"}
 }

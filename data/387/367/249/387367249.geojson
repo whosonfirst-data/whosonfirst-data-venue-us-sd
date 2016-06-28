@@ -2,13 +2,14 @@
   "id": 387367249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.861291,43.376615,-99.861291,43.376615",
     "geom:latitude":43.376615,
     "geom:longitude":-99.861291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387367249,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1467082732,
     "wof:name":"K C Discount Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.861291,43.376615,-99.861291,43.376615],
-  "geometry": {"coordinates":[-99.861291,43.376615],"type":"Point"}
+  "bbox": [
+    -99.861291,
+    43.376615,
+    -99.861291,
+    43.376615
+],
+  "geometry": {"coordinates":[-99.86129099999999,43.376615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403822441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790193,43.083756,-96.790193,43.083756",
     "geom:latitude":43.083756,
     "geom:longitude":-96.790193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 W Cedar St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403822441,
-    "wof:lastmodified":1449055910,
+    "wof:lastmodified":1467082684,
     "wof:name":"Beresford Dollar Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.790193,43.083756,-96.790193,43.083756],
+  "bbox": [
+    -96.790193,
+    43.083756,
+    -96.790193,
+    43.083756
+],
   "geometry": {"coordinates":[-96.790193,43.083756],"type":"Point"}
 }

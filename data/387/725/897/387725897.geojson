@@ -2,13 +2,14 @@
   "id": 387725897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10985,43.996969,-97.10985,43.996969",
     "geom:latitude":43.996969,
     "geom:longitude":-97.10985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Washington Ave S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387725897,
-    "wof:lastmodified":1449057031,
+    "wof:lastmodified":1467082705,
     "wof:name":"Robert J Summerer Do",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"
     ]
 },
-  "bbox": [-97.10985,43.996969,-97.10985,43.996969],
-  "geometry": {"coordinates":[-97.10985,43.996969],"type":"Point"}
+  "bbox": [
+    -97.10985,
+    43.996969,
+    -97.10985,
+    43.996969
+],
+  "geometry": {"coordinates":[-97.10984999999999,43.996969],"type":"Point"}
 }

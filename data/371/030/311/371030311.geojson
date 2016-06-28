@@ -2,13 +2,14 @@
   "id": 371030311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722729,43.568599,-96.722729,43.568599",
     "geom:latitude":43.568599,
     "geom:longitude":-96.722729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 North Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371030311,
-    "wof:lastmodified":1449049396,
+    "wof:lastmodified":1467082663,
     "wof:name":"Penitentiary",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "institution"
     ]
 },
-  "bbox": [-96.722729,43.568599,-96.722729,43.568599],
+  "bbox": [
+    -96.722729,
+    43.568599,
+    -96.722729,
+    43.568599
+],
   "geometry": {"coordinates":[-96.722729,43.568599],"type":"Point"}
 }

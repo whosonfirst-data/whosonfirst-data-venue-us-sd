@@ -2,13 +2,14 @@
   "id": 371146789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802392,45.099642,-96.802392,45.099642",
     "geom:latitude":45.099642,
     "geom:longitude":-96.802392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Johnson Ave",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371146789,
-    "wof:lastmodified":1449049454,
+    "wof:lastmodified":1467082664,
     "wof:name":"SMA Elevator Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elevator"
     ]
 },
-  "bbox": [-96.802392,45.099642,-96.802392,45.099642],
+  "bbox": [
+    -96.802392,
+    45.099642,
+    -96.802392,
+    45.099642
+],
   "geometry": {"coordinates":[-96.802392,45.099642],"type":"Point"}
 }

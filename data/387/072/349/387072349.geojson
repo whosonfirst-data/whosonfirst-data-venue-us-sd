@@ -2,13 +2,14 @@
   "id": 387072349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249514,44.076691,-103.249514,44.076691",
     "geom:latitude":44.076691,
     "geom:longitude":-103.249514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 W Fulton St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387072349,
-    "wof:lastmodified":1449058112,
+    "wof:lastmodified":1467082727,
     "wof:name":"SunAmerica",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-103.249514,44.076691,-103.249514,44.076691],
+  "bbox": [
+    -103.249514,
+    44.076691,
+    -103.249514,
+    44.076691
+],
   "geometry": {"coordinates":[-103.249514,44.076691],"type":"Point"}
 }

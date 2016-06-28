@@ -2,13 +2,14 @@
   "id": 403711365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.579799,43.427727,-98.579799,43.427727",
     "geom:latitude":43.427727,
     "geom:longitude":-98.579799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38048 273rd St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403711365,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1467082683,
     "wof:name":"V B Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.579799,43.427727,-98.579799,43.427727],
-  "geometry": {"coordinates":[-98.579799,43.427727],"type":"Point"}
+  "bbox": [
+    -98.579799,
+    43.427727,
+    -98.579799,
+    43.427727
+],
+  "geometry": {"coordinates":[-98.57979899999999,43.427727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387936247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.067545,44.764888,-97.067545,44.764888",
     "geom:latitude":44.764888,
     "geom:longitude":-97.067545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18071 457th Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387936247,
-    "wof:lastmodified":1449057368,
+    "wof:lastmodified":1467082712,
     "wof:name":"J Raasch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.067545,44.764888,-97.067545,44.764888],
+  "bbox": [
+    -97.067545,
+    44.764888,
+    -97.067545,
+    44.764888
+],
   "geometry": {"coordinates":[-97.067545,44.764888],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387169513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112864,44.899882,-97.112864,44.899882",
     "geom:latitude":44.899882,
     "geom:longitude":-97.112864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 S Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387169513,
-    "wof:lastmodified":1449058450,
+    "wof:lastmodified":1467082734,
     "wof:name":"First Dakota Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "escrow"
     ]
 },
-  "bbox": [-97.112864,44.899882,-97.112864,44.899882],
+  "bbox": [
+    -97.112864,
+    44.899882,
+    -97.112864,
+    44.899882
+],
   "geometry": {"coordinates":[-97.112864,44.899882],"type":"Point"}
 }

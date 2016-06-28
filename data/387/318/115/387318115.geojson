@@ -2,13 +2,14 @@
   "id": 387318115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13663,43.394626,-97.13663,43.394626",
     "geom:latitude":43.394626,
     "geom:longitude":-97.13663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 S Main St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387318115,
-    "wof:lastmodified":1449056942,
+    "wof:lastmodified":1467082703,
     "wof:name":"Kelley's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.13663,43.394626,-97.13663,43.394626],
+  "bbox": [
+    -97.13663,
+    43.394626,
+    -97.13663,
+    43.394626
+],
   "geometry": {"coordinates":[-97.13663,43.394626],"type":"Point"}
 }

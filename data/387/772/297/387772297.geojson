@@ -2,13 +2,14 @@
   "id": 387772297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944444,43.732408,-96.944444,43.732408",
     "geom:latitude":43.732408,
     "geom:longitude":-96.944444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46332 252nd St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387772297,
-    "wof:lastmodified":1449057810,
+    "wof:lastmodified":1467082721,
     "wof:name":"Paulson Brother Dairy",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.944444,43.732408,-96.944444,43.732408],
+  "bbox": [
+    -96.944444,
+    43.732408,
+    -96.944444,
+    43.732408
+],
   "geometry": {"coordinates":[-96.944444,43.732408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371036127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.433073,44.077306,-103.433073,44.077306",
     "geom:latitude":44.077306,
     "geom:longitude":-103.433073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12001 Brookside Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371036127,
-    "wof:lastmodified":1449049269,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ems Consulting Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-103.433073,44.077306,-103.433073,44.077306],
-  "geometry": {"coordinates":[-103.433073,44.077306],"type":"Point"}
+  "bbox": [
+    -103.433073,
+    44.077306,
+    -103.433073,
+    44.077306
+],
+  "geometry": {"coordinates":[-103.43307299999999,44.077306],"type":"Point"}
 }

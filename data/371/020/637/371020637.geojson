@@ -2,13 +2,14 @@
   "id": 371020637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.176687,45.559977,-98.176687,45.559977",
     "geom:latitude":45.559977,
     "geom:longitude":-98.176687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12585 Putney Rd",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371020637,
-    "wof:lastmodified":1449049487,
+    "wof:lastmodified":1467082664,
     "wof:name":"Kevin Pharis",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.176687,45.559977,-98.176687,45.559977],
+  "bbox": [
+    -98.176687,
+    45.559977,
+    -98.176687,
+    45.559977
+],
   "geometry": {"coordinates":[-98.176687,45.559977],"type":"Point"}
 }

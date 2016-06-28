@@ -2,13 +2,14 @@
   "id": 371137313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.382546,43.717641,-97.382546,43.717641",
     "geom:latitude":43.717641,
     "geom:longitude":-97.382546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 S Hill St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371137313,
-    "wof:lastmodified":1449049994,
+    "wof:lastmodified":1467082671,
     "wof:name":"Mc Greevy Clinic-Salem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.382546,43.717641,-97.382546,43.717641],
+  "bbox": [
+    -97.382546,
+    43.717641,
+    -97.382546,
+    43.717641
+],
   "geometry": {"coordinates":[-97.382546,43.717641],"type":"Point"}
 }

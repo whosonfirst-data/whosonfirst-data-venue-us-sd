@@ -2,13 +2,14 @@
   "id": 387659839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747573,43.540239,-96.747573,43.540239",
     "geom:latitude":43.540239,
     "geom:longitude":-96.747573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 S Glendale Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387659839,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1467082695,
     "wof:name":"American Indian Scial RES Inst",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tribe"
     ]
 },
-  "bbox": [-96.747573,43.540239,-96.747573,43.540239],
+  "bbox": [
+    -96.747573,
+    43.540239,
+    -96.747573,
+    43.540239
+],
   "geometry": {"coordinates":[-96.747573,43.540239],"type":"Point"}
 }

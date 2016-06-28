@@ -2,13 +2,14 @@
   "id": 387890121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.069081,43.71658,-98.069081,43.71658",
     "geom:latitude":43.71658,
     "geom:longitude":-98.069081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40690 253rd St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387890121,
-    "wof:lastmodified":1449056938,
+    "wof:lastmodified":1467082703,
     "wof:name":"Dakota Shine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.069081,43.71658,-98.069081,43.71658],
+  "bbox": [
+    -98.069081,
+    43.71658,
+    -98.069081,
+    43.71658
+],
   "geometry": {"coordinates":[-98.069081,43.71658],"type":"Point"}
 }

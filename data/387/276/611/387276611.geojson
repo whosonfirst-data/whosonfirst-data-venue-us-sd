@@ -2,13 +2,14 @@
   "id": 387276611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.98868,44.524796,-98.98868,44.524796",
     "geom:latitude":44.524796,
     "geom:longitude":-98.98868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387276611,
-    "wof:lastmodified":1449056259,
+    "wof:lastmodified":1467082690,
     "wof:name":"Wilber's Seed Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-98.98868,44.524796,-98.98868,44.524796],
+  "bbox": [
+    -98.98868,
+    44.524796,
+    -98.98868,
+    44.524796
+],
   "geometry": {"coordinates":[-98.98868,44.524796],"type":"Point"}
 }

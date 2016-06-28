@@ -2,13 +2,14 @@
   "id": 387531555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929188,43.785006,-96.929188,43.785006",
     "geom:latitude":43.785006,
     "geom:longitude":-96.929188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 6th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387531555,
-    "wof:lastmodified":1449057006,
+    "wof:lastmodified":1467082704,
     "wof:name":"Bob's Upholstery",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-96.929188,43.785006,-96.929188,43.785006],
+  "bbox": [
+    -96.929188,
+    43.785006,
+    -96.929188,
+    43.785006
+],
   "geometry": {"coordinates":[-96.929188,43.785006],"type":"Point"}
 }

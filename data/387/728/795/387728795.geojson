@@ -2,13 +2,14 @@
   "id": 387728795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480956,45.465234,-98.480956,45.465234",
     "geom:latitude":45.465234,
     "geom:longitude":-98.480956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Railroad Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387728795,
-    "wof:lastmodified":1449056993,
+    "wof:lastmodified":1467082704,
     "wof:name":"Dial-A-Haul",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "air"
     ]
 },
-  "bbox": [-98.480956,45.465234,-98.480956,45.465234],
-  "geometry": {"coordinates":[-98.480956,45.465234],"type":"Point"}
+  "bbox": [
+    -98.480956,
+    45.465234,
+    -98.480956,
+    45.465234
+],
+  "geometry": {"coordinates":[-98.48095600000001,45.465234],"type":"Point"}
 }

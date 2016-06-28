@@ -2,13 +2,14 @@
   "id": 387271281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.30326,44.083846,-103.30326,44.083846",
     "geom:latitude":44.083846,
     "geom:longitude":-103.30326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Pinedale Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387271281,
-    "wof:lastmodified":1449058102,
+    "wof:lastmodified":1467082727,
     "wof:name":"Gerald Thovson",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.30326,44.083846,-103.30326,44.083846],
-  "geometry": {"coordinates":[-103.30326,44.083846],"type":"Point"}
+  "bbox": [
+    -103.30326,
+    44.083846,
+    -103.30326,
+    44.083846
+],
+  "geometry": {"coordinates":[-103.30325999999999,44.083846],"type":"Point"}
 }

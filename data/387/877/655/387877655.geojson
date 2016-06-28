@@ -2,13 +2,14 @@
   "id": 387877655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.104123,44.901057,-97.104123,44.901057",
     "geom:latitude":44.901057,
     "geom:longitude":-97.104123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 Arrow Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387877655,
-    "wof:lastmodified":1449058782,
+    "wof:lastmodified":1467082740,
     "wof:name":"Ron's Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.104123,44.901057,-97.104123,44.901057],
+  "bbox": [
+    -97.104123,
+    44.901057,
+    -97.104123,
+    44.901057
+],
   "geometry": {"coordinates":[-97.104123,44.901057],"type":"Point"}
 }

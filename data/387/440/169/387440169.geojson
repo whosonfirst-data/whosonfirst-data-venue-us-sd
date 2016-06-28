@@ -2,13 +2,14 @@
   "id": 387440169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.197996,44.078452,-103.197996,44.078452",
     "geom:latitude":44.078452,
     "geom:longitude":-103.197996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E Centre St",
     "sg:city":"Kyle",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387440169,
-    "wof:lastmodified":1449057447,
+    "wof:lastmodified":1467082713,
     "wof:name":"Community Hlth Pub Hlth Alance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "health"
     ]
 },
-  "bbox": [-103.197996,44.078452,-103.197996,44.078452],
+  "bbox": [
+    -103.197996,
+    44.078452,
+    -103.197996,
+    44.078452
+],
   "geometry": {"coordinates":[-103.197996,44.078452],"type":"Point"}
 }

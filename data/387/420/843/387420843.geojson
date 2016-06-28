@@ -2,13 +2,14 @@
   "id": 387420843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747453,43.521296,-96.747453,43.521296",
     "geom:latitude":43.521296,
     "geom:longitude":-96.747453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 S Glendale Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387420843,
-    "wof:lastmodified":1449057920,
+    "wof:lastmodified":1467082723,
     "wof:name":"Richardson Supply",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-96.747453,43.521296,-96.747453,43.521296],
-  "geometry": {"coordinates":[-96.747453,43.521296],"type":"Point"}
+  "bbox": [
+    -96.747453,
+    43.521296,
+    -96.747453,
+    43.521296
+],
+  "geometry": {"coordinates":[-96.74745299999999,43.521296],"type":"Point"}
 }

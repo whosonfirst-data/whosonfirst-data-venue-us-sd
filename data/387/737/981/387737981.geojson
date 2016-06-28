@@ -2,13 +2,14 @@
   "id": 387737981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.233782,44.073829,-103.233782,44.073829",
     "geom:latitude":44.073829,
     "geom:longitude":-103.233782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 Fairview St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387737981,
-    "wof:lastmodified":1449056953,
+    "wof:lastmodified":1467082703,
     "wof:name":"Norton Guest Home",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-103.233782,44.073829,-103.233782,44.073829],
-  "geometry": {"coordinates":[-103.233782,44.073829],"type":"Point"}
+  "bbox": [
+    -103.233782,
+    44.073829,
+    -103.233782,
+    44.073829
+],
+  "geometry": {"coordinates":[-103.23378200000001,44.073829],"type":"Point"}
 }

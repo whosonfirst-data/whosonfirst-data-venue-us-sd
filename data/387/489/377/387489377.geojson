@@ -2,13 +2,14 @@
   "id": 387489377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.72836,44.369924,-103.72836,44.369924",
     "geom:latitude":44.369924,
     "geom:longitude":-103.72836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Charles St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387489377,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1467082729,
     "wof:name":"Cedar Wood Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.72836,44.369924,-103.72836,44.369924],
+  "bbox": [
+    -103.72836,
+    44.369924,
+    -103.72836,
+    44.369924
+],
   "geometry": {"coordinates":[-103.72836,44.369924],"type":"Point"}
 }

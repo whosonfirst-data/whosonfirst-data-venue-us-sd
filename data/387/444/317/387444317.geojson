@@ -2,13 +2,14 @@
   "id": 387444317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.089904,44.90791,-97.089904,44.90791",
     "geom:latitude":44.90791,
     "geom:longitude":-97.089904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Sunrise Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387444317,
-    "wof:lastmodified":1449059402,
+    "wof:lastmodified":1467082753,
     "wof:name":"Midwest Dent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.089904,44.90791,-97.089904,44.90791],
+  "bbox": [
+    -97.089904,
+    44.90791,
+    -97.089904,
+    44.90791
+],
   "geometry": {"coordinates":[-97.089904,44.90791],"type":"Point"}
 }

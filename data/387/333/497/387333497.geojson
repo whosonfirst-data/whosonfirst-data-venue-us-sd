@@ -2,13 +2,14 @@
   "id": 387333497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.504753,44.414288,-103.504753,44.414288",
     "geom:latitude":44.414288,
     "geom:longitude":-103.504753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"868 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387333497,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1467082758,
     "wof:name":"Veterans Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-103.504753,44.414288,-103.504753,44.414288],
-  "geometry": {"coordinates":[-103.504753,44.414288],"type":"Point"}
+  "bbox": [
+    -103.504753,
+    44.414288,
+    -103.504753,
+    44.414288
+],
+  "geometry": {"coordinates":[-103.50475299999999,44.414288],"type":"Point"}
 }

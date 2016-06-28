@@ -2,13 +2,14 @@
   "id": 387390479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.344968,43.317759,-98.344968,43.317759",
     "geom:latitude":43.317759,
     "geom:longitude":-98.344968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 1st St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387390479,
-    "wof:lastmodified":1449059960,
+    "wof:lastmodified":1467082764,
     "wof:name":"Krull's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.344968,43.317759,-98.344968,43.317759],
-  "geometry": {"coordinates":[-98.344968,43.317759],"type":"Point"}
+  "bbox": [
+    -98.344968,
+    43.317759,
+    -98.344968,
+    43.317759
+],
+  "geometry": {"coordinates":[-98.34496799999999,43.317759],"type":"Point"}
 }

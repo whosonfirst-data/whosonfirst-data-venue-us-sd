@@ -2,13 +2,14 @@
   "id": 387349673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111229,44.899504,-97.111229,44.899504",
     "geom:latitude":44.899504,
     "geom:longitude":-97.111229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 2nd St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387349673,
-    "wof:lastmodified":1449057542,
+    "wof:lastmodified":1467082715,
     "wof:name":"Prairiewave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "company"
     ]
 },
-  "bbox": [-97.111229,44.899504,-97.111229,44.899504],
-  "geometry": {"coordinates":[-97.111229,44.899504],"type":"Point"}
+  "bbox": [
+    -97.111229,
+    44.899504,
+    -97.111229,
+    44.899504
+],
+  "geometry": {"coordinates":[-97.11122899999999,44.899504],"type":"Point"}
 }

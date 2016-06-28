@@ -2,13 +2,14 @@
   "id": 387535243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112784,44.005177,-97.112784,44.005177",
     "geom:latitude":44.005177,
     "geom:longitude":-97.112784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387535243,
-    "wof:lastmodified":1449056788,
+    "wof:lastmodified":1467082700,
     "wof:name":"Insurance Associate Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.112784,44.005177,-97.112784,44.005177],
+  "bbox": [
+    -97.112784,
+    44.005177,
+    -97.112784,
+    44.005177
+],
   "geometry": {"coordinates":[-97.112784,44.005177],"type":"Point"}
 }

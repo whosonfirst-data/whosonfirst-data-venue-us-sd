@@ -2,13 +2,14 @@
   "id": 387848553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.192449,45.580287,-100.192449,45.580287",
     "geom:latitude":45.580287,
     "geom:longitude":-100.192449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29954 125th St",
     "sg:city":"Glenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387848553,
-    "wof:lastmodified":1449056636,
+    "wof:lastmodified":1467082697,
     "wof:name":"Wesley Moser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.192449,45.580287,-100.192449,45.580287],
+  "bbox": [
+    -100.192449,
+    45.580287,
+    -100.192449,
+    45.580287
+],
   "geometry": {"coordinates":[-100.192449,45.580287],"type":"Point"}
 }

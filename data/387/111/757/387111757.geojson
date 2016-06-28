@@ -2,13 +2,14 @@
   "id": 387111757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.35058,43.939814,-103.35058,43.939814",
     "geom:latitude":43.939814,
     "geom:longitude":-103.35058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23921 Hidden Valley Trl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387111757,
-    "wof:lastmodified":1449060036,
+    "wof:lastmodified":1467082766,
     "wof:name":"Rochford Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.35058,43.939814,-103.35058,43.939814],
-  "geometry": {"coordinates":[-103.35058,43.939814],"type":"Point"}
+  "bbox": [
+    -103.35058,
+    43.939814,
+    -103.35058,
+    43.939814
+],
+  "geometry": {"coordinates":[-103.35057999999999,43.939814],"type":"Point"}
 }

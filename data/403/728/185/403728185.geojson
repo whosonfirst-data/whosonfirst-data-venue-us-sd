@@ -2,13 +2,14 @@
   "id": 403728185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111071,44.903496,-97.111071,44.903496",
     "geom:latitude":44.903496,
     "geom:longitude":-97.111071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"182 N Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403728185,
-    "wof:lastmodified":1449054951,
+    "wof:lastmodified":1467082677,
     "wof:name":"Koehn Marketing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "livestock"
     ]
 },
-  "bbox": [-97.111071,44.903496,-97.111071,44.903496],
+  "bbox": [
+    -97.111071,
+    44.903496,
+    -97.111071,
+    44.903496
+],
   "geometry": {"coordinates":[-97.111071,44.903496],"type":"Point"}
 }

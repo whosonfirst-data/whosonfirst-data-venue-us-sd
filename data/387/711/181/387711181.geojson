@@ -2,13 +2,14 @@
   "id": 387711181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.293429,43.083455,-98.293429,43.083455",
     "geom:latitude":43.083455,
     "geom:longitude":-98.293429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Main Ave N",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387711181,
-    "wof:lastmodified":1449059224,
+    "wof:lastmodified":1467082749,
     "wof:name":"Bomgaars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-98.293429,43.083455,-98.293429,43.083455],
+  "bbox": [
+    -98.293429,
+    43.083455,
+    -98.293429,
+    43.083455
+],
   "geometry": {"coordinates":[-98.293429,43.083455],"type":"Point"}
 }

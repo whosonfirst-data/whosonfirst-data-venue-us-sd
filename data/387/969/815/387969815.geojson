@@ -2,13 +2,14 @@
   "id": 387969815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800394,44.30903,-96.800394,44.30903",
     "geom:latitude":44.30903,
     "geom:longitude":-96.800394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 3rd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387969815,
-    "wof:lastmodified":1449057015,
+    "wof:lastmodified":1467082705,
     "wof:name":"Brookings Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "executive"
     ]
 },
-  "bbox": [-96.800394,44.30903,-96.800394,44.30903],
+  "bbox": [
+    -96.800394,
+    44.30903,
+    -96.800394,
+    44.30903
+],
   "geometry": {"coordinates":[-96.800394,44.30903],"type":"Point"}
 }

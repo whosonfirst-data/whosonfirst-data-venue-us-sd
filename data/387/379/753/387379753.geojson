@@ -2,13 +2,14 @@
   "id": 387379753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508327,45.334406,-97.508327,45.334406",
     "geom:latitude":45.334406,
     "geom:longitude":-97.508327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 E 8th St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387379753,
-    "wof:lastmodified":1449058316,
+    "wof:lastmodified":1467082731,
     "wof:name":"Dave's Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.508327,45.334406,-97.508327,45.334406],
-  "geometry": {"coordinates":[-97.508327,45.334406],"type":"Point"}
+  "bbox": [
+    -97.508327,
+    45.334406,
+    -97.508327,
+    45.334406
+],
+  "geometry": {"coordinates":[-97.50832699999999,45.334406],"type":"Point"}
 }

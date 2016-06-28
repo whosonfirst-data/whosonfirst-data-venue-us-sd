@@ -2,13 +2,14 @@
   "id": 387179845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530497,44.004574,-97.530497,44.004574",
     "geom:latitude":44.004574,
     "geom:longitude":-97.530497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23345 434th Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387179845,
-    "wof:lastmodified":1449059523,
+    "wof:lastmodified":1467082755,
     "wof:name":"Three Family's Beef LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.530497,44.004574,-97.530497,44.004574],
+  "bbox": [
+    -97.530497,
+    44.004574,
+    -97.530497,
+    44.004574
+],
   "geometry": {"coordinates":[-97.530497,44.004574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387581281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731103,43.507003,-96.731103,43.507003",
     "geom:latitude":43.507003,
     "geom:longitude":-96.731103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387581281,
-    "wof:lastmodified":1449056908,
+    "wof:lastmodified":1467082702,
     "wof:name":"Lutheran Brotherhood",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.731103,43.507003,-96.731103,43.507003],
+  "bbox": [
+    -96.731103,
+    43.507003,
+    -96.731103,
+    43.507003
+],
   "geometry": {"coordinates":[-96.731103,43.507003],"type":"Point"}
 }

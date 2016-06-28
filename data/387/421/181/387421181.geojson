@@ -2,13 +2,14 @@
   "id": 387421181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.954357,43.537665,-96.954357,43.537665",
     "geom:latitude":43.537665,
     "geom:longitude":-96.954357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26547 E Shore Pl",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387421181,
-    "wof:lastmodified":1449058523,
+    "wof:lastmodified":1467082735,
     "wof:name":"Upton Design & Drafting",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drafting"
     ]
 },
-  "bbox": [-96.954357,43.537665,-96.954357,43.537665],
+  "bbox": [
+    -96.954357,
+    43.537665,
+    -96.954357,
+    43.537665
+],
   "geometry": {"coordinates":[-96.954357,43.537665],"type":"Point"}
 }

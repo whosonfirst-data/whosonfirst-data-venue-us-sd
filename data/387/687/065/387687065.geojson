@@ -2,13 +2,14 @@
   "id": 387687065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598674,43.767864,-103.598674,43.767864",
     "geom:latitude":43.767864,
     "geom:longitude":-103.598674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Crook St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387687065,
-    "wof:lastmodified":1449057168,
+    "wof:lastmodified":1467082708,
     "wof:name":"Custer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-103.598674,43.767864,-103.598674,43.767864],
+  "bbox": [
+    -103.598674,
+    43.767864,
+    -103.598674,
+    43.767864
+],
   "geometry": {"coordinates":[-103.598674,43.767864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387681883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.525054,44.870424,-98.525054,44.870424",
     "geom:latitude":44.870424,
     "geom:longitude":-98.525054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 W 4th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387681883,
-    "wof:lastmodified":1449058430,
+    "wof:lastmodified":1467082733,
     "wof:name":"Tamara's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.525054,44.870424,-98.525054,44.870424],
+  "bbox": [
+    -98.525054,
+    44.870424,
+    -98.525054,
+    44.870424
+],
   "geometry": {"coordinates":[-98.525054,44.870424],"type":"Point"}
 }

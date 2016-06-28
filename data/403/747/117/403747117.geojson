@@ -2,13 +2,14 @@
   "id": 403747117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79853,44.312509,-96.79853,44.312509",
     "geom:latitude":44.312509,
     "geom:longitude":-96.79853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403747117,
-    "wof:lastmodified":1449054873,
+    "wof:lastmodified":1467082676,
     "wof:name":"Dakota Hearing Instruments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "impaired"
     ]
 },
-  "bbox": [-96.79853,44.312509,-96.79853,44.312509],
+  "bbox": [
+    -96.79853,
+    44.312509,
+    -96.79853,
+    44.312509
+],
   "geometry": {"coordinates":[-96.79853,44.312509],"type":"Point"}
 }

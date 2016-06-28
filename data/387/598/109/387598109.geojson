@@ -2,13 +2,14 @@
   "id": 387598109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709672,43.804353,-96.709672,43.804353",
     "geom:latitude":43.804353,
     "geom:longitude":-96.709672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24696 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387598109,
-    "wof:lastmodified":1449056314,
+    "wof:lastmodified":1467082691,
     "wof:name":"Dells Collision Repair",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.709672,43.804353,-96.709672,43.804353],
+  "bbox": [
+    -96.709672,
+    43.804353,
+    -96.709672,
+    43.804353
+],
   "geometry": {"coordinates":[-96.709672,43.804353],"type":"Point"}
 }

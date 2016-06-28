@@ -2,13 +2,14 @@
   "id": 387176129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.494936,45.473891,-98.494936,45.473891",
     "geom:latitude":45.473891,
     "geom:longitude":-98.494936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 8th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387176129,
-    "wof:lastmodified":1449058597,
+    "wof:lastmodified":1467082737,
     "wof:name":"Manorcare Health Svcs Aberdeen",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-98.494936,45.473891,-98.494936,45.473891],
+  "bbox": [
+    -98.494936,
+    45.473891,
+    -98.494936,
+    45.473891
+],
   "geometry": {"coordinates":[-98.494936,45.473891],"type":"Point"}
 }

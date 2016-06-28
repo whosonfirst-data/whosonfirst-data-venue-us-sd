@@ -2,13 +2,14 @@
   "id": 387151185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.74926,43.255873,-99.74926,43.255873",
     "geom:latitude":43.255873,
     "geom:longitude":-99.74926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32117 286th St",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387151185,
-    "wof:lastmodified":1449056157,
+    "wof:lastmodified":1467082688,
     "wof:name":"Bolton Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hatchery"
     ]
 },
-  "bbox": [-99.74926,43.255873,-99.74926,43.255873],
-  "geometry": {"coordinates":[-99.74926,43.255873],"type":"Point"}
+  "bbox": [
+    -99.74926,
+    43.255873,
+    -99.74926,
+    43.255873
+],
+  "geometry": {"coordinates":[-99.74926000000001,43.255873],"type":"Point"}
 }

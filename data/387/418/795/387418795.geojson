@@ -2,13 +2,14 @@
   "id": 387418795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857745,44.488976,-103.857745,44.488976",
     "geom:latitude":44.488976,
     "geom:longitude":-103.857745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 E Hudson St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387418795,
-    "wof:lastmodified":1449059089,
+    "wof:lastmodified":1467082746,
     "wof:name":"Black Hills Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-103.857745,44.488976,-103.857745,44.488976],
-  "geometry": {"coordinates":[-103.857745,44.488976],"type":"Point"}
+  "bbox": [
+    -103.857745,
+    44.488976,
+    -103.857745,
+    44.488976
+],
+  "geometry": {"coordinates":[-103.85774499999999,44.488976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387504323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.497136,45.444883,-98.497136,45.444883",
     "geom:latitude":45.444883,
     "geom:longitude":-98.497136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Melgaard Rd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387504323,
-    "wof:lastmodified":1449056768,
+    "wof:lastmodified":1467082700,
     "wof:name":"H F Jacobs & Sons Constr Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gravel"
     ]
 },
-  "bbox": [-98.497136,45.444883,-98.497136,45.444883],
+  "bbox": [
+    -98.497136,
+    45.444883,
+    -98.497136,
+    45.444883
+],
   "geometry": {"coordinates":[-98.497136,45.444883],"type":"Point"}
 }

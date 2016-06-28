@@ -2,13 +2,14 @@
   "id": 387594379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.570554,43.596791,-96.570554,43.596791",
     "geom:latitude":43.596791,
     "geom:longitude":-96.570554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N Needles Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387594379,
-    "wof:lastmodified":1449056650,
+    "wof:lastmodified":1467082697,
     "wof:name":"Dibdahl Day Care",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.570554,43.596791,-96.570554,43.596791],
+  "bbox": [
+    -96.570554,
+    43.596791,
+    -96.570554,
+    43.596791
+],
   "geometry": {"coordinates":[-96.570554,43.596791],"type":"Point"}
 }

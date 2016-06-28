@@ -2,13 +2,14 @@
   "id": 387781909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207738,44.0875,-103.207738,44.0875",
     "geom:latitude":44.0875,
     "geom:longitude":-103.207738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387781909,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1467082701,
     "wof:name":"Rapid Auto Glass",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-103.207738,44.0875,-103.207738,44.0875],
-  "geometry": {"coordinates":[-103.207738,44.0875],"type":"Point"}
+  "bbox": [
+    -103.207738,
+    44.0875,
+    -103.207738,
+    44.0875
+],
+  "geometry": {"coordinates":[-103.20773800000001,44.0875],"type":"Point"}
 }

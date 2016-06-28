@@ -2,13 +2,14 @@
   "id": 403703351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.48114,43.436394,-103.48114,43.436394",
     "geom:latitude":43.436394,
     "geom:longitude":-103.48114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403703351,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1467082678,
     "wof:name":"Traden A Dollar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.48114,43.436394,-103.48114,43.436394],
+  "bbox": [
+    -103.48114,
+    43.436394,
+    -103.48114,
+    43.436394
+],
   "geometry": {"coordinates":[-103.48114,43.436394],"type":"Point"}
 }

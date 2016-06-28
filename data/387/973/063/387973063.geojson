@@ -2,13 +2,14 @@
   "id": 387973063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702716,43.540379,-96.702716,43.540379",
     "geom:latitude":43.540379,
     "geom:longitude":-96.702716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S Jessica Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387973063,
-    "wof:lastmodified":1449058387,
+    "wof:lastmodified":1467082732,
     "wof:name":"Olson Hardwood Floors",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-96.702716,43.540379,-96.702716,43.540379],
+  "bbox": [
+    -96.702716,
+    43.540379,
+    -96.702716,
+    43.540379
+],
   "geometry": {"coordinates":[-96.702716,43.540379],"type":"Point"}
 }

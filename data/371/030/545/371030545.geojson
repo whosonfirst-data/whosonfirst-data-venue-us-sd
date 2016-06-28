@@ -2,13 +2,14 @@
   "id": 371030545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59459,43.582921,-96.59459,43.582921",
     "geom:latitude":43.582921,
     "geom:longitude":-96.59459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Birchwood Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371030545,
-    "wof:lastmodified":1449049397,
+    "wof:lastmodified":1467082663,
     "wof:name":"Heather's Cleaning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.59459,43.582921,-96.59459,43.582921],
+  "bbox": [
+    -96.59459,
+    43.582921,
+    -96.59459,
+    43.582921
+],
   "geometry": {"coordinates":[-96.59459,43.582921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403823591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.333757,43.810214,-99.333757,43.810214",
     "geom:latitude":43.810214,
     "geom:longitude":-99.333757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W King St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403823591,
-    "wof:lastmodified":1449055942,
+    "wof:lastmodified":1467082684,
     "wof:name":"Lawn Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-99.333757,43.810214,-99.333757,43.810214],
-  "geometry": {"coordinates":[-99.333757,43.810214],"type":"Point"}
+  "bbox": [
+    -99.333757,
+    43.810214,
+    -99.333757,
+    43.810214
+],
+  "geometry": {"coordinates":[-99.33375700000001,43.810214],"type":"Point"}
 }

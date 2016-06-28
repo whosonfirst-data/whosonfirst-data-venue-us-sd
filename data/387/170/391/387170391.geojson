@@ -2,13 +2,14 @@
   "id": 387170391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.446643,43.294411,-98.446643,43.294411",
     "geom:latitude":43.294411,
     "geom:longitude":-98.446643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28237 387th Ave",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387170391,
-    "wof:lastmodified":1449056462,
+    "wof:lastmodified":1467082694,
     "wof:name":"Armour Hunter Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.446643,43.294411,-98.446643,43.294411],
-  "geometry": {"coordinates":[-98.446643,43.294411],"type":"Point"}
+  "bbox": [
+    -98.446643,
+    43.294411,
+    -98.446643,
+    43.294411
+],
+  "geometry": {"coordinates":[-98.44664299999999,43.294411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387276981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.006628,43.010025,-98.006628,43.010025",
     "geom:latitude":43.010025,
     "geom:longitude":-98.006628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40950 302nd St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387276981,
-    "wof:lastmodified":1449056259,
+    "wof:lastmodified":1467082690,
     "wof:name":"Voigt Harlen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.006628,43.010025,-98.006628,43.010025],
-  "geometry": {"coordinates":[-98.006628,43.010025],"type":"Point"}
+  "bbox": [
+    -98.006628,
+    43.010025,
+    -98.006628,
+    43.010025
+],
+  "geometry": {"coordinates":[-98.00662800000001,43.010025],"type":"Point"}
 }

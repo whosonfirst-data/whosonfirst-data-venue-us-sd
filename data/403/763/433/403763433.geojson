@@ -2,13 +2,14 @@
   "id": 403763433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.326403,43.970773,-103.326403,43.970773",
     "geom:latitude":43.970773,
     "geom:longitude":-103.326403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13648 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403763433,
-    "wof:lastmodified":1449055954,
+    "wof:lastmodified":1467082684,
     "wof:name":"Christmas Village",
     "wof:parent_id":85811191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-103.326403,43.970773,-103.326403,43.970773],
+  "bbox": [
+    -103.326403,
+    43.970773,
+    -103.326403,
+    43.970773
+],
   "geometry": {"coordinates":[-103.326403,43.970773],"type":"Point"}
 }

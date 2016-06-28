@@ -2,13 +2,14 @@
   "id": 387487767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.209091,44.358673,-98.209091,44.358673",
     "geom:latitude":44.358673,
     "geom:longitude":-98.209091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Idaho Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387487767,
-    "wof:lastmodified":1449057341,
+    "wof:lastmodified":1467082711,
     "wof:name":"Brad Magness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.209091,44.358673,-98.209091,44.358673],
+  "bbox": [
+    -98.209091,
+    44.358673,
+    -98.209091,
+    44.358673
+],
   "geometry": {"coordinates":[-98.209091,44.358673],"type":"Point"}
 }

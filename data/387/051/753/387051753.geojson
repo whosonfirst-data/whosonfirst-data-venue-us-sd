@@ -2,13 +2,14 @@
   "id": 387051753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707589,43.500483,-96.707589,43.500483",
     "geom:latitude":43.500483,
     "geom:longitude":-96.707589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4806 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387051753,
-    "wof:lastmodified":1449058451,
+    "wof:lastmodified":1467082734,
     "wof:name":"One Hour Martinizing",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-96.707589,43.500483,-96.707589,43.500483],
+  "bbox": [
+    -96.707589,
+    43.500483,
+    -96.707589,
+    43.500483
+],
   "geometry": {"coordinates":[-96.707589,43.500483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387864301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789933,43.08129,-96.789933,43.08129",
     "geom:latitude":43.08129,
     "geom:longitude":-96.789933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N 16th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387864301,
-    "wof:lastmodified":1449059966,
+    "wof:lastmodified":1467082764,
     "wof:name":"Dan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.789933,43.08129,-96.789933,43.08129],
+  "bbox": [
+    -96.789933,
+    43.08129,
+    -96.789933,
+    43.08129
+],
   "geometry": {"coordinates":[-96.789933,43.08129],"type":"Point"}
 }

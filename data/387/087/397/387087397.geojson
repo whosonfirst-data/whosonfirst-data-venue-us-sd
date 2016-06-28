@@ -2,13 +2,14 @@
   "id": 387087397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.033463,44.969571,-99.033463,44.969571",
     "geom:latitude":44.969571,
     "geom:longitude":-99.033463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35721 167th St",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387087397,
-    "wof:lastmodified":1449057861,
+    "wof:lastmodified":1467082722,
     "wof:name":"Michael Kalkman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-99.033463,44.969571,-99.033463,44.969571],
+  "bbox": [
+    -99.033463,
+    44.969571,
+    -99.033463,
+    44.969571
+],
   "geometry": {"coordinates":[-99.033463,44.969571],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387847299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709777,43.810433,-96.709777,43.810433",
     "geom:latitude":43.810433,
     "geom:longitude":-96.709777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24641 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387847299,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1467082714,
     "wof:name":"Dell Rapids Veterinary Clinic",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.709777,43.810433,-96.709777,43.810433],
+  "bbox": [
+    -96.709777,
+    43.810433,
+    -96.709777,
+    43.810433
+],
   "geometry": {"coordinates":[-96.709777,43.810433],"type":"Point"}
 }

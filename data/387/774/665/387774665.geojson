@@ -2,13 +2,14 @@
   "id": 387774665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.760873,44.349001,-103.760873,44.349001",
     "geom:latitude":44.349001,
     "geom:longitude":-103.760873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Bleeker St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387774665,
-    "wof:lastmodified":1449057585,
+    "wof:lastmodified":1467082716,
     "wof:name":"Puttin On The Ritz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-103.760873,44.349001,-103.760873,44.349001],
+  "bbox": [
+    -103.760873,
+    44.349001,
+    -103.760873,
+    44.349001
+],
   "geometry": {"coordinates":[-103.760873,44.349001],"type":"Point"}
 }

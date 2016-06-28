@@ -2,13 +2,14 @@
   "id": 371070115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.171431,44.109226,-103.171431,44.109226",
     "geom:latitude":44.109226,
     "geom:longitude":-103.171431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2430 Dyess Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371070115,
-    "wof:lastmodified":1449049510,
+    "wof:lastmodified":1467082665,
     "wof:name":"Black Hills Moulding",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dime"
     ]
 },
-  "bbox": [-103.171431,44.109226,-103.171431,44.109226],
+  "bbox": [
+    -103.171431,
+    44.109226,
+    -103.171431,
+    44.109226
+],
   "geometry": {"coordinates":[-103.171431,44.109226],"type":"Point"}
 }

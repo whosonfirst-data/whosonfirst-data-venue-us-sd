@@ -2,13 +2,14 @@
   "id": 387493895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.035213,45.304961,-97.035213,45.304961",
     "geom:latitude":45.304961,
     "geom:longitude":-97.035213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Sherman Ave",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387493895,
-    "wof:lastmodified":1449057303,
+    "wof:lastmodified":1467082710,
     "wof:name":"Summit Bar & Rec Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.035213,45.304961,-97.035213,45.304961],
+  "bbox": [
+    -97.035213,
+    45.304961,
+    -97.035213,
+    45.304961
+],
   "geometry": {"coordinates":[-97.035213,45.304961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387096323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.958665,45.011323,-99.958665,45.011323",
     "geom:latitude":45.011323,
     "geom:longitude":-99.958665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Platte St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387096323,
-    "wof:lastmodified":1449057329,
+    "wof:lastmodified":1467082711,
     "wof:name":"Hair With Flair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.958665,45.011323,-99.958665,45.011323],
+  "bbox": [
+    -99.958665,
+    45.011323,
+    -99.958665,
+    45.011323
+],
   "geometry": {"coordinates":[-99.958665,45.011323],"type":"Point"}
 }

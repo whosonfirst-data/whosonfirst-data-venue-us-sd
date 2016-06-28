@@ -2,13 +2,14 @@
   "id": 371039933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.42392,45.538254,-100.42392,45.538254",
     "geom:latitude":45.538254,
     "geom:longitude":-100.42392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 7th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371039933,
-    "wof:lastmodified":1449050002,
+    "wof:lastmodified":1467082671,
     "wof:name":"Oster Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-100.42392,45.538254,-100.42392,45.538254],
+  "bbox": [
+    -100.42392,
+    45.538254,
+    -100.42392,
+    45.538254
+],
   "geometry": {"coordinates":[-100.42392,45.538254],"type":"Point"}
 }

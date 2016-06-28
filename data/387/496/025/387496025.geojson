@@ -2,13 +2,14 @@
   "id": 387496025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735312,43.544596,-96.735312,43.544596",
     "geom:latitude":43.544596,
     "geom:longitude":-96.735312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387496025,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467082752,
     "wof:name":"Mercato",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.735312,43.544596,-96.735312,43.544596],
-  "geometry": {"coordinates":[-96.735312,43.544596],"type":"Point"}
+  "bbox": [
+    -96.735312,
+    43.544596,
+    -96.735312,
+    43.544596
+],
+  "geometry": {"coordinates":[-96.73531199999999,43.544596],"type":"Point"}
 }

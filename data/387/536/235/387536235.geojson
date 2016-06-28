@@ -2,13 +2,14 @@
   "id": 387536235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.589684,43.594714,-96.589684,43.594714",
     "geom:latitude":43.594714,
     "geom:longitude":-96.589684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387536235,
-    "wof:lastmodified":1449058373,
+    "wof:lastmodified":1467082732,
     "wof:name":"Stylin Bahr",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.589684,43.594714,-96.589684,43.594714],
-  "geometry": {"coordinates":[-96.589684,43.594714],"type":"Point"}
+  "bbox": [
+    -96.589684,
+    43.594714,
+    -96.589684,
+    43.594714
+],
+  "geometry": {"coordinates":[-96.58968400000001,43.594714],"type":"Point"}
 }

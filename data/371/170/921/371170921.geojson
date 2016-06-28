@@ -2,13 +2,14 @@
   "id": 371170921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.860872,43.376465,-99.860872,43.376465",
     "geom:latitude":43.376465,
     "geom:longitude":-99.860872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371170921,
-    "wof:lastmodified":1449049120,
+    "wof:lastmodified":1467082659,
     "wof:name":"K J D's Health & Nutrition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [-99.860872,43.376465,-99.860872,43.376465],
+  "bbox": [
+    -99.860872,
+    43.376465,
+    -99.860872,
+    43.376465
+],
   "geometry": {"coordinates":[-99.860872,43.376465],"type":"Point"}
 }

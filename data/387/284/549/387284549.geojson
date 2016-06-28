@@ -2,13 +2,14 @@
   "id": 387284549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.371172,44.35464,-100.371172,44.35464",
     "geom:latitude":44.35464,
     "geom:longitude":-100.371172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Deadwood St",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387284549,
-    "wof:lastmodified":1449058468,
+    "wof:lastmodified":1467082734,
     "wof:name":"West Side Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-100.371172,44.35464,-100.371172,44.35464],
+  "bbox": [
+    -100.371172,
+    44.35464,
+    -100.371172,
+    44.35464
+],
   "geometry": {"coordinates":[-100.371172,44.35464],"type":"Point"}
 }

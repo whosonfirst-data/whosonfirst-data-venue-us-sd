@@ -2,13 +2,14 @@
   "id": 387715017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455637,44.443136,-98.455637,44.443136",
     "geom:latitude":44.443136,
     "geom:longitude":-98.455637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38820 203rd St",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387715017,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1467082748,
     "wof:name":"Langbehn Land & Cattle Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.455637,44.443136,-98.455637,44.443136],
+  "bbox": [
+    -98.455637,
+    44.443136,
+    -98.455637,
+    44.443136
+],
   "geometry": {"coordinates":[-98.455637,44.443136],"type":"Point"}
 }

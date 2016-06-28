@@ -2,13 +2,14 @@
   "id": 387650805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.591005,43.270193,-97.591005,43.270193",
     "geom:latitude":43.270193,
     "geom:longitude":-97.591005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43033 284th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387650805,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1467082733,
     "wof:name":"Earl Neuharth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.591005,43.270193,-97.591005,43.270193],
+  "bbox": [
+    -97.591005,
+    43.270193,
+    -97.591005,
+    43.270193
+],
   "geometry": {"coordinates":[-97.591005,43.270193],"type":"Point"}
 }

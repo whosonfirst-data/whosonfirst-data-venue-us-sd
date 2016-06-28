@@ -2,13 +2,14 @@
   "id": 387233223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735462,43.544597,-96.735462,43.544597",
     "geom:latitude":43.544597,
     "geom:longitude":-96.735462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387233223,
-    "wof:lastmodified":1449059982,
+    "wof:lastmodified":1467082764,
     "wof:name":"Hywet Grocery",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.735462,43.544597,-96.735462,43.544597],
+  "bbox": [
+    -96.735462,
+    43.544597,
+    -96.735462,
+    43.544597
+],
   "geometry": {"coordinates":[-96.735462,43.544597],"type":"Point"}
 }

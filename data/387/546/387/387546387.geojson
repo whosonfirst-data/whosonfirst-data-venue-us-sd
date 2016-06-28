@@ -2,13 +2,14 @@
   "id": 387546387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.294604,44.380373,-100.294604,44.380373",
     "geom:latitude":44.380373,
     "geom:longitude":-100.294604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3171 Airport Rd",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387546387,
-    "wof:lastmodified":1449056108,
+    "wof:lastmodified":1467082687,
     "wof:name":"Hideout Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-100.294604,44.380373,-100.294604,44.380373],
-  "geometry": {"coordinates":[-100.294604,44.380373],"type":"Point"}
+  "bbox": [
+    -100.294604,
+    44.380373,
+    -100.294604,
+    44.380373
+],
+  "geometry": {"coordinates":[-100.29460400000001,44.380373],"type":"Point"}
 }

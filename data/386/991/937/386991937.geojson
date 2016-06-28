@@ -2,13 +2,14 @@
   "id": 386991937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988605,44.523765,-98.988605,44.523765",
     "geom:latitude":44.523765,
     "geom:longitude":-98.988605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386991937,
-    "wof:lastmodified":1449028712,
+    "wof:lastmodified":1467082651,
     "wof:name":"Boomers 115",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.988605,44.523765,-98.988605,44.523765],
-  "geometry": {"coordinates":[-98.988605,44.523765],"type":"Point"}
+  "bbox": [
+    -98.988605,
+    44.523765,
+    -98.988605,
+    44.523765
+],
+  "geometry": {"coordinates":[-98.98860500000001,44.523765],"type":"Point"}
 }

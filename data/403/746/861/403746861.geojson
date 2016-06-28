@@ -2,13 +2,14 @@
   "id": 403746861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329637,43.811735,-99.329637,43.811735",
     "geom:latitude":43.811735,
     "geom:longitude":-99.329637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Beebe Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403746861,
-    "wof:lastmodified":1449054619,
+    "wof:lastmodified":1467082674,
     "wof:name":"Missouri Trader Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-99.329637,43.811735,-99.329637,43.811735],
-  "geometry": {"coordinates":[-99.329637,43.811735],"type":"Point"}
+  "bbox": [
+    -99.329637,
+    43.811735,
+    -99.329637,
+    43.811735
+],
+  "geometry": {"coordinates":[-99.32963700000001,43.811735],"type":"Point"}
 }

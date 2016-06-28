@@ -2,13 +2,14 @@
   "id": 387724207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480748,45.463195,-98.480748,45.463195",
     "geom:latitude":45.463195,
     "geom:longitude":-98.480748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 2nd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387724207,
-    "wof:lastmodified":1449059841,
+    "wof:lastmodified":1467082761,
     "wof:name":"Sacred Heart Catholic Rectory",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.480748,45.463195,-98.480748,45.463195],
-  "geometry": {"coordinates":[-98.480748,45.463195],"type":"Point"}
+  "bbox": [
+    -98.480748,
+    45.463195,
+    -98.480748,
+    45.463195
+],
+  "geometry": {"coordinates":[-98.48074800000001,45.463195],"type":"Point"}
 }

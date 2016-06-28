@@ -2,13 +2,14 @@
   "id": 387555519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.624302,43.326337,-98.624302,43.326337",
     "geom:latitude":43.326337,
     "geom:longitude":-98.624302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28023 378th Ave",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387555519,
-    "wof:lastmodified":1449059383,
+    "wof:lastmodified":1467082752,
     "wof:name":"Paul Wotciechowsk Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.624302,43.326337,-98.624302,43.326337],
+  "bbox": [
+    -98.624302,
+    43.326337,
+    -98.624302,
+    43.326337
+],
   "geometry": {"coordinates":[-98.624302,43.326337],"type":"Point"}
 }

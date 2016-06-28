@@ -2,13 +2,14 @@
   "id": 386942637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756173,43.559305,-96.756173,43.559305",
     "geom:latitude":43.559305,
     "geom:longitude":-96.756173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 N Elmwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386942637,
-    "wof:lastmodified":1449028763,
+    "wof:lastmodified":1467082652,
     "wof:name":"Creations Photography",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-96.756173,43.559305,-96.756173,43.559305],
+  "bbox": [
+    -96.756173,
+    43.559305,
+    -96.756173,
+    43.559305
+],
   "geometry": {"coordinates":[-96.756173,43.559305],"type":"Point"}
 }

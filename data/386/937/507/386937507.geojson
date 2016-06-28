@@ -2,13 +2,14 @@
   "id": 386937507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.201768,44.097028,-103.201768,44.097028",
     "geom:latitude":44.097028,
     "geom:longitude":-103.201768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 N Lacrosse St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386937507,
-    "wof:lastmodified":1449028678,
+    "wof:lastmodified":1467082650,
     "wof:name":"Mongolian Grill",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.201768,44.097028,-103.201768,44.097028],
+  "bbox": [
+    -103.201768,
+    44.097028,
+    -103.201768,
+    44.097028
+],
   "geometry": {"coordinates":[-103.201768,44.097028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370977387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728314,43.541567,-96.728314,43.541567",
     "geom:latitude":43.541567,
     "geom:longitude":-96.728314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370977387,
-    "wof:lastmodified":1449032561,
+    "wof:lastmodified":1467082658,
     "wof:name":"Financial Reserve Corp",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.728314,43.541567,-96.728314,43.541567],
+  "bbox": [
+    -96.728314,
+    43.541567,
+    -96.728314,
+    43.541567
+],
   "geometry": {"coordinates":[-96.728314,43.541567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386955755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746137,42.928036,-96.746137,42.928036",
     "geom:latitude":42.928036,
     "geom:longitude":-96.746137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30775 473rd Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386955755,
-    "wof:lastmodified":1449028837,
+    "wof:lastmodified":1467082653,
     "wof:name":"David Inberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-96.746137,42.928036,-96.746137,42.928036],
+  "bbox": [
+    -96.746137,
+    42.928036,
+    -96.746137,
+    42.928036
+],
   "geometry": {"coordinates":[-96.746137,42.928036],"type":"Point"}
 }

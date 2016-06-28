@@ -2,13 +2,14 @@
   "id": 387225727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806277,43.433874,-96.806277,43.433874",
     "geom:latitude":43.433874,
     "geom:longitude":-96.806277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27284 470th Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387225727,
-    "wof:lastmodified":1449057281,
+    "wof:lastmodified":1467082710,
     "wof:name":"Sioux Falls Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.806277,43.433874,-96.806277,43.433874],
-  "geometry": {"coordinates":[-96.806277,43.433874],"type":"Point"}
+  "bbox": [
+    -96.806277,
+    43.433874,
+    -96.806277,
+    43.433874
+],
+  "geometry": {"coordinates":[-96.80627699999999,43.433874],"type":"Point"}
 }

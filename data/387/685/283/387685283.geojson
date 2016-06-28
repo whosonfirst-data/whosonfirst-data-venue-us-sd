@@ -2,13 +2,14 @@
   "id": 387685283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684593,43.546647,-96.684593,43.546647",
     "geom:latitude":43.546647,
     "geom:longitude":-96.684593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3511 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387685283,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1467082761,
     "wof:name":"Evelyn's Floral Expressions",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gift"
     ]
 },
-  "bbox": [-96.684593,43.546647,-96.684593,43.546647],
-  "geometry": {"coordinates":[-96.684593,43.546647],"type":"Point"}
+  "bbox": [
+    -96.684593,
+    43.546647,
+    -96.684593,
+    43.546647
+],
+  "geometry": {"coordinates":[-96.68459300000001,43.546647],"type":"Point"}
 }

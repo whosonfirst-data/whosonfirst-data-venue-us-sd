@@ -2,13 +2,14 @@
   "id": 387546491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.028166,43.169329,-100.028166,43.169329",
     "geom:latitude":43.169329,
     "geom:longitude":-100.028166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29201 307th Ave",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387546491,
-    "wof:lastmodified":1449056103,
+    "wof:lastmodified":1467082687,
     "wof:name":"Clearfield Hall Auxiliary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-100.028166,43.169329,-100.028166,43.169329],
+  "bbox": [
+    -100.028166,
+    43.169329,
+    -100.028166,
+    43.169329
+],
   "geometry": {"coordinates":[-100.028166,43.169329],"type":"Point"}
 }

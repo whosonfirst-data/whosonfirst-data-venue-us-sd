@@ -2,13 +2,14 @@
   "id": 387839845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.836093,43.446408,-96.836093,43.446408",
     "geom:latitude":43.446408,
     "geom:longitude":-96.836093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 E 1st St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387839845,
-    "wof:lastmodified":1449058388,
+    "wof:lastmodified":1467082732,
     "wof:name":"Case Drum & Guitar Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.836093,43.446408,-96.836093,43.446408],
-  "geometry": {"coordinates":[-96.836093,43.446408],"type":"Point"}
+  "bbox": [
+    -96.836093,
+    43.446408,
+    -96.836093,
+    43.446408
+],
+  "geometry": {"coordinates":[-96.83609300000001,43.446408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387405181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.218221,45.748226,-98.218221,45.748226",
     "geom:latitude":45.748226,
     "geom:longitude":-98.218221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40057 113th St",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387405181,
-    "wof:lastmodified":1449059597,
+    "wof:lastmodified":1467082757,
     "wof:name":"Greg Peterson Trucking",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "transporter"
     ]
 },
-  "bbox": [-98.218221,45.748226,-98.218221,45.748226],
+  "bbox": [
+    -98.218221,
+    45.748226,
+    -98.218221,
+    45.748226
+],
   "geometry": {"coordinates":[-98.218221,45.748226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387218999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.954132,45.012363,-99.954132,45.012363",
     "geom:latitude":45.012363,
     "geom:longitude":-99.954132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N East St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387218999,
-    "wof:lastmodified":1449058523,
+    "wof:lastmodified":1467082735,
     "wof:name":"Great Western Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.954132,45.012363,-99.954132,45.012363],
+  "bbox": [
+    -99.954132,
+    45.012363,
+    -99.954132,
+    45.012363
+],
   "geometry": {"coordinates":[-99.954132,45.012363],"type":"Point"}
 }

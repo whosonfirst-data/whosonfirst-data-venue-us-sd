@@ -2,13 +2,14 @@
   "id": 387351529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.467426,45.4557,-98.467426,45.4557",
     "geom:latitude":45.4557,
     "geom:longitude":-98.467426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 S Aldrich St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387351529,
-    "wof:lastmodified":1449059355,
+    "wof:lastmodified":1467082752,
     "wof:name":"Bills Truck Repair Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-98.467426,45.4557,-98.467426,45.4557],
+  "bbox": [
+    -98.467426,
+    45.4557,
+    -98.467426,
+    45.4557
+],
   "geometry": {"coordinates":[-98.467426,45.4557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387234775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800051,44.310207,-96.800051,44.310207",
     "geom:latitude":44.310207,
     "geom:longitude":-96.800051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 5th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387234775,
-    "wof:lastmodified":1449059713,
+    "wof:lastmodified":1467082759,
     "wof:name":"Winks Fine Jewelry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.800051,44.310207,-96.800051,44.310207],
+  "bbox": [
+    -96.800051,
+    44.310207,
+    -96.800051,
+    44.310207
+],
   "geometry": {"coordinates":[-96.800051,44.310207],"type":"Point"}
 }

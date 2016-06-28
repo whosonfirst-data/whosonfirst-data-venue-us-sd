@@ -2,13 +2,14 @@
   "id": 387471315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.256521,45.547984,-99.256521,45.547984",
     "geom:latitude":45.547984,
     "geom:longitude":-99.256521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12585 347th Ave",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387471315,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1467082717,
     "wof:name":"Forkel Wilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.256521,45.547984,-99.256521,45.547984],
-  "geometry": {"coordinates":[-99.256521,45.547984],"type":"Point"}
+  "bbox": [
+    -99.256521,
+    45.547984,
+    -99.256521,
+    45.547984
+],
+  "geometry": {"coordinates":[-99.25652100000001,45.547984],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387401935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.264713,44.093008,-103.264713,44.093008",
     "geom:latitude":44.093008,
     "geom:longitude":-103.264713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Plant St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387401935,
-    "wof:lastmodified":1449059364,
+    "wof:lastmodified":1467082752,
     "wof:name":"Environmental Products Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-103.264713,44.093008,-103.264713,44.093008],
+  "bbox": [
+    -103.264713,
+    44.093008,
+    -103.264713,
+    44.093008
+],
   "geometry": {"coordinates":[-103.264713,44.093008],"type":"Point"}
 }

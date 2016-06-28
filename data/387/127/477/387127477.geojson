@@ -2,13 +2,14 @@
   "id": 387127477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.295761,44.054381,-103.295761,44.054381",
     "geom:latitude":44.054381,
     "geom:longitude":-103.295761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Morningside Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387127477,
-    "wof:lastmodified":1449059602,
+    "wof:lastmodified":1467082757,
     "wof:name":"Carlson Al Instrument Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmic"
     ]
 },
-  "bbox": [-103.295761,44.054381,-103.295761,44.054381],
+  "bbox": [
+    -103.295761,
+    44.054381,
+    -103.295761,
+    44.054381
+],
   "geometry": {"coordinates":[-103.295761,44.054381],"type":"Point"}
 }

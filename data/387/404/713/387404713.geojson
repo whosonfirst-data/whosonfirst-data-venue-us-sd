@@ -2,13 +2,14 @@
   "id": 387404713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727476,43.534034,-96.727476,43.534034",
     "geom:latitude":43.534034,
     "geom:longitude":-96.727476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W 21st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387404713,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1467082738,
     "wof:name":"American Harp Society",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-96.727476,43.534034,-96.727476,43.534034],
+  "bbox": [
+    -96.727476,
+    43.534034,
+    -96.727476,
+    43.534034
+],
   "geometry": {"coordinates":[-96.727476,43.534034],"type":"Point"}
 }

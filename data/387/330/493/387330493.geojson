@@ -2,13 +2,14 @@
   "id": 387330493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.880468,43.315994,-96.880468,43.315994",
     "geom:latitude":43.315994,
     "geom:longitude":-96.880468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46626 281st St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387330493,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1467082725,
     "wof:name":"Lloyd Fodness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.880468,43.315994,-96.880468,43.315994],
-  "geometry": {"coordinates":[-96.880468,43.315994],"type":"Point"}
+  "bbox": [
+    -96.880468,
+    43.315994,
+    -96.880468,
+    43.315994
+],
+  "geometry": {"coordinates":[-96.88046799999999,43.315994],"type":"Point"}
 }

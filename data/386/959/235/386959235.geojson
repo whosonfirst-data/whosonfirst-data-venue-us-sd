@@ -2,13 +2,14 @@
   "id": 386959235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.810664,45.818492,-100.810664,45.818492",
     "geom:latitude":45.818492,
     "geom:longitude":-100.810664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N 1st St",
     "sg:city":"Mc Laughlin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386959235,
-    "wof:lastmodified":1449028946,
+    "wof:lastmodified":1467082655,
     "wof:name":"Back Yard Pleasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "grounds"
     ]
 },
-  "bbox": [-100.810664,45.818492,-100.810664,45.818492],
+  "bbox": [
+    -100.810664,
+    45.818492,
+    -100.810664,
+    45.818492
+],
   "geometry": {"coordinates":[-100.810664,45.818492],"type":"Point"}
 }

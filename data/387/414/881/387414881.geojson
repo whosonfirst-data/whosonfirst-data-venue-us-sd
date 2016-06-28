@@ -2,13 +2,14 @@
   "id": 387414881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.859113,43.645112,-96.859113,43.645112",
     "geom:latitude":43.645112,
     "geom:longitude":-96.859113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46749 258th St",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387414881,
-    "wof:lastmodified":1449057884,
+    "wof:lastmodified":1467082722,
     "wof:name":"Nathan Stroschein",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.859113,43.645112,-96.859113,43.645112],
-  "geometry": {"coordinates":[-96.859113,43.645112],"type":"Point"}
+  "bbox": [
+    -96.859113,
+    43.645112,
+    -96.859113,
+    43.645112
+],
+  "geometry": {"coordinates":[-96.85911299999999,43.645112],"type":"Point"}
 }

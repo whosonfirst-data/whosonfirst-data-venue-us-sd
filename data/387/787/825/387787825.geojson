@@ -2,13 +2,14 @@
   "id": 387787825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797647,43.497244,-96.797647,43.497244",
     "geom:latitude":43.497244,
     "geom:longitude":-96.797647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5408 S Drexel Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387787825,
-    "wof:lastmodified":1449057818,
+    "wof:lastmodified":1467082721,
     "wof:name":"Novotny Bookkeeping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.797647,43.497244,-96.797647,43.497244],
+  "bbox": [
+    -96.797647,
+    43.497244,
+    -96.797647,
+    43.497244
+],
   "geometry": {"coordinates":[-96.797647,43.497244],"type":"Point"}
 }

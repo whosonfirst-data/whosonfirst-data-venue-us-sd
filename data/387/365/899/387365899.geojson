@@ -2,13 +2,14 @@
   "id": 387365899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.537593,43.075176,-97.537593,43.075176",
     "geom:latitude":43.075176,
     "geom:longitude":-97.537593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29726 433rd Ave",
     "sg:city":"Utica",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387365899,
-    "wof:lastmodified":1449056719,
+    "wof:lastmodified":1467082699,
     "wof:name":"Lee Vander Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "computer"
     ]
 },
-  "bbox": [-97.537593,43.075176,-97.537593,43.075176],
+  "bbox": [
+    -97.537593,
+    43.075176,
+    -97.537593,
+    43.075176
+],
   "geometry": {"coordinates":[-97.537593,43.075176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387152645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.220546,44.613048,-98.220546,44.613048",
     "geom:latitude":44.613048,
     "geom:longitude":-98.220546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19135 State Hwy 37",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387152645,
-    "wof:lastmodified":1449059031,
+    "wof:lastmodified":1467082745,
     "wof:name":"Jerry Gilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.220546,44.613048,-98.220546,44.613048],
+  "bbox": [
+    -98.220546,
+    44.613048,
+    -98.220546,
+    44.613048
+],
   "geometry": {"coordinates":[-98.220546,44.613048],"type":"Point"}
 }

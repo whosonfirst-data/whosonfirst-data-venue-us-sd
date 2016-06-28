@@ -2,13 +2,14 @@
   "id": 387691229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891827,43.355247,-96.891827,43.355247",
     "geom:latitude":43.355247,
     "geom:longitude":-96.891827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Main St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387691229,
-    "wof:lastmodified":1449056424,
+    "wof:lastmodified":1467082693,
     "wof:name":"Flowers By Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.891827,43.355247,-96.891827,43.355247],
-  "geometry": {"coordinates":[-96.891827,43.355247],"type":"Point"}
+  "bbox": [
+    -96.891827,
+    43.355247,
+    -96.891827,
+    43.355247
+],
+  "geometry": {"coordinates":[-96.89182700000001,43.355247],"type":"Point"}
 }

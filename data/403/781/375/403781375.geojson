@@ -2,13 +2,14 @@
   "id": 403781375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735701,43.556194,-96.735701,43.556194",
     "geom:latitude":43.556194,
     "geom:longitude":-96.735701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 N Summit Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403781375,
-    "wof:lastmodified":1449054886,
+    "wof:lastmodified":1467082677,
     "wof:name":"Nikken Independent Distrs",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.735701,43.556194,-96.735701,43.556194],
-  "geometry": {"coordinates":[-96.735701,43.556194],"type":"Point"}
+  "bbox": [
+    -96.735701,
+    43.556194,
+    -96.735701,
+    43.556194
+],
+  "geometry": {"coordinates":[-96.73570100000001,43.556194],"type":"Point"}
 }

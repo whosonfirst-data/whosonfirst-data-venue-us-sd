@@ -2,13 +2,14 @@
   "id": 387874675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.440786,45.47222,-98.440786,45.47222",
     "geom:latitude":45.47222,
     "geom:longitude":-98.440786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 Idea Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387874675,
-    "wof:lastmodified":1449059674,
+    "wof:lastmodified":1467082758,
     "wof:name":"Schwan Welding",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-98.440786,45.47222,-98.440786,45.47222],
+  "bbox": [
+    -98.440786,
+    45.47222,
+    -98.440786,
+    45.47222
+],
   "geometry": {"coordinates":[-98.440786,45.47222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403796639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.893841,42.854295,-97.893841,42.854295",
     "geom:latitude":42.854295,
     "geom:longitude":-97.893841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 8th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403796639,
-    "wof:lastmodified":1449055260,
+    "wof:lastmodified":1467082679,
     "wof:name":"Finn & Feather Inn Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.893841,42.854295,-97.893841,42.854295],
-  "geometry": {"coordinates":[-97.893841,42.854295],"type":"Point"}
+  "bbox": [
+    -97.893841,
+    42.854295,
+    -97.893841,
+    42.854295
+],
+  "geometry": {"coordinates":[-97.89384099999999,42.854295],"type":"Point"}
 }

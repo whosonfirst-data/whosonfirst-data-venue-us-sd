@@ -2,13 +2,14 @@
   "id": 387141769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724037,43.544609,-96.724037,43.544609",
     "geom:latitude":43.544609,
     "geom:longitude":-96.724037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 E 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387141769,
-    "wof:lastmodified":1449057431,
+    "wof:lastmodified":1467082713,
     "wof:name":"Anderson Financial Group",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "financial"
     ]
 },
-  "bbox": [-96.724037,43.544609,-96.724037,43.544609],
+  "bbox": [
+    -96.724037,
+    43.544609,
+    -96.724037,
+    43.544609
+],
   "geometry": {"coordinates":[-96.724037,43.544609],"type":"Point"}
 }

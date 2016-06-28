@@ -2,13 +2,14 @@
   "id": 387602409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.129298,44.006088,-97.129298,44.006088",
     "geom:latitude":44.006088,
     "geom:longitude":-97.129298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 State Hwy 34",
     "sg:city":"Egan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387602409,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1467082723,
     "wof:name":"Restoration Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.129298,44.006088,-97.129298,44.006088],
-  "geometry": {"coordinates":[-97.129298,44.006088],"type":"Point"}
+  "bbox": [
+    -97.129298,
+    44.006088,
+    -97.129298,
+    44.006088
+],
+  "geometry": {"coordinates":[-97.12929800000001,44.006088],"type":"Point"}
 }

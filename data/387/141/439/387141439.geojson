@@ -2,13 +2,14 @@
   "id": 387141439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.593443,43.273062,-99.593443,43.273062",
     "geom:latitude":43.273062,
     "geom:longitude":-99.593443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28479 329th Ave",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387141439,
-    "wof:lastmodified":1449057430,
+    "wof:lastmodified":1467082713,
     "wof:name":"Gary L Ekroth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.593443,43.273062,-99.593443,43.273062],
-  "geometry": {"coordinates":[-99.593443,43.273062],"type":"Point"}
+  "bbox": [
+    -99.593443,
+    43.273062,
+    -99.593443,
+    43.273062
+],
+  "geometry": {"coordinates":[-99.59344299999999,43.273062],"type":"Point"}
 }

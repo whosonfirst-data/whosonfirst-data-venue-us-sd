@@ -2,13 +2,14 @@
   "id": 387333267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.602627,43.765506,-103.602627,43.765506",
     "geom:latitude":43.765506,
     "geom:longitude":-103.602627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387333267,
-    "wof:lastmodified":1449059656,
+    "wof:lastmodified":1467082758,
     "wof:name":"Travelodge Of Custer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.602627,43.765506,-103.602627,43.765506],
+  "bbox": [
+    -103.602627,
+    43.765506,
+    -103.602627,
+    43.765506
+],
   "geometry": {"coordinates":[-103.602627,43.765506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387879259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.014678,45.670102,-98.014678,45.670102",
     "geom:latitude":45.670102,
     "geom:longitude":-98.014678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 6th St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387879259,
-    "wof:lastmodified":1449056146,
+    "wof:lastmodified":1467082687,
     "wof:name":"Sanderson Lumber Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-98.014678,45.670102,-98.014678,45.670102],
+  "bbox": [
+    -98.014678,
+    45.670102,
+    -98.014678,
+    45.670102
+],
   "geometry": {"coordinates":[-98.014678,45.670102],"type":"Point"}
 }

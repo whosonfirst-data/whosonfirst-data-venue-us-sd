@@ -2,13 +2,14 @@
   "id": 387425121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377335,44.36235,-97.377335,44.36235",
     "geom:latitude":44.36235,
     "geom:longitude":-97.377335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main Ave N",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387425121,
-    "wof:lastmodified":1449057441,
+    "wof:lastmodified":1467082713,
     "wof:name":"Lake Preston Soil Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.377335,44.36235,-97.377335,44.36235],
+  "bbox": [
+    -97.377335,
+    44.36235,
+    -97.377335,
+    44.36235
+],
   "geometry": {"coordinates":[-97.377335,44.36235],"type":"Point"}
 }

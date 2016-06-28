@@ -2,13 +2,14 @@
   "id": 387055563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720255,44.997785,-96.720255,44.997785",
     "geom:latitude":44.997785,
     "geom:longitude":-96.720255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16453 474th Ave",
     "sg:city":"Strandburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387055563,
-    "wof:lastmodified":1449056958,
+    "wof:lastmodified":1467082703,
     "wof:name":"Les E Boehm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.720255,44.997785,-96.720255,44.997785],
-  "geometry": {"coordinates":[-96.720255,44.997785],"type":"Point"}
+  "bbox": [
+    -96.720255,
+    44.997785,
+    -96.720255,
+    44.997785
+],
+  "geometry": {"coordinates":[-96.72025499999999,44.997785],"type":"Point"}
 }

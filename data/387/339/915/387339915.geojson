@@ -2,13 +2,14 @@
   "id": 387339915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.228942,44.047651,-103.228942,44.047651",
     "geom:latitude":44.047651,
     "geom:longitude":-103.228942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Texas St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387339915,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1467082721,
     "wof:name":"Honey Creek Landscaping Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "provider"
     ]
 },
-  "bbox": [-103.228942,44.047651,-103.228942,44.047651],
+  "bbox": [
+    -103.228942,
+    44.047651,
+    -103.228942,
+    44.047651
+],
   "geometry": {"coordinates":[-103.228942,44.047651],"type":"Point"}
 }

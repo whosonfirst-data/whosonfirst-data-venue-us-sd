@@ -2,13 +2,14 @@
   "id": 387578063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.592354,43.527106,-98.592354,43.527106",
     "geom:latitude":43.527106,
     "geom:longitude":-98.592354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38025 266th St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387578063,
-    "wof:lastmodified":1449057059,
+    "wof:lastmodified":1467082706,
     "wof:name":"Aurora Center Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.592354,43.527106,-98.592354,43.527106],
+  "bbox": [
+    -98.592354,
+    43.527106,
+    -98.592354,
+    43.527106
+],
   "geometry": {"coordinates":[-98.592354,43.527106],"type":"Point"}
 }

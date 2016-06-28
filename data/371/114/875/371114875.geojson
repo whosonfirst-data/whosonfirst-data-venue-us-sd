@@ -2,13 +2,14 @@
   "id": 371114875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726724,43.546298,-96.726724,43.546298",
     "geom:latitude":43.546298,
     "geom:longitude":-96.726724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371114875,
-    "wof:lastmodified":1449049463,
+    "wof:lastmodified":1467082664,
     "wof:name":"Midwest Property Svc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-96.726724,43.546298,-96.726724,43.546298],
+  "bbox": [
+    -96.726724,
+    43.546298,
+    -96.726724,
+    43.546298
+],
   "geometry": {"coordinates":[-96.726724,43.546298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387261011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728792,43.527381,-96.728792,43.527381",
     "geom:latitude":43.527381,
     "geom:longitude":-96.728792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Center Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387261011,
-    "wof:lastmodified":1449056181,
+    "wof:lastmodified":1467082688,
     "wof:name":"One Guy",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-96.728792,43.527381,-96.728792,43.527381],
+  "bbox": [
+    -96.728792,
+    43.527381,
+    -96.728792,
+    43.527381
+],
   "geometry": {"coordinates":[-96.728792,43.527381],"type":"Point"}
 }

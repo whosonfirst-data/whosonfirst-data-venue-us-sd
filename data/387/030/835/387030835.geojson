@@ -2,13 +2,14 @@
   "id": 387030835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.352946,44.37845,-100.352946,44.37845",
     "geom:latitude":44.37845,
     "geom:longitude":-100.352946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 N Central Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387030835,
-    "wof:lastmodified":1449057495,
+    "wof:lastmodified":1467082714,
     "wof:name":"Wayne Godkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-100.352946,44.37845,-100.352946,44.37845],
+  "bbox": [
+    -100.352946,
+    44.37845,
+    -100.352946,
+    44.37845
+],
   "geometry": {"coordinates":[-100.352946,44.37845],"type":"Point"}
 }

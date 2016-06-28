@@ -2,13 +2,14 @@
   "id": 387176321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.962705,43.12113,-96.962705,43.12113",
     "geom:latitude":43.12113,
     "geom:longitude":-96.962705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Dakota St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387176321,
-    "wof:lastmodified":1449058591,
+    "wof:lastmodified":1467082737,
     "wof:name":"Scandia Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.962705,43.12113,-96.962705,43.12113],
+  "bbox": [
+    -96.962705,
+    43.12113,
+    -96.962705,
+    43.12113
+],
   "geometry": {"coordinates":[-96.962705,43.12113],"type":"Point"}
 }

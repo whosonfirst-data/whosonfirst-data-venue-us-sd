@@ -2,13 +2,14 @@
   "id": 387493657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.846318,43.387232,-98.846318,43.387232",
     "geom:latitude":43.387232,
     "geom:longitude":-98.846318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W 4th St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387493657,
-    "wof:lastmodified":1449057304,
+    "wof:lastmodified":1467082710,
     "wof:name":"Steamway Cleaning-Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.846318,43.387232,-98.846318,43.387232],
+  "bbox": [
+    -98.846318,
+    43.387232,
+    -98.846318,
+    43.387232
+],
   "geometry": {"coordinates":[-98.846318,43.387232],"type":"Point"}
 }

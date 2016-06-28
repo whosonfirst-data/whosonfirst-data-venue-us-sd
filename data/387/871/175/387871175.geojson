@@ -2,13 +2,14 @@
   "id": 387871175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806392,43.457772,-96.806392,43.457772",
     "geom:latitude":43.457772,
     "geom:longitude":-96.806392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27124 470th Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387871175,
-    "wof:lastmodified":1449057350,
+    "wof:lastmodified":1467082711,
     "wof:name":"Builders Choice Cabinetry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-96.806392,43.457772,-96.806392,43.457772],
+  "bbox": [
+    -96.806392,
+    43.457772,
+    -96.806392,
+    43.457772
+],
   "geometry": {"coordinates":[-96.806392,43.457772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403789925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.4533,43.514929,-96.4533,43.514929",
     "geom:latitude":43.514929,
     "geom:longitude":-96.4533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48798 267th St",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403789925,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1467082679,
     "wof:name":"Evergreen Farm",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.4533,43.514929,-96.4533,43.514929],
+  "bbox": [
+    -96.4533,
+    43.514929,
+    -96.4533,
+    43.514929
+],
   "geometry": {"coordinates":[-96.4533,43.514929],"type":"Point"}
 }

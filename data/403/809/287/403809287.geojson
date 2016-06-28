@@ -2,13 +2,14 @@
   "id": 403809287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.484098,43.429995,-103.484098,43.429995",
     "geom:latitude":43.429995,
     "geom:longitude":-103.484098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403809287,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1467082683,
     "wof:name":"Fountain-Life Assembly-God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-103.484098,43.429995,-103.484098,43.429995],
+  "bbox": [
+    -103.484098,
+    43.429995,
+    -103.484098,
+    43.429995
+],
   "geometry": {"coordinates":[-103.484098,43.429995],"type":"Point"}
 }

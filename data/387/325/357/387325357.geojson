@@ -2,13 +2,14 @@
   "id": 387325357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.638686,45.219016,-96.638686,45.219016",
     "geom:latitude":45.219016,
     "geom:longitude":-96.638686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387325357,
-    "wof:lastmodified":1449057605,
+    "wof:lastmodified":1467082717,
     "wof:name":"Mid Town Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-96.638686,45.219016,-96.638686,45.219016],
-  "geometry": {"coordinates":[-96.638686,45.219016],"type":"Point"}
+  "bbox": [
+    -96.638686,
+    45.219016,
+    -96.638686,
+    45.219016
+],
+  "geometry": {"coordinates":[-96.63868600000001,45.219016],"type":"Point"}
 }

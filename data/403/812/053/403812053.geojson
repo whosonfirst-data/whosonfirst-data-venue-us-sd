@@ -2,13 +2,14 @@
   "id": 403812053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671338,43.530637,-96.671338,43.530637",
     "geom:latitude":43.530637,
     "geom:longitude":-96.671338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403812053,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1467082674,
     "wof:name":"United Enterprises",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.671338,43.530637,-96.671338,43.530637],
-  "geometry": {"coordinates":[-96.671338,43.530637],"type":"Point"}
+  "bbox": [
+    -96.671338,
+    43.530637,
+    -96.671338,
+    43.530637
+],
+  "geometry": {"coordinates":[-96.67133800000001,43.530637],"type":"Point"}
 }

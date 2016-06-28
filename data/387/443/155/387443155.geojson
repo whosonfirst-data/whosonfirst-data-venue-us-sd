@@ -2,13 +2,14 @@
   "id": 387443155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.672458,43.549441,-96.672458,43.549441",
     "geom:latitude":43.549441,
     "geom:longitude":-96.672458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4440 E Walker Way",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387443155,
-    "wof:lastmodified":1449059220,
+    "wof:lastmodified":1467082749,
     "wof:name":"System Savers PC Repair",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.672458,43.549441,-96.672458,43.549441],
-  "geometry": {"coordinates":[-96.672458,43.549441],"type":"Point"}
+  "bbox": [
+    -96.672458,
+    43.549441,
+    -96.672458,
+    43.549441
+],
+  "geometry": {"coordinates":[-96.67245800000001,43.549441],"type":"Point"}
 }

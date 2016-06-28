@@ -2,13 +2,14 @@
   "id": 387879445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.719596,43.149517,-97.719596,43.149517",
     "geom:latitude":43.149517,
     "geom:longitude":-97.719596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387879445,
-    "wof:lastmodified":1449056147,
+    "wof:lastmodified":1467082687,
     "wof:name":"Amy's Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.719596,43.149517,-97.719596,43.149517],
+  "bbox": [
+    -97.719596,
+    43.149517,
+    -97.719596,
+    43.149517
+],
   "geometry": {"coordinates":[-97.719596,43.149517],"type":"Point"}
 }

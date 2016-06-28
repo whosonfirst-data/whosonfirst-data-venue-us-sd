@@ -2,13 +2,14 @@
   "id": 371170531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.065521,43.006124,-98.065521,43.006124",
     "geom:latitude":43.006124,
     "geom:longitude":-98.065521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Ash St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371170531,
-    "wof:lastmodified":1449049118,
+    "wof:lastmodified":1467082659,
     "wof:name":"Mike Muller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.065521,43.006124,-98.065521,43.006124],
+  "bbox": [
+    -98.065521,
+    43.006124,
+    -98.065521,
+    43.006124
+],
   "geometry": {"coordinates":[-98.065521,43.006124],"type":"Point"}
 }

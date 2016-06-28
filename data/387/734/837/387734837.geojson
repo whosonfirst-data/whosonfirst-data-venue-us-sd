@@ -2,13 +2,14 @@
   "id": 387734837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790914,43.543903,-96.790914,43.543903",
     "geom:latitude":43.543903,
     "geom:longitude":-96.790914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387734837,
-    "wof:lastmodified":1449059437,
+    "wof:lastmodified":1467082753,
     "wof:name":"Gray Shady's Tint Co",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tinting"
     ]
 },
-  "bbox": [-96.790914,43.543903,-96.790914,43.543903],
+  "bbox": [
+    -96.790914,
+    43.543903,
+    -96.790914,
+    43.543903
+],
   "geometry": {"coordinates":[-96.790914,43.543903],"type":"Point"}
 }

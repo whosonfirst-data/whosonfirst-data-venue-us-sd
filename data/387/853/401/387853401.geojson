@@ -2,13 +2,14 @@
   "id": 387853401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746663,43.561501,-96.746663,43.561501",
     "geom:latitude":43.561501,
     "geom:longitude":-96.746663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 W Bailey St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387853401,
-    "wof:lastmodified":1449057643,
+    "wof:lastmodified":1467082718,
     "wof:name":"Park Tool & Machine Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "operates"
     ]
 },
-  "bbox": [-96.746663,43.561501,-96.746663,43.561501],
+  "bbox": [
+    -96.746663,
+    43.561501,
+    -96.746663,
+    43.561501
+],
   "geometry": {"coordinates":[-96.746663,43.561501],"type":"Point"}
 }

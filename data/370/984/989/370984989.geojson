@@ -2,13 +2,14 @@
   "id": 370984989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.440247,45.545344,-100.440247,45.545344",
     "geom:latitude":45.545344,
     "geom:longitude":-100.440247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Crescent St",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370984989,
-    "wof:lastmodified":1449030988,
+    "wof:lastmodified":1467082657,
     "wof:name":"Shorty Bader Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-100.440247,45.545344,-100.440247,45.545344],
+  "bbox": [
+    -100.440247,
+    45.545344,
+    -100.440247,
+    45.545344
+],
   "geometry": {"coordinates":[-100.440247,45.545344],"type":"Point"}
 }

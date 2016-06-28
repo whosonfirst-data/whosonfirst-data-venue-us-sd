@@ -2,13 +2,14 @@
   "id": 387132149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101531,44.89014,-97.101531,44.89014",
     "geom:latitude":44.89014,
     "geom:longitude":-97.101531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387132149,
-    "wof:lastmodified":1449057960,
+    "wof:lastmodified":1467082724,
     "wof:name":"Premier Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.101531,44.89014,-97.101531,44.89014],
-  "geometry": {"coordinates":[-97.101531,44.89014],"type":"Point"}
+  "bbox": [
+    -97.101531,
+    44.89014,
+    -97.101531,
+    44.89014
+],
+  "geometry": {"coordinates":[-97.10153099999999,44.89014],"type":"Point"}
 }

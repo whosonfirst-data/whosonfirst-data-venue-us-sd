@@ -2,13 +2,14 @@
   "id": 387492853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640596,45.200637,-96.640596,45.200637",
     "geom:latitude":45.200637,
     "geom:longitude":-96.640596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15058 State Hwy 15",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387492853,
-    "wof:lastmodified":1449056110,
+    "wof:lastmodified":1467082687,
     "wof:name":"Grant County Implement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-96.640596,45.200637,-96.640596,45.200637],
+  "bbox": [
+    -96.640596,
+    45.200637,
+    -96.640596,
+    45.200637
+],
   "geometry": {"coordinates":[-96.640596,45.200637],"type":"Point"}
 }

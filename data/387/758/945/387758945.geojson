@@ -2,13 +2,14 @@
   "id": 387758945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.367609,44.35767,-97.367609,44.35767",
     "geom:latitude":44.35767,
     "geom:longitude":-97.367609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 4th St SE",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387758945,
-    "wof:lastmodified":1449057249,
+    "wof:lastmodified":1467082709,
     "wof:name":"Kingsbury Memorial Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.367609,44.35767,-97.367609,44.35767],
+  "bbox": [
+    -97.367609,
+    44.35767,
+    -97.367609,
+    44.35767
+],
   "geometry": {"coordinates":[-97.367609,44.35767],"type":"Point"}
 }

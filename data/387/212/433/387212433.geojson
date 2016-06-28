@@ -2,13 +2,14 @@
   "id": 387212433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706523,43.828149,-96.706523,43.828149",
     "geom:latitude":43.828149,
     "geom:longitude":-96.706523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E 9th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387212433,
-    "wof:lastmodified":1449058573,
+    "wof:lastmodified":1467082736,
     "wof:name":"Melvin Penning",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.706523,43.828149,-96.706523,43.828149],
+  "bbox": [
+    -96.706523,
+    43.828149,
+    -96.706523,
+    43.828149
+],
   "geometry": {"coordinates":[-96.706523,43.828149],"type":"Point"}
 }

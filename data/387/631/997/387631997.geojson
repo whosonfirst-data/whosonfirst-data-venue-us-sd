@@ -2,13 +2,14 @@
   "id": 387631997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.835735,43.083594,-96.835735,43.083594",
     "geom:latitude":43.083594,
     "geom:longitude":-96.835735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46849 State Hwy 46",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387631997,
-    "wof:lastmodified":1449057276,
+    "wof:lastmodified":1467082710,
     "wof:name":"R Norling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.835735,43.083594,-96.835735,43.083594],
+  "bbox": [
+    -96.835735,
+    43.083594,
+    -96.835735,
+    43.083594
+],
   "geometry": {"coordinates":[-96.835735,43.083594],"type":"Point"}
 }

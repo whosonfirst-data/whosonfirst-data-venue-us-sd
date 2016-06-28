@@ -2,13 +2,14 @@
   "id": 387603289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.174145,44.365873,-98.174145,44.365873",
     "geom:latitude":44.365873,
     "geom:longitude":-98.174145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Custer Ave NE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387603289,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1467082751,
     "wof:name":"Beadle County Weed & Pest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "weed"
     ]
 },
-  "bbox": [-98.174145,44.365873,-98.174145,44.365873],
+  "bbox": [
+    -98.174145,
+    44.365873,
+    -98.174145,
+    44.365873
+],
   "geometry": {"coordinates":[-98.174145,44.365873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387025249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408957,43.42379,-98.408957,43.42379",
     "geom:latitude":43.42379,
     "geom:longitude":-98.408957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387025249,
-    "wof:lastmodified":1449059293,
+    "wof:lastmodified":1467082751,
     "wof:name":"Bordewyk Plumbing/Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.408957,43.42379,-98.408957,43.42379],
+  "bbox": [
+    -98.408957,
+    43.42379,
+    -98.408957,
+    43.42379
+],
   "geometry": {"coordinates":[-98.408957,43.42379],"type":"Point"}
 }

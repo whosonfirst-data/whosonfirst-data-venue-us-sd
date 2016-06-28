@@ -2,13 +2,14 @@
   "id": 371180017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511061,45.459555,-98.511061,45.459555",
     "geom:latitude":45.459555,
     "geom:longitude":-98.511061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371180017,
-    "wof:lastmodified":1449049102,
+    "wof:lastmodified":1467082659,
     "wof:name":"Hank's Liquor Store",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.511061,45.459555,-98.511061,45.459555],
+  "bbox": [
+    -98.511061,
+    45.459555,
+    -98.511061,
+    45.459555
+],
   "geometry": {"coordinates":[-98.511061,45.459555],"type":"Point"}
 }

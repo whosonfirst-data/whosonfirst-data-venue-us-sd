@@ -2,13 +2,14 @@
   "id": 387664597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772079,44.313367,-96.772079,44.313367",
     "geom:latitude":44.313367,
     "geom:longitude":-96.772079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 20th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387664597,
-    "wof:lastmodified":1449057512,
+    "wof:lastmodified":1467082715,
     "wof:name":"Farm House Fraternity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.772079,44.313367,-96.772079,44.313367],
-  "geometry": {"coordinates":[-96.772079,44.313367],"type":"Point"}
+  "bbox": [
+    -96.772079,
+    44.313367,
+    -96.772079,
+    44.313367
+],
+  "geometry": {"coordinates":[-96.77207900000001,44.313367],"type":"Point"}
 }

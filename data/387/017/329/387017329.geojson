@@ -2,13 +2,14 @@
   "id": 387017329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522622,45.340907,-97.522622,45.340907",
     "geom:latitude":45.340907,
     "geom:longitude":-97.522622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 US Hwy 12",
     "sg:city":"Waubay",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387017329,
-    "wof:lastmodified":1449058132,
+    "wof:lastmodified":1467082728,
     "wof:name":"Gem Star Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-97.522622,45.340907,-97.522622,45.340907],
+  "bbox": [
+    -97.522622,
+    45.340907,
+    -97.522622,
+    45.340907
+],
   "geometry": {"coordinates":[-97.522622,45.340907],"type":"Point"}
 }

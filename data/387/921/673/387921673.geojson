@@ -2,13 +2,14 @@
   "id": 387921673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766699,43.196974,-96.766699,43.196974",
     "geom:latitude":43.196974,
     "geom:longitude":-96.766699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28918 472nd Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387921673,
-    "wof:lastmodified":1449058553,
+    "wof:lastmodified":1467082736,
     "wof:name":"Clay Trucking & Farming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.766699,43.196974,-96.766699,43.196974],
+  "bbox": [
+    -96.766699,
+    43.196974,
+    -96.766699,
+    43.196974
+],
   "geometry": {"coordinates":[-96.766699,43.196974],"type":"Point"}
 }

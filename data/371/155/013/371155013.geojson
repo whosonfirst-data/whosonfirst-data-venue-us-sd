@@ -2,13 +2,14 @@
   "id": 371155013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774968,43.603111,-96.774968,43.603111",
     "geom:latitude":43.603111,
     "geom:longitude":-96.774968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 N Harvestore Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371155013,
-    "wof:lastmodified":1449049919,
+    "wof:lastmodified":1467082670,
     "wof:name":"Boxy's Paint & Body Shop",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.774968,43.603111,-96.774968,43.603111],
+  "bbox": [
+    -96.774968,
+    43.603111,
+    -96.774968,
+    43.603111
+],
   "geometry": {"coordinates":[-96.774968,43.603111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371173323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756673,43.549739,-96.756673,43.549739",
     "geom:latitude":43.549739,
     "geom:longitude":-96.756673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 W 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371173323,
-    "wof:lastmodified":1449049236,
+    "wof:lastmodified":1467082661,
     "wof:name":"Babinski Properties",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.756673,43.549739,-96.756673,43.549739],
-  "geometry": {"coordinates":[-96.756673,43.549739],"type":"Point"}
+  "bbox": [
+    -96.756673,
+    43.549739,
+    -96.756673,
+    43.549739
+],
+  "geometry": {"coordinates":[-96.75667300000001,43.549739],"type":"Point"}
 }

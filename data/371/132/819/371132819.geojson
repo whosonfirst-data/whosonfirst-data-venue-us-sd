@@ -2,13 +2,14 @@
   "id": 371132819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.890821,45.695019,-99.890821,45.695019",
     "geom:latitude":45.695019,
     "geom:longitude":-99.890821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31406 117th St",
     "sg:city":"Mound City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371132819,
-    "wof:lastmodified":1449049517,
+    "wof:lastmodified":1467082665,
     "wof:name":"David Grenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.890821,45.695019,-99.890821,45.695019],
+  "bbox": [
+    -99.890821,
+    45.695019,
+    -99.890821,
+    45.695019
+],
   "geometry": {"coordinates":[-99.890821,45.695019],"type":"Point"}
 }

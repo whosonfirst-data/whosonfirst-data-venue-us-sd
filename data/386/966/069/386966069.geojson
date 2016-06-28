@@ -2,13 +2,14 @@
   "id": 386966069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.403521,43.988372,-103.403521,43.988372",
     "geom:latitude":43.988372,
     "geom:longitude":-103.403521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10520 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386966069,
-    "wof:lastmodified":1449028624,
+    "wof:lastmodified":1467082649,
     "wof:name":"M Diamond Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "excavation"
     ]
 },
-  "bbox": [-103.403521,43.988372,-103.403521,43.988372],
+  "bbox": [
+    -103.403521,
+    43.988372,
+    -103.403521,
+    43.988372
+],
   "geometry": {"coordinates":[-103.403521,43.988372],"type":"Point"}
 }

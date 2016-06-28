@@ -2,13 +2,14 @@
   "id": 386992923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988476,44.520548,-98.988476,44.520548",
     "geom:latitude":44.520548,
     "geom:longitude":-98.988476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E 5th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386992923,
-    "wof:lastmodified":1449028771,
+    "wof:lastmodified":1467082652,
     "wof:name":"Joan's Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-98.988476,44.520548,-98.988476,44.520548],
-  "geometry": {"coordinates":[-98.988476,44.520548],"type":"Point"}
+  "bbox": [
+    -98.988476,
+    44.520548,
+    -98.988476,
+    44.520548
+],
+  "geometry": {"coordinates":[-98.98847600000001,44.520548],"type":"Point"}
 }

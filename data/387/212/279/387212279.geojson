@@ -2,13 +2,14 @@
   "id": 387212279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.478146,43.485226,-98.478146,43.485226",
     "geom:latitude":43.485226,
     "geom:longitude":-98.478146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38560 269th St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387212279,
-    "wof:lastmodified":1449058573,
+    "wof:lastmodified":1467082736,
     "wof:name":"Garden Hills Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.478146,43.485226,-98.478146,43.485226],
+  "bbox": [
+    -98.478146,
+    43.485226,
+    -98.478146,
+    43.485226
+],
   "geometry": {"coordinates":[-98.478146,43.485226],"type":"Point"}
 }

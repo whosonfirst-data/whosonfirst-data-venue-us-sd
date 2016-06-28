@@ -2,13 +2,14 @@
   "id": 386938893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489692,45.458985,-98.489692,45.458985",
     "geom:latitude":45.458985,
     "geom:longitude":-98.489692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386938893,
-    "wof:lastmodified":1449028871,
+    "wof:lastmodified":1467082653,
     "wof:name":"Dollar Loan Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-98.489692,45.458985,-98.489692,45.458985],
-  "geometry": {"coordinates":[-98.489692,45.458985],"type":"Point"}
+  "bbox": [
+    -98.489692,
+    45.458985,
+    -98.489692,
+    45.458985
+],
+  "geometry": {"coordinates":[-98.48969200000001,45.458985],"type":"Point"}
 }

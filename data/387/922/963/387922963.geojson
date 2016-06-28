@@ -2,13 +2,14 @@
   "id": 387922963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640782,45.204324,-96.640782,45.204324",
     "geom:latitude":45.204324,
     "geom:longitude":-96.640782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15033 State Hwy 15",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387922963,
-    "wof:lastmodified":1449056450,
+    "wof:lastmodified":1467082693,
     "wof:name":"Real Industries USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-96.640782,45.204324,-96.640782,45.204324],
+  "bbox": [
+    -96.640782,
+    45.204324,
+    -96.640782,
+    45.204324
+],
   "geometry": {"coordinates":[-96.640782,45.204324],"type":"Point"}
 }

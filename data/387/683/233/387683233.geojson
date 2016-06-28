@@ -2,13 +2,14 @@
   "id": 387683233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.047272,44.885788,-97.047272,44.885788",
     "geom:latitude":44.885788,
     "geom:longitude":-97.047272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 41st St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387683233,
-    "wof:lastmodified":1449057503,
+    "wof:lastmodified":1467082715,
     "wof:name":"US Energy Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "govt"
     ]
 },
-  "bbox": [-97.047272,44.885788,-97.047272,44.885788],
-  "geometry": {"coordinates":[-97.047272,44.885788],"type":"Point"}
+  "bbox": [
+    -97.047272,
+    44.885788,
+    -97.047272,
+    44.885788
+],
+  "geometry": {"coordinates":[-97.04727200000001,44.885788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387728053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114099,44.004851,-97.114099,44.004851",
     "geom:latitude":44.004851,
     "geom:longitude":-97.114099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387728053,
-    "wof:lastmodified":1449056994,
+    "wof:lastmodified":1467082704,
     "wof:name":"J Neilsen Crop Ins Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-97.114099,44.004851,-97.114099,44.004851],
+  "bbox": [
+    -97.114099,
+    44.004851,
+    -97.114099,
+    44.004851
+],
   "geometry": {"coordinates":[-97.114099,44.004851],"type":"Point"}
 }

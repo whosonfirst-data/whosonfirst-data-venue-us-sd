@@ -2,13 +2,14 @@
   "id": 387859081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747332,43.512293,-96.747332,43.512293",
     "geom:latitude":43.512293,
     "geom:longitude":-96.747332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W 44th Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387859081,
-    "wof:lastmodified":1449058830,
+    "wof:lastmodified":1467082741,
     "wof:name":"Empire Golf & Sport Dome",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.747332,43.512293,-96.747332,43.512293],
+  "bbox": [
+    -96.747332,
+    43.512293,
+    -96.747332,
+    43.512293
+],
   "geometry": {"coordinates":[-96.747332,43.512293],"type":"Point"}
 }

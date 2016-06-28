@@ -2,13 +2,14 @@
   "id": 387716351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710175,43.554835,-96.710175,43.554835",
     "geom:latitude":43.554835,
     "geom:longitude":-96.710175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E 3rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387716351,
-    "wof:lastmodified":1449056642,
+    "wof:lastmodified":1467082697,
     "wof:name":"Joe Foss Alt High School",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.710175,43.554835,-96.710175,43.554835],
-  "geometry": {"coordinates":[-96.710175,43.554835],"type":"Point"}
+  "bbox": [
+    -96.710175,
+    43.554835,
+    -96.710175,
+    43.554835
+],
+  "geometry": {"coordinates":[-96.71017500000001,43.554835],"type":"Point"}
 }

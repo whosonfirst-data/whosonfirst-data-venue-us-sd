@@ -2,13 +2,14 @@
   "id": 387256965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.902574,44.574689,-96.902574,44.574689",
     "geom:latitude":44.574689,
     "geom:longitude":-96.902574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Main St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387256965,
-    "wof:lastmodified":1449059002,
+    "wof:lastmodified":1467082745,
     "wof:name":"Little Hearts Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.902574,44.574689,-96.902574,44.574689],
+  "bbox": [
+    -96.902574,
+    44.574689,
+    -96.902574,
+    44.574689
+],
   "geometry": {"coordinates":[-96.902574,44.574689],"type":"Point"}
 }

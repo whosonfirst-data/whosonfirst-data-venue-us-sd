@@ -2,13 +2,14 @@
   "id": 387414771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.390233,44.066202,-103.390233,44.066202",
     "geom:latitude":44.066202,
     "geom:longitude":-103.390233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9929 W Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387414771,
-    "wof:lastmodified":1449057884,
+    "wof:lastmodified":1467082722,
     "wof:name":"Tomlinson Builders",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-103.390233,44.066202,-103.390233,44.066202],
-  "geometry": {"coordinates":[-103.390233,44.066202],"type":"Point"}
+  "bbox": [
+    -103.390233,
+    44.066202,
+    -103.390233,
+    44.066202
+],
+  "geometry": {"coordinates":[-103.39023299999999,44.066202],"type":"Point"}
 }

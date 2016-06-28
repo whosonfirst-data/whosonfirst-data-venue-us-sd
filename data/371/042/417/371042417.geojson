@@ -2,13 +2,14 @@
   "id": 371042417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.625005,45.219186,-96.625005,45.219186",
     "geom:latitude":45.219186,
     "geom:longitude":-96.625005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371042417,
-    "wof:lastmodified":1449049834,
+    "wof:lastmodified":1467082669,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.625005,45.219186,-96.625005,45.219186],
+  "bbox": [
+    -96.625005,
+    45.219186,
+    -96.625005,
+    45.219186
+],
   "geometry": {"coordinates":[-96.625005,45.219186],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387581953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719833,43.559342,-96.719833,43.559342",
     "geom:latitude":43.559342,
     "geom:longitude":-96.719833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 N Weber Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387581953,
-    "wof:lastmodified":1449056904,
+    "wof:lastmodified":1467082702,
     "wof:name":"Tom's Speciality Meats",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.719833,43.559342,-96.719833,43.559342],
-  "geometry": {"coordinates":[-96.719833,43.559342],"type":"Point"}
+  "bbox": [
+    -96.719833,
+    43.559342,
+    -96.719833,
+    43.559342
+],
+  "geometry": {"coordinates":[-96.71983299999999,43.559342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387470463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.303527,44.087876,-103.303527,44.087876",
     "geom:latitude":44.087876,
     "geom:longitude":-103.303527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Berry Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387470463,
-    "wof:lastmodified":1449057024,
+    "wof:lastmodified":1467082705,
     "wof:name":"Hand In Hand Prschool Day Care",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.303527,44.087876,-103.303527,44.087876],
+  "bbox": [
+    -103.303527,
+    44.087876,
+    -103.303527,
+    44.087876
+],
   "geometry": {"coordinates":[-103.303527,44.087876],"type":"Point"}
 }

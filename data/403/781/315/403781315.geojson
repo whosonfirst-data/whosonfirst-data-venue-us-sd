@@ -2,13 +2,14 @@
   "id": 403781315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219098,44.063939,-103.219098,44.063939",
     "geom:latitude":44.063939,
     "geom:longitude":-103.219098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Oak Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403781315,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1467082677,
     "wof:name":"Modern Builders",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.219098,44.063939,-103.219098,44.063939],
+  "bbox": [
+    -103.219098,
+    44.063939,
+    -103.219098,
+    44.063939
+],
   "geometry": {"coordinates":[-103.219098,44.063939],"type":"Point"}
 }

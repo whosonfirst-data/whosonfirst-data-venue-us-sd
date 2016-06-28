@@ -2,13 +2,14 @@
   "id": 387001109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.948398,45.009296,-99.948398,45.009296",
     "geom:latitude":45.009296,
     "geom:longitude":-99.948398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 S Harrison St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387001109,
-    "wof:lastmodified":1449056967,
+    "wof:lastmodified":1467082704,
     "wof:name":"Curtis J & Jeanne M Lagan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farming"
     ]
 },
-  "bbox": [-99.948398,45.009296,-99.948398,45.009296],
+  "bbox": [
+    -99.948398,
+    45.009296,
+    -99.948398,
+    45.009296
+],
   "geometry": {"coordinates":[-99.948398,45.009296],"type":"Point"}
 }

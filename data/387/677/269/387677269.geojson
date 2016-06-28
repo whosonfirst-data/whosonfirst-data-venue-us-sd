@@ -2,13 +2,14 @@
   "id": 387677269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.984519,43.396224,-97.984519,43.396224",
     "geom:latitude":43.396224,
     "geom:longitude":-97.984519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Depot St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387677269,
-    "wof:lastmodified":1449057466,
+    "wof:lastmodified":1467082714,
     "wof:name":"Parkston Grain & Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-97.984519,43.396224,-97.984519,43.396224],
-  "geometry": {"coordinates":[-97.984519,43.396224],"type":"Point"}
+  "bbox": [
+    -97.984519,
+    43.396224,
+    -97.984519,
+    43.396224
+],
+  "geometry": {"coordinates":[-97.98451900000001,43.396224],"type":"Point"}
 }

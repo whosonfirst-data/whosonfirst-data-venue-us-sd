@@ -2,13 +2,14 @@
   "id": 386948271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682621,44.746942,-96.682621,44.746942",
     "geom:latitude":44.746942,
     "geom:longitude":-96.682621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 3rd Ave S",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386948271,
-    "wof:lastmodified":1449028884,
+    "wof:lastmodified":1467082654,
     "wof:name":"Doug's Fabrication & Mech Rpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-96.682621,44.746942,-96.682621,44.746942],
+  "bbox": [
+    -96.682621,
+    44.746942,
+    -96.682621,
+    44.746942
+],
   "geometry": {"coordinates":[-96.682621,44.746942],"type":"Point"}
 }

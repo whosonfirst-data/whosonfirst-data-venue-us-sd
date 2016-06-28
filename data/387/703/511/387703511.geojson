@@ -2,13 +2,14 @@
   "id": 387703511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.428073,45.538748,-100.428073,45.538748",
     "geom:latitude":45.538748,
     "geom:longitude":-100.428073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 4th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387703511,
-    "wof:lastmodified":1449057254,
+    "wof:lastmodified":1467082709,
     "wof:name":"Haufschild Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-100.428073,45.538748,-100.428073,45.538748],
+  "bbox": [
+    -100.428073,
+    45.538748,
+    -100.428073,
+    45.538748
+],
   "geometry": {"coordinates":[-100.428073,45.538748],"type":"Point"}
 }

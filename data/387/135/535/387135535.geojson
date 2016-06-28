@@ -2,13 +2,14 @@
   "id": 387135535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856431,43.3765,-99.856431,43.3765",
     "geom:latitude":43.3765,
     "geom:longitude":-99.856431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387135535,
-    "wof:lastmodified":1449057565,
+    "wof:lastmodified":1467082716,
     "wof:name":"Open Door Counseling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-99.856431,43.3765,-99.856431,43.3765],
+  "bbox": [
+    -99.856431,
+    43.3765,
+    -99.856431,
+    43.3765
+],
   "geometry": {"coordinates":[-99.856431,43.3765],"type":"Point"}
 }

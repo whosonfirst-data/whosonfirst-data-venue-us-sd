@@ -2,13 +2,14 @@
   "id": 387724965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338383,43.178257,-97.338383,43.178257",
     "geom:latitude":43.178257,
     "geom:longitude":-97.338383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29039 443rd Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387724965,
-    "wof:lastmodified":1449059841,
+    "wof:lastmodified":1467082761,
     "wof:name":"Jerome Sayler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-97.338383,43.178257,-97.338383,43.178257],
-  "geometry": {"coordinates":[-97.338383,43.178257],"type":"Point"}
+  "bbox": [
+    -97.338383,
+    43.178257,
+    -97.338383,
+    43.178257
+],
+  "geometry": {"coordinates":[-97.33838299999999,43.178257],"type":"Point"}
 }

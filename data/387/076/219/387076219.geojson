@@ -2,13 +2,14 @@
   "id": 387076219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71478,43.587382,-96.71478,43.587382",
     "geom:latitude":43.587382,
     "geom:longitude":-96.71478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E Benson Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387076219,
-    "wof:lastmodified":1449059097,
+    "wof:lastmodified":1467082747,
     "wof:name":"Dakota Alignment & Frame Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [-96.71478,43.587382,-96.71478,43.587382],
+  "bbox": [
+    -96.71478,
+    43.587382,
+    -96.71478,
+    43.587382
+],
   "geometry": {"coordinates":[-96.71478,43.587382],"type":"Point"}
 }

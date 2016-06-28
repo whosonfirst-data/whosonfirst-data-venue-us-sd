@@ -2,13 +2,14 @@
   "id": 371053223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.222778,44.080306,-103.222778,44.080306",
     "geom:latitude":44.080306,
     "geom:longitude":-103.222778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371053223,
-    "wof:lastmodified":1449049231,
+    "wof:lastmodified":1467082661,
     "wof:name":"TMA Tire Muffler Alignment",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-103.222778,44.080306,-103.222778,44.080306],
-  "geometry": {"coordinates":[-103.222778,44.080306],"type":"Point"}
+  "bbox": [
+    -103.222778,
+    44.080306,
+    -103.222778,
+    44.080306
+],
+  "geometry": {"coordinates":[-103.22277800000001,44.080306],"type":"Point"}
 }

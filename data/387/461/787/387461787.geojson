@@ -2,13 +2,14 @@
   "id": 387461787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387423,43.726047,-97.387423,43.726047",
     "geom:latitude":43.726047,
     "geom:longitude":-97.387423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387461787,
-    "wof:lastmodified":1449057536,
+    "wof:lastmodified":1467082715,
     "wof:name":"Salem Wellness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "physical"
     ]
 },
-  "bbox": [-97.387423,43.726047,-97.387423,43.726047],
+  "bbox": [
+    -97.387423,
+    43.726047,
+    -97.387423,
+    43.726047
+],
   "geometry": {"coordinates":[-97.387423,43.726047],"type":"Point"}
 }

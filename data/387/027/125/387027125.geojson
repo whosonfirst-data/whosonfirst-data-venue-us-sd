@@ -2,13 +2,14 @@
   "id": 387027125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.739845,43.553543,-96.739845,43.553543",
     "geom:latitude":43.553543,
     "geom:longitude":-96.739845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N Menlo Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387027125,
-    "wof:lastmodified":1449056813,
+    "wof:lastmodified":1467082701,
     "wof:name":"D & R Drywall Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.739845,43.553543,-96.739845,43.553543],
+  "bbox": [
+    -96.739845,
+    43.553543,
+    -96.739845,
+    43.553543
+],
   "geometry": {"coordinates":[-96.739845,43.553543],"type":"Point"}
 }

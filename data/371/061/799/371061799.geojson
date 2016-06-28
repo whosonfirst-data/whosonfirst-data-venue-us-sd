@@ -2,13 +2,14 @@
   "id": 371061799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.119104,44.244476,-98.119104,44.244476",
     "geom:latitude":44.244476,
     "geom:longitude":-98.119104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40460 Miner Country Ln",
     "sg:city":"Cavour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371061799,
-    "wof:lastmodified":1449049812,
+    "wof:lastmodified":1467082669,
     "wof:name":"Don Miner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.119104,44.244476,-98.119104,44.244476],
-  "geometry": {"coordinates":[-98.119104,44.244476],"type":"Point"}
+  "bbox": [
+    -98.119104,
+    44.244476,
+    -98.119104,
+    44.244476
+],
+  "geometry": {"coordinates":[-98.11910399999999,44.244476],"type":"Point"}
 }

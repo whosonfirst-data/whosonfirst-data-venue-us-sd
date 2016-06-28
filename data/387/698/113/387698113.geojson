@@ -2,13 +2,14 @@
   "id": 387698113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.237562,44.028602,-103.237562,44.028602",
     "geom:latitude":44.028602,
     "geom:longitude":-103.237562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1396 Panorama Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387698113,
-    "wof:lastmodified":1449059687,
+    "wof:lastmodified":1467082758,
     "wof:name":"Alpha Properties Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-103.237562,44.028602,-103.237562,44.028602],
+  "bbox": [
+    -103.237562,
+    44.028602,
+    -103.237562,
+    44.028602
+],
   "geometry": {"coordinates":[-103.237562,44.028602],"type":"Point"}
 }

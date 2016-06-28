@@ -2,13 +2,14 @@
   "id": 403761505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.552228,43.630756,-96.552228,43.630756",
     "geom:latitude":43.630756,
     "geom:longitude":-96.552228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48221 259th St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403761505,
-    "wof:lastmodified":1449055648,
+    "wof:lastmodified":1467082682,
     "wof:name":"Al Kuehl Construction",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.552228,43.630756,-96.552228,43.630756],
+  "bbox": [
+    -96.552228,
+    43.630756,
+    -96.552228,
+    43.630756
+],
   "geometry": {"coordinates":[-96.552228,43.630756],"type":"Point"}
 }

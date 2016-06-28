@@ -2,13 +2,14 @@
   "id": 371052401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.886443,44.521159,-103.886443,44.521159",
     "geom:latitude":44.521159,
     "geom:longitude":-103.886443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 E Fairground Loop",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371052401,
-    "wof:lastmodified":1449049475,
+    "wof:lastmodified":1467082664,
     "wof:name":"Composite Fabricators Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-103.886443,44.521159,-103.886443,44.521159],
+  "bbox": [
+    -103.886443,
+    44.521159,
+    -103.886443,
+    44.521159
+],
   "geometry": {"coordinates":[-103.886443,44.521159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370978271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.060244,43.004965,-98.060244,43.004965",
     "geom:latitude":43.004965,
     "geom:longitude":-98.060244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Main St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370978271,
-    "wof:lastmodified":1449031026,
+    "wof:lastmodified":1467082657,
     "wof:name":"Can-Man Firefighting Solu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "protection"
     ]
 },
-  "bbox": [-98.060244,43.004965,-98.060244,43.004965],
+  "bbox": [
+    -98.060244,
+    43.004965,
+    -98.060244,
+    43.004965
+],
   "geometry": {"coordinates":[-98.060244,43.004965],"type":"Point"}
 }

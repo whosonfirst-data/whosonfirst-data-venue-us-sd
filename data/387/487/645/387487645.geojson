@@ -2,13 +2,14 @@
   "id": 387487645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926636,44.323355,-96.926636,44.323355",
     "geom:latitude":44.323355,
     "geom:longitude":-96.926636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387487645,
-    "wof:lastmodified":1449057340,
+    "wof:lastmodified":1467082711,
     "wof:name":"Volunteer Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-96.926636,44.323355,-96.926636,44.323355],
+  "bbox": [
+    -96.926636,
+    44.323355,
+    -96.926636,
+    44.323355
+],
   "geometry": {"coordinates":[-96.926636,44.323355],"type":"Point"}
 }

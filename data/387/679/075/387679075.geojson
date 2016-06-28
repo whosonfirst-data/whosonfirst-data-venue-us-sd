@@ -2,13 +2,14 @@
   "id": 387679075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.590783,43.768666,-103.590783,43.768666",
     "geom:latitude":43.768666,
     "geom:longitude":-103.590783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387679075,
-    "wof:lastmodified":1449058556,
+    "wof:lastmodified":1467082736,
     "wof:name":"Doug's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-103.590783,43.768666,-103.590783,43.768666],
+  "bbox": [
+    -103.590783,
+    43.768666,
+    -103.590783,
+    43.768666
+],
   "geometry": {"coordinates":[-103.590783,43.768666],"type":"Point"}
 }

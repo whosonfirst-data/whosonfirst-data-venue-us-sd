@@ -2,13 +2,14 @@
   "id": 387518069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412747,45.427017,-98.412747,45.427017",
     "geom:latitude":45.427017,
     "geom:longitude":-98.412747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13520 391st Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387518069,
-    "wof:lastmodified":1449058256,
+    "wof:lastmodified":1467082730,
     "wof:name":"Crj Auto Body",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-98.412747,45.427017,-98.412747,45.427017],
+  "bbox": [
+    -98.412747,
+    45.427017,
+    -98.412747,
+    45.427017
+],
   "geometry": {"coordinates":[-98.412747,45.427017],"type":"Point"}
 }

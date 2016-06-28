@@ -2,13 +2,14 @@
   "id": 386938963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671457,43.552502,-96.671457,43.552502",
     "geom:latitude":43.552502,
     "geom:longitude":-96.671457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 N Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386938963,
-    "wof:lastmodified":1449028868,
+    "wof:lastmodified":1467082653,
     "wof:name":"Curves",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-96.671457,43.552502,-96.671457,43.552502],
+  "bbox": [
+    -96.671457,
+    43.552502,
+    -96.671457,
+    43.552502
+],
   "geometry": {"coordinates":[-96.671457,43.552502],"type":"Point"}
 }

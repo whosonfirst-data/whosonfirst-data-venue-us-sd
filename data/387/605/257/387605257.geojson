@@ -2,13 +2,14 @@
   "id": 387605257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726723,43.546407,-96.726723,43.546407",
     "geom:latitude":43.546407,
     "geom:longitude":-96.726723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387605257,
-    "wof:lastmodified":1449057953,
+    "wof:lastmodified":1467082724,
     "wof:name":"Skelly's Pub & Casino",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-96.726723,43.546407,-96.726723,43.546407],
-  "geometry": {"coordinates":[-96.726723,43.546407],"type":"Point"}
+  "bbox": [
+    -96.726723,
+    43.546407,
+    -96.726723,
+    43.546407
+],
+  "geometry": {"coordinates":[-96.72672300000001,43.546407],"type":"Point"}
 }

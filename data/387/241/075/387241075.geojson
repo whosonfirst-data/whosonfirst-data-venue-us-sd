@@ -2,13 +2,14 @@
   "id": 387241075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.955278,43.119702,-96.955278,43.119702",
     "geom:latitude":43.119702,
     "geom:longitude":-96.955278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Vermillion St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387241075,
-    "wof:lastmodified":1449059820,
+    "wof:lastmodified":1467082761,
     "wof:name":"Centerville Good Samaritan Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.955278,43.119702,-96.955278,43.119702],
-  "geometry": {"coordinates":[-96.955278,43.119702],"type":"Point"}
+  "bbox": [
+    -96.955278,
+    43.119702,
+    -96.955278,
+    43.119702
+],
+  "geometry": {"coordinates":[-96.95527800000001,43.119702],"type":"Point"}
 }

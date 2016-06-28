@@ -2,13 +2,14 @@
   "id": 387652713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.438685,43.352356,-97.438685,43.352356",
     "geom:latitude":43.352356,
     "geom:longitude":-97.438685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Juniper St",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387652713,
-    "wof:lastmodified":1449058563,
+    "wof:lastmodified":1467082736,
     "wof:name":"New Life Remodeling & Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.438685,43.352356,-97.438685,43.352356],
-  "geometry": {"coordinates":[-97.438685,43.352356],"type":"Point"}
+  "bbox": [
+    -97.438685,
+    43.352356,
+    -97.438685,
+    43.352356
+],
+  "geometry": {"coordinates":[-97.43868500000001,43.352356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387147209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.33735,44.360217,-100.33735,44.360217",
     "geom:latitude":44.360217,
     "geom:longitude":-100.33735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387147209,
-    "wof:lastmodified":1449059502,
+    "wof:lastmodified":1467082755,
     "wof:name":"Ron's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-100.33735,44.360217,-100.33735,44.360217],
+  "bbox": [
+    -100.33735,
+    44.360217,
+    -100.33735,
+    44.360217
+],
   "geometry": {"coordinates":[-100.33735,44.360217],"type":"Point"}
 }

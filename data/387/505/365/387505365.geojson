@@ -2,13 +2,14 @@
   "id": 387505365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.499634,44.432751,-103.499634,44.432751",
     "geom:latitude":44.432751,
     "geom:longitude":-103.499634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9084 N Ox Yoke Rd",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387505365,
-    "wof:lastmodified":1449059299,
+    "wof:lastmodified":1467082751,
     "wof:name":"Glover Development LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.499634,44.432751,-103.499634,44.432751],
+  "bbox": [
+    -103.499634,
+    44.432751,
+    -103.499634,
+    44.432751
+],
   "geometry": {"coordinates":[-103.499634,44.432751],"type":"Point"}
 }

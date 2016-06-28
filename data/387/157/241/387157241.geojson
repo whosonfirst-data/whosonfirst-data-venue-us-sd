@@ -2,13 +2,14 @@
   "id": 387157241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.691792,45.201509,-98.691792,45.201509",
     "geom:latitude":45.201509,
     "geom:longitude":-98.691792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37555 151st St",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387157241,
-    "wof:lastmodified":1449059388,
+    "wof:lastmodified":1467082752,
     "wof:name":"Jerry Steger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cash"
     ]
 },
-  "bbox": [-98.691792,45.201509,-98.691792,45.201509],
-  "geometry": {"coordinates":[-98.691792,45.201509],"type":"Point"}
+  "bbox": [
+    -98.691792,
+    45.201509,
+    -98.691792,
+    45.201509
+],
+  "geometry": {"coordinates":[-98.69179200000001,45.201509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387499577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.383666,43.948,-103.383666,43.948",
     "geom:latitude":43.948,
     "geom:longitude":-103.383666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13350 Silver Mountain Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387499577,
-    "wof:lastmodified":1449056827,
+    "wof:lastmodified":1467082701,
     "wof:name":"Back Roads Inn & Cabins",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.383666,43.948,-103.383666,43.948],
-  "geometry": {"coordinates":[-103.383666,43.948],"type":"Point"}
+  "bbox": [
+    -103.383666,
+    43.948,
+    -103.383666,
+    43.948
+],
+  "geometry": {"coordinates":[-103.38366600000001,43.948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387943609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.505116,45.832396,-98.505116,45.832396",
     "geom:latitude":45.832396,
     "geom:longitude":-98.505116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387943609,
-    "wof:lastmodified":1449057106,
+    "wof:lastmodified":1467082706,
     "wof:name":"Elm Valley School District 6-2",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.505116,45.832396,-98.505116,45.832396],
+  "bbox": [
+    -98.505116,
+    45.832396,
+    -98.505116,
+    45.832396
+],
   "geometry": {"coordinates":[-98.505116,45.832396],"type":"Point"}
 }

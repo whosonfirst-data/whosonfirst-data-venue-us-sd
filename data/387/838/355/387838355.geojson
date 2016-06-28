@@ -2,13 +2,14 @@
   "id": 387838355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.637289,44.630911,-97.637289,44.630911",
     "geom:latitude":44.630911,
     "geom:longitude":-97.637289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Garfield St",
     "sg:city":"Willow Lake",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387838355,
-    "wof:lastmodified":1449056571,
+    "wof:lastmodified":1467082696,
     "wof:name":"Willow Lake School Dist 12-3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.637289,44.630911,-97.637289,44.630911],
+  "bbox": [
+    -97.637289,
+    44.630911,
+    -97.637289,
+    44.630911
+],
   "geometry": {"coordinates":[-97.637289,44.630911],"type":"Point"}
 }

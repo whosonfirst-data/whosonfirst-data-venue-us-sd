@@ -2,13 +2,14 @@
   "id": 387819901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687598,44.284874,-96.687598,44.284874",
     "geom:latitude":44.284874,
     "geom:longitude":-96.687598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 N Broadway St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387819901,
-    "wof:lastmodified":1449057007,
+    "wof:lastmodified":1467082704,
     "wof:name":"Stu's Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.687598,44.284874,-96.687598,44.284874],
-  "geometry": {"coordinates":[-96.687598,44.284874],"type":"Point"}
+  "bbox": [
+    -96.687598,
+    44.284874,
+    -96.687598,
+    44.284874
+],
+  "geometry": {"coordinates":[-96.68759799999999,44.284874],"type":"Point"}
 }

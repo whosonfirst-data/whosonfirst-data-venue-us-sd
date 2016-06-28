@@ -2,13 +2,14 @@
   "id": 387207897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.360992,43.299485,-97.360992,43.299485",
     "geom:latitude":43.299485,
     "geom:longitude":-97.360992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44188 282nd St",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387207897,
-    "wof:lastmodified":1449058773,
+    "wof:lastmodified":1467082740,
     "wof:name":"Waltner Gregg & Don",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.360992,43.299485,-97.360992,43.299485],
+  "bbox": [
+    -97.360992,
+    43.299485,
+    -97.360992,
+    43.299485
+],
   "geometry": {"coordinates":[-97.360992,43.299485],"type":"Point"}
 }

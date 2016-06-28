@@ -2,13 +2,14 @@
   "id": 371014107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.943664,44.974032,-96.943664,44.974032",
     "geom:latitude":44.974032,
     "geom:longitude":-96.943664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16621 463rd Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371014107,
-    "wof:lastmodified":1449049529,
+    "wof:lastmodified":1467082665,
     "wof:name":"Comes Family Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.943664,44.974032,-96.943664,44.974032],
+  "bbox": [
+    -96.943664,
+    44.974032,
+    -96.943664,
+    44.974032
+],
   "geometry": {"coordinates":[-96.943664,44.974032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371185341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.621094,43.602959,-97.621094,43.602959",
     "geom:latitude":43.602959,
     "geom:longitude":-97.621094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N 4th St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371185341,
-    "wof:lastmodified":1449049215,
+    "wof:lastmodified":1467082660,
     "wof:name":"Emery Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-97.621094,43.602959,-97.621094,43.602959],
+  "bbox": [
+    -97.621094,
+    43.602959,
+    -97.621094,
+    43.602959
+],
   "geometry": {"coordinates":[-97.621094,43.602959],"type":"Point"}
 }

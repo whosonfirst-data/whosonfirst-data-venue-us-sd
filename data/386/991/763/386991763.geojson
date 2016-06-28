@@ -2,13 +2,14 @@
   "id": 386991763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.096693,44.898222,-97.096693,44.898222",
     "geom:latitude":44.898222,
     "geom:longitude":-97.096693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 11th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386991763,
-    "wof:lastmodified":1449028715,
+    "wof:lastmodified":1467082651,
     "wof:name":"Watertown School Bus Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.096693,44.898222,-97.096693,44.898222],
+  "bbox": [
+    -97.096693,
+    44.898222,
+    -97.096693,
+    44.898222
+],
   "geometry": {"coordinates":[-97.096693,44.898222],"type":"Point"}
 }

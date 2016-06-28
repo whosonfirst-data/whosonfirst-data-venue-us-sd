@@ -2,13 +2,14 @@
   "id": 387821737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.548913,45.254377,-96.548913,45.254377",
     "geom:latitude":45.254377,
     "geom:longitude":-96.548913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48248 147th St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387821737,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1467082729,
     "wof:name":"Gene Holtquist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.548913,45.254377,-96.548913,45.254377],
+  "bbox": [
+    -96.548913,
+    45.254377,
+    -96.548913,
+    45.254377
+],
   "geometry": {"coordinates":[-96.548913,45.254377],"type":"Point"}
 }

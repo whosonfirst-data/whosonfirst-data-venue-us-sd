@@ -2,13 +2,14 @@
   "id": 387399963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727009,43.823443,-96.727009,43.823443",
     "geom:latitude":43.823443,
     "geom:longitude":-96.727009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 W 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387399963,
-    "wof:lastmodified":1449056771,
+    "wof:lastmodified":1467082700,
     "wof:name":"Travel Associates",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-96.727009,43.823443,-96.727009,43.823443],
+  "bbox": [
+    -96.727009,
+    43.823443,
+    -96.727009,
+    43.823443
+],
   "geometry": {"coordinates":[-96.727009,43.823443],"type":"Point"}
 }

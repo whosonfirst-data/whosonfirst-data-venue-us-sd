@@ -2,13 +2,14 @@
   "id": 386959411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.420092,45.537434,-100.420092,45.537434",
     "geom:latitude":45.537434,
     "geom:longitude":-100.420092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386959411,
-    "wof:lastmodified":1449028946,
+    "wof:lastmodified":1467082655,
     "wof:name":"Gunderson Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-100.420092,45.537434,-100.420092,45.537434],
+  "bbox": [
+    -100.420092,
+    45.537434,
+    -100.420092,
+    45.537434
+],
   "geometry": {"coordinates":[-100.420092,45.537434],"type":"Point"}
 }

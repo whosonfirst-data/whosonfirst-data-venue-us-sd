@@ -2,13 +2,14 @@
   "id": 387427819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549978,44.386173,-97.549978,44.386173",
     "geom:latitude":44.386173,
     "geom:longitude":-97.549978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 2nd St SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387427819,
-    "wof:lastmodified":1449057241,
+    "wof:lastmodified":1467082709,
     "wof:name":"Prairie Junction Tire Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-97.549978,44.386173,-97.549978,44.386173],
+  "bbox": [
+    -97.549978,
+    44.386173,
+    -97.549978,
+    44.386173
+],
   "geometry": {"coordinates":[-97.549978,44.386173],"type":"Point"}
 }

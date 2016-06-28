@@ -2,13 +2,14 @@
   "id": 403742091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.583461,43.594706,-96.583461,43.594706",
     "geom:latitude":43.594706,
     "geom:longitude":-96.583461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403742091,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1467082675,
     "wof:name":"Noah's Ark Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-96.583461,43.594706,-96.583461,43.594706],
+  "bbox": [
+    -96.583461,
+    43.594706,
+    -96.583461,
+    43.594706
+],
   "geometry": {"coordinates":[-96.583461,43.594706],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387687207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715113,43.541542,-96.715113,43.541542",
     "geom:latitude":43.541542,
     "geom:longitude":-96.715113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 E 14th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387687207,
-    "wof:lastmodified":1449057165,
+    "wof:lastmodified":1467082708,
     "wof:name":"Youth Enrichment Services Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.715113,43.541542,-96.715113,43.541542],
+  "bbox": [
+    -96.715113,
+    43.541542,
+    -96.715113,
+    43.541542
+],
   "geometry": {"coordinates":[-96.715113,43.541542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387509509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775566,43.645849,-96.775566,43.645849",
     "geom:latitude":43.645849,
     "geom:longitude":-96.775566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25778 Cottonwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387509509,
-    "wof:lastmodified":1449056272,
+    "wof:lastmodified":1467082690,
     "wof:name":"Timpte Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.775566,43.645849,-96.775566,43.645849],
+  "bbox": [
+    -96.775566,
+    43.645849,
+    -96.775566,
+    43.645849
+],
   "geometry": {"coordinates":[-96.775566,43.645849],"type":"Point"}
 }

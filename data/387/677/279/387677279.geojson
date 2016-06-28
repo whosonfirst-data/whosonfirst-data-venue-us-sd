@@ -2,13 +2,14 @@
   "id": 387677279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098633,45.445966,-98.098633,45.445966",
     "geom:latitude":45.445966,
     "geom:longitude":-98.098633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387677279,
-    "wof:lastmodified":1449057466,
+    "wof:lastmodified":1467082714,
     "wof:name":"Ken's Food Fair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.098633,45.445966,-98.098633,45.445966],
-  "geometry": {"coordinates":[-98.098633,45.445966],"type":"Point"}
+  "bbox": [
+    -98.098633,
+    45.445966,
+    -98.098633,
+    45.445966
+],
+  "geometry": {"coordinates":[-98.09863300000001,45.445966],"type":"Point"}
 }

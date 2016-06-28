@@ -2,13 +2,14 @@
   "id": 371011299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.391008,44.278725,-97.391008,44.278725",
     "geom:latitude":44.278725,
     "geom:longitude":-97.391008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21420 441st Ave",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371011299,
-    "wof:lastmodified":1449049908,
+    "wof:lastmodified":1467082670,
     "wof:name":"Casper Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.391008,44.278725,-97.391008,44.278725],
+  "bbox": [
+    -97.391008,
+    44.278725,
+    -97.391008,
+    44.278725
+],
   "geometry": {"coordinates":[-97.391008,44.278725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371180933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.401068,44.066157,-103.401068,44.066157",
     "geom:latitude":44.066157,
     "geom:longitude":-103.401068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10430 Big Piney Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371180933,
-    "wof:lastmodified":1449049103,
+    "wof:lastmodified":1467082659,
     "wof:name":"Anemarie's Bed & Breakfast",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-103.401068,44.066157,-103.401068,44.066157],
+  "bbox": [
+    -103.401068,
+    44.066157,
+    -103.401068,
+    44.066157
+],
   "geometry": {"coordinates":[-103.401068,44.066157],"type":"Point"}
 }

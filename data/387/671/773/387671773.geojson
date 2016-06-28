@@ -2,13 +2,14 @@
   "id": 387671773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.172086,44.92944,-97.172086,44.92944",
     "geom:latitude":44.92944,
     "geom:longitude":-97.172086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Lake Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387671773,
-    "wof:lastmodified":1449056982,
+    "wof:lastmodified":1467082704,
     "wof:name":"Casino Speedway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.172086,44.92944,-97.172086,44.92944],
-  "geometry": {"coordinates":[-97.172086,44.92944],"type":"Point"}
+  "bbox": [
+    -97.172086,
+    44.92944,
+    -97.172086,
+    44.92944
+],
+  "geometry": {"coordinates":[-97.17208599999999,44.92944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387299021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111221,44.903454,-97.111221,44.903454",
     "geom:latitude":44.903454,
     "geom:longitude":-97.111221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 N Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387299021,
-    "wof:lastmodified":1449057071,
+    "wof:lastmodified":1467082706,
     "wof:name":"Larry's Lumber & Floor-Ceiling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "builder"
     ]
 },
-  "bbox": [-97.111221,44.903454,-97.111221,44.903454],
+  "bbox": [
+    -97.111221,
+    44.903454,
+    -97.111221,
+    44.903454
+],
   "geometry": {"coordinates":[-97.111221,44.903454],"type":"Point"}
 }

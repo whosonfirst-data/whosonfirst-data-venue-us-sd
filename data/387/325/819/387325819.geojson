@@ -2,13 +2,14 @@
   "id": 387325819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.506624,43.710812,-96.506624,43.710812",
     "geom:latitude":43.710812,
     "geom:longitude":-96.506624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Railroad Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387325819,
-    "wof:lastmodified":1449057601,
+    "wof:lastmodified":1467082717,
     "wof:name":"Bailey Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.506624,43.710812,-96.506624,43.710812],
+  "bbox": [
+    -96.506624,
+    43.710812,
+    -96.506624,
+    43.710812
+],
   "geometry": {"coordinates":[-96.506624,43.710812],"type":"Point"}
 }

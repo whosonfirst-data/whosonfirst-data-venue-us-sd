@@ -2,13 +2,14 @@
   "id": 371064535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.50906,44.401656,-103.50906,44.401656",
     "geom:latitude":44.401656,
     "geom:longitude":-103.50906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371064535,
-    "wof:lastmodified":1449049380,
+    "wof:lastmodified":1467082663,
     "wof:name":"Grocery Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.50906,44.401656,-103.50906,44.401656],
-  "geometry": {"coordinates":[-103.50906,44.401656],"type":"Point"}
+  "bbox": [
+    -103.50906,
+    44.401656,
+    -103.50906,
+    44.401656
+],
+  "geometry": {"coordinates":[-103.50906000000001,44.401656],"type":"Point"}
 }

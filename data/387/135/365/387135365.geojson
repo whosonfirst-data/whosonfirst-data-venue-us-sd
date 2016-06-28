@@ -2,13 +2,14 @@
   "id": 387135365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.932941,43.54354,-96.932941,43.54354",
     "geom:latitude":43.54354,
     "geom:longitude":-96.932941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46350 265th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387135365,
-    "wof:lastmodified":1449057564,
+    "wof:lastmodified":1467082716,
     "wof:name":"D & C Supply",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.932941,43.54354,-96.932941,43.54354],
+  "bbox": [
+    -96.932941,
+    43.54354,
+    -96.932941,
+    43.54354
+],
   "geometry": {"coordinates":[-96.932941,43.54354],"type":"Point"}
 }

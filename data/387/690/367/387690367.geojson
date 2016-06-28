@@ -2,13 +2,14 @@
   "id": 387690367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.622492,43.602861,-97.622492,43.602861",
     "geom:latitude":43.602861,
     "geom:longitude":-97.622492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 N 3rd St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387690367,
-    "wof:lastmodified":1449058122,
+    "wof:lastmodified":1467082727,
     "wof:name":"Plum Creek Cabinets Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-97.622492,43.602861,-97.622492,43.602861],
-  "geometry": {"coordinates":[-97.622492,43.602861],"type":"Point"}
+  "bbox": [
+    -97.622492,
+    43.602861,
+    -97.622492,
+    43.602861
+],
+  "geometry": {"coordinates":[-97.62249199999999,43.602861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371109613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.519938,44.871778,-98.519938,44.871778",
     "geom:latitude":44.871778,
     "geom:longitude":-98.519938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 W 1st St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371109613,
-    "wof:lastmodified":1449049362,
+    "wof:lastmodified":1467082663,
     "wof:name":"Frank Carr Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.519938,44.871778,-98.519938,44.871778],
+  "bbox": [
+    -98.519938,
+    44.871778,
+    -98.519938,
+    44.871778
+],
   "geometry": {"coordinates":[-98.519938,44.871778],"type":"Point"}
 }

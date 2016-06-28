@@ -2,13 +2,14 @@
   "id": 387078889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.680147,43.674242,-96.680147,43.674242",
     "geom:latitude":43.674242,
     "geom:longitude":-96.680147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47653 256th St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387078889,
-    "wof:lastmodified":1449059332,
+    "wof:lastmodified":1467082751,
     "wof:name":"Wehde Jmes Fred Violet Matilde",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.680147,43.674242,-96.680147,43.674242],
-  "geometry": {"coordinates":[-96.680147,43.674242],"type":"Point"}
+  "bbox": [
+    -96.680147,
+    43.674242,
+    -96.680147,
+    43.674242
+],
+  "geometry": {"coordinates":[-96.68014700000001,43.674242],"type":"Point"}
 }

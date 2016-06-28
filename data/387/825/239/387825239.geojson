@@ -2,13 +2,14 @@
   "id": 387825239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.836028,43.446408,-96.836028,43.446408",
     "geom:latitude":43.446408,
     "geom:longitude":-96.836028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E 1st St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387825239,
-    "wof:lastmodified":1449056264,
+    "wof:lastmodified":1467082690,
     "wof:name":"TNT Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-96.836028,43.446408,-96.836028,43.446408],
+  "bbox": [
+    -96.836028,
+    43.446408,
+    -96.836028,
+    43.446408
+],
   "geometry": {"coordinates":[-96.836028,43.446408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387475765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.695306,43.583727,-96.695306,43.583727",
     "geom:latitude":43.583727,
     "geom:longitude":-96.695306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 E 39th St N",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387475765,
-    "wof:lastmodified":1449057683,
+    "wof:lastmodified":1467082718,
     "wof:name":"TBI Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.695306,43.583727,-96.695306,43.583727],
+  "bbox": [
+    -96.695306,
+    43.583727,
+    -96.695306,
+    43.583727
+],
   "geometry": {"coordinates":[-96.695306,43.583727],"type":"Point"}
 }

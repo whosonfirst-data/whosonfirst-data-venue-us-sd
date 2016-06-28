@@ -2,13 +2,14 @@
   "id": 387112939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.544841,43.307923,-98.544841,43.307923",
     "geom:latitude":43.307923,
     "geom:longitude":-98.544841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28146 382nd Ave",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387112939,
-    "wof:lastmodified":1449057851,
+    "wof:lastmodified":1467082722,
     "wof:name":"South Dakota Pheasant Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-98.544841,43.307923,-98.544841,43.307923],
-  "geometry": {"coordinates":[-98.544841,43.307923],"type":"Point"}
+  "bbox": [
+    -98.544841,
+    43.307923,
+    -98.544841,
+    43.307923
+],
+  "geometry": {"coordinates":[-98.54484100000001,43.307923],"type":"Point"}
 }

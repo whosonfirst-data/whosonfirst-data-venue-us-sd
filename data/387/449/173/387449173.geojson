@@ -2,13 +2,14 @@
   "id": 387449173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.033736,45.50737,-100.033736,45.50737",
     "geom:latitude":45.50737,
     "geom:longitude":-100.033736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4304 4th Ave",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387449173,
-    "wof:lastmodified":1449059641,
+    "wof:lastmodified":1467082757,
     "wof:name":"Walworth County Auditor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "taxation"
     ]
 },
-  "bbox": [-100.033736,45.50737,-100.033736,45.50737],
+  "bbox": [
+    -100.033736,
+    45.50737,
+    -100.033736,
+    45.50737
+],
   "geometry": {"coordinates":[-100.033736,45.50737],"type":"Point"}
 }

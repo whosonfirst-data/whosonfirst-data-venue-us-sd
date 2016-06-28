@@ -2,13 +2,14 @@
   "id": 387451265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.212358,44.363323,-98.212358,44.363323",
     "geom:latitude":44.363323,
     "geom:longitude":-98.212358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 3rd St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387451265,
-    "wof:lastmodified":1449057769,
+    "wof:lastmodified":1467082720,
     "wof:name":"Direct Check Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-98.212358,44.363323,-98.212358,44.363323],
-  "geometry": {"coordinates":[-98.212358,44.363323],"type":"Point"}
+  "bbox": [
+    -98.212358,
+    44.363323,
+    -98.212358,
+    44.363323
+],
+  "geometry": {"coordinates":[-98.21235799999999,44.363323],"type":"Point"}
 }

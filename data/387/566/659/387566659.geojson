@@ -2,13 +2,14 @@
   "id": 387566659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.653707,45.452862,-99.653707,45.452862",
     "geom:latitude":45.452862,
     "geom:longitude":-99.653707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 3rd Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387566659,
-    "wof:lastmodified":1449056200,
+    "wof:lastmodified":1467082688,
     "wof:name":"Triple C Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.653707,45.452862,-99.653707,45.452862],
+  "bbox": [
+    -99.653707,
+    45.452862,
+    -99.653707,
+    45.452862
+],
   "geometry": {"coordinates":[-99.653707,45.452862],"type":"Point"}
 }

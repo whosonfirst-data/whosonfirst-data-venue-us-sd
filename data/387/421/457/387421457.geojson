@@ -2,13 +2,14 @@
   "id": 387421457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760804,45.043614,-96.760804,45.043614",
     "geom:latitude":45.043614,
     "geom:longitude":-96.760804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 S Main",
     "sg:city":"Strandburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387421457,
-    "wof:lastmodified":1449058524,
+    "wof:lastmodified":1467082735,
     "wof:name":"Ed Reiners & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.760804,45.043614,-96.760804,45.043614],
-  "geometry": {"coordinates":[-96.760804,45.043614],"type":"Point"}
+  "bbox": [
+    -96.760804,
+    45.043614,
+    -96.760804,
+    45.043614
+],
+  "geometry": {"coordinates":[-96.76080399999999,45.043614],"type":"Point"}
 }

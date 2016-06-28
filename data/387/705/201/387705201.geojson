@@ -2,13 +2,14 @@
   "id": 387705201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.661205,44.484845,-96.661205,44.484845",
     "geom:latitude":44.484845,
     "geom:longitude":-96.661205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47725 200th St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387705201,
-    "wof:lastmodified":1449059941,
+    "wof:lastmodified":1467082764,
     "wof:name":"Kleinjan John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.661205,44.484845,-96.661205,44.484845],
+  "bbox": [
+    -96.661205,
+    44.484845,
+    -96.661205,
+    44.484845
+],
   "geometry": {"coordinates":[-96.661205,44.484845],"type":"Point"}
 }

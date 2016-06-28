@@ -2,13 +2,14 @@
   "id": 387327219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118412,44.890178,-97.118412,44.890178",
     "geom:latitude":44.890178,
     "geom:longitude":-97.118412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387327219,
-    "wof:lastmodified":1449056397,
+    "wof:lastmodified":1467082692,
     "wof:name":"Trio Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-97.118412,44.890178,-97.118412,44.890178],
-  "geometry": {"coordinates":[-97.118412,44.890178],"type":"Point"}
+  "bbox": [
+    -97.118412,
+    44.890178,
+    -97.118412,
+    44.890178
+],
+  "geometry": {"coordinates":[-97.11841200000001,44.890178],"type":"Point"}
 }

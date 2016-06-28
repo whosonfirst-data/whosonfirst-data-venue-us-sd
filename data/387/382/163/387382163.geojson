@@ -2,13 +2,14 @@
   "id": 387382163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216135,44.077263,-103.216135,44.077263",
     "geom:latitude":44.077263,
     "geom:longitude":-103.216135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 East Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387382163,
-    "wof:lastmodified":1449057117,
+    "wof:lastmodified":1467082707,
     "wof:name":"Spine Pain Centre",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-103.216135,44.077263,-103.216135,44.077263],
-  "geometry": {"coordinates":[-103.216135,44.077263],"type":"Point"}
+  "bbox": [
+    -103.216135,
+    44.077263,
+    -103.216135,
+    44.077263
+],
+  "geometry": {"coordinates":[-103.21613499999999,44.077263],"type":"Point"}
 }

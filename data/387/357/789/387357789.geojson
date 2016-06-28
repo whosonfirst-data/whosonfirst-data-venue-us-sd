@@ -2,13 +2,14 @@
   "id": 387357789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.033688,43.706522,-98.033688,43.706522",
     "geom:latitude":43.706522,
     "geom:longitude":-98.033688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Minnesota St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387357789,
-    "wof:lastmodified":1449059456,
+    "wof:lastmodified":1467082754,
     "wof:name":"Greenwood Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.033688,43.706522,-98.033688,43.706522],
+  "bbox": [
+    -98.033688,
+    43.706522,
+    -98.033688,
+    43.706522
+],
   "geometry": {"coordinates":[-98.033688,43.706522],"type":"Point"}
 }

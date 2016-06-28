@@ -2,13 +2,14 @@
   "id": 371111501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.869851,44.51688,-103.869851,44.51688",
     "geom:latitude":44.51688,
     "geom:longitude":-103.869851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Evans Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371111501,
-    "wof:lastmodified":1449050173,
+    "wof:lastmodified":1467082674,
     "wof:name":"Goodsell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.869851,44.51688,-103.869851,44.51688],
+  "bbox": [
+    -103.869851,
+    44.51688,
+    -103.869851,
+    44.51688
+],
   "geometry": {"coordinates":[-103.869851,44.51688],"type":"Point"}
 }

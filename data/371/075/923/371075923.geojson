@@ -2,13 +2,14 @@
   "id": 371075923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768684,43.567765,-96.768684,43.567765",
     "geom:latitude":43.567765,
     "geom:longitude":-96.768684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W Russell St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371075923,
-    "wof:lastmodified":1449049629,
+    "wof:lastmodified":1467082666,
     "wof:name":"Oaks Hotel & Convention Ctr",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768684,43.567765,-96.768684,43.567765],
-  "geometry": {"coordinates":[-96.768684,43.567765],"type":"Point"}
+  "bbox": [
+    -96.768684,
+    43.567765,
+    -96.768684,
+    43.567765
+],
+  "geometry": {"coordinates":[-96.76868399999999,43.567765],"type":"Point"}
 }

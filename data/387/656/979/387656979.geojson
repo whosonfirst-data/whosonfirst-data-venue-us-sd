@@ -2,13 +2,14 @@
   "id": 387656979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.145167,44.897422,-97.145167,44.897422",
     "geom:latitude":44.897422,
     "geom:longitude":-97.145167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 4th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387656979,
-    "wof:lastmodified":1449058590,
+    "wof:lastmodified":1467082737,
     "wof:name":"Esco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sign"
     ]
 },
-  "bbox": [-97.145167,44.897422,-97.145167,44.897422],
+  "bbox": [
+    -97.145167,
+    44.897422,
+    -97.145167,
+    44.897422
+],
   "geometry": {"coordinates":[-97.145167,44.897422],"type":"Point"}
 }

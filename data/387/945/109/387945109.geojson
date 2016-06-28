@@ -2,13 +2,14 @@
   "id": 387945109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.231686,44.033442,-103.231686,44.033442",
     "geom:latitude":44.033442,
     "geom:longitude":-103.231686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Enchantment Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387945109,
-    "wof:lastmodified":1449056430,
+    "wof:lastmodified":1467082693,
     "wof:name":"Kuehn Realty",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.231686,44.033442,-103.231686,44.033442],
+  "bbox": [
+    -103.231686,
+    44.033442,
+    -103.231686,
+    44.033442
+],
   "geometry": {"coordinates":[-103.231686,44.033442],"type":"Point"}
 }

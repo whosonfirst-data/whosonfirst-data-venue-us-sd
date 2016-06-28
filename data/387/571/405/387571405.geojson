@@ -2,13 +2,14 @@
   "id": 387571405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.531444,43.950027,-103.531444,43.950027",
     "geom:latitude":43.950027,
     "geom:longitude":-103.531444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23860 Penalua Gulch Rd",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387571405,
-    "wof:lastmodified":1449058710,
+    "wof:lastmodified":1467082739,
     "wof:name":"C & S Technologies",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-103.531444,43.950027,-103.531444,43.950027],
-  "geometry": {"coordinates":[-103.531444,43.950027],"type":"Point"}
+  "bbox": [
+    -103.531444,
+    43.950027,
+    -103.531444,
+    43.950027
+],
+  "geometry": {"coordinates":[-103.53144399999999,43.950027],"type":"Point"}
 }

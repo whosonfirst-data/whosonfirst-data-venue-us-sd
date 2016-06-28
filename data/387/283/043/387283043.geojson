@@ -2,13 +2,14 @@
   "id": 387283043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489552,45.450192,-98.489552,45.450192",
     "geom:latitude":45.450192,
     "geom:longitude":-98.489552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 S 1st St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387283043,
-    "wof:lastmodified":1449057226,
+    "wof:lastmodified":1467082709,
     "wof:name":"Bittner Boys L L P",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.489552,45.450192,-98.489552,45.450192],
+  "bbox": [
+    -98.489552,
+    45.450192,
+    -98.489552,
+    45.450192
+],
   "geometry": {"coordinates":[-98.489552,45.450192],"type":"Point"}
 }

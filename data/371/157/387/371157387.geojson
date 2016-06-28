@@ -2,13 +2,14 @@
   "id": 371157387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.392112,45.463921,-98.392112,45.463921",
     "geom:latitude":45.463921,
     "geom:longitude":-98.392112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13264 392nd Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371157387,
-    "wof:lastmodified":1449049994,
+    "wof:lastmodified":1467082671,
     "wof:name":"Farmers Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "elevator"
     ]
 },
-  "bbox": [-98.392112,45.463921,-98.392112,45.463921],
+  "bbox": [
+    -98.392112,
+    45.463921,
+    -98.392112,
+    45.463921
+],
   "geometry": {"coordinates":[-98.392112,45.463921],"type":"Point"}
 }

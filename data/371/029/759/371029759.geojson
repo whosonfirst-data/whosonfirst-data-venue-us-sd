@@ -2,13 +2,14 @@
   "id": 371029759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.066339,45.453638,-102.066339,45.453638",
     "geom:latitude":45.453638,
     "geom:longitude":-102.066339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12798 198th Ave",
     "sg:city":"Meadow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371029759,
-    "wof:lastmodified":1449049473,
+    "wof:lastmodified":1467082664,
     "wof:name":"Daryl Storm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-102.066339,45.453638,-102.066339,45.453638],
+  "bbox": [
+    -102.066339,
+    45.453638,
+    -102.066339,
+    45.453638
+],
   "geometry": {"coordinates":[-102.066339,45.453638],"type":"Point"}
 }

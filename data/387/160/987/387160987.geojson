@@ -2,13 +2,14 @@
   "id": 387160987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712207,43.503315,-96.712207,43.503315",
     "geom:latitude":43.503315,
     "geom:longitude":-96.712207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 E Plum Creek Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387160987,
-    "wof:lastmodified":1449059324,
+    "wof:lastmodified":1467082751,
     "wof:name":"Happy-Mac Hosting",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-96.712207,43.503315,-96.712207,43.503315],
-  "geometry": {"coordinates":[-96.712207,43.503315],"type":"Point"}
+  "bbox": [
+    -96.712207,
+    43.503315,
+    -96.712207,
+    43.503315
+],
+  "geometry": {"coordinates":[-96.71220700000001,43.503315],"type":"Point"}
 }

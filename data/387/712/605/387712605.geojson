@@ -2,13 +2,14 @@
   "id": 387712605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711358,43.490024,-96.711358,43.490024",
     "geom:latitude":43.490024,
     "geom:longitude":-96.711358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Tomar Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387712605,
-    "wof:lastmodified":1449057740,
+    "wof:lastmodified":1467082719,
     "wof:name":"Shechter MD Prof LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialist"
     ]
 },
-  "bbox": [-96.711358,43.490024,-96.711358,43.490024],
+  "bbox": [
+    -96.711358,
+    43.490024,
+    -96.711358,
+    43.490024
+],
   "geometry": {"coordinates":[-96.711358,43.490024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387134665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508399,45.459303,-98.508399,45.459303",
     "geom:latitude":45.459303,
     "geom:longitude":-98.508399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 S 14th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387134665,
-    "wof:lastmodified":1449059706,
+    "wof:lastmodified":1467082759,
     "wof:name":"Gary Bunt",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guard"
     ]
 },
-  "bbox": [-98.508399,45.459303,-98.508399,45.459303],
+  "bbox": [
+    -98.508399,
+    45.459303,
+    -98.508399,
+    45.459303
+],
   "geometry": {"coordinates":[-98.508399,45.459303],"type":"Point"}
 }

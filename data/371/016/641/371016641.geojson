@@ -2,13 +2,14 @@
   "id": 371016641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797953,45.221867,-96.797953,45.221867",
     "geom:latitude":45.221867,
     "geom:longitude":-96.797953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47030 149th St",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371016641,
-    "wof:lastmodified":1449049224,
+    "wof:lastmodified":1467082660,
     "wof:name":"Big Stone Lake Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.797953,45.221867,-96.797953,45.221867],
-  "geometry": {"coordinates":[-96.797953,45.221867],"type":"Point"}
+  "bbox": [
+    -96.797953,
+    45.221867,
+    -96.797953,
+    45.221867
+],
+  "geometry": {"coordinates":[-96.79795300000001,45.221867],"type":"Point"}
 }

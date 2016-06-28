@@ -2,13 +2,14 @@
   "id": 371096841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.674474,43.506693,-96.674474,43.506693",
     "geom:latitude":43.506693,
     "geom:longitude":-96.674474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 S Florence Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371096841,
-    "wof:lastmodified":1449049339,
+    "wof:lastmodified":1467082662,
     "wof:name":"A-1 Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-96.674474,43.506693,-96.674474,43.506693],
+  "bbox": [
+    -96.674474,
+    43.506693,
+    -96.674474,
+    43.506693
+],
   "geometry": {"coordinates":[-96.674474,43.506693],"type":"Point"}
 }

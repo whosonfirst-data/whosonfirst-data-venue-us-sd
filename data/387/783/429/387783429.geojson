@@ -2,13 +2,14 @@
   "id": 387783429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.899519,44.571698,-96.899519,44.571698",
     "geom:latitude":44.571698,
     "geom:longitude":-96.899519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 5th St S",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387783429,
-    "wof:lastmodified":1449056242,
+    "wof:lastmodified":1467082689,
     "wof:name":"Stacys Shear Touch Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.899519,44.571698,-96.899519,44.571698],
+  "bbox": [
+    -96.899519,
+    44.571698,
+    -96.899519,
+    44.571698
+],
   "geometry": {"coordinates":[-96.899519,44.571698],"type":"Point"}
 }

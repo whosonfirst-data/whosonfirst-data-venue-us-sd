@@ -2,13 +2,14 @@
   "id": 387267247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.929135,43.7869,-96.929135,43.7869",
     "geom:latitude":43.7869,
     "geom:longitude":-96.929135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 E 4th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387267247,
-    "wof:lastmodified":1449059572,
+    "wof:lastmodified":1467082756,
     "wof:name":"US Post Office",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.929135,43.7869,-96.929135,43.7869],
+  "bbox": [
+    -96.929135,
+    43.7869,
+    -96.929135,
+    43.7869
+],
   "geometry": {"coordinates":[-96.929135,43.7869],"type":"Point"}
 }

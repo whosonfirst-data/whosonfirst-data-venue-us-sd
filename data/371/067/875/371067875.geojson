@@ -2,13 +2,14 @@
   "id": 371067875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.365735,45.86881,-99.365735,45.86881",
     "geom:latitude":45.86881,
     "geom:longitude":-99.365735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10576 341st Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371067875,
-    "wof:lastmodified":1449049107,
+    "wof:lastmodified":1467082659,
     "wof:name":"Myron Mettler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.365735,45.86881,-99.365735,45.86881],
+  "bbox": [
+    -99.365735,
+    45.86881,
+    -99.365735,
+    45.86881
+],
   "geometry": {"coordinates":[-99.365735,45.86881],"type":"Point"}
 }

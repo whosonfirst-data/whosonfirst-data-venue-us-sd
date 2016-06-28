@@ -2,13 +2,14 @@
   "id": 387303461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.963585,44.329738,-98.963585,44.329738",
     "geom:latitude":44.329738,
     "geom:longitude":-98.963585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21081 Beckett Ranch Rd",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387303461,
-    "wof:lastmodified":1449056152,
+    "wof:lastmodified":1467082688,
     "wof:name":"Beckett Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.963585,44.329738,-98.963585,44.329738],
-  "geometry": {"coordinates":[-98.963585,44.329738],"type":"Point"}
+  "bbox": [
+    -98.963585,
+    44.329738,
+    -98.963585,
+    44.329738
+],
+  "geometry": {"coordinates":[-98.96358499999999,44.329738],"type":"Point"}
 }

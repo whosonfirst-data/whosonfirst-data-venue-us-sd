@@ -2,13 +2,14 @@
   "id": 387758091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004312,43.432329,-97.004312,43.432329",
     "geom:latitude":43.432329,
     "geom:longitude":-97.004312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27293 460th Ave",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387758091,
-    "wof:lastmodified":1449057250,
+    "wof:lastmodified":1467082709,
     "wof:name":"Klock Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.004312,43.432329,-97.004312,43.432329],
+  "bbox": [
+    -97.004312,
+    43.432329,
+    -97.004312,
+    43.432329
+],
   "geometry": {"coordinates":[-97.004312,43.432329],"type":"Point"}
 }

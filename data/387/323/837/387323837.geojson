@@ -2,13 +2,14 @@
   "id": 387323837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128249,44.902798,-97.128249,44.902798",
     "geom:latitude":44.902798,
     "geom:longitude":-97.128249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387323837,
-    "wof:lastmodified":1449056432,
+    "wof:lastmodified":1467082693,
     "wof:name":"Eden Air & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-97.128249,44.902798,-97.128249,44.902798],
+  "bbox": [
+    -97.128249,
+    44.902798,
+    -97.128249,
+    44.902798
+],
   "geometry": {"coordinates":[-97.128249,44.902798],"type":"Point"}
 }

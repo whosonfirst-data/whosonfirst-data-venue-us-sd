@@ -2,13 +2,14 @@
   "id": 387549713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.866294,43.721296,-96.866294,43.721296",
     "geom:latitude":43.721296,
     "geom:longitude":-96.866294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 2nd Ave",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387549713,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1467082707,
     "wof:name":"Chester Jr Sr High School",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.866294,43.721296,-96.866294,43.721296],
+  "bbox": [
+    -96.866294,
+    43.721296,
+    -96.866294,
+    43.721296
+],
   "geometry": {"coordinates":[-96.866294,43.721296],"type":"Point"}
 }

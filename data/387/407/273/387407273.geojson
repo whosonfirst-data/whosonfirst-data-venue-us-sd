@@ -2,13 +2,14 @@
   "id": 387407273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.556956,45.506931,-98.556956,45.506931",
     "geom:latitude":45.506931,
     "geom:longitude":-98.556956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12993 Richmond Heights Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387407273,
-    "wof:lastmodified":1449058224,
+    "wof:lastmodified":1467082729,
     "wof:name":"Less Drywall",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.556956,45.506931,-98.556956,45.506931],
+  "bbox": [
+    -98.556956,
+    45.506931,
+    -98.556956,
+    45.506931
+],
   "geometry": {"coordinates":[-98.556956,45.506931],"type":"Point"}
 }

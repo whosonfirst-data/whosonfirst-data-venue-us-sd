@@ -2,13 +2,14 @@
   "id": 387662101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717457,43.14953,-97.717457,43.14953",
     "geom:latitude":43.14953,
     "geom:longitude":-97.717457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387662101,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1467082738,
     "wof:name":"Lyn Wagner Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.717457,43.14953,-97.717457,43.14953],
+  "bbox": [
+    -97.717457,
+    43.14953,
+    -97.717457,
+    43.14953
+],
   "geometry": {"coordinates":[-97.717457,43.14953],"type":"Point"}
 }

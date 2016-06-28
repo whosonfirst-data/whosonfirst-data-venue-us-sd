@@ -2,13 +2,14 @@
   "id": 371023941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115518,44.003874,-97.115518,44.003874",
     "geom:latitude":44.003874,
     "geom:longitude":-97.115518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 SW 1st St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371023941,
-    "wof:lastmodified":1449050037,
+    "wof:lastmodified":1467082672,
     "wof:name":"Craig's Welding & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.115518,44.003874,-97.115518,44.003874],
-  "geometry": {"coordinates":[-97.115518,44.003874],"type":"Point"}
+  "bbox": [
+    -97.115518,
+    44.003874,
+    -97.115518,
+    44.003874
+],
+  "geometry": {"coordinates":[-97.11551799999999,44.003874],"type":"Point"}
 }

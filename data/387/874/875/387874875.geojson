@@ -2,13 +2,14 @@
   "id": 387874875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.122809,44.903729,-97.122809,44.903729",
     "geom:latitude":44.903729,
     "geom:longitude":-97.122809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 1st Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387874875,
-    "wof:lastmodified":1449059676,
+    "wof:lastmodified":1467082758,
     "wof:name":"Rain Or Shine Used Cllctbls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-97.122809,44.903729,-97.122809,44.903729],
+  "bbox": [
+    -97.122809,
+    44.903729,
+    -97.122809,
+    44.903729
+],
   "geometry": {"coordinates":[-97.122809,44.903729],"type":"Point"}
 }

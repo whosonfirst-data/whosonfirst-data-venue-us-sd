@@ -2,13 +2,14 @@
   "id": 387256303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73241,43.524315,-96.73241,43.524315",
     "geom:latitude":43.524315,
     "geom:longitude":-96.73241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2122 S Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387256303,
-    "wof:lastmodified":1449058999,
+    "wof:lastmodified":1467082745,
     "wof:name":"Sioux Falls Physical Medicine",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.73241,43.524315,-96.73241,43.524315],
+  "bbox": [
+    -96.73241,
+    43.524315,
+    -96.73241,
+    43.524315
+],
   "geometry": {"coordinates":[-96.73241,43.524315],"type":"Point"}
 }

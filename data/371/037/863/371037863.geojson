@@ -2,13 +2,14 @@
   "id": 371037863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486494,45.463168,-98.486494,45.463168",
     "geom:latitude":45.463168,
     "geom:longitude":-98.486494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 2nd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371037863,
-    "wof:lastmodified":1449050163,
+    "wof:lastmodified":1467082674,
     "wof:name":"Aberdeen Fire Prevention Bur",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.486494,45.463168,-98.486494,45.463168],
-  "geometry": {"coordinates":[-98.486494,45.463168],"type":"Point"}
+  "bbox": [
+    -98.486494,
+    45.463168,
+    -98.486494,
+    45.463168
+],
+  "geometry": {"coordinates":[-98.48649399999999,45.463168],"type":"Point"}
 }

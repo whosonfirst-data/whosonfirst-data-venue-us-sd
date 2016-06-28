@@ -2,13 +2,14 @@
   "id": 371068721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.269152,44.037644,-103.269152,44.037644",
     "geom:latitude":44.037644,
     "geom:longitude":-103.269152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 Sunny Hill Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371068721,
-    "wof:lastmodified":1449049570,
+    "wof:lastmodified":1467082665,
     "wof:name":"Accent Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.269152,44.037644,-103.269152,44.037644],
-  "geometry": {"coordinates":[-103.269152,44.037644],"type":"Point"}
+  "bbox": [
+    -103.269152,
+    44.037644,
+    -103.269152,
+    44.037644
+],
+  "geometry": {"coordinates":[-103.26915200000001,44.037644],"type":"Point"}
 }

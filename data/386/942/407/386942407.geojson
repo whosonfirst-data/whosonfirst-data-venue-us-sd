@@ -2,13 +2,14 @@
   "id": 386942407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711207,43.493997,-96.711207,43.493997",
     "geom:latitude":43.493997,
     "geom:longitude":-96.711207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E 64th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386942407,
-    "wof:lastmodified":1449028765,
+    "wof:lastmodified":1467082652,
     "wof:name":"Kozy Getaway Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.711207,43.493997,-96.711207,43.493997],
+  "bbox": [
+    -96.711207,
+    43.493997,
+    -96.711207,
+    43.493997
+],
   "geometry": {"coordinates":[-96.711207,43.493997],"type":"Point"}
 }

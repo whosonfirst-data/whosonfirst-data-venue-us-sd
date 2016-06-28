@@ -2,13 +2,14 @@
   "id": 387240675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771559,43.6845,-96.771559,43.6845",
     "geom:latitude":43.6845,
     "geom:longitude":-96.771559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25541 472nd Ave",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387240675,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1467082695,
     "wof:name":"Craft Peddler",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.771559,43.6845,-96.771559,43.6845],
+  "bbox": [
+    -96.771559,
+    43.6845,
+    -96.771559,
+    43.6845
+],
   "geometry": {"coordinates":[-96.771559,43.6845],"type":"Point"}
 }

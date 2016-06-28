@@ -2,13 +2,14 @@
   "id": 387655571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.860753,45.409703,-96.860753,45.409703",
     "geom:latitude":45.409703,
     "geom:longitude":-96.860753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387655571,
-    "wof:lastmodified":1449058298,
+    "wof:lastmodified":1467082731,
     "wof:name":"Toronto Auto & Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.860753,45.409703,-96.860753,45.409703],
+  "bbox": [
+    -96.860753,
+    45.409703,
+    -96.860753,
+    45.409703
+],
   "geometry": {"coordinates":[-96.860753,45.409703],"type":"Point"}
 }

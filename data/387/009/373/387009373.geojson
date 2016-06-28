@@ -2,13 +2,14 @@
   "id": 387009373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80008,43.499794,-96.80008,43.499794",
     "geom:latitude":43.499794,
     "geom:longitude":-96.80008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5920 W 58th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387009373,
-    "wof:lastmodified":1449059843,
+    "wof:lastmodified":1467082761,
     "wof:name":"R Investments LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-96.80008,43.499794,-96.80008,43.499794],
-  "geometry": {"coordinates":[-96.80008,43.499794],"type":"Point"}
+  "bbox": [
+    -96.80008,
+    43.499794,
+    -96.80008,
+    43.499794
+],
+  "geometry": {"coordinates":[-96.80007999999999,43.499794],"type":"Point"}
 }

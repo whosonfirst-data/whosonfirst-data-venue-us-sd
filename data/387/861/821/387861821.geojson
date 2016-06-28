@@ -2,13 +2,14 @@
   "id": 387861821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82628,43.450908,-96.82628,43.450908",
     "geom:latitude":43.450908,
     "geom:longitude":-96.82628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27168 469th Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387861821,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1467082763,
     "wof:name":"Steve's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.82628,43.450908,-96.82628,43.450908],
+  "bbox": [
+    -96.82628,
+    43.450908,
+    -96.82628,
+    43.450908
+],
   "geometry": {"coordinates":[-96.82628,43.450908],"type":"Point"}
 }

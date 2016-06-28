@@ -2,13 +2,14 @@
   "id": 387917725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.037624,43.890996,-103.037624,43.890996",
     "geom:latitude":43.890996,
     "geom:longitude":-103.037624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15115 Lower Spring Creek Rd",
     "sg:city":"Hermosa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387917725,
-    "wof:lastmodified":1449059420,
+    "wof:lastmodified":1467082753,
     "wof:name":"Herrington Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.037624,43.890996,-103.037624,43.890996],
-  "geometry": {"coordinates":[-103.037624,43.890996],"type":"Point"}
+  "bbox": [
+    -103.037624,
+    43.890996,
+    -103.037624,
+    43.890996
+],
+  "geometry": {"coordinates":[-103.03762399999999,43.890996],"type":"Point"}
 }

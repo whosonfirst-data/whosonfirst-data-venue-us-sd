@@ -2,13 +2,14 @@
   "id": 371172833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025645,43.712478,-98.025645,43.712478",
     "geom:latitude":43.712478,
     "geom:longitude":-98.025645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":371172833,
-    "wof:lastmodified":1449049440,
+    "wof:lastmodified":1467082664,
     "wof:name":"Little Red Hen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.025645,43.712478,-98.025645,43.712478],
+  "bbox": [
+    -98.025645,
+    43.712478,
+    -98.025645,
+    43.712478
+],
   "geometry": {"coordinates":[-98.025645,43.712478],"type":"Point"}
 }

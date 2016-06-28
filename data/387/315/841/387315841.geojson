@@ -2,13 +2,14 @@
   "id": 387315841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.170325,44.099303,-103.170325,44.099303",
     "geom:latitude":44.099303,
     "geom:longitude":-103.170325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Beal St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387315841,
-    "wof:lastmodified":1449059720,
+    "wof:lastmodified":1467082759,
     "wof:name":"Mobile Storage Rentals",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-103.170325,44.099303,-103.170325,44.099303],
-  "geometry": {"coordinates":[-103.170325,44.099303],"type":"Point"}
+  "bbox": [
+    -103.170325,
+    44.099303,
+    -103.170325,
+    44.099303
+],
+  "geometry": {"coordinates":[-103.17032500000001,44.099303],"type":"Point"}
 }

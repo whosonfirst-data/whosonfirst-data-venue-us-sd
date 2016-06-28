@@ -2,13 +2,14 @@
   "id": 370974307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.826302,43.486813,-96.826302,43.486813",
     "geom:latitude":43.486813,
     "geom:longitude":-96.826302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26922 469th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370974307,
-    "wof:lastmodified":1449032027,
+    "wof:lastmodified":1467082657,
     "wof:name":"Tiggs Game Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "animal"
     ]
 },
-  "bbox": [-96.826302,43.486813,-96.826302,43.486813],
+  "bbox": [
+    -96.826302,
+    43.486813,
+    -96.826302,
+    43.486813
+],
   "geometry": {"coordinates":[-96.826302,43.486813],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387582167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.853325,44.367095,-97.853325,44.367095",
     "geom:latitude":44.367095,
     "geom:longitude":-97.853325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 W Washita St",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387582167,
-    "wof:lastmodified":1449058160,
+    "wof:lastmodified":1467082728,
     "wof:name":"Pearl Creek Clny Elmntary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.853325,44.367095,-97.853325,44.367095],
+  "bbox": [
+    -97.853325,
+    44.367095,
+    -97.853325,
+    44.367095
+],
   "geometry": {"coordinates":[-97.853325,44.367095],"type":"Point"}
 }

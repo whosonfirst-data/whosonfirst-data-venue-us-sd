@@ -2,13 +2,14 @@
   "id": 386982257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711403,43.598064,-96.711403,43.598064",
     "geom:latitude":43.598064,
     "geom:longitude":-96.711403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386982257,
-    "wof:lastmodified":1449028668,
+    "wof:lastmodified":1467082650,
     "wof:name":"Great Plains Intl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.711403,43.598064,-96.711403,43.598064],
+  "bbox": [
+    -96.711403,
+    43.598064,
+    -96.711403,
+    43.598064
+],
   "geometry": {"coordinates":[-96.711403,43.598064],"type":"Point"}
 }

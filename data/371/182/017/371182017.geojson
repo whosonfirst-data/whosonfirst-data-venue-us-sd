@@ -2,13 +2,14 @@
   "id": 371182017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7518,44.305504,-96.7518,44.305504",
     "geom:latitude":44.305504,
     "geom:longitude":-96.7518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 32nd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371182017,
-    "wof:lastmodified":1449049721,
+    "wof:lastmodified":1467082668,
     "wof:name":"MTR Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-96.7518,44.305504,-96.7518,44.305504],
+  "bbox": [
+    -96.7518,
+    44.305504,
+    -96.7518,
+    44.305504
+],
   "geometry": {"coordinates":[-96.7518,44.305504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387345305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.852005,43.376473,-99.852005,43.376473",
     "geom:latitude":43.376473,
     "geom:longitude":-99.852005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387345305,
-    "wof:lastmodified":1449059616,
+    "wof:lastmodified":1467082757,
     "wof:name":"Agri West Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.852005,43.376473,-99.852005,43.376473],
-  "geometry": {"coordinates":[-99.852005,43.376473],"type":"Point"}
+  "bbox": [
+    -99.852005,
+    43.376473,
+    -99.852005,
+    43.376473
+],
+  "geometry": {"coordinates":[-99.85200500000001,43.376473],"type":"Point"}
 }

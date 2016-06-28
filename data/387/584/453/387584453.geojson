@@ -2,13 +2,14 @@
   "id": 387584453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.657322,43.238423,-97.657322,43.238423",
     "geom:latitude":43.238423,
     "geom:longitude":-97.657322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28618 Co Rd 11",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387584453,
-    "wof:lastmodified":1449056525,
+    "wof:lastmodified":1467082695,
     "wof:name":"Mark Rames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-97.657322,43.238423,-97.657322,43.238423],
-  "geometry": {"coordinates":[-97.657322,43.238423],"type":"Point"}
+  "bbox": [
+    -97.657322,
+    43.238423,
+    -97.657322,
+    43.238423
+],
+  "geometry": {"coordinates":[-97.65732199999999,43.238423],"type":"Point"}
 }

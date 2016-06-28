@@ -2,13 +2,14 @@
   "id": 387729741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.948248,45.009281,-99.948248,45.009281",
     "geom:latitude":45.009281,
     "geom:longitude":-99.948248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 S Harrison St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387729741,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1467082725,
     "wof:name":"Dan Parker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-99.948248,45.009281,-99.948248,45.009281],
-  "geometry": {"coordinates":[-99.948248,45.009281],"type":"Point"}
+  "bbox": [
+    -99.948248,
+    45.009281,
+    -99.948248,
+    45.009281
+],
+  "geometry": {"coordinates":[-99.94824800000001,45.009281],"type":"Point"}
 }

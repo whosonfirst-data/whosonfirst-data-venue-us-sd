@@ -2,13 +2,14 @@
   "id": 371068917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547731,44.384555,-97.547731,44.384555",
     "geom:latitude":44.384555,
     "geom:longitude":-97.547731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Joliet Ave SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371068917,
-    "wof:lastmodified":1449049570,
+    "wof:lastmodified":1467082665,
     "wof:name":"Frosty Corner Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.547731,44.384555,-97.547731,44.384555],
+  "bbox": [
+    -97.547731,
+    44.384555,
+    -97.547731,
+    44.384555
+],
   "geometry": {"coordinates":[-97.547731,44.384555],"type":"Point"}
 }

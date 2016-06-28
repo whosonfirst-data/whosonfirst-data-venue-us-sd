@@ -2,13 +2,14 @@
   "id": 387233669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796962,44.292526,-96.796962,44.292526",
     "geom:latitude":44.292526,
     "geom:longitude":-96.796962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387233669,
-    "wof:lastmodified":1449059983,
+    "wof:lastmodified":1467082764,
     "wof:name":"Normandy Village-Rental Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-96.796962,44.292526,-96.796962,44.292526],
-  "geometry": {"coordinates":[-96.796962,44.292526],"type":"Point"}
+  "bbox": [
+    -96.796962,
+    44.292526,
+    -96.796962,
+    44.292526
+],
+  "geometry": {"coordinates":[-96.79696199999999,44.292526],"type":"Point"}
 }

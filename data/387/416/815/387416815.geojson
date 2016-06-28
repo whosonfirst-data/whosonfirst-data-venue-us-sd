@@ -2,13 +2,14 @@
   "id": 387416815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.024107,43.711309,-98.024107,43.711309",
     "geom:latitude":43.711309,
     "geom:longitude":-98.024107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Lawler St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387416815,
-    "wof:lastmodified":1449057814,
+    "wof:lastmodified":1467082721,
     "wof:name":"Business Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.024107,43.711309,-98.024107,43.711309],
+  "bbox": [
+    -98.024107,
+    43.711309,
+    -98.024107,
+    43.711309
+],
   "geometry": {"coordinates":[-98.024107,43.711309],"type":"Point"}
 }

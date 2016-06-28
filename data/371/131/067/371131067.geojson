@@ -2,13 +2,14 @@
   "id": 371131067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.894944,43.273315,-97.894944,43.273315",
     "geom:latitude":43.273315,
     "geom:longitude":-97.894944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28375 415th Ave",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371131067,
-    "wof:lastmodified":1449049319,
+    "wof:lastmodified":1467082662,
     "wof:name":"Harvey Schnabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.894944,43.273315,-97.894944,43.273315],
+  "bbox": [
+    -97.894944,
+    43.273315,
+    -97.894944,
+    43.273315
+],
   "geometry": {"coordinates":[-97.894944,43.273315],"type":"Point"}
 }

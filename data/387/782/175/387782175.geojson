@@ -2,13 +2,14 @@
   "id": 387782175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.49541,43.434086,-103.49541,43.434086",
     "geom:latitude":43.434086,
     "geom:longitude":-103.49541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 Wilson Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387782175,
-    "wof:lastmodified":1449056100,
+    "wof:lastmodified":1467082686,
     "wof:name":"Black Hills Resources LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.49541,43.434086,-103.49541,43.434086],
-  "geometry": {"coordinates":[-103.49541,43.434086],"type":"Point"}
+  "bbox": [
+    -103.49541,
+    43.434086,
+    -103.49541,
+    43.434086
+],
+  "geometry": {"coordinates":[-103.49541000000001,43.434086],"type":"Point"}
 }

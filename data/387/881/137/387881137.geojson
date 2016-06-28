@@ -2,13 +2,14 @@
   "id": 387881137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.593146,43.766112,-103.593146,43.766112",
     "geom:latitude":43.766112,
     "geom:longitude":-103.593146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S 9th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387881137,
-    "wof:lastmodified":1449058312,
+    "wof:lastmodified":1467082731,
     "wof:name":"Witts Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "heating"
     ]
 },
-  "bbox": [-103.593146,43.766112,-103.593146,43.766112],
+  "bbox": [
+    -103.593146,
+    43.766112,
+    -103.593146,
+    43.766112
+],
   "geometry": {"coordinates":[-103.593146,43.766112],"type":"Point"}
 }

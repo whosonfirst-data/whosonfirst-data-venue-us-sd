@@ -2,13 +2,14 @@
   "id": 371101843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.129979,44.049648,-103.129979,44.049648",
     "geom:latitude":44.049648,
     "geom:longitude":-103.129979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Colvin Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371101843,
-    "wof:lastmodified":1449049590,
+    "wof:lastmodified":1467082666,
     "wof:name":"Muth Homes Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.129979,44.049648,-103.129979,44.049648],
-  "geometry": {"coordinates":[-103.129979,44.049648],"type":"Point"}
+  "bbox": [
+    -103.129979,
+    44.049648,
+    -103.129979,
+    44.049648
+],
+  "geometry": {"coordinates":[-103.12997900000001,44.049648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387262501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433542,45.461088,-98.433542,45.461088",
     "geom:latitude":45.461088,
     "geom:longitude":-98.433542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Brown County 19 N",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387262501,
-    "wof:lastmodified":1449058461,
+    "wof:lastmodified":1467082734,
     "wof:name":"Dakota Electronics",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "provides"
     ]
 },
-  "bbox": [-98.433542,45.461088,-98.433542,45.461088],
+  "bbox": [
+    -98.433542,
+    45.461088,
+    -98.433542,
+    45.461088
+],
   "geometry": {"coordinates":[-98.433542,45.461088],"type":"Point"}
 }

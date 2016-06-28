@@ -2,13 +2,14 @@
   "id": 403820975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704161,43.502142,-96.704161,43.502142",
     "geom:latitude":43.502142,
     "geom:longitude":-96.704161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 E 55th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403820975,
-    "wof:lastmodified":1449055337,
+    "wof:lastmodified":1467082680,
     "wof:name":"Kindermusik Of Sioux Falls",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-96.704161,43.502142,-96.704161,43.502142],
+  "bbox": [
+    -96.704161,
+    43.502142,
+    -96.704161,
+    43.502142
+],
   "geometry": {"coordinates":[-96.704161,43.502142],"type":"Point"}
 }

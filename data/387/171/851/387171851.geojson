@@ -2,13 +2,14 @@
   "id": 387171851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.196804,45.33293,-97.196804,45.33293",
     "geom:latitude":45.33293,
     "geom:longitude":-97.196804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Old Main St N",
     "sg:city":"Ortley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387171851,
-    "wof:lastmodified":1449059933,
+    "wof:lastmodified":1467082763,
     "wof:name":"B J's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.196804,45.33293,-97.196804,45.33293],
+  "bbox": [
+    -97.196804,
+    45.33293,
+    -97.196804,
+    45.33293
+],
   "geometry": {"coordinates":[-97.196804,45.33293],"type":"Point"}
 }

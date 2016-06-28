@@ -2,13 +2,14 @@
   "id": 387747003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217258,44.370144,-98.217258,44.370144",
     "geom:latitude":44.370144,
     "geom:longitude":-98.217258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 4th St NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387747003,
-    "wof:lastmodified":1449056795,
+    "wof:lastmodified":1467082700,
     "wof:name":"Huron Culvert & Tank Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "culvert"
     ]
 },
-  "bbox": [-98.217258,44.370144,-98.217258,44.370144],
+  "bbox": [
+    -98.217258,
+    44.370144,
+    -98.217258,
+    44.370144
+],
   "geometry": {"coordinates":[-98.217258,44.370144],"type":"Point"}
 }

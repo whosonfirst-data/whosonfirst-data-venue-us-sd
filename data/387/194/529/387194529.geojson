@@ -2,13 +2,14 @@
   "id": 387194529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271933,44.109529,-103.271933,44.109529",
     "geom:latitude":44.109529,
     "geom:longitude":-103.271933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387194529,
-    "wof:lastmodified":1449059375,
+    "wof:lastmodified":1467082752,
     "wof:name":"Classic Motorworks Mfg",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"
     ]
 },
-  "bbox": [-103.271933,44.109529,-103.271933,44.109529],
+  "bbox": [
+    -103.271933,
+    44.109529,
+    -103.271933,
+    44.109529
+],
   "geometry": {"coordinates":[-103.271933,44.109529],"type":"Point"}
 }

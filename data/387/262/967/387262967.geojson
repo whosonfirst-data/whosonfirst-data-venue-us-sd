@@ -2,13 +2,14 @@
   "id": 387262967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.138075,44.071619,-103.138075,44.071619",
     "geom:latitude":44.071619,
     "geom:longitude":-103.138075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4882 Ave A",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387262967,
-    "wof:lastmodified":1449058461,
+    "wof:lastmodified":1467082734,
     "wof:name":"Design Advantage LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-103.138075,44.071619,-103.138075,44.071619],
+  "bbox": [
+    -103.138075,
+    44.071619,
+    -103.138075,
+    44.071619
+],
   "geometry": {"coordinates":[-103.138075,44.071619],"type":"Point"}
 }

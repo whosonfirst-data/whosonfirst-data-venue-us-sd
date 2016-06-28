@@ -2,13 +2,14 @@
   "id": 387708981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.764739,43.523115,-96.764739,43.523115",
     "geom:latitude":43.523115,
     "geom:longitude":-96.764739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 S Le Chateau Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387708981,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1467082698,
     "wof:name":"Byre Apts",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.764739,43.523115,-96.764739,43.523115],
-  "geometry": {"coordinates":[-96.764739,43.523115],"type":"Point"}
+  "bbox": [
+    -96.764739,
+    43.523115,
+    -96.764739,
+    43.523115
+],
+  "geometry": {"coordinates":[-96.76473900000001,43.523115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.331233,43.811394,-99.331233,43.811394",
     "geom:latitude":43.811394,
     "geom:longitude":-99.331233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Lawler Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387892487,
-    "wof:lastmodified":1449056666,
+    "wof:lastmodified":1467082698,
     "wof:name":"Chamberlain Lockers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locker"
     ]
 },
-  "bbox": [-99.331233,43.811394,-99.331233,43.811394],
+  "bbox": [
+    -99.331233,
+    43.811394,
+    -99.331233,
+    43.811394
+],
   "geometry": {"coordinates":[-99.331233,43.811394],"type":"Point"}
 }

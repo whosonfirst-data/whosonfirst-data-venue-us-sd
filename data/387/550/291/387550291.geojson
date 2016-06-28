@@ -2,13 +2,14 @@
   "id": 387550291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.322537,44.71945,-98.322537,44.71945",
     "geom:latitude":44.71945,
     "geom:longitude":-98.322537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39465 184th St",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387550291,
-    "wof:lastmodified":1449058169,
+    "wof:lastmodified":1467082728,
     "wof:name":"Bixler Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.322537,44.71945,-98.322537,44.71945],
+  "bbox": [
+    -98.322537,
+    44.71945,
+    -98.322537,
+    44.71945
+],
   "geometry": {"coordinates":[-98.322537,44.71945],"type":"Point"}
 }

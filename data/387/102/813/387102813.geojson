@@ -2,13 +2,14 @@
   "id": 387102813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928535,44.22981,-96.928535,44.22981",
     "geom:latitude":44.22981,
     "geom:longitude":-96.928535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21765 464th Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387102813,
-    "wof:lastmodified":1449059631,
+    "wof:lastmodified":1467082757,
     "wof:name":"E and M Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.928535,44.22981,-96.928535,44.22981],
+  "bbox": [
+    -96.928535,
+    44.22981,
+    -96.928535,
+    44.22981
+],
   "geometry": {"coordinates":[-96.928535,44.22981],"type":"Point"}
 }

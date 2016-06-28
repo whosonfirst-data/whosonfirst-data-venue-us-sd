@@ -2,13 +2,14 @@
   "id": 403801325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430745,43.228707,-99.430745,43.228707",
     "geom:latitude":43.228707,
     "geom:longitude":-99.430745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Main St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403801325,
-    "wof:lastmodified":1449055738,
+    "wof:lastmodified":1467082683,
     "wof:name":"American Legion Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lounge"
     ]
 },
-  "bbox": [-99.430745,43.228707,-99.430745,43.228707],
+  "bbox": [
+    -99.430745,
+    43.228707,
+    -99.430745,
+    43.228707
+],
   "geometry": {"coordinates":[-99.430745,43.228707],"type":"Point"}
 }

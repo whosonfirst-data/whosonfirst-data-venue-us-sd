@@ -2,13 +2,14 @@
   "id": 387912877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.02543,43.709382,-98.02543,43.709382",
     "geom:latitude":43.709382,
     "geom:longitude":-98.02543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387912877,
-    "wof:lastmodified":1449057984,
+    "wof:lastmodified":1467082725,
     "wof:name":"Marilyn's Designers Den",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.02543,43.709382,-98.02543,43.709382],
+  "bbox": [
+    -98.02543,
+    43.709382,
+    -98.02543,
+    43.709382
+],
   "geometry": {"coordinates":[-98.02543,43.709382],"type":"Point"}
 }

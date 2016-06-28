@@ -2,13 +2,14 @@
   "id": 370976167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.240667,44.934299,-97.240667,44.934299",
     "geom:latitude":44.934299,
     "geom:longitude":-97.240667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44850 169th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370976167,
-    "wof:lastmodified":1449030485,
+    "wof:lastmodified":1467082656,
     "wof:name":"Elk Meat Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.240667,44.934299,-97.240667,44.934299],
+  "bbox": [
+    -97.240667,
+    44.934299,
+    -97.240667,
+    44.934299
+],
   "geometry": {"coordinates":[-97.240667,44.934299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371073345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.02392,43.724215,-98.02392,43.724215",
     "geom:latitude":43.724215,
     "geom:longitude":-98.02392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 15th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371073345,
-    "wof:lastmodified":1449049165,
+    "wof:lastmodified":1467082660,
     "wof:name":"Mitchell Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-98.02392,43.724215,-98.02392,43.724215],
+  "bbox": [
+    -98.02392,
+    43.724215,
+    -98.02392,
+    43.724215
+],
   "geometry": {"coordinates":[-98.02392,43.724215],"type":"Point"}
 }

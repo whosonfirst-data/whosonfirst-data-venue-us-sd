@@ -2,13 +2,14 @@
   "id": 387070223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684795,42.686122,-96.684795,42.686122",
     "geom:latitude":42.686122,
     "geom:longitude":-96.684795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Douglas St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387070223,
-    "wof:lastmodified":1449057955,
+    "wof:lastmodified":1467082724,
     "wof:name":"Ferdig's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.684795,42.686122,-96.684795,42.686122],
-  "geometry": {"coordinates":[-96.684795,42.686122],"type":"Point"}
+  "bbox": [
+    -96.684795,
+    42.686122,
+    -96.684795,
+    42.686122
+],
+  "geometry": {"coordinates":[-96.68479499999999,42.686122],"type":"Point"}
 }

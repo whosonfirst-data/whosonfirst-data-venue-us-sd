@@ -2,13 +2,14 @@
   "id": 371176759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.278669,44.055942,-98.278669,44.055942",
     "geom:latitude":44.055942,
     "geom:longitude":-98.278669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N 2nd Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371176759,
-    "wof:lastmodified":1449049746,
+    "wof:lastmodified":1467082668,
     "wof:name":"St Wilfrid Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.278669,44.055942,-98.278669,44.055942],
-  "geometry": {"coordinates":[-98.278669,44.055942],"type":"Point"}
+  "bbox": [
+    -98.278669,
+    44.055942,
+    -98.278669,
+    44.055942
+],
+  "geometry": {"coordinates":[-98.27866899999999,44.055942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387192981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71125,43.599519,-96.71125,43.599519",
     "geom:latitude":43.599519,
     "geom:longitude":-96.71125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4928 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387192981,
-    "wof:lastmodified":1449058802,
+    "wof:lastmodified":1467082741,
     "wof:name":"Avera Mckennan Healthworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "safety"
     ]
 },
-  "bbox": [-96.71125,43.599519,-96.71125,43.599519],
-  "geometry": {"coordinates":[-96.71125,43.599519],"type":"Point"}
+  "bbox": [
+    -96.71125,
+    43.599519,
+    -96.71125,
+    43.599519
+],
+  "geometry": {"coordinates":[-96.71125000000001,43.599519],"type":"Point"}
 }

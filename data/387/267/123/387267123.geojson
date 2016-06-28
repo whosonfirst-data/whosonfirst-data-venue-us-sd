@@ -2,13 +2,14 @@
   "id": 387267123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713822,44.171135,-97.713822,44.171135",
     "geom:latitude":44.171135,
     "geom:longitude":-97.713822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Main St E",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387267123,
-    "wof:lastmodified":1449059573,
+    "wof:lastmodified":1467082756,
     "wof:name":"This N That",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.713822,44.171135,-97.713822,44.171135],
-  "geometry": {"coordinates":[-97.713822,44.171135],"type":"Point"}
+  "bbox": [
+    -97.713822,
+    44.171135,
+    -97.713822,
+    44.171135
+],
+  "geometry": {"coordinates":[-97.71382199999999,44.171135],"type":"Point"}
 }

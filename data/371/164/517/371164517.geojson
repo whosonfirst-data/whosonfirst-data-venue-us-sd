@@ -2,13 +2,14 @@
   "id": 371164517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640067,45.21886,-96.640067,45.21886",
     "geom:latitude":45.21886,
     "geom:longitude":-96.640067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371164517,
-    "wof:lastmodified":1449049145,
+    "wof:lastmodified":1467082659,
     "wof:name":"Whetstone Real Estate Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.640067,45.21886,-96.640067,45.21886],
+  "bbox": [
+    -96.640067,
+    45.21886,
+    -96.640067,
+    45.21886
+],
   "geometry": {"coordinates":[-96.640067,45.21886],"type":"Point"}
 }

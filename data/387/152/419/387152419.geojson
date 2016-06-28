@@ -2,13 +2,14 @@
   "id": 387152419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.44839,45.551746,-100.44839,45.551746",
     "geom:latitude":45.551746,
     "geom:longitude":-100.44839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 10th Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387152419,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1467082745,
     "wof:name":"One World Distribution Wrhse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-100.44839,45.551746,-100.44839,45.551746],
+  "bbox": [
+    -100.44839,
+    45.551746,
+    -100.44839,
+    45.551746
+],
   "geometry": {"coordinates":[-100.44839,45.551746],"type":"Point"}
 }

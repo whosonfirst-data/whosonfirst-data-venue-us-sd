@@ -2,13 +2,14 @@
   "id": 387592639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223306,44.095193,-103.223306,44.095193",
     "geom:latitude":44.095193,
     "geom:longitude":-103.223306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Farlow Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387592639,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1467082731,
     "wof:name":"S Gunderson Mfg",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-103.223306,44.095193,-103.223306,44.095193],
-  "geometry": {"coordinates":[-103.223306,44.095193],"type":"Point"}
+  "bbox": [
+    -103.223306,
+    44.095193,
+    -103.223306,
+    44.095193
+],
+  "geometry": {"coordinates":[-103.22330599999999,44.095193],"type":"Point"}
 }

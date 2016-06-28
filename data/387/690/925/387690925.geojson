@@ -2,13 +2,14 @@
   "id": 387690925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520185,45.328583,-97.520185,45.328583",
     "geom:latitude":45.328583,
     "geom:longitude":-97.520185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Main St",
     "sg:city":"New Effington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387690925,
-    "wof:lastmodified":1449058119,
+    "wof:lastmodified":1467082727,
     "wof:name":"Ceroll Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-97.520185,45.328583,-97.520185,45.328583],
+  "bbox": [
+    -97.520185,
+    45.328583,
+    -97.520185,
+    45.328583
+],
   "geometry": {"coordinates":[-97.520185,45.328583],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403798589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46716,45.589727,-98.46716,45.589727",
     "geom:latitude":45.589727,
     "geom:longitude":-98.46716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38846 124th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403798589,
-    "wof:lastmodified":1449054885,
+    "wof:lastmodified":1467082677,
     "wof:name":"Trins Construction Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-98.46716,45.589727,-98.46716,45.589727],
-  "geometry": {"coordinates":[-98.46716,45.589727],"type":"Point"}
+  "bbox": [
+    -98.46716,
+    45.589727,
+    -98.46716,
+    45.589727
+],
+  "geometry": {"coordinates":[-98.46716000000001,45.589727],"type":"Point"}
 }

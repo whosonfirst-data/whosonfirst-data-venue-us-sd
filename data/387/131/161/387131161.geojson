@@ -2,13 +2,14 @@
   "id": 387131161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.353503,44.366654,-100.353503,44.366654",
     "geom:latitude":44.366654,
     "geom:longitude":-100.353503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387131161,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1467082709,
     "wof:name":"Abbott Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-100.353503,44.366654,-100.353503,44.366654],
+  "bbox": [
+    -100.353503,
+    44.366654,
+    -100.353503,
+    44.366654
+],
   "geometry": {"coordinates":[-100.353503,44.366654],"type":"Point"}
 }

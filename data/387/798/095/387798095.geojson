@@ -2,13 +2,14 @@
   "id": 387798095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.184904,44.078405,-103.184904,44.078405",
     "geom:latitude":44.078405,
     "geom:longitude":-103.184904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387798095,
-    "wof:lastmodified":1449056804,
+    "wof:lastmodified":1467082700,
     "wof:name":"Black Hills Self Storage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.184904,44.078405,-103.184904,44.078405],
+  "bbox": [
+    -103.184904,
+    44.078405,
+    -103.184904,
+    44.078405
+],
   "geometry": {"coordinates":[-103.184904,44.078405],"type":"Point"}
 }

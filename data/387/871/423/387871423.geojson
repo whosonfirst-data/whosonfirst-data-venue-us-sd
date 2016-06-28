@@ -2,13 +2,14 @@
   "id": 387871423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.984262,44.558095,-96.984262,44.558095",
     "geom:latitude":44.558095,
     "geom:longitude":-96.984262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46116 195th St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387871423,
-    "wof:lastmodified":1449057348,
+    "wof:lastmodified":1467082711,
     "wof:name":"Eckert Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.984262,44.558095,-96.984262,44.558095],
+  "bbox": [
+    -96.984262,
+    44.558095,
+    -96.984262,
+    44.558095
+],
   "geometry": {"coordinates":[-96.984262,44.558095],"type":"Point"}
 }

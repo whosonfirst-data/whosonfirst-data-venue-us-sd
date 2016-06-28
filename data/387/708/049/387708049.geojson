@@ -2,13 +2,14 @@
   "id": 387708049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.98523,44.523733,-98.98523,44.523733",
     "geom:latitude":44.523733,
     "geom:longitude":-98.98523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 E 8th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387708049,
-    "wof:lastmodified":1449056698,
+    "wof:lastmodified":1467082698,
     "wof:name":"Jack Snodgrass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-98.98523,44.523733,-98.98523,44.523733],
+  "bbox": [
+    -98.98523,
+    44.523733,
+    -98.98523,
+    44.523733
+],
   "geometry": {"coordinates":[-98.98523,44.523733],"type":"Point"}
 }

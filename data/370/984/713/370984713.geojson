@@ -2,13 +2,14 @@
   "id": 370984713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49698,45.731631,-98.49698,45.731631",
     "geom:latitude":45.731631,
     "geom:longitude":-98.49698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11486 387th Ave",
     "sg:city":"Barnard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370984713,
-    "wof:lastmodified":1449030988,
+    "wof:lastmodified":1467082657,
     "wof:name":"Engelhart Ranch Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-98.49698,45.731631,-98.49698,45.731631],
-  "geometry": {"coordinates":[-98.49698,45.731631],"type":"Point"}
+  "bbox": [
+    -98.49698,
+    45.731631,
+    -98.49698,
+    45.731631
+],
+  "geometry": {"coordinates":[-98.49697999999999,45.731631],"type":"Point"}
 }

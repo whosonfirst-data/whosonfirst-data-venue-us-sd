@@ -2,13 +2,14 @@
   "id": 387613961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.948302,45.013425,-99.948302,45.013425",
     "geom:latitude":45.013425,
     "geom:longitude":-99.948302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387613961,
-    "wof:lastmodified":1449057876,
+    "wof:lastmodified":1467082722,
     "wof:name":"Heartland Wellness Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "class"
     ]
 },
-  "bbox": [-99.948302,45.013425,-99.948302,45.013425],
+  "bbox": [
+    -99.948302,
+    45.013425,
+    -99.948302,
+    45.013425
+],
   "geometry": {"coordinates":[-99.948302,45.013425],"type":"Point"}
 }

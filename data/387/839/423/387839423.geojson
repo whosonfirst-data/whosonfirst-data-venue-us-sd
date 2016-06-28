@@ -2,13 +2,14 @@
   "id": 387839423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.579496,43.284716,-97.579496,43.284716",
     "geom:latitude":43.284716,
     "geom:longitude":-97.579496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43065 283rd St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387839423,
-    "wof:lastmodified":1449058388,
+    "wof:lastmodified":1467082732,
     "wof:name":"William Schoenfish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.579496,43.284716,-97.579496,43.284716],
-  "geometry": {"coordinates":[-97.579496,43.284716],"type":"Point"}
+  "bbox": [
+    -97.579496,
+    43.284716,
+    -97.579496,
+    43.284716
+],
+  "geometry": {"coordinates":[-97.57949600000001,43.284716],"type":"Point"}
 }

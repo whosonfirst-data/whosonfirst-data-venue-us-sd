@@ -2,13 +2,14 @@
   "id": 387949759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.310219,44.614767,-97.310219,44.614767",
     "geom:latitude":44.614767,
     "geom:longitude":-97.310219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19109 445th Ave",
     "sg:city":"Lake Norden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387949759,
-    "wof:lastmodified":1449058463,
+    "wof:lastmodified":1467082734,
     "wof:name":"Chad Noem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.310219,44.614767,-97.310219,44.614767],
+  "bbox": [
+    -97.310219,
+    44.614767,
+    -97.310219,
+    44.614767
+],
   "geometry": {"coordinates":[-97.310219,44.614767],"type":"Point"}
 }

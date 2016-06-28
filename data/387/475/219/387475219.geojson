@@ -2,13 +2,14 @@
   "id": 387475219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.364996,43.599395,-98.364996,43.599395",
     "geom:latitude":43.599395,
     "geom:longitude":-98.364996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26110 392nd Ave",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387475219,
-    "wof:lastmodified":1449057683,
+    "wof:lastmodified":1467082718,
     "wof:name":"Van Gorp Steven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.364996,43.599395,-98.364996,43.599395],
+  "bbox": [
+    -98.364996,
+    43.599395,
+    -98.364996,
+    43.599395
+],
   "geometry": {"coordinates":[-98.364996,43.599395],"type":"Point"}
 }

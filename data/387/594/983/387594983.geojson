@@ -2,13 +2,14 @@
   "id": 387594983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.370667,44.32027,-97.370667,44.32027",
     "geom:latitude":44.32027,
     "geom:longitude":-97.370667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21132 442nd Ave",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387594983,
-    "wof:lastmodified":1449056651,
+    "wof:lastmodified":1467082698,
     "wof:name":"Dacota Cnc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-97.370667,44.32027,-97.370667,44.32027],
+  "bbox": [
+    -97.370667,
+    44.32027,
+    -97.370667,
+    44.32027
+],
   "geometry": {"coordinates":[-97.370667,44.32027],"type":"Point"}
 }

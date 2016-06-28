@@ -2,13 +2,14 @@
   "id": 387225757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736067,43.532959,-96.736067,43.532959",
     "geom:latitude":43.532959,
     "geom:longitude":-96.736067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 W 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387225757,
-    "wof:lastmodified":1449057283,
+    "wof:lastmodified":1467082710,
     "wof:name":"Ertz Homes Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-96.736067,43.532959,-96.736067,43.532959],
-  "geometry": {"coordinates":[-96.736067,43.532959],"type":"Point"}
+  "bbox": [
+    -96.736067,
+    43.532959,
+    -96.736067,
+    43.532959
+],
+  "geometry": {"coordinates":[-96.73606700000001,43.532959],"type":"Point"}
 }

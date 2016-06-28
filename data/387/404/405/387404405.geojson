@@ -2,13 +2,14 @@
   "id": 387404405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.211087,44.341695,-98.211087,44.341695",
     "geom:latitude":44.341695,
     "geom:longitude":-98.211087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 21st St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387404405,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1467082738,
     "wof:name":"Dave's Taxidermy Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-98.211087,44.341695,-98.211087,44.341695],
-  "geometry": {"coordinates":[-98.211087,44.341695],"type":"Point"}
+  "bbox": [
+    -98.211087,
+    44.341695,
+    -98.211087,
+    44.341695
+],
+  "geometry": {"coordinates":[-98.21108700000001,44.341695],"type":"Point"}
 }

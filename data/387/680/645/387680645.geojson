@@ -2,13 +2,14 @@
   "id": 387680645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.039177,43.704147,-98.039177,43.704147",
     "geom:latitude":43.704147,
     "geom:longitude":-98.039177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 S Juanita St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387680645,
-    "wof:lastmodified":1449058773,
+    "wof:lastmodified":1467082740,
     "wof:name":"Apf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.039177,43.704147,-98.039177,43.704147],
+  "bbox": [
+    -98.039177,
+    43.704147,
+    -98.039177,
+    43.704147
+],
   "geometry": {"coordinates":[-98.039177,43.704147],"type":"Point"}
 }

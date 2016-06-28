@@ -2,13 +2,14 @@
   "id": 387230549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684476,43.58728,-96.684476,43.58728",
     "geom:latitude":43.58728,
     "geom:longitude":-96.684476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 E Benson Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387230549,
-    "wof:lastmodified":1449058929,
+    "wof:lastmodified":1467082743,
     "wof:name":"Us Consolidated Farm Svc Agcy",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.684476,43.58728,-96.684476,43.58728],
+  "bbox": [
+    -96.684476,
+    43.58728,
+    -96.684476,
+    43.58728
+],
   "geometry": {"coordinates":[-96.684476,43.58728],"type":"Point"}
 }

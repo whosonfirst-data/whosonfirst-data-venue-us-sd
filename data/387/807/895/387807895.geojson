@@ -2,13 +2,14 @@
   "id": 387807895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.497142,44.039182,-103.497142,44.039182",
     "geom:latitude":44.039182,
     "geom:longitude":-103.497142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23191 US Hwy 385",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387807895,
-    "wof:lastmodified":1449057078,
+    "wof:lastmodified":1467082706,
     "wof:name":"Black Forest Inn LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-103.497142,44.039182,-103.497142,44.039182],
+  "bbox": [
+    -103.497142,
+    44.039182,
+    -103.497142,
+    44.039182
+],
   "geometry": {"coordinates":[-103.497142,44.039182],"type":"Point"}
 }

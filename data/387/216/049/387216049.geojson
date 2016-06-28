@@ -2,13 +2,14 @@
   "id": 387216049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.128566,45.036507,-99.128566,45.036507",
     "geom:latitude":45.036507,
     "geom:longitude":-99.128566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 11th Ave",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387216049,
-    "wof:lastmodified":1449059485,
+    "wof:lastmodified":1467082754,
     "wof:name":"Reid's Plumbing & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.128566,45.036507,-99.128566,45.036507],
-  "geometry": {"coordinates":[-99.128566,45.036507],"type":"Point"}
+  "bbox": [
+    -99.128566,
+    45.036507,
+    -99.128566,
+    45.036507
+],
+  "geometry": {"coordinates":[-99.12856600000001,45.036507],"type":"Point"}
 }

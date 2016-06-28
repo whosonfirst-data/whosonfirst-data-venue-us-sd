@@ -2,13 +2,14 @@
   "id": 386992693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.918138,42.786548,-96.918138,42.786548",
     "geom:latitude":42.786548,
     "geom:longitude":-96.918138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 E Cherry St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386992693,
-    "wof:lastmodified":1449028766,
+    "wof:lastmodified":1467082652,
     "wof:name":"Vermillion Super Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.918138,42.786548,-96.918138,42.786548],
+  "bbox": [
+    -96.918138,
+    42.786548,
+    -96.918138,
+    42.786548
+],
   "geometry": {"coordinates":[-96.918138,42.786548],"type":"Point"}
 }

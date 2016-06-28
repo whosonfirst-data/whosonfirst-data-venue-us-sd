@@ -2,13 +2,14 @@
   "id": 387149839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798433,44.31284,-96.798433,44.31284",
     "geom:latitude":44.31284,
     "geom:longitude":-96.798433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 7th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387149839,
-    "wof:lastmodified":1449056121,
+    "wof:lastmodified":1467082687,
     "wof:name":"Tail Wagg'n Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.798433,44.31284,-96.798433,44.31284],
+  "bbox": [
+    -96.798433,
+    44.31284,
+    -96.798433,
+    44.31284
+],
   "geometry": {"coordinates":[-96.798433,44.31284],"type":"Point"}
 }

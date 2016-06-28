@@ -2,13 +2,14 @@
   "id": 387400997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.116285,44.876188,-97.116285,44.876188",
     "geom:latitude":44.876188,
     "geom:longitude":-97.116285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 20th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387400997,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"Glacial Lake Corn Processors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cooperative"
     ]
 },
-  "bbox": [-97.116285,44.876188,-97.116285,44.876188],
+  "bbox": [
+    -97.116285,
+    44.876188,
+    -97.116285,
+    44.876188
+],
   "geometry": {"coordinates":[-97.116285,44.876188],"type":"Point"}
 }

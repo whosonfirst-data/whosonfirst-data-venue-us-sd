@@ -2,13 +2,14 @@
   "id": 387705827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204267,44.06179,-103.204267,44.06179",
     "geom:latitude":44.06179,
     "geom:longitude":-103.204267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 E Ohio St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387705827,
-    "wof:lastmodified":1449059941,
+    "wof:lastmodified":1467082764,
     "wof:name":"Woods Chiropractic",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.204267,44.06179,-103.204267,44.06179],
+  "bbox": [
+    -103.204267,
+    44.06179,
+    -103.204267,
+    44.06179
+],
   "geometry": {"coordinates":[-103.204267,44.06179],"type":"Point"}
 }

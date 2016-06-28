@@ -2,13 +2,14 @@
   "id": 387400137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38894,43.719699,-97.38894,43.719699",
     "geom:latitude":43.719699,
     "geom:longitude":-97.38894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 S Nebraska St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387400137,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1467082694,
     "wof:name":"Body Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-97.38894,43.719699,-97.38894,43.719699],
-  "geometry": {"coordinates":[-97.38894,43.719699],"type":"Point"}
+  "bbox": [
+    -97.38894,
+    43.719699,
+    -97.38894,
+    43.719699
+],
+  "geometry": {"coordinates":[-97.38894000000001,43.719699],"type":"Point"}
 }

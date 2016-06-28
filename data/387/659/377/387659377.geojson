@@ -2,13 +2,14 @@
   "id": 387659377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.820335,45.188419,-98.820335,45.188419",
     "geom:latitude":45.188419,
     "geom:longitude":-98.820335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15147 368th Ave",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387659377,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1467082695,
     "wof:name":"Owen Finley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-98.820335,45.188419,-98.820335,45.188419],
+  "bbox": [
+    -98.820335,
+    45.188419,
+    -98.820335,
+    45.188419
+],
   "geometry": {"coordinates":[-98.820335,45.188419],"type":"Point"}
 }

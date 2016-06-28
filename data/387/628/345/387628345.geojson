@@ -2,13 +2,14 @@
   "id": 387628345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.498136,43.716088,-96.498136,43.716088",
     "geom:latitude":43.716088,
     "geom:longitude":-96.498136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Eastern Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387628345,
-    "wof:lastmodified":1449059199,
+    "wof:lastmodified":1467082749,
     "wof:name":"Pro Concrete Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.498136,43.716088,-96.498136,43.716088],
+  "bbox": [
+    -96.498136,
+    43.716088,
+    -96.498136,
+    43.716088
+],
   "geometry": {"coordinates":[-96.498136,43.716088],"type":"Point"}
 }

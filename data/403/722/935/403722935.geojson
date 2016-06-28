@@ -2,13 +2,14 @@
   "id": 403722935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.751692,43.268282,-99.751692,43.268282",
     "geom:latitude":43.268282,
     "geom:longitude":-99.751692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28615 321st Ave",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403722935,
-    "wof:lastmodified":1449055096,
+    "wof:lastmodified":1467082678,
     "wof:name":"Dougherty CAM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.751692,43.268282,-99.751692,43.268282],
-  "geometry": {"coordinates":[-99.751692,43.268282],"type":"Point"}
+  "bbox": [
+    -99.751692,
+    43.268282,
+    -99.751692,
+    43.268282
+],
+  "geometry": {"coordinates":[-99.75169200000001,43.268282],"type":"Point"}
 }

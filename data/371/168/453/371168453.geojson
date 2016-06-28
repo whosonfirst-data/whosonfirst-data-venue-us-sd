@@ -2,13 +2,14 @@
   "id": 371168453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.925897,42.782465,-96.925897,42.782465",
     "geom:latitude":42.782465,
     "geom:longitude":-96.925897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E Clark St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371168453,
-    "wof:lastmodified":1449049583,
+    "wof:lastmodified":1467082666,
     "wof:name":"Looking Glass The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.925897,42.782465,-96.925897,42.782465],
-  "geometry": {"coordinates":[-96.925897,42.782465],"type":"Point"}
+  "bbox": [
+    -96.925897,
+    42.782465,
+    -96.925897,
+    42.782465
+],
+  "geometry": {"coordinates":[-96.92589700000001,42.782465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387269341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.211455,44.341689,-98.211455,44.341689",
     "geom:latitude":44.341689,
     "geom:longitude":-98.211455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 21st St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387269341,
-    "wof:lastmodified":1449058499,
+    "wof:lastmodified":1467082735,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institute"
     ]
 },
-  "bbox": [-98.211455,44.341689,-98.211455,44.341689],
+  "bbox": [
+    -98.211455,
+    44.341689,
+    -98.211455,
+    44.341689
+],
   "geometry": {"coordinates":[-98.211455,44.341689],"type":"Point"}
 }

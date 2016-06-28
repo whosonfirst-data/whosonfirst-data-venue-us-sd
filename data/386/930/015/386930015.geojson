@@ -2,13 +2,14 @@
   "id": 386930015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.518505,44.875722,-98.518505,44.875722",
     "geom:latitude":44.875722,
     "geom:longitude":-98.518505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 E 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386930015,
-    "wof:lastmodified":1449028717,
+    "wof:lastmodified":1467082651,
     "wof:name":"Spink County Mercantile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-98.518505,44.875722,-98.518505,44.875722],
+  "bbox": [
+    -98.518505,
+    44.875722,
+    -98.518505,
+    44.875722
+],
   "geometry": {"coordinates":[-98.518505,44.875722],"type":"Point"}
 }

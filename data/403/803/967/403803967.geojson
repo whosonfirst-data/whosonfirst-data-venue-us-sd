@@ -2,13 +2,14 @@
   "id": 403803967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10661,43.401838,-97.10661,43.401838",
     "geom:latitude":43.401838,
     "geom:longitude":-97.10661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45437 275th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403803967,
-    "wof:lastmodified":1449055981,
+    "wof:lastmodified":1467082685,
     "wof:name":"Parkers Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "storage"
     ]
 },
-  "bbox": [-97.10661,43.401838,-97.10661,43.401838],
+  "bbox": [
+    -97.10661,
+    43.401838,
+    -97.10661,
+    43.401838
+],
   "geometry": {"coordinates":[-97.10661,43.401838],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371068225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.886049,43.461548,-96.886049,43.461548",
     "geom:latitude":43.461548,
     "geom:longitude":-96.886049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27096 State Hwy 17",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371068225,
-    "wof:lastmodified":1449049565,
+    "wof:lastmodified":1467082665,
     "wof:name":"Gordy's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.886049,43.461548,-96.886049,43.461548],
+  "bbox": [
+    -96.886049,
+    43.461548,
+    -96.886049,
+    43.461548
+],
   "geometry": {"coordinates":[-96.886049,43.461548],"type":"Point"}
 }

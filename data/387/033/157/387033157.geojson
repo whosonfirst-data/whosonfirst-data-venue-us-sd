@@ -2,13 +2,14 @@
   "id": 387033157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.770835,43.575455,-96.770835,43.575455",
     "geom:latitude":43.575455,
     "geom:longitude":-96.770835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 N Louise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387033157,
-    "wof:lastmodified":1449056881,
+    "wof:lastmodified":1467082702,
     "wof:name":"Market Diner",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.770835,43.575455,-96.770835,43.575455],
-  "geometry": {"coordinates":[-96.770835,43.575455],"type":"Point"}
+  "bbox": [
+    -96.770835,
+    43.575455,
+    -96.770835,
+    43.575455
+],
+  "geometry": {"coordinates":[-96.77083500000001,43.575455],"type":"Point"}
 }

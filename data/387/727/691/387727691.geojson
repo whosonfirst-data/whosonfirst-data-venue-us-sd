@@ -2,13 +2,14 @@
   "id": 387727691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.361472,44.09631,-103.361472,44.09631",
     "geom:latitude":44.09631,
     "geom:longitude":-103.361472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Penny Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387727691,
-    "wof:lastmodified":1449056677,
+    "wof:lastmodified":1467082698,
     "wof:name":"St Paul Travelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.361472,44.09631,-103.361472,44.09631],
-  "geometry": {"coordinates":[-103.361472,44.09631],"type":"Point"}
+  "bbox": [
+    -103.361472,
+    44.09631,
+    -103.361472,
+    44.09631
+],
+  "geometry": {"coordinates":[-103.36147200000001,44.09631],"type":"Point"}
 }

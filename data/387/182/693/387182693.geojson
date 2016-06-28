@@ -2,13 +2,14 @@
   "id": 387182693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.819525,44.476918,-103.819525,44.476918",
     "geom:latitude":44.476918,
     "geom:longitude":-103.819525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2449 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387182693,
-    "wof:lastmodified":1449058515,
+    "wof:lastmodified":1467082735,
     "wof:name":"Maurice's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.819525,44.476918,-103.819525,44.476918],
+  "bbox": [
+    -103.819525,
+    44.476918,
+    -103.819525,
+    44.476918
+],
   "geometry": {"coordinates":[-103.819525,44.476918],"type":"Point"}
 }

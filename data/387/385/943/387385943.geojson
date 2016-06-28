@@ -2,13 +2,14 @@
   "id": 387385943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.776956,43.07993,-96.776956,43.07993",
     "geom:latitude":43.07993,
     "geom:longitude":-96.776956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S 5th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387385943,
-    "wof:lastmodified":1449058366,
+    "wof:lastmodified":1467082732,
     "wof:name":"A JS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.776956,43.07993,-96.776956,43.07993],
+  "bbox": [
+    -96.776956,
+    43.07993,
+    -96.776956,
+    43.07993
+],
   "geometry": {"coordinates":[-96.776956,43.07993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387496975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7382,43.519407,-96.7382,43.519407",
     "geom:latitude":43.519407,
     "geom:longitude":-96.7382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 S Prairie Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387496975,
-    "wof:lastmodified":1449059352,
+    "wof:lastmodified":1467082752,
     "wof:name":"Garys Building Service",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.7382,43.519407,-96.7382,43.519407],
-  "geometry": {"coordinates":[-96.7382,43.519407],"type":"Point"}
+  "bbox": [
+    -96.7382,
+    43.519407,
+    -96.7382,
+    43.519407
+],
+  "geometry": {"coordinates":[-96.73820000000001,43.519407],"type":"Point"}
 }

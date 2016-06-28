@@ -2,13 +2,14 @@
   "id": 371134695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.21424,44.342554,-98.21424,44.342554",
     "geom:latitude":44.342554,
     "geom:longitude":-98.21424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2025 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371134695,
-    "wof:lastmodified":1449050093,
+    "wof:lastmodified":1467082673,
     "wof:name":"Burger Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.21424,44.342554,-98.21424,44.342554],
+  "bbox": [
+    -98.21424,
+    44.342554,
+    -98.21424,
+    44.342554
+],
   "geometry": {"coordinates":[-98.21424,44.342554],"type":"Point"}
 }

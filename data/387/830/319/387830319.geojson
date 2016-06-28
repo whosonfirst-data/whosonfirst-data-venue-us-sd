@@ -2,13 +2,14 @@
   "id": 387830319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.291543,44.104136,-103.291543,44.104136",
     "geom:latitude":44.104136,
     "geom:longitude":-103.291543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4372 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387830319,
-    "wof:lastmodified":1449056909,
+    "wof:lastmodified":1467082703,
     "wof:name":"Al's Mobile Pressure Washer",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "deck"
     ]
 },
-  "bbox": [-103.291543,44.104136,-103.291543,44.104136],
+  "bbox": [
+    -103.291543,
+    44.104136,
+    -103.291543,
+    44.104136
+],
   "geometry": {"coordinates":[-103.291543,44.104136],"type":"Point"}
 }

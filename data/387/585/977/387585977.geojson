@@ -2,13 +2,14 @@
   "id": 387585977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726868,43.545143,-96.726868,43.545143",
     "geom:latitude":43.545143,
     "geom:longitude":-96.726868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387585977,
-    "wof:lastmodified":1449058644,
+    "wof:lastmodified":1467082738,
     "wof:name":"Great Outdoor Store The Inc",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "family"
     ]
 },
-  "bbox": [-96.726868,43.545143,-96.726868,43.545143],
+  "bbox": [
+    -96.726868,
+    43.545143,
+    -96.726868,
+    43.545143
+],
   "geometry": {"coordinates":[-96.726868,43.545143],"type":"Point"}
 }

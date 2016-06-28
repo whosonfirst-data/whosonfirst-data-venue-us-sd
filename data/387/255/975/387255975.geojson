@@ -2,13 +2,14 @@
   "id": 387255975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.058745,45.449079,-100.058745,45.449079",
     "geom:latitude":45.449079,
     "geom:longitude":-100.058745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13402 306th Ave",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387255975,
-    "wof:lastmodified":1449057833,
+    "wof:lastmodified":1467082721,
     "wof:name":"Seed Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.058745,45.449079,-100.058745,45.449079],
+  "bbox": [
+    -100.058745,
+    45.449079,
+    -100.058745,
+    45.449079
+],
   "geometry": {"coordinates":[-100.058745,45.449079],"type":"Point"}
 }

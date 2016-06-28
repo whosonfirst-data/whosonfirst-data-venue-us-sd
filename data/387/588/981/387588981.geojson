@@ -2,13 +2,14 @@
   "id": 387588981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.107531,44.888732,-97.107531,44.888732",
     "geom:latitude":44.888732,
     "geom:longitude":-97.107531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 10th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387588981,
-    "wof:lastmodified":1449059169,
+    "wof:lastmodified":1467082748,
     "wof:name":"Connecting Point Computer Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.107531,44.888732,-97.107531,44.888732],
-  "geometry": {"coordinates":[-97.107531,44.888732],"type":"Point"}
+  "bbox": [
+    -97.107531,
+    44.888732,
+    -97.107531,
+    44.888732
+],
+  "geometry": {"coordinates":[-97.10753099999999,44.888732],"type":"Point"}
 }

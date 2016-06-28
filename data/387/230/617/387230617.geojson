@@ -2,13 +2,14 @@
   "id": 387230617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726212,43.533592,-96.726212,43.533592",
     "geom:latitude":43.533592,
     "geom:longitude":-96.726212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387230617,
-    "wof:lastmodified":1449058929,
+    "wof:lastmodified":1467082743,
     "wof:name":"Park Ridge Drug",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-96.726212,43.533592,-96.726212,43.533592],
+  "bbox": [
+    -96.726212,
+    43.533592,
+    -96.726212,
+    43.533592
+],
   "geometry": {"coordinates":[-96.726212,43.533592],"type":"Point"}
 }

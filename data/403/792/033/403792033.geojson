@@ -2,13 +2,14 @@
   "id": 403792033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496538,45.459151,-98.496538,45.459151",
     "geom:latitude":45.459151,
     "geom:longitude":-98.496538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403792033,
-    "wof:lastmodified":1449054925,
+    "wof:lastmodified":1467082677,
     "wof:name":"Golden Aces Casino",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-98.496538,45.459151,-98.496538,45.459151],
+  "bbox": [
+    -98.496538,
+    45.459151,
+    -98.496538,
+    45.459151
+],
   "geometry": {"coordinates":[-98.496538,45.459151],"type":"Point"}
 }

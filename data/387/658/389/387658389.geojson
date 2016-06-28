@@ -2,13 +2,14 @@
   "id": 387658389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483661,45.4746,-98.483661,45.4746",
     "geom:latitude":45.4746,
     "geom:longitude":-98.483661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Jay St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387658389,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1467082685,
     "wof:name":"M & K Tree Transplanting",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.483661,45.4746,-98.483661,45.4746],
+  "bbox": [
+    -98.483661,
+    45.4746,
+    -98.483661,
+    45.4746
+],
   "geometry": {"coordinates":[-98.483661,45.4746],"type":"Point"}
 }

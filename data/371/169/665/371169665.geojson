@@ -2,13 +2,14 @@
   "id": 371169665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.886446,44.51986,-103.886446,44.51986",
     "geom:latitude":44.51986,
     "geom:longitude":-103.886446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 E Fairground Loop",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371169665,
-    "wof:lastmodified":1449049675,
+    "wof:lastmodified":1467082667,
     "wof:name":"Franks Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-103.886446,44.51986,-103.886446,44.51986],
-  "geometry": {"coordinates":[-103.886446,44.51986],"type":"Point"}
+  "bbox": [
+    -103.886446,
+    44.51986,
+    -103.886446,
+    44.51986
+],
+  "geometry": {"coordinates":[-103.88644600000001,44.51986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387474883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.220043,44.082248,-103.220043,44.082248",
     "geom:latitude":44.082248,
     "geom:longitude":-103.220043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387474883,
-    "wof:lastmodified":1449056275,
+    "wof:lastmodified":1467082690,
     "wof:name":"Xpress Lube",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-103.220043,44.082248,-103.220043,44.082248],
+  "bbox": [
+    -103.220043,
+    44.082248,
+    -103.220043,
+    44.082248
+],
   "geometry": {"coordinates":[-103.220043,44.082248],"type":"Point"}
 }

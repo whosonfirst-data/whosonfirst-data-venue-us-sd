@@ -2,13 +2,14 @@
   "id": 387675929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.941734,42.7938,-96.941734,42.7938",
     "geom:latitude":42.7938,
     "geom:longitude":-96.941734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 State Hwy 50",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387675929,
-    "wof:lastmodified":1449058041,
+    "wof:lastmodified":1467082726,
     "wof:name":"Heidelberg Theological Smnry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.941734,42.7938,-96.941734,42.7938],
+  "bbox": [
+    -96.941734,
+    42.7938,
+    -96.941734,
+    42.7938
+],
   "geometry": {"coordinates":[-96.941734,42.7938],"type":"Point"}
 }

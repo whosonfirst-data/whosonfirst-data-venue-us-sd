@@ -2,13 +2,14 @@
   "id": 387429781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.4194,44.058212,-103.4194,44.058212",
     "geom:latitude":44.058212,
     "geom:longitude":-103.4194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23125 Thunderhead Falls Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387429781,
-    "wof:lastmodified":1449059715,
+    "wof:lastmodified":1467082759,
     "wof:name":"Camp Rimrock Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.4194,44.058212,-103.4194,44.058212],
+  "bbox": [
+    -103.4194,
+    44.058212,
+    -103.4194,
+    44.058212
+],
   "geometry": {"coordinates":[-103.4194,44.058212],"type":"Point"}
 }

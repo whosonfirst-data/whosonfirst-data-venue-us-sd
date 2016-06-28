@@ -2,13 +2,14 @@
   "id": 387592133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.108736,43.010591,-97.108736,43.010591",
     "geom:latitude":43.010591,
     "geom:longitude":-97.108736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Ohio St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387592133,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1467082731,
     "wof:name":"Girard Auction & Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-97.108736,43.010591,-97.108736,43.010591],
-  "geometry": {"coordinates":[-97.108736,43.010591],"type":"Point"}
+  "bbox": [
+    -97.108736,
+    43.010591,
+    -97.108736,
+    43.010591
+],
+  "geometry": {"coordinates":[-97.10873599999999,43.010591],"type":"Point"}
 }

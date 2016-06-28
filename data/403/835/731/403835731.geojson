@@ -2,13 +2,14 @@
   "id": 403835731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747249,43.544026,-96.747249,43.544026",
     "geom:latitude":43.544026,
     "geom:longitude":-96.747249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403835731,
-    "wof:lastmodified":1449054821,
+    "wof:lastmodified":1467082676,
     "wof:name":"Video Mania Drive Up",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-96.747249,43.544026,-96.747249,43.544026],
+  "bbox": [
+    -96.747249,
+    43.544026,
+    -96.747249,
+    43.544026
+],
   "geometry": {"coordinates":[-96.747249,43.544026],"type":"Point"}
 }

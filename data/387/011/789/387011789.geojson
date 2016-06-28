@@ -2,13 +2,14 @@
   "id": 387011789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.36125,43.961449,-103.36125,43.961449",
     "geom:latitude":43.961449,
     "geom:longitude":-103.36125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23751 Pine Haven Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387011789,
-    "wof:lastmodified":1449059228,
+    "wof:lastmodified":1467082749,
     "wof:name":"Grace Bible Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.36125,43.961449,-103.36125,43.961449],
+  "bbox": [
+    -103.36125,
+    43.961449,
+    -103.36125,
+    43.961449
+],
   "geometry": {"coordinates":[-103.36125,43.961449],"type":"Point"}
 }

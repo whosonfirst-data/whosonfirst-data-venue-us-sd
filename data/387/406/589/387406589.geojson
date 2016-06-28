@@ -2,13 +2,14 @@
   "id": 387406589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.014971,43.695663,-98.014971,43.695663",
     "geom:latitude":43.695663,
     "geom:longitude":-98.014971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 S Burr St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387406589,
-    "wof:lastmodified":1449058149,
+    "wof:lastmodified":1467082728,
     "wof:name":"Larry's I 90 Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.014971,43.695663,-98.014971,43.695663],
+  "bbox": [
+    -98.014971,
+    43.695663,
+    -98.014971,
+    43.695663
+],
   "geometry": {"coordinates":[-98.014971,43.695663],"type":"Point"}
 }

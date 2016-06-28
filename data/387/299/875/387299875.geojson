@@ -2,13 +2,14 @@
   "id": 387299875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.620718,45.765816,-99.620718,45.765816",
     "geom:latitude":45.765816,
     "geom:longitude":-99.620718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 K Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387299875,
-    "wof:lastmodified":1449057070,
+    "wof:lastmodified":1467082706,
     "wof:name":"Eureka Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.620718,45.765816,-99.620718,45.765816],
+  "bbox": [
+    -99.620718,
+    45.765816,
+    -99.620718,
+    45.765816
+],
   "geometry": {"coordinates":[-99.620718,45.765816],"type":"Point"}
 }

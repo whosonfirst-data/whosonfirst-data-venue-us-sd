@@ -2,13 +2,14 @@
   "id": 371087333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.484988,44.765455,-99.484988,44.765455",
     "geom:latitude":44.765455,
     "geom:longitude":-99.484988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33490 181st St",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371087333,
-    "wof:lastmodified":1449049486,
+    "wof:lastmodified":1467082664,
     "wof:name":"Nickelson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.484988,44.765455,-99.484988,44.765455],
+  "bbox": [
+    -99.484988,
+    44.765455,
+    -99.484988,
+    44.765455
+],
   "geometry": {"coordinates":[-99.484988,44.765455],"type":"Point"}
 }

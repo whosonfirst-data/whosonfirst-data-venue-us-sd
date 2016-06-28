@@ -2,13 +2,14 @@
   "id": 403830011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716816,43.523564,-96.716816,43.523564",
     "geom:latitude":43.523564,
     "geom:longitude":-96.716816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 E Woodlawn Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403830011,
-    "wof:lastmodified":1449054925,
+    "wof:lastmodified":1467082677,
     "wof:name":"Spencer Ruff Assoc Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.716816,43.523564,-96.716816,43.523564],
-  "geometry": {"coordinates":[-96.716816,43.523564],"type":"Point"}
+  "bbox": [
+    -96.716816,
+    43.523564,
+    -96.716816,
+    43.523564
+],
+  "geometry": {"coordinates":[-96.71681599999999,43.523564],"type":"Point"}
 }

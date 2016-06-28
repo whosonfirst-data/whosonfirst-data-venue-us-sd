@@ -2,13 +2,14 @@
   "id": 403715605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.475146,43.440776,-103.475146,43.440776",
     "geom:latitude":43.440776,
     "geom:longitude":-103.475146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Battle Mountain Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403715605,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1467082682,
     "wof:name":"Battle Mountain Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.475146,43.440776,-103.475146,43.440776],
+  "bbox": [
+    -103.475146,
+    43.440776,
+    -103.475146,
+    43.440776
+],
   "geometry": {"coordinates":[-103.475146,43.440776],"type":"Point"}
 }

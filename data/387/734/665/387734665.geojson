@@ -2,13 +2,14 @@
   "id": 387734665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146665,44.924065,-97.146665,44.924065",
     "geom:latitude":44.924065,
     "geom:longitude":-97.146665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 N Hwy 20",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387734665,
-    "wof:lastmodified":1449059437,
+    "wof:lastmodified":1467082753,
     "wof:name":"New Life Evang Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.146665,44.924065,-97.146665,44.924065],
+  "bbox": [
+    -97.146665,
+    44.924065,
+    -97.146665,
+    44.924065
+],
   "geometry": {"coordinates":[-97.146665,44.924065],"type":"Point"}
 }

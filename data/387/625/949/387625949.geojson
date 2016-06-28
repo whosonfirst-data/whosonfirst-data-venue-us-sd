@@ -2,13 +2,14 @@
   "id": 387625949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.308365,43.326024,-98.308365,43.326024",
     "geom:latitude":43.326024,
     "geom:longitude":-98.308365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39392 280th St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387625949,
-    "wof:lastmodified":1449059978,
+    "wof:lastmodified":1467082764,
     "wof:name":"Ron Hinckley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.308365,43.326024,-98.308365,43.326024],
-  "geometry": {"coordinates":[-98.308365,43.326024],"type":"Point"}
+  "bbox": [
+    -98.308365,
+    43.326024,
+    -98.308365,
+    43.326024
+],
+  "geometry": {"coordinates":[-98.30836499999999,43.326024],"type":"Point"}
 }

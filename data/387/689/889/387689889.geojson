@@ -2,13 +2,14 @@
   "id": 387689889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.208388,44.582537,-97.208388,44.582537",
     "geom:latitude":44.582537,
     "geom:longitude":-97.208388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Harvest St",
     "sg:city":"Lake Norden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387689889,
-    "wof:lastmodified":1449059281,
+    "wof:lastmodified":1467082750,
     "wof:name":"Farmers Elevator Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-97.208388,44.582537,-97.208388,44.582537],
+  "bbox": [
+    -97.208388,
+    44.582537,
+    -97.208388,
+    44.582537
+],
   "geometry": {"coordinates":[-97.208388,44.582537],"type":"Point"}
 }

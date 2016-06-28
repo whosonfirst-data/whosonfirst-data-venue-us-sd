@@ -2,13 +2,14 @@
   "id": 371154985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.766458,43.297196,-98.766458,43.297196",
     "geom:latitude":43.297196,
     "geom:longitude":-98.766458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28209 371st Ave",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371154985,
-    "wof:lastmodified":1449050157,
+    "wof:lastmodified":1467082674,
     "wof:name":"James Petrik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.766458,43.297196,-98.766458,43.297196],
+  "bbox": [
+    -98.766458,
+    43.297196,
+    -98.766458,
+    43.297196
+],
   "geometry": {"coordinates":[-98.766458,43.297196],"type":"Point"}
 }

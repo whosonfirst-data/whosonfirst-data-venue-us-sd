@@ -2,13 +2,14 @@
   "id": 387958469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.03191,44.722822,-97.03191,44.722822",
     "geom:latitude":44.722822,
     "geom:longitude":-97.03191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Main St",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387958469,
-    "wof:lastmodified":1449059075,
+    "wof:lastmodified":1467082746,
     "wof:name":"Castlewood Locker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-97.03191,44.722822,-97.03191,44.722822],
+  "bbox": [
+    -97.03191,
+    44.722822,
+    -97.03191,
+    44.722822
+],
   "geometry": {"coordinates":[-97.03191,44.722822],"type":"Point"}
 }

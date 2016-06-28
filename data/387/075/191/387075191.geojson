@@ -2,13 +2,14 @@
   "id": 387075191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.577896,43.231716,-97.577896,43.231716",
     "geom:latitude":43.231716,
     "geom:longitude":-97.577896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28734 431st Ave",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387075191,
-    "wof:lastmodified":1449058175,
+    "wof:lastmodified":1467082728,
     "wof:name":"Kenneth Herrbolt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.577896,43.231716,-97.577896,43.231716],
+  "bbox": [
+    -97.577896,
+    43.231716,
+    -97.577896,
+    43.231716
+],
   "geometry": {"coordinates":[-97.577896,43.231716],"type":"Point"}
 }

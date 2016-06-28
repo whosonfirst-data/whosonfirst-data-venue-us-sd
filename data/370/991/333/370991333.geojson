@@ -2,13 +2,14 @@
   "id": 370991333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.52342,44.873634,-98.52342,44.873634",
     "geom:latitude":44.873634,
     "geom:longitude":-98.52342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 W 3rd St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370991333,
-    "wof:lastmodified":1449030165,
+    "wof:lastmodified":1467082656,
     "wof:name":"Farnam's Genuine Parts Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-98.52342,44.873634,-98.52342,44.873634],
+  "bbox": [
+    -98.52342,
+    44.873634,
+    -98.52342,
+    44.873634
+],
   "geometry": {"coordinates":[-98.52342,44.873634],"type":"Point"}
 }

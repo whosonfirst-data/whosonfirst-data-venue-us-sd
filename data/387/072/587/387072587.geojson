@@ -2,13 +2,14 @@
   "id": 387072587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.736499,44.878746,-97.736499,44.878746",
     "geom:latitude":44.878746,
     "geom:longitude":-97.736499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 2nd Ave NW",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387072587,
-    "wof:lastmodified":1449058113,
+    "wof:lastmodified":1467082727,
     "wof:name":"Interstate Telecommunication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-97.736499,44.878746,-97.736499,44.878746],
-  "geometry": {"coordinates":[-97.736499,44.878746],"type":"Point"}
+  "bbox": [
+    -97.736499,
+    44.878746,
+    -97.736499,
+    44.878746
+],
+  "geometry": {"coordinates":[-97.73649899999999,44.878746],"type":"Point"}
 }

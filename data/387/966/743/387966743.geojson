@@ -2,13 +2,14 @@
   "id": 387966743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.069114,45.838833,-100.069114,45.838833",
     "geom:latitude":45.838833,
     "geom:longitude":-100.069114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Main St",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387966743,
-    "wof:lastmodified":1449056140,
+    "wof:lastmodified":1467082687,
     "wof:name":"Tim Pudwill Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-100.069114,45.838833,-100.069114,45.838833],
+  "bbox": [
+    -100.069114,
+    45.838833,
+    -100.069114,
+    45.838833
+],
   "geometry": {"coordinates":[-100.069114,45.838833],"type":"Point"}
 }

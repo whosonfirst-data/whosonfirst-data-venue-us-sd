@@ -2,13 +2,14 @@
   "id": 387464313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749336,43.522028,-96.749336,43.522028",
     "geom:latitude":43.522028,
     "geom:longitude":-96.749336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1959 W 33rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387464313,
-    "wof:lastmodified":1449057122,
+    "wof:lastmodified":1467082707,
     "wof:name":"Monetary Investment Co Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-96.749336,43.522028,-96.749336,43.522028],
+  "bbox": [
+    -96.749336,
+    43.522028,
+    -96.749336,
+    43.522028
+],
   "geometry": {"coordinates":[-96.749336,43.522028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387039031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.95056,45.60247,-102.95056,45.60247",
     "geom:latitude":45.60247,
     "geom:longitude":-102.95056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12526 155th Ave",
     "sg:city":"Prairie City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387039031,
-    "wof:lastmodified":1449059444,
+    "wof:lastmodified":1467082754,
     "wof:name":"James Bingaman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-102.95056,45.60247,-102.95056,45.60247],
+  "bbox": [
+    -102.95056,
+    45.60247,
+    -102.95056,
+    45.60247
+],
   "geometry": {"coordinates":[-102.95056,45.60247],"type":"Point"}
 }

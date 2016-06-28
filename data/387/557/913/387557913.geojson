@@ -2,13 +2,14 @@
   "id": 387557913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.033732,44.760725,-97.033732,44.760725",
     "geom:latitude":44.760725,
     "geom:longitude":-97.033732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45885 181st St",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387557913,
-    "wof:lastmodified":1449058821,
+    "wof:lastmodified":1467082741,
     "wof:name":"Gabur's Tool Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "used"
     ]
 },
-  "bbox": [-97.033732,44.760725,-97.033732,44.760725],
+  "bbox": [
+    -97.033732,
+    44.760725,
+    -97.033732,
+    44.760725
+],
   "geometry": {"coordinates":[-97.033732,44.760725],"type":"Point"}
 }

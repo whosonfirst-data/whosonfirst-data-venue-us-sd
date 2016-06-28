@@ -2,13 +2,14 @@
   "id": 403756435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.48068,43.437633,-103.48068,43.437633",
     "geom:latitude":43.437633,
     "geom:longitude":-103.48068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403756435,
-    "wof:lastmodified":1449055445,
+    "wof:lastmodified":1467082681,
     "wof:name":"Red Rock River Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "facility"
     ]
 },
-  "bbox": [-103.48068,43.437633,-103.48068,43.437633],
-  "geometry": {"coordinates":[-103.48068,43.437633],"type":"Point"}
+  "bbox": [
+    -103.48068,
+    43.437633,
+    -103.48068,
+    43.437633
+],
+  "geometry": {"coordinates":[-103.48068000000001,43.437633],"type":"Point"}
 }

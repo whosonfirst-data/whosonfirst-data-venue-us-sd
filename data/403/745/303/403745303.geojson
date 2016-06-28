@@ -2,13 +2,14 @@
   "id": 403745303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.263802,44.083173,-103.263802,44.083173",
     "geom:latitude":44.083173,
     "geom:longitude":-103.263802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Sturgis St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403745303,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1467082684,
     "wof:name":"Palmer Sodding Farm",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sodding"
     ]
 },
-  "bbox": [-103.263802,44.083173,-103.263802,44.083173],
+  "bbox": [
+    -103.263802,
+    44.083173,
+    -103.263802,
+    44.083173
+],
   "geometry": {"coordinates":[-103.263802,44.083173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387892063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947455,44.407253,-96.947455,44.407253",
     "geom:latitude":44.407253,
     "geom:longitude":-96.947455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20539 463rd Ave",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387892063,
-    "wof:lastmodified":1449056663,
+    "wof:lastmodified":1467082698,
     "wof:name":"Oakwood Longhorns Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-96.947455,44.407253,-96.947455,44.407253],
-  "geometry": {"coordinates":[-96.947455,44.407253],"type":"Point"}
+  "bbox": [
+    -96.947455,
+    44.407253,
+    -96.947455,
+    44.407253
+],
+  "geometry": {"coordinates":[-96.94745500000001,44.407253],"type":"Point"}
 }

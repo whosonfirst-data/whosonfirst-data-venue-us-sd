@@ -2,13 +2,14 @@
   "id": 387443121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.296766,43.600149,-97.296766,43.600149",
     "geom:latitude":43.600149,
     "geom:longitude":-97.296766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W Wood St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387443121,
-    "wof:lastmodified":1449059219,
+    "wof:lastmodified":1467082749,
     "wof:name":"Wallace Janzen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.296766,43.600149,-97.296766,43.600149],
-  "geometry": {"coordinates":[-97.296766,43.600149],"type":"Point"}
+  "bbox": [
+    -97.296766,
+    43.600149,
+    -97.296766,
+    43.600149
+],
+  "geometry": {"coordinates":[-97.29676600000001,43.600149],"type":"Point"}
 }

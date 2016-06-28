@@ -2,13 +2,14 @@
   "id": 387824471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229298,44.079127,-103.229298,44.079127",
     "geom:latitude":44.079127,
     "geom:longitude":-103.229298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387824471,
-    "wof:lastmodified":1449057452,
+    "wof:lastmodified":1467082714,
     "wof:name":"Everose Productions Recording",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "studio"
     ]
 },
-  "bbox": [-103.229298,44.079127,-103.229298,44.079127],
+  "bbox": [
+    -103.229298,
+    44.079127,
+    -103.229298,
+    44.079127
+],
   "geometry": {"coordinates":[-103.229298,44.079127],"type":"Point"}
 }

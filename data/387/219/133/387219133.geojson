@@ -2,13 +2,14 @@
   "id": 387219133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756243,43.557511,-96.756243,43.557511",
     "geom:latitude":43.557511,
     "geom:longitude":-96.756243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Elmwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387219133,
-    "wof:lastmodified":1449059761,
+    "wof:lastmodified":1467082760,
     "wof:name":"Craft & Assoc Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-96.756243,43.557511,-96.756243,43.557511],
+  "bbox": [
+    -96.756243,
+    43.557511,
+    -96.756243,
+    43.557511
+],
   "geometry": {"coordinates":[-96.756243,43.557511],"type":"Point"}
 }

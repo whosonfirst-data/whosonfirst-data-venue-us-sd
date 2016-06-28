@@ -2,13 +2,14 @@
   "id": 386968037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.572118,43.615514,-96.572118,43.615514",
     "geom:latitude":43.615514,
     "geom:longitude":-96.572118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26011 482nd Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386968037,
-    "wof:lastmodified":1449028649,
+    "wof:lastmodified":1467082649,
     "wof:name":"Steve Anderson Trucking",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.572118,43.615514,-96.572118,43.615514],
+  "bbox": [
+    -96.572118,
+    43.615514,
+    -96.572118,
+    43.615514
+],
   "geometry": {"coordinates":[-96.572118,43.615514],"type":"Point"}
 }

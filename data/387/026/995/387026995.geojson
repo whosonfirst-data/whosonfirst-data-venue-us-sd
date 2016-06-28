@@ -2,13 +2,14 @@
   "id": 387026995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.629428,43.021529,-96.629428,43.021529",
     "geom:latitude":43.021529,
     "geom:longitude":-96.629428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 E 2nd St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387026995,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1467082732,
     "wof:name":"Com Plecks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.629428,43.021529,-96.629428,43.021529],
+  "bbox": [
+    -96.629428,
+    43.021529,
+    -96.629428,
+    43.021529
+],
   "geometry": {"coordinates":[-96.629428,43.021529],"type":"Point"}
 }

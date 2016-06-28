@@ -2,13 +2,14 @@
   "id": 387587417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.811462,45.292616,-99.811462,45.292616",
     "geom:latitude":45.292616,
     "geom:longitude":-99.811462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14479 318th Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387587417,
-    "wof:lastmodified":1449057402,
+    "wof:lastmodified":1467082713,
     "wof:name":"Denis Arbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.811462,45.292616,-99.811462,45.292616],
-  "geometry": {"coordinates":[-99.811462,45.292616],"type":"Point"}
+  "bbox": [
+    -99.811462,
+    45.292616,
+    -99.811462,
+    45.292616
+],
+  "geometry": {"coordinates":[-99.81146200000001,45.292616],"type":"Point"}
 }

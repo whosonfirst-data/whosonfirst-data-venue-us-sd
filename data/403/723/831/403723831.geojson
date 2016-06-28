@@ -2,13 +2,14 @@
   "id": 403723831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985899,43.395175,-97.985899,43.395175",
     "geom:latitude":43.395175,
     "geom:longitude":-97.985899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 1st St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403723831,
-    "wof:lastmodified":1449055422,
+    "wof:lastmodified":1467082681,
     "wof:name":"Parkston Dental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.985899,43.395175,-97.985899,43.395175],
+  "bbox": [
+    -97.985899,
+    43.395175,
+    -97.985899,
+    43.395175
+],
   "geometry": {"coordinates":[-97.985899,43.395175],"type":"Point"}
 }

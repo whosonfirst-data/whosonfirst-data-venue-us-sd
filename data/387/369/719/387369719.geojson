@@ -2,13 +2,14 @@
   "id": 387369719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.217934,43.227575,-97.217934,43.227575",
     "geom:latitude":43.227575,
     "geom:longitude":-97.217934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44927 287th St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387369719,
-    "wof:lastmodified":1449059722,
+    "wof:lastmodified":1467082759,
     "wof:name":"Gary Kropuenske",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.217934,43.227575,-97.217934,43.227575],
+  "bbox": [
+    -97.217934,
+    43.227575,
+    -97.217934,
+    43.227575
+],
   "geometry": {"coordinates":[-97.217934,43.227575],"type":"Point"}
 }

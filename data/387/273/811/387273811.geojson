@@ -2,13 +2,14 @@
   "id": 387273811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234212,44.064621,-103.234212,44.064621",
     "geom:latitude":44.064621,
     "geom:longitude":-103.234212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387273811,
-    "wof:lastmodified":1449058080,
+    "wof:lastmodified":1467082727,
     "wof:name":"Bartels & Sons Cnstr LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.234212,44.064621,-103.234212,44.064621],
+  "bbox": [
+    -103.234212,
+    44.064621,
+    -103.234212,
+    44.064621
+],
   "geometry": {"coordinates":[-103.234212,44.064621],"type":"Point"}
 }

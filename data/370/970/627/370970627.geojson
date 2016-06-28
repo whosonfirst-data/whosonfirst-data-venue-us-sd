@@ -2,13 +2,14 @@
   "id": 370970627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790647,44.293442,-96.790647,44.293442",
     "geom:latitude":44.293442,
     "geom:longitude":-96.790647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Arrowhead Pass",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370970627,
-    "wof:lastmodified":1449032411,
+    "wof:lastmodified":1467082658,
     "wof:name":"Kosbau Design Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-96.790647,44.293442,-96.790647,44.293442],
-  "geometry": {"coordinates":[-96.790647,44.293442],"type":"Point"}
+  "bbox": [
+    -96.790647,
+    44.293442,
+    -96.790647,
+    44.293442
+],
+  "geometry": {"coordinates":[-96.79064700000001,44.293442],"type":"Point"}
 }

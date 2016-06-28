@@ -2,13 +2,14 @@
   "id": 387259125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.950204,43.58,-96.950204,43.58",
     "geom:latitude":43.58,
     "geom:longitude":-96.950204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26246 463rd Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387259125,
-    "wof:lastmodified":1449056979,
+    "wof:lastmodified":1467082704,
     "wof:name":"Oakleaf Auto Salvage",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-96.950204,43.58,-96.950204,43.58],
+  "bbox": [
+    -96.950204,
+    43.58,
+    -96.950204,
+    43.58
+],
   "geometry": {"coordinates":[-96.950204,43.58],"type":"Point"}
 }

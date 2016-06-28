@@ -2,13 +2,14 @@
   "id": 387394395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.029573,43.53359,-97.029573,43.53359",
     "geom:latitude":43.53359,
     "geom:longitude":-97.029573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26552 459th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387394395,
-    "wof:lastmodified":1449056839,
+    "wof:lastmodified":1467082701,
     "wof:name":"Eagle Golf",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.029573,43.53359,-97.029573,43.53359],
+  "bbox": [
+    -97.029573,
+    43.53359,
+    -97.029573,
+    43.53359
+],
   "geometry": {"coordinates":[-97.029573,43.53359],"type":"Point"}
 }

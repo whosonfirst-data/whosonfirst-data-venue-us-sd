@@ -2,13 +2,14 @@
   "id": 371007391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.945761,43.629359,-96.945761,43.629359",
     "geom:latitude":43.629359,
     "geom:longitude":-96.945761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Main Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371007391,
-    "wof:lastmodified":1449049933,
+    "wof:lastmodified":1467082670,
     "wof:name":"Christ Lutheran Church",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.945761,43.629359,-96.945761,43.629359],
+  "bbox": [
+    -96.945761,
+    43.629359,
+    -96.945761,
+    43.629359
+],
   "geometry": {"coordinates":[-96.945761,43.629359],"type":"Point"}
 }

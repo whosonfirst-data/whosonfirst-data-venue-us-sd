@@ -2,13 +2,14 @@
   "id": 387198887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.938071,44.51764,-98.938071,44.51764",
     "geom:latitude":44.51764,
     "geom:longitude":-98.938071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Commercial Ave",
     "sg:city":"St Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387198887,
-    "wof:lastmodified":1449057478,
+    "wof:lastmodified":1467082714,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.938071,44.51764,-98.938071,44.51764],
-  "geometry": {"coordinates":[-98.938071,44.51764],"type":"Point"}
+  "bbox": [
+    -98.938071,
+    44.51764,
+    -98.938071,
+    44.51764
+],
+  "geometry": {"coordinates":[-98.93807099999999,44.51764],"type":"Point"}
 }

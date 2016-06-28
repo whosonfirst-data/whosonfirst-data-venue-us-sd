@@ -2,13 +2,14 @@
   "id": 371177821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.439976,43.58824,-98.439976,43.58824",
     "geom:latitude":43.58824,
     "geom:longitude":-98.439976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S 1st St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371177821,
-    "wof:lastmodified":1449050138,
+    "wof:lastmodified":1467082673,
     "wof:name":"Stickney Co-Op Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-98.439976,43.58824,-98.439976,43.58824],
+  "bbox": [
+    -98.439976,
+    43.58824,
+    -98.439976,
+    43.58824
+],
   "geometry": {"coordinates":[-98.439976,43.58824],"type":"Point"}
 }

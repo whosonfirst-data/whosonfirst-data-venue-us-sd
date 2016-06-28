@@ -2,13 +2,14 @@
   "id": 387707659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955585,45.012389,-99.955585,45.012389",
     "geom:latitude":45.012389,
     "geom:longitude":-99.955585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Exene St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387707659,
-    "wof:lastmodified":1449059328,
+    "wof:lastmodified":1467082751,
     "wof:name":"Potter County Land & Abstract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.955585,45.012389,-99.955585,45.012389],
+  "bbox": [
+    -99.955585,
+    45.012389,
+    -99.955585,
+    45.012389
+],
   "geometry": {"coordinates":[-99.955585,45.012389],"type":"Point"}
 }

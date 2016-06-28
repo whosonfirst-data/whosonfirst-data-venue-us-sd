@@ -2,13 +2,14 @@
   "id": 387730321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67735,43.519865,-96.67735,43.519865",
     "geom:latitude":43.519865,
     "geom:longitude":-96.67735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 S Tyler Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387730321,
-    "wof:lastmodified":1449059309,
+    "wof:lastmodified":1467082751,
     "wof:name":"Max Power Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.67735,43.519865,-96.67735,43.519865],
+  "bbox": [
+    -96.67735,
+    43.519865,
+    -96.67735,
+    43.519865
+],
   "geometry": {"coordinates":[-96.67735,43.519865],"type":"Point"}
 }

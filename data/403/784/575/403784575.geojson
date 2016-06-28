@@ -2,13 +2,14 @@
   "id": 403784575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698787,43.579355,-96.698787,43.579355",
     "geom:latitude":43.579355,
     "geom:longitude":-96.698787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 N Saint Paul Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403784575,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1467082681,
     "wof:name":"American Motorcycle Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "app"
     ]
 },
-  "bbox": [-96.698787,43.579355,-96.698787,43.579355],
+  "bbox": [
+    -96.698787,
+    43.579355,
+    -96.698787,
+    43.579355
+],
   "geometry": {"coordinates":[-96.698787,43.579355],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387353307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76361,43.548629,-96.76361,43.548629",
     "geom:latitude":43.548629,
     "geom:longitude":-96.76361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Harlem Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387353307,
-    "wof:lastmodified":1449057192,
+    "wof:lastmodified":1467082708,
     "wof:name":"Carlson Distributing Co Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-96.76361,43.548629,-96.76361,43.548629],
+  "bbox": [
+    -96.76361,
+    43.548629,
+    -96.76361,
+    43.548629
+],
   "geometry": {"coordinates":[-96.76361,43.548629],"type":"Point"}
 }

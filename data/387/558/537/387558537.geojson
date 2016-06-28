@@ -2,13 +2,14 @@
   "id": 387558537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.679212,43.539202,-96.679212,43.539202",
     "geom:latitude":43.539202,
     "geom:longitude":-96.679212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 S Churchill Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387558537,
-    "wof:lastmodified":1449057131,
+    "wof:lastmodified":1467082707,
     "wof:name":"Dang Nguyen Holdings LLC",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "holding"
     ]
 },
-  "bbox": [-96.679212,43.539202,-96.679212,43.539202],
-  "geometry": {"coordinates":[-96.679212,43.539202],"type":"Point"}
+  "bbox": [
+    -96.679212,
+    43.539202,
+    -96.679212,
+    43.539202
+],
+  "geometry": {"coordinates":[-96.67921200000001,43.539202],"type":"Point"}
 }

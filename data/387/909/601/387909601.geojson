@@ -2,13 +2,14 @@
   "id": 387909601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131709,44.893574,-97.131709,44.893574",
     "geom:latitude":44.893574,
     "geom:longitude":-97.131709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 10th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387909601,
-    "wof:lastmodified":1449058968,
+    "wof:lastmodified":1467082744,
     "wof:name":"Burghardt Amateur Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-97.131709,44.893574,-97.131709,44.893574],
+  "bbox": [
+    -97.131709,
+    44.893574,
+    -97.131709,
+    44.893574
+],
   "geometry": {"coordinates":[-97.131709,44.893574],"type":"Point"}
 }

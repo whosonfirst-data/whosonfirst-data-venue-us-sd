@@ -2,13 +2,14 @@
   "id": 387485763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550338,43.849077,-97.550338,43.849077",
     "geom:latitude":43.849077,
     "geom:longitude":-97.550338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24367 433rd Ave",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387485763,
-    "wof:lastmodified":1449058424,
+    "wof:lastmodified":1467082733,
     "wof:name":"Bob's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.550338,43.849077,-97.550338,43.849077],
+  "bbox": [
+    -97.550338,
+    43.849077,
+    -97.550338,
+    43.849077
+],
   "geometry": {"coordinates":[-97.550338,43.849077],"type":"Point"}
 }

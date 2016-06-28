@@ -2,13 +2,14 @@
   "id": 387846029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214058,44.367479,-98.214058,44.367479",
     "geom:latitude":44.367479,
     "geom:longitude":-98.214058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387846029,
-    "wof:lastmodified":1449059053,
+    "wof:lastmodified":1467082746,
     "wof:name":"Dakota Avenue Pawn Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-98.214058,44.367479,-98.214058,44.367479],
-  "geometry": {"coordinates":[-98.214058,44.367479],"type":"Point"}
+  "bbox": [
+    -98.214058,
+    44.367479,
+    -98.214058,
+    44.367479
+],
+  "geometry": {"coordinates":[-98.21405799999999,44.367479],"type":"Point"}
 }

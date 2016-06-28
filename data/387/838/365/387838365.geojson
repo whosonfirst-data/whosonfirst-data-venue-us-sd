@@ -2,13 +2,14 @@
   "id": 387838365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.466873,45.304067,-96.466873,45.304067",
     "geom:latitude":45.304067,
     "geom:longitude":-96.466873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 High St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387838365,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1467082696,
     "wof:name":"KENS Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.466873,45.304067,-96.466873,45.304067],
-  "geometry": {"coordinates":[-96.466873,45.304067],"type":"Point"}
+  "bbox": [
+    -96.466873,
+    45.304067,
+    -96.466873,
+    45.304067
+],
+  "geometry": {"coordinates":[-96.46687300000001,45.304067],"type":"Point"}
 }

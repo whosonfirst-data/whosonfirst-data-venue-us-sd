@@ -2,13 +2,14 @@
   "id": 403741279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.024917,43.126754,-97.024917,43.126754",
     "geom:latitude":43.126754,
     "geom:longitude":-97.024917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45886 294th St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403741279,
-    "wof:lastmodified":1449054697,
+    "wof:lastmodified":1467082675,
     "wof:name":"Paul Buckneberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.024917,43.126754,-97.024917,43.126754],
+  "bbox": [
+    -97.024917,
+    43.126754,
+    -97.024917,
+    43.126754
+],
   "geometry": {"coordinates":[-97.024917,43.126754],"type":"Point"}
 }

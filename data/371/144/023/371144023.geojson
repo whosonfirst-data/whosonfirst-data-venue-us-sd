@@ -2,13 +2,14 @@
   "id": 371144023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705209,43.596028,-96.705209,43.596028",
     "geom:latitude":43.596028,
     "geom:longitude":-96.705209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4501 N Seubert Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371144023,
-    "wof:lastmodified":1449049820,
+    "wof:lastmodified":1467082669,
     "wof:name":"Reid Gerdes Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.705209,43.596028,-96.705209,43.596028],
+  "bbox": [
+    -96.705209,
+    43.596028,
+    -96.705209,
+    43.596028
+],
   "geometry": {"coordinates":[-96.705209,43.596028],"type":"Point"}
 }

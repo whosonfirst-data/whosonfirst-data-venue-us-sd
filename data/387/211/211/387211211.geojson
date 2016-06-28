@@ -2,13 +2,14 @@
   "id": 387211211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106755,44.922119,-97.106755,44.922119",
     "geom:latitude":44.922119,
     "geom:longitude":-97.106755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 4th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387211211,
-    "wof:lastmodified":1449057042,
+    "wof:lastmodified":1467082705,
     "wof:name":"Minndak Aviation LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.106755,44.922119,-97.106755,44.922119],
-  "geometry": {"coordinates":[-97.106755,44.922119],"type":"Point"}
+  "bbox": [
+    -97.106755,
+    44.922119,
+    -97.106755,
+    44.922119
+],
+  "geometry": {"coordinates":[-97.10675500000001,44.922119],"type":"Point"}
 }

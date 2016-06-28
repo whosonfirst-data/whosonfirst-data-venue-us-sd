@@ -2,13 +2,14 @@
   "id": 386991439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711404,43.598016,-96.711404,43.598016",
     "geom:latitude":43.598016,
     "geom:longitude":-96.711404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386991439,
-    "wof:lastmodified":1449028713,
+    "wof:lastmodified":1467082651,
     "wof:name":"Graham Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.711404,43.598016,-96.711404,43.598016],
+  "bbox": [
+    -96.711404,
+    43.598016,
+    -96.711404,
+    43.598016
+],
   "geometry": {"coordinates":[-96.711404,43.598016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387828645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.792065,43.463351,-96.792065,43.463351",
     "geom:latitude":43.463351,
     "geom:longitude":-96.792065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27074 Henry Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387828645,
-    "wof:lastmodified":1449058034,
+    "wof:lastmodified":1467082726,
     "wof:name":"Auction Pros Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "store"
     ]
 },
-  "bbox": [-96.792065,43.463351,-96.792065,43.463351],
-  "geometry": {"coordinates":[-96.792065,43.463351],"type":"Point"}
+  "bbox": [
+    -96.792065,
+    43.463351,
+    -96.792065,
+    43.463351
+],
+  "geometry": {"coordinates":[-96.79206499999999,43.463351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403797397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.979425,44.519089,-98.979425,44.519089",
     "geom:latitude":44.519089,
     "geom:longitude":-98.979425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 E 4th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403797397,
-    "wof:lastmodified":1449055837,
+    "wof:lastmodified":1467082683,
     "wof:name":"Pazzazz Hairstyling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.979425,44.519089,-98.979425,44.519089],
-  "geometry": {"coordinates":[-98.979425,44.519089],"type":"Point"}
+  "bbox": [
+    -98.979425,
+    44.519089,
+    -98.979425,
+    44.519089
+],
+  "geometry": {"coordinates":[-98.97942500000001,44.519089],"type":"Point"}
 }

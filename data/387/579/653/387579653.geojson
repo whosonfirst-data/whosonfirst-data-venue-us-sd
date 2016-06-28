@@ -2,13 +2,14 @@
   "id": 387579653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482228,45.471696,-98.482228,45.471696",
     "geom:latitude":45.471696,
     "geom:longitude":-98.482228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 N Kline St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387579653,
-    "wof:lastmodified":1449057308,
+    "wof:lastmodified":1467082710,
     "wof:name":"Interior Motives",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.482228,45.471696,-98.482228,45.471696],
-  "geometry": {"coordinates":[-98.482228,45.471696],"type":"Point"}
+  "bbox": [
+    -98.482228,
+    45.471696,
+    -98.482228,
+    45.471696
+],
+  "geometry": {"coordinates":[-98.48222800000001,45.471696],"type":"Point"}
 }

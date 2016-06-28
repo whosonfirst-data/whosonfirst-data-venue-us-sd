@@ -2,13 +2,14 @@
   "id": 387407689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.568119,44.079462,-98.568119,44.079462",
     "geom:latitude":44.079462,
     "geom:longitude":-98.568119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Main St E",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387407689,
-    "wof:lastmodified":1449058226,
+    "wof:lastmodified":1467082729,
     "wof:name":"Jerauld Country Abstract Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-98.568119,44.079462,-98.568119,44.079462],
+  "bbox": [
+    -98.568119,
+    44.079462,
+    -98.568119,
+    44.079462
+],
   "geometry": {"coordinates":[-98.568119,44.079462],"type":"Point"}
 }

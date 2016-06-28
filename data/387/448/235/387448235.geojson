@@ -2,13 +2,14 @@
   "id": 387448235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.599293,43.766432,-103.599293,43.766432",
     "geom:latitude":43.766432,
     "geom:longitude":-103.599293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387448235,
-    "wof:lastmodified":1449059735,
+    "wof:lastmodified":1467082759,
     "wof:name":"Custer Elderly Meals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-103.599293,43.766432,-103.599293,43.766432],
+  "bbox": [
+    -103.599293,
+    43.766432,
+    -103.599293,
+    43.766432
+],
   "geometry": {"coordinates":[-103.599293,43.766432],"type":"Point"}
 }

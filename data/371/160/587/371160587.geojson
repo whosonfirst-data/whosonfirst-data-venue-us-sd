@@ -2,13 +2,14 @@
   "id": 371160587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751653,44.30785,-96.751653,44.30785",
     "geom:latitude":44.30785,
     "geom:longitude":-96.751653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 32nd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371160587,
-    "wof:lastmodified":1449049955,
+    "wof:lastmodified":1467082671,
     "wof:name":"Clites Electric Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.751653,44.30785,-96.751653,44.30785],
+  "bbox": [
+    -96.751653,
+    44.30785,
+    -96.751653,
+    44.30785
+],
   "geometry": {"coordinates":[-96.751653,44.30785],"type":"Point"}
 }

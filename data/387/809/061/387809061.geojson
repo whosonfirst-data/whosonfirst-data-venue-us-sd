@@ -2,13 +2,14 @@
   "id": 387809061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.699753,43.252494,-98.699753,43.252494",
     "geom:latitude":43.252494,
     "geom:longitude":-98.699753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Wisconsin Ave",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387809061,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1467082749,
     "wof:name":"Geddes Community Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auditorium"
     ]
 },
-  "bbox": [-98.699753,43.252494,-98.699753,43.252494],
+  "bbox": [
+    -98.699753,
+    43.252494,
+    -98.699753,
+    43.252494
+],
   "geometry": {"coordinates":[-98.699753,43.252494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387265333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751159,43.532088,-96.751159,43.532088",
     "geom:latitude":43.532088,
     "geom:longitude":-96.751159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387265333,
-    "wof:lastmodified":1449057394,
+    "wof:lastmodified":1467082712,
     "wof:name":"Siouxland Welcome Svc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "for"
     ]
 },
-  "bbox": [-96.751159,43.532088,-96.751159,43.532088],
+  "bbox": [
+    -96.751159,
+    43.532088,
+    -96.751159,
+    43.532088
+],
   "geometry": {"coordinates":[-96.751159,43.532088],"type":"Point"}
 }

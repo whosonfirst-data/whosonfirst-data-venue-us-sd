@@ -2,13 +2,14 @@
   "id": 387501413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.378765,43.718934,-97.378765,43.718934",
     "geom:latitude":43.718934,
     "geom:longitude":-97.378765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Colonial Dr",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387501413,
-    "wof:lastmodified":1449059949,
+    "wof:lastmodified":1467082764,
     "wof:name":"State Homecare Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-97.378765,43.718934,-97.378765,43.718934],
+  "bbox": [
+    -97.378765,
+    43.718934,
+    -97.378765,
+    43.718934
+],
   "geometry": {"coordinates":[-97.378765,43.718934],"type":"Point"}
 }

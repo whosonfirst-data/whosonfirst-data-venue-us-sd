@@ -2,13 +2,14 @@
   "id": 387301497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.751313,45.891167,-101.751313,45.891167",
     "geom:latitude":45.891167,
     "geom:longitude":-101.751313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21720 104th St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387301497,
-    "wof:lastmodified":1449057077,
+    "wof:lastmodified":1467082706,
     "wof:name":"Jake Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-101.751313,45.891167,-101.751313,45.891167],
+  "bbox": [
+    -101.751313,
+    45.891167,
+    -101.751313,
+    45.891167
+],
   "geometry": {"coordinates":[-101.751313,45.891167],"type":"Point"}
 }

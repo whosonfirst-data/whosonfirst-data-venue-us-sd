@@ -2,13 +2,14 @@
   "id": 371048357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.163739,44.927083,-97.163739,44.927083",
     "geom:latitude":44.927083,
     "geom:longitude":-97.163739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Piper Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371048357,
-    "wof:lastmodified":1449049371,
+    "wof:lastmodified":1467082663,
     "wof:name":"Western Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.163739,44.927083,-97.163739,44.927083],
-  "geometry": {"coordinates":[-97.163739,44.927083],"type":"Point"}
+  "bbox": [
+    -97.163739,
+    44.927083,
+    -97.163739,
+    44.927083
+],
+  "geometry": {"coordinates":[-97.16373900000001,44.927083],"type":"Point"}
 }

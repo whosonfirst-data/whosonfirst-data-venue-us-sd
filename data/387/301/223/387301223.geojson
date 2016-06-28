@@ -2,13 +2,14 @@
   "id": 387301223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.561475,45.86585,-98.561475,45.86585",
     "geom:latitude":45.86585,
     "geom:longitude":-98.561475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38390 105th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387301223,
-    "wof:lastmodified":1449057073,
+    "wof:lastmodified":1467082706,
     "wof:name":"Mikkenon and Land Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.561475,45.86585,-98.561475,45.86585],
+  "bbox": [
+    -98.561475,
+    45.86585,
+    -98.561475,
+    45.86585
+],
   "geometry": {"coordinates":[-98.561475,45.86585],"type":"Point"}
 }

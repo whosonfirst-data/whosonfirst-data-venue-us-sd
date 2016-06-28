@@ -2,13 +2,14 @@
   "id": 387460741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.508678,43.913284,-103.508678,43.913284",
     "geom:latitude":43.913284,
     "geom:longitude":-103.508678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12760 Old Hill City Rd",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387460741,
-    "wof:lastmodified":1449059702,
+    "wof:lastmodified":1467082759,
     "wof:name":"Spear Welding Repair",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.508678,43.913284,-103.508678,43.913284],
+  "bbox": [
+    -103.508678,
+    43.913284,
+    -103.508678,
+    43.913284
+],
   "geometry": {"coordinates":[-103.508678,43.913284],"type":"Point"}
 }

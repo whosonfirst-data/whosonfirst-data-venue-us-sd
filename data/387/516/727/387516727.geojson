@@ -2,13 +2,14 @@
   "id": 387516727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.512708,44.414505,-103.512708,44.414505",
     "geom:latitude":44.414505,
     "geom:longitude":-103.512708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387516727,
-    "wof:lastmodified":1449056828,
+    "wof:lastmodified":1467082701,
     "wof:name":"Black Hills Rally & Gold Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible"
     ]
 },
-  "bbox": [-103.512708,44.414505,-103.512708,44.414505],
+  "bbox": [
+    -103.512708,
+    44.414505,
+    -103.512708,
+    44.414505
+],
   "geometry": {"coordinates":[-103.512708,44.414505],"type":"Point"}
 }

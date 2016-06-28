@@ -2,13 +2,14 @@
   "id": 387223447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.490848,45.476767,-98.490848,45.476767",
     "geom:latitude":45.476767,
     "geom:longitude":-98.490848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 N 2nd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387223447,
-    "wof:lastmodified":1449056373,
+    "wof:lastmodified":1467082692,
     "wof:name":"Rockford Apartments",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.490848,45.476767,-98.490848,45.476767],
+  "bbox": [
+    -98.490848,
+    45.476767,
+    -98.490848,
+    45.476767
+],
   "geometry": {"coordinates":[-98.490848,45.476767],"type":"Point"}
 }

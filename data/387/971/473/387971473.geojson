@@ -2,13 +2,14 @@
   "id": 387971473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.023785,43.384877,-97.023785,43.384877",
     "geom:latitude":43.384877,
     "geom:longitude":-97.023785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27619 459th Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387971473,
-    "wof:lastmodified":1449058032,
+    "wof:lastmodified":1467082726,
     "wof:name":"Jongeling Custom Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.023785,43.384877,-97.023785,43.384877],
+  "bbox": [
+    -97.023785,
+    43.384877,
+    -97.023785,
+    43.384877
+],
   "geometry": {"coordinates":[-97.023785,43.384877],"type":"Point"}
 }

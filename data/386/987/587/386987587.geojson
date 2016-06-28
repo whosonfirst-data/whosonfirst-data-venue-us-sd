@@ -2,13 +2,14 @@
   "id": 386987587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.822492,43.43224,-96.822492,43.43224",
     "geom:latitude":43.43224,
     "geom:longitude":-96.822492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27297 Sequoia Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386987587,
-    "wof:lastmodified":1449028791,
+    "wof:lastmodified":1467082652,
     "wof:name":"Ceramic Tile Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.822492,43.43224,-96.822492,43.43224],
+  "bbox": [
+    -96.822492,
+    43.43224,
+    -96.822492,
+    43.43224
+],
   "geometry": {"coordinates":[-96.822492,43.43224],"type":"Point"}
 }

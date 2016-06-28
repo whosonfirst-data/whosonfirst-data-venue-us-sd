@@ -2,13 +2,14 @@
   "id": 387069693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119393,44.901344,-97.119393,44.901344",
     "geom:latitude":44.901344,
     "geom:longitude":-97.119393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387069693,
-    "wof:lastmodified":1449058510,
+    "wof:lastmodified":1467082735,
     "wof:name":"Cassic Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "reupholstery"
     ]
 },
-  "bbox": [-97.119393,44.901344,-97.119393,44.901344],
+  "bbox": [
+    -97.119393,
+    44.901344,
+    -97.119393,
+    44.901344
+],
   "geometry": {"coordinates":[-97.119393,44.901344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371172507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79868,44.312858,-96.79868,44.312858",
     "geom:latitude":44.312858,
     "geom:longitude":-96.79868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371172507,
-    "wof:lastmodified":1449049446,
+    "wof:lastmodified":1467082664,
     "wof:name":"Ritz Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.79868,44.312858,-96.79868,44.312858],
+  "bbox": [
+    -96.79868,
+    44.312858,
+    -96.79868,
+    44.312858
+],
   "geometry": {"coordinates":[-96.79868,44.312858],"type":"Point"}
 }

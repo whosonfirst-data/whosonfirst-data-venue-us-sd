@@ -2,13 +2,14 @@
   "id": 371128927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711148,43.496128,-96.711148,43.496128",
     "geom:latitude":43.496128,
     "geom:longitude":-96.711148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5017 S Quail Run Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371128927,
-    "wof:lastmodified":1449049429,
+    "wof:lastmodified":1467082663,
     "wof:name":"Whitewater Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.711148,43.496128,-96.711148,43.496128],
-  "geometry": {"coordinates":[-96.711148,43.496128],"type":"Point"}
+  "bbox": [
+    -96.711148,
+    43.496128,
+    -96.711148,
+    43.496128
+],
+  "geometry": {"coordinates":[-96.71114799999999,43.496128],"type":"Point"}
 }

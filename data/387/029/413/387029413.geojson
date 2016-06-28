@@ -2,13 +2,14 @@
   "id": 387029413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.862757,44.498319,-103.862757,44.498319",
     "geom:latitude":44.498319,
     "geom:longitude":-103.862757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 N 5th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387029413,
-    "wof:lastmodified":1449057711,
+    "wof:lastmodified":1467082719,
     "wof:name":"Black Hills Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-103.862757,44.498319,-103.862757,44.498319],
+  "bbox": [
+    -103.862757,
+    44.498319,
+    -103.862757,
+    44.498319
+],
   "geometry": {"coordinates":[-103.862757,44.498319],"type":"Point"}
 }

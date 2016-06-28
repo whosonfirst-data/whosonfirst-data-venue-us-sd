@@ -2,13 +2,14 @@
   "id": 386949709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486481,45.466744,-98.486481,45.466744",
     "geom:latitude":45.466744,
     "geom:longitude":-98.486481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 1st Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386949709,
-    "wof:lastmodified":1449028822,
+    "wof:lastmodified":1467082653,
     "wof:name":"Garys Engine & Repair Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-98.486481,45.466744,-98.486481,45.466744],
+  "bbox": [
+    -98.486481,
+    45.466744,
+    -98.486481,
+    45.466744
+],
   "geometry": {"coordinates":[-98.486481,45.466744],"type":"Point"}
 }

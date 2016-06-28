@@ -2,13 +2,14 @@
   "id": 403715593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.983772,42.972901,-96.983772,42.972901",
     "geom:latitude":42.972901,
     "geom:longitude":-96.983772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30466 461st Ave",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403715593,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1467082682,
     "wof:name":"Jim White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.983772,42.972901,-96.983772,42.972901],
+  "bbox": [
+    -96.983772,
+    42.972901,
+    -96.983772,
+    42.972901
+],
   "geometry": {"coordinates":[-96.983772,42.972901],"type":"Point"}
 }

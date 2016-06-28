@@ -2,13 +2,14 @@
   "id": 387392727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.855206,44.311692,-96.855206,44.311692",
     "geom:latitude":44.311692,
     "geom:longitude":-96.855206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46775 212th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387392727,
-    "wof:lastmodified":1449059156,
+    "wof:lastmodified":1467082748,
     "wof:name":"Philip A Egeberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.855206,44.311692,-96.855206,44.311692],
+  "bbox": [
+    -96.855206,
+    44.311692,
+    -96.855206,
+    44.311692
+],
   "geometry": {"coordinates":[-96.855206,44.311692],"type":"Point"}
 }

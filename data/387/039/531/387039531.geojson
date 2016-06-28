@@ -2,13 +2,14 @@
   "id": 387039531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.475014,43.431048,-103.475014,43.431048",
     "geom:latitude":43.431048,
     "geom:longitude":-103.475014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387039531,
-    "wof:lastmodified":1449059446,
+    "wof:lastmodified":1467082753,
     "wof:name":"Glass Fire & Stone Of Hot Spg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-103.475014,43.431048,-103.475014,43.431048],
+  "bbox": [
+    -103.475014,
+    43.431048,
+    -103.475014,
+    43.431048
+],
   "geometry": {"coordinates":[-103.475014,43.431048],"type":"Point"}
 }

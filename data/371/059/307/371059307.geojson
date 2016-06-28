@@ -2,13 +2,14 @@
   "id": 371059307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.115524,44.053338,-103.115524,44.053338",
     "geom:latitude":44.053338,
     "geom:longitude":-103.115524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 Crane Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":371059307,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467082661,
     "wof:name":"All Communications & Services",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-103.115524,44.053338,-103.115524,44.053338],
-  "geometry": {"coordinates":[-103.115524,44.053338],"type":"Point"}
+  "bbox": [
+    -103.115524,
+    44.053338,
+    -103.115524,
+    44.053338
+],
+  "geometry": {"coordinates":[-103.11552399999999,44.053338],"type":"Point"}
 }

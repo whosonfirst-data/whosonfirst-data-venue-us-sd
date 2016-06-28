@@ -2,13 +2,14 @@
   "id": 387368173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.96437,43.39189,-96.96437,43.39189",
     "geom:latitude":43.39189,
     "geom:longitude":-96.96437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27575 462nd Ave",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387368173,
-    "wof:lastmodified":1449056978,
+    "wof:lastmodified":1467082704,
     "wof:name":"Hoogestraat Hog Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.96437,43.39189,-96.96437,43.39189],
+  "bbox": [
+    -96.96437,
+    43.39189,
+    -96.96437,
+    43.39189
+],
   "geometry": {"coordinates":[-96.96437,43.39189],"type":"Point"}
 }

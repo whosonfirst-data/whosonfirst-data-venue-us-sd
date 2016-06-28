@@ -2,13 +2,14 @@
   "id": 403786987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.511978,44.410548,-103.511978,44.410548",
     "geom:latitude":44.410548,
     "geom:longitude":-103.511978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Spruce St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403786987,
-    "wof:lastmodified":1449054801,
+    "wof:lastmodified":1467082676,
     "wof:name":"Key City Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-103.511978,44.410548,-103.511978,44.410548],
+  "bbox": [
+    -103.511978,
+    44.410548,
+    -103.511978,
+    44.410548
+],
   "geometry": {"coordinates":[-103.511978,44.410548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387948905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.202092,43.223084,-100.202092,43.223084",
     "geom:latitude":43.223084,
     "geom:longitude":-100.202092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29758 288th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387948905,
-    "wof:lastmodified":1449059123,
+    "wof:lastmodified":1467082747,
     "wof:name":"Leroy Littau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.202092,43.223084,-100.202092,43.223084],
-  "geometry": {"coordinates":[-100.202092,43.223084],"type":"Point"}
+  "bbox": [
+    -100.202092,
+    43.223084,
+    -100.202092,
+    43.223084
+],
+  "geometry": {"coordinates":[-100.20209199999999,43.223084],"type":"Point"}
 }

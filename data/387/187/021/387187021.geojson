@@ -2,13 +2,14 @@
   "id": 387187021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.522378,45.488602,-98.522378,45.488602",
     "geom:latitude":45.488602,
     "geom:longitude":-98.522378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 24th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387187021,
-    "wof:lastmodified":1449056670,
+    "wof:lastmodified":1467082698,
     "wof:name":"Wylie Thunder Road Go-Karts",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.522378,45.488602,-98.522378,45.488602],
+  "bbox": [
+    -98.522378,
+    45.488602,
+    -98.522378,
+    45.488602
+],
   "geometry": {"coordinates":[-98.522378,45.488602],"type":"Point"}
 }

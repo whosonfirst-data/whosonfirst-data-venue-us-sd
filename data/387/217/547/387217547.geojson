@@ -2,13 +2,14 @@
   "id": 387217547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.845305,43.132662,-96.845305,43.132662",
     "geom:latitude":43.132662,
     "geom:longitude":-96.845305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29362 468th Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387217547,
-    "wof:lastmodified":1449059689,
+    "wof:lastmodified":1467082758,
     "wof:name":"Terry Ostrem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.845305,43.132662,-96.845305,43.132662],
+  "bbox": [
+    -96.845305,
+    43.132662,
+    -96.845305,
+    43.132662
+],
   "geometry": {"coordinates":[-96.845305,43.132662],"type":"Point"}
 }

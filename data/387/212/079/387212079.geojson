@@ -2,13 +2,14 @@
   "id": 387212079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.063468,44.731497,-97.063468,44.731497",
     "geom:latitude":44.731497,
     "geom:longitude":-97.063468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45727 State Hwy 22",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387212079,
-    "wof:lastmodified":1449058575,
+    "wof:lastmodified":1467082736,
     "wof:name":"Sioux Land Synthetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.063468,44.731497,-97.063468,44.731497],
+  "bbox": [
+    -97.063468,
+    44.731497,
+    -97.063468,
+    44.731497
+],
   "geometry": {"coordinates":[-97.063468,44.731497],"type":"Point"}
 }

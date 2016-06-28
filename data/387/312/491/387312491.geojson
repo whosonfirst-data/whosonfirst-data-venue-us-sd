@@ -2,13 +2,14 @@
   "id": 387312491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709906,43.823215,-96.709906,43.823215",
     "geom:latitude":43.823215,
     "geom:longitude":-96.709906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387312491,
-    "wof:lastmodified":1449058025,
+    "wof:lastmodified":1467082725,
     "wof:name":"LA Coursiere Photography",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.709906,43.823215,-96.709906,43.823215],
+  "bbox": [
+    -96.709906,
+    43.823215,
+    -96.709906,
+    43.823215
+],
   "geometry": {"coordinates":[-96.709906,43.823215],"type":"Point"}
 }

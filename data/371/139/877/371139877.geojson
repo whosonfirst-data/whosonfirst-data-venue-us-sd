@@ -2,13 +2,14 @@
   "id": 371139877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.666566,43.385811,-99.666566,43.385811",
     "geom:latitude":43.385811,
     "geom:longitude":-99.666566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32540 E Hwy 44",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371139877,
-    "wof:lastmodified":1449049127,
+    "wof:lastmodified":1467082659,
     "wof:name":"La Compte La Compte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.666566,43.385811,-99.666566,43.385811],
+  "bbox": [
+    -99.666566,
+    43.385811,
+    -99.666566,
+    43.385811
+],
   "geometry": {"coordinates":[-99.666566,43.385811],"type":"Point"}
 }

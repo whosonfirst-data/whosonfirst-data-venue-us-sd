@@ -2,13 +2,14 @@
   "id": 371050705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.82323,44.253455,-98.82323,44.253455",
     "geom:latitude":44.253455,
     "geom:longitude":-98.82323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21607 368th Ave",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371050705,
-    "wof:lastmodified":1449049633,
+    "wof:lastmodified":1467082666,
     "wof:name":"Seed Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "seed"
     ]
 },
-  "bbox": [-98.82323,44.253455,-98.82323,44.253455],
+  "bbox": [
+    -98.82323,
+    44.253455,
+    -98.82323,
+    44.253455
+],
   "geometry": {"coordinates":[-98.82323,44.253455],"type":"Point"}
 }

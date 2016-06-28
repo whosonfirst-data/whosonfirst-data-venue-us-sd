@@ -2,13 +2,14 @@
   "id": 387220433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048251,44.314661,-97.048251,44.314661",
     "geom:latitude":44.314661,
     "geom:longitude":-97.048251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21176 458th Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387220433,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1467082760,
     "wof:name":"Country View Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.048251,44.314661,-97.048251,44.314661],
-  "geometry": {"coordinates":[-97.048251,44.314661],"type":"Point"}
+  "bbox": [
+    -97.048251,
+    44.314661,
+    -97.048251,
+    44.314661
+],
+  "geometry": {"coordinates":[-97.04825099999999,44.314661],"type":"Point"}
 }

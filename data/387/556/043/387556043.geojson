@@ -2,13 +2,14 @@
   "id": 387556043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706493,43.55093,-96.706493,43.55093",
     "geom:latitude":43.55093,
     "geom:longitude":-96.706493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 N Blauvelt Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387556043,
-    "wof:lastmodified":1449057048,
+    "wof:lastmodified":1467082705,
     "wof:name":"D & B Music",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-96.706493,43.55093,-96.706493,43.55093],
-  "geometry": {"coordinates":[-96.706493,43.55093],"type":"Point"}
+  "bbox": [
+    -96.706493,
+    43.55093,
+    -96.706493,
+    43.55093
+],
+  "geometry": {"coordinates":[-96.70649299999999,43.55093],"type":"Point"}
 }

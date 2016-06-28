@@ -2,13 +2,14 @@
   "id": 387767557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773887,43.539902,-96.773887,43.539902",
     "geom:latitude":43.539902,
     "geom:longitude":-96.773887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4121 W Newcomb Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387767557,
-    "wof:lastmodified":1449057185,
+    "wof:lastmodified":1467082708,
     "wof:name":"Meadowbrook Apartments",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.773887,43.539902,-96.773887,43.539902],
+  "bbox": [
+    -96.773887,
+    43.539902,
+    -96.773887,
+    43.539902
+],
   "geometry": {"coordinates":[-96.773887,43.539902],"type":"Point"}
 }

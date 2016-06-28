@@ -2,13 +2,14 @@
   "id": 387129293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691501,43.54594,-96.691501,43.54594",
     "geom:latitude":43.54594,
     "geom:longitude":-96.691501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 S Cleveland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387129293,
-    "wof:lastmodified":1449059184,
+    "wof:lastmodified":1467082748,
     "wof:name":"My Sister Friends House",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "intervention"
     ]
 },
-  "bbox": [-96.691501,43.54594,-96.691501,43.54594],
+  "bbox": [
+    -96.691501,
+    43.54594,
+    -96.691501,
+    43.54594
+],
   "geometry": {"coordinates":[-96.691501,43.54594],"type":"Point"}
 }

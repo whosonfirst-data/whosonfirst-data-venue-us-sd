@@ -2,13 +2,14 @@
   "id": 387878627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.772164,44.354685,-103.772164,44.354685",
     "geom:latitude":44.354685,
     "geom:longitude":-103.772164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Ridge Rd",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387878627,
-    "wof:lastmodified":1449058099,
+    "wof:lastmodified":1467082727,
     "wof:name":"Gerving Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.772164,44.354685,-103.772164,44.354685],
+  "bbox": [
+    -103.772164,
+    44.354685,
+    -103.772164,
+    44.354685
+],
   "geometry": {"coordinates":[-103.772164,44.354685],"type":"Point"}
 }

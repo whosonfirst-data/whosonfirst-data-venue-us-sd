@@ -2,13 +2,14 @@
   "id": 387012039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.670353,43.559221,-96.670353,43.559221",
     "geom:latitude":43.559221,
     "geom:longitude":-96.670353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 N Vail Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387012039,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1467082755,
     "wof:name":"S&L Trucking Inc",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.670353,43.559221,-96.670353,43.559221],
-  "geometry": {"coordinates":[-96.670353,43.559221],"type":"Point"}
+  "bbox": [
+    -96.670353,
+    43.559221,
+    -96.670353,
+    43.559221
+],
+  "geometry": {"coordinates":[-96.67035300000001,43.559221],"type":"Point"}
 }

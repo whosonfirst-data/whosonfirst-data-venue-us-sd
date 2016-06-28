@@ -2,13 +2,14 @@
   "id": 387320275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793015,43.502488,-96.793015,43.502488",
     "geom:latitude":43.502488,
     "geom:longitude":-96.793015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5321 W Summer Creek Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387320275,
-    "wof:lastmodified":1449057066,
+    "wof:lastmodified":1467082706,
     "wof:name":"D&T Dyn",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.793015,43.502488,-96.793015,43.502488],
+  "bbox": [
+    -96.793015,
+    43.502488,
+    -96.793015,
+    43.502488
+],
   "geometry": {"coordinates":[-96.793015,43.502488],"type":"Point"}
 }

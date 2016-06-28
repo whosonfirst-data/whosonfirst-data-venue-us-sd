@@ -2,13 +2,14 @@
   "id": 387036165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219066,44.103085,-103.219066,44.103085",
     "geom:latitude":44.103085,
     "geom:longitude":-103.219066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Knollwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387036165,
-    "wof:lastmodified":1449056958,
+    "wof:lastmodified":1467082703,
     "wof:name":"Telescan Satellite",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-103.219066,44.103085,-103.219066,44.103085],
+  "bbox": [
+    -103.219066,
+    44.103085,
+    -103.219066,
+    44.103085
+],
   "geometry": {"coordinates":[-103.219066,44.103085],"type":"Point"}
 }

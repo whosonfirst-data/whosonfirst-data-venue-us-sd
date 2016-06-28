@@ -2,13 +2,14 @@
   "id": 387841033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.134036,45.078615,-97.134036,45.078615",
     "geom:latitude":45.078615,
     "geom:longitude":-97.134036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45317 159th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387841033,
-    "wof:lastmodified":1449056899,
+    "wof:lastmodified":1467082702,
     "wof:name":"Maag Lynnford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.134036,45.078615,-97.134036,45.078615],
-  "geometry": {"coordinates":[-97.134036,45.078615],"type":"Point"}
+  "bbox": [
+    -97.134036,
+    45.078615,
+    -97.134036,
+    45.078615
+],
+  "geometry": {"coordinates":[-97.13403599999999,45.078615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387794179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.130002,45.031529,-99.130002,45.031529",
     "geom:latitude":45.031529,
     "geom:longitude":-99.130002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 12th Ave",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387794179,
-    "wof:lastmodified":1449057931,
+    "wof:lastmodified":1467082723,
     "wof:name":"Community TV & Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radio"
     ]
 },
-  "bbox": [-99.130002,45.031529,-99.130002,45.031529],
+  "bbox": [
+    -99.130002,
+    45.031529,
+    -99.130002,
+    45.031529
+],
   "geometry": {"coordinates":[-99.130002,45.031529],"type":"Point"}
 }

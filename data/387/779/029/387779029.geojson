@@ -2,13 +2,14 @@
   "id": 387779029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215085,44.104969,-103.215085,44.104969",
     "geom:latitude":44.104969,
     "geom:longitude":-103.215085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Disk Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387779029,
-    "wof:lastmodified":1449056688,
+    "wof:lastmodified":1467082698,
     "wof:name":"Royal Fork Restaurant Corp",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-103.215085,44.104969,-103.215085,44.104969],
+  "bbox": [
+    -103.215085,
+    44.104969,
+    -103.215085,
+    44.104969
+],
   "geometry": {"coordinates":[-103.215085,44.104969],"type":"Point"}
 }

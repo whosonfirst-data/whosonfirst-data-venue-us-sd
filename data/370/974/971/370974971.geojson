@@ -2,13 +2,14 @@
   "id": 370974971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.042034,43.703322,-98.042034,43.703322",
     "geom:latitude":43.703322,
     "geom:longitude":-98.042034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 W Elm St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370974971,
-    "wof:lastmodified":1449032027,
+    "wof:lastmodified":1467082657,
     "wof:name":"Bridal Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bridal"
     ]
 },
-  "bbox": [-98.042034,43.703322,-98.042034,43.703322],
+  "bbox": [
+    -98.042034,
+    43.703322,
+    -98.042034,
+    43.703322
+],
   "geometry": {"coordinates":[-98.042034,43.703322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387098273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.053548,43.832967,-98.053548,43.832967",
     "geom:latitude":43.832967,
     "geom:longitude":-98.053548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40732 245th St",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387098273,
-    "wof:lastmodified":1449059512,
+    "wof:lastmodified":1467082755,
     "wof:name":"Clark Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.053548,43.832967,-98.053548,43.832967],
-  "geometry": {"coordinates":[-98.053548,43.832967],"type":"Point"}
+  "bbox": [
+    -98.053548,
+    43.832967,
+    -98.053548,
+    43.832967
+],
+  "geometry": {"coordinates":[-98.05354800000001,43.832967],"type":"Point"}
 }

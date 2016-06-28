@@ -2,13 +2,14 @@
   "id": 386969849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249704,44.081277,-103.249704,44.081277",
     "geom:latitude":44.081277,
     "geom:longitude":-103.249704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 W Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386969849,
-    "wof:lastmodified":1449028684,
+    "wof:lastmodified":1467082650,
     "wof:name":"Conlin's Furniture",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-103.249704,44.081277,-103.249704,44.081277],
-  "geometry": {"coordinates":[-103.249704,44.081277],"type":"Point"}
+  "bbox": [
+    -103.249704,
+    44.081277,
+    -103.249704,
+    44.081277
+],
+  "geometry": {"coordinates":[-103.24970399999999,44.081277],"type":"Point"}
 }

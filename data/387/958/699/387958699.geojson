@@ -2,13 +2,14 @@
   "id": 387958699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711315,43.544024,-96.711315,43.544024",
     "geom:latitude":43.544024,
     "geom:longitude":-96.711315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387958699,
-    "wof:lastmodified":1449059071,
+    "wof:lastmodified":1467082746,
     "wof:name":"Write Approach",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-96.711315,43.544024,-96.711315,43.544024],
+  "bbox": [
+    -96.711315,
+    43.544024,
+    -96.711315,
+    43.544024
+],
   "geometry": {"coordinates":[-96.711315,43.544024],"type":"Point"}
 }

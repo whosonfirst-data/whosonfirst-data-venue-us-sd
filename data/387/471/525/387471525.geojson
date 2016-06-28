@@ -2,13 +2,14 @@
   "id": 387471525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.717644,45.629435,-99.717644,45.629435",
     "geom:latitude":45.629435,
     "geom:longitude":-99.717644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12157 323rd Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387471525,
-    "wof:lastmodified":1449057636,
+    "wof:lastmodified":1467082717,
     "wof:name":"Tutters Tree Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.717644,45.629435,-99.717644,45.629435],
-  "geometry": {"coordinates":[-99.717644,45.629435],"type":"Point"}
+  "bbox": [
+    -99.717644,
+    45.629435,
+    -99.717644,
+    45.629435
+],
+  "geometry": {"coordinates":[-99.71764400000001,45.629435],"type":"Point"}
 }

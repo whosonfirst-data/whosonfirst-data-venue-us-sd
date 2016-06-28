@@ -2,13 +2,14 @@
   "id": 371019059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856762,43.379388,-99.856762,43.379388",
     "geom:latitude":43.379388,
     "geom:longitude":-99.856762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371019059,
-    "wof:lastmodified":1449049647,
+    "wof:lastmodified":1467082667,
     "wof:name":"Native American Advocacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-99.856762,43.379388,-99.856762,43.379388],
+  "bbox": [
+    -99.856762,
+    43.379388,
+    -99.856762,
+    43.379388
+],
   "geometry": {"coordinates":[-99.856762,43.379388],"type":"Point"}
 }

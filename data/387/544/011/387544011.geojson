@@ -2,13 +2,14 @@
   "id": 387544011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548872,44.387174,-97.548872,44.387174",
     "geom:latitude":44.387174,
     "geom:longitude":-97.548872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Calumet Ave SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387544011,
-    "wof:lastmodified":1449059915,
+    "wof:lastmodified":1467082763,
     "wof:name":"Wheaties Sports Bar & Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "casino"
     ]
 },
-  "bbox": [-97.548872,44.387174,-97.548872,44.387174],
+  "bbox": [
+    -97.548872,
+    44.387174,
+    -97.548872,
+    44.387174
+],
   "geometry": {"coordinates":[-97.548872,44.387174],"type":"Point"}
 }

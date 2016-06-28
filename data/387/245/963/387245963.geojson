@@ -2,13 +2,14 @@
   "id": 387245963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.441124,43.581516,-98.441124,43.581516",
     "geom:latitude":43.581516,
     "geom:longitude":-98.441124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26216 US Hwy 281",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387245963,
-    "wof:lastmodified":1449059792,
+    "wof:lastmodified":1467082760,
     "wof:name":"Steve's Welding & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.441124,43.581516,-98.441124,43.581516],
+  "bbox": [
+    -98.441124,
+    43.581516,
+    -98.441124,
+    43.581516
+],
   "geometry": {"coordinates":[-98.441124,43.581516],"type":"Point"}
 }

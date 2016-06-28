@@ -2,13 +2,14 @@
   "id": 387013619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493784,45.462212,-98.493784,45.462212",
     "geom:latitude":45.462212,
     "geom:longitude":-98.493784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 3rd Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387013619,
-    "wof:lastmodified":1449058681,
+    "wof:lastmodified":1467082738,
     "wof:name":"Ambyance",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.493784,45.462212,-98.493784,45.462212],
-  "geometry": {"coordinates":[-98.493784,45.462212],"type":"Point"}
+  "bbox": [
+    -98.493784,
+    45.462212,
+    -98.493784,
+    45.462212
+],
+  "geometry": {"coordinates":[-98.49378400000001,45.462212],"type":"Point"}
 }

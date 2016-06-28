@@ -2,13 +2,14 @@
   "id": 387213775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.631676,43.572883,-96.631676,43.572883",
     "geom:latitude":43.572883,
     "geom:longitude":-96.631676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 N Six Mile Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387213775,
-    "wof:lastmodified":1449056163,
+    "wof:lastmodified":1467082688,
     "wof:name":"Billy Beck Professional Engr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.631676,43.572883,-96.631676,43.572883],
+  "bbox": [
+    -96.631676,
+    43.572883,
+    -96.631676,
+    43.572883
+],
   "geometry": {"coordinates":[-96.631676,43.572883],"type":"Point"}
 }

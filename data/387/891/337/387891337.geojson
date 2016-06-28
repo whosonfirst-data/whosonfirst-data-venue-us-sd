@@ -2,13 +2,14 @@
   "id": 387891337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.478588,42.903122,-97.478588,42.903122",
     "geom:latitude":42.903122,
     "geom:longitude":-97.478588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 State Hwy 314",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387891337,
-    "wof:lastmodified":1449058397,
+    "wof:lastmodified":1467082733,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.478588,42.903122,-97.478588,42.903122],
+  "bbox": [
+    -97.478588,
+    42.903122,
+    -97.478588,
+    42.903122
+],
   "geometry": {"coordinates":[-97.478588,42.903122],"type":"Point"}
 }

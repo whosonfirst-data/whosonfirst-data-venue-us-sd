@@ -2,13 +2,14 @@
   "id": 387146047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.935984,43.601889,-96.935984,43.601889",
     "geom:latitude":43.601889,
     "geom:longitude":-96.935984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46386 261st St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387146047,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1467082718,
     "wof:name":"Rick Blomberg",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-96.935984,43.601889,-96.935984,43.601889],
+  "bbox": [
+    -96.935984,
+    43.601889,
+    -96.935984,
+    43.601889
+],
   "geometry": {"coordinates":[-96.935984,43.601889],"type":"Point"}
 }

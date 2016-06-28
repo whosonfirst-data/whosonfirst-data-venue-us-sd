@@ -2,13 +2,14 @@
   "id": 403790939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727589,43.525662,-96.727589,43.525662",
     "geom:latitude":43.525662,
     "geom:longitude":-96.727589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403790939,
-    "wof:lastmodified":1449055653,
+    "wof:lastmodified":1467082682,
     "wof:name":"Genelli Fine Photography",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.727589,43.525662,-96.727589,43.525662],
-  "geometry": {"coordinates":[-96.727589,43.525662],"type":"Point"}
+  "bbox": [
+    -96.727589,
+    43.525662,
+    -96.727589,
+    43.525662
+],
+  "geometry": {"coordinates":[-96.72758899999999,43.525662],"type":"Point"}
 }

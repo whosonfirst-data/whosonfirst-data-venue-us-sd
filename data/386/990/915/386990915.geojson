@@ -2,13 +2,14 @@
   "id": 386990915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.644519,45.219894,-96.644519,45.219894",
     "geom:latitude":45.219894,
     "geom:longitude":-96.644519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 W 3rd Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386990915,
-    "wof:lastmodified":1449028833,
+    "wof:lastmodified":1467082653,
     "wof:name":"Lens Motor Tuneup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-96.644519,45.219894,-96.644519,45.219894],
+  "bbox": [
+    -96.644519,
+    45.219894,
+    -96.644519,
+    45.219894
+],
   "geometry": {"coordinates":[-96.644519,45.219894],"type":"Point"}
 }

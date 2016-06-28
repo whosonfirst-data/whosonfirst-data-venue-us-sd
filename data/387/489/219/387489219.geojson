@@ -2,13 +2,14 @@
   "id": 387489219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.457421,45.450655,-98.457421,45.450655",
     "geom:latitude":45.450655,
     "geom:longitude":-98.457421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 13th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387489219,
-    "wof:lastmodified":1449058195,
+    "wof:lastmodified":1467082729,
     "wof:name":"All States Equipment",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dwelling"
     ]
 },
-  "bbox": [-98.457421,45.450655,-98.457421,45.450655],
+  "bbox": [
+    -98.457421,
+    45.450655,
+    -98.457421,
+    45.450655
+],
   "geometry": {"coordinates":[-98.457421,45.450655],"type":"Point"}
 }

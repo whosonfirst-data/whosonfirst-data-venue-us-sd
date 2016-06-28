@@ -2,13 +2,14 @@
   "id": 387610043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.631684,43.579376,-96.631684,43.579376",
     "geom:latitude":43.579376,
     "geom:longitude":-96.631684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 N Six Mile Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387610043,
-    "wof:lastmodified":1449059862,
+    "wof:lastmodified":1467082762,
     "wof:name":"Lacey's Chemical Restrooms",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-96.631684,43.579376,-96.631684,43.579376],
-  "geometry": {"coordinates":[-96.631684,43.579376],"type":"Point"}
+  "bbox": [
+    -96.631684,
+    43.579376,
+    -96.631684,
+    43.579376
+],
+  "geometry": {"coordinates":[-96.63168400000001,43.579376],"type":"Point"}
 }

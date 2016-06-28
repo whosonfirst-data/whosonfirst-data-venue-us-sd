@@ -2,13 +2,14 @@
   "id": 387380287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205345,44.098517,-103.205345,44.098517",
     "geom:latitude":44.098517,
     "geom:longitude":-103.205345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Woodlawn Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387380287,
-    "wof:lastmodified":1449057866,
+    "wof:lastmodified":1467082722,
     "wof:name":"Darin M McIntosh",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.205345,44.098517,-103.205345,44.098517],
-  "geometry": {"coordinates":[-103.205345,44.098517],"type":"Point"}
+  "bbox": [
+    -103.205345,
+    44.098517,
+    -103.205345,
+    44.098517
+],
+  "geometry": {"coordinates":[-103.20534499999999,44.098517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387358549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119817,44.912694,-97.119817,44.912694",
     "geom:latitude":44.912694,
     "geom:longitude":-97.119817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"438 11th Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387358549,
-    "wof:lastmodified":1449057705,
+    "wof:lastmodified":1467082719,
     "wof:name":"Tot Spot Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.119817,44.912694,-97.119817,44.912694],
+  "bbox": [
+    -97.119817,
+    44.912694,
+    -97.119817,
+    44.912694
+],
   "geometry": {"coordinates":[-97.119817,44.912694],"type":"Point"}
 }

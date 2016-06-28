@@ -2,13 +2,14 @@
   "id": 387739405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72103,45.091954,-96.72103,45.091954",
     "geom:latitude":45.091954,
     "geom:longitude":-96.72103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15799 474th Ave",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387739405,
-    "wof:lastmodified":1449057711,
+    "wof:lastmodified":1467082719,
     "wof:name":"Sydney Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.72103,45.091954,-96.72103,45.091954],
+  "bbox": [
+    -96.72103,
+    45.091954,
+    -96.72103,
+    45.091954
+],
   "geometry": {"coordinates":[-96.72103,45.091954],"type":"Point"}
 }

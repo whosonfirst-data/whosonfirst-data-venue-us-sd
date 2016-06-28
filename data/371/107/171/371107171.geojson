@@ -2,13 +2,14 @@
   "id": 371107171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719282,43.526669,-96.719282,43.526669",
     "geom:latitude":43.526669,
     "geom:longitude":-96.719282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 S 5th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371107171,
-    "wof:lastmodified":1449049077,
+    "wof:lastmodified":1467082658,
     "wof:name":"St Mary Holy Spirit School",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.719282,43.526669,-96.719282,43.526669],
-  "geometry": {"coordinates":[-96.719282,43.526669],"type":"Point"}
+  "bbox": [
+    -96.719282,
+    43.526669,
+    -96.719282,
+    43.526669
+],
+  "geometry": {"coordinates":[-96.71928200000001,43.526669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370986315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.073074,44.841581,-100.073074,44.841581",
     "geom:latitude":44.841581,
     "geom:longitude":-100.073074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Oak St",
     "sg:city":"St Francis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370986315,
-    "wof:lastmodified":1449031825,
+    "wof:lastmodified":1467082657,
     "wof:name":"Todd County Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.073074,44.841581,-100.073074,44.841581],
-  "geometry": {"coordinates":[-100.073074,44.841581],"type":"Point"}
+  "bbox": [
+    -100.073074,
+    44.841581,
+    -100.073074,
+    44.841581
+],
+  "geometry": {"coordinates":[-100.07307400000001,44.841581],"type":"Point"}
 }

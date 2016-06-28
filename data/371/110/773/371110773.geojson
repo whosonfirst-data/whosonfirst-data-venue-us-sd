@@ -2,13 +2,14 @@
   "id": 371110773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.058502,43.006155,-98.058502,43.006155",
     "geom:latitude":43.006155,
     "geom:longitude":-98.058502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 State Hwy 50 Alt",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371110773,
-    "wof:lastmodified":1449049347,
+    "wof:lastmodified":1467082662,
     "wof:name":"A-1 Gas & Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.058502,43.006155,-98.058502,43.006155],
+  "bbox": [
+    -98.058502,
+    43.006155,
+    -98.058502,
+    43.006155
+],
   "geometry": {"coordinates":[-98.058502,43.006155],"type":"Point"}
 }

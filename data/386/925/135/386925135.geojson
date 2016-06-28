@@ -2,13 +2,14 @@
   "id": 386925135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928674,45.105691,-96.928674,45.105691",
     "geom:latitude":45.105691,
     "geom:longitude":-96.928674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Main St",
     "sg:city":"South Shore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386925135,
-    "wof:lastmodified":1449028627,
+    "wof:lastmodified":1467082649,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.928674,45.105691,-96.928674,45.105691],
+  "bbox": [
+    -96.928674,
+    45.105691,
+    -96.928674,
+    45.105691
+],
   "geometry": {"coordinates":[-96.928674,45.105691],"type":"Point"}
 }

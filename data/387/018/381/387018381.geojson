@@ -2,13 +2,14 @@
   "id": 387018381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.10993,45.335977,-102.10993,45.335977",
     "geom:latitude":45.335977,
     "geom:longitude":-102.10993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19941 Foster Rd",
     "sg:city":"Meadow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387018381,
-    "wof:lastmodified":1449057999,
+    "wof:lastmodified":1467082725,
     "wof:name":"Iris Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.10993,45.335977,-102.10993,45.335977],
-  "geometry": {"coordinates":[-102.10993,45.335977],"type":"Point"}
+  "bbox": [
+    -102.10993,
+    45.335977,
+    -102.10993,
+    45.335977
+],
+  "geometry": {"coordinates":[-102.10993000000001,45.335977],"type":"Point"}
 }

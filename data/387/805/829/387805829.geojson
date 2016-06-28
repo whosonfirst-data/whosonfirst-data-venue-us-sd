@@ -2,13 +2,14 @@
   "id": 387805829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.284755,45.453613,-100.284755,45.453613",
     "geom:latitude":45.453613,
     "geom:longitude":-100.284755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13391 State Hwy 1804",
     "sg:city":"Glenham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387805829,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1467082712,
     "wof:name":"Emil Perman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.284755,45.453613,-100.284755,45.453613],
+  "bbox": [
+    -100.284755,
+    45.453613,
+    -100.284755,
+    45.453613
+],
   "geometry": {"coordinates":[-100.284755,45.453613],"type":"Point"}
 }

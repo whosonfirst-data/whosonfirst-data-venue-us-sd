@@ -2,13 +2,14 @@
   "id": 371123551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161291,43.250469,-97.161291,43.250469",
     "geom:latitude":43.250469,
     "geom:longitude":-97.161291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28545 452nd Ave",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371123551,
-    "wof:lastmodified":1449049310,
+    "wof:lastmodified":1467082662,
     "wof:name":"Maxine Brunner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.161291,43.250469,-97.161291,43.250469],
-  "geometry": {"coordinates":[-97.161291,43.250469],"type":"Point"}
+  "bbox": [
+    -97.161291,
+    43.250469,
+    -97.161291,
+    43.250469
+],
+  "geometry": {"coordinates":[-97.16129100000001,43.250469],"type":"Point"}
 }

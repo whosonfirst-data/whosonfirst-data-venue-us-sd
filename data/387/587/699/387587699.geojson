@@ -2,13 +2,14 @@
   "id": 387587699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048436,45.665346,-97.048436,45.665346",
     "geom:latitude":45.665346,
     "geom:longitude":-97.048436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 2nd Ave E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387587699,
-    "wof:lastmodified":1449057400,
+    "wof:lastmodified":1467082712,
     "wof:name":"Dakota Plains Legal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.048436,45.665346,-97.048436,45.665346],
+  "bbox": [
+    -97.048436,
+    45.665346,
+    -97.048436,
+    45.665346
+],
   "geometry": {"coordinates":[-97.048436,45.665346],"type":"Point"}
 }

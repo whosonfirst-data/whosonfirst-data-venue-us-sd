@@ -2,13 +2,14 @@
   "id": 387377877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.450359,45.187425,-99.450359,45.187425",
     "geom:latitude":45.187425,
     "geom:longitude":-99.450359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15247 336th Ave",
     "sg:city":"Onaka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387377877,
-    "wof:lastmodified":1449057534,
+    "wof:lastmodified":1467082715,
     "wof:name":"Rausch Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-99.450359,45.187425,-99.450359,45.187425],
-  "geometry": {"coordinates":[-99.450359,45.187425],"type":"Point"}
+  "bbox": [
+    -99.450359,
+    45.187425,
+    -99.450359,
+    45.187425
+],
+  "geometry": {"coordinates":[-99.45035900000001,45.187425],"type":"Point"}
 }

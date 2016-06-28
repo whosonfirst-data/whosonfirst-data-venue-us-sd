@@ -2,13 +2,14 @@
   "id": 387499133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.216496,44.349021,-98.216496,44.349021",
     "geom:latitude":44.349021,
     "geom:longitude":-98.216496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 15th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387499133,
-    "wof:lastmodified":1449056828,
+    "wof:lastmodified":1467082701,
     "wof:name":"Hofers Ag-Air Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "aerial"
     ]
 },
-  "bbox": [-98.216496,44.349021,-98.216496,44.349021],
-  "geometry": {"coordinates":[-98.216496,44.349021],"type":"Point"}
+  "bbox": [
+    -98.216496,
+    44.349021,
+    -98.216496,
+    44.349021
+],
+  "geometry": {"coordinates":[-98.21649600000001,44.349021],"type":"Point"}
 }

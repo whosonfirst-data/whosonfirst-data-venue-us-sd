@@ -2,13 +2,14 @@
   "id": 387035503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.028809,45.444388,-99.028809,45.444388",
     "geom:latitude":45.444388,
     "geom:longitude":-99.028809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 1st Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387035503,
-    "wof:lastmodified":1449059189,
+    "wof:lastmodified":1467082749,
     "wof:name":"Ipswich State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.028809,45.444388,-99.028809,45.444388],
+  "bbox": [
+    -99.028809,
+    45.444388,
+    -99.028809,
+    45.444388
+],
   "geometry": {"coordinates":[-99.028809,45.444388],"type":"Point"}
 }

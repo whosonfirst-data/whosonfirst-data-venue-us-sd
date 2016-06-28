@@ -2,13 +2,14 @@
   "id": 387085575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696119,43.587115,-96.696119,43.587115",
     "geom:latitude":43.587115,
     "geom:longitude":-96.696119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3415 N Potsdam Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387085575,
-    "wof:lastmodified":1449057057,
+    "wof:lastmodified":1467082705,
     "wof:name":"Eagle Design Build LLC",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.696119,43.587115,-96.696119,43.587115],
+  "bbox": [
+    -96.696119,
+    43.587115,
+    -96.696119,
+    43.587115
+],
   "geometry": {"coordinates":[-96.696119,43.587115],"type":"Point"}
 }

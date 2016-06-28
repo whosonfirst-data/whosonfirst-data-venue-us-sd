@@ -2,13 +2,14 @@
   "id": 387209099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229191,44.080459,-103.229191,44.080459",
     "geom:latitude":44.080459,
     "geom:longitude":-103.229191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387209099,
-    "wof:lastmodified":1449059510,
+    "wof:lastmodified":1467082755,
     "wof:name":"Dakota Angler & Outfitter",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [-103.229191,44.080459,-103.229191,44.080459],
+  "bbox": [
+    -103.229191,
+    44.080459,
+    -103.229191,
+    44.080459
+],
   "geometry": {"coordinates":[-103.229191,44.080459],"type":"Point"}
 }

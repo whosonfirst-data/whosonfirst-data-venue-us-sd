@@ -2,13 +2,14 @@
   "id": 387870269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.812138,43.550075,-96.812138,43.550075",
     "geom:latitude":43.550075,
     "geom:longitude":-96.812138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Whitni Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387870269,
-    "wof:lastmodified":1449057103,
+    "wof:lastmodified":1467082706,
     "wof:name":"West Sioux Bookkeeping",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.812138,43.550075,-96.812138,43.550075],
+  "bbox": [
+    -96.812138,
+    43.550075,
+    -96.812138,
+    43.550075
+],
   "geometry": {"coordinates":[-96.812138,43.550075],"type":"Point"}
 }

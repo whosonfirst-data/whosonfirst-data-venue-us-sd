@@ -2,13 +2,14 @@
   "id": 403796911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.618896,45.561782,-98.618896,45.561782",
     "geom:latitude":45.561782,
     "geom:longitude":-98.618896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12621 W Shore Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403796911,
-    "wof:lastmodified":1449055260,
+    "wof:lastmodified":1467082679,
     "wof:name":"Steve Gauer",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-98.618896,45.561782,-98.618896,45.561782],
-  "geometry": {"coordinates":[-98.618896,45.561782],"type":"Point"}
+  "bbox": [
+    -98.618896,
+    45.561782,
+    -98.618896,
+    45.561782
+],
+  "geometry": {"coordinates":[-98.61889600000001,45.561782],"type":"Point"}
 }

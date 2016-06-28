@@ -2,13 +2,14 @@
   "id": 387439251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801019,43.083751,-96.801019,43.083751",
     "geom:latitude":43.083751,
     "geom:longitude":-96.801019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 W Cedar St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387439251,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1467082707,
     "wof:name":"Jet Service Ctr-Exhaust Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.801019,43.083751,-96.801019,43.083751],
+  "bbox": [
+    -96.801019,
+    43.083751,
+    -96.801019,
+    43.083751
+],
   "geometry": {"coordinates":[-96.801019,43.083751],"type":"Point"}
 }

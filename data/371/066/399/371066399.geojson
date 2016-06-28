@@ -2,13 +2,14 @@
   "id": 371066399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.024483,44.9582,-97.024483,44.9582",
     "geom:latitude":44.9582,
     "geom:longitude":-97.024483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16730 459th Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371066399,
-    "wof:lastmodified":1449049308,
+    "wof:lastmodified":1467082662,
     "wof:name":"Ryan Moyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.024483,44.9582,-97.024483,44.9582],
+  "bbox": [
+    -97.024483,
+    44.9582,
+    -97.024483,
+    44.9582
+],
   "geometry": {"coordinates":[-97.024483,44.9582],"type":"Point"}
 }

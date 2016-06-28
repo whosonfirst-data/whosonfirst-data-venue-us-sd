@@ -2,13 +2,14 @@
   "id": 371009615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.848685,43.374511,-99.848685,43.374511",
     "geom:latitude":43.374511,
     "geom:longitude":-99.848685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 E 4th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371009615,
-    "wof:lastmodified":1449050120,
+    "wof:lastmodified":1467082673,
     "wof:name":"International Reading Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.848685,43.374511,-99.848685,43.374511],
+  "bbox": [
+    -99.848685,
+    43.374511,
+    -99.848685,
+    43.374511
+],
   "geometry": {"coordinates":[-99.848685,43.374511],"type":"Point"}
 }

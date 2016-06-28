@@ -2,13 +2,14 @@
   "id": 387021199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.05295,43.054365,-97.05295,43.054365",
     "geom:latitude":43.054365,
     "geom:longitude":-97.05295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45746 299th St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387021199,
-    "wof:lastmodified":1449058505,
+    "wof:lastmodified":1467082735,
     "wof:name":"Ostrem Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.05295,43.054365,-97.05295,43.054365],
+  "bbox": [
+    -97.05295,
+    43.054365,
+    -97.05295,
+    43.054365
+],
   "geometry": {"coordinates":[-97.05295,43.054365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387370127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702788,43.826175,-96.702788,43.826175",
     "geom:latitude":43.826175,
     "geom:longitude":-96.702788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 E 7th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387370127,
-    "wof:lastmodified":1449058189,
+    "wof:lastmodified":1467082729,
     "wof:name":"Interpreter Services",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.702788,43.826175,-96.702788,43.826175],
+  "bbox": [
+    -96.702788,
+    43.826175,
+    -96.702788,
+    43.826175
+],
   "geometry": {"coordinates":[-96.702788,43.826175],"type":"Point"}
 }

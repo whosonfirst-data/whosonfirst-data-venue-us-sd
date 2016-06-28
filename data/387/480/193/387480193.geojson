@@ -2,13 +2,14 @@
   "id": 387480193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.327951,44.151577,-103.327951,44.151577",
     "geom:latitude":44.151577,
     "geom:longitude":-103.327951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 Twin Pines Ln",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387480193,
-    "wof:lastmodified":1449057338,
+    "wof:lastmodified":1467082711,
     "wof:name":"Jack Jensen Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bureau"
     ]
 },
-  "bbox": [-103.327951,44.151577,-103.327951,44.151577],
+  "bbox": [
+    -103.327951,
+    44.151577,
+    -103.327951,
+    44.151577
+],
   "geometry": {"coordinates":[-103.327951,44.151577],"type":"Point"}
 }

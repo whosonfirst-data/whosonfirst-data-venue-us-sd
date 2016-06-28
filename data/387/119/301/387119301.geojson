@@ -2,13 +2,14 @@
   "id": 387119301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986798,43.478361,-97.986798,43.478361",
     "geom:latitude":43.478361,
     "geom:longitude":-97.986798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W 1st St",
     "sg:city":"Dimock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387119301,
-    "wof:lastmodified":1449058827,
+    "wof:lastmodified":1467082741,
     "wof:name":"Doug's Handyman & Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.986798,43.478361,-97.986798,43.478361],
-  "geometry": {"coordinates":[-97.986798,43.478361],"type":"Point"}
+  "bbox": [
+    -97.986798,
+    43.478361,
+    -97.986798,
+    43.478361
+],
+  "geometry": {"coordinates":[-97.98679799999999,43.478361],"type":"Point"}
 }

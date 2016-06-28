@@ -2,13 +2,14 @@
   "id": 386980071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.811081,43.907767,-97.811081,43.907767",
     "geom:latitude":43.907767,
     "geom:longitude":-97.811081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42086 240th St",
     "sg:city":"Fedora",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386980071,
-    "wof:lastmodified":1449028651,
+    "wof:lastmodified":1467082650,
     "wof:name":"Haybuster Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.811081,43.907767,-97.811081,43.907767],
+  "bbox": [
+    -97.811081,
+    43.907767,
+    -97.811081,
+    43.907767
+],
   "geometry": {"coordinates":[-97.811081,43.907767],"type":"Point"}
 }

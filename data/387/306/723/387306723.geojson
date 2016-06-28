@@ -2,13 +2,14 @@
   "id": 387306723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479216,45.471858,-98.479216,45.471858",
     "geom:latitude":45.471858,
     "geom:longitude":-98.479216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 N State St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387306723,
-    "wof:lastmodified":1449059745,
+    "wof:lastmodified":1467082759,
     "wof:name":"Weigel Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.479216,45.471858,-98.479216,45.471858],
-  "geometry": {"coordinates":[-98.479216,45.471858],"type":"Point"}
+  "bbox": [
+    -98.479216,
+    45.471858,
+    -98.479216,
+    45.471858
+],
+  "geometry": {"coordinates":[-98.47921599999999,45.471858],"type":"Point"}
 }

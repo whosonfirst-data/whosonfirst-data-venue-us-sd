@@ -2,13 +2,14 @@
   "id": 387353101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.318393,44.377214,-100.318393,44.377214",
     "geom:latitude":44.377214,
     "geom:longitude":-100.318393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 N Harrison Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387353101,
-    "wof:lastmodified":1449057191,
+    "wof:lastmodified":1467082708,
     "wof:name":"KELO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "co"
     ]
 },
-  "bbox": [-100.318393,44.377214,-100.318393,44.377214],
+  "bbox": [
+    -100.318393,
+    44.377214,
+    -100.318393,
+    44.377214
+],
   "geometry": {"coordinates":[-100.318393,44.377214],"type":"Point"}
 }

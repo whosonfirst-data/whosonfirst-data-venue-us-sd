@@ -2,13 +2,14 @@
   "id": 387197783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685211,43.529377,-96.685211,43.529377",
     "geom:latitude":43.529377,
     "geom:longitude":-96.685211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387197783,
-    "wof:lastmodified":1449059438,
+    "wof:lastmodified":1467082753,
     "wof:name":"Kevin D Horner Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.685211,43.529377,-96.685211,43.529377],
+  "bbox": [
+    -96.685211,
+    43.529377,
+    -96.685211,
+    43.529377
+],
   "geometry": {"coordinates":[-96.685211,43.529377],"type":"Point"}
 }

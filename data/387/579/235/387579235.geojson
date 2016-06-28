@@ -2,13 +2,14 @@
   "id": 387579235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.149192,44.370098,-98.149192,44.370098",
     "geom:latitude":44.370098,
     "geom:longitude":-98.149192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40329 US Hwy 14",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387579235,
-    "wof:lastmodified":1449057309,
+    "wof:lastmodified":1467082710,
     "wof:name":"Pannar Genetics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-98.149192,44.370098,-98.149192,44.370098],
+  "bbox": [
+    -98.149192,
+    44.370098,
+    -98.149192,
+    44.370098
+],
   "geometry": {"coordinates":[-98.149192,44.370098],"type":"Point"}
 }

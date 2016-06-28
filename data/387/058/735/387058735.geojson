@@ -2,13 +2,14 @@
   "id": 387058735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.268898,44.083899,-103.268898,44.083899",
     "geom:latitude":44.083899,
     "geom:longitude":-103.268898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 W Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387058735,
-    "wof:lastmodified":1449056664,
+    "wof:lastmodified":1467082698,
     "wof:name":"Lloyd's Carpet & Furniture",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "carpet"
     ]
 },
-  "bbox": [-103.268898,44.083899,-103.268898,44.083899],
-  "geometry": {"coordinates":[-103.268898,44.083899],"type":"Point"}
+  "bbox": [
+    -103.268898,
+    44.083899,
+    -103.268898,
+    44.083899
+],
+  "geometry": {"coordinates":[-103.26889799999999,44.083899],"type":"Point"}
 }

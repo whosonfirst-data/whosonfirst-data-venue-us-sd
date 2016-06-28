@@ -2,13 +2,14 @@
   "id": 387247875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.617851,45.767105,-99.617851,45.767105",
     "geom:latitude":45.767105,
     "geom:longitude":-99.617851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 J Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387247875,
-    "wof:lastmodified":1449058334,
+    "wof:lastmodified":1467082731,
     "wof:name":"Boschees Spraying Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-99.617851,45.767105,-99.617851,45.767105],
+  "bbox": [
+    -99.617851,
+    45.767105,
+    -99.617851,
+    45.767105
+],
   "geometry": {"coordinates":[-99.617851,45.767105],"type":"Point"}
 }

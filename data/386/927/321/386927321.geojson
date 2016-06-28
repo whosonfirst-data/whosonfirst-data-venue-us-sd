@@ -2,13 +2,14 @@
   "id": 386927321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186494,44.073867,-103.186494,44.073867",
     "geom:latitude":44.073867,
     "geom:longitude":-103.186494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Creek Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386927321,
-    "wof:lastmodified":1449028941,
+    "wof:lastmodified":1467082655,
     "wof:name":"B&B Foundation Services Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "work"
     ]
 },
-  "bbox": [-103.186494,44.073867,-103.186494,44.073867],
+  "bbox": [
+    -103.186494,
+    44.073867,
+    -103.186494,
+    44.073867
+],
   "geometry": {"coordinates":[-103.186494,44.073867],"type":"Point"}
 }

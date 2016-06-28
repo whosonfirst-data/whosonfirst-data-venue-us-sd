@@ -2,13 +2,14 @@
   "id": 387463897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.350969,44.363393,-100.350969,44.363393",
     "geom:latitude":44.363393,
     "geom:longitude":-100.350969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 E Dakota Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387463897,
-    "wof:lastmodified":1449058758,
+    "wof:lastmodified":1467082740,
     "wof:name":"Capitol Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-100.350969,44.363393,-100.350969,44.363393],
-  "geometry": {"coordinates":[-100.350969,44.363393],"type":"Point"}
+  "bbox": [
+    -100.350969,
+    44.363393,
+    -100.350969,
+    44.363393
+],
+  "geometry": {"coordinates":[-100.35096900000001,44.363393],"type":"Point"}
 }

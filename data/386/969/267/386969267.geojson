@@ -2,13 +2,14 @@
   "id": 386969267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.899265,43.382375,-99.899265,43.382375",
     "geom:latitude":43.382375,
     "geom:longitude":-99.899265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31355 US Hwy 18",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386969267,
-    "wof:lastmodified":1449028687,
+    "wof:lastmodified":1467082650,
     "wof:name":"TGI Fridays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "packaged"
     ]
 },
-  "bbox": [-99.899265,43.382375,-99.899265,43.382375],
+  "bbox": [
+    -99.899265,
+    43.382375,
+    -99.899265,
+    43.382375
+],
   "geometry": {"coordinates":[-99.899265,43.382375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387744857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.036419,43.703318,-98.036419,43.703318",
     "geom:latitude":43.703318,
     "geom:longitude":-98.036419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 S Iowa St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387744857,
-    "wof:lastmodified":1449057470,
+    "wof:lastmodified":1467082714,
     "wof:name":"Loren's Auto Unlocking Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-98.036419,43.703318,-98.036419,43.703318],
+  "bbox": [
+    -98.036419,
+    43.703318,
+    -98.036419,
+    43.703318
+],
   "geometry": {"coordinates":[-98.036419,43.703318],"type":"Point"}
 }

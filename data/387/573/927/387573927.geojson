@@ -2,13 +2,14 @@
   "id": 387573927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.586226,43.597905,-96.586226,43.597905",
     "geom:latitude":43.597905,
     "geom:longitude":-96.586226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Meadowlark Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387573927,
-    "wof:lastmodified":1449058914,
+    "wof:lastmodified":1467082743,
     "wof:name":"M & S",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.586226,43.597905,-96.586226,43.597905],
+  "bbox": [
+    -96.586226,
+    43.597905,
+    -96.586226,
+    43.597905
+],
   "geometry": {"coordinates":[-96.586226,43.597905],"type":"Point"}
 }

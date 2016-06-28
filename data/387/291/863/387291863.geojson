@@ -2,13 +2,14 @@
   "id": 387291863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.138971,44.890129,-97.138971,44.890129",
     "geom:latitude":44.890129,
     "geom:longitude":-97.138971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387291863,
-    "wof:lastmodified":1449057271,
+    "wof:lastmodified":1467082710,
     "wof:name":"Kranz Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "space"
     ]
 },
-  "bbox": [-97.138971,44.890129,-97.138971,44.890129],
+  "bbox": [
+    -97.138971,
+    44.890129,
+    -97.138971,
+    44.890129
+],
   "geometry": {"coordinates":[-97.138971,44.890129],"type":"Point"}
 }

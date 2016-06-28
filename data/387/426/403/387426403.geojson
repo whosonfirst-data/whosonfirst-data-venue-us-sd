@@ -2,13 +2,14 @@
   "id": 387426403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106944,44.897442,-97.106944,44.897442",
     "geom:latitude":44.897442,
     "geom:longitude":-97.106944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 5th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387426403,
-    "wof:lastmodified":1449056913,
+    "wof:lastmodified":1467082703,
     "wof:name":"Century 21 Advantage II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.106944,44.897442,-97.106944,44.897442],
+  "bbox": [
+    -97.106944,
+    44.897442,
+    -97.106944,
+    44.897442
+],
   "geometry": {"coordinates":[-97.106944,44.897442],"type":"Point"}
 }

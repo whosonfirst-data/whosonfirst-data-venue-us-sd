@@ -2,13 +2,14 @@
   "id": 371126375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49798,45.152256,-98.49798,45.152256",
     "geom:latitude":45.152256,
     "geom:longitude":-98.49798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 1st St",
     "sg:city":"Mellette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371126375,
-    "wof:lastmodified":1449049402,
+    "wof:lastmodified":1467082663,
     "wof:name":"Craiger Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-98.49798,45.152256,-98.49798,45.152256],
+  "bbox": [
+    -98.49798,
+    45.152256,
+    -98.49798,
+    45.152256
+],
   "geometry": {"coordinates":[-98.49798,45.152256],"type":"Point"}
 }

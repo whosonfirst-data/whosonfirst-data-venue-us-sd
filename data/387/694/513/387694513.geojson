@@ -2,13 +2,14 @@
   "id": 387694513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549355,44.267711,-97.549355,44.267711",
     "geom:latitude":44.267711,
     "geom:longitude":-97.549355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43314 215th St",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387694513,
-    "wof:lastmodified":1449057169,
+    "wof:lastmodified":1467082708,
     "wof:name":"Albrecht & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.549355,44.267711,-97.549355,44.267711],
-  "geometry": {"coordinates":[-97.549355,44.267711],"type":"Point"}
+  "bbox": [
+    -97.549355,
+    44.267711,
+    -97.549355,
+    44.267711
+],
+  "geometry": {"coordinates":[-97.54935500000001,44.267711],"type":"Point"}
 }

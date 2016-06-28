@@ -2,13 +2,14 @@
   "id": 387961489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.44024,44.519824,-99.44024,44.519824",
     "geom:latitude":44.519824,
     "geom:longitude":-99.44024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Commercial Ave SE",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387961489,
-    "wof:lastmodified":1449059847,
+    "wof:lastmodified":1467082761,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.44024,44.519824,-99.44024,44.519824],
+  "bbox": [
+    -99.44024,
+    44.519824,
+    -99.44024,
+    44.519824
+],
   "geometry": {"coordinates":[-99.44024,44.519824],"type":"Point"}
 }

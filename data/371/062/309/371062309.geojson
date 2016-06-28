@@ -2,13 +2,14 @@
   "id": 371062309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.684082,44.36391,-99.684082,44.36391",
     "geom:latitude":44.36391,
     "geom:longitude":-99.684082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20823 324th Ave",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371062309,
-    "wof:lastmodified":1449050081,
+    "wof:lastmodified":1467082672,
     "wof:name":"Dusty Acres Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wheat"
     ]
 },
-  "bbox": [-99.684082,44.36391,-99.684082,44.36391],
+  "bbox": [
+    -99.684082,
+    44.36391,
+    -99.684082,
+    44.36391
+],
   "geometry": {"coordinates":[-99.684082,44.36391],"type":"Point"}
 }

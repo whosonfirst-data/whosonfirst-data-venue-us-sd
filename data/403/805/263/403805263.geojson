@@ -2,13 +2,14 @@
   "id": 403805263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.382635,43.718956,-97.382635,43.718956",
     "geom:latitude":43.718956,
     "geom:longitude":-97.382635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Hill St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403805263,
-    "wof:lastmodified":1449055081,
+    "wof:lastmodified":1467082678,
     "wof:name":"Leisure Living Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.382635,43.718956,-97.382635,43.718956],
-  "geometry": {"coordinates":[-97.382635,43.718956],"type":"Point"}
+  "bbox": [
+    -97.382635,
+    43.718956,
+    -97.382635,
+    43.718956
+],
+  "geometry": {"coordinates":[-97.38263499999999,43.718956],"type":"Point"}
 }

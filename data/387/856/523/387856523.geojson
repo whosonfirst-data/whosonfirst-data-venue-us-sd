@@ -2,13 +2,14 @@
   "id": 387856523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049712,45.661745,-97.049712,45.661745",
     "geom:latitude":45.661745,
     "geom:longitude":-97.049712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Veterans Ave",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387856523,
-    "wof:lastmodified":1449057175,
+    "wof:lastmodified":1467082708,
     "wof:name":"Brooks Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.049712,45.661745,-97.049712,45.661745],
+  "bbox": [
+    -97.049712,
+    45.661745,
+    -97.049712,
+    45.661745
+],
   "geometry": {"coordinates":[-97.049712,45.661745],"type":"Point"}
 }

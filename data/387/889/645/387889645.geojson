@@ -2,13 +2,14 @@
   "id": 387889645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985326,43.546353,-97.985326,43.546353",
     "geom:latitude":43.546353,
     "geom:longitude":-97.985326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Ash St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387889645,
-    "wof:lastmodified":1449056042,
+    "wof:lastmodified":1467082685,
     "wof:name":"Riggs Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.985326,43.546353,-97.985326,43.546353],
+  "bbox": [
+    -97.985326,
+    43.546353,
+    -97.985326,
+    43.546353
+],
   "geometry": {"coordinates":[-97.985326,43.546353],"type":"Point"}
 }

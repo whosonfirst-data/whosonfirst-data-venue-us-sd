@@ -2,13 +2,14 @@
   "id": 371037905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758199,43.540387,-96.758199,43.540387",
     "geom:latitude":43.540387,
     "geom:longitude":-96.758199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 W 15th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371037905,
-    "wof:lastmodified":1449050162,
+    "wof:lastmodified":1467082674,
     "wof:name":"Painters Touch",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.758199,43.540387,-96.758199,43.540387],
+  "bbox": [
+    -96.758199,
+    43.540387,
+    -96.758199,
+    43.540387
+],
   "geometry": {"coordinates":[-96.758199,43.540387],"type":"Point"}
 }

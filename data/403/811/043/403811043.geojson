@@ -2,13 +2,14 @@
   "id": 403811043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.08637,44.916803,-97.08637,44.916803",
     "geom:latitude":44.916803,
     "geom:longitude":-97.08637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1308 19th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403811043,
-    "wof:lastmodified":1449055274,
+    "wof:lastmodified":1467082679,
     "wof:name":"Konstant Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-97.08637,44.916803,-97.08637,44.916803],
+  "bbox": [
+    -97.08637,
+    44.916803,
+    -97.08637,
+    44.916803
+],
   "geometry": {"coordinates":[-97.08637,44.916803],"type":"Point"}
 }

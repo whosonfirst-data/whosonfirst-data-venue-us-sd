@@ -2,13 +2,14 @@
   "id": 387819857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.432342,43.232077,-99.432342,43.232077",
     "geom:latitude":43.232077,
     "geom:longitude":-99.432342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Church Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387819857,
-    "wof:lastmodified":1449057011,
+    "wof:lastmodified":1467082704,
     "wof:name":"Parkis's Busy Beez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.432342,43.232077,-99.432342,43.232077],
-  "geometry": {"coordinates":[-99.432342,43.232077],"type":"Point"}
+  "bbox": [
+    -99.432342,
+    43.232077,
+    -99.432342,
+    43.232077
+],
+  "geometry": {"coordinates":[-99.43234200000001,43.232077],"type":"Point"}
 }

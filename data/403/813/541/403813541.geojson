@@ -2,13 +2,14 @@
   "id": 403813541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.502492,45.456931,-98.502492,45.456931",
     "geom:latitude":45.456931,
     "geom:longitude":-98.502492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 S 10th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403813541,
-    "wof:lastmodified":1449054985,
+    "wof:lastmodified":1467082678,
     "wof:name":"Mc Garry Electric",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.502492,45.456931,-98.502492,45.456931],
+  "bbox": [
+    -98.502492,
+    45.456931,
+    -98.502492,
+    45.456931
+],
   "geometry": {"coordinates":[-98.502492,45.456931],"type":"Point"}
 }

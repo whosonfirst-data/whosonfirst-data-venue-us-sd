@@ -2,13 +2,14 @@
   "id": 387102853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800253,44.31021,-96.800253,44.31021",
     "geom:latitude":44.31021,
     "geom:longitude":-96.800253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 3rd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387102853,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1467082757,
     "wof:name":"Baete-Forseth Hvac LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.800253,44.31021,-96.800253,44.31021],
+  "bbox": [
+    -96.800253,
+    44.31021,
+    -96.800253,
+    44.31021
+],
   "geometry": {"coordinates":[-96.800253,44.31021],"type":"Point"}
 }

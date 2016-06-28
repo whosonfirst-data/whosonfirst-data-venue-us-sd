@@ -2,13 +2,14 @@
   "id": 387894785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.228132,43.586756,-97.228132,43.586756",
     "geom:latitude":43.586756,
     "geom:longitude":-97.228132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44894 262nd St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387894785,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1467082718,
     "wof:name":"Hoffer Ferlyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.228132,43.586756,-97.228132,43.586756],
+  "bbox": [
+    -97.228132,
+    43.586756,
+    -97.228132,
+    43.586756
+],
   "geometry": {"coordinates":[-97.228132,43.586756],"type":"Point"}
 }

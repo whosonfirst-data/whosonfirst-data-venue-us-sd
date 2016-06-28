@@ -2,13 +2,14 @@
   "id": 371189739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711454,43.760555,-96.711454,43.760555",
     "geom:latitude":43.760555,
     "geom:longitude":-96.711454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25007 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371189739,
-    "wof:lastmodified":1449049787,
+    "wof:lastmodified":1467082668,
     "wof:name":"Sheet Metal Workers Local 10",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.711454,43.760555,-96.711454,43.760555],
+  "bbox": [
+    -96.711454,
+    43.760555,
+    -96.711454,
+    43.760555
+],
   "geometry": {"coordinates":[-96.711454,43.760555],"type":"Point"}
 }

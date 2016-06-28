@@ -2,13 +2,14 @@
   "id": 387126707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.170645,44.063242,-103.170645,44.063242",
     "geom:latitude":44.063242,
     "geom:longitude":-103.170645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 Eden Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387126707,
-    "wof:lastmodified":1449057505,
+    "wof:lastmodified":1467082715,
     "wof:name":"Parsons Fossil & Minerals",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-103.170645,44.063242,-103.170645,44.063242],
-  "geometry": {"coordinates":[-103.170645,44.063242],"type":"Point"}
+  "bbox": [
+    -103.170645,
+    44.063242,
+    -103.170645,
+    44.063242
+],
+  "geometry": {"coordinates":[-103.17064499999999,44.063242],"type":"Point"}
 }

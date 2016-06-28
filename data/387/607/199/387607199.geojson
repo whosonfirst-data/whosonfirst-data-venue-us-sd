@@ -2,13 +2,14 @@
   "id": 387607199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.296336,44.150857,-103.296336,44.150857",
     "geom:latitude":44.150857,
     "geom:longitude":-103.296336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6966 Aldren Ln",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387607199,
-    "wof:lastmodified":1449056608,
+    "wof:lastmodified":1467082697,
     "wof:name":"Black Hills Hydro-Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.296336,44.150857,-103.296336,44.150857],
+  "bbox": [
+    -103.296336,
+    44.150857,
+    -103.296336,
+    44.150857
+],
   "geometry": {"coordinates":[-103.296336,44.150857],"type":"Point"}
 }

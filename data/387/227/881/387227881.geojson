@@ -2,13 +2,14 @@
   "id": 387227881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329154,43.812486,-99.329154,43.812486",
     "geom:latitude":43.812486,
     "geom:longitude":-99.329154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Main St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387227881,
-    "wof:lastmodified":1449056939,
+    "wof:lastmodified":1467082703,
     "wof:name":"Chamberlain Home Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.329154,43.812486,-99.329154,43.812486],
+  "bbox": [
+    -99.329154,
+    43.812486,
+    -99.329154,
+    43.812486
+],
   "geometry": {"coordinates":[-99.329154,43.812486],"type":"Point"}
 }

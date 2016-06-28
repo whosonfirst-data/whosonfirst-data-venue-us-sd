@@ -2,13 +2,14 @@
   "id": 403743459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856776,43.3733,-99.856776,43.3733",
     "geom:latitude":43.3733,
     "geom:longitude":-99.856776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Main St",
     "sg:city":"Parmelee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403743459,
-    "wof:lastmodified":1449055951,
+    "wof:lastmodified":1467082684,
     "wof:name":"Kary's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.856776,43.3733,-99.856776,43.3733],
+  "bbox": [
+    -99.856776,
+    43.3733,
+    -99.856776,
+    43.3733
+],
   "geometry": {"coordinates":[-99.856776,43.3733],"type":"Point"}
 }

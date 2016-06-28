@@ -2,13 +2,14 @@
   "id": 387832325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.085824,44.889975,-97.085824,44.889975",
     "geom:latitude":44.889975,
     "geom:longitude":-97.085824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387832325,
-    "wof:lastmodified":1449056130,
+    "wof:lastmodified":1467082687,
     "wof:name":"Expressions Gallery Knit Nook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "se"
     ]
 },
-  "bbox": [-97.085824,44.889975,-97.085824,44.889975],
+  "bbox": [
+    -97.085824,
+    44.889975,
+    -97.085824,
+    44.889975
+],
   "geometry": {"coordinates":[-97.085824,44.889975],"type":"Point"}
 }

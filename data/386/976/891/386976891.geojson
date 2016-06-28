@@ -2,13 +2,14 @@
   "id": 386976891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799633,43.522763,-96.799633,43.522763",
     "geom:latitude":43.522763,
     "geom:longitude":-96.799633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5808 W Karen Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386976891,
-    "wof:lastmodified":1449028755,
+    "wof:lastmodified":1467082651,
     "wof:name":"Quanet Solutions Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-96.799633,43.522763,-96.799633,43.522763],
+  "bbox": [
+    -96.799633,
+    43.522763,
+    -96.799633,
+    43.522763
+],
   "geometry": {"coordinates":[-96.799633,43.522763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387516801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227469,44.079212,-103.227469,44.079212",
     "geom:latitude":44.079212,
     "geom:longitude":-103.227469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 6th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387516801,
-    "wof:lastmodified":1449056828,
+    "wof:lastmodified":1467082701,
     "wof:name":"Roger Frye's Paint & Supply",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-103.227469,44.079212,-103.227469,44.079212],
+  "bbox": [
+    -103.227469,
+    44.079212,
+    -103.227469,
+    44.079212
+],
   "geometry": {"coordinates":[-103.227469,44.079212],"type":"Point"}
 }

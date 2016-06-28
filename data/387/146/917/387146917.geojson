@@ -2,13 +2,14 @@
   "id": 387146917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.2112,45.006926,-97.2112,45.006926",
     "geom:latitude":45.006926,
     "geom:longitude":-97.2112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44916 164th St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387146917,
-    "wof:lastmodified":1449057680,
+    "wof:lastmodified":1467082718,
     "wof:name":"Loren Fleming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.2112,45.006926,-97.2112,45.006926],
-  "geometry": {"coordinates":[-97.2112,45.006926],"type":"Point"}
+  "bbox": [
+    -97.2112,
+    45.006926,
+    -97.2112,
+    45.006926
+],
+  "geometry": {"coordinates":[-97.21120000000001,45.006926],"type":"Point"}
 }

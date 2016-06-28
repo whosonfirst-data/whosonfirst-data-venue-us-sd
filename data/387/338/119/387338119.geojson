@@ -2,13 +2,14 @@
   "id": 387338119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.927765,43.785948,-96.927765,43.785948",
     "geom:latitude":43.785948,
     "geom:longitude":-96.927765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 E 5th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387338119,
-    "wof:lastmodified":1449057413,
+    "wof:lastmodified":1467082713,
     "wof:name":"Colton Lumber Co Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-96.927765,43.785948,-96.927765,43.785948],
-  "geometry": {"coordinates":[-96.927765,43.785948],"type":"Point"}
+  "bbox": [
+    -96.927765,
+    43.785948,
+    -96.927765,
+    43.785948
+],
+  "geometry": {"coordinates":[-96.92776499999999,43.785948],"type":"Point"}
 }

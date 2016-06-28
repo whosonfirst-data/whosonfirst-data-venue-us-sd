@@ -2,13 +2,14 @@
   "id": 371113549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.352394,44.193304,-103.352394,44.193304",
     "geom:latitude":44.193304,
     "geom:longitude":-103.352394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11606 Midland Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371113549,
-    "wof:lastmodified":1449050045,
+    "wof:lastmodified":1467082672,
     "wof:name":"Horizon Landscape & Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-103.352394,44.193304,-103.352394,44.193304],
+  "bbox": [
+    -103.352394,
+    44.193304,
+    -103.352394,
+    44.193304
+],
   "geometry": {"coordinates":[-103.352394,44.193304],"type":"Point"}
 }

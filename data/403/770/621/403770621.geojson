@@ -2,13 +2,14 @@
   "id": 403770621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.869485,43.376629,-99.869485,43.376629",
     "geom:latitude":43.376629,
     "geom:longitude":-99.869485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403770621,
-    "wof:lastmodified":1449056000,
+    "wof:lastmodified":1467082685,
     "wof:name":"Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consignment"
     ]
 },
-  "bbox": [-99.869485,43.376629,-99.869485,43.376629],
+  "bbox": [
+    -99.869485,
+    43.376629,
+    -99.869485,
+    43.376629
+],
   "geometry": {"coordinates":[-99.869485,43.376629],"type":"Point"}
 }

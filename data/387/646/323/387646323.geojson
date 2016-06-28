@@ -2,13 +2,14 @@
   "id": 387646323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.569451,43.645454,-96.569451,43.645454",
     "geom:latitude":43.645454,
     "geom:longitude":-96.569451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48215 258th St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387646323,
-    "wof:lastmodified":1449056021,
+    "wof:lastmodified":1467082685,
     "wof:name":"Split Rock Lutheran Chr",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.569451,43.645454,-96.569451,43.645454],
+  "bbox": [
+    -96.569451,
+    43.645454,
+    -96.569451,
+    43.645454
+],
   "geometry": {"coordinates":[-96.569451,43.645454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387895967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.542869,43.156346,-98.542869,43.156346",
     "geom:latitude":43.156346,
     "geom:longitude":-98.542869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Main St",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387895967,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1467082719,
     "wof:name":"Lake Andes Senior Citizens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-98.542869,43.156346,-98.542869,43.156346],
+  "bbox": [
+    -98.542869,
+    43.156346,
+    -98.542869,
+    43.156346
+],
   "geometry": {"coordinates":[-98.542869,43.156346],"type":"Point"}
 }

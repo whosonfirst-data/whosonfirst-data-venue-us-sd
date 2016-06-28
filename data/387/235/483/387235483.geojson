@@ -2,13 +2,14 @@
   "id": 387235483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793939,43.462673,-96.793939,43.462673",
     "geom:latitude":43.462673,
     "geom:longitude":-96.793939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47065 98th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387235483,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1467082700,
     "wof:name":"Sioux Falls Pack & Ship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packaging"
     ]
 },
-  "bbox": [-96.793939,43.462673,-96.793939,43.462673],
-  "geometry": {"coordinates":[-96.793939,43.462673],"type":"Point"}
+  "bbox": [
+    -96.793939,
+    43.462673,
+    -96.793939,
+    43.462673
+],
+  "geometry": {"coordinates":[-96.79393899999999,43.462673],"type":"Point"}
 }

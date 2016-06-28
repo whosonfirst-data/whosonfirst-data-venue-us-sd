@@ -2,13 +2,14 @@
   "id": 387219633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675026,43.531,-96.675026,43.531",
     "geom:latitude":43.531,
     "geom:longitude":-96.675026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 S Melanie Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387219633,
-    "wof:lastmodified":1449059760,
+    "wof:lastmodified":1467082760,
     "wof:name":"Nicks Self Storage",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "special"
     ]
 },
-  "bbox": [-96.675026,43.531,-96.675026,43.531],
+  "bbox": [
+    -96.675026,
+    43.531,
+    -96.675026,
+    43.531
+],
   "geometry": {"coordinates":[-96.675026,43.531],"type":"Point"}
 }

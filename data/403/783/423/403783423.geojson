@@ -2,13 +2,14 @@
   "id": 403783423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710147,43.533074,-96.710147,43.533074",
     "geom:latitude":43.533074,
     "geom:longitude":-96.710147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 E 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403783423,
-    "wof:lastmodified":1449054663,
+    "wof:lastmodified":1467082674,
     "wof:name":"Kings Inn Barber Shop",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.710147,43.533074,-96.710147,43.533074],
-  "geometry": {"coordinates":[-96.710147,43.533074],"type":"Point"}
+  "bbox": [
+    -96.710147,
+    43.533074,
+    -96.710147,
+    43.533074
+],
+  "geometry": {"coordinates":[-96.71014700000001,43.533074],"type":"Point"}
 }

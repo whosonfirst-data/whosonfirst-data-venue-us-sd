@@ -2,13 +2,14 @@
   "id": 387597405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.51225,45.437721,-98.51225,45.437721",
     "geom:latitude":45.437721,
     "geom:longitude":-98.51225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 5th Curve",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387597405,
-    "wof:lastmodified":1449059872,
+    "wof:lastmodified":1467082762,
     "wof:name":"Sandy Wakely",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"
     ]
 },
-  "bbox": [-98.51225,45.437721,-98.51225,45.437721],
-  "geometry": {"coordinates":[-98.51225,45.437721],"type":"Point"}
+  "bbox": [
+    -98.51225,
+    45.437721,
+    -98.51225,
+    45.437721
+],
+  "geometry": {"coordinates":[-98.51224999999999,45.437721],"type":"Point"}
 }

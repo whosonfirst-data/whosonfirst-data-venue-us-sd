@@ -2,13 +2,14 @@
   "id": 387369671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.336295,44.37122,-100.336295,44.37122",
     "geom:latitude":44.37122,
     "geom:longitude":-100.336295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Capitol Hill Dr",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387369671,
-    "wof:lastmodified":1449059722,
+    "wof:lastmodified":1467082759,
     "wof:name":"Bd Lee Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-100.336295,44.37122,-100.336295,44.37122],
-  "geometry": {"coordinates":[-100.336295,44.37122],"type":"Point"}
+  "bbox": [
+    -100.336295,
+    44.37122,
+    -100.336295,
+    44.37122
+],
+  "geometry": {"coordinates":[-100.33629500000001,44.37122],"type":"Point"}
 }

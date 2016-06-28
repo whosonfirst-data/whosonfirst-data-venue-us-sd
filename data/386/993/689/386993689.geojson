@@ -2,13 +2,14 @@
   "id": 386993689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.566775,44.242901,-96.566775,44.242901",
     "geom:latitude":44.242901,
     "geom:longitude":-96.566775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21670 482nd Ave",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":386993689,
-    "wof:lastmodified":1449028764,
+    "wof:lastmodified":1467082652,
     "wof:name":"George Gebhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.566775,44.242901,-96.566775,44.242901],
-  "geometry": {"coordinates":[-96.566775,44.242901],"type":"Point"}
+  "bbox": [
+    -96.566775,
+    44.242901,
+    -96.566775,
+    44.242901
+],
+  "geometry": {"coordinates":[-96.56677500000001,44.242901],"type":"Point"}
 }

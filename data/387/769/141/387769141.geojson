@@ -2,13 +2,14 @@
   "id": 387769141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.339847,43.405984,-97.339847,43.405984",
     "geom:latitude":43.405984,
     "geom:longitude":-97.339847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27463 443rd Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387769141,
-    "wof:lastmodified":1449057363,
+    "wof:lastmodified":1467082712,
     "wof:name":"James Dick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.339847,43.405984,-97.339847,43.405984],
-  "geometry": {"coordinates":[-97.339847,43.405984],"type":"Point"}
+  "bbox": [
+    -97.339847,
+    43.405984,
+    -97.339847,
+    43.405984
+],
+  "geometry": {"coordinates":[-97.33984700000001,43.405984],"type":"Point"}
 }

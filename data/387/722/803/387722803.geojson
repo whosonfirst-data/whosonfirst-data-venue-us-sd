@@ -2,13 +2,14 @@
   "id": 387722803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.190782,44.082808,-103.190782,44.082808",
     "geom:latitude":44.082808,
     "geom:longitude":-103.190782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 Jess St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387722803,
-    "wof:lastmodified":1449057435,
+    "wof:lastmodified":1467082713,
     "wof:name":"Natural Stone Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "granite"
     ]
 },
-  "bbox": [-103.190782,44.082808,-103.190782,44.082808],
+  "bbox": [
+    -103.190782,
+    44.082808,
+    -103.190782,
+    44.082808
+],
   "geometry": {"coordinates":[-103.190782,44.082808],"type":"Point"}
 }

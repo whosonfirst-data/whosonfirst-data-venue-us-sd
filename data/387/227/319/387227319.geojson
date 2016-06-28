@@ -2,13 +2,14 @@
   "id": 387227319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.090474,44.14762,-98.090474,44.14762",
     "geom:latitude":44.14762,
     "geom:longitude":-98.090474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22310 406th Ave",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387227319,
-    "wof:lastmodified":1449056939,
+    "wof:lastmodified":1467082703,
     "wof:name":"Vernon Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.090474,44.14762,-98.090474,44.14762],
+  "bbox": [
+    -98.090474,
+    44.14762,
+    -98.090474,
+    44.14762
+],
   "geometry": {"coordinates":[-98.090474,44.14762],"type":"Point"}
 }

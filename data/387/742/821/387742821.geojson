@@ -2,13 +2,14 @@
   "id": 387742821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.206995,45.26647,-98.206995,45.26647",
     "geom:latitude":45.26647,
     "geom:longitude":-98.206995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14625 401st Ave",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":387742821,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1467082692,
     "wof:name":"Hutterville Colony School",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "soybean"
     ]
 },
-  "bbox": [-98.206995,45.26647,-98.206995,45.26647],
-  "geometry": {"coordinates":[-98.206995,45.26647],"type":"Point"}
+  "bbox": [
+    -98.206995,
+    45.26647,
+    -98.206995,
+    45.26647
+],
+  "geometry": {"coordinates":[-98.20699500000001,45.26647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371036733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.865258,43.376464,-99.865258,43.376464",
     "geom:latitude":43.376464,
     "geom:longitude":-99.865258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"649 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371036733,
-    "wof:lastmodified":1449049261,
+    "wof:lastmodified":1467082661,
     "wof:name":"Social Service Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-99.865258,43.376464,-99.865258,43.376464],
+  "bbox": [
+    -99.865258,
+    43.376464,
+    -99.865258,
+    43.376464
+],
   "geometry": {"coordinates":[-99.865258,43.376464],"type":"Point"}
 }

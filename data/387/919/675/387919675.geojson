@@ -2,13 +2,14 @@
   "id": 387919675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758729,43.558431,-96.758729,43.558431",
     "geom:latitude":43.558431,
     "geom:longitude":-96.758729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 W Madison St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387919675,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1467082744,
     "wof:name":"Jesus Only Apostolic",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.758729,43.558431,-96.758729,43.558431],
+  "bbox": [
+    -96.758729,
+    43.558431,
+    -96.758729,
+    43.558431
+],
   "geometry": {"coordinates":[-96.758729,43.558431],"type":"Point"}
 }

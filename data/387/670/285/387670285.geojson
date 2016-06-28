@@ -2,13 +2,14 @@
   "id": 387670285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.055017,45.486641,-98.055017,45.486641",
     "geom:latitude":45.486641,
     "geom:longitude":-98.055017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40829 131st St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387670285,
-    "wof:lastmodified":1449056671,
+    "wof:lastmodified":1467082698,
     "wof:name":"Jeffery R Howard",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.055017,45.486641,-98.055017,45.486641],
-  "geometry": {"coordinates":[-98.055017,45.486641],"type":"Point"}
+  "bbox": [
+    -98.055017,
+    45.486641,
+    -98.055017,
+    45.486641
+],
+  "geometry": {"coordinates":[-98.05501700000001,45.486641],"type":"Point"}
 }

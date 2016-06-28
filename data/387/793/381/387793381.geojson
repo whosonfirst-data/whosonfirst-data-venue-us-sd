@@ -2,13 +2,14 @@
   "id": 387793381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.045637,45.667484,-97.045637,45.667484",
     "geom:latitude":45.667484,
     "geom:longitude":-97.045637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Chestnut St E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387793381,
-    "wof:lastmodified":1449058200,
+    "wof:lastmodified":1467082729,
     "wof:name":"Roberts County Health Nurse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-97.045637,45.667484,-97.045637,45.667484],
+  "bbox": [
+    -97.045637,
+    45.667484,
+    -97.045637,
+    45.667484
+],
   "geometry": {"coordinates":[-97.045637,45.667484],"type":"Point"}
 }

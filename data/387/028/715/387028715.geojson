@@ -2,13 +2,14 @@
   "id": 387028715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708765,43.536794,-96.708765,43.536794",
     "geom:latitude":43.536794,
     "geom:longitude":-96.708765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 S Van Eps Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387028715,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1467082728,
     "wof:name":"Rote Electric",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.708765,43.536794,-96.708765,43.536794],
+  "bbox": [
+    -96.708765,
+    43.536794,
+    -96.708765,
+    43.536794
+],
   "geometry": {"coordinates":[-96.708765,43.536794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387688237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.069123,43.05582,-98.069123,43.05582",
     "geom:latitude":43.05582,
     "geom:longitude":-98.069123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29848 406th Ave",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387688237,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1467082715,
     "wof:name":"Mike Hubner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.069123,43.05582,-98.069123,43.05582],
+  "bbox": [
+    -98.069123,
+    43.05582,
+    -98.069123,
+    43.05582
+],
   "geometry": {"coordinates":[-98.069123,43.05582],"type":"Point"}
 }

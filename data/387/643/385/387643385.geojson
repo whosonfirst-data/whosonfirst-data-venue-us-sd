@@ -2,13 +2,14 @@
   "id": 387643385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.760389,43.241964,-97.760389,43.241964",
     "geom:latitude":43.241964,
     "geom:longitude":-97.760389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42168 US Hwy 18",
     "sg:city":"Olivet",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387643385,
-    "wof:lastmodified":1449059418,
+    "wof:lastmodified":1467082753,
     "wof:name":"Keppen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.760389,43.241964,-97.760389,43.241964],
+  "bbox": [
+    -97.760389,
+    43.241964,
+    -97.760389,
+    43.241964
+],
   "geometry": {"coordinates":[-97.760389,43.241964],"type":"Point"}
 }

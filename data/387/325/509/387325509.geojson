@@ -2,13 +2,14 @@
   "id": 387325509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.763247,45.477827,-99.763247,45.477827",
     "geom:latitude":45.477827,
     "geom:longitude":-99.763247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32028 132nd St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387325509,
-    "wof:lastmodified":1449057598,
+    "wof:lastmodified":1467082717,
     "wof:name":"Ernie Mertz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.763247,45.477827,-99.763247,45.477827],
-  "geometry": {"coordinates":[-99.763247,45.477827],"type":"Point"}
+  "bbox": [
+    -99.763247,
+    45.477827,
+    -99.763247,
+    45.477827
+],
+  "geometry": {"coordinates":[-99.76324700000001,45.477827],"type":"Point"}
 }

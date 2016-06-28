@@ -2,13 +2,14 @@
   "id": 403815625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.951263,45.013517,-99.951263,45.013517",
     "geom:latitude":45.013517,
     "geom:longitude":-99.951263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403815625,
-    "wof:lastmodified":1449055280,
+    "wof:lastmodified":1467082680,
     "wof:name":"Tom Fairbanks Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "inspection"
     ]
 },
-  "bbox": [-99.951263,45.013517,-99.951263,45.013517],
+  "bbox": [
+    -99.951263,
+    45.013517,
+    -99.951263,
+    45.013517
+],
   "geometry": {"coordinates":[-99.951263,45.013517],"type":"Point"}
 }

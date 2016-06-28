@@ -2,13 +2,14 @@
   "id": 403759333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.936707,44.517649,-98.936707,44.517649",
     "geom:latitude":44.517649,
     "geom:longitude":-98.936707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 US Hwy 14",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403759333,
-    "wof:lastmodified":1449055992,
+    "wof:lastmodified":1467082685,
     "wof:name":"Hall Oil & Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.936707,44.517649,-98.936707,44.517649],
+  "bbox": [
+    -98.936707,
+    44.517649,
+    -98.936707,
+    44.517649
+],
   "geometry": {"coordinates":[-98.936707,44.517649],"type":"Point"}
 }

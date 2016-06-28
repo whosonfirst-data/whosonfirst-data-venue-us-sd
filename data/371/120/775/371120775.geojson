@@ -2,13 +2,14 @@
   "id": 371120775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.594166,43.767897,-103.594166,43.767897",
     "geom:latitude":43.767897,
     "geom:longitude":-103.594166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371120775,
-    "wof:lastmodified":1449049985,
+    "wof:lastmodified":1467082671,
     "wof:name":"Lynns Dakota Mart Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.594166,43.767897,-103.594166,43.767897],
+  "bbox": [
+    -103.594166,
+    43.767897,
+    -103.594166,
+    43.767897
+],
   "geometry": {"coordinates":[-103.594166,43.767897],"type":"Point"}
 }

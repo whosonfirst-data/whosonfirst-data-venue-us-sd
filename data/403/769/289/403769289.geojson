@@ -2,13 +2,14 @@
   "id": 403769289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.25291,44.060483,-103.25291,44.060483",
     "geom:latitude":44.060483,
     "geom:longitude":-103.25291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Arroyo Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403769289,
-    "wof:lastmodified":1449055074,
+    "wof:lastmodified":1467082678,
     "wof:name":"Weight A Minute",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [-103.25291,44.060483,-103.25291,44.060483],
+  "bbox": [
+    -103.25291,
+    44.060483,
+    -103.25291,
+    44.060483
+],
   "geometry": {"coordinates":[-103.25291,44.060483],"type":"Point"}
 }

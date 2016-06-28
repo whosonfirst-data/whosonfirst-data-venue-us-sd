@@ -2,13 +2,14 @@
   "id": 387626273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101278,42.789868,-97.101278,42.789868",
     "geom:latitude":42.789868,
     "geom:longitude":-97.101278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31725 455th Ave",
     "sg:city":"Meckling",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387626273,
-    "wof:lastmodified":1449059924,
+    "wof:lastmodified":1467082763,
     "wof:name":"D A Olson & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.101278,42.789868,-97.101278,42.789868],
-  "geometry": {"coordinates":[-97.101278,42.789868],"type":"Point"}
+  "bbox": [
+    -97.101278,
+    42.789868,
+    -97.101278,
+    42.789868
+],
+  "geometry": {"coordinates":[-97.10127799999999,42.789868],"type":"Point"}
 }

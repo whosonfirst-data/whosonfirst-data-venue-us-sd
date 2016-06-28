@@ -2,13 +2,14 @@
   "id": 387527515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.337104,45.454238,-99.337104,45.454238",
     "geom:latitude":45.454238,
     "geom:longitude":-99.337104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Andrew St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387527515,
-    "wof:lastmodified":1449059129,
+    "wof:lastmodified":1467082747,
     "wof:name":"Catholic Church Of St Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.337104,45.454238,-99.337104,45.454238],
+  "bbox": [
+    -99.337104,
+    45.454238,
+    -99.337104,
+    45.454238
+],
   "geometry": {"coordinates":[-99.337104,45.454238],"type":"Point"}
 }

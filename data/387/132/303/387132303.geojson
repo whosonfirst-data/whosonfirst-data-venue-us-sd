@@ -2,13 +2,14 @@
   "id": 387132303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80056,45.098511,-96.80056,45.098511",
     "geom:latitude":45.098511,
     "geom:longitude":-96.80056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S 1st St E",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387132303,
-    "wof:lastmodified":1449057960,
+    "wof:lastmodified":1467082724,
     "wof:name":"Oscar Larsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.80056,45.098511,-96.80056,45.098511],
+  "bbox": [
+    -96.80056,
+    45.098511,
+    -96.80056,
+    45.098511
+],
   "geometry": {"coordinates":[-96.80056,45.098511],"type":"Point"}
 }

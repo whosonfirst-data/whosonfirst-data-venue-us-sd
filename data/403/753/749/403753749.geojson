@@ -2,13 +2,14 @@
   "id": 403753749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.957158,43.54336,-96.957158,43.54336",
     "geom:latitude":43.54336,
     "geom:longitude":-96.957158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46260 265th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403753749,
-    "wof:lastmodified":1449054779,
+    "wof:lastmodified":1467082675,
     "wof:name":"Luke Farm",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.957158,43.54336,-96.957158,43.54336],
-  "geometry": {"coordinates":[-96.957158,43.54336],"type":"Point"}
+  "bbox": [
+    -96.957158,
+    43.54336,
+    -96.957158,
+    43.54336
+],
+  "geometry": {"coordinates":[-96.95715800000001,43.54336],"type":"Point"}
 }

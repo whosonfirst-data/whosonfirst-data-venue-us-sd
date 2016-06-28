@@ -2,13 +2,14 @@
   "id": 371128087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.324126,43.809141,-99.324126,43.809141",
     "geom:latitude":43.809141,
     "geom:longitude":-99.324126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Prospect Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371128087,
-    "wof:lastmodified":1449049425,
+    "wof:lastmodified":1467082663,
     "wof:name":"Chamberlain Livestock Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-99.324126,43.809141,-99.324126,43.809141],
-  "geometry": {"coordinates":[-99.324126,43.809141],"type":"Point"}
+  "bbox": [
+    -99.324126,
+    43.809141,
+    -99.324126,
+    43.809141
+],
+  "geometry": {"coordinates":[-99.32412600000001,43.809141],"type":"Point"}
 }

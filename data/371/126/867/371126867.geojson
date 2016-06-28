@@ -2,13 +2,14 @@
   "id": 371126867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.22392,44.06464,-103.22392,44.06464",
     "geom:latitude":44.06464,
     "geom:longitude":-103.22392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 3rd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371126867,
-    "wof:lastmodified":1449049403,
+    "wof:lastmodified":1467082663,
     "wof:name":"Investigative Services Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-103.22392,44.06464,-103.22392,44.06464],
-  "geometry": {"coordinates":[-103.22392,44.06464],"type":"Point"}
+  "bbox": [
+    -103.22392,
+    44.06464,
+    -103.22392,
+    44.06464
+],
+  "geometry": {"coordinates":[-103.22392000000001,44.06464],"type":"Point"}
 }

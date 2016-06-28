@@ -2,13 +2,14 @@
   "id": 387893145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.163728,43.2676,-98.163728,43.2676",
     "geom:latitude":43.2676,
     "geom:longitude":-98.163728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Main St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387893145,
-    "wof:lastmodified":1449059202,
+    "wof:lastmodified":1467082749,
     "wof:name":"City Of Delmont Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.163728,43.2676,-98.163728,43.2676],
-  "geometry": {"coordinates":[-98.163728,43.2676],"type":"Point"}
+  "bbox": [
+    -98.163728,
+    43.2676,
+    -98.163728,
+    43.2676
+],
+  "geometry": {"coordinates":[-98.16372800000001,43.2676],"type":"Point"}
 }

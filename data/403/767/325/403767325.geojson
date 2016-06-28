@@ -2,13 +2,14 @@
   "id": 403767325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.596964,43.074089,-97.596964,43.074089",
     "geom:latitude":43.074089,
     "geom:longitude":-97.596964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29750 430th Ave",
     "sg:city":"Lesterville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403767325,
-    "wof:lastmodified":1449055027,
+    "wof:lastmodified":1467082678,
     "wof:name":"Kenneth Vaith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.596964,43.074089,-97.596964,43.074089],
+  "bbox": [
+    -97.596964,
+    43.074089,
+    -97.596964,
+    43.074089
+],
   "geometry": {"coordinates":[-97.596964,43.074089],"type":"Point"}
 }

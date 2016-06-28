@@ -2,13 +2,14 @@
   "id": 403752181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479268,45.477697,-98.479268,45.477697",
     "geom:latitude":45.477697,
     "geom:longitude":-98.479268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 12th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403752181,
-    "wof:lastmodified":1449054854,
+    "wof:lastmodified":1467082676,
     "wof:name":"Gourneau Construction Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.479268,45.477697,-98.479268,45.477697],
+  "bbox": [
+    -98.479268,
+    45.477697,
+    -98.479268,
+    45.477697
+],
   "geometry": {"coordinates":[-98.479268,45.477697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387242749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763801,43.491019,-96.763801,43.491019",
     "geom:latitude":43.491019,
     "geom:longitude":-96.763801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 W Ralph Rogers Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387242749,
-    "wof:lastmodified":1449059466,
+    "wof:lastmodified":1467082754,
     "wof:name":"Elite Force Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-96.763801,43.491019,-96.763801,43.491019],
+  "bbox": [
+    -96.763801,
+    43.491019,
+    -96.763801,
+    43.491019
+],
   "geometry": {"coordinates":[-96.763801,43.491019],"type":"Point"}
 }

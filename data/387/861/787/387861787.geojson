@@ -2,13 +2,14 @@
   "id": 387861787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724301,43.551143,-96.724301,43.551143",
     "geom:latitude":43.551143,
     "geom:longitude":-96.724301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E 6th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387861787,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1467082763,
     "wof:name":"Raven Industries Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-96.724301,43.551143,-96.724301,43.551143],
+  "bbox": [
+    -96.724301,
+    43.551143,
+    -96.724301,
+    43.551143
+],
   "geometry": {"coordinates":[-96.724301,43.551143],"type":"Point"}
 }

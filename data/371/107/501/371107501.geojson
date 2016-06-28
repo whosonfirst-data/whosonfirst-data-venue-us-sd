@@ -2,13 +2,14 @@
   "id": 371107501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.92917,43.789016,-96.92917,43.789016",
     "geom:latitude":43.789016,
     "geom:longitude":-96.92917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Charles Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371107501,
-    "wof:lastmodified":1449049078,
+    "wof:lastmodified":1467082658,
     "wof:name":"Pat's Repair",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-96.92917,43.789016,-96.92917,43.789016],
+  "bbox": [
+    -96.92917,
+    43.789016,
+    -96.92917,
+    43.789016
+],
   "geometry": {"coordinates":[-96.92917,43.789016],"type":"Point"}
 }

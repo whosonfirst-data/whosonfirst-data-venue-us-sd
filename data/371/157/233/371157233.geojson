@@ -2,13 +2,14 @@
   "id": 371157233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761233,43.548483,-96.761233,43.548483",
     "geom:latitude":43.548483,
     "geom:longitude":-96.761233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371157233,
-    "wof:lastmodified":1449049993,
+    "wof:lastmodified":1467082671,
     "wof:name":"Thunder Road Family Fun Park",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "golf"
     ]
 },
-  "bbox": [-96.761233,43.548483,-96.761233,43.548483],
+  "bbox": [
+    -96.761233,
+    43.548483,
+    -96.761233,
+    43.548483
+],
   "geometry": {"coordinates":[-96.761233,43.548483],"type":"Point"}
 }

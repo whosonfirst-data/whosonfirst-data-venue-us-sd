@@ -2,13 +2,14 @@
   "id": 371150179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671411,43.53189,-96.671411,43.53189",
     "geom:latitude":43.53189,
     "geom:longitude":-96.671411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371150179,
-    "wof:lastmodified":1449049090,
+    "wof:lastmodified":1467082659,
     "wof:name":"Ulteig Engineers Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.671411,43.53189,-96.671411,43.53189],
-  "geometry": {"coordinates":[-96.671411,43.53189],"type":"Point"}
+  "bbox": [
+    -96.671411,
+    43.53189,
+    -96.671411,
+    43.53189
+],
+  "geometry": {"coordinates":[-96.67141100000001,43.53189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371193301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732575,43.519503,-96.732575,43.519503",
     "geom:latitude":43.519503,
     "geom:longitude":-96.732575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 S Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371193301,
-    "wof:lastmodified":1449049205,
+    "wof:lastmodified":1467082660,
     "wof:name":"All Animal Pet Hospital",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.732575,43.519503,-96.732575,43.519503],
+  "bbox": [
+    -96.732575,
+    43.519503,
+    -96.732575,
+    43.519503
+],
   "geometry": {"coordinates":[-96.732575,43.519503],"type":"Point"}
 }

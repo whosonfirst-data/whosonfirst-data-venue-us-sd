@@ -2,13 +2,14 @@
   "id": 387867965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.026283,45.443415,-99.026283,45.443415",
     "geom:latitude":45.443415,
     "geom:longitude":-99.026283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Alma Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387867965,
-    "wof:lastmodified":1449057750,
+    "wof:lastmodified":1467082720,
     "wof:name":"Jones House Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-99.026283,45.443415,-99.026283,45.443415],
-  "geometry": {"coordinates":[-99.026283,45.443415],"type":"Point"}
+  "bbox": [
+    -99.026283,
+    45.443415,
+    -99.026283,
+    45.443415
+],
+  "geometry": {"coordinates":[-99.02628300000001,45.443415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387344275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.257197,44.070518,-103.257197,44.070518",
     "geom:latitude":44.070518,
     "geom:longitude":-103.257197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Mountain View Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387344275,
-    "wof:lastmodified":1449056304,
+    "wof:lastmodified":1467082691,
     "wof:name":"Wyoming Resources Corporation",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "exploration"
     ]
 },
-  "bbox": [-103.257197,44.070518,-103.257197,44.070518],
-  "geometry": {"coordinates":[-103.257197,44.070518],"type":"Point"}
+  "bbox": [
+    -103.257197,
+    44.070518,
+    -103.257197,
+    44.070518
+],
+  "geometry": {"coordinates":[-103.25719700000001,44.070518],"type":"Point"}
 }

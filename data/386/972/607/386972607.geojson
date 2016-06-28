@@ -2,13 +2,14 @@
   "id": 386972607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.544555,44.384281,-97.544555,44.384281",
     "geom:latitude":44.384281,
     "geom:longitude":-97.544555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Olivet Ave SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386972607,
-    "wof:lastmodified":1449028782,
+    "wof:lastmodified":1467082652,
     "wof:name":"Bau Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.544555,44.384281,-97.544555,44.384281],
+  "bbox": [
+    -97.544555,
+    44.384281,
+    -97.544555,
+    44.384281
+],
   "geometry": {"coordinates":[-97.544555,44.384281],"type":"Point"}
 }

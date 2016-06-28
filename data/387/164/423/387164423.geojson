@@ -2,13 +2,14 @@
   "id": 387164423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.151574,44.554415,-98.151574,44.554415",
     "geom:latitude":44.554415,
     "geom:longitude":-98.151574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40340 S Shore Rd",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387164423,
-    "wof:lastmodified":1449056561,
+    "wof:lastmodified":1467082696,
     "wof:name":"Ford Investment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.151574,44.554415,-98.151574,44.554415],
+  "bbox": [
+    -98.151574,
+    44.554415,
+    -98.151574,
+    44.554415
+],
   "geometry": {"coordinates":[-98.151574,44.554415],"type":"Point"}
 }

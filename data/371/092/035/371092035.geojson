@@ -2,13 +2,14 @@
   "id": 371092035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.392126,45.434731,-98.392126,45.434731",
     "geom:latitude":45.434731,
     "geom:longitude":-98.392126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13466 392nd Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371092035,
-    "wof:lastmodified":1449049906,
+    "wof:lastmodified":1467082670,
     "wof:name":"Rileys Backhoe & Bobcat Svcs",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.392126,45.434731,-98.392126,45.434731],
+  "bbox": [
+    -98.392126,
+    45.434731,
+    -98.392126,
+    45.434731
+],
   "geometry": {"coordinates":[-98.392126,45.434731],"type":"Point"}
 }

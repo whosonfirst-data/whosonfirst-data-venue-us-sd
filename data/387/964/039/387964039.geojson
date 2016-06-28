@@ -2,13 +2,14 @@
   "id": 387964039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706326,43.584129,-96.706326,43.584129",
     "geom:latitude":43.584129,
     "geom:longitude":-96.706326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 N National Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387964039,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1467082744,
     "wof:name":"Sioux Falls Fence & Deck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.706326,43.584129,-96.706326,43.584129],
+  "bbox": [
+    -96.706326,
+    43.584129,
+    -96.706326,
+    43.584129
+],
   "geometry": {"coordinates":[-96.706326,43.584129],"type":"Point"}
 }

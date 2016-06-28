@@ -2,13 +2,14 @@
   "id": 387732939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.565693,43.599237,-96.565693,43.599237",
     "geom:latitude":43.599237,
     "geom:longitude":-96.565693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 N Oak Ridge Rd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387732939,
-    "wof:lastmodified":1449060032,
+    "wof:lastmodified":1467082765,
     "wof:name":"Hidden Valley Golf Course",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-96.565693,43.599237,-96.565693,43.599237],
+  "bbox": [
+    -96.565693,
+    43.599237,
+    -96.565693,
+    43.599237
+],
   "geometry": {"coordinates":[-96.565693,43.599237],"type":"Point"}
 }

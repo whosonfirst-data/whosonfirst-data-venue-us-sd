@@ -2,13 +2,14 @@
   "id": 387131109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482006,45.466825,-98.482006,45.466825",
     "geom:latitude":45.466825,
     "geom:longitude":-98.482006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 1st Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387131109,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1467082709,
     "wof:name":"Best Carpet Cleaning",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.482006,45.466825,-98.482006,45.466825],
+  "bbox": [
+    -98.482006,
+    45.466825,
+    -98.482006,
+    45.466825
+],
   "geometry": {"coordinates":[-98.482006,45.466825],"type":"Point"}
 }

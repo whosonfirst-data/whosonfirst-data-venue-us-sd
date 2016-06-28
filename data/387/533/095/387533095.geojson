@@ -2,13 +2,14 @@
   "id": 387533095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.069113,45.830383,-100.069113,45.830383",
     "geom:latitude":45.830383,
     "geom:longitude":-100.069113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main St",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387533095,
-    "wof:lastmodified":1449056070,
+    "wof:lastmodified":1467082686,
     "wof:name":"Herreid Sporting Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowmobile"
     ]
 },
-  "bbox": [-100.069113,45.830383,-100.069113,45.830383],
+  "bbox": [
+    -100.069113,
+    45.830383,
+    -100.069113,
+    45.830383
+],
   "geometry": {"coordinates":[-100.069113,45.830383],"type":"Point"}
 }

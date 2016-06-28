@@ -2,13 +2,14 @@
   "id": 403755987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.289585,44.352159,-100.289585,44.352159",
     "geom:latitude":44.352159,
     "geom:longitude":-100.289585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4125 State Hwy 34",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403755987,
-    "wof:lastmodified":1449055015,
+    "wof:lastmodified":1467082678,
     "wof:name":"Pierre City of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [-100.289585,44.352159,-100.289585,44.352159],
+  "bbox": [
+    -100.289585,
+    44.352159,
+    -100.289585,
+    44.352159
+],
   "geometry": {"coordinates":[-100.289585,44.352159],"type":"Point"}
 }

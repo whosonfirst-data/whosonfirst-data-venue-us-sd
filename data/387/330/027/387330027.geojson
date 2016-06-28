@@ -2,13 +2,14 @@
   "id": 387330027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.35867,43.288081,-97.35867,43.288081",
     "geom:latitude":43.288081,
     "geom:longitude":-97.35867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28278 442nd Ave",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387330027,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1467082725,
     "wof:name":"Ridgeview Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-97.35867,43.288081,-97.35867,43.288081],
+  "bbox": [
+    -97.35867,
+    43.288081,
+    -97.35867,
+    43.288081
+],
   "geometry": {"coordinates":[-97.35867,43.288081],"type":"Point"}
 }

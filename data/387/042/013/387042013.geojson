@@ -2,13 +2,14 @@
   "id": 387042013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671559,43.543676,-96.671559,43.543676",
     "geom:latitude":43.543676,
     "geom:longitude":-96.671559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387042013,
-    "wof:lastmodified":1449058994,
+    "wof:lastmodified":1467082745,
     "wof:name":"Clean Finish Car Wash",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.671559,43.543676,-96.671559,43.543676],
+  "bbox": [
+    -96.671559,
+    43.543676,
+    -96.671559,
+    43.543676
+],
   "geometry": {"coordinates":[-96.671559,43.543676],"type":"Point"}
 }

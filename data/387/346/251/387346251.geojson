@@ -2,13 +2,14 @@
   "id": 387346251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926784,44.323477,-96.926784,44.323477",
     "geom:latitude":44.323477,
     "geom:longitude":-96.926784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387346251,
-    "wof:lastmodified":1449056092,
+    "wof:lastmodified":1467082686,
     "wof:name":"Eidsness Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-96.926784,44.323477,-96.926784,44.323477],
+  "bbox": [
+    -96.926784,
+    44.323477,
+    -96.926784,
+    44.323477
+],
   "geometry": {"coordinates":[-96.926784,44.323477],"type":"Point"}
 }

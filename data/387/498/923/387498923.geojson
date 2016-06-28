@@ -2,13 +2,14 @@
   "id": 387498923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712171,43.519666,-96.712171,43.519666",
     "geom:latitude":43.519666,
     "geom:longitude":-96.712171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 S Arcadia Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387498923,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1467082745,
     "wof:name":"Matz Painting & Wallcovering",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painting"
     ]
 },
-  "bbox": [-96.712171,43.519666,-96.712171,43.519666],
+  "bbox": [
+    -96.712171,
+    43.519666,
+    -96.712171,
+    43.519666
+],
   "geometry": {"coordinates":[-96.712171,43.519666],"type":"Point"}
 }

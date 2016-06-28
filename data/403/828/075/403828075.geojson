@@ -2,13 +2,14 @@
   "id": 403828075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768198,44.269942,-96.768198,44.269942",
     "geom:latitude":44.269942,
     "geom:longitude":-96.768198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":403828075,
-    "wof:lastmodified":1449055326,
+    "wof:lastmodified":1467082680,
     "wof:name":"Bowes Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "road"
     ]
 },
-  "bbox": [-96.768198,44.269942,-96.768198,44.269942],
+  "bbox": [
+    -96.768198,
+    44.269942,
+    -96.768198,
+    44.269942
+],
   "geometry": {"coordinates":[-96.768198,44.269942],"type":"Point"}
 }

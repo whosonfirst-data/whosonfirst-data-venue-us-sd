@@ -2,13 +2,14 @@
   "id": 387329663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.765524,44.352144,-103.765524,44.352144",
     "geom:latitude":44.352144,
     "geom:longitude":-103.765524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 US Hwy 14 Alt",
     "sg:city":"Central City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387329663,
-    "wof:lastmodified":1449057160,
+    "wof:lastmodified":1467082707,
     "wof:name":"Fresh Start Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.765524,44.352144,-103.765524,44.352144],
+  "bbox": [
+    -103.765524,
+    44.352144,
+    -103.765524,
+    44.352144
+],
   "geometry": {"coordinates":[-103.765524,44.352144],"type":"Point"}
 }

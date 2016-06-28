@@ -2,13 +2,14 @@
   "id": 387620225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.652946,43.474968,-96.652946,43.474968",
     "geom:latitude":43.474968,
     "geom:longitude":-96.652946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26989 S Elmen Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387620225,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1467082756,
     "wof:name":"A & P Construction & Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.652946,43.474968,-96.652946,43.474968],
+  "bbox": [
+    -96.652946,
+    43.474968,
+    -96.652946,
+    43.474968
+],
   "geometry": {"coordinates":[-96.652946,43.474968],"type":"Point"}
 }

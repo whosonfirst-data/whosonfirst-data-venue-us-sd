@@ -2,13 +2,14 @@
   "id": 387543881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.061444,43.007439,-98.061444,43.007439",
     "geom:latitude":43.007439,
     "geom:longitude":-98.061444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Hickory St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387543881,
-    "wof:lastmodified":1449056842,
+    "wof:lastmodified":1467082701,
     "wof:name":"First Baptist Church Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-98.061444,43.007439,-98.061444,43.007439],
-  "geometry": {"coordinates":[-98.061444,43.007439],"type":"Point"}
+  "bbox": [
+    -98.061444,
+    43.007439,
+    -98.061444,
+    43.007439
+],
+  "geometry": {"coordinates":[-98.06144399999999,43.007439],"type":"Point"}
 }

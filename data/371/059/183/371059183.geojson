@@ -2,13 +2,14 @@
   "id": 371059183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.036202,45.303388,-97.036202,45.303388",
     "geom:latitude":45.303388,
     "geom:longitude":-97.036202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Maple St",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371059183,
-    "wof:lastmodified":1449049295,
+    "wof:lastmodified":1467082661,
     "wof:name":"Summit Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-97.036202,45.303388,-97.036202,45.303388],
+  "bbox": [
+    -97.036202,
+    45.303388,
+    -97.036202,
+    45.303388
+],
   "geometry": {"coordinates":[-97.036202,45.303388],"type":"Point"}
 }

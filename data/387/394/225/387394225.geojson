@@ -2,13 +2,14 @@
   "id": 387394225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.489466,43.199448,-96.489466,43.199448",
     "geom:latitude":43.199448,
     "geom:longitude":-96.489466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48611 289th St",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387394225,
-    "wof:lastmodified":1449056836,
+    "wof:lastmodified":1467082701,
     "wof:name":"Dennis Boote",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.489466,43.199448,-96.489466,43.199448],
-  "geometry": {"coordinates":[-96.489466,43.199448],"type":"Point"}
+  "bbox": [
+    -96.489466,
+    43.199448,
+    -96.489466,
+    43.199448
+],
+  "geometry": {"coordinates":[-96.48946599999999,43.199448],"type":"Point"}
 }

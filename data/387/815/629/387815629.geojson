@@ -2,13 +2,14 @@
   "id": 387815629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.027829,45.448907,-99.027829,45.448907",
     "geom:latitude":45.448907,
     "geom:longitude":-99.027829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Tolstoy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387815629,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1467082724,
     "wof:name":"Martin & Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-99.027829,45.448907,-99.027829,45.448907],
+  "bbox": [
+    -99.027829,
+    45.448907,
+    -99.027829,
+    45.448907
+],
   "geometry": {"coordinates":[-99.027829,45.448907],"type":"Point"}
 }

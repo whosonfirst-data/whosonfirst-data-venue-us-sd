@@ -2,13 +2,14 @@
   "id": 371153659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20381,44.087486,-103.20381,44.087486",
     "geom:latitude":44.087486,
     "geom:longitude":-103.20381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371153659,
-    "wof:lastmodified":1449049773,
+    "wof:lastmodified":1467082668,
     "wof:name":"Jolly Lane Floral Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.20381,44.087486,-103.20381,44.087486],
+  "bbox": [
+    -103.20381,
+    44.087486,
+    -103.20381,
+    44.087486
+],
   "geometry": {"coordinates":[-103.20381,44.087486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386954861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.608564,43.566381,-96.608564,43.566381",
     "geom:latitude":43.566381,
     "geom:longitude":-96.608564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 N Oak Ridge Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386954861,
-    "wof:lastmodified":1449028926,
+    "wof:lastmodified":1467082654,
     "wof:name":"Schultz Quarter Horses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.608564,43.566381,-96.608564,43.566381],
+  "bbox": [
+    -96.608564,
+    43.566381,
+    -96.608564,
+    43.566381
+],
   "geometry": {"coordinates":[-96.608564,43.566381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387955941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430912,43.230939,-99.430912,43.230939",
     "geom:latitude":43.230939,
     "geom:longitude":-99.430912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Main St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387955941,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1467082740,
     "wof:name":"Gregory Day Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.430912,43.230939,-99.430912,43.230939],
-  "geometry": {"coordinates":[-99.430912,43.230939],"type":"Point"}
+  "bbox": [
+    -99.430912,
+    43.230939,
+    -99.430912,
+    43.230939
+],
+  "geometry": {"coordinates":[-99.43091200000001,43.230939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387950173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.895378,42.854289,-97.895378,42.854289",
     "geom:latitude":42.854289,
     "geom:longitude":-97.895378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 8th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387950173,
-    "wof:lastmodified":1449057586,
+    "wof:lastmodified":1467082716,
     "wof:name":"J & J Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.895378,42.854289,-97.895378,42.854289],
-  "geometry": {"coordinates":[-97.895378,42.854289],"type":"Point"}
+  "bbox": [
+    -97.895378,
+    42.854289,
+    -97.895378,
+    42.854289
+],
+  "geometry": {"coordinates":[-97.89537799999999,42.854289],"type":"Point"}
 }

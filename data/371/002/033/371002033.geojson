@@ -2,13 +2,14 @@
   "id": 371002033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.1097,43.952736,-98.1097,43.952736",
     "geom:latitude":43.952736,
     "geom:longitude":-98.1097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40510 237th St",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371002033,
-    "wof:lastmodified":1449049916,
+    "wof:lastmodified":1467082670,
     "wof:name":"Bill Zoss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.1097,43.952736,-98.1097,43.952736],
+  "bbox": [
+    -98.1097,
+    43.952736,
+    -98.1097,
+    43.952736
+],
   "geometry": {"coordinates":[-98.1097,43.952736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387608627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549617,44.384685,-97.549617,44.384685",
     "geom:latitude":44.384685,
     "geom:longitude":-97.549617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Calumet Ave SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387608627,
-    "wof:lastmodified":1449057737,
+    "wof:lastmodified":1467082719,
     "wof:name":"De Smet Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-97.549617,44.384685,-97.549617,44.384685],
+  "bbox": [
+    -97.549617,
+    44.384685,
+    -97.549617,
+    44.384685
+],
   "geometry": {"coordinates":[-97.549617,44.384685],"type":"Point"}
 }

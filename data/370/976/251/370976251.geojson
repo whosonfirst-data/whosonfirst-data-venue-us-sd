@@ -2,13 +2,14 @@
   "id": 370976251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205818,44.084534,-103.205818,44.084534",
     "geom:latitude":44.084534,
     "geom:longitude":-103.205818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Waterloo St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370976251,
-    "wof:lastmodified":1449030484,
+    "wof:lastmodified":1467082656,
     "wof:name":"Roosevelt Park Ice Arena",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rink"
     ]
 },
-  "bbox": [-103.205818,44.084534,-103.205818,44.084534],
-  "geometry": {"coordinates":[-103.205818,44.084534],"type":"Point"}
+  "bbox": [
+    -103.205818,
+    44.084534,
+    -103.205818,
+    44.084534
+],
+  "geometry": {"coordinates":[-103.20581799999999,44.084534],"type":"Point"}
 }

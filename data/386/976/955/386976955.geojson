@@ -2,13 +2,14 @@
   "id": 386976955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683392,43.518798,-96.683392,43.518798",
     "geom:latitude":43.518798,
     "geom:longitude":-96.683392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 S Cortland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386976955,
-    "wof:lastmodified":1449028757,
+    "wof:lastmodified":1467082651,
     "wof:name":"Matco Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.683392,43.518798,-96.683392,43.518798],
+  "bbox": [
+    -96.683392,
+    43.518798,
+    -96.683392,
+    43.518798
+],
   "geometry": {"coordinates":[-96.683392,43.518798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371187697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.600542,43.766798,-103.600542,43.766798",
     "geom:latitude":43.766798,
     "geom:longitude":-103.600542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 US Hwy 16",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371187697,
-    "wof:lastmodified":1449049188,
+    "wof:lastmodified":1467082660,
     "wof:name":"Heritage Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.600542,43.766798,-103.600542,43.766798],
+  "bbox": [
+    -103.600542,
+    43.766798,
+    -103.600542,
+    43.766798
+],
   "geometry": {"coordinates":[-103.600542,43.766798],"type":"Point"}
 }

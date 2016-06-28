@@ -2,13 +2,14 @@
   "id": 371087277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.286382,43.081537,-98.286382,43.081537",
     "geom:latitude":43.081537,
     "geom:longitude":-98.286382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 E Hwy 50",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371087277,
-    "wof:lastmodified":1449049485,
+    "wof:lastmodified":1467082664,
     "wof:name":"South Central Zenith High Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.286382,43.081537,-98.286382,43.081537],
+  "bbox": [
+    -98.286382,
+    43.081537,
+    -98.286382,
+    43.081537
+],
   "geometry": {"coordinates":[-98.286382,43.081537],"type":"Point"}
 }

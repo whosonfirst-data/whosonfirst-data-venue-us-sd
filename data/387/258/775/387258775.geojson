@@ -2,13 +2,14 @@
   "id": 387258775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.503784,45.456942,-98.503784,45.456942",
     "geom:latitude":45.456942,
     "geom:longitude":-98.503784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S 11th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387258775,
-    "wof:lastmodified":1449059134,
+    "wof:lastmodified":1467082747,
     "wof:name":"Ed Psyc Consulting",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-98.503784,45.456942,-98.503784,45.456942],
+  "bbox": [
+    -98.503784,
+    45.456942,
+    -98.503784,
+    45.456942
+],
   "geometry": {"coordinates":[-98.503784,45.456942],"type":"Point"}
 }

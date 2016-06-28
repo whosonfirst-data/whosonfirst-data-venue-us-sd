@@ -2,13 +2,14 @@
   "id": 387764051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101062,44.911767,-97.101062,44.911767",
     "geom:latitude":44.911767,
     "geom:longitude":-97.101062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 8th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387764051,
-    "wof:lastmodified":1449059741,
+    "wof:lastmodified":1467082759,
     "wof:name":"Costello Compliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.101062,44.911767,-97.101062,44.911767],
+  "bbox": [
+    -97.101062,
+    44.911767,
+    -97.101062,
+    44.911767
+],
   "geometry": {"coordinates":[-97.101062,44.911767],"type":"Point"}
 }

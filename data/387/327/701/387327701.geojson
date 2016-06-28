@@ -2,13 +2,14 @@
   "id": 387327701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509053,44.414396,-103.509053,44.414396",
     "geom:latitude":44.414396,
     "geom:longitude":-103.509053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387327701,
-    "wof:lastmodified":1449056398,
+    "wof:lastmodified":1467082692,
     "wof:name":"NAPA Autoparts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.509053,44.414396,-103.509053,44.414396],
-  "geometry": {"coordinates":[-103.509053,44.414396],"type":"Point"}
+  "bbox": [
+    -103.509053,
+    44.414396,
+    -103.509053,
+    44.414396
+],
+  "geometry": {"coordinates":[-103.50905299999999,44.414396],"type":"Point"}
 }

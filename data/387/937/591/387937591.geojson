@@ -2,13 +2,14 @@
   "id": 387937591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.470985,43.732194,-96.470985,43.732194",
     "geom:latitude":43.732194,
     "geom:longitude":-96.470985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48672 252nd St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387937591,
-    "wof:lastmodified":1449056822,
+    "wof:lastmodified":1467082701,
     "wof:name":"Wesley Julson",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.470985,43.732194,-96.470985,43.732194],
+  "bbox": [
+    -96.470985,
+    43.732194,
+    -96.470985,
+    43.732194
+],
   "geometry": {"coordinates":[-96.470985,43.732194],"type":"Point"}
 }

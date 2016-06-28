@@ -2,13 +2,14 @@
   "id": 387150169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781152,44.311503,-96.781152,44.311503",
     "geom:latitude":44.311503,
     "geom:longitude":-96.781152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387150169,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1467082688,
     "wof:name":"Cafe Ruby & The Bake Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-96.781152,44.311503,-96.781152,44.311503],
-  "geometry": {"coordinates":[-96.781152,44.311503],"type":"Point"}
+  "bbox": [
+    -96.781152,
+    44.311503,
+    -96.781152,
+    44.311503
+],
+  "geometry": {"coordinates":[-96.78115200000001,44.311503],"type":"Point"}
 }

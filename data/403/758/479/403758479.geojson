@@ -2,13 +2,14 @@
   "id": 403758479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.86072,45.408664,-96.86072,45.408664",
     "geom:latitude":45.408664,
     "geom:longitude":-96.86072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 2nd St",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403758479,
-    "wof:lastmodified":1449055046,
+    "wof:lastmodified":1467082678,
     "wof:name":"Barbershop & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.86072,45.408664,-96.86072,45.408664],
+  "bbox": [
+    -96.86072,
+    45.408664,
+    -96.86072,
+    45.408664
+],
   "geometry": {"coordinates":[-96.86072,45.408664],"type":"Point"}
 }

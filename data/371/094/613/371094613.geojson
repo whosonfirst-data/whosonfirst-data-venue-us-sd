@@ -2,13 +2,14 @@
   "id": 371094613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731125,43.513866,-96.731125,43.513866",
     "geom:latitude":43.513866,
     "geom:longitude":-96.731125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 W 42nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371094613,
-    "wof:lastmodified":1449049699,
+    "wof:lastmodified":1467082667,
     "wof:name":"Brotherhood of Maintnc Way Emp",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.731125,43.513866,-96.731125,43.513866],
-  "geometry": {"coordinates":[-96.731125,43.513866],"type":"Point"}
+  "bbox": [
+    -96.731125,
+    43.513866,
+    -96.731125,
+    43.513866
+],
+  "geometry": {"coordinates":[-96.73112500000001,43.513866],"type":"Point"}
 }

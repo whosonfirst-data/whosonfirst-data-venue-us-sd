@@ -2,13 +2,14 @@
   "id": 387254161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118138,44.913788,-97.118138,44.913788",
     "geom:latitude":44.913788,
     "geom:longitude":-97.118138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 3rd St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387254161,
-    "wof:lastmodified":1449058724,
+    "wof:lastmodified":1467082739,
     "wof:name":"Dakotah Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.118138,44.913788,-97.118138,44.913788],
+  "bbox": [
+    -97.118138,
+    44.913788,
+    -97.118138,
+    44.913788
+],
   "geometry": {"coordinates":[-97.118138,44.913788],"type":"Point"}
 }

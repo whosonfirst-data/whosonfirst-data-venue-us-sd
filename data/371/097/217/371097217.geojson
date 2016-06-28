@@ -2,13 +2,14 @@
   "id": 371097217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.280953,43.243486,-97.280953,43.243486",
     "geom:latitude":43.243486,
     "geom:longitude":-97.280953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44579 US Hwy 18",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371097217,
-    "wof:lastmodified":1449049436,
+    "wof:lastmodified":1467082664,
     "wof:name":"Eisenbeis Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.280953,43.243486,-97.280953,43.243486],
+  "bbox": [
+    -97.280953,
+    43.243486,
+    -97.280953,
+    43.243486
+],
   "geometry": {"coordinates":[-97.280953,43.243486],"type":"Point"}
 }

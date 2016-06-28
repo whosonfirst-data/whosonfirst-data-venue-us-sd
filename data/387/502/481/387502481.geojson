@@ -2,13 +2,14 @@
   "id": 387502481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.818102,44.483467,-99.818102,44.483467",
     "geom:latitude":44.483467,
     "geom:longitude":-99.818102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31717 200th St",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387502481,
-    "wof:lastmodified":1449057847,
+    "wof:lastmodified":1467082722,
     "wof:name":"Jones Farm Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "parts"
     ]
 },
-  "bbox": [-99.818102,44.483467,-99.818102,44.483467],
+  "bbox": [
+    -99.818102,
+    44.483467,
+    -99.818102,
+    44.483467
+],
   "geometry": {"coordinates":[-99.818102,44.483467],"type":"Point"}
 }

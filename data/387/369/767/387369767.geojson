@@ -2,13 +2,14 @@
   "id": 387369767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.107985,44.807439,-97.107985,44.807439",
     "geom:latitude":44.807439,
     "geom:longitude":-97.107985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17773 US Hwy 81",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387369767,
-    "wof:lastmodified":1449059722,
+    "wof:lastmodified":1467082759,
     "wof:name":"James Zerfas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.107985,44.807439,-97.107985,44.807439],
+  "bbox": [
+    -97.107985,
+    44.807439,
+    -97.107985,
+    44.807439
+],
   "geometry": {"coordinates":[-97.107985,44.807439],"type":"Point"}
 }

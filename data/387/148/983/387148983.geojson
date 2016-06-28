@@ -2,13 +2,14 @@
   "id": 387148983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.356643,44.884874,-98.356643,44.884874",
     "geom:latitude":44.884874,
     "geom:longitude":-98.356643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17268 Fishers Ln",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387148983,
-    "wof:lastmodified":1449059333,
+    "wof:lastmodified":1467082751,
     "wof:name":"Fisher Grove State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "park"
     ]
 },
-  "bbox": [-98.356643,44.884874,-98.356643,44.884874],
-  "geometry": {"coordinates":[-98.356643,44.884874],"type":"Point"}
+  "bbox": [
+    -98.356643,
+    44.884874,
+    -98.356643,
+    44.884874
+],
+  "geometry": {"coordinates":[-98.35664300000001,44.884874],"type":"Point"}
 }

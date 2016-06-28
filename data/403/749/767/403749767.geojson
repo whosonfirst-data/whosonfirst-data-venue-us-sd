@@ -2,13 +2,14 @@
   "id": 403749767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230845,44.033084,-103.230845,44.033084",
     "geom:latitude":44.033084,
     "geom:longitude":-103.230845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Enchantment Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403749767,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1467082678,
     "wof:name":"Lynch & Lynch",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.230845,44.033084,-103.230845,44.033084],
+  "bbox": [
+    -103.230845,
+    44.033084,
+    -103.230845,
+    44.033084
+],
   "geometry": {"coordinates":[-103.230845,44.033084],"type":"Point"}
 }

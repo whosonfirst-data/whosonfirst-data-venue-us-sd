@@ -2,13 +2,14 @@
   "id": 387841219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703328,43.510639,-96.703328,43.510639",
     "geom:latitude":43.510639,
     "geom:longitude":-96.703328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E Edgewood Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387841219,
-    "wof:lastmodified":1449056902,
+    "wof:lastmodified":1467082702,
     "wof:name":"Advanced Reporting",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "reporter"
     ]
 },
-  "bbox": [-96.703328,43.510639,-96.703328,43.510639],
+  "bbox": [
+    -96.703328,
+    43.510639,
+    -96.703328,
+    43.510639
+],
   "geometry": {"coordinates":[-96.703328,43.510639],"type":"Point"}
 }

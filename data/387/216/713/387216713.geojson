@@ -2,13 +2,14 @@
   "id": 387216713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715097,43.532128,-96.715097,43.532128",
     "geom:latitude":43.532128,
     "geom:longitude":-96.715097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 E 23rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387216713,
-    "wof:lastmodified":1449059486,
+    "wof:lastmodified":1467082754,
     "wof:name":"Benson Gail M MD",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.715097,43.532128,-96.715097,43.532128],
+  "bbox": [
+    -96.715097,
+    43.532128,
+    -96.715097,
+    43.532128
+],
   "geometry": {"coordinates":[-96.715097,43.532128],"type":"Point"}
 }

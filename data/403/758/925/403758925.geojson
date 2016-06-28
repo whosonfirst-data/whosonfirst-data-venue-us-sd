@@ -2,13 +2,14 @@
   "id": 403758925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684776,42.686155,-96.684776,42.686155",
     "geom:latitude":42.686155,
     "geom:longitude":-96.684776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Main St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403758925,
-    "wof:lastmodified":1449055041,
+    "wof:lastmodified":1467082678,
     "wof:name":"Developers & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.684776,42.686155,-96.684776,42.686155],
+  "bbox": [
+    -96.684776,
+    42.686155,
+    -96.684776,
+    42.686155
+],
   "geometry": {"coordinates":[-96.684776,42.686155],"type":"Point"}
 }

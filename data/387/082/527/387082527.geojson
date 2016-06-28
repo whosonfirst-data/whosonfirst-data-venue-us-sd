@@ -2,13 +2,14 @@
   "id": 387082527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.904623,44.484371,-97.904623,44.484371",
     "geom:latitude":44.484371,
     "geom:longitude":-97.904623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41540 200th St",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387082527,
-    "wof:lastmodified":1449056218,
+    "wof:lastmodified":1467082689,
     "wof:name":"Fast Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.904623,44.484371,-97.904623,44.484371],
+  "bbox": [
+    -97.904623,
+    44.484371,
+    -97.904623,
+    44.484371
+],
   "geometry": {"coordinates":[-97.904623,44.484371],"type":"Point"}
 }

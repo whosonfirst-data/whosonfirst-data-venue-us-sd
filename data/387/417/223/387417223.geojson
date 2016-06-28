@@ -2,13 +2,14 @@
   "id": 387417223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.718834,44.12931,-99.718834,44.12931",
     "geom:latitude":44.12931,
     "geom:longitude":-99.718834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22429 Valley Rd",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387417223,
-    "wof:lastmodified":1449057660,
+    "wof:lastmodified":1467082718,
     "wof:name":"Arthur Gregg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.718834,44.12931,-99.718834,44.12931],
+  "bbox": [
+    -99.718834,
+    44.12931,
+    -99.718834,
+    44.12931
+],
   "geometry": {"coordinates":[-99.718834,44.12931],"type":"Point"}
 }

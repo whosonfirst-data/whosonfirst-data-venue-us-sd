@@ -2,13 +2,14 @@
   "id": 387174413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.430852,44.099893,-103.430852,44.099893",
     "geom:latitude":44.099893,
     "geom:longitude":-103.430852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22820 Wild Irishman Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387174413,
-    "wof:lastmodified":1449056621,
+    "wof:lastmodified":1467082697,
     "wof:name":"Ahaha Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-103.430852,44.099893,-103.430852,44.099893],
+  "bbox": [
+    -103.430852,
+    44.099893,
+    -103.430852,
+    44.099893
+],
   "geometry": {"coordinates":[-103.430852,44.099893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387339919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13514,43.399618,-97.13514,43.399618",
     "geom:latitude":43.399618,
     "geom:longitude":-97.13514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 N Poplar Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387339919,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1467082721,
     "wof:name":"Jensen Ag Lines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.13514,43.399618,-97.13514,43.399618],
-  "geometry": {"coordinates":[-97.13514,43.399618],"type":"Point"}
+  "bbox": [
+    -97.13514,
+    43.399618,
+    -97.13514,
+    43.399618
+],
+  "geometry": {"coordinates":[-97.13514000000001,43.399618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387310903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12702,44.003924,-97.12702,44.003924",
     "geom:latitude":44.003924,
     "geom:longitude":-97.12702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 SW 1st St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387310903,
-    "wof:lastmodified":1449058444,
+    "wof:lastmodified":1467082734,
     "wof:name":"Persona Inc/Madison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.12702,44.003924,-97.12702,44.003924],
+  "bbox": [
+    -97.12702,
+    44.003924,
+    -97.12702,
+    44.003924
+],
   "geometry": {"coordinates":[-97.12702,44.003924],"type":"Point"}
 }

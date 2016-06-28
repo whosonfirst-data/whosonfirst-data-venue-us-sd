@@ -2,13 +2,14 @@
   "id": 371073113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.300681,43.079008,-98.300681,43.079008",
     "geom:latitude":43.079008,
     "geom:longitude":-98.300681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Birch Ave SW",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371073113,
-    "wof:lastmodified":1449049167,
+    "wof:lastmodified":1467082660,
     "wof:name":"Bow Tie Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.300681,43.079008,-98.300681,43.079008],
+  "bbox": [
+    -98.300681,
+    43.079008,
+    -98.300681,
+    43.079008
+],
   "geometry": {"coordinates":[-98.300681,43.079008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387883337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671435,43.514631,-96.671435,43.514631",
     "geom:latitude":43.514631,
     "geom:longitude":-96.671435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387883337,
-    "wof:lastmodified":1449059014,
+    "wof:lastmodified":1467082745,
     "wof:name":"Great Western Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.671435,43.514631,-96.671435,43.514631],
+  "bbox": [
+    -96.671435,
+    43.514631,
+    -96.671435,
+    43.514631
+],
   "geometry": {"coordinates":[-96.671435,43.514631],"type":"Point"}
 }

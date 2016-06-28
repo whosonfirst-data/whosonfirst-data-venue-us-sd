@@ -2,13 +2,14 @@
   "id": 387543171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70384,43.585975,-96.70384,43.585975",
     "geom:latitude":43.585975,
     "geom:longitude":-96.70384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 N Casco Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387543171,
-    "wof:lastmodified":1449056845,
+    "wof:lastmodified":1467082701,
     "wof:name":"Sports Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "printing"
     ]
 },
-  "bbox": [-96.70384,43.585975,-96.70384,43.585975],
+  "bbox": [
+    -96.70384,
+    43.585975,
+    -96.70384,
+    43.585975
+],
   "geometry": {"coordinates":[-96.70384,43.585975],"type":"Point"}
 }

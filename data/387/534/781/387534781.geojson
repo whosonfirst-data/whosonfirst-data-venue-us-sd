@@ -2,13 +2,14 @@
   "id": 387534781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.231905,44.111755,-103.231905,44.111755",
     "geom:latitude":44.111755,
     "geom:longitude":-103.231905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Bunker Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387534781,
-    "wof:lastmodified":1449057089,
+    "wof:lastmodified":1467082706,
     "wof:name":"Greens Trucking Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.231905,44.111755,-103.231905,44.111755],
+  "bbox": [
+    -103.231905,
+    44.111755,
+    -103.231905,
+    44.111755
+],
   "geometry": {"coordinates":[-103.231905,44.111755],"type":"Point"}
 }

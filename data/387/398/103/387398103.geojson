@@ -2,13 +2,14 @@
   "id": 387398103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.886669,45.5044,-99.886669,45.5044",
     "geom:latitude":45.5044,
     "geom:longitude":-99.886669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 Main St",
     "sg:city":"Java",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387398103,
-    "wof:lastmodified":1449056415,
+    "wof:lastmodified":1467082693,
     "wof:name":"Audrey's Java Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.886669,45.5044,-99.886669,45.5044],
+  "bbox": [
+    -99.886669,
+    45.5044,
+    -99.886669,
+    45.5044
+],
   "geometry": {"coordinates":[-99.886669,45.5044],"type":"Point"}
 }

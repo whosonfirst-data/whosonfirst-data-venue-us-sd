@@ -2,13 +2,14 @@
   "id": 387418705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.432509,43.231225,-99.432509,43.231225",
     "geom:latitude":43.231225,
     "geom:longitude":-99.432509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 W 5th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387418705,
-    "wof:lastmodified":1449059091,
+    "wof:lastmodified":1467082747,
     "wof:name":"K V C X-FM Radio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rad"
     ]
 },
-  "bbox": [-99.432509,43.231225,-99.432509,43.231225],
+  "bbox": [
+    -99.432509,
+    43.231225,
+    -99.432509,
+    43.231225
+],
   "geometry": {"coordinates":[-99.432509,43.231225],"type":"Point"}
 }

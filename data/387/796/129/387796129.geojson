@@ -2,13 +2,14 @@
   "id": 387796129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.013337,43.696844,-98.013337,43.696844",
     "geom:latitude":43.696844,
     "geom:longitude":-98.013337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Kay Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387796129,
-    "wof:lastmodified":1449057898,
+    "wof:lastmodified":1467082723,
     "wof:name":"Bonanza Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.013337,43.696844,-98.013337,43.696844],
-  "geometry": {"coordinates":[-98.013337,43.696844],"type":"Point"}
+  "bbox": [
+    -98.013337,
+    43.696844,
+    -98.013337,
+    43.696844
+],
+  "geometry": {"coordinates":[-98.01333700000001,43.696844],"type":"Point"}
 }

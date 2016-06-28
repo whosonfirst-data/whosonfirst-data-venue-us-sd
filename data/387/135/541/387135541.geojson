@@ -2,13 +2,14 @@
   "id": 387135541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593539,44.054899,-96.593539,44.054899",
     "geom:latitude":44.054899,
     "geom:longitude":-96.593539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N Crescent St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387135541,
-    "wof:lastmodified":1449057564,
+    "wof:lastmodified":1467082716,
     "wof:name":"Flandreau Indian High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-96.593539,44.054899,-96.593539,44.054899],
-  "geometry": {"coordinates":[-96.593539,44.054899],"type":"Point"}
+  "bbox": [
+    -96.593539,
+    44.054899,
+    -96.593539,
+    44.054899
+],
+  "geometry": {"coordinates":[-96.59353900000001,44.054899],"type":"Point"}
 }

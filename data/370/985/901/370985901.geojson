@@ -2,13 +2,14 @@
   "id": 370985901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793265,44.315613,-96.793265,44.315613",
     "geom:latitude":44.315613,
     "geom:longitude":-96.793265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 9th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370985901,
-    "wof:lastmodified":1449030761,
+    "wof:lastmodified":1467082656,
     "wof:name":"Pioneer Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.793265,44.315613,-96.793265,44.315613],
-  "geometry": {"coordinates":[-96.793265,44.315613],"type":"Point"}
+  "bbox": [
+    -96.793265,
+    44.315613,
+    -96.793265,
+    44.315613
+],
+  "geometry": {"coordinates":[-96.79326500000001,44.315613],"type":"Point"}
 }

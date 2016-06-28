@@ -2,13 +2,14 @@
   "id": 387930199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.2323,44.076392,-103.2323,44.076392",
     "geom:latitude":44.076392,
     "geom:longitude":-103.2323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387930199,
-    "wof:lastmodified":1449057312,
+    "wof:lastmodified":1467082711,
     "wof:name":"Prince & Pauper Book Shop",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-103.2323,44.076392,-103.2323,44.076392],
+  "bbox": [
+    -103.2323,
+    44.076392,
+    -103.2323,
+    44.076392
+],
   "geometry": {"coordinates":[-103.2323,44.076392],"type":"Point"}
 }

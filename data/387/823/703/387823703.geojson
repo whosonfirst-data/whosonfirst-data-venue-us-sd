@@ -2,13 +2,14 @@
   "id": 387823703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.347421,44.361101,-100.347421,44.361101",
     "geom:latitude":44.361101,
     "geom:longitude":-100.347421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 S Crow St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387823703,
-    "wof:lastmodified":1449059886,
+    "wof:lastmodified":1467082762,
     "wof:name":"St Benedicts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-100.347421,44.361101,-100.347421,44.361101],
+  "bbox": [
+    -100.347421,
+    44.361101,
+    -100.347421,
+    44.361101
+],
   "geometry": {"coordinates":[-100.347421,44.361101],"type":"Point"}
 }

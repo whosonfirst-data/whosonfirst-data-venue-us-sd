@@ -2,13 +2,14 @@
   "id": 387969249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.757473,43.558514,-96.757473,43.558514",
     "geom:latitude":43.558514,
     "geom:longitude":-96.757473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 W Madison St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387969249,
-    "wof:lastmodified":1449057015,
+    "wof:lastmodified":1467082705,
     "wof:name":"Susie's Something For Everyone",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.757473,43.558514,-96.757473,43.558514],
+  "bbox": [
+    -96.757473,
+    43.558514,
+    -96.757473,
+    43.558514
+],
   "geometry": {"coordinates":[-96.757473,43.558514],"type":"Point"}
 }

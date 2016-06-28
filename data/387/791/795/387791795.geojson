@@ -2,13 +2,14 @@
   "id": 387791795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214135,44.316595,-98.214135,44.316595",
     "geom:latitude":44.316595,
     "geom:longitude":-98.214135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5659 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387791795,
-    "wof:lastmodified":1449059025,
+    "wof:lastmodified":1467082745,
     "wof:name":"East River Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "greenhouse"
     ]
 },
-  "bbox": [-98.214135,44.316595,-98.214135,44.316595],
+  "bbox": [
+    -98.214135,
+    44.316595,
+    -98.214135,
+    44.316595
+],
   "geometry": {"coordinates":[-98.214135,44.316595],"type":"Point"}
 }

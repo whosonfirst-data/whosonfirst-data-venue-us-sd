@@ -2,13 +2,14 @@
   "id": 403758763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.777283,45.243796,-99.777283,45.243796",
     "geom:latitude":45.243796,
     "geom:longitude":-99.777283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Main St",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403758763,
-    "wof:lastmodified":1449055046,
+    "wof:lastmodified":1467082678,
     "wof:name":"Lefty's Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.777283,45.243796,-99.777283,45.243796],
+  "bbox": [
+    -99.777283,
+    45.243796,
+    -99.777283,
+    45.243796
+],
   "geometry": {"coordinates":[-99.777283,45.243796],"type":"Point"}
 }

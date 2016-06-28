@@ -2,13 +2,14 @@
   "id": 387876387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.960795,43.7466,-98.960795,43.7466",
     "geom:latitude":43.7466,
     "geom:longitude":-98.960795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W 2nd St",
     "sg:city":"Kimball",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387876387,
-    "wof:lastmodified":1449056870,
+    "wof:lastmodified":1467082702,
     "wof:name":"Honey Pot Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.960795,43.7466,-98.960795,43.7466],
+  "bbox": [
+    -98.960795,
+    43.7466,
+    -98.960795,
+    43.7466
+],
   "geometry": {"coordinates":[-98.960795,43.7466],"type":"Point"}
 }

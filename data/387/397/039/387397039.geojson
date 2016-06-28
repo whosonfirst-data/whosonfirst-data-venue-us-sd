@@ -2,13 +2,14 @@
   "id": 387397039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767794,43.575463,-96.767794,43.575463",
     "geom:latitude":43.575463,
     "geom:longitude":-96.767794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 W Sencore Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387397039,
-    "wof:lastmodified":1449057626,
+    "wof:lastmodified":1467082717,
     "wof:name":"Clubhouse LLC",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-96.767794,43.575463,-96.767794,43.575463],
-  "geometry": {"coordinates":[-96.767794,43.575463],"type":"Point"}
+  "bbox": [
+    -96.767794,
+    43.575463,
+    -96.767794,
+    43.575463
+],
+  "geometry": {"coordinates":[-96.76779399999999,43.575463],"type":"Point"}
 }

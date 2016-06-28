@@ -2,13 +2,14 @@
   "id": 387371335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.891686,43.355668,-96.891686,43.355668",
     "geom:latitude":43.355668,
     "geom:longitude":-96.891686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Main St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387371335,
-    "wof:lastmodified":1449059063,
+    "wof:lastmodified":1467082746,
     "wof:name":"Reclaiming Youth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.891686,43.355668,-96.891686,43.355668],
-  "geometry": {"coordinates":[-96.891686,43.355668],"type":"Point"}
+  "bbox": [
+    -96.891686,
+    43.355668,
+    -96.891686,
+    43.355668
+],
+  "geometry": {"coordinates":[-96.89168600000001,43.355668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387308917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.903241,44.209436,-97.903241,44.209436",
     "geom:latitude":44.209436,
     "geom:longitude":-97.903241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41542 219th St",
     "sg:city":"Iroquois",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387308917,
-    "wof:lastmodified":1449060019,
+    "wof:lastmodified":1467082765,
     "wof:name":"Mark Larson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-97.903241,44.209436,-97.903241,44.209436],
-  "geometry": {"coordinates":[-97.903241,44.209436],"type":"Point"}
+  "bbox": [
+    -97.903241,
+    44.209436,
+    -97.903241,
+    44.209436
+],
+  "geometry": {"coordinates":[-97.90324099999999,44.209436],"type":"Point"}
 }

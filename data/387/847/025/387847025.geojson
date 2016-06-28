@@ -2,13 +2,14 @@
   "id": 387847025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.069374,43.15414,-98.069374,43.15414",
     "geom:latitude":43.15414,
     "geom:longitude":-98.069374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29167 406th Ave",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387847025,
-    "wof:lastmodified":1449057481,
+    "wof:lastmodified":1467082714,
     "wof:name":"Keith Frey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.069374,43.15414,-98.069374,43.15414],
+  "bbox": [
+    -98.069374,
+    43.15414,
+    -98.069374,
+    43.15414
+],
   "geometry": {"coordinates":[-98.069374,43.15414],"type":"Point"}
 }

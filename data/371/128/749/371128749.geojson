@@ -2,13 +2,14 @@
   "id": 371128749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.468154,44.87807,-97.468154,44.87807",
     "geom:latitude":44.87807,
     "geom:longitude":-97.468154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main St",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371128749,
-    "wof:lastmodified":1449049425,
+    "wof:lastmodified":1467082663,
     "wof:name":"Henry Steakhouse & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.468154,44.87807,-97.468154,44.87807],
+  "bbox": [
+    -97.468154,
+    44.87807,
+    -97.468154,
+    44.87807
+],
   "geometry": {"coordinates":[-97.468154,44.87807],"type":"Point"}
 }

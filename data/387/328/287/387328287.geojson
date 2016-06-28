@@ -2,13 +2,14 @@
   "id": 387328287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.408715,43.423637,-98.408715,43.423637",
     "geom:latitude":43.423637,
     "geom:longitude":-98.408715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387328287,
-    "wof:lastmodified":1449058345,
+    "wof:lastmodified":1467082732,
     "wof:name":"Corsica Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-98.408715,43.423637,-98.408715,43.423637],
+  "bbox": [
+    -98.408715,
+    43.423637,
+    -98.408715,
+    43.423637
+],
   "geometry": {"coordinates":[-98.408715,43.423637],"type":"Point"}
 }

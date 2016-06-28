@@ -2,13 +2,14 @@
   "id": 387815563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048635,45.660162,-97.048635,45.660162",
     "geom:latitude":45.660162,
     "geom:longitude":-97.048635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Hickory St E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387815563,
-    "wof:lastmodified":1449057945,
+    "wof:lastmodified":1467082724,
     "wof:name":"Sisseton Radiator Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "general"
     ]
 },
-  "bbox": [-97.048635,45.660162,-97.048635,45.660162],
+  "bbox": [
+    -97.048635,
+    45.660162,
+    -97.048635,
+    45.660162
+],
   "geometry": {"coordinates":[-97.048635,45.660162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387010657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775499,43.819102,-96.775499,43.819102",
     "geom:latitude":43.819102,
     "geom:longitude":-96.775499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47178 246th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387010657,
-    "wof:lastmodified":1449058480,
+    "wof:lastmodified":1467082734,
     "wof:name":"Jll Express",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.775499,43.819102,-96.775499,43.819102],
+  "bbox": [
+    -96.775499,
+    43.819102,
+    -96.775499,
+    43.819102
+],
   "geometry": {"coordinates":[-96.775499,43.819102],"type":"Point"}
 }

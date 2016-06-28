@@ -2,13 +2,14 @@
   "id": 370981619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.22716,44.080217,-103.22716,44.080217",
     "geom:latitude":44.080217,
     "geom:longitude":-103.22716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 6th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370981619,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1467082658,
     "wof:name":"Storyteller Comics & Games",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-103.22716,44.080217,-103.22716,44.080217],
+  "bbox": [
+    -103.22716,
+    44.080217,
+    -103.22716,
+    44.080217
+],
   "geometry": {"coordinates":[-103.22716,44.080217],"type":"Point"}
 }

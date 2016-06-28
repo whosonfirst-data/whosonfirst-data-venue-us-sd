@@ -2,13 +2,14 @@
   "id": 371005483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698262,45.311904,-96.698262,45.311904",
     "geom:latitude":45.311904,
     "geom:longitude":-96.698262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47502 143rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371005483,
-    "wof:lastmodified":1449050059,
+    "wof:lastmodified":1467082672,
     "wof:name":"Keith Jibben Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.698262,45.311904,-96.698262,45.311904],
+  "bbox": [
+    -96.698262,
+    45.311904,
+    -96.698262,
+    45.311904
+],
   "geometry": {"coordinates":[-96.698262,45.311904],"type":"Point"}
 }

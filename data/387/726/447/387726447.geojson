@@ -2,13 +2,14 @@
   "id": 387726447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751815,44.3157,-96.751815,44.3157",
     "geom:latitude":44.3157,
     "geom:longitude":-96.751815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 32nd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387726447,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1467082739,
     "wof:name":"Midwest Micro-Tek LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.751815,44.3157,-96.751815,44.3157],
-  "geometry": {"coordinates":[-96.751815,44.3157],"type":"Point"}
+  "bbox": [
+    -96.751815,
+    44.3157,
+    -96.751815,
+    44.3157
+],
+  "geometry": {"coordinates":[-96.75181499999999,44.3157],"type":"Point"}
 }

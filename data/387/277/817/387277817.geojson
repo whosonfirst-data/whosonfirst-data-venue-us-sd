@@ -2,13 +2,14 @@
   "id": 387277817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722335,43.546394,-96.722335,43.546394",
     "geom:latitude":43.546394,
     "geom:longitude":-96.722335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Reid St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387277817,
-    "wof:lastmodified":1449056543,
+    "wof:lastmodified":1467082695,
     "wof:name":"Advanced Recycling Systems LLC",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "center"
     ]
 },
-  "bbox": [-96.722335,43.546394,-96.722335,43.546394],
+  "bbox": [
+    -96.722335,
+    43.546394,
+    -96.722335,
+    43.546394
+],
   "geometry": {"coordinates":[-96.722335,43.546394],"type":"Point"}
 }

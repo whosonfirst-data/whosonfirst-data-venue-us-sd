@@ -2,13 +2,14 @@
   "id": 371142159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.301154,43.908717,-103.301154,43.908717",
     "geom:latitude":43.908717,
     "geom:longitude":-103.301154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24144 Pine Grove Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371142159,
-    "wof:lastmodified":1449049873,
+    "wof:lastmodified":1467082670,
     "wof:name":"Burkholder Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-103.301154,43.908717,-103.301154,43.908717],
+  "bbox": [
+    -103.301154,
+    43.908717,
+    -103.301154,
+    43.908717
+],
   "geometry": {"coordinates":[-103.301154,43.908717],"type":"Point"}
 }

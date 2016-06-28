@@ -2,13 +2,14 @@
   "id": 387947409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716025,43.541584,-96.716025,43.541584",
     "geom:latitude":43.541584,
     "geom:longitude":-96.716025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S 7th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387947409,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1467082742,
     "wof:name":"Goal Getters",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "raising"
     ]
 },
-  "bbox": [-96.716025,43.541584,-96.716025,43.541584],
+  "bbox": [
+    -96.716025,
+    43.541584,
+    -96.716025,
+    43.541584
+],
   "geometry": {"coordinates":[-96.716025,43.541584],"type":"Point"}
 }

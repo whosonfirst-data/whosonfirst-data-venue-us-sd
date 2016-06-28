@@ -2,13 +2,14 @@
   "id": 387820481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.671256,44.039191,-101.671256,44.039191",
     "geom:latitude":44.039191,
     "geom:longitude":-101.671256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Philip Ave",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387820481,
-    "wof:lastmodified":1449058075,
+    "wof:lastmodified":1467082726,
     "wof:name":"Mann Ronald G DDS Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-101.671256,44.039191,-101.671256,44.039191],
+  "bbox": [
+    -101.671256,
+    44.039191,
+    -101.671256,
+    44.039191
+],
   "geometry": {"coordinates":[-101.671256,44.039191],"type":"Point"}
 }

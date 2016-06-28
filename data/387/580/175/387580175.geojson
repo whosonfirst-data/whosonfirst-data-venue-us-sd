@@ -2,13 +2,14 @@
   "id": 387580175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.851095,43.62378,-96.851095,43.62378",
     "geom:latitude":43.62378,
     "geom:longitude":-96.851095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25947 468th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387580175,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1467082738,
     "wof:name":"Andresen John",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.851095,43.62378,-96.851095,43.62378],
+  "bbox": [
+    -96.851095,
+    43.62378,
+    -96.851095,
+    43.62378
+],
   "geometry": {"coordinates":[-96.851095,43.62378],"type":"Point"}
 }

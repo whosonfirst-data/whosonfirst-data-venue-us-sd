@@ -2,13 +2,14 @@
   "id": 387890723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709672,43.80437,-96.709672,43.80437",
     "geom:latitude":43.80437,
     "geom:longitude":-96.709672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24666 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387890723,
-    "wof:lastmodified":1449056938,
+    "wof:lastmodified":1467082703,
     "wof:name":"Master Blaster Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-96.709672,43.80437,-96.709672,43.80437],
+  "bbox": [
+    -96.709672,
+    43.80437,
+    -96.709672,
+    43.80437
+],
   "geometry": {"coordinates":[-96.709672,43.80437],"type":"Point"}
 }

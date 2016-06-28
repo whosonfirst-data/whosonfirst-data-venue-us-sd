@@ -2,13 +2,14 @@
   "id": 387325803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.577848,43.5901,-96.577848,43.5901",
     "geom:latitude":43.5901,
     "geom:longitude":-96.577848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 S 7th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387325803,
-    "wof:lastmodified":1449057605,
+    "wof:lastmodified":1467082717,
     "wof:name":"7th Ave Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.577848,43.5901,-96.577848,43.5901],
+  "bbox": [
+    -96.577848,
+    43.5901,
+    -96.577848,
+    43.5901
+],
   "geometry": {"coordinates":[-96.577848,43.5901],"type":"Point"}
 }

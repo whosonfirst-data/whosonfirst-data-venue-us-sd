@@ -2,13 +2,14 @@
   "id": 387844661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.95463,43.212757,-99.95463,43.212757",
     "geom:latitude":43.212757,
     "geom:longitude":-99.95463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31071 289th St",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387844661,
-    "wof:lastmodified":1449057730,
+    "wof:lastmodified":1467082719,
     "wof:name":"Ewing Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.95463,43.212757,-99.95463,43.212757],
-  "geometry": {"coordinates":[-99.95463,43.212757],"type":"Point"}
+  "bbox": [
+    -99.95463,
+    43.212757,
+    -99.95463,
+    43.212757
+],
+  "geometry": {"coordinates":[-99.95462999999999,43.212757],"type":"Point"}
 }

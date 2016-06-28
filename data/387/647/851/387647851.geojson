@@ -2,13 +2,14 @@
   "id": 387647851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.204604,44.345517,-98.204604,44.345517",
     "geom:latitude":44.345517,
     "geom:longitude":-98.204604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1784 Frank Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387647851,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1467082723,
     "wof:name":"Schnabels Day Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.204604,44.345517,-98.204604,44.345517],
+  "bbox": [
+    -98.204604,
+    44.345517,
+    -98.204604,
+    44.345517
+],
   "geometry": {"coordinates":[-98.204604,44.345517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387128221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649155,43.025725,-96.649155,43.025725",
     "geom:latitude":43.025725,
     "geom:longitude":-96.649155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47755 301st St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387128221,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1467082717,
     "wof:name":"Clay Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.649155,43.025725,-96.649155,43.025725],
-  "geometry": {"coordinates":[-96.649155,43.025725],"type":"Point"}
+  "bbox": [
+    -96.649155,
+    43.025725,
+    -96.649155,
+    43.025725
+],
+  "geometry": {"coordinates":[-96.64915499999999,43.025725],"type":"Point"}
 }

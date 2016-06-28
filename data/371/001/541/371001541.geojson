@@ -2,13 +2,14 @@
   "id": 371001541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708487,43.692023,-96.708487,43.692023",
     "geom:latitude":43.692023,
     "geom:longitude":-96.708487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25469 475th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371001541,
-    "wof:lastmodified":1449049274,
+    "wof:lastmodified":1467082661,
     "wof:name":"Berg Veron",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.708487,43.692023,-96.708487,43.692023],
-  "geometry": {"coordinates":[-96.708487,43.692023],"type":"Point"}
+  "bbox": [
+    -96.708487,
+    43.692023,
+    -96.708487,
+    43.692023
+],
+  "geometry": {"coordinates":[-96.70848700000001,43.692023],"type":"Point"}
 }

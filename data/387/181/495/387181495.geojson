@@ -2,13 +2,14 @@
   "id": 387181495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.161493,43.267624,-98.161493,43.267624",
     "geom:latitude":43.267624,
     "geom:longitude":-98.161493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Main St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387181495,
-    "wof:lastmodified":1449058437,
+    "wof:lastmodified":1467082734,
     "wof:name":"Double T Steakhouse & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.161493,43.267624,-98.161493,43.267624],
-  "geometry": {"coordinates":[-98.161493,43.267624],"type":"Point"}
+  "bbox": [
+    -98.161493,
+    43.267624,
+    -98.161493,
+    43.267624
+],
+  "geometry": {"coordinates":[-98.16149299999999,43.267624],"type":"Point"}
 }

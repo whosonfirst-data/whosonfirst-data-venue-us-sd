@@ -2,13 +2,14 @@
   "id": 387953977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207796,44.08765,-103.207796,44.08765",
     "geom:latitude":44.08765,
     "geom:longitude":-103.207796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387953977,
-    "wof:lastmodified":1449058736,
+    "wof:lastmodified":1467082739,
     "wof:name":"Corral Motel",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.207796,44.08765,-103.207796,44.08765],
+  "bbox": [
+    -103.207796,
+    44.08765,
+    -103.207796,
+    44.08765
+],
   "geometry": {"coordinates":[-103.207796,44.08765],"type":"Point"}
 }

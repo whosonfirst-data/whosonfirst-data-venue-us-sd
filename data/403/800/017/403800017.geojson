@@ -2,13 +2,14 @@
   "id": 403800017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.237998,44.076046,-103.237998,44.076046",
     "geom:latitude":44.076046,
     "geom:longitude":-103.237998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 11th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403800017,
-    "wof:lastmodified":1449054740,
+    "wof:lastmodified":1467082675,
     "wof:name":"Sdsu College Nursing/BSN PR",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-103.237998,44.076046,-103.237998,44.076046],
+  "bbox": [
+    -103.237998,
+    44.076046,
+    -103.237998,
+    44.076046
+],
   "geometry": {"coordinates":[-103.237998,44.076046],"type":"Point"}
 }

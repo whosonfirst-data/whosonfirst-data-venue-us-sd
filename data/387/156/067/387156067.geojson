@@ -2,13 +2,14 @@
   "id": 387156067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.034004,44.249419,-98.034004,44.249419",
     "geom:latitude":44.249419,
     "geom:longitude":-98.034004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21625 409th Ave",
     "sg:city":"Cavour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387156067,
-    "wof:lastmodified":1449056849,
+    "wof:lastmodified":1467082701,
     "wof:name":"Gerald Puterbaugh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.034004,44.249419,-98.034004,44.249419],
+  "bbox": [
+    -98.034004,
+    44.249419,
+    -98.034004,
+    44.249419
+],
   "geometry": {"coordinates":[-98.034004,44.249419],"type":"Point"}
 }

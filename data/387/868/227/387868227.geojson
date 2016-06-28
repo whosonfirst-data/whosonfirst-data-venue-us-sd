@@ -2,13 +2,14 @@
   "id": 387868227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988887,44.525944,-98.988887,44.525944",
     "geom:latitude":44.525944,
     "geom:longitude":-98.988887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W 10th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387868227,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1467082690,
     "wof:name":"East River Elec Power Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.988887,44.525944,-98.988887,44.525944],
-  "geometry": {"coordinates":[-98.988887,44.525944],"type":"Point"}
+  "bbox": [
+    -98.988887,
+    44.525944,
+    -98.988887,
+    44.525944
+],
+  "geometry": {"coordinates":[-98.98888700000001,44.525944],"type":"Point"}
 }

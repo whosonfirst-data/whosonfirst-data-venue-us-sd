@@ -2,13 +2,14 @@
   "id": 387357781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.801545,44.224081,-98.801545,44.224081",
     "geom:latitude":44.224081,
     "geom:longitude":-98.801545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21811 369th Ave",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387357781,
-    "wof:lastmodified":1449059451,
+    "wof:lastmodified":1467082754,
     "wof:name":"Tom Koth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.801545,44.224081,-98.801545,44.224081],
+  "bbox": [
+    -98.801545,
+    44.224081,
+    -98.801545,
+    44.224081
+],
   "geometry": {"coordinates":[-98.801545,44.224081],"type":"Point"}
 }

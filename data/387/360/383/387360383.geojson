@@ -2,13 +2,14 @@
   "id": 387360383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676721,42.682614,-96.676721,42.682614",
     "geom:latitude":42.682614,
     "geom:longitude":-96.676721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 E Main St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387360383,
-    "wof:lastmodified":1449059040,
+    "wof:lastmodified":1467082746,
     "wof:name":"Briggs Last Chance Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.676721,42.682614,-96.676721,42.682614],
+  "bbox": [
+    -96.676721,
+    42.682614,
+    -96.676721,
+    42.682614
+],
   "geometry": {"coordinates":[-96.676721,42.682614],"type":"Point"}
 }

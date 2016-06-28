@@ -2,13 +2,14 @@
   "id": 387483997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715716,43.546575,-96.715716,43.546575",
     "geom:latitude":43.546575,
     "geom:longitude":-96.715716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387483997,
-    "wof:lastmodified":1449059104,
+    "wof:lastmodified":1467082747,
     "wof:name":"Associates Commerce Solutions",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.715716,43.546575,-96.715716,43.546575],
+  "bbox": [
+    -96.715716,
+    43.546575,
+    -96.715716,
+    43.546575
+],
   "geometry": {"coordinates":[-96.715716,43.546575],"type":"Point"}
 }

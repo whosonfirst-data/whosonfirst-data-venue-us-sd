@@ -2,13 +2,14 @@
   "id": 387290595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.490208,43.203707,-96.490208,43.203707",
     "geom:latitude":43.203707,
     "geom:longitude":-96.490208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28871 486th Ave",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387290595,
-    "wof:lastmodified":1449057746,
+    "wof:lastmodified":1467082720,
     "wof:name":"Jerry Vandestroet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.490208,43.203707,-96.490208,43.203707],
+  "bbox": [
+    -96.490208,
+    43.203707,
+    -96.490208,
+    43.203707
+],
   "geometry": {"coordinates":[-96.490208,43.203707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371150905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.535755,43.635849,-98.535755,43.635849",
     "geom:latitude":43.635849,
     "geom:longitude":-98.535755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25865 383rd Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371150905,
-    "wof:lastmodified":1449049087,
+    "wof:lastmodified":1467082658,
     "wof:name":"Dave Artz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.535755,43.635849,-98.535755,43.635849],
-  "geometry": {"coordinates":[-98.535755,43.635849],"type":"Point"}
+  "bbox": [
+    -98.535755,
+    43.635849,
+    -98.535755,
+    43.635849
+],
+  "geometry": {"coordinates":[-98.53575499999999,43.635849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387764151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71857,43.549818,-96.71857,43.549818",
     "geom:latitude":43.549818,
     "geom:longitude":-96.71857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Nesmith Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387764151,
-    "wof:lastmodified":1449059739,
+    "wof:lastmodified":1467082759,
     "wof:name":"Furniture Mission",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.71857,43.549818,-96.71857,43.549818],
+  "bbox": [
+    -96.71857,
+    43.549818,
+    -96.71857,
+    43.549818
+],
   "geometry": {"coordinates":[-96.71857,43.549818],"type":"Point"}
 }

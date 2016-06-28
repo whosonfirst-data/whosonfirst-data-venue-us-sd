@@ -2,13 +2,14 @@
   "id": 387011047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.219398,44.356115,-98.219398,44.356115",
     "geom:latitude":44.356115,
     "geom:longitude":-98.219398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 9th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387011047,
-    "wof:lastmodified":1449059230,
+    "wof:lastmodified":1467082749,
     "wof:name":"Computer Fix It Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-98.219398,44.356115,-98.219398,44.356115],
+  "bbox": [
+    -98.219398,
+    44.356115,
+    -98.219398,
+    44.356115
+],
   "geometry": {"coordinates":[-98.219398,44.356115],"type":"Point"}
 }

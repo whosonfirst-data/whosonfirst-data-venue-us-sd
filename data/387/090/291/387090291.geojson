@@ -2,13 +2,14 @@
   "id": 387090291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.460304,43.775327,-97.460304,43.775327",
     "geom:latitude":43.775327,
     "geom:longitude":-97.460304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43747 249th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387090291,
-    "wof:lastmodified":1449059140,
+    "wof:lastmodified":1467082748,
     "wof:name":"Sandine Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.460304,43.775327,-97.460304,43.775327],
-  "geometry": {"coordinates":[-97.460304,43.775327],"type":"Point"}
+  "bbox": [
+    -97.460304,
+    43.775327,
+    -97.460304,
+    43.775327
+],
+  "geometry": {"coordinates":[-97.46030399999999,43.775327],"type":"Point"}
 }

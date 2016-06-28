@@ -2,13 +2,14 @@
   "id": 387463097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.069501,43.790131,-97.069501,43.790131",
     "geom:latitude":43.790131,
     "geom:longitude":-97.069501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24805 457th Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387463097,
-    "wof:lastmodified":1449058755,
+    "wof:lastmodified":1467082740,
     "wof:name":"Buffalo Trading Post",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-97.069501,43.790131,-97.069501,43.790131],
+  "bbox": [
+    -97.069501,
+    43.790131,
+    -97.069501,
+    43.790131
+],
   "geometry": {"coordinates":[-97.069501,43.790131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387474613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.481141,43.436287,-103.481141,43.436287",
     "geom:latitude":43.436287,
     "geom:longitude":-103.481141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387474613,
-    "wof:lastmodified":1449056275,
+    "wof:lastmodified":1467082690,
     "wof:name":"Appliance & Electronics Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.481141,43.436287,-103.481141,43.436287],
-  "geometry": {"coordinates":[-103.481141,43.436287],"type":"Point"}
+  "bbox": [
+    -103.481141,
+    43.436287,
+    -103.481141,
+    43.436287
+],
+  "geometry": {"coordinates":[-103.48114099999999,43.436287],"type":"Point"}
 }

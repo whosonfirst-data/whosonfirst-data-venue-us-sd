@@ -2,13 +2,14 @@
   "id": 387962071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.217643,44.072874,-103.217643,44.072874",
     "geom:latitude":44.072874,
     "geom:longitude":-103.217643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1626 Kellogg Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387962071,
-    "wof:lastmodified":1449058341,
+    "wof:lastmodified":1467082732,
     "wof:name":"Black Hills Judo & Jujitsu",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-103.217643,44.072874,-103.217643,44.072874],
+  "bbox": [
+    -103.217643,
+    44.072874,
+    -103.217643,
+    44.072874
+],
   "geometry": {"coordinates":[-103.217643,44.072874],"type":"Point"}
 }

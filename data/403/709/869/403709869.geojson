@@ -2,13 +2,14 @@
   "id": 403709869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.769417,44.347497,-103.769417,44.347497",
     "geom:latitude":44.347497,
     "geom:longitude":-103.769417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Grand Ave",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403709869,
-    "wof:lastmodified":1449054898,
+    "wof:lastmodified":1467082677,
     "wof:name":"Azimuth Surveying and Mapping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "land"
     ]
 },
-  "bbox": [-103.769417,44.347497,-103.769417,44.347497],
+  "bbox": [
+    -103.769417,
+    44.347497,
+    -103.769417,
+    44.347497
+],
   "geometry": {"coordinates":[-103.769417,44.347497],"type":"Point"}
 }

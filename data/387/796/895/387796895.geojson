@@ -2,13 +2,14 @@
   "id": 387796895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.433077,44.077381,-103.433077,44.077381",
     "geom:latitude":44.077381,
     "geom:longitude":-103.433077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12003 Brookside Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387796895,
-    "wof:lastmodified":1449057899,
+    "wof:lastmodified":1467082723,
     "wof:name":"Gary D Johnson",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-103.433077,44.077381,-103.433077,44.077381],
+  "bbox": [
+    -103.433077,
+    44.077381,
+    -103.433077,
+    44.077381
+],
   "geometry": {"coordinates":[-103.433077,44.077381],"type":"Point"}
 }

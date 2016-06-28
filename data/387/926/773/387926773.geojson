@@ -2,13 +2,14 @@
   "id": 387926773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.617602,43.51782,-96.617602,43.51782",
     "geom:latitude":43.51782,
     "geom:longitude":-96.617602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 E 38th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387926773,
-    "wof:lastmodified":1449057424,
+    "wof:lastmodified":1467082713,
     "wof:name":"Current Solutions Inc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.617602,43.51782,-96.617602,43.51782],
-  "geometry": {"coordinates":[-96.617602,43.51782],"type":"Point"}
+  "bbox": [
+    -96.617602,
+    43.51782,
+    -96.617602,
+    43.51782
+],
+  "geometry": {"coordinates":[-96.61760200000001,43.51782],"type":"Point"}
 }

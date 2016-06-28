@@ -2,13 +2,14 @@
   "id": 403743263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.326487,44.426765,-97.326487,44.426765",
     "geom:latitude":44.426765,
     "geom:longitude":-97.326487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44490 204th St",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403743263,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1467082684,
     "wof:name":"Jon Nelson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.326487,44.426765,-97.326487,44.426765],
+  "bbox": [
+    -97.326487,
+    44.426765,
+    -97.326487,
+    44.426765
+],
   "geometry": {"coordinates":[-97.326487,44.426765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371083679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.256847,44.601264,-97.256847,44.601264",
     "geom:latitude":44.601264,
     "geom:longitude":-97.256847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44774 192nd St",
     "sg:city":"Lake Norden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371083679,
-    "wof:lastmodified":1449049504,
+    "wof:lastmodified":1467082665,
     "wof:name":"Mark Seppaner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.256847,44.601264,-97.256847,44.601264],
-  "geometry": {"coordinates":[-97.256847,44.601264],"type":"Point"}
+  "bbox": [
+    -97.256847,
+    44.601264,
+    -97.256847,
+    44.601264
+],
+  "geometry": {"coordinates":[-97.25684699999999,44.601264],"type":"Point"}
 }

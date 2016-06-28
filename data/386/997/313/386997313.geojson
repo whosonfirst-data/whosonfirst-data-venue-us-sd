@@ -2,13 +2,14 @@
   "id": 386997313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.40783,43.423783,-98.40783,43.423783",
     "geom:latitude":43.423783,
     "geom:longitude":-98.40783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386997313,
-    "wof:lastmodified":1449028898,
+    "wof:lastmodified":1467082654,
     "wof:name":"Prairie Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.40783,43.423783,-98.40783,43.423783],
+  "bbox": [
+    -98.40783,
+    43.423783,
+    -98.40783,
+    43.423783
+],
   "geometry": {"coordinates":[-98.40783,43.423783],"type":"Point"}
 }

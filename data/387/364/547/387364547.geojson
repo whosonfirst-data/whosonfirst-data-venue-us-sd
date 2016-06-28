@@ -2,13 +2,14 @@
   "id": 387364547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.066077,44.707772,-100.066077,44.707772",
     "geom:latitude":44.707772,
     "geom:longitude":-100.066077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 S Main St",
     "sg:city":"Onida",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387364547,
-    "wof:lastmodified":1449058243,
+    "wof:lastmodified":1467082730,
     "wof:name":"Larry O Larson CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-100.066077,44.707772,-100.066077,44.707772],
-  "geometry": {"coordinates":[-100.066077,44.707772],"type":"Point"}
+  "bbox": [
+    -100.066077,
+    44.707772,
+    -100.066077,
+    44.707772
+],
+  "geometry": {"coordinates":[-100.06607700000001,44.707772],"type":"Point"}
 }

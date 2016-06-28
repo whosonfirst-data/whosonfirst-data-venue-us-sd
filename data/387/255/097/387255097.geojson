@@ -2,13 +2,14 @@
   "id": 387255097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.254376,44.103792,-103.254376,44.103792",
     "geom:latitude":44.103792,
     "geom:longitude":-103.254376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 N Plaza Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387255097,
-    "wof:lastmodified":1449057831,
+    "wof:lastmodified":1467082721,
     "wof:name":"Devlopment For Disabled Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "for"
     ]
 },
-  "bbox": [-103.254376,44.103792,-103.254376,44.103792],
-  "geometry": {"coordinates":[-103.254376,44.103792],"type":"Point"}
+  "bbox": [
+    -103.254376,
+    44.103792,
+    -103.254376,
+    44.103792
+],
+  "geometry": {"coordinates":[-103.25437599999999,44.103792],"type":"Point"}
 }

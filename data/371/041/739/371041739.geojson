@@ -2,13 +2,14 @@
   "id": 371041739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.499496,43.550703,-97.499496,43.550703",
     "geom:latitude":43.550703,
     "geom:longitude":-97.499496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Cherry Ave",
     "sg:city":"Bridgewater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371041739,
-    "wof:lastmodified":1449049385,
+    "wof:lastmodified":1467082663,
     "wof:name":"Walter Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.499496,43.550703,-97.499496,43.550703],
-  "geometry": {"coordinates":[-97.499496,43.550703],"type":"Point"}
+  "bbox": [
+    -97.499496,
+    43.550703,
+    -97.499496,
+    43.550703
+],
+  "geometry": {"coordinates":[-97.49949599999999,43.550703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387090653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.419278,43.241438,-97.419278,43.241438",
     "geom:latitude":43.241438,
     "geom:longitude":-97.419278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28633 US Hwy 81",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387090653,
-    "wof:lastmodified":1449059139,
+    "wof:lastmodified":1467082748,
     "wof:name":"Merritt & Sandra Langeland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.419278,43.241438,-97.419278,43.241438],
-  "geometry": {"coordinates":[-97.419278,43.241438],"type":"Point"}
+  "bbox": [
+    -97.419278,
+    43.241438,
+    -97.419278,
+    43.241438
+],
+  "geometry": {"coordinates":[-97.41927800000001,43.241438],"type":"Point"}
 }

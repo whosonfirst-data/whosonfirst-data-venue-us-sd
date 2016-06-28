@@ -2,13 +2,14 @@
   "id": 387646321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.287124,43.078801,-98.287124,43.078801",
     "geom:latitude":43.078801,
     "geom:longitude":-98.287124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 3rd St SE",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387646321,
-    "wof:lastmodified":1449056022,
+    "wof:lastmodified":1467082685,
     "wof:name":"Wagner Community Memorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-98.287124,43.078801,-98.287124,43.078801],
-  "geometry": {"coordinates":[-98.287124,43.078801],"type":"Point"}
+  "bbox": [
+    -98.287124,
+    43.078801,
+    -98.287124,
+    43.078801
+],
+  "geometry": {"coordinates":[-98.28712400000001,43.078801],"type":"Point"}
 }

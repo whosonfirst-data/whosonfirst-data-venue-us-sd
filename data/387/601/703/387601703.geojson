@@ -2,13 +2,14 @@
   "id": 387601703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.140611,44.619998,-99.140611,44.619998",
     "geom:latitude":44.619998,
     "geom:longitude":-99.140611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35250 191st St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387601703,
-    "wof:lastmodified":1449057806,
+    "wof:lastmodified":1467082721,
     "wof:name":"Lake Louise Recreation Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "area"
     ]
 },
-  "bbox": [-99.140611,44.619998,-99.140611,44.619998],
-  "geometry": {"coordinates":[-99.140611,44.619998],"type":"Point"}
+  "bbox": [
+    -99.140611,
+    44.619998,
+    -99.140611,
+    44.619998
+],
+  "geometry": {"coordinates":[-99.14061100000001,44.619998],"type":"Point"}
 }

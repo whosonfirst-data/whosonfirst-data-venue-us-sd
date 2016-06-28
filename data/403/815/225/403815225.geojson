@@ -2,13 +2,14 @@
   "id": 403815225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0624,43.235018,-97.0624,43.235018",
     "geom:latitude":43.235018,
     "geom:longitude":-97.0624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28652 457th Ave",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403815225,
-    "wof:lastmodified":1449055276,
+    "wof:lastmodified":1467082680,
     "wof:name":"AG Specs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-97.0624,43.235018,-97.0624,43.235018],
+  "bbox": [
+    -97.0624,
+    43.235018,
+    -97.0624,
+    43.235018
+],
   "geometry": {"coordinates":[-97.0624,43.235018],"type":"Point"}
 }

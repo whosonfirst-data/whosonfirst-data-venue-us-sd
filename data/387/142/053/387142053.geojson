@@ -2,13 +2,14 @@
   "id": 387142053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109274,44.889763,-97.109274,44.889763",
     "geom:latitude":44.889763,
     "geom:longitude":-97.109274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 5th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387142053,
-    "wof:lastmodified":1449059151,
+    "wof:lastmodified":1467082748,
     "wof:name":"Disease Intervention Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-97.109274,44.889763,-97.109274,44.889763],
+  "bbox": [
+    -97.109274,
+    44.889763,
+    -97.109274,
+    44.889763
+],
   "geometry": {"coordinates":[-97.109274,44.889763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371173937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.544234,43.158413,-98.544234,43.158413",
     "geom:latitude":43.158413,
     "geom:longitude":-98.544234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Church St",
     "sg:city":"Marty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371173937,
-    "wof:lastmodified":1449049236,
+    "wof:lastmodified":1467082661,
     "wof:name":"Oblate Sisters Of The Blessed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.544234,43.158413,-98.544234,43.158413],
+  "bbox": [
+    -98.544234,
+    43.158413,
+    -98.544234,
+    43.158413
+],
   "geometry": {"coordinates":[-98.544234,43.158413],"type":"Point"}
 }

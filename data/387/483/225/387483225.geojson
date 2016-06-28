@@ -2,13 +2,14 @@
   "id": 387483225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.432114,43.233265,-99.432114,43.233265",
     "geom:latitude":43.233265,
     "geom:longitude":-99.432114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W 7th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387483225,
-    "wof:lastmodified":1449059102,
+    "wof:lastmodified":1467082747,
     "wof:name":"Harrison Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.432114,43.233265,-99.432114,43.233265],
+  "bbox": [
+    -99.432114,
+    43.233265,
+    -99.432114,
+    43.233265
+],
   "geometry": {"coordinates":[-99.432114,43.233265],"type":"Point"}
 }

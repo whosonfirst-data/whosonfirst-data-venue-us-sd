@@ -2,13 +2,14 @@
   "id": 387158227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.221368,43.459277,-97.221368,43.459277",
     "geom:latitude":43.459277,
     "geom:longitude":-97.221368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44931 271st St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387158227,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1467082738,
     "wof:name":"Dykstra Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.221368,43.459277,-97.221368,43.459277],
+  "bbox": [
+    -97.221368,
+    43.459277,
+    -97.221368,
+    43.459277
+],
   "geometry": {"coordinates":[-97.221368,43.459277],"type":"Point"}
 }

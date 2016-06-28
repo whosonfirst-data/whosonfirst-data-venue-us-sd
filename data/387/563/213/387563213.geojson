@@ -2,13 +2,14 @@
   "id": 387563213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905637,43.28281,-96.905637,43.28281",
     "geom:latitude":43.28281,
     "geom:longitude":-96.905637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28329 465th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387563213,
-    "wof:lastmodified":1449056175,
+    "wof:lastmodified":1467082688,
     "wof:name":"Linda Javers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.905637,43.28281,-96.905637,43.28281],
+  "bbox": [
+    -96.905637,
+    43.28281,
+    -96.905637,
+    43.28281
+],
   "geometry": {"coordinates":[-96.905637,43.28281],"type":"Point"}
 }

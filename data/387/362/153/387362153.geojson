@@ -2,13 +2,14 @@
   "id": 387362153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.403449,43.556489,-98.403449,43.556489",
     "geom:latitude":43.556489,
     "geom:longitude":-98.403449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38926 264th St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387362153,
-    "wof:lastmodified":1449058572,
+    "wof:lastmodified":1467082736,
     "wof:name":"S & H Hunting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hunting"
     ]
 },
-  "bbox": [-98.403449,43.556489,-98.403449,43.556489],
-  "geometry": {"coordinates":[-98.403449,43.556489],"type":"Point"}
+  "bbox": [
+    -98.403449,
+    43.556489,
+    -98.403449,
+    43.556489
+],
+  "geometry": {"coordinates":[-98.40344899999999,43.556489],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387680759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.946388,44.57246,-96.946388,44.57246",
     "geom:latitude":44.57246,
     "geom:longitude":-96.946388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19403 463rd Ave",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387680759,
-    "wof:lastmodified":1449058778,
+    "wof:lastmodified":1467082740,
     "wof:name":"Wermers Stone Sculpture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.946388,44.57246,-96.946388,44.57246],
+  "bbox": [
+    -96.946388,
+    44.57246,
+    -96.946388,
+    44.57246
+],
   "geometry": {"coordinates":[-96.946388,44.57246],"type":"Point"}
 }

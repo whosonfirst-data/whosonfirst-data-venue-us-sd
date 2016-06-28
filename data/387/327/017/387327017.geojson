@@ -2,13 +2,14 @@
   "id": 387327017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.462679,45.459222,-98.462679,45.459222",
     "geom:latitude":45.459222,
     "geom:longitude":-98.462679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Moccasin Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387327017,
-    "wof:lastmodified":1449056397,
+    "wof:lastmodified":1467082692,
     "wof:name":"Igt Online Entrmt Systems",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.462679,45.459222,-98.462679,45.459222],
-  "geometry": {"coordinates":[-98.462679,45.459222],"type":"Point"}
+  "bbox": [
+    -98.462679,
+    45.459222,
+    -98.462679,
+    45.459222
+],
+  "geometry": {"coordinates":[-98.46267899999999,45.459222],"type":"Point"}
 }

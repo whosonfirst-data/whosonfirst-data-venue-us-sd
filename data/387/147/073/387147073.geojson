@@ -2,13 +2,14 @@
   "id": 387147073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.423636,43.893302,-103.423636,43.893302",
     "geom:latitude":43.893302,
     "geom:longitude":-103.423636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Swanzey St",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387147073,
-    "wof:lastmodified":1449059499,
+    "wof:lastmodified":1467082755,
     "wof:name":"Rushmore Bar",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.423636,43.893302,-103.423636,43.893302],
+  "bbox": [
+    -103.423636,
+    43.893302,
+    -103.423636,
+    43.893302
+],
   "geometry": {"coordinates":[-103.423636,43.893302],"type":"Point"}
 }

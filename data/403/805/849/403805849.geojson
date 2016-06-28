@@ -2,13 +2,14 @@
   "id": 403805849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.03494,45.444284,-99.03494,45.444284",
     "geom:latitude":45.444284,
     "geom:longitude":-99.03494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 1st Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403805849,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1467082678,
     "wof:name":"Lux Candle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-99.03494,45.444284,-99.03494,45.444284],
-  "geometry": {"coordinates":[-99.03494,45.444284],"type":"Point"}
+  "bbox": [
+    -99.03494,
+    45.444284,
+    -99.03494,
+    45.444284
+],
+  "geometry": {"coordinates":[-99.03494000000001,45.444284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387519829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.859373,43.040231,-96.859373,43.040231",
     "geom:latitude":43.040231,
     "geom:longitude":-96.859373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46728 300th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387519829,
-    "wof:lastmodified":1449059667,
+    "wof:lastmodified":1467082758,
     "wof:name":"Komstad Covenant Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.859373,43.040231,-96.859373,43.040231],
-  "geometry": {"coordinates":[-96.859373,43.040231],"type":"Point"}
+  "bbox": [
+    -96.859373,
+    43.040231,
+    -96.859373,
+    43.040231
+],
+  "geometry": {"coordinates":[-96.85937300000001,43.040231],"type":"Point"}
 }

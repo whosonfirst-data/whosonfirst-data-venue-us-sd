@@ -2,13 +2,14 @@
   "id": 387761915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11265,44.005031,-97.11265,44.005031",
     "geom:latitude":44.005031,
     "geom:longitude":-97.11265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387761915,
-    "wof:lastmodified":1449059006,
+    "wof:lastmodified":1467082745,
     "wof:name":"Direct Check",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.11265,44.005031,-97.11265,44.005031],
+  "bbox": [
+    -97.11265,
+    44.005031,
+    -97.11265,
+    44.005031
+],
   "geometry": {"coordinates":[-97.11265,44.005031],"type":"Point"}
 }

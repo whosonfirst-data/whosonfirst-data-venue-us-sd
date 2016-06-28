@@ -2,13 +2,14 @@
   "id": 387012245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101141,44.896493,-97.101141,44.896493",
     "geom:latitude":44.896493,
     "geom:longitude":-97.101141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 9th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387012245,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1467082755,
     "wof:name":"Dollar Loan Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-97.101141,44.896493,-97.101141,44.896493],
+  "bbox": [
+    -97.101141,
+    44.896493,
+    -97.101141,
+    44.896493
+],
   "geometry": {"coordinates":[-97.101141,44.896493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371091845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.586419,43.598836,-96.586419,43.598836",
     "geom:latitude":43.598836,
     "geom:longitude":-96.586419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Switch Grass Trl",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371091845,
-    "wof:lastmodified":1449049126,
+    "wof:lastmodified":1467082659,
     "wof:name":"Image Expressions",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.586419,43.598836,-96.586419,43.598836],
-  "geometry": {"coordinates":[-96.586419,43.598836],"type":"Point"}
+  "bbox": [
+    -96.586419,
+    43.598836,
+    -96.586419,
+    43.598836
+],
+  "geometry": {"coordinates":[-96.58641900000001,43.598836],"type":"Point"}
 }

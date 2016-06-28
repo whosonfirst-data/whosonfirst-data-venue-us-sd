@@ -2,13 +2,14 @@
   "id": 387445195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701009,43.510087,-96.701009,43.510087",
     "geom:latitude":43.510087,
     "geom:longitude":-96.701009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 E Edgewood Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387445195,
-    "wof:lastmodified":1449056615,
+    "wof:lastmodified":1467082697,
     "wof:name":"Joel Doeden Plumbing and Htg",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.701009,43.510087,-96.701009,43.510087],
+  "bbox": [
+    -96.701009,
+    43.510087,
+    -96.701009,
+    43.510087
+],
   "geometry": {"coordinates":[-96.701009,43.510087],"type":"Point"}
 }

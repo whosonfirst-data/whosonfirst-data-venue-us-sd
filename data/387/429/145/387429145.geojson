@@ -2,13 +2,14 @@
   "id": 387429145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.303246,45.318846,-98.303246,45.318846",
     "geom:latitude":45.318846,
     "geom:longitude":-98.303246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"695 3rd St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387429145,
-    "wof:lastmodified":1449059715,
+    "wof:lastmodified":1467082759,
     "wof:name":"Luedeke-Cutler Hay Co Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-98.303246,45.318846,-98.303246,45.318846],
+  "bbox": [
+    -98.303246,
+    45.318846,
+    -98.303246,
+    45.318846
+],
   "geometry": {"coordinates":[-98.303246,45.318846],"type":"Point"}
 }

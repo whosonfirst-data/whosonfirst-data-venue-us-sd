@@ -2,13 +2,14 @@
   "id": 387943185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.333121,44.15308,-103.333121,44.15308",
     "geom:latitude":44.15308,
     "geom:longitude":-103.333121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 Ridgeview Dr",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387943185,
-    "wof:lastmodified":1449057104,
+    "wof:lastmodified":1467082706,
     "wof:name":"Angle Surveys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-103.333121,44.15308,-103.333121,44.15308],
-  "geometry": {"coordinates":[-103.333121,44.15308],"type":"Point"}
+  "bbox": [
+    -103.333121,
+    44.15308,
+    -103.333121,
+    44.15308
+],
+  "geometry": {"coordinates":[-103.33312100000001,44.15308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387827869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.320586,44.362616,-100.320586,44.362616",
     "geom:latitude":44.362616,
     "geom:longitude":-100.320586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Lincoln Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387827869,
-    "wof:lastmodified":1449057464,
+    "wof:lastmodified":1467082714,
     "wof:name":"Civic Inc A Casa Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.320586,44.362616,-100.320586,44.362616],
-  "geometry": {"coordinates":[-100.320586,44.362616],"type":"Point"}
+  "bbox": [
+    -100.320586,
+    44.362616,
+    -100.320586,
+    44.362616
+],
+  "geometry": {"coordinates":[-100.32058600000001,44.362616],"type":"Point"}
 }

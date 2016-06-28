@@ -2,13 +2,14 @@
   "id": 387078611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474602,45.51073,-98.474602,45.51073",
     "geom:latitude":45.51073,
     "geom:longitude":-98.474602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12947 388th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387078611,
-    "wof:lastmodified":1449059336,
+    "wof:lastmodified":1467082751,
     "wof:name":"J & N Mfg Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-98.474602,45.51073,-98.474602,45.51073],
+  "bbox": [
+    -98.474602,
+    45.51073,
+    -98.474602,
+    45.51073
+],
   "geometry": {"coordinates":[-98.474602,45.51073],"type":"Point"}
 }

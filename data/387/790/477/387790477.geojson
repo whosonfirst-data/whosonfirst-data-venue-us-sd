@@ -2,13 +2,14 @@
   "id": 387790477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.187365,43.046613,-98.187365,43.046613",
     "geom:latitude":43.046613,
     "geom:longitude":-98.187365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Pearl St",
     "sg:city":"Dante",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387790477,
-    "wof:lastmodified":1449059021,
+    "wof:lastmodified":1467082745,
     "wof:name":"Ernest L & Theresa Kocer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.187365,43.046613,-98.187365,43.046613],
+  "bbox": [
+    -98.187365,
+    43.046613,
+    -98.187365,
+    43.046613
+],
   "geometry": {"coordinates":[-98.187365,43.046613],"type":"Point"}
 }

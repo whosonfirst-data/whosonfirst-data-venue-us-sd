@@ -2,13 +2,14 @@
   "id": 371096851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.550378,45.583287,-103.550378,45.583287",
     "geom:latitude":45.583287,
     "geom:longitude":-103.550378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Ramsland St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371096851,
-    "wof:lastmodified":1449049344,
+    "wof:lastmodified":1467082662,
     "wof:name":"Register of Deeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "deeds"
     ]
 },
-  "bbox": [-103.550378,45.583287,-103.550378,45.583287],
-  "geometry": {"coordinates":[-103.550378,45.583287],"type":"Point"}
+  "bbox": [
+    -103.550378,
+    45.583287,
+    -103.550378,
+    45.583287
+],
+  "geometry": {"coordinates":[-103.55037799999999,45.583287],"type":"Point"}
 }

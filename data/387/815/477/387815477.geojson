@@ -2,13 +2,14 @@
   "id": 387815477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.899078,43.515601,-96.899078,43.515601",
     "geom:latitude":43.515601,
     "geom:longitude":-96.899078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26659 Blue Sage Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387815477,
-    "wof:lastmodified":1449057946,
+    "wof:lastmodified":1467082724,
     "wof:name":"Cottonwood Stables",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.899078,43.515601,-96.899078,43.515601],
+  "bbox": [
+    -96.899078,
+    43.515601,
+    -96.899078,
+    43.515601
+],
   "geometry": {"coordinates":[-96.899078,43.515601],"type":"Point"}
 }

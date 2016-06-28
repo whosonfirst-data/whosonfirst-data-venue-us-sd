@@ -2,13 +2,14 @@
   "id": 387693235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.513404,44.959296,-98.513404,44.959296",
     "geom:latitude":44.959296,
     "geom:longitude":-98.513404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16774 US Hwy 281",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387693235,
-    "wof:lastmodified":1449056330,
+    "wof:lastmodified":1467082691,
     "wof:name":"Bullock Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.513404,44.959296,-98.513404,44.959296],
-  "geometry": {"coordinates":[-98.513404,44.959296],"type":"Point"}
+  "bbox": [
+    -98.513404,
+    44.959296,
+    -98.513404,
+    44.959296
+],
+  "geometry": {"coordinates":[-98.51340399999999,44.959296],"type":"Point"}
 }

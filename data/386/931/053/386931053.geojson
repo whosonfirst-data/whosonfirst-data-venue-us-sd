@@ -2,13 +2,14 @@
   "id": 386931053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856797,43.375241,-99.856797,43.375241",
     "geom:latitude":43.375241,
     "geom:longitude":-99.856797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386931053,
-    "wof:lastmodified":1449028950,
+    "wof:lastmodified":1467082655,
     "wof:name":"Peacock Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-99.856797,43.375241,-99.856797,43.375241],
+  "bbox": [
+    -99.856797,
+    43.375241,
+    -99.856797,
+    43.375241
+],
   "geometry": {"coordinates":[-99.856797,43.375241],"type":"Point"}
 }

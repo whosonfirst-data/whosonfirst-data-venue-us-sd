@@ -2,13 +2,14 @@
   "id": 386930087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.066151,44.707946,-100.066151,44.707946",
     "geom:latitude":44.707946,
     "geom:longitude":-100.066151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Ash Ave",
     "sg:city":"Onida",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386930087,
-    "wof:lastmodified":1449028717,
+    "wof:lastmodified":1467082651,
     "wof:name":"Sully County Assessments Dir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.066151,44.707946,-100.066151,44.707946],
+  "bbox": [
+    -100.066151,
+    44.707946,
+    -100.066151,
+    44.707946
+],
   "geometry": {"coordinates":[-100.066151,44.707946],"type":"Point"}
 }

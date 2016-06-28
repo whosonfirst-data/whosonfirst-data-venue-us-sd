@@ -2,13 +2,14 @@
   "id": 403748623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.599781,44.040355,-96.599781,44.040355",
     "geom:latitude":44.040355,
     "geom:longitude":-96.599781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Allen Dr",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403748623,
-    "wof:lastmodified":1449055622,
+    "wof:lastmodified":1467082682,
     "wof:name":"Flandreau Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.599781,44.040355,-96.599781,44.040355],
-  "geometry": {"coordinates":[-96.599781,44.040355],"type":"Point"}
+  "bbox": [
+    -96.599781,
+    44.040355,
+    -96.599781,
+    44.040355
+],
+  "geometry": {"coordinates":[-96.59978099999999,44.040355],"type":"Point"}
 }

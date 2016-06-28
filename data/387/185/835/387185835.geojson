@@ -2,13 +2,14 @@
   "id": 387185835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48803,45.461097,-98.48803,45.461097",
     "geom:latitude":45.461097,
     "geom:longitude":-98.48803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387185835,
-    "wof:lastmodified":1449056727,
+    "wof:lastmodified":1467082699,
     "wof:name":"Teigen Construction Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.48803,45.461097,-98.48803,45.461097],
-  "geometry": {"coordinates":[-98.48803,45.461097],"type":"Point"}
+  "bbox": [
+    -98.48803,
+    45.461097,
+    -98.48803,
+    45.461097
+],
+  "geometry": {"coordinates":[-98.48802999999999,45.461097],"type":"Point"}
 }

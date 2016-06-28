@@ -2,13 +2,14 @@
   "id": 387845579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.311059,45.610629,-98.311059,45.610629",
     "geom:latitude":45.610629,
     "geom:longitude":-98.311059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 S Broadway St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387845579,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1467082699,
     "wof:name":"Vern's Bar & Grill",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-98.311059,45.610629,-98.311059,45.610629],
+  "bbox": [
+    -98.311059,
+    45.610629,
+    -98.311059,
+    45.610629
+],
   "geometry": {"coordinates":[-98.311059,45.610629],"type":"Point"}
 }

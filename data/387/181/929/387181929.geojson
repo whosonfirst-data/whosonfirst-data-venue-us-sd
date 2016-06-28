@@ -2,13 +2,14 @@
   "id": 387181929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.171512,44.056155,-103.171512,44.056155",
     "geom:latitude":44.056155,
     "geom:longitude":-103.171512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3014 S Valley Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387181929,
-    "wof:lastmodified":1449058438,
+    "wof:lastmodified":1467082734,
     "wof:name":"City Drywall Painting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.171512,44.056155,-103.171512,44.056155],
-  "geometry": {"coordinates":[-103.171512,44.056155],"type":"Point"}
+  "bbox": [
+    -103.171512,
+    44.056155,
+    -103.171512,
+    44.056155
+],
+  "geometry": {"coordinates":[-103.17151200000001,44.056155],"type":"Point"}
 }

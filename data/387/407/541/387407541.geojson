@@ -2,13 +2,14 @@
   "id": 387407541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109724,44.00912,-97.109724,44.00912",
     "geom:latitude":44.00912,
     "geom:longitude":-97.109724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387407541,
-    "wof:lastmodified":1449058224,
+    "wof:lastmodified":1467082729,
     "wof:name":"Washington Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-97.109724,44.00912,-97.109724,44.00912],
+  "bbox": [
+    -97.109724,
+    44.00912,
+    -97.109724,
+    44.00912
+],
   "geometry": {"coordinates":[-97.109724,44.00912],"type":"Point"}
 }

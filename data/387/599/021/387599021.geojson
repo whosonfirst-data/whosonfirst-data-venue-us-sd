@@ -2,13 +2,14 @@
   "id": 387599021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.226385,44.355119,-98.226385,44.355119",
     "geom:latitude":44.355119,
     "geom:longitude":-98.226385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 10th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387599021,
-    "wof:lastmodified":1449057872,
+    "wof:lastmodified":1467082722,
     "wof:name":"Meyers Renee Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.226385,44.355119,-98.226385,44.355119],
-  "geometry": {"coordinates":[-98.226385,44.355119],"type":"Point"}
+  "bbox": [
+    -98.226385,
+    44.355119,
+    -98.226385,
+    44.355119
+],
+  "geometry": {"coordinates":[-98.22638499999999,44.355119],"type":"Point"}
 }

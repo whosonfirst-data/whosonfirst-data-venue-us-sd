@@ -2,13 +2,14 @@
   "id": 387748573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744081,43.543949,-96.744081,43.543949",
     "geom:latitude":43.543949,
     "geom:longitude":-96.744081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387748573,
-    "wof:lastmodified":1449058962,
+    "wof:lastmodified":1467082744,
     "wof:name":"L J's Auto Repair Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-96.744081,43.543949,-96.744081,43.543949],
-  "geometry": {"coordinates":[-96.744081,43.543949],"type":"Point"}
+  "bbox": [
+    -96.744081,
+    43.543949,
+    -96.744081,
+    43.543949
+],
+  "geometry": {"coordinates":[-96.74408099999999,43.543949],"type":"Point"}
 }

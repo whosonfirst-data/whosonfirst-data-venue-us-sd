@@ -2,13 +2,14 @@
   "id": 387799237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.592711,43.768288,-103.592711,43.768288",
     "geom:latitude":43.768288,
     "geom:longitude":-103.592711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387799237,
-    "wof:lastmodified":1449059937,
+    "wof:lastmodified":1467082764,
     "wof:name":"Chalet Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.592711,43.768288,-103.592711,43.768288],
-  "geometry": {"coordinates":[-103.592711,43.768288],"type":"Point"}
+  "bbox": [
+    -103.592711,
+    43.768288,
+    -103.592711,
+    43.768288
+],
+  "geometry": {"coordinates":[-103.59271099999999,43.768288],"type":"Point"}
 }

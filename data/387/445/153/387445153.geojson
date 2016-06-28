@@ -2,13 +2,14 @@
   "id": 387445153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74135,43.549866,-96.74135,43.549866",
     "geom:latitude":43.549866,
     "geom:longitude":-96.74135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Grange Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387445153,
-    "wof:lastmodified":1449056614,
+    "wof:lastmodified":1467082697,
     "wof:name":"Haeffner Son Trucking",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-96.74135,43.549866,-96.74135,43.549866],
+  "bbox": [
+    -96.74135,
+    43.549866,
+    -96.74135,
+    43.549866
+],
   "geometry": {"coordinates":[-96.74135,43.549866],"type":"Point"}
 }

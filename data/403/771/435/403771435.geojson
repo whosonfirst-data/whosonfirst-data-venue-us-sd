@@ -2,13 +2,14 @@
   "id": 403771435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703532,43.49827,-96.703532,43.49827",
     "geom:latitude":43.49827,
     "geom:longitude":-96.703532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 S Ash Grove Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403771435,
-    "wof:lastmodified":1449055356,
+    "wof:lastmodified":1467082680,
     "wof:name":"Tk Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.703532,43.49827,-96.703532,43.49827],
+  "bbox": [
+    -96.703532,
+    43.49827,
+    -96.703532,
+    43.49827
+],
   "geometry": {"coordinates":[-96.703532,43.49827],"type":"Point"}
 }

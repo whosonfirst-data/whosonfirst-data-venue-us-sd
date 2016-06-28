@@ -2,13 +2,14 @@
   "id": 403806325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.273566,44.006871,-103.273566,44.006871",
     "geom:latitude":44.006871,
     "geom:longitude":-103.273566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 Moon Meadows Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403806325,
-    "wof:lastmodified":1449054625,
+    "wof:lastmodified":1467082674,
     "wof:name":"Black Hills Construction Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.273566,44.006871,-103.273566,44.006871],
+  "bbox": [
+    -103.273566,
+    44.006871,
+    -103.273566,
+    44.006871
+],
   "geometry": {"coordinates":[-103.273566,44.006871],"type":"Point"}
 }

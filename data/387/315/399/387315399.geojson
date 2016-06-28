@@ -2,13 +2,14 @@
   "id": 387315399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.081463,44.838604,-100.081463,44.838604",
     "geom:latitude":44.838604,
     "geom:longitude":-100.081463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17597 US Hwy 83",
     "sg:city":"Agar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387315399,
-    "wof:lastmodified":1449059719,
+    "wof:lastmodified":1467082759,
     "wof:name":"Eric's Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-100.081463,44.838604,-100.081463,44.838604],
+  "bbox": [
+    -100.081463,
+    44.838604,
+    -100.081463,
+    44.838604
+],
   "geometry": {"coordinates":[-100.081463,44.838604],"type":"Point"}
 }

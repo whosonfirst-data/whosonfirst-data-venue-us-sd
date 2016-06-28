@@ -2,13 +2,14 @@
   "id": 387439375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711563,43.823385,-96.711563,43.823385",
     "geom:latitude":43.823385,
     "geom:longitude":-96.711563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387439375,
-    "wof:lastmodified":1449057146,
+    "wof:lastmodified":1467082707,
     "wof:name":"Always Your Design",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.711563,43.823385,-96.711563,43.823385],
+  "bbox": [
+    -96.711563,
+    43.823385,
+    -96.711563,
+    43.823385
+],
   "geometry": {"coordinates":[-96.711563,43.823385],"type":"Point"}
 }

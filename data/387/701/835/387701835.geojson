@@ -2,13 +2,14 @@
   "id": 387701835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.190399,44.078293,-103.190399,44.078293",
     "geom:latitude":44.078293,
     "geom:longitude":-103.190399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 E Centre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387701835,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1467082747,
     "wof:name":"Leslie A Fiferman PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-103.190399,44.078293,-103.190399,44.078293],
+  "bbox": [
+    -103.190399,
+    44.078293,
+    -103.190399,
+    44.078293
+],
   "geometry": {"coordinates":[-103.190399,44.078293],"type":"Point"}
 }

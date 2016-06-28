@@ -2,13 +2,14 @@
   "id": 387465103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.844851,43.376515,-99.844851,43.376515",
     "geom:latitude":43.376515,
     "geom:longitude":-99.844851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"877 E Hwy 44",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387465103,
-    "wof:lastmodified":1449058667,
+    "wof:lastmodified":1467082738,
     "wof:name":"Engel Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-99.844851,43.376515,-99.844851,43.376515],
-  "geometry": {"coordinates":[-99.844851,43.376515],"type":"Point"}
+  "bbox": [
+    -99.844851,
+    43.376515,
+    -99.844851,
+    43.376515
+],
+  "geometry": {"coordinates":[-99.84485100000001,43.376515],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387208369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.892928,43.354216,-96.892928,43.354216",
     "geom:latitude":43.354216,
     "geom:longitude":-96.892928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 2nd Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387208369,
-    "wof:lastmodified":1449056554,
+    "wof:lastmodified":1467082696,
     "wof:name":"Senior Citizens Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-96.892928,43.354216,-96.892928,43.354216],
+  "bbox": [
+    -96.892928,
+    43.354216,
+    -96.892928,
+    43.354216
+],
   "geometry": {"coordinates":[-96.892928,43.354216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371170083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772096,44.311328,-96.772096,44.311328",
     "geom:latitude":44.311328,
     "geom:longitude":-96.772096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 20th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371170083,
-    "wof:lastmodified":1449049117,
+    "wof:lastmodified":1467082659,
     "wof:name":"Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-96.772096,44.311328,-96.772096,44.311328],
+  "bbox": [
+    -96.772096,
+    44.311328,
+    -96.772096,
+    44.311328
+],
   "geometry": {"coordinates":[-96.772096,44.311328],"type":"Point"}
 }

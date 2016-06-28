@@ -2,13 +2,14 @@
   "id": 387001993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.358872,43.308414,-97.358872,43.308414",
     "geom:latitude":43.308414,
     "geom:longitude":-97.358872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28136 442nd Ave",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387001993,
-    "wof:lastmodified":1449056968,
+    "wof:lastmodified":1467082704,
     "wof:name":"Lonnie Preheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.358872,43.308414,-97.358872,43.308414],
-  "geometry": {"coordinates":[-97.358872,43.308414],"type":"Point"}
+  "bbox": [
+    -97.358872,
+    43.308414,
+    -97.358872,
+    43.308414
+],
+  "geometry": {"coordinates":[-97.35887200000001,43.308414],"type":"Point"}
 }

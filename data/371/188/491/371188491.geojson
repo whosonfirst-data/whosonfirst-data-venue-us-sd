@@ -2,13 +2,14 @@
   "id": 371188491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.421182,45.537344,-100.421182,45.537344",
     "geom:latitude":45.537344,
     "geom:longitude":-100.421182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371188491,
-    "wof:lastmodified":1449049547,
+    "wof:lastmodified":1467082665,
     "wof:name":"Wade's Carpet & Floor Covering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-100.421182,45.537344,-100.421182,45.537344],
+  "bbox": [
+    -100.421182,
+    45.537344,
+    -100.421182,
+    45.537344
+],
   "geometry": {"coordinates":[-100.421182,45.537344],"type":"Point"}
 }

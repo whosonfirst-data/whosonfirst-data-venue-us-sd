@@ -2,13 +2,14 @@
   "id": 387382943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509673,45.056751,-98.509673,45.056751",
     "geom:latitude":45.056751,
     "geom:longitude":-98.509673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38624 161st St",
     "sg:city":"Ashton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387382943,
-    "wof:lastmodified":1449057113,
+    "wof:lastmodified":1467082707,
     "wof:name":"Joe Miller Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.509673,45.056751,-98.509673,45.056751],
-  "geometry": {"coordinates":[-98.509673,45.056751],"type":"Point"}
+  "bbox": [
+    -98.509673,
+    45.056751,
+    -98.509673,
+    45.056751
+],
+  "geometry": {"coordinates":[-98.50967300000001,45.056751],"type":"Point"}
 }

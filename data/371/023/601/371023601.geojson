@@ -2,13 +2,14 @@
   "id": 371023601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.609521,45.226383,-96.609521,45.226383",
     "geom:latitude":45.226383,
     "geom:longitude":-96.609521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Morningside Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371023601,
-    "wof:lastmodified":1449050036,
+    "wof:lastmodified":1467082672,
     "wof:name":"Milbank Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.609521,45.226383,-96.609521,45.226383],
+  "bbox": [
+    -96.609521,
+    45.226383,
+    -96.609521,
+    45.226383
+],
   "geometry": {"coordinates":[-96.609521,45.226383],"type":"Point"}
 }

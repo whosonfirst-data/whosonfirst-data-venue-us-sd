@@ -2,13 +2,14 @@
   "id": 387318089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.569545,44.078401,-98.569545,44.078401",
     "geom:latitude":44.078401,
     "geom:longitude":-98.569545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S Wallace Ave",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387318089,
-    "wof:lastmodified":1449056943,
+    "wof:lastmodified":1467082703,
     "wof:name":"Jerauld County Equalization",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.569545,44.078401,-98.569545,44.078401],
-  "geometry": {"coordinates":[-98.569545,44.078401],"type":"Point"}
+  "bbox": [
+    -98.569545,
+    44.078401,
+    -98.569545,
+    44.078401
+],
+  "geometry": {"coordinates":[-98.56954500000001,44.078401],"type":"Point"}
 }

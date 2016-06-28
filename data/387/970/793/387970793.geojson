@@ -2,13 +2,14 @@
   "id": 387970793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.164995,45.500288,-98.164995,45.500288",
     "geom:latitude":45.500288,
     "geom:longitude":-98.164995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13008 403rd Ave",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387970793,
-    "wof:lastmodified":1449059857,
+    "wof:lastmodified":1467082762,
     "wof:name":"Cliff's Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.164995,45.500288,-98.164995,45.500288],
+  "bbox": [
+    -98.164995,
+    45.500288,
+    -98.164995,
+    45.500288
+],
   "geometry": {"coordinates":[-98.164995,45.500288],"type":"Point"}
 }

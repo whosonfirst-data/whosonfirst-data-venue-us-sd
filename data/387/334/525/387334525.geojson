@@ -2,13 +2,14 @@
   "id": 387334525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.406235,43.423625,-98.406235,43.423625",
     "geom:latitude":43.423625,
     "geom:longitude":-98.406235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387334525,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1467082709,
     "wof:name":"Corsica Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.406235,43.423625,-98.406235,43.423625],
+  "bbox": [
+    -98.406235,
+    43.423625,
+    -98.406235,
+    43.423625
+],
   "geometry": {"coordinates":[-98.406235,43.423625],"type":"Point"}
 }

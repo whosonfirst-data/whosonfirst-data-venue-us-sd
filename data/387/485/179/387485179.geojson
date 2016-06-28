@@ -2,13 +2,14 @@
   "id": 387485179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479203,45.457824,-98.479203,45.457824",
     "geom:latitude":45.457824,
     "geom:longitude":-98.479203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 S State St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387485179,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1467082733,
     "wof:name":"Brick Propane & Transport",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.479203,45.457824,-98.479203,45.457824],
+  "bbox": [
+    -98.479203,
+    45.457824,
+    -98.479203,
+    45.457824
+],
   "geometry": {"coordinates":[-98.479203,45.457824],"type":"Point"}
 }

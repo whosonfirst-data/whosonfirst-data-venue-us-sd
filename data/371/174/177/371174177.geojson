@@ -2,13 +2,14 @@
   "id": 371174177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.309677,44.650479,-97.309677,44.650479",
     "geom:latitude":44.650479,
     "geom:longitude":-97.309677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18861 445th Ave",
     "sg:city":"Hayti",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371174177,
-    "wof:lastmodified":1449049162,
+    "wof:lastmodified":1467082660,
     "wof:name":"Foley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gen"
     ]
 },
-  "bbox": [-97.309677,44.650479,-97.309677,44.650479],
-  "geometry": {"coordinates":[-97.309677,44.650479],"type":"Point"}
+  "bbox": [
+    -97.309677,
+    44.650479,
+    -97.309677,
+    44.650479
+],
+  "geometry": {"coordinates":[-97.30967699999999,44.650479],"type":"Point"}
 }

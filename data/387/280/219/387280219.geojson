@@ -2,13 +2,14 @@
   "id": 387280219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.643543,45.213063,-96.643543,45.213063",
     "geom:latitude":45.213063,
     "geom:longitude":-96.643543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Industrial Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387280219,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1467082724,
     "wof:name":"Montage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-96.643543,45.213063,-96.643543,45.213063],
-  "geometry": {"coordinates":[-96.643543,45.213063],"type":"Point"}
+  "bbox": [
+    -96.643543,
+    45.213063,
+    -96.643543,
+    45.213063
+],
+  "geometry": {"coordinates":[-96.64354299999999,45.213063],"type":"Point"}
 }

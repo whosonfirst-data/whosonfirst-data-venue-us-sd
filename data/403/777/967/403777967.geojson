@@ -2,13 +2,14 @@
   "id": 403777967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.570806,44.078245,-98.570806,44.078245",
     "geom:latitude":44.078245,
     "geom:longitude":-98.570806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Dakota Ave S",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403777967,
-    "wof:lastmodified":1449055346,
+    "wof:lastmodified":1467082680,
     "wof:name":"Wessington Springs Volunteer F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "v"
     ]
 },
-  "bbox": [-98.570806,44.078245,-98.570806,44.078245],
+  "bbox": [
+    -98.570806,
+    44.078245,
+    -98.570806,
+    44.078245
+],
   "geometry": {"coordinates":[-98.570806,44.078245],"type":"Point"}
 }

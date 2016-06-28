@@ -2,13 +2,14 @@
   "id": 387402213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515495,45.432931,-98.515495,45.432931",
     "geom:latitude":45.432931,
     "geom:longitude":-98.515495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2818 S Hwy 281",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387402213,
-    "wof:lastmodified":1449057318,
+    "wof:lastmodified":1467082711,
     "wof:name":"Hieb Trucking Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.515495,45.432931,-98.515495,45.432931],
+  "bbox": [
+    -98.515495,
+    45.432931,
+    -98.515495,
+    45.432931
+],
   "geometry": {"coordinates":[-98.515495,45.432931],"type":"Point"}
 }

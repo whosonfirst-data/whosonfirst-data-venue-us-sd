@@ -2,13 +2,14 @@
   "id": 403791457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.226762,43.62923,-98.226762,43.62923",
     "geom:latitude":43.62923,
     "geom:longitude":-98.226762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39809 259th St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403791457,
-    "wof:lastmodified":1449055660,
+    "wof:lastmodified":1467082682,
     "wof:name":"Mayer Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.226762,43.62923,-98.226762,43.62923],
-  "geometry": {"coordinates":[-98.226762,43.62923],"type":"Point"}
+  "bbox": [
+    -98.226762,
+    43.62923,
+    -98.226762,
+    43.62923
+],
+  "geometry": {"coordinates":[-98.22676199999999,43.62923],"type":"Point"}
 }

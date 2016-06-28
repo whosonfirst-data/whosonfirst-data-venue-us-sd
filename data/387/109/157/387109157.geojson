@@ -2,13 +2,14 @@
   "id": 387109157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.623048,43.461675,-96.623048,43.461675",
     "geom:latitude":43.461675,
     "geom:longitude":-96.623048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27086 Mariah Pl",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387109157,
-    "wof:lastmodified":1449057419,
+    "wof:lastmodified":1467082713,
     "wof:name":"Francis Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.623048,43.461675,-96.623048,43.461675],
+  "bbox": [
+    -96.623048,
+    43.461675,
+    -96.623048,
+    43.461675
+],
   "geometry": {"coordinates":[-96.623048,43.461675],"type":"Point"}
 }

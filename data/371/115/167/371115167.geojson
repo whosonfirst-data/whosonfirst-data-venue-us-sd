@@ -2,13 +2,14 @@
   "id": 371115167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.628669,45.767107,-99.628669,45.767107",
     "geom:latitude":45.767107,
     "geom:longitude":-99.628669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1307 J Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371115167,
-    "wof:lastmodified":1449049057,
+    "wof:lastmodified":1467082658,
     "wof:name":"Lakeview Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.628669,45.767107,-99.628669,45.767107],
+  "bbox": [
+    -99.628669,
+    45.767107,
+    -99.628669,
+    45.767107
+],
   "geometry": {"coordinates":[-99.628669,45.767107],"type":"Point"}
 }

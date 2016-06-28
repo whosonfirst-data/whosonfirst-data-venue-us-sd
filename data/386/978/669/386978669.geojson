@@ -2,13 +2,14 @@
   "id": 386978669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.882126,45.862291,-99.882126,45.862291",
     "geom:latitude":45.862291,
     "geom:longitude":-99.882126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10595 315th Ave",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386978669,
-    "wof:lastmodified":1449028802,
+    "wof:lastmodified":1467082652,
     "wof:name":"Ebel Aldeen Hay Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.882126,45.862291,-99.882126,45.862291],
+  "bbox": [
+    -99.882126,
+    45.862291,
+    -99.882126,
+    45.862291
+],
   "geometry": {"coordinates":[-99.882126,45.862291],"type":"Point"}
 }

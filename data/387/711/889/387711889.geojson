@@ -2,13 +2,14 @@
   "id": 387711889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.905893,43.412808,-98.905893,43.412808",
     "geom:latitude":43.412808,
     "geom:longitude":-98.905893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36388 274th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387711889,
-    "wof:lastmodified":1449059220,
+    "wof:lastmodified":1467082749,
     "wof:name":"Summerville Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.905893,43.412808,-98.905893,43.412808],
-  "geometry": {"coordinates":[-98.905893,43.412808],"type":"Point"}
+  "bbox": [
+    -98.905893,
+    43.412808,
+    -98.905893,
+    43.412808
+],
+  "geometry": {"coordinates":[-98.90589300000001,43.412808],"type":"Point"}
 }

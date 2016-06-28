@@ -2,13 +2,14 @@
   "id": 387478437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691392,43.536669,-96.691392,43.536669",
     "geom:latitude":43.536669,
     "geom:longitude":-96.691392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 S Cleveland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387478437,
-    "wof:lastmodified":1449056245,
+    "wof:lastmodified":1467082689,
     "wof:name":"Andy's Affiliated Foods",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.691392,43.536669,-96.691392,43.536669],
-  "geometry": {"coordinates":[-96.691392,43.536669],"type":"Point"}
+  "bbox": [
+    -96.691392,
+    43.536669,
+    -96.691392,
+    43.536669
+],
+  "geometry": {"coordinates":[-96.69139199999999,43.536669],"type":"Point"}
 }

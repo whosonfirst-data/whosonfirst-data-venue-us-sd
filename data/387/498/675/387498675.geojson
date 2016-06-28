@@ -2,13 +2,14 @@
   "id": 387498675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.640789,45.636783,-99.640789,45.636783",
     "geom:latitude":45.636783,
     "geom:longitude":-99.640789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32668 121st St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387498675,
-    "wof:lastmodified":1449058989,
+    "wof:lastmodified":1467082744,
     "wof:name":"Stanley Strobel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.640789,45.636783,-99.640789,45.636783],
+  "bbox": [
+    -99.640789,
+    45.636783,
+    -99.640789,
+    45.636783
+],
   "geometry": {"coordinates":[-99.640789,45.636783],"type":"Point"}
 }

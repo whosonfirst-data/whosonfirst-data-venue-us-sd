@@ -2,13 +2,14 @@
   "id": 387303549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.619057,43.562419,-96.619057,43.562419",
     "geom:latitude":43.562419,
     "geom:longitude":-96.619057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 E Saddle Creek Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387303549,
-    "wof:lastmodified":1449056150,
+    "wof:lastmodified":1467082688,
     "wof:name":"Stangohr & Stangohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-96.619057,43.562419,-96.619057,43.562419],
+  "bbox": [
+    -96.619057,
+    43.562419,
+    -96.619057,
+    43.562419
+],
   "geometry": {"coordinates":[-96.619057,43.562419],"type":"Point"}
 }

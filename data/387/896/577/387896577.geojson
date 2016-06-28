@@ -2,13 +2,14 @@
   "id": 387896577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.208732,43.310286,-98.208732,43.310286",
     "geom:latitude":43.310286,
     "geom:longitude":-98.208732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28111 399th Ave",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387896577,
-    "wof:lastmodified":1449057488,
+    "wof:lastmodified":1467082714,
     "wof:name":"David Brenner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.208732,43.310286,-98.208732,43.310286],
+  "bbox": [
+    -98.208732,
+    43.310286,
+    -98.208732,
+    43.310286
+],
   "geometry": {"coordinates":[-98.208732,43.310286],"type":"Point"}
 }

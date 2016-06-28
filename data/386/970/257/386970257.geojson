@@ -2,13 +2,14 @@
   "id": 386970257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.741402,43.553484,-96.741402,43.553484",
     "geom:latitude":43.553484,
     "geom:longitude":-96.741402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N Grange Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386970257,
-    "wof:lastmodified":1449028969,
+    "wof:lastmodified":1467082655,
     "wof:name":"Precision Testing Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "inspection"
     ]
 },
-  "bbox": [-96.741402,43.553484,-96.741402,43.553484],
-  "geometry": {"coordinates":[-96.741402,43.553484],"type":"Point"}
+  "bbox": [
+    -96.741402,
+    43.553484,
+    -96.741402,
+    43.553484
+],
+  "geometry": {"coordinates":[-96.74140199999999,43.553484],"type":"Point"}
 }

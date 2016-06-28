@@ -2,13 +2,14 @@
   "id": 403816201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790426,44.312458,-96.790426,44.312458",
     "geom:latitude":44.312458,
     "geom:longitude":-96.790426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 9th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816201,
-    "wof:lastmodified":1449055416,
+    "wof:lastmodified":1467082681,
     "wof:name":"Mt Calvary Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.790426,44.312458,-96.790426,44.312458],
+  "bbox": [
+    -96.790426,
+    44.312458,
+    -96.790426,
+    44.312458
+],
   "geometry": {"coordinates":[-96.790426,44.312458],"type":"Point"}
 }

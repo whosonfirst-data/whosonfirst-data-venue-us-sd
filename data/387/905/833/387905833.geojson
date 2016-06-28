@@ -2,13 +2,14 @@
   "id": 387905833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.983151,44.52091,-99.983151,44.52091",
     "geom:latitude":44.52091,
     "geom:longitude":-99.983151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 N Ree St",
     "sg:city":"Blunt",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387905833,
-    "wof:lastmodified":1449057590,
+    "wof:lastmodified":1467082716,
     "wof:name":"King Lawn Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn"
     ]
 },
-  "bbox": [-99.983151,44.52091,-99.983151,44.52091],
-  "geometry": {"coordinates":[-99.983151,44.52091],"type":"Point"}
+  "bbox": [
+    -99.983151,
+    44.52091,
+    -99.983151,
+    44.52091
+],
+  "geometry": {"coordinates":[-99.98315100000001,44.52091],"type":"Point"}
 }

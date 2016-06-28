@@ -2,13 +2,14 @@
   "id": 387306523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72078,43.535662,-96.72078,43.535662",
     "geom:latitude":43.535662,
     "geom:longitude":-96.72078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387306523,
-    "wof:lastmodified":1449059746,
+    "wof:lastmodified":1467082759,
     "wof:name":"C & M Plumbing & Heating",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.72078,43.535662,-96.72078,43.535662],
+  "bbox": [
+    -96.72078,
+    43.535662,
+    -96.72078,
+    43.535662
+],
   "geometry": {"coordinates":[-96.72078,43.535662],"type":"Point"}
 }

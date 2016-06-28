@@ -2,13 +2,14 @@
   "id": 371165927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37741,44.362324,-97.37741,44.362324",
     "geom:latitude":44.362324,
     "geom:longitude":-97.37741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Main Ave N",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371165927,
-    "wof:lastmodified":1449050147,
+    "wof:lastmodified":1467082673,
     "wof:name":"Johnson-Henry Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.37741,44.362324,-97.37741,44.362324],
+  "bbox": [
+    -97.37741,
+    44.362324,
+    -97.37741,
+    44.362324
+],
   "geometry": {"coordinates":[-97.37741,44.362324],"type":"Point"}
 }

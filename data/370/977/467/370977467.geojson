@@ -2,13 +2,14 @@
   "id": 370977467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.441288,45.472222,-98.441288,45.472222",
     "geom:latitude":45.472222,
     "geom:longitude":-98.441288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Idea Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":370977467,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1467082658,
     "wof:name":"Quantum Plastics Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "molding"
     ]
 },
-  "bbox": [-98.441288,45.472222,-98.441288,45.472222],
+  "bbox": [
+    -98.441288,
+    45.472222,
+    -98.441288,
+    45.472222
+],
   "geometry": {"coordinates":[-98.441288,45.472222],"type":"Point"}
 }

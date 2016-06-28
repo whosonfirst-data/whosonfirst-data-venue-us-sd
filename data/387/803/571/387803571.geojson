@@ -2,13 +2,14 @@
   "id": 387803571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558154,43.228947,-97.558154,43.228947",
     "geom:latitude":43.228947,
     "geom:longitude":-97.558154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28683 432nd Ave",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387803571,
-    "wof:lastmodified":1449059963,
+    "wof:lastmodified":1467082764,
     "wof:name":"Larry Bezug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.558154,43.228947,-97.558154,43.228947],
+  "bbox": [
+    -97.558154,
+    43.228947,
+    -97.558154,
+    43.228947
+],
   "geometry": {"coordinates":[-97.558154,43.228947],"type":"Point"}
 }

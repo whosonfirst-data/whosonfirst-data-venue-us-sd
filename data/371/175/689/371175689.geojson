@@ -2,13 +2,14 @@
   "id": 371175689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799498,43.527809,-96.799498,43.527809",
     "geom:latitude":43.527809,
     "geom:longitude":-96.799498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5904 W 27th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371175689,
-    "wof:lastmodified":1449049784,
+    "wof:lastmodified":1467082668,
     "wof:name":"Swim America",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.799498,43.527809,-96.799498,43.527809],
+  "bbox": [
+    -96.799498,
+    43.527809,
+    -96.799498,
+    43.527809
+],
   "geometry": {"coordinates":[-96.799498,43.527809],"type":"Point"}
 }

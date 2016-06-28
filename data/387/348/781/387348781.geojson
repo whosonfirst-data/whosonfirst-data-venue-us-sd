@@ -2,13 +2,14 @@
   "id": 387348781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.782297,44.447487,-103.782297,44.447487",
     "geom:latitude":44.447487,
     "geom:longitude":-103.782297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Wrangler Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387348781,
-    "wof:lastmodified":1449056279,
+    "wof:lastmodified":1467082690,
     "wof:name":"Five Star Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "floor"
     ]
 },
-  "bbox": [-103.782297,44.447487,-103.782297,44.447487],
+  "bbox": [
+    -103.782297,
+    44.447487,
+    -103.782297,
+    44.447487
+],
   "geometry": {"coordinates":[-103.782297,44.447487],"type":"Point"}
 }

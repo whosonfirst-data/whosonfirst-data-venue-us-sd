@@ -2,13 +2,14 @@
   "id": 371046697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.804607,45.543926,-98.804607,45.543926",
     "geom:latitude":45.543926,
     "geom:longitude":-98.804607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12790 369th Ave",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371046697,
-    "wof:lastmodified":1449049635,
+    "wof:lastmodified":1467082666,
     "wof:name":"Pettigrew Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.804607,45.543926,-98.804607,45.543926],
+  "bbox": [
+    -98.804607,
+    45.543926,
+    -98.804607,
+    45.543926
+],
   "geometry": {"coordinates":[-98.804607,45.543926],"type":"Point"}
 }

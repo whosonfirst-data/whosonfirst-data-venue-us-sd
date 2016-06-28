@@ -2,13 +2,14 @@
   "id": 387580665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249099,44.076557,-103.249099,44.076557",
     "geom:latitude":44.076557,
     "geom:longitude":-103.249099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 W Fulton St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387580665,
-    "wof:lastmodified":1449058669,
+    "wof:lastmodified":1467082738,
     "wof:name":"Atwater Chemical Services",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.249099,44.076557,-103.249099,44.076557],
+  "bbox": [
+    -103.249099,
+    44.076557,
+    -103.249099,
+    44.076557
+],
   "geometry": {"coordinates":[-103.249099,44.076557],"type":"Point"}
 }

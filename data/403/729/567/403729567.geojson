@@ -2,13 +2,14 @@
   "id": 403729567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514288,45.332138,-97.514288,45.332138",
     "geom:latitude":45.332138,
     "geom:longitude":-97.514288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 E 7th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403729567,
-    "wof:lastmodified":1449055319,
+    "wof:lastmodified":1467082680,
     "wof:name":"Day County Restricted Use Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.514288,45.332138,-97.514288,45.332138],
-  "geometry": {"coordinates":[-97.514288,45.332138],"type":"Point"}
+  "bbox": [
+    -97.514288,
+    45.332138,
+    -97.514288,
+    45.332138
+],
+  "geometry": {"coordinates":[-97.51428799999999,45.332138],"type":"Point"}
 }

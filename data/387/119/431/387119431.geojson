@@ -2,13 +2,14 @@
   "id": 387119431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.185062,43.700951,-97.185062,43.700951",
     "geom:latitude":43.700951,
     "geom:longitude":-97.185062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Main St",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387119431,
-    "wof:lastmodified":1449058826,
+    "wof:lastmodified":1467082741,
     "wof:name":"Irish Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.185062,43.700951,-97.185062,43.700951],
+  "bbox": [
+    -97.185062,
+    43.700951,
+    -97.185062,
+    43.700951
+],
   "geometry": {"coordinates":[-97.185062,43.700951],"type":"Point"}
 }

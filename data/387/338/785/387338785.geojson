@@ -2,13 +2,14 @@
   "id": 387338785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.395966,45.357491,-98.395966,45.357491",
     "geom:latitude":45.357491,
     "geom:longitude":-98.395966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39173 140th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387338785,
-    "wof:lastmodified":1449057413,
+    "wof:lastmodified":1467082713,
     "wof:name":"Companion Animal Mobile Vet",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-98.395966,45.357491,-98.395966,45.357491],
+  "bbox": [
+    -98.395966,
+    45.357491,
+    -98.395966,
+    45.357491
+],
   "geometry": {"coordinates":[-98.395966,45.357491],"type":"Point"}
 }

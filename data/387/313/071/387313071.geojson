@@ -2,13 +2,14 @@
   "id": 387313071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.496788,45.211778,-96.496788,45.211778",
     "geom:latitude":45.211778,
     "geom:longitude":-96.496788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14982 485th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387313071,
-    "wof:lastmodified":1449056234,
+    "wof:lastmodified":1467082689,
     "wof:name":"Fisher Sand & Gravel Milbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-96.496788,45.211778,-96.496788,45.211778],
+  "bbox": [
+    -96.496788,
+    45.211778,
+    -96.496788,
+    45.211778
+],
   "geometry": {"coordinates":[-96.496788,45.211778],"type":"Point"}
 }

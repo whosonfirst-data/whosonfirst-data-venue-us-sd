@@ -2,13 +2,14 @@
   "id": 387952953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733481,43.79014,-96.733481,43.79014",
     "geom:latitude":43.79014,
     "geom:longitude":-96.733481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47381 248th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387952953,
-    "wof:lastmodified":1449058849,
+    "wof:lastmodified":1467082742,
     "wof:name":"Minnehaha Community Water Corp",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.733481,43.79014,-96.733481,43.79014],
+  "bbox": [
+    -96.733481,
+    43.79014,
+    -96.733481,
+    43.79014
+],
   "geometry": {"coordinates":[-96.733481,43.79014],"type":"Point"}
 }

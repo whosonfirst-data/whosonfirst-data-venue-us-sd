@@ -2,13 +2,14 @@
   "id": 403723601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.205952,45.857026,-99.205952,45.857026",
     "geom:latitude":45.857026,
     "geom:longitude":-99.205952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Bacon St",
     "sg:city":"Longlake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403723601,
-    "wof:lastmodified":1449055422,
+    "wof:lastmodified":1467082681,
     "wof:name":"L & L Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-99.205952,45.857026,-99.205952,45.857026],
+  "bbox": [
+    -99.205952,
+    45.857026,
+    -99.205952,
+    45.857026
+],
   "geometry": {"coordinates":[-99.205952,45.857026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371191341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.926575,43.577085,-97.926575,43.577085",
     "geom:latitude":43.577085,
     "geom:longitude":-97.926575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26206 414th Ave",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371191341,
-    "wof:lastmodified":1449049668,
+    "wof:lastmodified":1467082667,
     "wof:name":"Riggs Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.926575,43.577085,-97.926575,43.577085],
+  "bbox": [
+    -97.926575,
+    43.577085,
+    -97.926575,
+    43.577085
+],
   "geometry": {"coordinates":[-97.926575,43.577085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371099795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988424,44.517159,-98.988424,44.517159",
     "geom:latitude":44.517159,
     "geom:longitude":-98.988424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E 2nd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371099795,
-    "wof:lastmodified":1449049738,
+    "wof:lastmodified":1467082668,
     "wof:name":"Midwest Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.988424,44.517159,-98.988424,44.517159],
-  "geometry": {"coordinates":[-98.988424,44.517159],"type":"Point"}
+  "bbox": [
+    -98.988424,
+    44.517159,
+    -98.988424,
+    44.517159
+],
+  "geometry": {"coordinates":[-98.98842399999999,44.517159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387685193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598011,43.766921,-103.598011,43.766921",
     "geom:latitude":43.766921,
     "geom:longitude":-103.598011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387685193,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1467082761,
     "wof:name":"Jay Badgett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.598011,43.766921,-103.598011,43.766921],
+  "bbox": [
+    -103.598011,
+    43.766921,
+    -103.598011,
+    43.766921
+],
   "geometry": {"coordinates":[-103.598011,43.766921],"type":"Point"}
 }

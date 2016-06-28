@@ -2,13 +2,14 @@
   "id": 403822515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.80009,44.311589,-96.80009,44.311589",
     "geom:latitude":44.311589,
     "geom:longitude":-96.80009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403822515,
-    "wof:lastmodified":1449055911,
+    "wof:lastmodified":1467082684,
     "wof:name":"Hansen & Gabel Appraisals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-96.80009,44.311589,-96.80009,44.311589],
+  "bbox": [
+    -96.80009,
+    44.311589,
+    -96.80009,
+    44.311589
+],
   "geometry": {"coordinates":[-96.80009,44.311589],"type":"Point"}
 }

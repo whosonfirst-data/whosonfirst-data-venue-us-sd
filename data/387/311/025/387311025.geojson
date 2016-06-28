@@ -2,13 +2,14 @@
   "id": 387311025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926783,44.323597,-96.926783,44.323597",
     "geom:latitude":44.323597,
     "geom:longitude":-96.926783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387311025,
-    "wof:lastmodified":1449056997,
+    "wof:lastmodified":1467082704,
     "wof:name":"Vanden Berg Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.926783,44.323597,-96.926783,44.323597],
+  "bbox": [
+    -96.926783,
+    44.323597,
+    -96.926783,
+    44.323597
+],
   "geometry": {"coordinates":[-96.926783,44.323597],"type":"Point"}
 }

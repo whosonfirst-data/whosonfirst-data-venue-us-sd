@@ -2,13 +2,14 @@
   "id": 387900979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710114,43.823219,-96.710114,43.823219",
     "geom:latitude":43.823219,
     "geom:longitude":-96.710114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387900979,
-    "wof:lastmodified":1449057748,
+    "wof:lastmodified":1467082720,
     "wof:name":"Dells Theater",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "indoor"
     ]
 },
-  "bbox": [-96.710114,43.823219,-96.710114,43.823219],
+  "bbox": [
+    -96.710114,
+    43.823219,
+    -96.710114,
+    43.823219
+],
   "geometry": {"coordinates":[-96.710114,43.823219],"type":"Point"}
 }

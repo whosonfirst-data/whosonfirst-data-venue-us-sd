@@ -2,13 +2,14 @@
   "id": 387229669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.31064,44.357716,-97.31064,44.357716",
     "geom:latitude":44.357716,
     "geom:longitude":-97.31064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20866 445th Ave",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387229669,
-    "wof:lastmodified":1449059145,
+    "wof:lastmodified":1467082748,
     "wof:name":"Blaine Tolzin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.31064,44.357716,-97.31064,44.357716],
-  "geometry": {"coordinates":[-97.31064,44.357716],"type":"Point"}
+  "bbox": [
+    -97.31064,
+    44.357716,
+    -97.31064,
+    44.357716
+],
+  "geometry": {"coordinates":[-97.31064000000001,44.357716],"type":"Point"}
 }

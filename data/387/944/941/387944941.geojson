@@ -2,13 +2,14 @@
   "id": 387944941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746273,43.526538,-96.746273,43.526538",
     "geom:latitude":43.526538,
     "geom:longitude":-96.746273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387944941,
-    "wof:lastmodified":1449058012,
+    "wof:lastmodified":1467082725,
     "wof:name":"Edison Middle",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-96.746273,43.526538,-96.746273,43.526538],
+  "bbox": [
+    -96.746273,
+    43.526538,
+    -96.746273,
+    43.526538
+],
   "geometry": {"coordinates":[-96.746273,43.526538],"type":"Point"}
 }

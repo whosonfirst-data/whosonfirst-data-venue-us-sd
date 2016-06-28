@@ -2,13 +2,14 @@
   "id": 387376915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493606,45.473798,-98.493606,45.473798",
     "geom:latitude":45.473798,
     "geom:longitude":-98.493606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 8th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387376915,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1467082712,
     "wof:name":"Macs Cycle Works Gerts Crafts",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-98.493606,45.473798,-98.493606,45.473798],
+  "bbox": [
+    -98.493606,
+    45.473798,
+    -98.493606,
+    45.473798
+],
   "geometry": {"coordinates":[-98.493606,45.473798],"type":"Point"}
 }

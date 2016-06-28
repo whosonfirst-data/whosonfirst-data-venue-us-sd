@@ -2,13 +2,14 @@
   "id": 387900485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.324958,44.374187,-100.324958,44.374187",
     "geom:latitude":44.374187,
     "geom:longitude":-100.324958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 N Harrison Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387900485,
-    "wof:lastmodified":1449057748,
+    "wof:lastmodified":1467082720,
     "wof:name":"Ronald G Tedrow CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-100.324958,44.374187,-100.324958,44.374187],
+  "bbox": [
+    -100.324958,
+    44.374187,
+    -100.324958,
+    44.374187
+],
   "geometry": {"coordinates":[-100.324958,44.374187],"type":"Point"}
 }

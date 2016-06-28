@@ -2,13 +2,14 @@
   "id": 386985667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.606514,43.761963,-103.606514,43.761963",
     "geom:latitude":43.761963,
     "geom:longitude":-103.606514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gordon St",
     "sg:city":"Batesland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386985667,
-    "wof:lastmodified":1449028778,
+    "wof:lastmodified":1467082652,
     "wof:name":"Wakpamni Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-103.606514,43.761963,-103.606514,43.761963],
+  "bbox": [
+    -103.606514,
+    43.761963,
+    -103.606514,
+    43.761963
+],
   "geometry": {"coordinates":[-103.606514,43.761963],"type":"Point"}
 }

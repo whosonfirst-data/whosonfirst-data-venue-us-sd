@@ -2,13 +2,14 @@
   "id": 403820237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.256316,44.101144,-103.256316,44.101144",
     "geom:latitude":44.101144,
     "geom:longitude":-103.256316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2341 S Plaza Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403820237,
-    "wof:lastmodified":1449055332,
+    "wof:lastmodified":1467082680,
     "wof:name":"Geidel Concrete Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.256316,44.101144,-103.256316,44.101144],
+  "bbox": [
+    -103.256316,
+    44.101144,
+    -103.256316,
+    44.101144
+],
   "geometry": {"coordinates":[-103.256316,44.101144],"type":"Point"}
 }

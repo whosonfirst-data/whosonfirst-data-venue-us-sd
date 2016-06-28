@@ -2,13 +2,14 @@
   "id": 387296365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377566,43.055368,-97.377566,43.055368",
     "geom:latitude":43.055368,
     "geom:longitude":-97.377566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29882 NE Jim River Rd",
     "sg:city":"Mission Hill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387296365,
-    "wof:lastmodified":1449059214,
+    "wof:lastmodified":1467082749,
     "wof:name":"Sweetwater Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.377566,43.055368,-97.377566,43.055368],
+  "bbox": [
+    -97.377566,
+    43.055368,
+    -97.377566,
+    43.055368
+],
   "geometry": {"coordinates":[-97.377566,43.055368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387497903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.927614,42.781267,-96.927614,42.781267",
     "geom:latitude":42.781267,
     "geom:longitude":-96.927614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Harvard St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387497903,
-    "wof:lastmodified":1449059867,
+    "wof:lastmodified":1467082762,
     "wof:name":"Francis Armstrong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.927614,42.781267,-96.927614,42.781267],
-  "geometry": {"coordinates":[-96.927614,42.781267],"type":"Point"}
+  "bbox": [
+    -96.927614,
+    42.781267,
+    -96.927614,
+    42.781267
+],
+  "geometry": {"coordinates":[-96.92761400000001,42.781267],"type":"Point"}
 }

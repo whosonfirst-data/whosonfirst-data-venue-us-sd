@@ -2,13 +2,14 @@
   "id": 387643289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.861956,45.409674,-96.861956,45.409674",
     "geom:latitude":45.409674,
     "geom:longitude":-96.861956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 5th Ave",
     "sg:city":"Wilmot",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387643289,
-    "wof:lastmodified":1449059418,
+    "wof:lastmodified":1467082753,
     "wof:name":"Degreef Jennifer Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.861956,45.409674,-96.861956,45.409674],
-  "geometry": {"coordinates":[-96.861956,45.409674],"type":"Point"}
+  "bbox": [
+    -96.861956,
+    45.409674,
+    -96.861956,
+    45.409674
+],
+  "geometry": {"coordinates":[-96.86195600000001,45.409674],"type":"Point"}
 }

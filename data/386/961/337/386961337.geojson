@@ -2,13 +2,14 @@
   "id": 386961337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734462,43.071311,-97.734462,43.071311",
     "geom:latitude":43.071311,
     "geom:longitude":-97.734462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29778 423rd Ave",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386961337,
-    "wof:lastmodified":1449028964,
+    "wof:lastmodified":1467082655,
     "wof:name":"Ireland Cattle Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-97.734462,43.071311,-97.734462,43.071311],
-  "geometry": {"coordinates":[-97.734462,43.071311],"type":"Point"}
+  "bbox": [
+    -97.734462,
+    43.071311,
+    -97.734462,
+    43.071311
+],
+  "geometry": {"coordinates":[-97.73446199999999,43.071311],"type":"Point"}
 }

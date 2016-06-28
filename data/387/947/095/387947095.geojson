@@ -2,13 +2,14 @@
   "id": 387947095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.591761,44.34023,-96.591761,44.34023",
     "geom:latitude":44.34023,
     "geom:longitude":-96.591761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48088 210th St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387947095,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1467082742,
     "wof:name":"Rolland Colony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.591761,44.34023,-96.591761,44.34023],
-  "geometry": {"coordinates":[-96.591761,44.34023],"type":"Point"}
+  "bbox": [
+    -96.591761,
+    44.34023,
+    -96.591761,
+    44.34023
+],
+  "geometry": {"coordinates":[-96.59176100000001,44.34023],"type":"Point"}
 }

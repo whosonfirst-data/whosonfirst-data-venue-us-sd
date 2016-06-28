@@ -2,13 +2,14 @@
   "id": 387041371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811225,43.662619,-96.811225,43.662619",
     "geom:latitude":43.662619,
     "geom:longitude":-96.811225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 N West Ave",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387041371,
-    "wof:lastmodified":1449057476,
+    "wof:lastmodified":1467082714,
     "wof:name":"New Hope Chiropractic",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.811225,43.662619,-96.811225,43.662619],
-  "geometry": {"coordinates":[-96.811225,43.662619],"type":"Point"}
+  "bbox": [
+    -96.811225,
+    43.662619,
+    -96.811225,
+    43.662619
+],
+  "geometry": {"coordinates":[-96.81122499999999,43.662619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387371121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191615,44.083183,-103.191615,44.083183",
     "geom:latitude":44.083183,
     "geom:longitude":-103.191615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387371121,
-    "wof:lastmodified":1449059063,
+    "wof:lastmodified":1467082746,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-103.191615,44.083183,-103.191615,44.083183],
+  "bbox": [
+    -103.191615,
+    44.083183,
+    -103.191615,
+    44.083183
+],
   "geometry": {"coordinates":[-103.191615,44.083183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387534999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.210173,44.58649,-97.210173,44.58649",
     "geom:latitude":44.58649,
     "geom:longitude":-97.210173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Burlington St",
     "sg:city":"Lake Norden",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387534999,
-    "wof:lastmodified":1449057093,
+    "wof:lastmodified":1467082706,
     "wof:name":"Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.210173,44.58649,-97.210173,44.58649],
+  "bbox": [
+    -97.210173,
+    44.58649,
+    -97.210173,
+    44.58649
+],
   "geometry": {"coordinates":[-97.210173,44.58649],"type":"Point"}
 }

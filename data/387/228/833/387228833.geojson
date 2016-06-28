@@ -2,13 +2,14 @@
   "id": 387228833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.571309,45.018518,-96.571309,45.018518",
     "geom:latitude":45.018518,
     "geom:longitude":-96.571309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N 2nd Ave",
     "sg:city":"Revillo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387228833,
-    "wof:lastmodified":1449057288,
+    "wof:lastmodified":1467082710,
     "wof:name":"Schmieding Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-96.571309,45.018518,-96.571309,45.018518],
+  "bbox": [
+    -96.571309,
+    45.018518,
+    -96.571309,
+    45.018518
+],
   "geometry": {"coordinates":[-96.571309,45.018518],"type":"Point"}
 }

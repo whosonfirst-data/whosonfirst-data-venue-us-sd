@@ -2,13 +2,14 @@
   "id": 387797279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859833,44.499474,-103.859833,44.499474",
     "geom:latitude":44.499474,
     "geom:longitude":-103.859833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 North Ave",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387797279,
-    "wof:lastmodified":1449059541,
+    "wof:lastmodified":1467082755,
     "wof:name":"Spearfish Job Svc Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "government"
     ]
 },
-  "bbox": [-103.859833,44.499474,-103.859833,44.499474],
-  "geometry": {"coordinates":[-103.859833,44.499474],"type":"Point"}
+  "bbox": [
+    -103.859833,
+    44.499474,
+    -103.859833,
+    44.499474
+],
+  "geometry": {"coordinates":[-103.85983299999999,44.499474],"type":"Point"}
 }

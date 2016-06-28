@@ -2,13 +2,14 @@
   "id": 371186597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.252812,44.907562,-97.252812,44.907562",
     "geom:latitude":44.907562,
     "geom:longitude":-97.252812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Marina Bay Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371186597,
-    "wof:lastmodified":1449049861,
+    "wof:lastmodified":1467082669,
     "wof:name":"Assoction Affairs Celebrations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.252812,44.907562,-97.252812,44.907562],
-  "geometry": {"coordinates":[-97.252812,44.907562],"type":"Point"}
+  "bbox": [
+    -97.252812,
+    44.907562,
+    -97.252812,
+    44.907562
+],
+  "geometry": {"coordinates":[-97.25281200000001,44.907562],"type":"Point"}
 }

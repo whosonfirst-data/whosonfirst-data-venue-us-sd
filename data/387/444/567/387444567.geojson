@@ -2,13 +2,14 @@
   "id": 387444567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.399976,42.901352,-97.399976,42.901352",
     "geom:latitude":42.901352,
     "geom:longitude":-97.399976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Fox Run Pkwy",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387444567,
-    "wof:lastmodified":1449059404,
+    "wof:lastmodified":1467082753,
     "wof:name":"First Fitness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-97.399976,42.901352,-97.399976,42.901352],
+  "bbox": [
+    -97.399976,
+    42.901352,
+    -97.399976,
+    42.901352
+],
   "geometry": {"coordinates":[-97.399976,42.901352],"type":"Point"}
 }

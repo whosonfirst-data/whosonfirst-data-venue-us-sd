@@ -2,13 +2,14 @@
   "id": 387206045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928438,43.616357,-96.928438,43.616357",
     "geom:latitude":43.616357,
     "geom:longitude":-96.928438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46406 260th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387206045,
-    "wof:lastmodified":1449058697,
+    "wof:lastmodified":1467082739,
     "wof:name":"Robert A Jacobsma",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.928438,43.616357,-96.928438,43.616357],
+  "bbox": [
+    -96.928438,
+    43.616357,
+    -96.928438,
+    43.616357
+],
   "geometry": {"coordinates":[-96.928438,43.616357],"type":"Point"}
 }

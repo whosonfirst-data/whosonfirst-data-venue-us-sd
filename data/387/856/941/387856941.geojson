@@ -2,13 +2,14 @@
   "id": 387856941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.804702,44.081823,-97.804702,44.081823",
     "geom:latitude":44.081823,
     "geom:longitude":-97.804702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41985 228th St",
     "sg:city":"Fedora",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387856941,
-    "wof:lastmodified":1449057176,
+    "wof:lastmodified":1467082708,
     "wof:name":"Bert Siegel Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-97.804702,44.081823,-97.804702,44.081823],
-  "geometry": {"coordinates":[-97.804702,44.081823],"type":"Point"}
+  "bbox": [
+    -97.804702,
+    44.081823,
+    -97.804702,
+    44.081823
+],
+  "geometry": {"coordinates":[-97.80470200000001,44.081823],"type":"Point"}
 }

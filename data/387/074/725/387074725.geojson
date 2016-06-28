@@ -2,13 +2,14 @@
   "id": 387074725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775039,44.29212,-96.775039,44.29212",
     "geom:latitude":44.29212,
     "geom:longitude":-96.775039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387074725,
-    "wof:lastmodified":1449058161,
+    "wof:lastmodified":1467082728,
     "wof:name":"Peace Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.775039,44.29212,-96.775039,44.29212],
-  "geometry": {"coordinates":[-96.775039,44.29212],"type":"Point"}
+  "bbox": [
+    -96.775039,
+    44.29212,
+    -96.775039,
+    44.29212
+],
+  "geometry": {"coordinates":[-96.77503900000001,44.29212],"type":"Point"}
 }

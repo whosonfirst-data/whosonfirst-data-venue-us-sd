@@ -2,13 +2,14 @@
   "id": 387164707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.288415,43.058224,-98.288415,43.058224",
     "geom:latitude":43.058224,
     "geom:longitude":-98.288415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29854 395th Ave",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387164707,
-    "wof:lastmodified":1449056564,
+    "wof:lastmodified":1467082696,
     "wof:name":"Fischer Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hay"
     ]
 },
-  "bbox": [-98.288415,43.058224,-98.288415,43.058224],
+  "bbox": [
+    -98.288415,
+    43.058224,
+    -98.288415,
+    43.058224
+],
   "geometry": {"coordinates":[-98.288415,43.058224],"type":"Point"}
 }

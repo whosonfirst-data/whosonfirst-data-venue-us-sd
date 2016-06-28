@@ -2,13 +2,14 @@
   "id": 371173533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714683,43.587457,-96.714683,43.587457",
     "geom:latitude":43.587457,
     "geom:longitude":-96.714683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Benson Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371173533,
-    "wof:lastmodified":1449049235,
+    "wof:lastmodified":1467082661,
     "wof:name":"Beaverex Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-96.714683,43.587457,-96.714683,43.587457],
-  "geometry": {"coordinates":[-96.714683,43.587457],"type":"Point"}
+  "bbox": [
+    -96.714683,
+    43.587457,
+    -96.714683,
+    43.587457
+],
+  "geometry": {"coordinates":[-96.71468299999999,43.587457],"type":"Point"}
 }

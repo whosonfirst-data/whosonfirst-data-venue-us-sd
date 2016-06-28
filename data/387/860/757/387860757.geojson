@@ -2,13 +2,14 @@
   "id": 387860757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798694,44.308872,-96.798694,44.308872",
     "geom:latitude":44.308872,
     "geom:longitude":-96.798694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387860757,
-    "wof:lastmodified":1449057798,
+    "wof:lastmodified":1467082721,
     "wof:name":"Brookings Book Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.798694,44.308872,-96.798694,44.308872],
+  "bbox": [
+    -96.798694,
+    44.308872,
+    -96.798694,
+    44.308872
+],
   "geometry": {"coordinates":[-96.798694,44.308872],"type":"Point"}
 }

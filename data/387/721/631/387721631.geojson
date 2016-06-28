@@ -2,13 +2,14 @@
   "id": 387721631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805367,43.526506,-96.805367,43.526506",
     "geom:latitude":43.526506,
     "geom:longitude":-96.805367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 S Thatcher Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387721631,
-    "wof:lastmodified":1449059910,
+    "wof:lastmodified":1467082763,
     "wof:name":"Barlage Builders",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.805367,43.526506,-96.805367,43.526506],
+  "bbox": [
+    -96.805367,
+    43.526506,
+    -96.805367,
+    43.526506
+],
   "geometry": {"coordinates":[-96.805367,43.526506],"type":"Point"}
 }

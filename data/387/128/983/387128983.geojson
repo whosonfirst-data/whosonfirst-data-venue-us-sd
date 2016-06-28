@@ -2,13 +2,14 @@
   "id": 387128983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.163755,43.527527,-98.163755,43.527527",
     "geom:latitude":43.527527,
     "geom:longitude":-98.163755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40252 266th St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387128983,
-    "wof:lastmodified":1449057598,
+    "wof:lastmodified":1467082717,
     "wof:name":"Louis Schoenfelsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.163755,43.527527,-98.163755,43.527527],
-  "geometry": {"coordinates":[-98.163755,43.527527],"type":"Point"}
+  "bbox": [
+    -98.163755,
+    43.527527,
+    -98.163755,
+    43.527527
+],
+  "geometry": {"coordinates":[-98.16375499999999,43.527527],"type":"Point"}
 }

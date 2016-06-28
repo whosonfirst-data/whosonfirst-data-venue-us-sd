@@ -2,13 +2,14 @@
   "id": 387500723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090901,43.279911,-97.090901,43.279911",
     "geom:latitude":43.279911,
     "geom:longitude":-97.090901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Monroe St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387500723,
-    "wof:lastmodified":1449057053,
+    "wof:lastmodified":1467082705,
     "wof:name":"Harmony Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.090901,43.279911,-97.090901,43.279911],
+  "bbox": [
+    -97.090901,
+    43.279911,
+    -97.090901,
+    43.279911
+],
   "geometry": {"coordinates":[-97.090901,43.279911],"type":"Point"}
 }

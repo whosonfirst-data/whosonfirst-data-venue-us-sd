@@ -2,13 +2,14 @@
   "id": 387551373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412805,44.136335,-98.412805,44.136335",
     "geom:latitude":44.136335,
     "geom:longitude":-98.412805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22429 390th Ave",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387551373,
-    "wof:lastmodified":1449056861,
+    "wof:lastmodified":1467082702,
     "wof:name":"Arhart-Sheffield Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.412805,44.136335,-98.412805,44.136335],
-  "geometry": {"coordinates":[-98.412805,44.136335],"type":"Point"}
+  "bbox": [
+    -98.412805,
+    44.136335,
+    -98.412805,
+    44.136335
+],
+  "geometry": {"coordinates":[-98.41280500000001,44.136335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403830301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.254904,44.072817,-103.254904,44.072817",
     "geom:latitude":44.072817,
     "geom:longitude":-103.254904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2144 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403830301,
-    "wof:lastmodified":1449054922,
+    "wof:lastmodified":1467082677,
     "wof:name":"Shobe Insurance Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.254904,44.072817,-103.254904,44.072817],
+  "bbox": [
+    -103.254904,
+    44.072817,
+    -103.254904,
+    44.072817
+],
   "geometry": {"coordinates":[-103.254904,44.072817],"type":"Point"}
 }

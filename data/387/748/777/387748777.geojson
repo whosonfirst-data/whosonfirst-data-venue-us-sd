@@ -2,13 +2,14 @@
   "id": 387748777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.528565,44.013703,-97.528565,44.013703",
     "geom:latitude":44.013703,
     "geom:longitude":-97.528565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Minnie St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387748777,
-    "wof:lastmodified":1449058961,
+    "wof:lastmodified":1467082744,
     "wof:name":"Howard Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.528565,44.013703,-97.528565,44.013703],
+  "bbox": [
+    -97.528565,
+    44.013703,
+    -97.528565,
+    44.013703
+],
   "geometry": {"coordinates":[-97.528565,44.013703],"type":"Point"}
 }

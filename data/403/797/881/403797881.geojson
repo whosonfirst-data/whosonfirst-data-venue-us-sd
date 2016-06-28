@@ -2,13 +2,14 @@
   "id": 403797881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49529,45.473897,-98.49529,45.473897",
     "geom:latitude":45.473897,
     "geom:longitude":-98.49529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 8th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403797881,
-    "wof:lastmodified":1449055838,
+    "wof:lastmodified":1467082683,
     "wof:name":"Aberdeen Physical Therapy",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "physical"
     ]
 },
-  "bbox": [-98.49529,45.473897,-98.49529,45.473897],
+  "bbox": [
+    -98.49529,
+    45.473897,
+    -98.49529,
+    45.473897
+],
   "geometry": {"coordinates":[-98.49529,45.473897],"type":"Point"}
 }

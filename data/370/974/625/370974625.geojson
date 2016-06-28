@@ -2,13 +2,14 @@
   "id": 370974625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718693,43.555214,-96.718693,43.555214",
     "geom:latitude":43.555214,
     "geom:longitude":-96.718693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 E 3rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370974625,
-    "wof:lastmodified":1449032029,
+    "wof:lastmodified":1467082657,
     "wof:name":"Thorson Heating",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "con"
     ]
 },
-  "bbox": [-96.718693,43.555214,-96.718693,43.555214],
+  "bbox": [
+    -96.718693,
+    43.555214,
+    -96.718693,
+    43.555214
+],
   "geometry": {"coordinates":[-96.718693,43.555214],"type":"Point"}
 }

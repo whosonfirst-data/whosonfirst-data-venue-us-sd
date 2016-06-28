@@ -2,13 +2,14 @@
   "id": 403799871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986012,43.391561,-97.986012,43.391561",
     "geom:latitude":43.391561,
     "geom:longitude":-97.986012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S 1st St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403799871,
-    "wof:lastmodified":1449055965,
+    "wof:lastmodified":1467082684,
     "wof:name":"Avera St Benedict Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.986012,43.391561,-97.986012,43.391561],
+  "bbox": [
+    -97.986012,
+    43.391561,
+    -97.986012,
+    43.391561
+],
   "geometry": {"coordinates":[-97.986012,43.391561],"type":"Point"}
 }

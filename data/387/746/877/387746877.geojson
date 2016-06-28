@@ -2,13 +2,14 @@
   "id": 387746877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11395,44.00501,-97.11395,44.00501",
     "geom:latitude":44.00501,
     "geom:longitude":-97.11395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387746877,
-    "wof:lastmodified":1449056081,
+    "wof:lastmodified":1467082686,
     "wof:name":"Mumford Protsch & Pardy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.11395,44.00501,-97.11395,44.00501],
+  "bbox": [
+    -97.11395,
+    44.00501,
+    -97.11395,
+    44.00501
+],
   "geometry": {"coordinates":[-97.11395,44.00501],"type":"Point"}
 }

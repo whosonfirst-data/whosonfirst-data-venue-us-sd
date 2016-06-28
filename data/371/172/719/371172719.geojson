@@ -2,13 +2,14 @@
   "id": 371172719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.856062,43.790129,-96.856062,43.790129",
     "geom:latitude":43.790129,
     "geom:longitude":-96.856062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46780 248th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371172719,
-    "wof:lastmodified":1449049440,
+    "wof:lastmodified":1467082664,
     "wof:name":"Burk Township",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-96.856062,43.790129,-96.856062,43.790129],
-  "geometry": {"coordinates":[-96.856062,43.790129],"type":"Point"}
+  "bbox": [
+    -96.856062,
+    43.790129,
+    -96.856062,
+    43.790129
+],
+  "geometry": {"coordinates":[-96.85606199999999,43.790129],"type":"Point"}
 }

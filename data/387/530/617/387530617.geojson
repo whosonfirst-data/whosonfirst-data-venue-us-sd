@@ -2,13 +2,14 @@
   "id": 387530617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.467241,45.28968,-96.467241,45.28968",
     "geom:latitude":45.28968,
     "geom:longitude":-96.467241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 4th Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387530617,
-    "wof:lastmodified":1449058135,
+    "wof:lastmodified":1467082728,
     "wof:name":"Lous Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ornamental"
     ]
 },
-  "bbox": [-96.467241,45.28968,-96.467241,45.28968],
+  "bbox": [
+    -96.467241,
+    45.28968,
+    -96.467241,
+    45.28968
+],
   "geometry": {"coordinates":[-96.467241,45.28968],"type":"Point"}
 }

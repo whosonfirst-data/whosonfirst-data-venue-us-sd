@@ -2,13 +2,14 @@
   "id": 387756469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.513943,44.400188,-103.513943,44.400188",
     "geom:latitude":44.400188,
     "geom:longitude":-103.513943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 East Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387756469,
-    "wof:lastmodified":1449058387,
+    "wof:lastmodified":1467082732,
     "wof:name":"Prairie Hills Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "line"
     ]
 },
-  "bbox": [-103.513943,44.400188,-103.513943,44.400188],
+  "bbox": [
+    -103.513943,
+    44.400188,
+    -103.513943,
+    44.400188
+],
   "geometry": {"coordinates":[-103.513943,44.400188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403801305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.404994,45.386471,-98.404994,45.386471",
     "geom:latitude":45.386471,
     "geom:longitude":-98.404994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39127 138th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403801305,
-    "wof:lastmodified":1449055739,
+    "wof:lastmodified":1467082683,
     "wof:name":"Broken Wing Motor Cycle Repair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-98.404994,45.386471,-98.404994,45.386471],
+  "bbox": [
+    -98.404994,
+    45.386471,
+    -98.404994,
+    45.386471
+],
   "geometry": {"coordinates":[-98.404994,45.386471],"type":"Point"}
 }

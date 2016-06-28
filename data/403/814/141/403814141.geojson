@@ -2,13 +2,14 @@
   "id": 403814141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.397121,42.868962,-97.397121,42.868962",
     "geom:latitude":42.868962,
     "geom:longitude":-97.397121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Broadway St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403814141,
-    "wof:lastmodified":1449054874,
+    "wof:lastmodified":1467082676,
     "wof:name":"Big Friend Little Friend Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-97.397121,42.868962,-97.397121,42.868962],
+  "bbox": [
+    -97.397121,
+    42.868962,
+    -97.397121,
+    42.868962
+],
   "geometry": {"coordinates":[-97.397121,42.868962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387378223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.883659,43.503257,-96.883659,43.503257",
     "geom:latitude":43.503257,
     "geom:longitude":-96.883659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26785 Meadow Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387378223,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1467082738,
     "wof:name":"Eps",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.883659,43.503257,-96.883659,43.503257],
-  "geometry": {"coordinates":[-96.883659,43.503257],"type":"Point"}
+  "bbox": [
+    -96.883659,
+    43.503257,
+    -96.883659,
+    43.503257
+],
+  "geometry": {"coordinates":[-96.88365899999999,43.503257],"type":"Point"}
 }

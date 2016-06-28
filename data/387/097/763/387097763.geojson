@@ -2,13 +2,14 @@
   "id": 387097763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.421761,43.234505,-99.421761,43.234505",
     "geom:latitude":43.234505,
     "geom:longitude":-99.421761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E 8th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387097763,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1467082717,
     "wof:name":"Jim's Garbage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-99.421761,43.234505,-99.421761,43.234505],
+  "bbox": [
+    -99.421761,
+    43.234505,
+    -99.421761,
+    43.234505
+],
   "geometry": {"coordinates":[-99.421761,43.234505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387585305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796822,44.307778,-96.796822,44.307778",
     "geom:latitude":44.307778,
     "geom:longitude":-96.796822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 5th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387585305,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1467082738,
     "wof:name":"Harold's Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-96.796822,44.307778,-96.796822,44.307778],
-  "geometry": {"coordinates":[-96.796822,44.307778],"type":"Point"}
+  "bbox": [
+    -96.796822,
+    44.307778,
+    -96.796822,
+    44.307778
+],
+  "geometry": {"coordinates":[-96.79682200000001,44.307778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387485871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.922019,43.790345,-96.922019,43.790345",
     "geom:latitude":43.790345,
     "geom:longitude":-96.922019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E 1st St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387485871,
-    "wof:lastmodified":1449058422,
+    "wof:lastmodified":1467082733,
     "wof:name":"Colton Assisted Living",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.922019,43.790345,-96.922019,43.790345],
-  "geometry": {"coordinates":[-96.922019,43.790345],"type":"Point"}
+  "bbox": [
+    -96.922019,
+    43.790345,
+    -96.922019,
+    43.790345
+],
+  "geometry": {"coordinates":[-96.92201900000001,43.790345],"type":"Point"}
 }

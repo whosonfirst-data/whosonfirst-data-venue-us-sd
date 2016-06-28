@@ -2,13 +2,14 @@
   "id": 387888319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.350797,44.360995,-100.350797,44.360995",
     "geom:latitude":44.360995,
     "geom:longitude":-100.350797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 E Missouri Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387888319,
-    "wof:lastmodified":1449058479,
+    "wof:lastmodified":1467082734,
     "wof:name":"Nukota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [-100.350797,44.360995,-100.350797,44.360995],
+  "bbox": [
+    -100.350797,
+    44.360995,
+    -100.350797,
+    44.360995
+],
   "geometry": {"coordinates":[-100.350797,44.360995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371070247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.475684,43.432166,-103.475684,43.432166",
     "geom:latitude":43.432166,
     "geom:longitude":-103.475684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Jennings Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371070247,
-    "wof:lastmodified":1449049513,
+    "wof:lastmodified":1467082665,
     "wof:name":"Manna Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.475684,43.432166,-103.475684,43.432166],
+  "bbox": [
+    -103.475684,
+    43.432166,
+    -103.475684,
+    43.432166
+],
   "geometry": {"coordinates":[-103.475684,43.432166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371048705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.989422,43.398872,-97.989422,43.398872",
     "geom:latitude":43.398872,
     "geom:longitude":-97.989422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 W Glynn Dr",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371048705,
-    "wof:lastmodified":1449049374,
+    "wof:lastmodified":1467082663,
     "wof:name":"Radke Farms Ltd Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.989422,43.398872,-97.989422,43.398872],
+  "bbox": [
+    -97.989422,
+    43.398872,
+    -97.989422,
+    43.398872
+],
   "geometry": {"coordinates":[-97.989422,43.398872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387164539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73245,43.528687,-96.73245,43.528687",
     "geom:latitude":43.528687,
     "geom:longitude":-96.73245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 S Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387164539,
-    "wof:lastmodified":1449056565,
+    "wof:lastmodified":1467082696,
     "wof:name":"Preferred Stripping & Rfnshng",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "restoring"
     ]
 },
-  "bbox": [-96.73245,43.528687,-96.73245,43.528687],
+  "bbox": [
+    -96.73245,
+    43.528687,
+    -96.73245,
+    43.528687
+],
   "geometry": {"coordinates":[-96.73245,43.528687],"type":"Point"}
 }

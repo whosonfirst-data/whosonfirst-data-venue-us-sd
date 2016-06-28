@@ -2,13 +2,14 @@
   "id": 370979807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.014474,43.710456,-98.014474,43.710456",
     "geom:latitude":43.710456,
     "geom:longitude":-98.014474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 E 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370979807,
-    "wof:lastmodified":1449031474,
+    "wof:lastmodified":1467082657,
     "wof:name":"Northern Lights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing"
     ]
 },
-  "bbox": [-98.014474,43.710456,-98.014474,43.710456],
-  "geometry": {"coordinates":[-98.014474,43.710456],"type":"Point"}
+  "bbox": [
+    -98.014474,
+    43.710456,
+    -98.014474,
+    43.710456
+],
+  "geometry": {"coordinates":[-98.01447400000001,43.710456],"type":"Point"}
 }

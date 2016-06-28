@@ -2,13 +2,14 @@
   "id": 403711523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708794,43.554818,-96.708794,43.554818",
     "geom:latitude":43.554818,
     "geom:longitude":-96.708794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E 3rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403711523,
-    "wof:lastmodified":1449055722,
+    "wof:lastmodified":1467082683,
     "wof:name":"Refrigeration Engineering",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigerating"
     ]
 },
-  "bbox": [-96.708794,43.554818,-96.708794,43.554818],
+  "bbox": [
+    -96.708794,
+    43.554818,
+    -96.708794,
+    43.554818
+],
   "geometry": {"coordinates":[-96.708794,43.554818],"type":"Point"}
 }

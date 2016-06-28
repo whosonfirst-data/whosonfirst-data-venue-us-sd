@@ -2,13 +2,14 @@
   "id": 387329267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.449652,43.851068,-97.449652,43.851068",
     "geom:latitude":43.851068,
     "geom:longitude":-97.449652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24352 438th Ave",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387329267,
-    "wof:lastmodified":1449057159,
+    "wof:lastmodified":1467082707,
     "wof:name":"David Skoglund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.449652,43.851068,-97.449652,43.851068],
+  "bbox": [
+    -97.449652,
+    43.851068,
+    -97.449652,
+    43.851068
+],
   "geometry": {"coordinates":[-97.449652,43.851068],"type":"Point"}
 }

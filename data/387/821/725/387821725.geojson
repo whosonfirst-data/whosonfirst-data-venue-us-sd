@@ -2,13 +2,14 @@
   "id": 387821725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.26069,43.424185,-97.26069,43.424185",
     "geom:latitude":43.424185,
     "geom:longitude":-97.26069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Broadway Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387821725,
-    "wof:lastmodified":1449058183,
+    "wof:lastmodified":1467082729,
     "wof:name":"Tieszen Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.26069,43.424185,-97.26069,43.424185],
+  "bbox": [
+    -97.26069,
+    43.424185,
+    -97.26069,
+    43.424185
+],
   "geometry": {"coordinates":[-97.26069,43.424185],"type":"Point"}
 }

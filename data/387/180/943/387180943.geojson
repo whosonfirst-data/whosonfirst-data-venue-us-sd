@@ -2,13 +2,14 @@
   "id": 387180943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.172824,45.846085,-100.172824,45.846085",
     "geom:latitude":45.846085,
     "geom:longitude":-100.172824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10656 301st Ave",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387180943,
-    "wof:lastmodified":1449056268,
+    "wof:lastmodified":1467082690,
     "wof:name":"Dennis Mittleider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.172824,45.846085,-100.172824,45.846085],
-  "geometry": {"coordinates":[-100.172824,45.846085],"type":"Point"}
+  "bbox": [
+    -100.172824,
+    45.846085,
+    -100.172824,
+    45.846085
+],
+  "geometry": {"coordinates":[-100.17282400000001,45.846085],"type":"Point"}
 }

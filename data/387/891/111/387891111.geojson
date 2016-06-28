@@ -2,13 +2,14 @@
   "id": 387891111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518713,45.340912,-97.518713,45.340912",
     "geom:latitude":45.340912,
     "geom:longitude":-97.518713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 US Hwy 12",
     "sg:city":"Waubay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387891111,
-    "wof:lastmodified":1449058399,
+    "wof:lastmodified":1467082733,
     "wof:name":"Li'l Kountry Drive In & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.518713,45.340912,-97.518713,45.340912],
-  "geometry": {"coordinates":[-97.518713,45.340912],"type":"Point"}
+  "bbox": [
+    -97.518713,
+    45.340912,
+    -97.518713,
+    45.340912
+],
+  "geometry": {"coordinates":[-97.51871300000001,45.340912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387204655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.311059,45.610629,-98.311059,45.610629",
     "geom:latitude":45.610629,
     "geom:longitude":-98.311059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 S Broadway St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387204655,
-    "wof:lastmodified":1449060026,
+    "wof:lastmodified":1467082765,
     "wof:name":"Johnson Corner",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.311059,45.610629,-98.311059,45.610629],
+  "bbox": [
+    -98.311059,
+    45.610629,
+    -98.311059,
+    45.610629
+],
   "geometry": {"coordinates":[-98.311059,45.610629],"type":"Point"}
 }

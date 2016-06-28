@@ -2,13 +2,14 @@
   "id": 403831165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905954,43.357416,-96.905954,43.357416",
     "geom:latitude":43.357416,
     "geom:longitude":-96.905954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 N Cleveland St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403831165,
-    "wof:lastmodified":1449055428,
+    "wof:lastmodified":1467082681,
     "wof:name":"Koyker Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.905954,43.357416,-96.905954,43.357416],
-  "geometry": {"coordinates":[-96.905954,43.357416],"type":"Point"}
+  "bbox": [
+    -96.905954,
+    43.357416,
+    -96.905954,
+    43.357416
+],
+  "geometry": {"coordinates":[-96.90595399999999,43.357416],"type":"Point"}
 }

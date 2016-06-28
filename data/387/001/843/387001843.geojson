@@ -2,13 +2,14 @@
   "id": 387001843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.038496,45.019981,-102.038496,45.019981",
     "geom:latitude":45.019981,
     "geom:longitude":-102.038496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Main St S",
     "sg:city":"Faith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387001843,
-    "wof:lastmodified":1449056967,
+    "wof:lastmodified":1467082704,
     "wof:name":"Bethel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-102.038496,45.019981,-102.038496,45.019981],
-  "geometry": {"coordinates":[-102.038496,45.019981],"type":"Point"}
+  "bbox": [
+    -102.038496,
+    45.019981,
+    -102.038496,
+    45.019981
+],
+  "geometry": {"coordinates":[-102.03849599999999,45.019981],"type":"Point"}
 }

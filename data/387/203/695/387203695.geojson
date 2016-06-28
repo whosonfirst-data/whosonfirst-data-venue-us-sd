@@ -2,13 +2,14 @@
   "id": 387203695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758488,43.516701,-96.758488,43.516701",
     "geom:latitude":43.516701,
     "geom:longitude":-96.758488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 S Williams Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387203695,
-    "wof:lastmodified":1449057794,
+    "wof:lastmodified":1467082721,
     "wof:name":"Benjamin A Hoffman",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.758488,43.516701,-96.758488,43.516701],
+  "bbox": [
+    -96.758488,
+    43.516701,
+    -96.758488,
+    43.516701
+],
   "geometry": {"coordinates":[-96.758488,43.516701],"type":"Point"}
 }

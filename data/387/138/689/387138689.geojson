@@ -2,13 +2,14 @@
   "id": 387138689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646707,44.326487,-96.646707,44.326487",
     "geom:latitude":44.326487,
     "geom:longitude":-96.646707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21092 478th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387138689,
-    "wof:lastmodified":1449057198,
+    "wof:lastmodified":1467082708,
     "wof:name":"Joshua C Petersen & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "industrial"
     ]
 },
-  "bbox": [-96.646707,44.326487,-96.646707,44.326487],
-  "geometry": {"coordinates":[-96.646707,44.326487],"type":"Point"}
+  "bbox": [
+    -96.646707,
+    44.326487,
+    -96.646707,
+    44.326487
+],
+  "geometry": {"coordinates":[-96.64670700000001,44.326487],"type":"Point"}
 }

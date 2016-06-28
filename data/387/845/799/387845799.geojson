@@ -2,13 +2,14 @@
   "id": 387845799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736098,43.489615,-96.736098,43.489615",
     "geom:latitude":43.489615,
     "geom:longitude":-96.736098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 S Mustang Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387845799,
-    "wof:lastmodified":1449056727,
+    "wof:lastmodified":1467082699,
     "wof:name":"Ron Dahl Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.736098,43.489615,-96.736098,43.489615],
+  "bbox": [
+    -96.736098,
+    43.489615,
+    -96.736098,
+    43.489615
+],
   "geometry": {"coordinates":[-96.736098,43.489615],"type":"Point"}
 }

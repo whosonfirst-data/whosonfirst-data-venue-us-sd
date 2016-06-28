@@ -2,13 +2,14 @@
   "id": 387352347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.961032,43.224467,-97.961032,43.224467",
     "geom:latitude":43.224467,
     "geom:longitude":-97.961032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 E 2nd St",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387352347,
-    "wof:lastmodified":1449058443,
+    "wof:lastmodified":1467082734,
     "wof:name":"Kay's Bookkeeping & Income Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.961032,43.224467,-97.961032,43.224467],
+  "bbox": [
+    -97.961032,
+    43.224467,
+    -97.961032,
+    43.224467
+],
   "geometry": {"coordinates":[-97.961032,43.224467],"type":"Point"}
 }

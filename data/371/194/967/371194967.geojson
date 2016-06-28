@@ -2,13 +2,14 @@
   "id": 371194967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675079,43.545709,-96.675079,43.545709",
     "geom:latitude":43.545709,
     "geom:longitude":-96.675079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 N Meyer Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371194967,
-    "wof:lastmodified":1449049982,
+    "wof:lastmodified":1467082671,
     "wof:name":"F & T Drywall Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.675079,43.545709,-96.675079,43.545709],
+  "bbox": [
+    -96.675079,
+    43.545709,
+    -96.675079,
+    43.545709
+],
   "geometry": {"coordinates":[-96.675079,43.545709],"type":"Point"}
 }

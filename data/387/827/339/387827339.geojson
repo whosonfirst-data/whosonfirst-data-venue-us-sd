@@ -2,13 +2,14 @@
   "id": 387827339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.475962,43.432072,-103.475962,43.432072",
     "geom:latitude":43.432072,
     "geom:longitude":-103.475962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 Jennings Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387827339,
-    "wof:lastmodified":1449057461,
+    "wof:lastmodified":1467082714,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-103.475962,43.432072,-103.475962,43.432072],
+  "bbox": [
+    -103.475962,
+    43.432072,
+    -103.475962,
+    43.432072
+],
   "geometry": {"coordinates":[-103.475962,43.432072],"type":"Point"}
 }

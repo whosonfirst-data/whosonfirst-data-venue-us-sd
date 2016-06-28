@@ -2,13 +2,14 @@
   "id": 386964703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485232,45.467567,-98.485232,45.467567",
     "geom:latitude":45.467567,
     "geom:longitude":-98.485232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386964703,
-    "wof:lastmodified":1449028874,
+    "wof:lastmodified":1467082653,
     "wof:name":"Hurst Donald",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-98.485232,45.467567,-98.485232,45.467567],
+  "bbox": [
+    -98.485232,
+    45.467567,
+    -98.485232,
+    45.467567
+],
   "geometry": {"coordinates":[-98.485232,45.467567],"type":"Point"}
 }

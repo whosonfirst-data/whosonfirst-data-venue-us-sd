@@ -2,13 +2,14 @@
   "id": 371073275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495226,45.505515,-98.495226,45.505515",
     "geom:latitude":45.505515,
     "geom:longitude":-98.495226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12980 387th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371073275,
-    "wof:lastmodified":1449049162,
+    "wof:lastmodified":1467082660,
     "wof:name":"D L Mohr Appraisals",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-98.495226,45.505515,-98.495226,45.505515],
+  "bbox": [
+    -98.495226,
+    45.505515,
+    -98.495226,
+    45.505515
+],
   "geometry": {"coordinates":[-98.495226,45.505515],"type":"Point"}
 }

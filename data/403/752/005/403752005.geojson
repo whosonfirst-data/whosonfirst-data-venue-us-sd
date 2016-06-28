@@ -2,13 +2,14 @@
   "id": 403752005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.331015,45.141815,-97.331015,45.141815",
     "geom:latitude":45.141815,
     "geom:longitude":-97.331015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15469 444th Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403752005,
-    "wof:lastmodified":1449054854,
+    "wof:lastmodified":1467082676,
     "wof:name":"Martin Tschakert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.331015,45.141815,-97.331015,45.141815],
-  "geometry": {"coordinates":[-97.331015,45.141815],"type":"Point"}
+  "bbox": [
+    -97.331015,
+    45.141815,
+    -97.331015,
+    45.141815
+],
+  "geometry": {"coordinates":[-97.33101499999999,45.141815],"type":"Point"}
 }

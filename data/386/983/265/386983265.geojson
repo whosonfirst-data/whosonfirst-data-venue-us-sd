@@ -2,13 +2,14 @@
   "id": 386983265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.304843,45.333505,-97.304843,45.333505",
     "geom:latitude":45.333505,
     "geom:longitude":-97.304843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Main St",
     "sg:city":"Waubay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386983265,
-    "wof:lastmodified":1449028957,
+    "wof:lastmodified":1467082655,
     "wof:name":"Hardware Hank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.304843,45.333505,-97.304843,45.333505],
-  "geometry": {"coordinates":[-97.304843,45.333505],"type":"Point"}
+  "bbox": [
+    -97.304843,
+    45.333505,
+    -97.304843,
+    45.333505
+],
+  "geometry": {"coordinates":[-97.30484300000001,45.333505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370988583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767747,43.572845,-96.767747,43.572845",
     "geom:latitude":43.572845,
     "geom:longitude":-96.767747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370988583,
-    "wof:lastmodified":1449030268,
+    "wof:lastmodified":1467082656,
     "wof:name":"Genesis Landscape & Irrigation",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-96.767747,43.572845,-96.767747,43.572845],
+  "bbox": [
+    -96.767747,
+    43.572845,
+    -96.767747,
+    43.572845
+],
   "geometry": {"coordinates":[-96.767747,43.572845],"type":"Point"}
 }

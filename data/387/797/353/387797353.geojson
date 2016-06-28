@@ -2,13 +2,14 @@
   "id": 387797353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.848851,44.355539,-96.848851,44.355539",
     "geom:latitude":44.355539,
     "geom:longitude":-96.848851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4103 28th Ave W",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387797353,
-    "wof:lastmodified":1449059538,
+    "wof:lastmodified":1467082755,
     "wof:name":"M & M Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-96.848851,44.355539,-96.848851,44.355539],
+  "bbox": [
+    -96.848851,
+    44.355539,
+    -96.848851,
+    44.355539
+],
   "geometry": {"coordinates":[-96.848851,44.355539],"type":"Point"}
 }

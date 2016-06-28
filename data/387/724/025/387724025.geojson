@@ -2,13 +2,14 @@
   "id": 387724025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214228,44.369864,-98.214228,44.369864",
     "geom:latitude":44.369864,
     "geom:longitude":-98.214228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387724025,
-    "wof:lastmodified":1449059841,
+    "wof:lastmodified":1467082761,
     "wof:name":"Computer One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "computer"
     ]
 },
-  "bbox": [-98.214228,44.369864,-98.214228,44.369864],
-  "geometry": {"coordinates":[-98.214228,44.369864],"type":"Point"}
+  "bbox": [
+    -98.214228,
+    44.369864,
+    -98.214228,
+    44.369864
+],
+  "geometry": {"coordinates":[-98.21422800000001,44.369864],"type":"Point"}
 }

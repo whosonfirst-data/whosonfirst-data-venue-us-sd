@@ -2,13 +2,14 @@
   "id": 387736403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.260536,44.083391,-103.260536,44.083391",
     "geom:latitude":44.083391,
     "geom:longitude":-103.260536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Sheffer St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387736403,
-    "wof:lastmodified":1449059881,
+    "wof:lastmodified":1467082762,
     "wof:name":"Tri-State Tire & Auto Mntnc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brake"
     ]
 },
-  "bbox": [-103.260536,44.083391,-103.260536,44.083391],
+  "bbox": [
+    -103.260536,
+    44.083391,
+    -103.260536,
+    44.083391
+],
   "geometry": {"coordinates":[-103.260536,44.083391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386942021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.089543,43.732414,-97.089543,43.732414",
     "geom:latitude":43.732414,
     "geom:longitude":-97.089543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45623 252nd St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386942021,
-    "wof:lastmodified":1449028765,
+    "wof:lastmodified":1467082652,
     "wof:name":"Gabel Acres Riding Academy",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.089543,43.732414,-97.089543,43.732414],
-  "geometry": {"coordinates":[-97.089543,43.732414],"type":"Point"}
+  "bbox": [
+    -97.089543,
+    43.732414,
+    -97.089543,
+    43.732414
+],
+  "geometry": {"coordinates":[-97.08954300000001,43.732414],"type":"Point"}
 }

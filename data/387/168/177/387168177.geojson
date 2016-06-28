@@ -2,13 +2,14 @@
   "id": 387168177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.086146,44.890051,-97.086146,44.890051",
     "geom:latitude":44.890051,
     "geom:longitude":-97.086146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387168177,
-    "wof:lastmodified":1449058095,
+    "wof:lastmodified":1467082727,
     "wof:name":"Sturdevant's Pronto Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.086146,44.890051,-97.086146,44.890051],
+  "bbox": [
+    -97.086146,
+    44.890051,
+    -97.086146,
+    44.890051
+],
   "geometry": {"coordinates":[-97.086146,44.890051],"type":"Point"}
 }

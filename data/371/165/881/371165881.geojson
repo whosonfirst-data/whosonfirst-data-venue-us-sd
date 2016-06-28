@@ -2,13 +2,14 @@
   "id": 371165881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749832,44.484732,-97.749832,44.484732",
     "geom:latitude":44.484732,
     "geom:longitude":-97.749832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Main Ave",
     "sg:city":"Bancroft",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371165881,
-    "wof:lastmodified":1449050145,
+    "wof:lastmodified":1467082673,
     "wof:name":"Lake Preston Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fertilizer"
     ]
 },
-  "bbox": [-97.749832,44.484732,-97.749832,44.484732],
+  "bbox": [
+    -97.749832,
+    44.484732,
+    -97.749832,
+    44.484732
+],
   "geometry": {"coordinates":[-97.749832,44.484732],"type":"Point"}
 }

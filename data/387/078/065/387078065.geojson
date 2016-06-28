@@ -2,13 +2,14 @@
   "id": 387078065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.289035,44.068793,-103.289035,44.068793",
     "geom:latitude":44.068793,
     "geom:longitude":-103.289035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1829 Hillsview Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387078065,
-    "wof:lastmodified":1449059338,
+    "wof:lastmodified":1467082751,
     "wof:name":"Canyon Lake Church Of God",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.289035,44.068793,-103.289035,44.068793],
+  "bbox": [
+    -103.289035,
+    44.068793,
+    -103.289035,
+    44.068793
+],
   "geometry": {"coordinates":[-103.289035,44.068793],"type":"Point"}
 }

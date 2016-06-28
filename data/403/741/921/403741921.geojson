@@ -2,13 +2,14 @@
   "id": 403741921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.958468,45.013633,-99.958468,45.013633",
     "geom:latitude":45.013633,
     "geom:longitude":-99.958468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403741921,
-    "wof:lastmodified":1449054698,
+    "wof:lastmodified":1467082675,
     "wof:name":"Mid-Dakota Rural Water System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-99.958468,45.013633,-99.958468,45.013633],
+  "bbox": [
+    -99.958468,
+    45.013633,
+    -99.958468,
+    45.013633
+],
   "geometry": {"coordinates":[-99.958468,45.013633],"type":"Point"}
 }

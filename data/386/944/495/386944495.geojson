@@ -2,13 +2,14 @@
   "id": 386944495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.087838,44.894827,-97.087838,44.894827",
     "geom:latitude":44.894827,
     "geom:longitude":-97.087838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 17th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386944495,
-    "wof:lastmodified":1449028779,
+    "wof:lastmodified":1467082652,
     "wof:name":"Ruth Jungers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.087838,44.894827,-97.087838,44.894827],
+  "bbox": [
+    -97.087838,
+    44.894827,
+    -97.087838,
+    44.894827
+],
   "geometry": {"coordinates":[-97.087838,44.894827],"type":"Point"}
 }

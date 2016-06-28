@@ -2,13 +2,14 @@
   "id": 387397559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.588516,43.679505,-97.588516,43.679505",
     "geom:latitude":43.679505,
     "geom:longitude":-97.588516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25542 431st Ave",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387397559,
-    "wof:lastmodified":1449057625,
+    "wof:lastmodified":1467082717,
     "wof:name":"William Lehrman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.588516,43.679505,-97.588516,43.679505],
+  "bbox": [
+    -97.588516,
+    43.679505,
+    -97.588516,
+    43.679505
+],
   "geometry": {"coordinates":[-97.588516,43.679505],"type":"Point"}
 }

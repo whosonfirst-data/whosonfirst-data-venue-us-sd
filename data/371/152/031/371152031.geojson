@@ -2,13 +2,14 @@
   "id": 371152031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593171,44.049503,-96.593171,44.049503",
     "geom:latitude":44.049503,
     "geom:longitude":-96.593171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371152031,
-    "wof:lastmodified":1449049838,
+    "wof:lastmodified":1467082669,
     "wof:name":"Eng Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.593171,44.049503,-96.593171,44.049503],
+  "bbox": [
+    -96.593171,
+    44.049503,
+    -96.593171,
+    44.049503
+],
   "geometry": {"coordinates":[-96.593171,44.049503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387182219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.664616,43.555941,-96.664616,43.555941",
     "geom:latitude":43.555941,
     "geom:longitude":-96.664616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 N Tahoe Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387182219,
-    "wof:lastmodified":1449058517,
+    "wof:lastmodified":1467082735,
     "wof:name":"Castlerock Homes",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.664616,43.555941,-96.664616,43.555941],
+  "bbox": [
+    -96.664616,
+    43.555941,
+    -96.664616,
+    43.555941
+],
   "geometry": {"coordinates":[-96.664616,43.555941],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387937931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.047119,45.664483,-97.047119,45.664483",
     "geom:latitude":45.664483,
     "geom:longitude":-97.047119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 3rd Ave E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387937931,
-    "wof:lastmodified":1449056824,
+    "wof:lastmodified":1467082701,
     "wof:name":"Roberts County Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-97.047119,45.664483,-97.047119,45.664483],
+  "bbox": [
+    -97.047119,
+    45.664483,
+    -97.047119,
+    45.664483
+],
   "geometry": {"coordinates":[-97.047119,45.664483],"type":"Point"}
 }

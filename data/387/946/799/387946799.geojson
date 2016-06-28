@@ -2,13 +2,14 @@
   "id": 387946799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691374,43.680153,-96.691374,43.680153",
     "geom:latitude":43.680153,
     "geom:longitude":-96.691374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25563 476th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387946799,
-    "wof:lastmodified":1449059463,
+    "wof:lastmodified":1467082754,
     "wof:name":"Midwest Cleaning Svc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-96.691374,43.680153,-96.691374,43.680153],
+  "bbox": [
+    -96.691374,
+    43.680153,
+    -96.691374,
+    43.680153
+],
   "geometry": {"coordinates":[-96.691374,43.680153],"type":"Point"}
 }

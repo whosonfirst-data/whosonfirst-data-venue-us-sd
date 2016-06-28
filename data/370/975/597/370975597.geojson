@@ -2,13 +2,14 @@
   "id": 370975597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.226228,44.352525,-98.226228,44.352525",
     "geom:latitude":44.352525,
     "geom:longitude":-98.226228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 12th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":370975597,
-    "wof:lastmodified":1449032002,
+    "wof:lastmodified":1467082657,
     "wof:name":"Teno's Tacos L & M Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen"
     ]
 },
-  "bbox": [-98.226228,44.352525,-98.226228,44.352525],
-  "geometry": {"coordinates":[-98.226228,44.352525],"type":"Point"}
+  "bbox": [
+    -98.226228,
+    44.352525,
+    -98.226228,
+    44.352525
+],
+  "geometry": {"coordinates":[-98.22622800000001,44.352525],"type":"Point"}
 }

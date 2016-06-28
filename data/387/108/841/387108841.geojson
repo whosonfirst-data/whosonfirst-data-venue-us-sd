@@ -2,13 +2,14 @@
   "id": 387108841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119409,44.918567,-97.119409,44.918567",
     "geom:latitude":44.918567,
     "geom:longitude":-97.119409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 4th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387108841,
-    "wof:lastmodified":1449056184,
+    "wof:lastmodified":1467082688,
     "wof:name":"Roxy Wilfahrt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.119409,44.918567,-97.119409,44.918567],
+  "bbox": [
+    -97.119409,
+    44.918567,
+    -97.119409,
+    44.918567
+],
   "geometry": {"coordinates":[-97.119409,44.918567],"type":"Point"}
 }

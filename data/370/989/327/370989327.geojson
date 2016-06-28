@@ -2,13 +2,14 @@
   "id": 370989327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985899,43.395112,-97.985899,43.395112",
     "geom:latitude":43.395112,
     "geom:longitude":-97.985899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 N 1st St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370989327,
-    "wof:lastmodified":1449031576,
+    "wof:lastmodified":1467082657,
     "wof:name":"Mc Laury Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-97.985899,43.395112,-97.985899,43.395112],
+  "bbox": [
+    -97.985899,
+    43.395112,
+    -97.985899,
+    43.395112
+],
   "geometry": {"coordinates":[-97.985899,43.395112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387224475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806333,43.495466,-96.806333,43.495466",
     "geom:latitude":43.495466,
     "geom:longitude":-96.806333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 S Sundowner Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387224475,
-    "wof:lastmodified":1449058891,
+    "wof:lastmodified":1467082742,
     "wof:name":"All Season Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.806333,43.495466,-96.806333,43.495466],
+  "bbox": [
+    -96.806333,
+    43.495466,
+    -96.806333,
+    43.495466
+],
   "geometry": {"coordinates":[-96.806333,43.495466],"type":"Point"}
 }

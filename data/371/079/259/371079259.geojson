@@ -2,13 +2,14 @@
   "id": 371079259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.435706,45.538547,-100.435706,45.538547",
     "geom:latitude":45.538547,
     "geom:longitude":-100.435706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 6th St W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371079259,
-    "wof:lastmodified":1449049942,
+    "wof:lastmodified":1467082671,
     "wof:name":"St Joseph Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.435706,45.538547,-100.435706,45.538547],
+  "bbox": [
+    -100.435706,
+    45.538547,
+    -100.435706,
+    45.538547
+],
   "geometry": {"coordinates":[-100.435706,45.538547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387515693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.869906,44.504928,-103.869906,44.504928",
     "geom:latitude":44.504928,
     "geom:longitude":-103.869906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Evans Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387515693,
-    "wof:lastmodified":1449056988,
+    "wof:lastmodified":1467082704,
     "wof:name":"Spearfish Groom & Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-103.869906,44.504928,-103.869906,44.504928],
+  "bbox": [
+    -103.869906,
+    44.504928,
+    -103.869906,
+    44.504928
+],
   "geometry": {"coordinates":[-103.869906,44.504928],"type":"Point"}
 }

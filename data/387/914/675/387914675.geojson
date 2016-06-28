@@ -2,13 +2,14 @@
   "id": 387914675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.456729,44.792984,-96.456729,44.792984",
     "geom:latitude":44.792984,
     "geom:longitude":-96.456729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Coteau St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387914675,
-    "wof:lastmodified":1449057558,
+    "wof:lastmodified":1467082716,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.456729,44.792984,-96.456729,44.792984],
+  "bbox": [
+    -96.456729,
+    44.792984,
+    -96.456729,
+    44.792984
+],
   "geometry": {"coordinates":[-96.456729,44.792984],"type":"Point"}
 }

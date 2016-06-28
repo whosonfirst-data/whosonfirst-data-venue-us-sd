@@ -2,13 +2,14 @@
   "id": 386971161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.481147,43.429815,-103.481147,43.429815",
     "geom:latitude":43.429815,
     "geom:longitude":-103.481147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":386971161,
-    "wof:lastmodified":1449028789,
+    "wof:lastmodified":1467082652,
     "wof:name":"Mike's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "coin"
     ]
 },
-  "bbox": [-103.481147,43.429815,-103.481147,43.429815],
-  "geometry": {"coordinates":[-103.481147,43.429815],"type":"Point"}
+  "bbox": [
+    -103.481147,
+    43.429815,
+    -103.481147,
+    43.429815
+],
+  "geometry": {"coordinates":[-103.48114700000001,43.429815],"type":"Point"}
 }

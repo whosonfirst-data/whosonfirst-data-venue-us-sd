@@ -2,13 +2,14 @@
   "id": 387960897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733747,43.524108,-96.733747,43.524108",
     "geom:latitude":43.524108,
     "geom:longitude":-96.733747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S Duluth Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387960897,
-    "wof:lastmodified":1449058847,
+    "wof:lastmodified":1467082742,
     "wof:name":"Professional Massage Asso",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "personal"
     ]
 },
-  "bbox": [-96.733747,43.524108,-96.733747,43.524108],
-  "geometry": {"coordinates":[-96.733747,43.524108],"type":"Point"}
+  "bbox": [
+    -96.733747,
+    43.524108,
+    -96.733747,
+    43.524108
+],
+  "geometry": {"coordinates":[-96.73374699999999,43.524108],"type":"Point"}
 }

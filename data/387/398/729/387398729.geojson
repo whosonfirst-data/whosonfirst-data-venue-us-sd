@@ -2,13 +2,14 @@
   "id": 387398729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.64626,43.542497,-96.64626,43.542497",
     "geom:latitude":43.542497,
     "geom:longitude":-96.64626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 State Hwy 42",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387398729,
-    "wof:lastmodified":1449056416,
+    "wof:lastmodified":1467082693,
     "wof:name":"Roto Finish Systems",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.64626,43.542497,-96.64626,43.542497],
+  "bbox": [
+    -96.64626,
+    43.542497,
+    -96.64626,
+    43.542497
+],
   "geometry": {"coordinates":[-96.64626,43.542497],"type":"Point"}
 }

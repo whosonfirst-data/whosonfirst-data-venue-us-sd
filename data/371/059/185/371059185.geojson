@@ -2,13 +2,14 @@
   "id": 371059185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10201,43.112789,-97.10201,43.112789",
     "geom:latitude":43.112789,
     "geom:longitude":-97.10201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45406 295th St",
     "sg:city":"Irene",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371059185,
-    "wof:lastmodified":1449049288,
+    "wof:lastmodified":1467082661,
     "wof:name":"J D Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.10201,43.112789,-97.10201,43.112789],
-  "geometry": {"coordinates":[-97.10201,43.112789],"type":"Point"}
+  "bbox": [
+    -97.10201,
+    43.112789,
+    -97.10201,
+    43.112789
+],
+  "geometry": {"coordinates":[-97.10201000000001,43.112789],"type":"Point"}
 }

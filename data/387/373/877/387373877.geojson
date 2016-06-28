@@ -2,13 +2,14 @@
   "id": 387373877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520202,45.330951,-97.520202,45.330951",
     "geom:latitude":45.330951,
     "geom:longitude":-97.520202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Main St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387373877,
-    "wof:lastmodified":1449058077,
+    "wof:lastmodified":1467082727,
     "wof:name":"M & C Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mower"
     ]
 },
-  "bbox": [-97.520202,45.330951,-97.520202,45.330951],
+  "bbox": [
+    -97.520202,
+    45.330951,
+    -97.520202,
+    45.330951
+],
   "geometry": {"coordinates":[-97.520202,45.330951],"type":"Point"}
 }

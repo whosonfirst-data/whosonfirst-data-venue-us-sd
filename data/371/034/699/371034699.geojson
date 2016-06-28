@@ -2,13 +2,14 @@
   "id": 371034699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63095,43.021608,-96.63095,43.021608",
     "geom:latitude":43.021608,
     "geom:longitude":-96.63095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 2nd St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371034699,
-    "wof:lastmodified":1449049139,
+    "wof:lastmodified":1467082659,
     "wof:name":"Alcester Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.63095,43.021608,-96.63095,43.021608],
+  "bbox": [
+    -96.63095,
+    43.021608,
+    -96.63095,
+    43.021608
+],
   "geometry": {"coordinates":[-96.63095,43.021608],"type":"Point"}
 }

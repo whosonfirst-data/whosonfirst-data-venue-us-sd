@@ -2,13 +2,14 @@
   "id": 387240717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.769902,45.362213,-99.769902,45.362213",
     "geom:latitude":45.362213,
     "geom:longitude":-99.769902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13996 320th Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387240717,
-    "wof:lastmodified":1449056504,
+    "wof:lastmodified":1467082694,
     "wof:name":"Kaiser Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.769902,45.362213,-99.769902,45.362213],
+  "bbox": [
+    -99.769902,
+    45.362213,
+    -99.769902,
+    45.362213
+],
   "geometry": {"coordinates":[-99.769902,45.362213],"type":"Point"}
 }

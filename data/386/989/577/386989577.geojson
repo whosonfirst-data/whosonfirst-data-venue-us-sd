@@ -2,13 +2,14 @@
   "id": 386989577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.354664,44.084811,-103.354664,44.084811",
     "geom:latitude":44.084811,
     "geom:longitude":-103.354664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8750 Schroeder Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386989577,
-    "wof:lastmodified":1449028869,
+    "wof:lastmodified":1467082653,
     "wof:name":"Haven Stuck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.354664,44.084811,-103.354664,44.084811],
+  "bbox": [
+    -103.354664,
+    44.084811,
+    -103.354664,
+    44.084811
+],
   "geometry": {"coordinates":[-103.354664,44.084811],"type":"Point"}
 }

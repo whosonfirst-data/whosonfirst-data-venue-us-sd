@@ -2,13 +2,14 @@
   "id": 387467203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.476179,45.453623,-98.476179,45.453623",
     "geom:latitude":45.453623,
     "geom:longitude":-98.476179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 11th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387467203,
-    "wof:lastmodified":1449059098,
+    "wof:lastmodified":1467082747,
     "wof:name":"National Assc of Retrd Fed Emp",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.476179,45.453623,-98.476179,45.453623],
+  "bbox": [
+    -98.476179,
+    45.453623,
+    -98.476179,
+    45.453623
+],
   "geometry": {"coordinates":[-98.476179,45.453623],"type":"Point"}
 }

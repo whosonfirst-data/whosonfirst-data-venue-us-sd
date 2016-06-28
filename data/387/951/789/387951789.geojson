@@ -2,13 +2,14 @@
   "id": 387951789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.945648,43.623106,-96.945648,43.623106",
     "geom:latitude":43.623106,
     "geom:longitude":-96.945648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 2nd St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387951789,
-    "wof:lastmodified":1449056286,
+    "wof:lastmodified":1467082690,
     "wof:name":"Hartford United Methodist Chr",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.945648,43.623106,-96.945648,43.623106],
-  "geometry": {"coordinates":[-96.945648,43.623106],"type":"Point"}
+  "bbox": [
+    -96.945648,
+    43.623106,
+    -96.945648,
+    43.623106
+],
+  "geometry": {"coordinates":[-96.94564800000001,43.623106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387610405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.588637,43.863714,-98.588637,43.863714",
     "geom:latitude":43.863714,
     "geom:longitude":-98.588637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37909 243rd St",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387610405,
-    "wof:lastmodified":1449059862,
+    "wof:lastmodified":1467082762,
     "wof:name":"Bob Niles Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.588637,43.863714,-98.588637,43.863714],
-  "geometry": {"coordinates":[-98.588637,43.863714],"type":"Point"}
+  "bbox": [
+    -98.588637,
+    43.863714,
+    -98.588637,
+    43.863714
+],
+  "geometry": {"coordinates":[-98.58863700000001,43.863714],"type":"Point"}
 }

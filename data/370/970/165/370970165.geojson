@@ -2,13 +2,14 @@
   "id": 370970165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.626702,45.767182,-99.626702,45.767182",
     "geom:latitude":45.767182,
     "geom:longitude":-99.626702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 J Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370970165,
-    "wof:lastmodified":1449032412,
+    "wof:lastmodified":1467082658,
     "wof:name":"Harvey Rau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "general"
     ]
 },
-  "bbox": [-99.626702,45.767182,-99.626702,45.767182],
-  "geometry": {"coordinates":[-99.626702,45.767182],"type":"Point"}
+  "bbox": [
+    -99.626702,
+    45.767182,
+    -99.626702,
+    45.767182
+],
+  "geometry": {"coordinates":[-99.62670199999999,45.767182],"type":"Point"}
 }

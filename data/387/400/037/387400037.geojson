@@ -2,13 +2,14 @@
   "id": 387400037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713562,43.154487,-97.713562,43.154487",
     "geom:latitude":43.154487,
     "geom:longitude":-97.713562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 6th St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387400037,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"Scotland Good Samaritan Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.713562,43.154487,-97.713562,43.154487],
+  "bbox": [
+    -97.713562,
+    43.154487,
+    -97.713562,
+    43.154487
+],
   "geometry": {"coordinates":[-97.713562,43.154487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387808577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.482032,45.465077,-98.482032,45.465077",
     "geom:latitude":45.465077,
     "geom:longitude":-98.482032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Railroad Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387808577,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1467082690,
     "wof:name":"Stevens Painting",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.482032,45.465077,-98.482032,45.465077],
+  "bbox": [
+    -98.482032,
+    45.465077,
+    -98.482032,
+    45.465077
+],
   "geometry": {"coordinates":[-98.482032,45.465077],"type":"Point"}
 }

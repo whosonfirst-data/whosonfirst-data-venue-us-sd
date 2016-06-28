@@ -2,13 +2,14 @@
   "id": 387265939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.84517,44.482122,-103.84517,44.482122",
     "geom:latitude":44.482122,
     "geom:longitude":-103.84517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387265939,
-    "wof:lastmodified":1449057393,
+    "wof:lastmodified":1467082712,
     "wof:name":"PR Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.84517,44.482122,-103.84517,44.482122],
+  "bbox": [
+    -103.84517,
+    44.482122,
+    -103.84517,
+    44.482122
+],
   "geometry": {"coordinates":[-103.84517,44.482122],"type":"Point"}
 }

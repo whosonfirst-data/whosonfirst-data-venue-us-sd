@@ -2,13 +2,14 @@
   "id": 387326431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988763,44.5203,-98.988763,44.5203",
     "geom:latitude":44.5203,
     "geom:longitude":-98.988763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387326431,
-    "wof:lastmodified":1449057725,
+    "wof:lastmodified":1467082719,
     "wof:name":"Therapeutic Massage Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "massage"
     ]
 },
-  "bbox": [-98.988763,44.5203,-98.988763,44.5203],
-  "geometry": {"coordinates":[-98.988763,44.5203],"type":"Point"}
+  "bbox": [
+    -98.988763,
+    44.5203,
+    -98.988763,
+    44.5203
+],
+  "geometry": {"coordinates":[-98.98876300000001,44.5203],"type":"Point"}
 }

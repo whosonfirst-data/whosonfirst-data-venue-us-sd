@@ -2,13 +2,14 @@
   "id": 387715325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.431078,45.458951,-98.431078,45.458951",
     "geom:latitude":45.458951,
     "geom:longitude":-98.431078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4240 US Hwy 12",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387715325,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1467082748,
     "wof:name":"Skyway Aircraft",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-98.431078,45.458951,-98.431078,45.458951],
+  "bbox": [
+    -98.431078,
+    45.458951,
+    -98.431078,
+    45.458951
+],
   "geometry": {"coordinates":[-98.431078,45.458951],"type":"Point"}
 }

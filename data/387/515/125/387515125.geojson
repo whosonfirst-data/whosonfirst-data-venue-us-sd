@@ -2,13 +2,14 @@
   "id": 387515125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790906,43.462827,-96.790906,43.462827",
     "geom:latitude":43.462827,
     "geom:longitude":-96.790906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27094 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387515125,
-    "wof:lastmodified":1449056990,
+    "wof:lastmodified":1467082704,
     "wof:name":"Midwest Excavating Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.790906,43.462827,-96.790906,43.462827],
-  "geometry": {"coordinates":[-96.790906,43.462827],"type":"Point"}
+  "bbox": [
+    -96.790906,
+    43.462827,
+    -96.790906,
+    43.462827
+],
+  "geometry": {"coordinates":[-96.79090600000001,43.462827],"type":"Point"}
 }

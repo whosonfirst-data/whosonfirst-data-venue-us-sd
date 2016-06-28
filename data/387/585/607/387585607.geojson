@@ -2,13 +2,14 @@
   "id": 387585607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.673276,43.539815,-96.673276,43.539815",
     "geom:latitude":43.539815,
     "geom:longitude":-96.673276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S Charlotte Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387585607,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1467082738,
     "wof:name":"Dakota Med Trans",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-96.673276,43.539815,-96.673276,43.539815],
+  "bbox": [
+    -96.673276,
+    43.539815,
+    -96.673276,
+    43.539815
+],
   "geometry": {"coordinates":[-96.673276,43.539815],"type":"Point"}
 }

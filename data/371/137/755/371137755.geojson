@@ -2,13 +2,14 @@
   "id": 371137755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.652084,44.169654,-98.652084,44.169654",
     "geom:latitude":44.169654,
     "geom:longitude":-98.652084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22189 377th Ave",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371137755,
-    "wof:lastmodified":1449049995,
+    "wof:lastmodified":1467082671,
     "wof:name":"Anson Digging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.652084,44.169654,-98.652084,44.169654],
+  "bbox": [
+    -98.652084,
+    44.169654,
+    -98.652084,
+    44.169654
+],
   "geometry": {"coordinates":[-98.652084,44.169654],"type":"Point"}
 }

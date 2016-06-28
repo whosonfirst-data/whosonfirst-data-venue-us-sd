@@ -2,13 +2,14 @@
   "id": 370982167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.597204,45.636694,-97.597204,45.636694",
     "geom:latitude":45.636694,
     "geom:longitude":-97.597204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12097 Rose Hill Rd",
     "sg:city":"Langford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370982167,
-    "wof:lastmodified":1449029666,
+    "wof:lastmodified":1467082656,
     "wof:name":"Rose Hill Evang Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.597204,45.636694,-97.597204,45.636694],
+  "bbox": [
+    -97.597204,
+    45.636694,
+    -97.597204,
+    45.636694
+],
   "geometry": {"coordinates":[-97.597204,45.636694],"type":"Point"}
 }

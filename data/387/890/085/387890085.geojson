@@ -2,13 +2,14 @@
   "id": 387890085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.712521,43.154387,-99.712521,43.154387",
     "geom:latitude":43.154387,
     "geom:longitude":-99.712521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29301 US Hwy 183",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387890085,
-    "wof:lastmodified":1449056933,
+    "wof:lastmodified":1467082703,
     "wof:name":"Calvary Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.712521,43.154387,-99.712521,43.154387],
+  "bbox": [
+    -99.712521,
+    43.154387,
+    -99.712521,
+    43.154387
+],
   "geometry": {"coordinates":[-99.712521,43.154387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387139745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.050805,45.657919,-97.050805,45.657919",
     "geom:latitude":45.657919,
     "geom:longitude":-97.050805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Orchard Dr",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387139745,
-    "wof:lastmodified":1449056470,
+    "wof:lastmodified":1467082694,
     "wof:name":"Coteau Des Prairies Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.050805,45.657919,-97.050805,45.657919],
+  "bbox": [
+    -97.050805,
+    45.657919,
+    -97.050805,
+    45.657919
+],
   "geometry": {"coordinates":[-97.050805,45.657919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387257345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810001,45.13585,-96.810001,45.13585",
     "geom:latitude":45.13585,
     "geom:longitude":-96.810001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46962 155th St",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387257345,
-    "wof:lastmodified":1449057222,
+    "wof:lastmodified":1467082709,
     "wof:name":"Sons of Norway Granittdalen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.810001,45.13585,-96.810001,45.13585],
+  "bbox": [
+    -96.810001,
+    45.13585,
+    -96.810001,
+    45.13585
+],
   "geometry": {"coordinates":[-96.810001,45.13585],"type":"Point"}
 }

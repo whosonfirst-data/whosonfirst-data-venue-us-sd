@@ -2,13 +2,14 @@
   "id": 403714227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.003835,43.274059,-97.003835,43.274059",
     "geom:latitude":43.274059,
     "geom:longitude":-97.003835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28386 460th Ave",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403714227,
-    "wof:lastmodified":1449055285,
+    "wof:lastmodified":1467082680,
     "wof:name":"Smit Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.003835,43.274059,-97.003835,43.274059],
+  "bbox": [
+    -97.003835,
+    43.274059,
+    -97.003835,
+    43.274059
+],
   "geometry": {"coordinates":[-97.003835,43.274059],"type":"Point"}
 }

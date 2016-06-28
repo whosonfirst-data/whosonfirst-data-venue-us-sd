@@ -2,13 +2,14 @@
   "id": 370993787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485269,45.460035,-98.485269,45.460035",
     "geom:latitude":45.460035,
     "geom:longitude":-98.485269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 S Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370993787,
-    "wof:lastmodified":1449030592,
+    "wof:lastmodified":1467082656,
     "wof:name":"South Dakota Quality Control",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.485269,45.460035,-98.485269,45.460035],
+  "bbox": [
+    -98.485269,
+    45.460035,
+    -98.485269,
+    45.460035
+],
   "geometry": {"coordinates":[-98.485269,45.460035],"type":"Point"}
 }

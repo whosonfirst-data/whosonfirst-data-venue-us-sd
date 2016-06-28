@@ -2,13 +2,14 @@
   "id": 387881755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.480753,42.876131,-97.480753,42.876131",
     "geom:latitude":42.876131,
     "geom:longitude":-97.480753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31110 Walleye Dr",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387881755,
-    "wof:lastmodified":1449058311,
+    "wof:lastmodified":1467082731,
     "wof:name":"D J's Sports Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.480753,42.876131,-97.480753,42.876131],
-  "geometry": {"coordinates":[-97.480753,42.876131],"type":"Point"}
+  "bbox": [
+    -97.480753,
+    42.876131,
+    -97.480753,
+    42.876131
+],
+  "geometry": {"coordinates":[-97.48075300000001,42.876131],"type":"Point"}
 }

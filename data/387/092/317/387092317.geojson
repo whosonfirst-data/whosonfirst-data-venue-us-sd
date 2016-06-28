@@ -2,13 +2,14 @@
   "id": 387092317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.51581,45.340914,-97.51581,45.340914",
     "geom:latitude":45.340914,
     "geom:longitude":-97.51581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 US Hwy 12 E",
     "sg:city":"Waubay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387092317,
-    "wof:lastmodified":1449059207,
+    "wof:lastmodified":1467082749,
     "wof:name":"Lake Side Motel & Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.51581,45.340914,-97.51581,45.340914],
+  "bbox": [
+    -97.51581,
+    45.340914,
+    -97.51581,
+    45.340914
+],
   "geometry": {"coordinates":[-97.51581,45.340914],"type":"Point"}
 }

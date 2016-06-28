@@ -2,13 +2,14 @@
   "id": 387673779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.16074,45.936028,-98.16074,45.936028",
     "geom:latitude":45.936028,
     "geom:longitude":-98.16074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387673779,
-    "wof:lastmodified":1449057579,
+    "wof:lastmodified":1467082716,
     "wof:name":"Rex Store 60",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.16074,45.936028,-98.16074,45.936028],
+  "bbox": [
+    -98.16074,
+    45.936028,
+    -98.16074,
+    45.936028
+],
   "geometry": {"coordinates":[-98.16074,45.936028],"type":"Point"}
 }

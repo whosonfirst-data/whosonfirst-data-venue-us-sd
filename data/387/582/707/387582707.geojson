@@ -2,13 +2,14 @@
   "id": 387582707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.2882,45.456172,-98.2882,45.456172",
     "geom:latitude":45.456172,
     "geom:longitude":-98.2882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13316 397th Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387582707,
-    "wof:lastmodified":1449058159,
+    "wof:lastmodified":1467082728,
     "wof:name":"Nikken Products",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-98.2882,45.456172,-98.2882,45.456172],
+  "bbox": [
+    -98.2882,
+    45.456172,
+    -98.2882,
+    45.456172
+],
   "geometry": {"coordinates":[-98.2882,45.456172],"type":"Point"}
 }

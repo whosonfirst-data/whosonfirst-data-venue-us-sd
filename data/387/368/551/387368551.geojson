@@ -2,13 +2,14 @@
   "id": 387368551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025631,43.713348,-98.025631,43.713348",
     "geom:latitude":43.713348,
     "geom:longitude":-98.025631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387368551,
-    "wof:lastmodified":1449056977,
+    "wof:lastmodified":1467082704,
     "wof:name":"Hearing Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-98.025631,43.713348,-98.025631,43.713348],
+  "bbox": [
+    -98.025631,
+    43.713348,
+    -98.025631,
+    43.713348
+],
   "geometry": {"coordinates":[-98.025631,43.713348],"type":"Point"}
 }

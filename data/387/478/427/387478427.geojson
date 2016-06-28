@@ -2,13 +2,14 @@
   "id": 387478427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760725,45.042457,-96.760725,45.042457",
     "geom:latitude":45.042457,
     "geom:longitude":-96.760725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Main",
     "sg:city":"Strandburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387478427,
-    "wof:lastmodified":1449056244,
+    "wof:lastmodified":1467082689,
     "wof:name":"Mount Bethel Retreat Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.760725,45.042457,-96.760725,45.042457],
-  "geometry": {"coordinates":[-96.760725,45.042457],"type":"Point"}
+  "bbox": [
+    -96.760725,
+    45.042457,
+    -96.760725,
+    45.042457
+],
+  "geometry": {"coordinates":[-96.76072499999999,45.042457],"type":"Point"}
 }

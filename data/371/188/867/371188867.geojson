@@ -2,13 +2,14 @@
   "id": 371188867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0738,43.645576,-97.0738,43.645576",
     "geom:latitude":43.645576,
     "geom:longitude":-97.0738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371188867,
-    "wof:lastmodified":1449049552,
+    "wof:lastmodified":1467082665,
     "wof:name":"Klanderud Montoya Wuebben Fhn",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-97.0738,43.645576,-97.0738,43.645576],
-  "geometry": {"coordinates":[-97.0738,43.645576],"type":"Point"}
+  "bbox": [
+    -97.0738,
+    43.645576,
+    -97.0738,
+    43.645576
+],
+  "geometry": {"coordinates":[-97.07380000000001,43.645576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387509377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.507972,44.40181,-103.507972,44.40181",
     "geom:latitude":44.40181,
     "geom:longitude":-103.507972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Harmon St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387509377,
-    "wof:lastmodified":1449056273,
+    "wof:lastmodified":1467082690,
     "wof:name":"Northern Hills Eye Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.507972,44.40181,-103.507972,44.40181],
+  "bbox": [
+    -103.507972,
+    44.40181,
+    -103.507972,
+    44.40181
+],
   "geometry": {"coordinates":[-103.507972,44.40181],"type":"Point"}
 }

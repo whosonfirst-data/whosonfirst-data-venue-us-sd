@@ -2,13 +2,14 @@
   "id": 386944307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800115,44.31159,-96.800115,44.31159",
     "geom:latitude":44.31159,
     "geom:longitude":-96.800115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386944307,
-    "wof:lastmodified":1449028778,
+    "wof:lastmodified":1467082652,
     "wof:name":"Elite Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.800115,44.31159,-96.800115,44.31159],
-  "geometry": {"coordinates":[-96.800115,44.31159],"type":"Point"}
+  "bbox": [
+    -96.800115,
+    44.31159,
+    -96.800115,
+    44.31159
+],
+  "geometry": {"coordinates":[-96.80011500000001,44.31159],"type":"Point"}
 }

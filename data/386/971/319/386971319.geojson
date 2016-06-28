@@ -2,13 +2,14 @@
   "id": 386971319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944462,43.81944,-96.944462,43.81944",
     "geom:latitude":43.81944,
     "geom:longitude":-96.944462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46330 246th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386971319,
-    "wof:lastmodified":1449028789,
+    "wof:lastmodified":1467082652,
     "wof:name":"Robert Sando",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.944462,43.81944,-96.944462,43.81944],
+  "bbox": [
+    -96.944462,
+    43.81944,
+    -96.944462,
+    43.81944
+],
   "geometry": {"coordinates":[-96.944462,43.81944],"type":"Point"}
 }

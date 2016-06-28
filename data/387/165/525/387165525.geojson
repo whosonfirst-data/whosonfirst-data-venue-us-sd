@@ -2,13 +2,14 @@
   "id": 387165525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.087225,44.894964,-97.087225,44.894964",
     "geom:latitude":44.894964,
     "geom:longitude":-97.087225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387165525,
-    "wof:lastmodified":1449059929,
+    "wof:lastmodified":1467082763,
     "wof:name":"Rauen Steel Construvtion Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "structural"
     ]
 },
-  "bbox": [-97.087225,44.894964,-97.087225,44.894964],
+  "bbox": [
+    -97.087225,
+    44.894964,
+    -97.087225,
+    44.894964
+],
   "geometry": {"coordinates":[-97.087225,44.894964],"type":"Point"}
 }

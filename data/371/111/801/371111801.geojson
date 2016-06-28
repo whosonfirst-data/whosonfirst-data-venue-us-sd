@@ -2,13 +2,14 @@
   "id": 371111801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.506462,44.414375,-103.506462,44.414375",
     "geom:latitude":44.414375,
     "geom:longitude":-103.506462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371111801,
-    "wof:lastmodified":1449050170,
+    "wof:lastmodified":1467082674,
     "wof:name":"Sturgis Motorcycle Museum & Ha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-103.506462,44.414375,-103.506462,44.414375],
+  "bbox": [
+    -103.506462,
+    44.414375,
+    -103.506462,
+    44.414375
+],
   "geometry": {"coordinates":[-103.506462,44.414375],"type":"Point"}
 }

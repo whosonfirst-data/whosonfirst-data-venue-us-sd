@@ -2,13 +2,14 @@
   "id": 387268487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509085,44.409376,-103.509085,44.409376",
     "geom:latitude":44.409376,
     "geom:longitude":-103.509085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387268487,
-    "wof:lastmodified":1449058270,
+    "wof:lastmodified":1467082730,
     "wof:name":"Meade County Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-103.509085,44.409376,-103.509085,44.409376],
+  "bbox": [
+    -103.509085,
+    44.409376,
+    -103.509085,
+    44.409376
+],
   "geometry": {"coordinates":[-103.509085,44.409376],"type":"Point"}
 }

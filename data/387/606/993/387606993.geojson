@@ -2,13 +2,14 @@
   "id": 387606993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.609722,45.223367,-96.609722,45.223367",
     "geom:latitude":45.223367,
     "geom:longitude":-96.609722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Elmwood Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387606993,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1467082698,
     "wof:name":"Wittrock & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-96.609722,45.223367,-96.609722,45.223367],
+  "bbox": [
+    -96.609722,
+    45.223367,
+    -96.609722,
+    45.223367
+],
   "geometry": {"coordinates":[-96.609722,45.223367],"type":"Point"}
 }

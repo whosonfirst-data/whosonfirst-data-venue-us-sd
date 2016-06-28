@@ -2,13 +2,14 @@
   "id": 387125819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.295535,44.056893,-103.295535,44.056893",
     "geom:latitude":44.056893,
     "geom:longitude":-103.295535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Tourist St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387125819,
-    "wof:lastmodified":1449059786,
+    "wof:lastmodified":1467082760,
     "wof:name":"Black Hills Golf Car Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-103.295535,44.056893,-103.295535,44.056893],
+  "bbox": [
+    -103.295535,
+    44.056893,
+    -103.295535,
+    44.056893
+],
   "geometry": {"coordinates":[-103.295535,44.056893],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386956831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.770174,45.305811,-99.770174,45.305811",
     "geom:latitude":45.305811,
     "geom:longitude":-99.770174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14384 320th Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386956831,
-    "wof:lastmodified":1449028667,
+    "wof:lastmodified":1467082650,
     "wof:name":"Josepharbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.770174,45.305811,-99.770174,45.305811],
+  "bbox": [
+    -99.770174,
+    45.305811,
+    -99.770174,
+    45.305811
+],
   "geometry": {"coordinates":[-99.770174,45.305811],"type":"Point"}
 }

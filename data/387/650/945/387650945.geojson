@@ -2,13 +2,14 @@
   "id": 387650945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703845,43.587344,-96.703845,43.587344",
     "geom:latitude":43.587344,
     "geom:longitude":-96.703845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3506 N Casco Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387650945,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1467082733,
     "wof:name":"Baldwin & Ems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-96.703845,43.587344,-96.703845,43.587344],
+  "bbox": [
+    -96.703845,
+    43.587344,
+    -96.703845,
+    43.587344
+],
   "geometry": {"coordinates":[-96.703845,43.587344],"type":"Point"}
 }

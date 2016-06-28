@@ -2,13 +2,14 @@
   "id": 371173031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728198,43.544801,-96.728198,43.544801",
     "geom:latitude":43.544801,
     "geom:longitude":-96.728198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371173031,
-    "wof:lastmodified":1449049241,
+    "wof:lastmodified":1467082661,
     "wof:name":"Vision Care Assoc",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.728198,43.544801,-96.728198,43.544801],
-  "geometry": {"coordinates":[-96.728198,43.544801],"type":"Point"}
+  "bbox": [
+    -96.728198,
+    43.544801,
+    -96.728198,
+    43.544801
+],
+  "geometry": {"coordinates":[-96.72819800000001,43.544801],"type":"Point"}
 }

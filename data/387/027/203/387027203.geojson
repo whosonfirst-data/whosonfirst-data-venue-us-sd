@@ -2,13 +2,14 @@
   "id": 387027203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.800923,43.12627,-97.800923,43.12627",
     "geom:latitude":43.12627,
     "geom:longitude":-97.800923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41934 294th St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387027203,
-    "wof:lastmodified":1449056810,
+    "wof:lastmodified":1467082701,
     "wof:name":"Ralph Bauder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.800923,43.12627,-97.800923,43.12627],
+  "bbox": [
+    -97.800923,
+    43.12627,
+    -97.800923,
+    43.12627
+],
   "geometry": {"coordinates":[-97.800923,43.12627],"type":"Point"}
 }

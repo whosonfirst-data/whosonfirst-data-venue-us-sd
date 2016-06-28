@@ -2,13 +2,14 @@
   "id": 403760891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.192056,44.915143,-97.192056,44.915143",
     "geom:latitude":44.915143,
     "geom:longitude":-97.192056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 S Lake Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403760891,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1467082684,
     "wof:name":"Kampeska Lodge Store & Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.192056,44.915143,-97.192056,44.915143],
-  "geometry": {"coordinates":[-97.192056,44.915143],"type":"Point"}
+  "bbox": [
+    -97.192056,
+    44.915143,
+    -97.192056,
+    44.915143
+],
+  "geometry": {"coordinates":[-97.19205599999999,44.915143],"type":"Point"}
 }

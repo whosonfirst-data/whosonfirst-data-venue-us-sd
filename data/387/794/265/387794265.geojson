@@ -2,13 +2,14 @@
   "id": 387794265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.042745,45.019151,-102.042745,45.019151",
     "geom:latitude":45.019151,
     "geom:longitude":-102.042745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 W 3rd Ave",
     "sg:city":"Faith",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387794265,
-    "wof:lastmodified":1449057929,
+    "wof:lastmodified":1467082723,
     "wof:name":"Dutton Decoys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-102.042745,45.019151,-102.042745,45.019151],
+  "bbox": [
+    -102.042745,
+    45.019151,
+    -102.042745,
+    45.019151
+],
   "geometry": {"coordinates":[-102.042745,45.019151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387600803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.404963,45.752421,-99.404963,45.752421",
     "geom:latitude":45.752421,
     "geom:longitude":-99.404963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33880 113th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387600803,
-    "wof:lastmodified":1449056457,
+    "wof:lastmodified":1467082694,
     "wof:name":"Ultimate Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-99.404963,45.752421,-99.404963,45.752421],
+  "bbox": [
+    -99.404963,
+    45.752421,
+    -99.404963,
+    45.752421
+],
   "geometry": {"coordinates":[-99.404963,45.752421],"type":"Point"}
 }

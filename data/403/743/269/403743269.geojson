@@ -2,13 +2,14 @@
   "id": 403743269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.204245,44.063427,-103.204245,44.063427",
     "geom:latitude":44.063427,
     "geom:longitude":-103.204245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 E Tallent St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403743269,
-    "wof:lastmodified":1449055952,
+    "wof:lastmodified":1467082684,
     "wof:name":"Heidepriem & Heidepriem",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.204245,44.063427,-103.204245,44.063427],
+  "bbox": [
+    -103.204245,
+    44.063427,
+    -103.204245,
+    44.063427
+],
   "geometry": {"coordinates":[-103.204245,44.063427],"type":"Point"}
 }

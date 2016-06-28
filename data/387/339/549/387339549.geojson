@@ -2,13 +2,14 @@
   "id": 387339549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.239705,43.170912,-97.239705,43.170912",
     "geom:latitude":43.170912,
     "geom:longitude":-97.239705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29091 448th Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387339549,
-    "wof:lastmodified":1449057803,
+    "wof:lastmodified":1467082721,
     "wof:name":"A & J Towing & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-97.239705,43.170912,-97.239705,43.170912],
+  "bbox": [
+    -97.239705,
+    43.170912,
+    -97.239705,
+    43.170912
+],
   "geometry": {"coordinates":[-97.239705,43.170912],"type":"Point"}
 }

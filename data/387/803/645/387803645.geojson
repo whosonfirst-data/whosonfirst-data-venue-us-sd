@@ -2,13 +2,14 @@
   "id": 387803645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790955,43.527891,-96.790955,43.527891",
     "geom:latitude":43.527891,
     "geom:longitude":-96.790955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5310 W Berkshire Blvd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387803645,
-    "wof:lastmodified":1449059960,
+    "wof:lastmodified":1467082764,
     "wof:name":"Caring Hands Therapeutic Mssg",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-96.790955,43.527891,-96.790955,43.527891],
+  "bbox": [
+    -96.790955,
+    43.527891,
+    -96.790955,
+    43.527891
+],
   "geometry": {"coordinates":[-96.790955,43.527891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387291183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640768,45.202905,-96.640768,45.202905",
     "geom:latitude":45.202905,
     "geom:longitude":-96.640768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15043 State Hwy 15",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387291183,
-    "wof:lastmodified":1449057272,
+    "wof:lastmodified":1467082710,
     "wof:name":"Milbank House Movers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.640768,45.202905,-96.640768,45.202905],
-  "geometry": {"coordinates":[-96.640768,45.202905],"type":"Point"}
+  "bbox": [
+    -96.640768,
+    45.202905,
+    -96.640768,
+    45.202905
+],
+  "geometry": {"coordinates":[-96.64076799999999,45.202905],"type":"Point"}
 }

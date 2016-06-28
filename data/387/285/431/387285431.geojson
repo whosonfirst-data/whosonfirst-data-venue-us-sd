@@ -2,13 +2,14 @@
   "id": 387285431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.038296,43.706738,-98.038296,43.706738",
     "geom:latitude":43.706738,
     "geom:longitude":-98.038296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 W Birch Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387285431,
-    "wof:lastmodified":1449056228,
+    "wof:lastmodified":1467082689,
     "wof:name":"John Hollmann Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-98.038296,43.706738,-98.038296,43.706738],
+  "bbox": [
+    -98.038296,
+    43.706738,
+    -98.038296,
+    43.706738
+],
   "geometry": {"coordinates":[-98.038296,43.706738],"type":"Point"}
 }

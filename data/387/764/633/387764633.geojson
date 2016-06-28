@@ -2,13 +2,14 @@
   "id": 387764633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.992758,44.240003,-98.992758,44.240003",
     "geom:latitude":44.240003,
     "geom:longitude":-98.992758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35960 217th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387764633,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1467082759,
     "wof:name":"Dakota Wild Wings Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hunting"
     ]
 },
-  "bbox": [-98.992758,44.240003,-98.992758,44.240003],
-  "geometry": {"coordinates":[-98.992758,44.240003],"type":"Point"}
+  "bbox": [
+    -98.992758,
+    44.240003,
+    -98.992758,
+    44.240003
+],
+  "geometry": {"coordinates":[-98.99275799999999,44.240003],"type":"Point"}
 }

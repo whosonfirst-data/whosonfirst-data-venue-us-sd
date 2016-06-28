@@ -2,13 +2,14 @@
   "id": 387578021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788135,43.502051,-96.788135,43.502051",
     "geom:latitude":43.502051,
     "geom:longitude":-96.788135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5213 W Cottage Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387578021,
-    "wof:lastmodified":1449057063,
+    "wof:lastmodified":1467082706,
     "wof:name":"Brown Business Solutions",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-96.788135,43.502051,-96.788135,43.502051],
+  "bbox": [
+    -96.788135,
+    43.502051,
+    -96.788135,
+    43.502051
+],
   "geometry": {"coordinates":[-96.788135,43.502051],"type":"Point"}
 }

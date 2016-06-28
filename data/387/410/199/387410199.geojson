@@ -2,13 +2,14 @@
   "id": 387410199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433397,45.462316,-98.433397,45.462316",
     "geom:latitude":45.462316,
     "geom:longitude":-98.433397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Brown County 19 N",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387410199,
-    "wof:lastmodified":1449056170,
+    "wof:lastmodified":1467082688,
     "wof:name":"Aberdeen Engineering Group LLP",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-98.433397,45.462316,-98.433397,45.462316],
+  "bbox": [
+    -98.433397,
+    45.462316,
+    -98.433397,
+    45.462316
+],
   "geometry": {"coordinates":[-98.433397,45.462316],"type":"Point"}
 }

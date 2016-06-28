@@ -2,13 +2,14 @@
   "id": 387539411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.571613,43.240792,-97.571613,43.240792",
     "geom:latitude":43.240792,
     "geom:longitude":-97.571613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 US Hwy 18",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387539411,
-    "wof:lastmodified":1449059994,
+    "wof:lastmodified":1467082765,
     "wof:name":"Vern's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-97.571613,43.240792,-97.571613,43.240792],
+  "bbox": [
+    -97.571613,
+    43.240792,
+    -97.571613,
+    43.240792
+],
   "geometry": {"coordinates":[-97.571613,43.240792],"type":"Point"}
 }

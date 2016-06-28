@@ -2,13 +2,14 @@
   "id": 387182201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.171906,43.880661,-98.171906,43.880661",
     "geom:latitude":43.880661,
     "geom:longitude":-98.171906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40238 242nd St",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387182201,
-    "wof:lastmodified":1449058517,
+    "wof:lastmodified":1467082735,
     "wof:name":"Murray Vanlaecken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.171906,43.880661,-98.171906,43.880661],
-  "geometry": {"coordinates":[-98.171906,43.880661],"type":"Point"}
+  "bbox": [
+    -98.171906,
+    43.880661,
+    -98.171906,
+    43.880661
+],
+  "geometry": {"coordinates":[-98.17190600000001,43.880661],"type":"Point"}
 }

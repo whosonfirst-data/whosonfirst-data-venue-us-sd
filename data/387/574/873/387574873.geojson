@@ -2,13 +2,14 @@
   "id": 387574873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025493,43.714263,-98.025493,43.714263",
     "geom:latitude":43.714263,
     "geom:longitude":-98.025493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387574873,
-    "wof:lastmodified":1449056087,
+    "wof:lastmodified":1467082686,
     "wof:name":"Scoreboard Sports Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alcoholic"
     ]
 },
-  "bbox": [-98.025493,43.714263,-98.025493,43.714263],
+  "bbox": [
+    -98.025493,
+    43.714263,
+    -98.025493,
+    43.714263
+],
   "geometry": {"coordinates":[-98.025493,43.714263],"type":"Point"}
 }

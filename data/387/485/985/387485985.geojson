@@ -2,13 +2,14 @@
   "id": 387485985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702585,43.550192,-96.702585,43.550192",
     "geom:latitude":43.550192,
     "geom:longitude":-96.702585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N Jessica Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387485985,
-    "wof:lastmodified":1449058422,
+    "wof:lastmodified":1467082733,
     "wof:name":"Best Shots Weddings",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-96.702585,43.550192,-96.702585,43.550192],
+  "bbox": [
+    -96.702585,
+    43.550192,
+    -96.702585,
+    43.550192
+],
   "geometry": {"coordinates":[-96.702585,43.550192],"type":"Point"}
 }

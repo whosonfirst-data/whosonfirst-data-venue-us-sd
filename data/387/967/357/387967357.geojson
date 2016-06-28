@@ -2,13 +2,14 @@
   "id": 387967357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.032597,43.282341,-98.032597,43.282341",
     "geom:latitude":43.282341,
     "geom:longitude":-98.032597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28281 408th Ave",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387967357,
-    "wof:lastmodified":1449059641,
+    "wof:lastmodified":1467082757,
     "wof:name":"Nettie Lippart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.032597,43.282341,-98.032597,43.282341],
+  "bbox": [
+    -98.032597,
+    43.282341,
+    -98.032597,
+    43.282341
+],
   "geometry": {"coordinates":[-98.032597,43.282341],"type":"Point"}
 }

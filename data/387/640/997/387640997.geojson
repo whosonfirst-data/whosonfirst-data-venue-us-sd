@@ -2,13 +2,14 @@
   "id": 387640997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.384165,44.361261,-97.384165,44.361261",
     "geom:latitude":44.361261,
     "geom:longitude":-97.384165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 1st St SW",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387640997,
-    "wof:lastmodified":1449057762,
+    "wof:lastmodified":1467082720,
     "wof:name":"Honeydew Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.384165,44.361261,-97.384165,44.361261],
+  "bbox": [
+    -97.384165,
+    44.361261,
+    -97.384165,
+    44.361261
+],
   "geometry": {"coordinates":[-97.384165,44.361261],"type":"Point"}
 }

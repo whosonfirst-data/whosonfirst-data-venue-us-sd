@@ -2,13 +2,14 @@
   "id": 386925099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207679,44.091268,-103.207679,44.091268",
     "geom:latitude":44.091268,
     "geom:longitude":-103.207679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Adams St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":386925099,
-    "wof:lastmodified":1449028627,
+    "wof:lastmodified":1467082649,
     "wof:name":"Western Prevention Resource",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "drug"
     ]
 },
-  "bbox": [-103.207679,44.091268,-103.207679,44.091268],
+  "bbox": [
+    -103.207679,
+    44.091268,
+    -103.207679,
+    44.091268
+],
   "geometry": {"coordinates":[-103.207679,44.091268],"type":"Point"}
 }

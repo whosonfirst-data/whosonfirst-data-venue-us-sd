@@ -2,13 +2,14 @@
   "id": 387492131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.517838,44.391042,-103.517838,44.391042",
     "geom:latitude":44.391042,
     "geom:longitude":-103.517838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2942 Pine Tree Trl",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387492131,
-    "wof:lastmodified":1449056107,
+    "wof:lastmodified":1467082687,
     "wof:name":"Blessed Emmanuel Lutheran Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.517838,44.391042,-103.517838,44.391042],
+  "bbox": [
+    -103.517838,
+    44.391042,
+    -103.517838,
+    44.391042
+],
   "geometry": {"coordinates":[-103.517838,44.391042],"type":"Point"}
 }

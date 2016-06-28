@@ -2,13 +2,14 @@
   "id": 387242067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.825209,43.301724,-103.825209,43.301724",
     "geom:latitude":43.301724,
     "geom:longitude":-103.825209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 2nd Ave",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387242067,
-    "wof:lastmodified":1449059467,
+    "wof:lastmodified":1467082754,
     "wof:name":"Victory Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.825209,43.301724,-103.825209,43.301724],
+  "bbox": [
+    -103.825209,
+    43.301724,
+    -103.825209,
+    43.301724
+],
   "geometry": {"coordinates":[-103.825209,43.301724],"type":"Point"}
 }

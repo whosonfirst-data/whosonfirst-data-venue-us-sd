@@ -2,13 +2,14 @@
   "id": 371015855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809705,43.505522,-96.809705,43.505522",
     "geom:latitude":43.505522,
     "geom:longitude":-96.809705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4505 S Plateau Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371015855,
-    "wof:lastmodified":1449049284,
+    "wof:lastmodified":1467082661,
     "wof:name":"Colonial Village Rentals LLC",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.809705,43.505522,-96.809705,43.505522],
-  "geometry": {"coordinates":[-96.809705,43.505522],"type":"Point"}
+  "bbox": [
+    -96.809705,
+    43.505522,
+    -96.809705,
+    43.505522
+],
+  "geometry": {"coordinates":[-96.80970499999999,43.505522],"type":"Point"}
 }

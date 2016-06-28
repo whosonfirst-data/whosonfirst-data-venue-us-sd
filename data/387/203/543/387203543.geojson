@@ -2,13 +2,14 @@
   "id": 387203543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789621,43.513399,-96.789621,43.513399",
     "geom:latitude":43.513399,
     "geom:longitude":-96.789621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S Cathy Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387203543,
-    "wof:lastmodified":1449057792,
+    "wof:lastmodified":1467082721,
     "wof:name":"KODI Kannan Family Dentistry",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.789621,43.513399,-96.789621,43.513399],
+  "bbox": [
+    -96.789621,
+    43.513399,
+    -96.789621,
+    43.513399
+],
   "geometry": {"coordinates":[-96.789621,43.513399],"type":"Point"}
 }

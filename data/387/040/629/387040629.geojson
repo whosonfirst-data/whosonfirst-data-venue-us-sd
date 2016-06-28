@@ -2,13 +2,14 @@
   "id": 387040629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724167,43.506436,-96.724167,43.506436",
     "geom:latitude":43.506436,
     "geom:longitude":-96.724167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 S Locust Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387040629,
-    "wof:lastmodified":1449059812,
+    "wof:lastmodified":1467082761,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85881021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-96.724167,43.506436,-96.724167,43.506436],
-  "geometry": {"coordinates":[-96.724167,43.506436],"type":"Point"}
+  "bbox": [
+    -96.724167,
+    43.506436,
+    -96.724167,
+    43.506436
+],
+  "geometry": {"coordinates":[-96.72416699999999,43.506436],"type":"Point"}
 }

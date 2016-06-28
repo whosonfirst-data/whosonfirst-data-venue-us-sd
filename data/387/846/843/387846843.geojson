@@ -2,13 +2,14 @@
   "id": 387846843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.754227,43.460727,-96.754227,43.460727",
     "geom:latitude":43.460727,
     "geom:longitude":-96.754227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47244 271st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387846843,
-    "wof:lastmodified":1449059052,
+    "wof:lastmodified":1467082746,
     "wof:name":"Conrad's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.754227,43.460727,-96.754227,43.460727],
+  "bbox": [
+    -96.754227,
+    43.460727,
+    -96.754227,
+    43.460727
+],
   "geometry": {"coordinates":[-96.754227,43.460727],"type":"Point"}
 }

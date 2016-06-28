@@ -2,13 +2,14 @@
   "id": 387624613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.870004,44.51453,-103.870004,44.51453",
     "geom:latitude":44.51453,
     "geom:longitude":-103.870004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 Evans Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387624613,
-    "wof:lastmodified":1449058721,
+    "wof:lastmodified":1467082739,
     "wof:name":"Beck's Nursery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nurseryman"
     ]
 },
-  "bbox": [-103.870004,44.51453,-103.870004,44.51453],
-  "geometry": {"coordinates":[-103.870004,44.51453],"type":"Point"}
+  "bbox": [
+    -103.870004,
+    44.51453,
+    -103.870004,
+    44.51453
+],
+  "geometry": {"coordinates":[-103.87000399999999,44.51453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387012961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.674257,43.515274,-96.674257,43.515274",
     "geom:latitude":43.515274,
     "geom:longitude":-96.674257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3268 S Pillsberry Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387012961,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1467082755,
     "wof:name":"Kensington Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.674257,43.515274,-96.674257,43.515274],
+  "bbox": [
+    -96.674257,
+    43.515274,
+    -96.674257,
+    43.515274
+],
   "geometry": {"coordinates":[-96.674257,43.515274],"type":"Point"}
 }

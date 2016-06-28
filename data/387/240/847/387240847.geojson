@@ -2,13 +2,14 @@
   "id": 387240847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598035,43.766912,-103.598035,43.766912",
     "geom:latitude":43.766912,
     "geom:longitude":-103.598035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387240847,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1467082695,
     "wof:name":"Sage Creek Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.598035,43.766912,-103.598035,43.766912],
+  "bbox": [
+    -103.598035,
+    43.766912,
+    -103.598035,
+    43.766912
+],
   "geometry": {"coordinates":[-103.598035,43.766912],"type":"Point"}
 }

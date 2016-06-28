@@ -2,13 +2,14 @@
   "id": 387400991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763632,43.550643,-96.763632,43.550643",
     "geom:latitude":43.550643,
     "geom:longitude":-96.763632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 W 7th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387400991,
-    "wof:lastmodified":1449056480,
+    "wof:lastmodified":1467082694,
     "wof:name":"De Groot Accounting & Cnsltng",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.763632,43.550643,-96.763632,43.550643],
+  "bbox": [
+    -96.763632,
+    43.550643,
+    -96.763632,
+    43.550643
+],
   "geometry": {"coordinates":[-96.763632,43.550643],"type":"Point"}
 }

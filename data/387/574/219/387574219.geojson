@@ -2,13 +2,14 @@
   "id": 387574219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.352588,45.878142,-97.352588,45.878142",
     "geom:latitude":45.878142,
     "geom:longitude":-97.352588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44279 104th St",
     "sg:city":"Veblen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387574219,
-    "wof:lastmodified":1449056091,
+    "wof:lastmodified":1467082686,
     "wof:name":"Monsen Dairy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.352588,45.878142,-97.352588,45.878142],
+  "bbox": [
+    -97.352588,
+    45.878142,
+    -97.352588,
+    45.878142
+],
   "geometry": {"coordinates":[-97.352588,45.878142],"type":"Point"}
 }

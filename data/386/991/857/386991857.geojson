@@ -2,13 +2,14 @@
   "id": 386991857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214091,44.346249,-98.214091,44.346249",
     "geom:latitude":44.346249,
     "geom:longitude":-98.214091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1726 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386991857,
-    "wof:lastmodified":1449028715,
+    "wof:lastmodified":1467082651,
     "wof:name":"KJRV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-98.214091,44.346249,-98.214091,44.346249],
+  "bbox": [
+    -98.214091,
+    44.346249,
+    -98.214091,
+    44.346249
+],
   "geometry": {"coordinates":[-98.214091,44.346249],"type":"Point"}
 }

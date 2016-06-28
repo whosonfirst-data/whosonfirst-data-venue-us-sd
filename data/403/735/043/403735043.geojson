@@ -2,13 +2,14 @@
   "id": 403735043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.460022,43.038444,-98.460022,43.038444",
     "geom:latitude":43.038444,
     "geom:longitude":-98.460022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38625 300th St",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403735043,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1467082684,
     "wof:name":"Chad Kreeger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.460022,43.038444,-98.460022,43.038444],
+  "bbox": [
+    -98.460022,
+    43.038444,
+    -98.460022,
+    43.038444
+],
   "geometry": {"coordinates":[-98.460022,43.038444],"type":"Point"}
 }

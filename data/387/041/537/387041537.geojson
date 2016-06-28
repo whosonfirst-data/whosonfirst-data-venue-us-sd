@@ -2,13 +2,14 @@
   "id": 387041537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.653585,44.296639,-96.653585,44.296639",
     "geom:latitude":44.296639,
     "geom:longitude":-96.653585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47774 213th St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387041537,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1467082714,
     "wof:name":"Harry Friedrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.653585,44.296639,-96.653585,44.296639],
-  "geometry": {"coordinates":[-96.653585,44.296639],"type":"Point"}
+  "bbox": [
+    -96.653585,
+    44.296639,
+    -96.653585,
+    44.296639
+],
+  "geometry": {"coordinates":[-96.65358500000001,44.296639],"type":"Point"}
 }

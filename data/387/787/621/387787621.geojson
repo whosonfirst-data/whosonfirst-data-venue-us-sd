@@ -2,13 +2,14 @@
   "id": 387787621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.208887,43.601994,-97.208887,43.601994",
     "geom:latitude":43.601994,
     "geom:longitude":-97.208887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26093 450th Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387787621,
-    "wof:lastmodified":1449057821,
+    "wof:lastmodified":1467082721,
     "wof:name":"Johnson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.208887,43.601994,-97.208887,43.601994],
+  "bbox": [
+    -97.208887,
+    43.601994,
+    -97.208887,
+    43.601994
+],
   "geometry": {"coordinates":[-97.208887,43.601994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387225577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.473219,45.481021,-98.473219,45.481021",
     "geom:latitude":45.481021,
     "geom:longitude":-98.473219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 N Jackson St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387225577,
-    "wof:lastmodified":1449057285,
+    "wof:lastmodified":1467082710,
     "wof:name":"Wayne D Grunendike Dike",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.473219,45.481021,-98.473219,45.481021],
+  "bbox": [
+    -98.473219,
+    45.481021,
+    -98.473219,
+    45.481021
+],
   "geometry": {"coordinates":[-98.473219,45.481021],"type":"Point"}
 }

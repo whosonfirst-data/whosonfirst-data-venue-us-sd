@@ -2,13 +2,14 @@
   "id": 387401273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.122919,44.326671,-98.122919,44.326671",
     "geom:latitude":44.326671,
     "geom:longitude":-98.122919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40456 211th St",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387401273,
-    "wof:lastmodified":1449059363,
+    "wof:lastmodified":1467082752,
     "wof:name":"Gena Schoenfelder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-98.122919,44.326671,-98.122919,44.326671],
+  "bbox": [
+    -98.122919,
+    44.326671,
+    -98.122919,
+    44.326671
+],
   "geometry": {"coordinates":[-98.122919,44.326671],"type":"Point"}
 }

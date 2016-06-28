@@ -2,13 +2,14 @@
   "id": 387413493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689942,43.510276,-96.689942,43.510276",
     "geom:latitude":43.510276,
     "geom:longitude":-96.689942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 E Marson Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387413493,
-    "wof:lastmodified":1449056705,
+    "wof:lastmodified":1467082698,
     "wof:name":"Ronning Companies",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.689942,43.510276,-96.689942,43.510276],
+  "bbox": [
+    -96.689942,
+    43.510276,
+    -96.689942,
+    43.510276
+],
   "geometry": {"coordinates":[-96.689942,43.510276],"type":"Point"}
 }

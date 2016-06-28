@@ -2,13 +2,14 @@
   "id": 371138145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.2648,44.091528,-103.2648,44.091528",
     "geom:latitude":44.091528,
     "geom:longitude":-103.2648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 Industrial Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371138145,
-    "wof:lastmodified":1449049301,
+    "wof:lastmodified":1467082662,
     "wof:name":"Eaton Metal Products Company",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "works"
     ]
 },
-  "bbox": [-103.2648,44.091528,-103.2648,44.091528],
-  "geometry": {"coordinates":[-103.2648,44.091528],"type":"Point"}
+  "bbox": [
+    -103.2648,
+    44.091528,
+    -103.2648,
+    44.091528
+],
+  "geometry": {"coordinates":[-103.26479999999999,44.091528],"type":"Point"}
 }

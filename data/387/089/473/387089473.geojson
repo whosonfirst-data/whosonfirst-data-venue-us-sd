@@ -2,13 +2,14 @@
   "id": 387089473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.952772,45.00711,-99.952772,45.00711",
     "geom:latitude":45.00711,
     "geom:longitude":-99.952772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Park St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387089473,
-    "wof:lastmodified":1449056871,
+    "wof:lastmodified":1467082702,
     "wof:name":"Brendan Baus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "property"
     ]
 },
-  "bbox": [-99.952772,45.00711,-99.952772,45.00711],
+  "bbox": [
+    -99.952772,
+    45.00711,
+    -99.952772,
+    45.00711
+],
   "geometry": {"coordinates":[-99.952772,45.00711],"type":"Point"}
 }

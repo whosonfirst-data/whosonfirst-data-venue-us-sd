@@ -2,13 +2,14 @@
   "id": 387058915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.211416,44.361966,-98.211416,44.361966",
     "geom:latitude":44.361966,
     "geom:longitude":-98.211416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 4th St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387058915,
-    "wof:lastmodified":1449056663,
+    "wof:lastmodified":1467082698,
     "wof:name":"Desmet Memorial Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.211416,44.361966,-98.211416,44.361966],
+  "bbox": [
+    -98.211416,
+    44.361966,
+    -98.211416,
+    44.361966
+],
   "geometry": {"coordinates":[-98.211416,44.361966],"type":"Point"}
 }

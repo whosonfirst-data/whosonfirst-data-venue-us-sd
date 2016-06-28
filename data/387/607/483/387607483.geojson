@@ -2,13 +2,14 @@
   "id": 387607483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.435382,45.546243,-100.435382,45.546243",
     "geom:latitude":45.546243,
     "geom:longitude":-100.435382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 1st Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387607483,
-    "wof:lastmodified":1449056608,
+    "wof:lastmodified":1467082697,
     "wof:name":"Mobridge Youth Organization",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-100.435382,45.546243,-100.435382,45.546243],
+  "bbox": [
+    -100.435382,
+    45.546243,
+    -100.435382,
+    45.546243
+],
   "geometry": {"coordinates":[-100.435382,45.546243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387609389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.330743,43.384417,-98.330743,43.384417",
     "geom:latitude":43.384417,
     "geom:longitude":-98.330743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27595 393rd Ave",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387609389,
-    "wof:lastmodified":1449057523,
+    "wof:lastmodified":1467082715,
     "wof:name":"Willis Groeneweg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.330743,43.384417,-98.330743,43.384417],
+  "bbox": [
+    -98.330743,
+    43.384417,
+    -98.330743,
+    43.384417
+],
   "geometry": {"coordinates":[-98.330743,43.384417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387521671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.426583,45.537487,-100.426583,45.537487",
     "geom:latitude":45.537487,
     "geom:longitude":-100.426583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387521671,
-    "wof:lastmodified":1449059731,
+    "wof:lastmodified":1467082759,
     "wof:name":"Quenzer Electric Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.426583,45.537487,-100.426583,45.537487],
-  "geometry": {"coordinates":[-100.426583,45.537487],"type":"Point"}
+  "bbox": [
+    -100.426583,
+    45.537487,
+    -100.426583,
+    45.537487
+],
+  "geometry": {"coordinates":[-100.42658299999999,45.537487],"type":"Point"}
 }

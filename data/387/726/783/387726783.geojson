@@ -2,13 +2,14 @@
   "id": 387726783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488049,45.468649,-98.488049,45.468649",
     "geom:latitude":45.468649,
     "geom:longitude":-98.488049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387726783,
-    "wof:lastmodified":1449058713,
+    "wof:lastmodified":1467082739,
     "wof:name":"Planet Hair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.488049,45.468649,-98.488049,45.468649],
+  "bbox": [
+    -98.488049,
+    45.468649,
+    -98.488049,
+    45.468649
+],
   "geometry": {"coordinates":[-98.488049,45.468649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387824063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.785742,43.226284,-98.785742,43.226284",
     "geom:latitude":43.226284,
     "geom:longitude":-98.785742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28697 370th Ave",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387824063,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1467082714,
     "wof:name":"Dakota Cement Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.785742,43.226284,-98.785742,43.226284],
+  "bbox": [
+    -98.785742,
+    43.226284,
+    -98.785742,
+    43.226284
+],
   "geometry": {"coordinates":[-98.785742,43.226284],"type":"Point"}
 }

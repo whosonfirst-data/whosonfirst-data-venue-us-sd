@@ -2,13 +2,14 @@
   "id": 387053903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.600551,43.770118,-103.600551,43.770118",
     "geom:latitude":43.770118,
     "geom:longitude":-103.600551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 N 6th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387053903,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1467082701,
     "wof:name":"International Reading Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.600551,43.770118,-103.600551,43.770118],
+  "bbox": [
+    -103.600551,
+    43.770118,
+    -103.600551,
+    43.770118
+],
   "geometry": {"coordinates":[-103.600551,43.770118],"type":"Point"}
 }

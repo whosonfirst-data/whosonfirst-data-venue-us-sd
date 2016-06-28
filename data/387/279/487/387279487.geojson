@@ -2,13 +2,14 @@
   "id": 387279487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.674734,43.523118,-96.674734,43.523118",
     "geom:latitude":43.523118,
     "geom:longitude":-96.674734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 S Melanie Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387279487,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1467082722,
     "wof:name":"Rjm International Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [-96.674734,43.523118,-96.674734,43.523118],
+  "bbox": [
+    -96.674734,
+    43.523118,
+    -96.674734,
+    43.523118
+],
   "geometry": {"coordinates":[-96.674734,43.523118],"type":"Point"}
 }

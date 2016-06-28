@@ -2,13 +2,14 @@
   "id": 387677551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.457826,44.354765,-96.457826,44.354765",
     "geom:latitude":44.354765,
     "geom:longitude":-96.457826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48754 209th St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387677551,
-    "wof:lastmodified":1449057466,
+    "wof:lastmodified":1467082714,
     "wof:name":"Buffalo Ridge Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.457826,44.354765,-96.457826,44.354765],
+  "bbox": [
+    -96.457826,
+    44.354765,
+    -96.457826,
+    44.354765
+],
   "geometry": {"coordinates":[-96.457826,44.354765],"type":"Point"}
 }

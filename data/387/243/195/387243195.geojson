@@ -2,13 +2,14 @@
   "id": 387243195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.47256,43.442202,-103.47256,43.442202",
     "geom:latitude":43.442202,
     "geom:longitude":-103.47256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Sheridan St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387243195,
-    "wof:lastmodified":1449057337,
+    "wof:lastmodified":1467082711,
     "wof:name":"Black Hills Hardscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.47256,43.442202,-103.47256,43.442202],
+  "bbox": [
+    -103.47256,
+    43.442202,
+    -103.47256,
+    43.442202
+],
   "geometry": {"coordinates":[-103.47256,43.442202],"type":"Point"}
 }

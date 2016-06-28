@@ -2,13 +2,14 @@
   "id": 387505513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.464703,45.459199,-98.464703,45.459199",
     "geom:latitude":45.459199,
     "geom:longitude":-98.464703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387505513,
-    "wof:lastmodified":1449059301,
+    "wof:lastmodified":1467082751,
     "wof:name":"Paper Warehouse",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.464703,45.459199,-98.464703,45.459199],
+  "bbox": [
+    -98.464703,
+    45.459199,
+    -98.464703,
+    45.459199
+],
   "geometry": {"coordinates":[-98.464703,45.459199],"type":"Point"}
 }

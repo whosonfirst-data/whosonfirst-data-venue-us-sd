@@ -2,13 +2,14 @@
   "id": 387476375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803045,44.305244,-96.803045,44.305244",
     "geom:latitude":44.305244,
     "geom:longitude":-96.803045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 1st Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387476375,
-    "wof:lastmodified":1449057645,
+    "wof:lastmodified":1467082718,
     "wof:name":"Jack L Hansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.803045,44.305244,-96.803045,44.305244],
+  "bbox": [
+    -96.803045,
+    44.305244,
+    -96.803045,
+    44.305244
+],
   "geometry": {"coordinates":[-96.803045,44.305244],"type":"Point"}
 }

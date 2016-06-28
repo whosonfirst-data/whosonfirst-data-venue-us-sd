@@ -2,13 +2,14 @@
   "id": 387787535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955733,45.010842,-99.955733,45.010842",
     "geom:latitude":45.010842,
     "geom:longitude":-99.955733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Exene St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387787535,
-    "wof:lastmodified":1449057821,
+    "wof:lastmodified":1467082721,
     "wof:name":"Potter County News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-99.955733,45.010842,-99.955733,45.010842],
+  "bbox": [
+    -99.955733,
+    45.010842,
+    -99.955733,
+    45.010842
+],
   "geometry": {"coordinates":[-99.955733,45.010842],"type":"Point"}
 }

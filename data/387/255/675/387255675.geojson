@@ -2,13 +2,14 @@
   "id": 387255675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.30765,43.595168,-97.30765,43.595168",
     "geom:latitude":43.595168,
     "geom:longitude":-97.30765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26155 445th Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387255675,
-    "wof:lastmodified":1449057833,
+    "wof:lastmodified":1467082721,
     "wof:name":"E D D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-97.30765,43.595168,-97.30765,43.595168],
+  "bbox": [
+    -97.30765,
+    43.595168,
+    -97.30765,
+    43.595168
+],
   "geometry": {"coordinates":[-97.30765,43.595168],"type":"Point"}
 }

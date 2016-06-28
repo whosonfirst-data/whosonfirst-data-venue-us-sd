@@ -2,13 +2,14 @@
   "id": 387619157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.698456,45.243598,-98.698456,45.243598",
     "geom:latitude":45.243598,
     "geom:longitude":-98.698456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37397 148th St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387619157,
-    "wof:lastmodified":1449056786,
+    "wof:lastmodified":1467082700,
     "wof:name":"Robert Hahler",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.698456,45.243598,-98.698456,45.243598],
-  "geometry": {"coordinates":[-98.698456,45.243598],"type":"Point"}
+  "bbox": [
+    -98.698456,
+    45.243598,
+    -98.698456,
+    45.243598
+],
+  "geometry": {"coordinates":[-98.69845599999999,45.243598],"type":"Point"}
 }

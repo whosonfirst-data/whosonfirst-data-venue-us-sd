@@ -2,13 +2,14 @@
   "id": 387251273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710364,43.821463,-96.710364,43.821463",
     "geom:latitude":43.821463,
     "geom:longitude":-96.710364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Orleans Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387251273,
-    "wof:lastmodified":1449056191,
+    "wof:lastmodified":1467082688,
     "wof:name":"Tender Touch",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.710364,43.821463,-96.710364,43.821463],
+  "bbox": [
+    -96.710364,
+    43.821463,
+    -96.710364,
+    43.821463
+],
   "geometry": {"coordinates":[-96.710364,43.821463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387322513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.683513,43.511315,-96.683513,43.511315",
     "geom:latitude":43.511315,
     "geom:longitude":-96.683513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 S Matthew Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387322513,
-    "wof:lastmodified":1449056073,
+    "wof:lastmodified":1467082686,
     "wof:name":"Idesign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-96.683513,43.511315,-96.683513,43.511315],
+  "bbox": [
+    -96.683513,
+    43.511315,
+    -96.683513,
+    43.511315
+],
   "geometry": {"coordinates":[-96.683513,43.511315],"type":"Point"}
 }

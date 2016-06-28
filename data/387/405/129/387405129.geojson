@@ -2,13 +2,14 @@
   "id": 387405129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.337135,45.448447,-99.337135,45.448447",
     "geom:latitude":45.448447,
     "geom:longitude":-99.337135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Merrill Ave W",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387405129,
-    "wof:lastmodified":1449059597,
+    "wof:lastmodified":1467082757,
     "wof:name":"Roscoe Auto Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.337135,45.448447,-99.337135,45.448447],
+  "bbox": [
+    -99.337135,
+    45.448447,
+    -99.337135,
+    45.448447
+],
   "geometry": {"coordinates":[-99.337135,45.448447],"type":"Point"}
 }

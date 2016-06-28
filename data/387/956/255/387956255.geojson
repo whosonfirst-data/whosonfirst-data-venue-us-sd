@@ -2,13 +2,14 @@
   "id": 387956255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.792253,44.689746,-100.792253,44.689746",
     "geom:latitude":44.689746,
     "geom:longitude":-100.792253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18675 Mission Ridge Rd",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387956255,
-    "wof:lastmodified":1449056748,
+    "wof:lastmodified":1467082699,
     "wof:name":"Clifford G Tibbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.792253,44.689746,-100.792253,44.689746],
+  "bbox": [
+    -100.792253,
+    44.689746,
+    -100.792253,
+    44.689746
+],
   "geometry": {"coordinates":[-100.792253,44.689746],"type":"Point"}
 }

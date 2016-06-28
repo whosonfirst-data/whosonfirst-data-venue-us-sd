@@ -2,13 +2,14 @@
   "id": 387477875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094005,44.914774,-97.094005,44.914774",
     "geom:latitude":44.914774,
     "geom:longitude":-97.094005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 12th Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387477875,
-    "wof:lastmodified":1449056753,
+    "wof:lastmodified":1467082699,
     "wof:name":"Wm Deberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.094005,44.914774,-97.094005,44.914774],
+  "bbox": [
+    -97.094005,
+    44.914774,
+    -97.094005,
+    44.914774
+],
   "geometry": {"coordinates":[-97.094005,44.914774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387447743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.157988,45.94106,-102.157988,45.94106",
     "geom:latitude":45.94106,
     "geom:longitude":-102.157988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 4th St E",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387447743,
-    "wof:lastmodified":1449058792,
+    "wof:lastmodified":1467082740,
     "wof:name":"Three Rivers Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-102.157988,45.94106,-102.157988,45.94106],
+  "bbox": [
+    -102.157988,
+    45.94106,
+    -102.157988,
+    45.94106
+],
   "geometry": {"coordinates":[-102.157988,45.94106],"type":"Point"}
 }

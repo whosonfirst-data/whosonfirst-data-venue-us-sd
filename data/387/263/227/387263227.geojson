@@ -2,13 +2,14 @@
   "id": 387263227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74738,43.573294,-96.74738,43.573294",
     "geom:latitude":43.573294,
     "geom:longitude":-96.74738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 W Algonquin St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387263227,
-    "wof:lastmodified":1449059806,
+    "wof:lastmodified":1467082761,
     "wof:name":"Sioux Falls Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "exchange"
     ]
 },
-  "bbox": [-96.74738,43.573294,-96.74738,43.573294],
-  "geometry": {"coordinates":[-96.74738,43.573294],"type":"Point"}
+  "bbox": [
+    -96.74738,
+    43.573294,
+    -96.74738,
+    43.573294
+],
+  "geometry": {"coordinates":[-96.74738000000001,43.573294],"type":"Point"}
 }

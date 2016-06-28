@@ -2,13 +2,14 @@
   "id": 387737113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.654092,45.452947,-99.654092,45.452947",
     "geom:latitude":45.452947,
     "geom:longitude":-99.654092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 Main St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387737113,
-    "wof:lastmodified":1449056953,
+    "wof:lastmodified":1467082703,
     "wof:name":"Bieber Photography & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-99.654092,45.452947,-99.654092,45.452947],
-  "geometry": {"coordinates":[-99.654092,45.452947],"type":"Point"}
+  "bbox": [
+    -99.654092,
+    45.452947,
+    -99.654092,
+    45.452947
+],
+  "geometry": {"coordinates":[-99.65409200000001,45.452947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387104803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.066233,45.444896,-102.066233,45.444896",
     "geom:latitude":45.444896,
     "geom:longitude":-102.066233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13289 198th Ave",
     "sg:city":"Meadow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387104803,
-    "wof:lastmodified":1449057671,
+    "wof:lastmodified":1467082718,
     "wof:name":"Hansen Jens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.066233,45.444896,-102.066233,45.444896],
+  "bbox": [
+    -102.066233,
+    45.444896,
+    -102.066233,
+    45.444896
+],
   "geometry": {"coordinates":[-102.066233,45.444896],"type":"Point"}
 }

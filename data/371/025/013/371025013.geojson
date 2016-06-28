@@ -2,13 +2,14 @@
   "id": 371025013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.594983,43.329622,-98.594983,43.329622",
     "geom:latitude":43.329622,
     "geom:longitude":-98.594983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37964 280th St",
     "sg:city":"Geddes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371025013,
-    "wof:lastmodified":1449049950,
+    "wof:lastmodified":1467082671,
     "wof:name":"Michael Wojciechowski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.594983,43.329622,-98.594983,43.329622],
+  "bbox": [
+    -98.594983,
+    43.329622,
+    -98.594983,
+    43.329622
+],
   "geometry": {"coordinates":[-98.594983,43.329622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387643031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.199052,43.91262,-103.199052,43.91262",
     "geom:latitude":43.91262,
     "geom:longitude":-103.199052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24098 S Hwy 79",
     "sg:city":"Hermosa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387643031,
-    "wof:lastmodified":1449059415,
+    "wof:lastmodified":1467082753,
     "wof:name":"Always Greener",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.199052,43.91262,-103.199052,43.91262],
-  "geometry": {"coordinates":[-103.199052,43.91262],"type":"Point"}
+  "bbox": [
+    -103.199052,
+    43.91262,
+    -103.199052,
+    43.91262
+],
+  "geometry": {"coordinates":[-103.19905199999999,43.91262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387885373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.139562,44.890133,-97.139562,44.890133",
     "geom:latitude":44.890133,
     "geom:longitude":-97.139562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1525 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387885373,
-    "wof:lastmodified":1449058130,
+    "wof:lastmodified":1467082728,
     "wof:name":"FINEARTANDFRAME.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "frame"
     ]
 },
-  "bbox": [-97.139562,44.890133,-97.139562,44.890133],
+  "bbox": [
+    -97.139562,
+    44.890133,
+    -97.139562,
+    44.890133
+],
   "geometry": {"coordinates":[-97.139562,44.890133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386926285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.202907,44.096613,-103.202907,44.096613",
     "geom:latitude":44.096613,
     "geom:longitude":-103.202907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Racine St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386926285,
-    "wof:lastmodified":1449028733,
+    "wof:lastmodified":1467082651,
     "wof:name":"Needle's & Pin's",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-103.202907,44.096613,-103.202907,44.096613],
+  "bbox": [
+    -103.202907,
+    44.096613,
+    -103.202907,
+    44.096613
+],
   "geometry": {"coordinates":[-103.202907,44.096613],"type":"Point"}
 }

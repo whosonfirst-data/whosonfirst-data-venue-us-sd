@@ -2,13 +2,14 @@
   "id": 387804371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232465,44.07178,-103.232465,44.07178",
     "geom:latitude":44.07178,
     "geom:longitude":-103.232465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387804371,
-    "wof:lastmodified":1449058761,
+    "wof:lastmodified":1467082740,
     "wof:name":"Omni Home Financing LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "real estate"
     ]
 },
-  "bbox": [-103.232465,44.07178,-103.232465,44.07178],
+  "bbox": [
+    -103.232465,
+    44.07178,
+    -103.232465,
+    44.07178
+],
   "geometry": {"coordinates":[-103.232465,44.07178],"type":"Point"}
 }

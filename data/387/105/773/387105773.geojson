@@ -2,13 +2,14 @@
   "id": 387105773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.319326,43.943234,-103.319326,43.943234",
     "geom:latitude":43.943234,
     "geom:longitude":-103.319326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13704 Neck Yoke Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387105773,
-    "wof:lastmodified":1449057553,
+    "wof:lastmodified":1467082716,
     "wof:name":"Sodak Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "holding"
     ]
 },
-  "bbox": [-103.319326,43.943234,-103.319326,43.943234],
+  "bbox": [
+    -103.319326,
+    43.943234,
+    -103.319326,
+    43.943234
+],
   "geometry": {"coordinates":[-103.319326,43.943234],"type":"Point"}
 }

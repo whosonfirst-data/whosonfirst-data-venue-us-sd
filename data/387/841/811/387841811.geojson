@@ -2,13 +2,14 @@
   "id": 387841811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685129,43.532072,-96.685129,43.532072",
     "geom:latitude":43.532072,
     "geom:longitude":-96.685129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S Point Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387841811,
-    "wof:lastmodified":1449056899,
+    "wof:lastmodified":1467082702,
     "wof:name":"Automotive Lock Svc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-96.685129,43.532072,-96.685129,43.532072],
+  "bbox": [
+    -96.685129,
+    43.532072,
+    -96.685129,
+    43.532072
+],
   "geometry": {"coordinates":[-96.685129,43.532072],"type":"Point"}
 }

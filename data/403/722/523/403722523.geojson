@@ -2,13 +2,14 @@
   "id": 403722523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774799,43.565352,-96.774799,43.565352",
     "geom:latitude":43.565352,
     "geom:longitude":-96.774799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 W Teem Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403722523,
-    "wof:lastmodified":1449055093,
+    "wof:lastmodified":1467082678,
     "wof:name":"T D S Trucking",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.774799,43.565352,-96.774799,43.565352],
+  "bbox": [
+    -96.774799,
+    43.565352,
+    -96.774799,
+    43.565352
+],
   "geometry": {"coordinates":[-96.774799,43.565352],"type":"Point"}
 }

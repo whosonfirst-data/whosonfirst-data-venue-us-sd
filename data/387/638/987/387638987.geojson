@@ -2,13 +2,14 @@
   "id": 387638987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72137,43.575728,-96.72137,43.575728",
     "geom:latitude":43.575728,
     "geom:longitude":-96.72137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 E Amidon St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387638987,
-    "wof:lastmodified":1449056324,
+    "wof:lastmodified":1467082691,
     "wof:name":"Reconditioned Wheels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "powder"
     ]
 },
-  "bbox": [-96.72137,43.575728,-96.72137,43.575728],
-  "geometry": {"coordinates":[-96.72137,43.575728],"type":"Point"}
+  "bbox": [
+    -96.72137,
+    43.575728,
+    -96.72137,
+    43.575728
+],
+  "geometry": {"coordinates":[-96.72136999999999,43.575728],"type":"Point"}
 }

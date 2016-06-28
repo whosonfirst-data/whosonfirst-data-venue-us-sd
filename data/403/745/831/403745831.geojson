@@ -2,13 +2,14 @@
   "id": 403745831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.484992,45.458979,-98.484992,45.458979",
     "geom:latitude":45.458979,
     "geom:longitude":-98.484992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403745831,
-    "wof:lastmodified":1449055889,
+    "wof:lastmodified":1467082684,
     "wof:name":"Aberdeen Dental Assoc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.484992,45.458979,-98.484992,45.458979],
-  "geometry": {"coordinates":[-98.484992,45.458979],"type":"Point"}
+  "bbox": [
+    -98.484992,
+    45.458979,
+    -98.484992,
+    45.458979
+],
+  "geometry": {"coordinates":[-98.48499200000001,45.458979],"type":"Point"}
 }

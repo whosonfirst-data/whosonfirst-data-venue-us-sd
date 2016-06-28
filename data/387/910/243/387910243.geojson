@@ -2,13 +2,14 @@
   "id": 387910243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.856293,44.483649,-103.856293,44.483649",
     "geom:latitude":44.483649,
     "geom:longitude":-103.856293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387910243,
-    "wof:lastmodified":1449057690,
+    "wof:lastmodified":1467082718,
     "wof:name":"Konstant Investment Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.856293,44.483649,-103.856293,44.483649],
-  "geometry": {"coordinates":[-103.856293,44.483649],"type":"Point"}
+  "bbox": [
+    -103.856293,
+    44.483649,
+    -103.856293,
+    44.483649
+],
+  "geometry": {"coordinates":[-103.85629299999999,44.483649],"type":"Point"}
 }

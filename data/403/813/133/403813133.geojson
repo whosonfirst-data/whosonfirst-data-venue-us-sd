@@ -2,13 +2,14 @@
   "id": 403813133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.36723,44.130653,-103.36723,44.130653",
     "geom:latitude":44.130653,
     "geom:longitude":-103.36723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22556 Palmer Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403813133,
-    "wof:lastmodified":1449054986,
+    "wof:lastmodified":1467082678,
     "wof:name":"A&W Property Managementt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-103.36723,44.130653,-103.36723,44.130653],
-  "geometry": {"coordinates":[-103.36723,44.130653],"type":"Point"}
+  "bbox": [
+    -103.36723,
+    44.130653,
+    -103.36723,
+    44.130653
+],
+  "geometry": {"coordinates":[-103.36723000000001,44.130653],"type":"Point"}
 }

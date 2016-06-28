@@ -2,13 +2,14 @@
   "id": 387449509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114026,44.90152,-97.114026,44.90152",
     "geom:latitude":44.90152,
     "geom:longitude":-97.114026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 N Broadway",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387449509,
-    "wof:lastmodified":1449059640,
+    "wof:lastmodified":1467082757,
     "wof:name":"Harbor Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-97.114026,44.90152,-97.114026,44.90152],
+  "bbox": [
+    -97.114026,
+    44.90152,
+    -97.114026,
+    44.90152
+],
   "geometry": {"coordinates":[-97.114026,44.90152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371049199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214191,44.384599,-98.214191,44.384599",
     "geom:latitude":44.384599,
     "geom:longitude":-98.214191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371049199,
-    "wof:lastmodified":1449049539,
+    "wof:lastmodified":1467082665,
     "wof:name":"Oil Well",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grease"
     ]
 },
-  "bbox": [-98.214191,44.384599,-98.214191,44.384599],
+  "bbox": [
+    -98.214191,
+    44.384599,
+    -98.214191,
+    44.384599
+],
   "geometry": {"coordinates":[-98.214191,44.384599],"type":"Point"}
 }

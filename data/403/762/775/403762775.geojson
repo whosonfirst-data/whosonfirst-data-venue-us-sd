@@ -2,13 +2,14 @@
   "id": 403762775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479241,45.465941,-98.479241,45.465941",
     "geom:latitude":45.465941,
     "geom:longitude":-98.479241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 N State St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403762775,
-    "wof:lastmodified":1449055557,
+    "wof:lastmodified":1467082682,
     "wof:name":"Central Storage",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-98.479241,45.465941,-98.479241,45.465941],
+  "bbox": [
+    -98.479241,
+    45.465941,
+    -98.479241,
+    45.465941
+],
   "geometry": {"coordinates":[-98.479241,45.465941],"type":"Point"}
 }

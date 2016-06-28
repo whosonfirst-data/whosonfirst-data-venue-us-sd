@@ -2,13 +2,14 @@
   "id": 387744195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.814448,43.38638,-99.814448,43.38638",
     "geom:latitude":43.38638,
     "geom:longitude":-99.814448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31790 277th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387744195,
-    "wof:lastmodified":1449057469,
+    "wof:lastmodified":1467082714,
     "wof:name":"Ron Ernest & Sons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.814448,43.38638,-99.814448,43.38638],
+  "bbox": [
+    -99.814448,
+    43.38638,
+    -99.814448,
+    43.38638
+],
   "geometry": {"coordinates":[-99.814448,43.38638],"type":"Point"}
 }

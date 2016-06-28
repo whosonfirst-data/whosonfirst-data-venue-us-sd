@@ -2,13 +2,14 @@
   "id": 403749303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.617361,45.54735,-98.617361,45.54735",
     "geom:latitude":45.54735,
     "geom:longitude":-98.617361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37908 127th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403749303,
-    "wof:lastmodified":1449055024,
+    "wof:lastmodified":1467082678,
     "wof:name":"Lake Road Ranch",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.617361,45.54735,-98.617361,45.54735],
+  "bbox": [
+    -98.617361,
+    45.54735,
+    -98.617361,
+    45.54735
+],
   "geometry": {"coordinates":[-98.617361,45.54735],"type":"Point"}
 }

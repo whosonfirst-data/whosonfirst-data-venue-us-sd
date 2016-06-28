@@ -2,13 +2,14 @@
   "id": 387257115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806184,43.496912,-96.806184,43.496912",
     "geom:latitude":43.496912,
     "geom:longitude":-96.806184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5412 S Sundowner Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387257115,
-    "wof:lastmodified":1449057217,
+    "wof:lastmodified":1467082709,
     "wof:name":"Triple A Home Inspections LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-96.806184,43.496912,-96.806184,43.496912],
+  "bbox": [
+    -96.806184,
+    43.496912,
+    -96.806184,
+    43.496912
+],
   "geometry": {"coordinates":[-96.806184,43.496912],"type":"Point"}
 }

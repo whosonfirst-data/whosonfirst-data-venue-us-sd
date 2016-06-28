@@ -2,13 +2,14 @@
   "id": 387254347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.570449,43.57215,-97.570449,43.57215",
     "geom:latitude":43.57215,
     "geom:longitude":-97.570449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43134 263rd St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387254347,
-    "wof:lastmodified":1449058724,
+    "wof:lastmodified":1467082739,
     "wof:name":"Roger Leitheiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.570449,43.57215,-97.570449,43.57215],
+  "bbox": [
+    -97.570449,
+    43.57215,
+    -97.570449,
+    43.57215
+],
   "geometry": {"coordinates":[-97.570449,43.57215],"type":"Point"}
 }

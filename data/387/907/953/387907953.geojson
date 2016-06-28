@@ -2,13 +2,14 @@
   "id": 387907953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.305171,44.83303,-97.305171,44.83303",
     "geom:latitude":44.83303,
     "geom:longitude":-97.305171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44541 176th St",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387907953,
-    "wof:lastmodified":1449059629,
+    "wof:lastmodified":1467082757,
     "wof:name":"David Deberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.305171,44.83303,-97.305171,44.83303],
+  "bbox": [
+    -97.305171,
+    44.83303,
+    -97.305171,
+    44.83303
+],
   "geometry": {"coordinates":[-97.305171,44.83303],"type":"Point"}
 }

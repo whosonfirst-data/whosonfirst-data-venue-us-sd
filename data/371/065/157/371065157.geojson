@@ -2,13 +2,14 @@
   "id": 371065157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.778282,44.488026,-103.778282,44.488026",
     "geom:latitude":44.488026,
     "geom:longitude":-103.778282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5113 Sunset Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371065157,
-    "wof:lastmodified":1449050136,
+    "wof:lastmodified":1467082673,
     "wof:name":"Black Hills Lawn Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "weed"
     ]
 },
-  "bbox": [-103.778282,44.488026,-103.778282,44.488026],
+  "bbox": [
+    -103.778282,
+    44.488026,
+    -103.778282,
+    44.488026
+],
   "geometry": {"coordinates":[-103.778282,44.488026],"type":"Point"}
 }

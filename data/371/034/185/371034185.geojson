@@ -2,13 +2,14 @@
   "id": 371034185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598537,43.766432,-103.598537,43.766432",
     "geom:latitude":43.766432,
     "geom:longitude":-103.598537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 S 6th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371034185,
-    "wof:lastmodified":1449049141,
+    "wof:lastmodified":1467082659,
     "wof:name":"WEAVE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-103.598537,43.766432,-103.598537,43.766432],
-  "geometry": {"coordinates":[-103.598537,43.766432],"type":"Point"}
+  "bbox": [
+    -103.598537,
+    43.766432,
+    -103.598537,
+    43.766432
+],
+  "geometry": {"coordinates":[-103.59853699999999,43.766432],"type":"Point"}
 }

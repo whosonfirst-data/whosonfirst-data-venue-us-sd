@@ -2,13 +2,14 @@
   "id": 386953697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520705,45.332123,-97.520705,45.332123",
     "geom:latitude":45.332123,
     "geom:longitude":-97.520705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 W 7th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386953697,
-    "wof:lastmodified":1449028835,
+    "wof:lastmodified":1467082653,
     "wof:name":"Lake Area Embroidery & Apparel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-97.520705,45.332123,-97.520705,45.332123],
-  "geometry": {"coordinates":[-97.520705,45.332123],"type":"Point"}
+  "bbox": [
+    -97.520705,
+    45.332123,
+    -97.520705,
+    45.332123
+],
+  "geometry": {"coordinates":[-97.52070500000001,45.332123],"type":"Point"}
 }

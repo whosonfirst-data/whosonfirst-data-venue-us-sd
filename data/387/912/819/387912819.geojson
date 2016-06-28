@@ -2,13 +2,14 @@
   "id": 387912819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.38152,43.629618,-98.38152,43.629618",
     "geom:latitude":43.629618,
     "geom:longitude":-98.38152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39169 259th St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387912819,
-    "wof:lastmodified":1449057983,
+    "wof:lastmodified":1467082725,
     "wof:name":"Roger Safar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.38152,43.629618,-98.38152,43.629618],
-  "geometry": {"coordinates":[-98.38152,43.629618],"type":"Point"}
+  "bbox": [
+    -98.38152,
+    43.629618,
+    -98.38152,
+    43.629618
+],
+  "geometry": {"coordinates":[-98.38151999999999,43.629618],"type":"Point"}
 }

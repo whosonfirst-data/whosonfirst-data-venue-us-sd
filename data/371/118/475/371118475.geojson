@@ -2,13 +2,14 @@
   "id": 371118475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488148,45.460061,-98.488148,45.460061",
     "geom:latitude":45.460061,
     "geom:longitude":-98.488148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371118475,
-    "wof:lastmodified":1449049899,
+    "wof:lastmodified":1467082670,
     "wof:name":"Malchow's Home Furnishings",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-98.488148,45.460061,-98.488148,45.460061],
+  "bbox": [
+    -98.488148,
+    45.460061,
+    -98.488148,
+    45.460061
+],
   "geometry": {"coordinates":[-98.488148,45.460061],"type":"Point"}
 }

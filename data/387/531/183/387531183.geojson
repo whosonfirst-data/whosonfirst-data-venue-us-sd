@@ -2,13 +2,14 @@
   "id": 387531183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.598777,43.766569,-103.598777,43.766569",
     "geom:latitude":43.766569,
     "geom:longitude":-103.598777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387531183,
-    "wof:lastmodified":1449057006,
+    "wof:lastmodified":1467082704,
     "wof:name":"A Walk In The Woods Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.598777,43.766569,-103.598777,43.766569],
+  "bbox": [
+    -103.598777,
+    43.766569,
+    -103.598777,
+    43.766569
+],
   "geometry": {"coordinates":[-103.598777,43.766569],"type":"Point"}
 }

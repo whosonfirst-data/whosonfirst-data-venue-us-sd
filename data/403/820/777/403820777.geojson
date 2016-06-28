@@ -2,13 +2,14 @@
   "id": 403820777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.251801,45.849294,-102.251801,45.849294",
     "geom:latitude":45.849294,
     "geom:longitude":-102.251801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19168 Flatcreek Rd",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403820777,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1467082680,
     "wof:name":"Frisvold Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-102.251801,45.849294,-102.251801,45.849294],
+  "bbox": [
+    -102.251801,
+    45.849294,
+    -102.251801,
+    45.849294
+],
   "geometry": {"coordinates":[-102.251801,45.849294],"type":"Point"}
 }

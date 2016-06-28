@@ -2,13 +2,14 @@
   "id": 387764953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.755445,43.083703,-96.755445,43.083703",
     "geom:latitude":43.083703,
     "geom:longitude":-96.755445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47256 297th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387764953,
-    "wof:lastmodified":1449059741,
+    "wof:lastmodified":1467082759,
     "wof:name":"Woodfield Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "welfare"
     ]
 },
-  "bbox": [-96.755445,43.083703,-96.755445,43.083703],
-  "geometry": {"coordinates":[-96.755445,43.083703],"type":"Point"}
+  "bbox": [
+    -96.755445,
+    43.083703,
+    -96.755445,
+    43.083703
+],
+  "geometry": {"coordinates":[-96.75544499999999,43.083703],"type":"Point"}
 }

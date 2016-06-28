@@ -2,13 +2,14 @@
   "id": 403760897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.34686,44.362815,-100.34686,44.362815",
     "geom:latitude":44.362815,
     "geom:longitude":-100.34686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403760897,
-    "wof:lastmodified":1449055895,
+    "wof:lastmodified":1467082684,
     "wof:name":"Pierre Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.34686,44.362815,-100.34686,44.362815],
-  "geometry": {"coordinates":[-100.34686,44.362815],"type":"Point"}
+  "bbox": [
+    -100.34686,
+    44.362815,
+    -100.34686,
+    44.362815
+],
+  "geometry": {"coordinates":[-100.34686000000001,44.362815],"type":"Point"}
 }

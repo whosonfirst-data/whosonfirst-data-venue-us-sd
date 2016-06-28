@@ -2,13 +2,14 @@
   "id": 371184109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.328625,43.813475,-99.328625,43.813475",
     "geom:latitude":43.813475,
     "geom:longitude":-99.328625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Main St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371184109,
-    "wof:lastmodified":1449049217,
+    "wof:lastmodified":1467082660,
     "wof:name":"Renee's Family Hair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.328625,43.813475,-99.328625,43.813475],
+  "bbox": [
+    -99.328625,
+    43.813475,
+    -99.328625,
+    43.813475
+],
   "geometry": {"coordinates":[-99.328625,43.813475],"type":"Point"}
 }

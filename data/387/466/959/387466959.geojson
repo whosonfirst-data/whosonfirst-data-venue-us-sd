@@ -2,13 +2,14 @@
   "id": 387466959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.317838,44.361953,-100.317838,44.361953",
     "geom:latitude":44.361953,
     "geom:longitude":-100.317838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 E Franklin St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387466959,
-    "wof:lastmodified":1449057237,
+    "wof:lastmodified":1467082709,
     "wof:name":"Larry L Fry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-100.317838,44.361953,-100.317838,44.361953],
-  "geometry": {"coordinates":[-100.317838,44.361953],"type":"Point"}
+  "bbox": [
+    -100.317838,
+    44.361953,
+    -100.317838,
+    44.361953
+],
+  "geometry": {"coordinates":[-100.31783799999999,44.361953],"type":"Point"}
 }

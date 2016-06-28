@@ -2,13 +2,14 @@
   "id": 387014033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710864,43.499174,-96.710864,43.499174",
     "geom:latitude":43.499174,
     "geom:longitude":-96.710864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 S Mac Arthur Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387014033,
-    "wof:lastmodified":1449057969,
+    "wof:lastmodified":1467082724,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.710864,43.499174,-96.710864,43.499174],
+  "bbox": [
+    -96.710864,
+    43.499174,
+    -96.710864,
+    43.499174
+],
   "geometry": {"coordinates":[-96.710864,43.499174],"type":"Point"}
 }

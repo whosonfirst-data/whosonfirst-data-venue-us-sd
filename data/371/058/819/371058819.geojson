@@ -2,13 +2,14 @@
   "id": 371058819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.239019,43.994598,-102.239019,43.994598",
     "geom:latitude":43.994598,
     "geom:longitude":-102.239019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Glenn St",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371058819,
-    "wof:lastmodified":1449049181,
+    "wof:lastmodified":1467082660,
     "wof:name":"J J's Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-102.239019,43.994598,-102.239019,43.994598],
+  "bbox": [
+    -102.239019,
+    43.994598,
+    -102.239019,
+    43.994598
+],
   "geometry": {"coordinates":[-102.239019,43.994598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387641915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.517864,43.073487,-98.517864,43.073487",
     "geom:latitude":43.073487,
     "geom:longitude":-98.517864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36642 297th St",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387641915,
-    "wof:lastmodified":1449058998,
+    "wof:lastmodified":1467082745,
     "wof:name":"Leroy Hoar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.517864,43.073487,-98.517864,43.073487],
+  "bbox": [
+    -98.517864,
+    43.073487,
+    -98.517864,
+    43.073487
+],
   "geometry": {"coordinates":[-98.517864,43.073487],"type":"Point"}
 }

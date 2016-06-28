@@ -2,13 +2,14 @@
   "id": 387936597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.840105,45.914145,-99.840105,45.914145",
     "geom:latitude":45.914145,
     "geom:longitude":-99.840105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31687 102nd St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387936597,
-    "wof:lastmodified":1449057369,
+    "wof:lastmodified":1467082712,
     "wof:name":"Bentz Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.840105,45.914145,-99.840105,45.914145],
-  "geometry": {"coordinates":[-99.840105,45.914145],"type":"Point"}
+  "bbox": [
+    -99.840105,
+    45.914145,
+    -99.840105,
+    45.914145
+],
+  "geometry": {"coordinates":[-99.84010499999999,45.914145],"type":"Point"}
 }

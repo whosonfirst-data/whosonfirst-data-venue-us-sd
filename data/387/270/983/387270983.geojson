@@ -2,13 +2,14 @@
   "id": 387270983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.817085,43.519994,-96.817085,43.519994",
     "geom:latitude":43.519994,
     "geom:longitude":-96.817085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 S Eisenhower Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387270983,
-    "wof:lastmodified":1449056779,
+    "wof:lastmodified":1467082700,
     "wof:name":"Marv's Sanitary Svc-Sioux Fls",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "collection"
     ]
 },
-  "bbox": [-96.817085,43.519994,-96.817085,43.519994],
-  "geometry": {"coordinates":[-96.817085,43.519994],"type":"Point"}
+  "bbox": [
+    -96.817085,
+    43.519994,
+    -96.817085,
+    43.519994
+],
+  "geometry": {"coordinates":[-96.81708500000001,43.519994],"type":"Point"}
 }

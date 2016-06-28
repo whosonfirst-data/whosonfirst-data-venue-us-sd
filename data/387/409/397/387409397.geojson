@@ -2,13 +2,14 @@
   "id": 387409397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.100179,45.457671,-98.100179,45.457671",
     "geom:latitude":45.457671,
     "geom:longitude":-98.100179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 US Hwy 12",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387409397,
-    "wof:lastmodified":1449057663,
+    "wof:lastmodified":1467082718,
     "wof:name":"Mike-N-Jo's Body-N-Glass",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.100179,45.457671,-98.100179,45.457671],
+  "bbox": [
+    -98.100179,
+    45.457671,
+    -98.100179,
+    45.457671
+],
   "geometry": {"coordinates":[-98.100179,45.457671],"type":"Point"}
 }

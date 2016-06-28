@@ -2,13 +2,14 @@
   "id": 387431141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.389287,44.131479,-103.389287,44.131479",
     "geom:latitude":44.131479,
     "geom:longitude":-103.389287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22559 Smokey Ridge Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387431141,
-    "wof:lastmodified":1449056616,
+    "wof:lastmodified":1467082697,
     "wof:name":"David Todd Fossen Hardwood",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-103.389287,44.131479,-103.389287,44.131479],
+  "bbox": [
+    -103.389287,
+    44.131479,
+    -103.389287,
+    44.131479
+],
   "geometry": {"coordinates":[-103.389287,44.131479],"type":"Point"}
 }

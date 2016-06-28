@@ -2,13 +2,14 @@
   "id": 387352979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.339636,43.800431,-99.339636,43.800431",
     "geom:latitude":43.800431,
     "geom:longitude":-99.339636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 W 16th Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387352979,
-    "wof:lastmodified":1449058442,
+    "wof:lastmodified":1467082734,
     "wof:name":"Chamberlain Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.339636,43.800431,-99.339636,43.800431],
+  "bbox": [
+    -99.339636,
+    43.800431,
+    -99.339636,
+    43.800431
+],
   "geometry": {"coordinates":[-99.339636,43.800431],"type":"Point"}
 }

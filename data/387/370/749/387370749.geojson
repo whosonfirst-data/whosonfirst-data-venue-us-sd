@@ -2,13 +2,14 @@
   "id": 387370749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731519,44.886193,-97.731519,44.886193",
     "geom:latitude":44.886193,
     "geom:longitude":-97.731519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 N Cloud St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387370749,
-    "wof:lastmodified":1449058188,
+    "wof:lastmodified":1467082729,
     "wof:name":"Rod's Truck Svc & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-97.731519,44.886193,-97.731519,44.886193],
-  "geometry": {"coordinates":[-97.731519,44.886193],"type":"Point"}
+  "bbox": [
+    -97.731519,
+    44.886193,
+    -97.731519,
+    44.886193
+],
+  "geometry": {"coordinates":[-97.73151900000001,44.886193],"type":"Point"}
 }

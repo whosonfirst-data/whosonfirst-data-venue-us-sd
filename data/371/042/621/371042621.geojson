@@ -2,13 +2,14 @@
   "id": 371042621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.725723,45.470109,-98.725723,45.470109",
     "geom:latitude":45.470109,
     "geom:longitude":-98.725723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Sunrise Dr",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371042621,
-    "wof:lastmodified":1449049837,
+    "wof:lastmodified":1467082669,
     "wof:name":"Hopfinger Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.725723,45.470109,-98.725723,45.470109],
+  "bbox": [
+    -98.725723,
+    45.470109,
+    -98.725723,
+    45.470109
+],
   "geometry": {"coordinates":[-98.725723,45.470109],"type":"Point"}
 }

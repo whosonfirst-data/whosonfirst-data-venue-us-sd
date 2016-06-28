@@ -2,13 +2,14 @@
   "id": 387726151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.055902,45.659959,-97.055902,45.659959",
     "geom:latitude":45.659959,
     "geom:longitude":-97.055902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Hickory St W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387726151,
-    "wof:lastmodified":1449058714,
+    "wof:lastmodified":1467082739,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.055902,45.659959,-97.055902,45.659959],
+  "bbox": [
+    -97.055902,
+    45.659959,
+    -97.055902,
+    45.659959
+],
   "geometry": {"coordinates":[-97.055902,45.659959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387602657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.572236,43.592102,-96.572236,43.592102",
     "geom:latitude":43.592102,
     "geom:longitude":-96.572236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Splitrock Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387602657,
-    "wof:lastmodified":1449057890,
+    "wof:lastmodified":1467082723,
     "wof:name":"Brandon Valley Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.572236,43.592102,-96.572236,43.592102],
+  "bbox": [
+    -96.572236,
+    43.592102,
+    -96.572236,
+    43.592102
+],
   "geometry": {"coordinates":[-96.572236,43.592102],"type":"Point"}
 }

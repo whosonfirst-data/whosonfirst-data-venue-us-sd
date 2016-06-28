@@ -2,13 +2,14 @@
   "id": 387752071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774795,43.514215,-96.774795,43.514215",
     "geom:latitude":43.514215,
     "geom:longitude":-96.774795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387752071,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1467082699,
     "wof:name":"Casual Corner",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.774795,43.514215,-96.774795,43.514215],
+  "bbox": [
+    -96.774795,
+    43.514215,
+    -96.774795,
+    43.514215
+],
   "geometry": {"coordinates":[-96.774795,43.514215],"type":"Point"}
 }

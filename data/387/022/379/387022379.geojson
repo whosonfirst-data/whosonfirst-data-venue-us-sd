@@ -2,13 +2,14 @@
   "id": 387022379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543973,44.386662,-97.543973,44.386662",
     "geom:latitude":44.386662,
     "geom:longitude":-97.543973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Olivet Ave SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387022379,
-    "wof:lastmodified":1449057358,
+    "wof:lastmodified":1467082712,
     "wof:name":"Laura Ingalls Wilder Memorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.543973,44.386662,-97.543973,44.386662],
-  "geometry": {"coordinates":[-97.543973,44.386662],"type":"Point"}
+  "bbox": [
+    -97.543973,
+    44.386662,
+    -97.543973,
+    44.386662
+],
+  "geometry": {"coordinates":[-97.54397299999999,44.386662],"type":"Point"}
 }

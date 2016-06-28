@@ -2,13 +2,14 @@
   "id": 387401953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.763916,43.973384,-103.763916,43.973384",
     "geom:latitude":43.973384,
     "geom:longitude":-103.763916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11475 Gillette Prairie Rd",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387401953,
-    "wof:lastmodified":1449059365,
+    "wof:lastmodified":1467082752,
     "wof:name":"Hobart Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-103.763916,43.973384,-103.763916,43.973384],
-  "geometry": {"coordinates":[-103.763916,43.973384],"type":"Point"}
+  "bbox": [
+    -103.763916,
+    43.973384,
+    -103.763916,
+    43.973384
+],
+  "geometry": {"coordinates":[-103.76391599999999,43.973384],"type":"Point"}
 }

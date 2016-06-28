@@ -2,13 +2,14 @@
   "id": 387334519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805009,43.455379,-96.805009,43.455379",
     "geom:latitude":43.455379,
     "geom:longitude":-96.805009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27116 Grummand Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387334519,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1467082709,
     "wof:name":"Rms Roller Grinder Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.805009,43.455379,-96.805009,43.455379],
+  "bbox": [
+    -96.805009,
+    43.455379,
+    -96.805009,
+    43.455379
+],
   "geometry": {"coordinates":[-96.805009,43.455379],"type":"Point"}
 }

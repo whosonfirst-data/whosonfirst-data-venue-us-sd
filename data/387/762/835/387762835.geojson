@@ -2,13 +2,14 @@
   "id": 387762835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947415,43.761415,-96.947415,43.761415",
     "geom:latitude":43.761415,
     "geom:longitude":-96.947415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46316 250th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387762835,
-    "wof:lastmodified":1449058792,
+    "wof:lastmodified":1467082740,
     "wof:name":"Double D Feed Yard Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.947415,43.761415,-96.947415,43.761415],
-  "geometry": {"coordinates":[-96.947415,43.761415],"type":"Point"}
+  "bbox": [
+    -96.947415,
+    43.761415,
+    -96.947415,
+    43.761415
+],
+  "geometry": {"coordinates":[-96.94741500000001,43.761415],"type":"Point"}
 }

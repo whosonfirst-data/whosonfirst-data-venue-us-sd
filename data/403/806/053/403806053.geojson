@@ -2,13 +2,14 @@
   "id": 403806053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.338156,45.108395,-97.338156,45.108395",
     "geom:latitude":45.108395,
     "geom:longitude":-97.338156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44373 157th St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403806053,
-    "wof:lastmodified":1449054624,
+    "wof:lastmodified":1467082674,
     "wof:name":"Triple R Construction1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.338156,45.108395,-97.338156,45.108395],
+  "bbox": [
+    -97.338156,
+    45.108395,
+    -97.338156,
+    45.108395
+],
   "geometry": {"coordinates":[-97.338156,45.108395],"type":"Point"}
 }

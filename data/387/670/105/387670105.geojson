@@ -2,13 +2,14 @@
   "id": 387670105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.066422,44.709192,-100.066422,44.709192",
     "geom:latitude":44.709192,
     "geom:longitude":-100.066422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 N Main St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387670105,
-    "wof:lastmodified":1449056672,
+    "wof:lastmodified":1467082698,
     "wof:name":"White Buffalo Calf Woman Soc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "intervention"
     ]
 },
-  "bbox": [-100.066422,44.709192,-100.066422,44.709192],
+  "bbox": [
+    -100.066422,
+    44.709192,
+    -100.066422,
+    44.709192
+],
   "geometry": {"coordinates":[-100.066422,44.709192],"type":"Point"}
 }

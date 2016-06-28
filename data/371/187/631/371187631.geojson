@@ -2,13 +2,14 @@
   "id": 371187631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49664,45.449078,-98.49664,45.449078",
     "geom:latitude":45.449078,
     "geom:longitude":-98.49664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 S 6th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371187631,
-    "wof:lastmodified":1449049189,
+    "wof:lastmodified":1467082660,
     "wof:name":"Bonnie Lundberg",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-98.49664,45.449078,-98.49664,45.449078],
+  "bbox": [
+    -98.49664,
+    45.449078,
+    -98.49664,
+    45.449078
+],
   "geometry": {"coordinates":[-98.49664,45.449078],"type":"Point"}
 }

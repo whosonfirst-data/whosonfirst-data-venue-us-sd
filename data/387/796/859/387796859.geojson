@@ -2,13 +2,14 @@
   "id": 387796859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186624,44.076726,-103.186624,44.076726",
     "geom:latitude":44.076726,
     "geom:longitude":-103.186624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Creek Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387796859,
-    "wof:lastmodified":1449057898,
+    "wof:lastmodified":1467082723,
     "wof:name":"Premier Communications",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.186624,44.076726,-103.186624,44.076726],
-  "geometry": {"coordinates":[-103.186624,44.076726],"type":"Point"}
+  "bbox": [
+    -103.186624,
+    44.076726,
+    -103.186624,
+    44.076726
+],
+  "geometry": {"coordinates":[-103.18662399999999,44.076726],"type":"Point"}
 }

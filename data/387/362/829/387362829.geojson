@@ -2,13 +2,14 @@
   "id": 387362829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.957879,42.789783,-96.957879,42.789783",
     "geom:latitude":42.789783,
     "geom:longitude":-96.957879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Constance Dr",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387362829,
-    "wof:lastmodified":1449058571,
+    "wof:lastmodified":1467082736,
     "wof:name":"Hillside Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.957879,42.789783,-96.957879,42.789783],
-  "geometry": {"coordinates":[-96.957879,42.789783],"type":"Point"}
+  "bbox": [
+    -96.957879,
+    42.789783,
+    -96.957879,
+    42.789783
+],
+  "geometry": {"coordinates":[-96.95787900000001,42.789783],"type":"Point"}
 }

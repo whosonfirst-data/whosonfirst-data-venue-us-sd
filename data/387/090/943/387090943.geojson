@@ -2,13 +2,14 @@
   "id": 387090943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234176,44.067762,-103.234176,44.067762",
     "geom:latitude":44.067762,
     "geom:longitude":-103.234176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387090943,
-    "wof:lastmodified":1449059139,
+    "wof:lastmodified":1467082748,
     "wof:name":"Deanies Preschool & Day Care",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.234176,44.067762,-103.234176,44.067762],
-  "geometry": {"coordinates":[-103.234176,44.067762],"type":"Point"}
+  "bbox": [
+    -103.234176,
+    44.067762,
+    -103.234176,
+    44.067762
+],
+  "geometry": {"coordinates":[-103.23417600000001,44.067762],"type":"Point"}
 }

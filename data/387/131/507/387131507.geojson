@@ -2,13 +2,14 @@
   "id": 387131507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.252018,44.075249,-103.252018,44.075249",
     "geom:latitude":44.075249,
     "geom:longitude":-103.252018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 Mountain View Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387131507,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1467082709,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-103.252018,44.075249,-103.252018,44.075249],
-  "geometry": {"coordinates":[-103.252018,44.075249],"type":"Point"}
+  "bbox": [
+    -103.252018,
+    44.075249,
+    -103.252018,
+    44.075249
+],
+  "geometry": {"coordinates":[-103.25201800000001,44.075249],"type":"Point"}
 }

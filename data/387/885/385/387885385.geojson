@@ -2,13 +2,14 @@
   "id": 387885385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.249007,43.721064,-97.249007,43.721064",
     "geom:latitude":43.721064,
     "geom:longitude":-97.249007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25295 448th Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387885385,
-    "wof:lastmodified":1449058129,
+    "wof:lastmodified":1467082728,
     "wof:name":"Ken & Rita Krouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.249007,43.721064,-97.249007,43.721064],
-  "geometry": {"coordinates":[-97.249007,43.721064],"type":"Point"}
+  "bbox": [
+    -97.249007,
+    43.721064,
+    -97.249007,
+    43.721064
+],
+  "geometry": {"coordinates":[-97.24900700000001,43.721064],"type":"Point"}
 }

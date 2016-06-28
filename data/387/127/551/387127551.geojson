@@ -2,13 +2,14 @@
   "id": 387127551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.668285,44.039513,-101.668285,44.039513",
     "geom:latitude":44.039513,
     "geom:longitude":-101.668285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Pine St",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387127551,
-    "wof:lastmodified":1449059603,
+    "wof:lastmodified":1467082757,
     "wof:name":"L K Ewalt Candle Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-101.668285,44.039513,-101.668285,44.039513],
+  "bbox": [
+    -101.668285,
+    44.039513,
+    -101.668285,
+    44.039513
+],
   "geometry": {"coordinates":[-101.668285,44.039513],"type":"Point"}
 }

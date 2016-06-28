@@ -2,13 +2,14 @@
   "id": 387587347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.967112,44.455822,-97.967112,44.455822",
     "geom:latitude":44.455822,
     "geom:longitude":-97.967112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41226 202nd St",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387587347,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1467082713,
     "wof:name":"Murray Toews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.967112,44.455822,-97.967112,44.455822],
+  "bbox": [
+    -97.967112,
+    44.455822,
+    -97.967112,
+    44.455822
+],
   "geometry": {"coordinates":[-97.967112,44.455822],"type":"Point"}
 }

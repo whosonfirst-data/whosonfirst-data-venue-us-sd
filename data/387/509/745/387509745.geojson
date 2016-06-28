@@ -2,13 +2,14 @@
   "id": 387509745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.156818,44.92578,-97.156818,44.92578",
     "geom:latitude":44.92578,
     "geom:longitude":-97.156818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Airport Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387509745,
-    "wof:lastmodified":1449056275,
+    "wof:lastmodified":1467082690,
     "wof:name":"Angus Palm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-97.156818,44.92578,-97.156818,44.92578],
+  "bbox": [
+    -97.156818,
+    44.92578,
+    -97.156818,
+    44.92578
+],
   "geometry": {"coordinates":[-97.156818,44.92578],"type":"Point"}
 }

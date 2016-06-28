@@ -2,13 +2,14 @@
   "id": 403704875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.206405,43.760362,-97.206405,43.760362",
     "geom:latitude":43.760362,
     "geom:longitude":-97.206405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45010 250th St",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403704875,
-    "wof:lastmodified":1449054991,
+    "wof:lastmodified":1467082678,
     "wof:name":"Dave Jennings Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.206405,43.760362,-97.206405,43.760362],
+  "bbox": [
+    -97.206405,
+    43.760362,
+    -97.206405,
+    43.760362
+],
   "geometry": {"coordinates":[-97.206405,43.760362],"type":"Point"}
 }

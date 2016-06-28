@@ -2,13 +2,14 @@
   "id": 371159313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.562362,44.080324,-98.562362,44.080324",
     "geom:latitude":44.080324,
     "geom:longitude":-98.562362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 1st St NE",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371159313,
-    "wof:lastmodified":1449049151,
+    "wof:lastmodified":1467082659,
     "wof:name":"Jerauld County Nurse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.562362,44.080324,-98.562362,44.080324],
-  "geometry": {"coordinates":[-98.562362,44.080324],"type":"Point"}
+  "bbox": [
+    -98.562362,
+    44.080324,
+    -98.562362,
+    44.080324
+],
+  "geometry": {"coordinates":[-98.56236199999999,44.080324],"type":"Point"}
 }

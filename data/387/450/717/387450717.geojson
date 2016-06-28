@@ -2,13 +2,14 @@
   "id": 387450717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496932,45.876415,-98.496932,45.876415",
     "geom:latitude":45.876415,
     "geom:longitude":-98.496932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10422 387th Ave",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387450717,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1467082751,
     "wof:name":"Lauren Witte",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.496932,45.876415,-98.496932,45.876415],
+  "bbox": [
+    -98.496932,
+    45.876415,
+    -98.496932,
+    45.876415
+],
   "geometry": {"coordinates":[-98.496932,45.876415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387612187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.919221,43.96981,-102.919221,43.96981",
     "geom:latitude":43.96981,
     "geom:longitude":-102.919221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15688 Hammerquist Rd",
     "sg:city":"Caputa",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387612187,
-    "wof:lastmodified":1449057788,
+    "wof:lastmodified":1467082720,
     "wof:name":"Brassfield Ranch",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-102.919221,43.96981,-102.919221,43.96981],
-  "geometry": {"coordinates":[-102.919221,43.96981],"type":"Point"}
+  "bbox": [
+    -102.919221,
+    43.96981,
+    -102.919221,
+    43.96981
+],
+  "geometry": {"coordinates":[-102.91922099999999,43.96981],"type":"Point"}
 }

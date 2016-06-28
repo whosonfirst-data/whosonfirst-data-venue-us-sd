@@ -2,13 +2,14 @@
   "id": 387146579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.230295,44.210405,-97.230295,44.210405",
     "geom:latitude":44.210405,
     "geom:longitude":-97.230295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21881 449th Ave",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387146579,
-    "wof:lastmodified":1449057681,
+    "wof:lastmodified":1467082718,
     "wof:name":"Schneiders Tractor Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.230295,44.210405,-97.230295,44.210405],
+  "bbox": [
+    -97.230295,
+    44.210405,
+    -97.230295,
+    44.210405
+],
   "geometry": {"coordinates":[-97.230295,44.210405],"type":"Point"}
 }

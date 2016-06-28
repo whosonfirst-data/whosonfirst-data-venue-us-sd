@@ -2,13 +2,14 @@
   "id": 387891375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.436693,45.537296,-100.436693,45.537296",
     "geom:latitude":45.537296,
     "geom:longitude":-100.436693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387891375,
-    "wof:lastmodified":1449058395,
+    "wof:lastmodified":1467082733,
     "wof:name":"Spotlight Video & Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-100.436693,45.537296,-100.436693,45.537296],
-  "geometry": {"coordinates":[-100.436693,45.537296],"type":"Point"}
+  "bbox": [
+    -100.436693,
+    45.537296,
+    -100.436693,
+    45.537296
+],
+  "geometry": {"coordinates":[-100.43669300000001,45.537296],"type":"Point"}
 }

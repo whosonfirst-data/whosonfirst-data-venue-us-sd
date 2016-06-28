@@ -2,13 +2,14 @@
   "id": 371017725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.508521,44.39877,-103.508521,44.39877",
     "geom:latitude":44.39877,
     "geom:longitude":-103.508521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371017725,
-    "wof:lastmodified":1449049598,
+    "wof:lastmodified":1467082666,
     "wof:name":"Sturgis Common Cents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.508521,44.39877,-103.508521,44.39877],
+  "bbox": [
+    -103.508521,
+    44.39877,
+    -103.508521,
+    44.39877
+],
   "geometry": {"coordinates":[-103.508521,44.39877],"type":"Point"}
 }

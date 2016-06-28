@@ -2,13 +2,14 @@
   "id": 387405031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.783473,44.301478,-96.783473,44.301478",
     "geom:latitude":44.301478,
     "geom:longitude":-96.783473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Forest St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387405031,
-    "wof:lastmodified":1449059593,
+    "wof:lastmodified":1467082757,
     "wof:name":"Dakota Country Chem Dry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-96.783473,44.301478,-96.783473,44.301478],
+  "bbox": [
+    -96.783473,
+    44.301478,
+    -96.783473,
+    44.301478
+],
   "geometry": {"coordinates":[-96.783473,44.301478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387958173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.623867,43.700288,-99.623867,43.700288",
     "geom:latitude":43.700288,
     "geom:longitude":-99.623867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25555 327th Ave",
     "sg:city":"Hamill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387958173,
-    "wof:lastmodified":1449059070,
+    "wof:lastmodified":1467082746,
     "wof:name":"Glen Larson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.623867,43.700288,-99.623867,43.700288],
+  "bbox": [
+    -99.623867,
+    43.700288,
+    -99.623867,
+    43.700288
+],
   "geometry": {"coordinates":[-99.623867,43.700288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403722429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689924,43.529367,-96.689924,43.529367",
     "geom:latitude":43.529367,
     "geom:longitude":-96.689924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403722429,
-    "wof:lastmodified":1449055096,
+    "wof:lastmodified":1467082678,
     "wof:name":"Virg Christoffels & Co",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "replacement"
     ]
 },
-  "bbox": [-96.689924,43.529367,-96.689924,43.529367],
+  "bbox": [
+    -96.689924,
+    43.529367,
+    -96.689924,
+    43.529367
+],
   "geometry": {"coordinates":[-96.689924,43.529367],"type":"Point"}
 }

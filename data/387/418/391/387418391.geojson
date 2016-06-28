@@ -2,13 +2,14 @@
   "id": 387418391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774357,43.568332,-96.774357,43.568332",
     "geom:latitude":43.568332,
     "geom:longitude":-96.774357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 W Hovland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387418391,
-    "wof:lastmodified":1449059088,
+    "wof:lastmodified":1467082746,
     "wof:name":"Becks Truck Repair & Maint",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-96.774357,43.568332,-96.774357,43.568332],
-  "geometry": {"coordinates":[-96.774357,43.568332],"type":"Point"}
+  "bbox": [
+    -96.774357,
+    43.568332,
+    -96.774357,
+    43.568332
+],
+  "geometry": {"coordinates":[-96.77435699999999,43.568332],"type":"Point"}
 }

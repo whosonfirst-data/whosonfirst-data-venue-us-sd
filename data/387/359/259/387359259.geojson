@@ -2,13 +2,14 @@
   "id": 387359259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.913402,43.64528,-96.913402,43.64528",
     "geom:latitude":43.64528,
     "geom:longitude":-96.913402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46486 258th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387359259,
-    "wof:lastmodified":1449056053,
+    "wof:lastmodified":1467082686,
     "wof:name":"Kretzschmar Lyle Transpor",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.913402,43.64528,-96.913402,43.64528],
+  "bbox": [
+    -96.913402,
+    43.64528,
+    -96.913402,
+    43.64528
+],
   "geometry": {"coordinates":[-96.913402,43.64528],"type":"Point"}
 }

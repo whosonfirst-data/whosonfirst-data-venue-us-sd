@@ -2,13 +2,14 @@
   "id": 387798153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.091609,44.902934,-97.091609,44.902934",
     "geom:latitude":44.902934,
     "geom:longitude":-97.091609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 B Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387798153,
-    "wof:lastmodified":1449056806,
+    "wof:lastmodified":1467082700,
     "wof:name":"Shriver Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.091609,44.902934,-97.091609,44.902934],
-  "geometry": {"coordinates":[-97.091609,44.902934],"type":"Point"}
+  "bbox": [
+    -97.091609,
+    44.902934,
+    -97.091609,
+    44.902934
+],
+  "geometry": {"coordinates":[-97.09160900000001,44.902934],"type":"Point"}
 }

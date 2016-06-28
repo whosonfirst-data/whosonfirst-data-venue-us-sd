@@ -2,13 +2,14 @@
   "id": 387109221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.231217,44.95227,-98.231217,44.95227",
     "geom:latitude":44.95227,
     "geom:longitude":-98.231217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39951 168th St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387109221,
-    "wof:lastmodified":1449057415,
+    "wof:lastmodified":1467082713,
     "wof:name":"Lambert Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.231217,44.95227,-98.231217,44.95227],
+  "bbox": [
+    -98.231217,
+    44.95227,
+    -98.231217,
+    44.95227
+],
   "geometry": {"coordinates":[-98.231217,44.95227],"type":"Point"}
 }

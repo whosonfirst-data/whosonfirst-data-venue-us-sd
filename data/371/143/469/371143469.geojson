@@ -2,13 +2,14 @@
   "id": 371143469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.096346,45.047365,-98.096346,45.047365",
     "geom:latitude":45.047365,
     "geom:longitude":-98.096346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Linden St",
     "sg:city":"Turton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371143469,
-    "wof:lastmodified":1449049941,
+    "wof:lastmodified":1467082671,
     "wof:name":"Barrie Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.096346,45.047365,-98.096346,45.047365],
+  "bbox": [
+    -98.096346,
+    45.047365,
+    -98.096346,
+    45.047365
+],
   "geometry": {"coordinates":[-98.096346,45.047365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387669709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856764,43.379316,-99.856764,43.379316",
     "geom:latitude":43.379316,
     "geom:longitude":-99.856764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 N Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387669709,
-    "wof:lastmodified":1449056544,
+    "wof:lastmodified":1467082695,
     "wof:name":"Dick S Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-99.856764,43.379316,-99.856764,43.379316],
+  "bbox": [
+    -99.856764,
+    43.379316,
+    -99.856764,
+    43.379316
+],
   "geometry": {"coordinates":[-99.856764,43.379316],"type":"Point"}
 }

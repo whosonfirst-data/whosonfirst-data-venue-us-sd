@@ -2,13 +2,14 @@
   "id": 370979051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.181976,44.075756,-103.181976,44.075756",
     "geom:latitude":44.075756,
     "geom:longitude":-103.181976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1899 E Centre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":370979051,
-    "wof:lastmodified":1449031475,
+    "wof:lastmodified":1467082657,
     "wof:name":"West River Marine",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.181976,44.075756,-103.181976,44.075756],
-  "geometry": {"coordinates":[-103.181976,44.075756],"type":"Point"}
+  "bbox": [
+    -103.181976,
+    44.075756,
+    -103.181976,
+    44.075756
+],
+  "geometry": {"coordinates":[-103.18197600000001,44.075756],"type":"Point"}
 }

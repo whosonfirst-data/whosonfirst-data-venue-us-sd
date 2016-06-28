@@ -2,13 +2,14 @@
   "id": 387578587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.942521,43.62403,-96.942521,43.62403",
     "geom:latitude":43.62403,
     "geom:longitude":-96.942521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Feyder Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387578587,
-    "wof:lastmodified":1449057059,
+    "wof:lastmodified":1467082706,
     "wof:name":"D & M Drywall",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.942521,43.62403,-96.942521,43.62403],
+  "bbox": [
+    -96.942521,
+    43.62403,
+    -96.942521,
+    43.62403
+],
   "geometry": {"coordinates":[-96.942521,43.62403],"type":"Point"}
 }

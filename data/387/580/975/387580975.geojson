@@ -2,13 +2,14 @@
   "id": 387580975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675517,43.518432,-96.675517,43.518432",
     "geom:latitude":43.518432,
     "geom:longitude":-96.675517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 E 37th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387580975,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1467082738,
     "wof:name":"Tanlyn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-96.675517,43.518432,-96.675517,43.518432],
+  "bbox": [
+    -96.675517,
+    43.518432,
+    -96.675517,
+    43.518432
+],
   "geometry": {"coordinates":[-96.675517,43.518432],"type":"Point"}
 }

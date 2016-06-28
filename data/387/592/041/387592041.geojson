@@ -2,13 +2,14 @@
   "id": 387592041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433149,43.589164,-98.433149,43.589164",
     "geom:latitude":43.589164,
     "geom:longitude":-98.433149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Main St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387592041,
-    "wof:lastmodified":1449058292,
+    "wof:lastmodified":1467082731,
     "wof:name":"Stickney Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.433149,43.589164,-98.433149,43.589164],
+  "bbox": [
+    -98.433149,
+    43.589164,
+    -98.433149,
+    43.589164
+],
   "geometry": {"coordinates":[-98.433149,43.589164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370987253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635932,45.220708,-96.635932,45.220708",
     "geom:latitude":45.220708,
     "geom:longitude":-96.635932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370987253,
-    "wof:lastmodified":1449030963,
+    "wof:lastmodified":1467082657,
     "wof:name":"Haney Eleanor Susan Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.635932,45.220708,-96.635932,45.220708],
+  "bbox": [
+    -96.635932,
+    45.220708,
+    -96.635932,
+    45.220708
+],
   "geometry": {"coordinates":[-96.635932,45.220708],"type":"Point"}
 }

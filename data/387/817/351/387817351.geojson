@@ -2,13 +2,14 @@
   "id": 387817351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.071228,43.658424,-98.071228,43.658424",
     "geom:latitude":43.658424,
     "geom:longitude":-98.071228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40633 257th St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387817351,
-    "wof:lastmodified":1449059171,
+    "wof:lastmodified":1467082748,
     "wof:name":"J & N Tractor Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.071228,43.658424,-98.071228,43.658424],
+  "bbox": [
+    -98.071228,
+    43.658424,
+    -98.071228,
+    43.658424
+],
   "geometry": {"coordinates":[-98.071228,43.658424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387114441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.637926,45.221168,-96.637926,45.221168",
     "geom:latitude":45.221168,
     "geom:longitude":-96.637926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Railway Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387114441,
-    "wof:lastmodified":1449057687,
+    "wof:lastmodified":1467082718,
     "wof:name":"Milbank Valley Archers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.637926,45.221168,-96.637926,45.221168],
-  "geometry": {"coordinates":[-96.637926,45.221168],"type":"Point"}
+  "bbox": [
+    -96.637926,
+    45.221168,
+    -96.637926,
+    45.221168
+],
+  "geometry": {"coordinates":[-96.63792599999999,45.221168],"type":"Point"}
 }

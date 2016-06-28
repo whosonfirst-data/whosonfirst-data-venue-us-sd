@@ -2,13 +2,14 @@
   "id": 371165311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772547,44.303486,-96.772547,44.303486",
     "geom:latitude":44.303486,
     "geom:longitude":-96.772547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Lincoln Ln S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371165311,
-    "wof:lastmodified":1449050142,
+    "wof:lastmodified":1467082673,
     "wof:name":"King Koin Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coin"
     ]
 },
-  "bbox": [-96.772547,44.303486,-96.772547,44.303486],
+  "bbox": [
+    -96.772547,
+    44.303486,
+    -96.772547,
+    44.303486
+],
   "geometry": {"coordinates":[-96.772547,44.303486],"type":"Point"}
 }

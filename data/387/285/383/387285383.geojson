@@ -2,13 +2,14 @@
   "id": 387285383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.209501,44.332215,-97.209501,44.332215",
     "geom:latitude":44.332215,
     "geom:longitude":-97.209501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21056 450th Ave",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387285383,
-    "wof:lastmodified":1449056229,
+    "wof:lastmodified":1467082689,
     "wof:name":"Alan W Christensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "grows"
     ]
 },
-  "bbox": [-97.209501,44.332215,-97.209501,44.332215],
+  "bbox": [
+    -97.209501,
+    44.332215,
+    -97.209501,
+    44.332215
+],
   "geometry": {"coordinates":[-97.209501,44.332215],"type":"Point"}
 }

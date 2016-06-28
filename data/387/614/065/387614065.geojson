@@ -2,13 +2,14 @@
   "id": 387614065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.653919,43.907492,-96.653919,43.907492",
     "geom:latitude":43.907492,
     "geom:longitude":-96.653919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 1st Ave",
     "sg:city":"Trent",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387614065,
-    "wof:lastmodified":1449060024,
+    "wof:lastmodified":1467082765,
     "wof:name":"Trent Assisted Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-96.653919,43.907492,-96.653919,43.907492],
+  "bbox": [
+    -96.653919,
+    43.907492,
+    -96.653919,
+    43.907492
+],
   "geometry": {"coordinates":[-96.653919,43.907492],"type":"Point"}
 }

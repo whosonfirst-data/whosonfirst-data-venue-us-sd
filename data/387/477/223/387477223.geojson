@@ -2,13 +2,14 @@
   "id": 387477223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.549377,44.969875,-99.549377,44.969875",
     "geom:latitude":44.969875,
     "geom:longitude":-99.549377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33030 167th St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387477223,
-    "wof:lastmodified":1449056752,
+    "wof:lastmodified":1467082699,
     "wof:name":"American Legion Aux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.549377,44.969875,-99.549377,44.969875],
-  "geometry": {"coordinates":[-99.549377,44.969875],"type":"Point"}
+  "bbox": [
+    -99.549377,
+    44.969875,
+    -99.549377,
+    44.969875
+],
+  "geometry": {"coordinates":[-99.54937700000001,44.969875],"type":"Point"}
 }

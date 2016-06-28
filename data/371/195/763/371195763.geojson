@@ -2,13 +2,14 @@
   "id": 371195763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.261943,44.098111,-103.261943,44.098111",
     "geom:latitude":44.098111,
     "geom:longitude":-103.261943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Rand Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371195763,
-    "wof:lastmodified":1449049750,
+    "wof:lastmodified":1467082668,
     "wof:name":"Munoz Logging & Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.261943,44.098111,-103.261943,44.098111],
+  "bbox": [
+    -103.261943,
+    44.098111,
+    -103.261943,
+    44.098111
+],
   "geometry": {"coordinates":[-103.261943,44.098111],"type":"Point"}
 }

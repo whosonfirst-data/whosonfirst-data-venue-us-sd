@@ -2,13 +2,14 @@
   "id": 403798621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.266753,44.102475,-103.266753,44.102475",
     "geom:latitude":44.102475,
     "geom:longitude":-103.266753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Samco Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403798621,
-    "wof:lastmodified":1449054884,
+    "wof:lastmodified":1467082677,
     "wof:name":"Century Glass",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "windows"
     ]
 },
-  "bbox": [-103.266753,44.102475,-103.266753,44.102475],
-  "geometry": {"coordinates":[-103.266753,44.102475],"type":"Point"}
+  "bbox": [
+    -103.266753,
+    44.102475,
+    -103.266753,
+    44.102475
+],
+  "geometry": {"coordinates":[-103.26675299999999,44.102475],"type":"Point"}
 }

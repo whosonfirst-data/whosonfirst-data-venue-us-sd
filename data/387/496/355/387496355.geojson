@@ -2,13 +2,14 @@
   "id": 387496355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.489492,45.473814,-98.489492,45.473814",
     "geom:latitude":45.473814,
     "geom:longitude":-98.489492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N 1st St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387496355,
-    "wof:lastmodified":1449059350,
+    "wof:lastmodified":1467082752,
     "wof:name":"Smith Acupuncture Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "acupuncture"
     ]
 },
-  "bbox": [-98.489492,45.473814,-98.489492,45.473814],
+  "bbox": [
+    -98.489492,
+    45.473814,
+    -98.489492,
+    45.473814
+],
   "geometry": {"coordinates":[-98.489492,45.473814],"type":"Point"}
 }

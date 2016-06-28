@@ -2,13 +2,14 @@
   "id": 370998199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771491,43.666877,-96.771491,43.666877",
     "geom:latitude":43.666877,
     "geom:longitude":-96.771491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25649 472nd Ave",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370998199,
-    "wof:lastmodified":1449030215,
+    "wof:lastmodified":1467082656,
     "wof:name":"Property Cleaning Systems",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.771491,43.666877,-96.771491,43.666877],
+  "bbox": [
+    -96.771491,
+    43.666877,
+    -96.771491,
+    43.666877
+],
   "geometry": {"coordinates":[-96.771491,43.666877],"type":"Point"}
 }

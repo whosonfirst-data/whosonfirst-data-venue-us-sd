@@ -2,13 +2,14 @@
   "id": 387387569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72683,43.551213,-96.72683,43.551213",
     "geom:latitude":43.551213,
     "geom:longitude":-96.72683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387387569,
-    "wof:lastmodified":1449059411,
+    "wof:lastmodified":1467082753,
     "wof:name":"Better Business Bureau",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-96.72683,43.551213,-96.72683,43.551213],
-  "geometry": {"coordinates":[-96.72683,43.551213],"type":"Point"}
+  "bbox": [
+    -96.72683,
+    43.551213,
+    -96.72683,
+    43.551213
+],
+  "geometry": {"coordinates":[-96.72683000000001,43.551213],"type":"Point"}
 }

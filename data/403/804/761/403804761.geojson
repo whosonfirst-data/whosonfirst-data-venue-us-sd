@@ -2,13 +2,14 @@
   "id": 403804761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.843829,43.717556,-96.843829,43.717556",
     "geom:latitude":43.717556,
     "geom:longitude":-96.843829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46811 253rd St",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403804761,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1467082681,
     "wof:name":"Burns Brothers",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.843829,43.717556,-96.843829,43.717556],
+  "bbox": [
+    -96.843829,
+    43.717556,
+    -96.843829,
+    43.717556
+],
   "geometry": {"coordinates":[-96.843829,43.717556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371091485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.272961,45.534812,-100.272961,45.534812",
     "geom:latitude":45.534812,
     "geom:longitude":-100.272961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Lowry St",
     "sg:city":"Glenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371091485,
-    "wof:lastmodified":1449049130,
+    "wof:lastmodified":1467082659,
     "wof:name":"Perman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-100.272961,45.534812,-100.272961,45.534812],
+  "bbox": [
+    -100.272961,
+    45.534812,
+    -100.272961,
+    45.534812
+],
   "geometry": {"coordinates":[-100.272961,45.534812],"type":"Point"}
 }

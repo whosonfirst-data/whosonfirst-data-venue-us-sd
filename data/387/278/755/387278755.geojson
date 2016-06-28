@@ -2,13 +2,14 @@
   "id": 387278755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711257,43.535009,-96.711257,43.535009",
     "geom:latitude":43.535009,
     "geom:longitude":-96.711257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387278755,
-    "wof:lastmodified":1449058210,
+    "wof:lastmodified":1467082729,
     "wof:name":"Fuji True Color South Dakota",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-96.711257,43.535009,-96.711257,43.535009],
+  "bbox": [
+    -96.711257,
+    43.535009,
+    -96.711257,
+    43.535009
+],
   "geometry": {"coordinates":[-96.711257,43.535009],"type":"Point"}
 }

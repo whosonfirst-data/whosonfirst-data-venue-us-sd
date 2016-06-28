@@ -2,13 +2,14 @@
   "id": 387586331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.529204,44.402025,-103.529204,44.402025",
     "geom:latitude":44.402025,
     "geom:longitude":-103.529204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2551 Dolan Creek Rd",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387586331,
-    "wof:lastmodified":1449059480,
+    "wof:lastmodified":1467082754,
     "wof:name":"Murray Water Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-103.529204,44.402025,-103.529204,44.402025],
-  "geometry": {"coordinates":[-103.529204,44.402025],"type":"Point"}
+  "bbox": [
+    -103.529204,
+    44.402025,
+    -103.529204,
+    44.402025
+],
+  "geometry": {"coordinates":[-103.52920399999999,44.402025],"type":"Point"}
 }

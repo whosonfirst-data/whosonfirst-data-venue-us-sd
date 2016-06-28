@@ -2,13 +2,14 @@
   "id": 387683475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.219572,44.079899,-103.219572,44.079899",
     "geom:latitude":44.079899,
     "geom:longitude":-103.219572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 2nd St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387683475,
-    "wof:lastmodified":1449057501,
+    "wof:lastmodified":1467082715,
     "wof:name":"Fleming Brothers Lawn Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-103.219572,44.079899,-103.219572,44.079899],
+  "bbox": [
+    -103.219572,
+    44.079899,
+    -103.219572,
+    44.079899
+],
   "geometry": {"coordinates":[-103.219572,44.079899],"type":"Point"}
 }

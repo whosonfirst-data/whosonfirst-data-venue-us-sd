@@ -2,13 +2,14 @@
   "id": 387526829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703945,43.595545,-96.703945,43.595545",
     "geom:latitude":43.595545,
     "geom:longitude":-96.703945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 N Hillcrest Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387526829,
-    "wof:lastmodified":1449057269,
+    "wof:lastmodified":1467082710,
     "wof:name":"T & R Contracting Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.703945,43.595545,-96.703945,43.595545],
+  "bbox": [
+    -96.703945,
+    43.595545,
+    -96.703945,
+    43.595545
+],
   "geometry": {"coordinates":[-96.703945,43.595545],"type":"Point"}
 }

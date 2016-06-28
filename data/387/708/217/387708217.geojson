@@ -2,13 +2,14 @@
   "id": 387708217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.993946,43.257649,-96.993946,43.257649",
     "geom:latitude":43.257649,
     "geom:longitude":-96.993946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 US Hwy 18",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387708217,
-    "wof:lastmodified":1449056700,
+    "wof:lastmodified":1467082698,
     "wof:name":"Temple Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.993946,43.257649,-96.993946,43.257649],
-  "geometry": {"coordinates":[-96.993946,43.257649],"type":"Point"}
+  "bbox": [
+    -96.993946,
+    43.257649,
+    -96.993946,
+    43.257649
+],
+  "geometry": {"coordinates":[-96.99394599999999,43.257649],"type":"Point"}
 }

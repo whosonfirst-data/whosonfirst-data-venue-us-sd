@@ -2,13 +2,14 @@
   "id": 403703699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729297,43.578682,-96.729297,43.578682",
     "geom:latitude":43.578682,
     "geom:longitude":-96.729297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 N Jaycee Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403703699,
-    "wof:lastmodified":1449055048,
+    "wof:lastmodified":1467082678,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "traffic"
     ]
 },
-  "bbox": [-96.729297,43.578682,-96.729297,43.578682],
+  "bbox": [
+    -96.729297,
+    43.578682,
+    -96.729297,
+    43.578682
+],
   "geometry": {"coordinates":[-96.729297,43.578682],"type":"Point"}
 }

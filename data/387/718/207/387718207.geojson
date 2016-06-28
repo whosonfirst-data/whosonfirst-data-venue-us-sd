@@ -2,13 +2,14 @@
   "id": 387718207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.9055,43.322724,-96.9055,43.322724",
     "geom:latitude":43.322724,
     "geom:longitude":-96.9055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28052 465th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387718207,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1467082703,
     "wof:name":"Saddle Creek Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.9055,43.322724,-96.9055,43.322724],
+  "bbox": [
+    -96.9055,
+    43.322724,
+    -96.9055,
+    43.322724
+],
   "geometry": {"coordinates":[-96.9055,43.322724],"type":"Point"}
 }

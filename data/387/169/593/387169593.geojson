@@ -2,13 +2,14 @@
   "id": 387169593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495336,45.454458,-98.495336,45.454458",
     "geom:latitude":45.454458,
     "geom:longitude":-98.495336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 S 5th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387169593,
-    "wof:lastmodified":1449058450,
+    "wof:lastmodified":1467082734,
     "wof:name":"Gas-N-Goodies",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.495336,45.454458,-98.495336,45.454458],
-  "geometry": {"coordinates":[-98.495336,45.454458],"type":"Point"}
+  "bbox": [
+    -98.495336,
+    45.454458,
+    -98.495336,
+    45.454458
+],
+  "geometry": {"coordinates":[-98.49533599999999,45.454458],"type":"Point"}
 }

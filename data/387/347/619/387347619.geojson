@@ -2,13 +2,14 @@
   "id": 387347619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.280508,44.052455,-103.280508,44.052455",
     "geom:latitude":44.052455,
     "geom:longitude":-103.280508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 Winners Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387347619,
-    "wof:lastmodified":1449057941,
+    "wof:lastmodified":1467082724,
     "wof:name":"Lena Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.280508,44.052455,-103.280508,44.052455],
+  "bbox": [
+    -103.280508,
+    44.052455,
+    -103.280508,
+    44.052455
+],
   "geometry": {"coordinates":[-103.280508,44.052455],"type":"Point"}
 }

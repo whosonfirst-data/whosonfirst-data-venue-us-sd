@@ -2,13 +2,14 @@
   "id": 387667551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.018308,43.724612,-98.018308,43.724612",
     "geom:latitude":43.724612,
     "geom:longitude":-98.018308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 E 16th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387667551,
-    "wof:lastmodified":1449058597,
+    "wof:lastmodified":1467082737,
     "wof:name":"Dan Grigg Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-98.018308,43.724612,-98.018308,43.724612],
+  "bbox": [
+    -98.018308,
+    43.724612,
+    -98.018308,
+    43.724612
+],
   "geometry": {"coordinates":[-98.018308,43.724612],"type":"Point"}
 }

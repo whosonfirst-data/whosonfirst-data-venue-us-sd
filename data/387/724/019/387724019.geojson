@@ -2,13 +2,14 @@
   "id": 387724019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214207,44.363367,-98.214207,44.363367",
     "geom:latitude":44.363367,
     "geom:longitude":-98.214207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387724019,
-    "wof:lastmodified":1449059840,
+    "wof:lastmodified":1467082761,
     "wof:name":"Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.214207,44.363367,-98.214207,44.363367],
+  "bbox": [
+    -98.214207,
+    44.363367,
+    -98.214207,
+    44.363367
+],
   "geometry": {"coordinates":[-98.214207,44.363367],"type":"Point"}
 }

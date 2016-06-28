@@ -2,13 +2,14 @@
   "id": 387555171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.598787,43.879981,-99.598787,43.879981",
     "geom:latitude":43.879981,
     "geom:longitude":-99.598787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Chamberlain Ave",
     "sg:city":"Reliance",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387555171,
-    "wof:lastmodified":1449059383,
+    "wof:lastmodified":1467082752,
     "wof:name":"Reliance City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-99.598787,43.879981,-99.598787,43.879981],
+  "bbox": [
+    -99.598787,
+    43.879981,
+    -99.598787,
+    43.879981
+],
   "geometry": {"coordinates":[-99.598787,43.879981],"type":"Point"}
 }

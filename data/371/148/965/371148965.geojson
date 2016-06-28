@@ -2,13 +2,14 @@
   "id": 371148965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.785315,43.083606,-96.785315,43.083606",
     "geom:latitude":43.083606,
     "geom:longitude":-96.785315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 W Cedar St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371148965,
-    "wof:lastmodified":1449049963,
+    "wof:lastmodified":1467082671,
     "wof:name":"J F Weber Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.785315,43.083606,-96.785315,43.083606],
+  "bbox": [
+    -96.785315,
+    43.083606,
+    -96.785315,
+    43.083606
+],
   "geometry": {"coordinates":[-96.785315,43.083606],"type":"Point"}
 }

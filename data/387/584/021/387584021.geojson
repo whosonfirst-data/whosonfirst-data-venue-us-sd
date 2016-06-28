@@ -2,13 +2,14 @@
   "id": 387584021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.004521,43.708528,-98.004521,43.708528",
     "geom:latitude":43.708528,
     "geom:longitude":-98.004521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 E Hanson St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387584021,
-    "wof:lastmodified":1449056525,
+    "wof:lastmodified":1467082695,
     "wof:name":"Mitchell Womens Bowling Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-98.004521,43.708528,-98.004521,43.708528],
+  "bbox": [
+    -98.004521,
+    43.708528,
+    -98.004521,
+    43.708528
+],
   "geometry": {"coordinates":[-98.004521,43.708528],"type":"Point"}
 }

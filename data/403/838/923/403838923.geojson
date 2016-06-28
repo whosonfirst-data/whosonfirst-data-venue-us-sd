@@ -2,13 +2,14 @@
   "id": 403838923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.193255,44.254404,-98.193255,44.254404",
     "geom:latitude":44.254404,
     "geom:longitude":-98.193255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40108 216th St",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403838923,
-    "wof:lastmodified":1449054783,
+    "wof:lastmodified":1467082675,
     "wof:name":"Girl Scouts Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "center"
     ]
 },
-  "bbox": [-98.193255,44.254404,-98.193255,44.254404],
-  "geometry": {"coordinates":[-98.193255,44.254404],"type":"Point"}
+  "bbox": [
+    -98.193255,
+    44.254404,
+    -98.193255,
+    44.254404
+],
+  "geometry": {"coordinates":[-98.19325499999999,44.254404],"type":"Point"}
 }

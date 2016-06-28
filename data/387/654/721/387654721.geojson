@@ -2,13 +2,14 @@
   "id": 387654721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805563,43.068419,-96.805563,43.068419",
     "geom:latitude":43.068419,
     "geom:longitude":-96.805563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29886 470th Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387654721,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1467082712,
     "wof:name":"Marlow Christensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.805563,43.068419,-96.805563,43.068419],
-  "geometry": {"coordinates":[-96.805563,43.068419],"type":"Point"}
+  "bbox": [
+    -96.805563,
+    43.068419,
+    -96.805563,
+    43.068419
+],
+  "geometry": {"coordinates":[-96.80556300000001,43.068419],"type":"Point"}
 }

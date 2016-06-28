@@ -2,13 +2,14 @@
   "id": 370996001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.239043,44.070643,-103.239043,44.070643",
     "geom:latitude":44.070643,
     "geom:longitude":-103.239043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Franklin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370996001,
-    "wof:lastmodified":1449030008,
+    "wof:lastmodified":1467082656,
     "wof:name":"Wheeler Reporting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-103.239043,44.070643,-103.239043,44.070643],
+  "bbox": [
+    -103.239043,
+    44.070643,
+    -103.239043,
+    44.070643
+],
   "geometry": {"coordinates":[-103.239043,44.070643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387841641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.033408,43.700991,-98.033408,43.700991",
     "geom:latitude":43.700991,
     "geom:longitude":-98.033408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 Mitchell Blvd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387841641,
-    "wof:lastmodified":1449056901,
+    "wof:lastmodified":1467082702,
     "wof:name":"Rodney Allen Kernes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "radiology"
     ]
 },
-  "bbox": [-98.033408,43.700991,-98.033408,43.700991],
-  "geometry": {"coordinates":[-98.033408,43.700991],"type":"Point"}
+  "bbox": [
+    -98.033408,
+    43.700991,
+    -98.033408,
+    43.700991
+],
+  "geometry": {"coordinates":[-98.03340799999999,43.700991],"type":"Point"}
 }

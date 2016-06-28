@@ -2,13 +2,14 @@
   "id": 371097805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.490864,45.471593,-98.490864,45.471593",
     "geom:latitude":45.471593,
     "geom:longitude":-98.490864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N 2nd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371097805,
-    "wof:lastmodified":1449049434,
+    "wof:lastmodified":1467082664,
     "wof:name":"David Mitzel",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.490864,45.471593,-98.490864,45.471593],
+  "bbox": [
+    -98.490864,
+    45.471593,
+    -98.490864,
+    45.471593
+],
   "geometry": {"coordinates":[-98.490864,45.471593],"type":"Point"}
 }

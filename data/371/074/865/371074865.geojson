@@ -2,13 +2,14 @@
   "id": 371074865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.749665,45.288297,-99.749665,45.288297",
     "geom:latitude":45.288297,
     "geom:longitude":-99.749665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14508 321st Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371074865,
-    "wof:lastmodified":1449049616,
+    "wof:lastmodified":1467082666,
     "wof:name":"Rocky Brehmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-99.749665,45.288297,-99.749665,45.288297],
-  "geometry": {"coordinates":[-99.749665,45.288297],"type":"Point"}
+  "bbox": [
+    -99.749665,
+    45.288297,
+    -99.749665,
+    45.288297
+],
+  "geometry": {"coordinates":[-99.74966499999999,45.288297],"type":"Point"}
 }

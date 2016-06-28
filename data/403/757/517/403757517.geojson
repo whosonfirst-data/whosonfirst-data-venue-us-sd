@@ -2,13 +2,14 @@
   "id": 403757517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025695,43.71037,-98.025695,43.71037",
     "geom:latitude":43.71037,
     "geom:longitude":-98.025695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 W 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403757517,
-    "wof:lastmodified":1449055382,
+    "wof:lastmodified":1467082681,
     "wof:name":"Game Over Scaffold Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scaffolding"
     ]
 },
-  "bbox": [-98.025695,43.71037,-98.025695,43.71037],
+  "bbox": [
+    -98.025695,
+    43.71037,
+    -98.025695,
+    43.71037
+],
   "geometry": {"coordinates":[-98.025695,43.71037],"type":"Point"}
 }

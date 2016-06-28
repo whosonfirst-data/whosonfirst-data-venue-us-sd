@@ -2,13 +2,14 @@
   "id": 387135033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135529,43.387357,-97.135529,43.387357",
     "geom:latitude":43.387357,
     "geom:longitude":-97.135529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45340 276th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387135033,
-    "wof:lastmodified":1449057565,
+    "wof:lastmodified":1467082716,
     "wof:name":"John H Zimmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.135529,43.387357,-97.135529,43.387357],
-  "geometry": {"coordinates":[-97.135529,43.387357],"type":"Point"}
+  "bbox": [
+    -97.135529,
+    43.387357,
+    -97.135529,
+    43.387357
+],
+  "geometry": {"coordinates":[-97.13552900000001,43.387357],"type":"Point"}
 }

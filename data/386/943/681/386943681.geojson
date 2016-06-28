@@ -2,13 +2,14 @@
   "id": 386943681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.441857,45.472988,-98.441857,45.472988",
     "geom:latitude":45.472988,
     "geom:longitude":-98.441857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Commerce St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386943681,
-    "wof:lastmodified":1449028694,
+    "wof:lastmodified":1467082650,
     "wof:name":"Ameri Pride Linen & Apparel",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "matting"
     ]
 },
-  "bbox": [-98.441857,45.472988,-98.441857,45.472988],
+  "bbox": [
+    -98.441857,
+    45.472988,
+    -98.441857,
+    45.472988
+],
   "geometry": {"coordinates":[-98.441857,45.472988],"type":"Point"}
 }

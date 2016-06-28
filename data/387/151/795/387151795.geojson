@@ -2,13 +2,14 @@
   "id": 387151795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714556,43.548544,-96.714556,43.548544",
     "geom:latitude":43.548544,
     "geom:longitude":-96.714556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387151795,
-    "wof:lastmodified":1449056158,
+    "wof:lastmodified":1467082688,
     "wof:name":"Midstates Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "uniform"
     ]
 },
-  "bbox": [-96.714556,43.548544,-96.714556,43.548544],
+  "bbox": [
+    -96.714556,
+    43.548544,
+    -96.714556,
+    43.548544
+],
   "geometry": {"coordinates":[-96.714556,43.548544],"type":"Point"}
 }

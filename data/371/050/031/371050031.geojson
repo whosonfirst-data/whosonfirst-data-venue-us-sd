@@ -2,13 +2,14 @@
   "id": 371050031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.283151,44.042143,-103.283151,44.042143",
     "geom:latitude":44.042143,
     "geom:longitude":-103.283151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4295 Rosemary Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371050031,
-    "wof:lastmodified":1449049631,
+    "wof:lastmodified":1467082666,
     "wof:name":"Brekhus Investments",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.283151,44.042143,-103.283151,44.042143],
+  "bbox": [
+    -103.283151,
+    44.042143,
+    -103.283151,
+    44.042143
+],
   "geometry": {"coordinates":[-103.283151,44.042143],"type":"Point"}
 }

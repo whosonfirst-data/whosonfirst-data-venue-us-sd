@@ -2,13 +2,14 @@
   "id": 387941813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.277215,44.069572,-103.277215,44.069572",
     "geom:latitude":44.069572,
     "geom:longitude":-103.277215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Evergreen Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387941813,
-    "wof:lastmodified":1449058378,
+    "wof:lastmodified":1467082732,
     "wof:name":"Canyon Lake Elementary School",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-103.277215,44.069572,-103.277215,44.069572],
+  "bbox": [
+    -103.277215,
+    44.069572,
+    -103.277215,
+    44.069572
+],
   "geometry": {"coordinates":[-103.277215,44.069572],"type":"Point"}
 }

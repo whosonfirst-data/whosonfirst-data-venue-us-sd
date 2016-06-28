@@ -2,13 +2,14 @@
   "id": 403823819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646053,45.21892,-96.646053,45.21892",
     "geom:latitude":45.21892,
     "geom:longitude":-96.646053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 W 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403823819,
-    "wof:lastmodified":1449055943,
+    "wof:lastmodified":1467082684,
     "wof:name":"G & R Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.646053,45.21892,-96.646053,45.21892],
-  "geometry": {"coordinates":[-96.646053,45.21892],"type":"Point"}
+  "bbox": [
+    -96.646053,
+    45.21892,
+    -96.646053,
+    45.21892
+],
+  "geometry": {"coordinates":[-96.64605299999999,45.21892],"type":"Point"}
 }

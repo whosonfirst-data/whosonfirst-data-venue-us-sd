@@ -2,13 +2,14 @@
   "id": 403831957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.452925,45.47661,-98.452925,45.47661",
     "geom:latitude":45.47661,
     "geom:longitude":-98.452925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Redwood Ln",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403831957,
-    "wof:lastmodified":1449055427,
+    "wof:lastmodified":1467082681,
     "wof:name":"Symetre Medical Technologies L",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.452925,45.47661,-98.452925,45.47661],
-  "geometry": {"coordinates":[-98.452925,45.47661],"type":"Point"}
+  "bbox": [
+    -98.452925,
+    45.47661,
+    -98.452925,
+    45.47661
+],
+  "geometry": {"coordinates":[-98.45292499999999,45.47661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403755947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926784,44.323453,-96.926784,44.323453",
     "geom:latitude":44.323453,
     "geom:longitude":-96.926784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403755947,
-    "wof:lastmodified":1449055017,
+    "wof:lastmodified":1467082678,
     "wof:name":"B & C Hardware & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-96.926784,44.323453,-96.926784,44.323453],
+  "bbox": [
+    -96.926784,
+    44.323453,
+    -96.926784,
+    44.323453
+],
   "geometry": {"coordinates":[-96.926784,44.323453],"type":"Point"}
 }

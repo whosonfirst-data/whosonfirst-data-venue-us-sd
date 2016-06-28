@@ -2,13 +2,14 @@
   "id": 387817157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.474126,43.429756,-103.474126,43.429756",
     "geom:latitude":43.429756,
     "geom:longitude":-103.474126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387817157,
-    "wof:lastmodified":1449059170,
+    "wof:lastmodified":1467082748,
     "wof:name":"New Age Real Estate Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.474126,43.429756,-103.474126,43.429756],
+  "bbox": [
+    -103.474126,
+    43.429756,
+    -103.474126,
+    43.429756
+],
   "geometry": {"coordinates":[-103.474126,43.429756],"type":"Point"}
 }

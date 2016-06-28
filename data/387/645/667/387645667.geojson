@@ -2,13 +2,14 @@
   "id": 387645667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.030583,44.729061,-97.030583,44.729061",
     "geom:latitude":44.729061,
     "geom:longitude":-97.030583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 2nd Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387645667,
-    "wof:lastmodified":1449056492,
+    "wof:lastmodified":1467082694,
     "wof:name":"Warriors One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.030583,44.729061,-97.030583,44.729061],
-  "geometry": {"coordinates":[-97.030583,44.729061],"type":"Point"}
+  "bbox": [
+    -97.030583,
+    44.729061,
+    -97.030583,
+    44.729061
+],
+  "geometry": {"coordinates":[-97.03058299999999,44.729061],"type":"Point"}
 }

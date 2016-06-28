@@ -2,13 +2,14 @@
   "id": 371172575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.129891,44.06356,-103.129891,44.06356",
     "geom:latitude":44.06356,
     "geom:longitude":-103.129891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5656 Leroy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371172575,
-    "wof:lastmodified":1449049445,
+    "wof:lastmodified":1467082664,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.129891,44.06356,-103.129891,44.06356],
+  "bbox": [
+    -103.129891,
+    44.06356,
+    -103.129891,
+    44.06356
+],
   "geometry": {"coordinates":[-103.129891,44.06356],"type":"Point"}
 }

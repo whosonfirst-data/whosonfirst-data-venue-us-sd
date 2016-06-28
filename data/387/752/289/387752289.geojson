@@ -2,13 +2,14 @@
   "id": 387752289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.09304,44.525289,-98.09304,44.525289",
     "geom:latitude":44.525289,
     "geom:longitude":-98.09304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19729 406th Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387752289,
-    "wof:lastmodified":1449056742,
+    "wof:lastmodified":1467082699,
     "wof:name":"Stahl Delvin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.09304,44.525289,-98.09304,44.525289],
+  "bbox": [
+    -98.09304,
+    44.525289,
+    -98.09304,
+    44.525289
+],
   "geometry": {"coordinates":[-98.09304,44.525289],"type":"Point"}
 }

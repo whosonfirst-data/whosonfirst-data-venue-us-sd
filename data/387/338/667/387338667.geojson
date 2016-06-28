@@ -2,13 +2,14 @@
   "id": 387338667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760519,44.311403,-96.760519,44.311403",
     "geom:latitude":44.311403,
     "geom:longitude":-96.760519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387338667,
-    "wof:lastmodified":1449057411,
+    "wof:lastmodified":1467082713,
     "wof:name":"Pavilion Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-96.760519,44.311403,-96.760519,44.311403],
+  "bbox": [
+    -96.760519,
+    44.311403,
+    -96.760519,
+    44.311403
+],
   "geometry": {"coordinates":[-96.760519,44.311403],"type":"Point"}
 }

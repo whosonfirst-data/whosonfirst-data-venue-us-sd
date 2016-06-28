@@ -2,13 +2,14 @@
   "id": 387772435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.675238,42.686775,-96.675238,42.686775",
     "geom:latitude":42.686775,
     "geom:longitude":-96.675238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Elm St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387772435,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1467082721,
     "wof:name":"Load King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-96.675238,42.686775,-96.675238,42.686775],
-  "geometry": {"coordinates":[-96.675238,42.686775],"type":"Point"}
+  "bbox": [
+    -96.675238,
+    42.686775,
+    -96.675238,
+    42.686775
+],
+  "geometry": {"coordinates":[-96.67523799999999,42.686775],"type":"Point"}
 }

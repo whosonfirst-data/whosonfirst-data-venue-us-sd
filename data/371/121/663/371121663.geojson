@@ -2,13 +2,14 @@
   "id": 371121663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493851,45.472682,-98.493851,45.472682",
     "geom:latitude":45.472682,
     "geom:longitude":-98.493851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N 4th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371121663,
-    "wof:lastmodified":1449049851,
+    "wof:lastmodified":1467082669,
     "wof:name":"Adjustment Training Ctr Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-98.493851,45.472682,-98.493851,45.472682],
-  "geometry": {"coordinates":[-98.493851,45.472682],"type":"Point"}
+  "bbox": [
+    -98.493851,
+    45.472682,
+    -98.493851,
+    45.472682
+],
+  "geometry": {"coordinates":[-98.49385100000001,45.472682],"type":"Point"}
 }

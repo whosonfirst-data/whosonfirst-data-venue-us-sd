@@ -2,13 +2,14 @@
   "id": 403809541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.337801,44.190582,-103.337801,44.190582",
     "geom:latitude":44.190582,
     "geom:longitude":-103.337801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 J B Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403809541,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1467082683,
     "wof:name":"Black Hawk Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.337801,44.190582,-103.337801,44.190582],
+  "bbox": [
+    -103.337801,
+    44.190582,
+    -103.337801,
+    44.190582
+],
   "geometry": {"coordinates":[-103.337801,44.190582],"type":"Point"}
 }

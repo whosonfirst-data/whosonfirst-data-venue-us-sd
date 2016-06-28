@@ -2,13 +2,14 @@
   "id": 386981813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.990152,44.543417,-96.990152,44.543417",
     "geom:latitude":44.543417,
     "geom:longitude":-96.990152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46139 196th St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386981813,
-    "wof:lastmodified":1449028973,
+    "wof:lastmodified":1467082655,
     "wof:name":"Randall Callesen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.990152,44.543417,-96.990152,44.543417],
-  "geometry": {"coordinates":[-96.990152,44.543417],"type":"Point"}
+  "bbox": [
+    -96.990152,
+    44.543417,
+    -96.990152,
+    44.543417
+],
+  "geometry": {"coordinates":[-96.99015199999999,44.543417],"type":"Point"}
 }

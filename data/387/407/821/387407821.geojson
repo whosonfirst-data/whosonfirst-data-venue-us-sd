@@ -2,13 +2,14 @@
   "id": 387407821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.589068,43.59566,-96.589068,43.59566",
     "geom:latitude":43.59566,
     "geom:longitude":-96.589068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Tabor Ct",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387407821,
-    "wof:lastmodified":1449058224,
+    "wof:lastmodified":1467082729,
     "wof:name":"Redlinger Renter Center",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-96.589068,43.59566,-96.589068,43.59566],
+  "bbox": [
+    -96.589068,
+    43.59566,
+    -96.589068,
+    43.59566
+],
   "geometry": {"coordinates":[-96.589068,43.59566],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387132509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.695968,43.585474,-96.695968,43.585474",
     "geom:latitude":43.585474,
     "geom:longitude":-96.695968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 N Potsdam Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387132509,
-    "wof:lastmodified":1449057960,
+    "wof:lastmodified":1467082724,
     "wof:name":"Limoges Construction Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.695968,43.585474,-96.695968,43.585474],
-  "geometry": {"coordinates":[-96.695968,43.585474],"type":"Point"}
+  "bbox": [
+    -96.695968,
+    43.585474,
+    -96.695968,
+    43.585474
+],
+  "geometry": {"coordinates":[-96.69596799999999,43.585474],"type":"Point"}
 }

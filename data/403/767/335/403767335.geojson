@@ -2,13 +2,14 @@
   "id": 403767335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.377524,44.356687,-100.377524,44.356687",
     "geom:latitude":44.356687,
     "geom:longitude":-100.377524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Verendrye Dr",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403767335,
-    "wof:lastmodified":1449055028,
+    "wof:lastmodified":1467082678,
     "wof:name":"Johnson Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-100.377524,44.356687,-100.377524,44.356687],
-  "geometry": {"coordinates":[-100.377524,44.356687],"type":"Point"}
+  "bbox": [
+    -100.377524,
+    44.356687,
+    -100.377524,
+    44.356687
+],
+  "geometry": {"coordinates":[-100.37752399999999,44.356687],"type":"Point"}
 }

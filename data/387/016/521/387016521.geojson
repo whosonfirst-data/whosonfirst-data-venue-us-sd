@@ -2,13 +2,14 @@
   "id": 387016521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.2142,44.362503,-98.2142,44.362503",
     "geom:latitude":44.362503,
     "geom:longitude":-98.2142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387016521,
-    "wof:lastmodified":1449056761,
+    "wof:lastmodified":1467082700,
     "wof:name":"Smith Jewelry Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-98.2142,44.362503,-98.2142,44.362503],
-  "geometry": {"coordinates":[-98.2142,44.362503],"type":"Point"}
+  "bbox": [
+    -98.2142,
+    44.362503,
+    -98.2142,
+    44.362503
+],
+  "geometry": {"coordinates":[-98.21420000000001,44.362503],"type":"Point"}
 }

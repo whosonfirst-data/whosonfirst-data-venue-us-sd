@@ -2,13 +2,14 @@
   "id": 371035243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.575652,43.607235,-96.575652,43.607235",
     "geom:latitude":43.607235,
     "geom:longitude":-96.575652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 N 9th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371035243,
-    "wof:lastmodified":1449049891,
+    "wof:lastmodified":1467082670,
     "wof:name":"Knudtson Collision Repair",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.575652,43.607235,-96.575652,43.607235],
-  "geometry": {"coordinates":[-96.575652,43.607235],"type":"Point"}
+  "bbox": [
+    -96.575652,
+    43.607235,
+    -96.575652,
+    43.607235
+],
+  "geometry": {"coordinates":[-96.57565200000001,43.607235],"type":"Point"}
 }

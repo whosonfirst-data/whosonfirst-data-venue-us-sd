@@ -2,13 +2,14 @@
   "id": 387107885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.681168,44.547201,-98.681168,44.547201",
     "geom:latitude":44.547201,
     "geom:longitude":-98.681168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37499 196th St",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387107885,
-    "wof:lastmodified":1449056127,
+    "wof:lastmodified":1467082687,
     "wof:name":"County Line Aviation-Hangar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.681168,44.547201,-98.681168,44.547201],
+  "bbox": [
+    -98.681168,
+    44.547201,
+    -98.681168,
+    44.547201
+],
   "geometry": {"coordinates":[-98.681168,44.547201],"type":"Point"}
 }

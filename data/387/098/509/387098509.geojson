@@ -2,13 +2,14 @@
   "id": 387098509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.873289,45.392612,-99.873289,45.392612",
     "geom:latitude":45.392612,
     "geom:longitude":-99.873289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13790 315th Ave",
     "sg:city":"Java",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387098509,
-    "wof:lastmodified":1449059510,
+    "wof:lastmodified":1467082755,
     "wof:name":"Some Times Fieldler Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.873289,45.392612,-99.873289,45.392612],
+  "bbox": [
+    -99.873289,
+    45.392612,
+    -99.873289,
+    45.392612
+],
   "geometry": {"coordinates":[-99.873289,45.392612],"type":"Point"}
 }

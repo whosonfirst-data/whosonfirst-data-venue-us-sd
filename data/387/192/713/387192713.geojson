@@ -2,13 +2,14 @@
   "id": 387192713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.57041,43.239578,-97.57041,43.239578",
     "geom:latitude":43.239578,
     "geom:longitude":-97.57041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S Alfalfa St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387192713,
-    "wof:lastmodified":1449058802,
+    "wof:lastmodified":1467082741,
     "wof:name":"Zion Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.57041,43.239578,-97.57041,43.239578],
+  "bbox": [
+    -97.57041,
+    43.239578,
+    -97.57041,
+    43.239578
+],
   "geometry": {"coordinates":[-97.57041,43.239578],"type":"Point"}
 }

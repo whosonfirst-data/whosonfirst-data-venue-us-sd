@@ -2,13 +2,14 @@
   "id": 387574049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.023971,43.71427,-98.023971,43.71427",
     "geom:latitude":43.71427,
     "geom:longitude":-98.023971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Lawler St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387574049,
-    "wof:lastmodified":1449056089,
+    "wof:lastmodified":1467082686,
     "wof:name":"Margheim Financial Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-98.023971,43.71427,-98.023971,43.71427],
+  "bbox": [
+    -98.023971,
+    43.71427,
+    -98.023971,
+    43.71427
+],
   "geometry": {"coordinates":[-98.023971,43.71427],"type":"Point"}
 }

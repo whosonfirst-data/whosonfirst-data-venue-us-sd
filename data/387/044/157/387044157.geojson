@@ -2,13 +2,14 @@
   "id": 387044157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.779094,43.76103,-96.779094,43.76103",
     "geom:latitude":43.76103,
     "geom:longitude":-96.779094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47165 250th St",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387044157,
-    "wof:lastmodified":1449058090,
+    "wof:lastmodified":1467082727,
     "wof:name":"Performance Paint & Body",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-96.779094,43.76103,-96.779094,43.76103],
+  "bbox": [
+    -96.779094,
+    43.76103,
+    -96.779094,
+    43.76103
+],
   "geometry": {"coordinates":[-96.779094,43.76103],"type":"Point"}
 }

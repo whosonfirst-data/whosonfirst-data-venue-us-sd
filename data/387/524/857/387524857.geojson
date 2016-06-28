@@ -2,13 +2,14 @@
   "id": 387524857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.6148,43.578593,-96.6148,43.578593",
     "geom:latitude":43.578593,
     "geom:longitude":-96.6148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 E Sunset Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387524857,
-    "wof:lastmodified":1449056078,
+    "wof:lastmodified":1467082686,
     "wof:name":"Innotek Engineered Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industrial"
     ]
 },
-  "bbox": [-96.6148,43.578593,-96.6148,43.578593],
+  "bbox": [
+    -96.6148,
+    43.578593,
+    -96.6148,
+    43.578593
+],
   "geometry": {"coordinates":[-96.6148,43.578593],"type":"Point"}
 }

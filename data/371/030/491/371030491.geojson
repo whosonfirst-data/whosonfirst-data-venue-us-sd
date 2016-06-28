@@ -2,13 +2,14 @@
   "id": 371030491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.694092,43.743925,-98.694092,43.743925",
     "geom:latitude":43.743925,
     "geom:longitude":-98.694092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25130 375th Ave",
     "sg:city":"White Lake",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371030491,
-    "wof:lastmodified":1449049397,
+    "wof:lastmodified":1467082663,
     "wof:name":"Dale Peters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.694092,43.743925,-98.694092,43.743925],
+  "bbox": [
+    -98.694092,
+    43.743925,
+    -98.694092,
+    43.743925
+],
   "geometry": {"coordinates":[-98.694092,43.743925],"type":"Point"}
 }

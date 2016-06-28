@@ -2,13 +2,14 @@
   "id": 371154291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.346493,43.317543,-98.346493,43.317543",
     "geom:latitude":43.317543,
     "geom:longitude":-98.346493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Main St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371154291,
-    "wof:lastmodified":1449050158,
+    "wof:lastmodified":1467082674,
     "wof:name":"Armour Chronicle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-98.346493,43.317543,-98.346493,43.317543],
+  "bbox": [
+    -98.346493,
+    43.317543,
+    -98.346493,
+    43.317543
+],
   "geometry": {"coordinates":[-98.346493,43.317543],"type":"Point"}
 }

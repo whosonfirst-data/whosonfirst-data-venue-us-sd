@@ -2,13 +2,14 @@
   "id": 371079715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.802805,43.053796,-97.802805,43.053796",
     "geom:latitude":43.053796,
     "geom:longitude":-97.802805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41950 299th St",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371079715,
-    "wof:lastmodified":1449049945,
+    "wof:lastmodified":1467082671,
     "wof:name":"Bruce Simek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.802805,43.053796,-97.802805,43.053796],
-  "geometry": {"coordinates":[-97.802805,43.053796],"type":"Point"}
+  "bbox": [
+    -97.802805,
+    43.053796,
+    -97.802805,
+    43.053796
+],
+  "geometry": {"coordinates":[-97.80280500000001,43.053796],"type":"Point"}
 }

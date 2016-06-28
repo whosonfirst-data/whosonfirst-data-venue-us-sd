@@ -2,13 +2,14 @@
   "id": 403742693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.249782,44.080377,-103.249782,44.080377",
     "geom:latitude":44.080377,
     "geom:longitude":-103.249782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 W Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403742693,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1467082675,
     "wof:name":"Allergy Clinic",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.249782,44.080377,-103.249782,44.080377],
+  "bbox": [
+    -103.249782,
+    44.080377,
+    -103.249782,
+    44.080377
+],
   "geometry": {"coordinates":[-103.249782,44.080377],"type":"Point"}
 }

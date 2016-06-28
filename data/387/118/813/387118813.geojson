@@ -2,13 +2,14 @@
   "id": 387118813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.419519,43.894618,-103.419519,43.894618",
     "geom:latitude":43.894618,
     "geom:longitude":-103.419519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Blair St",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387118813,
-    "wof:lastmodified":1449059190,
+    "wof:lastmodified":1467082749,
     "wof:name":"Keystone United Chr Of Christ",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.419519,43.894618,-103.419519,43.894618],
-  "geometry": {"coordinates":[-103.419519,43.894618],"type":"Point"}
+  "bbox": [
+    -103.419519,
+    43.894618,
+    -103.419519,
+    43.894618
+],
+  "geometry": {"coordinates":[-103.41951899999999,43.894618],"type":"Point"}
 }

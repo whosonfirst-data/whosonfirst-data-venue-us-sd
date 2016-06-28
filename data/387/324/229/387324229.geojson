@@ -2,13 +2,14 @@
   "id": 387324229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70424,43.441698,-96.70424,43.441698",
     "geom:latitude":43.441698,
     "geom:longitude":-96.70424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Industrial Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387324229,
-    "wof:lastmodified":1449058325,
+    "wof:lastmodified":1467082731,
     "wof:name":"Concrete Materials Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "block"
     ]
 },
-  "bbox": [-96.70424,43.441698,-96.70424,43.441698],
+  "bbox": [
+    -96.70424,
+    43.441698,
+    -96.70424,
+    43.441698
+],
   "geometry": {"coordinates":[-96.70424,43.441698],"type":"Point"}
 }

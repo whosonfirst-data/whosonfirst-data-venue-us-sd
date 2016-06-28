@@ -2,13 +2,14 @@
   "id": 371166153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.737709,43.759037,-96.737709,43.759037",
     "geom:latitude":43.759037,
     "geom:longitude":-96.737709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Nidaros Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371166153,
-    "wof:lastmodified":1449049644,
+    "wof:lastmodified":1467082666,
     "wof:name":"Baltic Lutheran Church",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.737709,43.759037,-96.737709,43.759037],
+  "bbox": [
+    -96.737709,
+    43.759037,
+    -96.737709,
+    43.759037
+],
   "geometry": {"coordinates":[-96.737709,43.759037],"type":"Point"}
 }

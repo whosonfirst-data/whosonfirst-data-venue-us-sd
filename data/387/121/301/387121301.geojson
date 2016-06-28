@@ -2,13 +2,14 @@
   "id": 387121301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.987645,43.546353,-97.987645,43.546353",
     "geom:latitude":43.546353,
     "geom:longitude":-97.987645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 W Ash St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387121301,
-    "wof:lastmodified":1449059075,
+    "wof:lastmodified":1467082746,
     "wof:name":"Ethan Co-Op Lumber Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-97.987645,43.546353,-97.987645,43.546353],
+  "bbox": [
+    -97.987645,
+    43.546353,
+    -97.987645,
+    43.546353
+],
   "geometry": {"coordinates":[-97.987645,43.546353],"type":"Point"}
 }

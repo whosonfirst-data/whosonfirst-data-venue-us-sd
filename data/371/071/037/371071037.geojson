@@ -2,13 +2,14 @@
   "id": 371071037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.904935,44.57689,-96.904935,44.57689",
     "geom:latitude":44.57689,
     "geom:longitude":-96.904935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Davis Ave",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371071037,
-    "wof:lastmodified":1449049709,
+    "wof:lastmodified":1467082667,
     "wof:name":"Estelline High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.904935,44.57689,-96.904935,44.57689],
-  "geometry": {"coordinates":[-96.904935,44.57689],"type":"Point"}
+  "bbox": [
+    -96.904935,
+    44.57689,
+    -96.904935,
+    44.57689
+],
+  "geometry": {"coordinates":[-96.90493499999999,44.57689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371050249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.522548,45.341057,-97.522548,45.341057",
     "geom:latitude":45.341057,
     "geom:longitude":-97.522548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 US Hwy 12",
     "sg:city":"Waubay",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371050249,
-    "wof:lastmodified":1449049627,
+    "wof:lastmodified":1467082666,
     "wof:name":"Circle Pines Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-97.522548,45.341057,-97.522548,45.341057],
+  "bbox": [
+    -97.522548,
+    45.341057,
+    -97.522548,
+    45.341057
+],
   "geometry": {"coordinates":[-97.522548,45.341057],"type":"Point"}
 }

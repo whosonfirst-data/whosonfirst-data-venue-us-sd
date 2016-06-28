@@ -2,13 +2,14 @@
   "id": 387653145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.080452,44.586818,-97.080452,44.586818",
     "geom:latitude":44.586818,
     "geom:longitude":-97.080452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Lake Dr",
     "sg:city":"Lake Norden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387653145,
-    "wof:lastmodified":1449056385,
+    "wof:lastmodified":1467082692,
     "wof:name":"Georges Home Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.080452,44.586818,-97.080452,44.586818],
-  "geometry": {"coordinates":[-97.080452,44.586818],"type":"Point"}
+  "bbox": [
+    -97.080452,
+    44.586818,
+    -97.080452,
+    44.586818
+],
+  "geometry": {"coordinates":[-97.08045199999999,44.586818],"type":"Point"}
 }

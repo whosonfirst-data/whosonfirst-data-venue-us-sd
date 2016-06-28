@@ -2,13 +2,14 @@
   "id": 403755985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.741668,44.878967,-97.741668,44.878967",
     "geom:latitude":44.878967,
     "geom:longitude":-97.741668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 N Clinton St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403755985,
-    "wof:lastmodified":1449055015,
+    "wof:lastmodified":1467082678,
     "wof:name":"Clark Junior-Senior High Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.741668,44.878967,-97.741668,44.878967],
+  "bbox": [
+    -97.741668,
+    44.878967,
+    -97.741668,
+    44.878967
+],
   "geometry": {"coordinates":[-97.741668,44.878967],"type":"Point"}
 }

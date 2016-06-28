@@ -2,13 +2,14 @@
   "id": 371101285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.108685,44.434111,-102.108685,44.434111",
     "geom:latitude":44.434111,
     "geom:longitude":-102.108685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20451 Wilsey Rd",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371101285,
-    "wof:lastmodified":1449049589,
+    "wof:lastmodified":1467082666,
     "wof:name":"Maurice Hoffman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.108685,44.434111,-102.108685,44.434111],
-  "geometry": {"coordinates":[-102.108685,44.434111],"type":"Point"}
+  "bbox": [
+    -102.108685,
+    44.434111,
+    -102.108685,
+    44.434111
+],
+  "geometry": {"coordinates":[-102.10868499999999,44.434111],"type":"Point"}
 }

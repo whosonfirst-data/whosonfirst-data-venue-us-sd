@@ -2,13 +2,14 @@
   "id": 387716433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.774451,44.349715,-103.774451,44.349715",
     "geom:latitude":44.349715,
     "geom:longitude":-103.774451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Main St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387716433,
-    "wof:lastmodified":1449056642,
+    "wof:lastmodified":1467082697,
     "wof:name":"United Methdst Church of Lead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.774451,44.349715,-103.774451,44.349715],
+  "bbox": [
+    -103.774451,
+    44.349715,
+    -103.774451,
+    44.349715
+],
   "geometry": {"coordinates":[-103.774451,44.349715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387288763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718496,43.549924,-96.718496,43.549924",
     "geom:latitude":43.549924,
     "geom:longitude":-96.718496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 E 7th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387288763,
-    "wof:lastmodified":1449056510,
+    "wof:lastmodified":1467082695,
     "wof:name":"Parks & Recreation Department",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "recreation"
     ]
 },
-  "bbox": [-96.718496,43.549924,-96.718496,43.549924],
+  "bbox": [
+    -96.718496,
+    43.549924,
+    -96.718496,
+    43.549924
+],
   "geometry": {"coordinates":[-96.718496,43.549924],"type":"Point"}
 }

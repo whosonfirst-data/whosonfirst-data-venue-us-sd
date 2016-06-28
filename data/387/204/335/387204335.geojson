@@ -2,13 +2,14 @@
   "id": 387204335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.513686,45.210817,-98.513686,45.210817",
     "geom:latitude":45.210817,
     "geom:longitude":-98.513686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15088 US Hwy 281",
     "sg:city":"Mellette",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387204335,
-    "wof:lastmodified":1449060025,
+    "wof:lastmodified":1467082765,
     "wof:name":"Lester Dennis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.513686,45.210817,-98.513686,45.210817],
-  "geometry": {"coordinates":[-98.513686,45.210817],"type":"Point"}
+  "bbox": [
+    -98.513686,
+    45.210817,
+    -98.513686,
+    45.210817
+],
+  "geometry": {"coordinates":[-98.51368600000001,45.210817],"type":"Point"}
 }

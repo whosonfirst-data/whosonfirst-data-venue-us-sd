@@ -2,13 +2,14 @@
   "id": 386951399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.212358,44.363099,-98.212358,44.363099",
     "geom:latitude":44.363099,
     "geom:longitude":-98.212358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Kansas Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386951399,
-    "wof:lastmodified":1449028632,
+    "wof:lastmodified":1467082649,
     "wof:name":"Look Well Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.212358,44.363099,-98.212358,44.363099],
-  "geometry": {"coordinates":[-98.212358,44.363099],"type":"Point"}
+  "bbox": [
+    -98.212358,
+    44.363099,
+    -98.212358,
+    44.363099
+],
+  "geometry": {"coordinates":[-98.21235799999999,44.363099],"type":"Point"}
 }

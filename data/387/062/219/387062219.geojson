@@ -2,13 +2,14 @@
   "id": 387062219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.687672,43.552812,-96.687672,43.552812",
     "geom:latitude":43.552812,
     "geom:longitude":-96.687672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Shepherd Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387062219,
-    "wof:lastmodified":1449059649,
+    "wof:lastmodified":1467082758,
     "wof:name":"Jim River Auto Transport Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.687672,43.552812,-96.687672,43.552812],
-  "geometry": {"coordinates":[-96.687672,43.552812],"type":"Point"}
+  "bbox": [
+    -96.687672,
+    43.552812,
+    -96.687672,
+    43.552812
+],
+  "geometry": {"coordinates":[-96.68767200000001,43.552812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403707993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.891675,44.526209,-103.891675,44.526209",
     "geom:latitude":44.526209,
     "geom:longitude":-103.891675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Hardy Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403707993,
-    "wof:lastmodified":1449055770,
+    "wof:lastmodified":1467082683,
     "wof:name":"Silver Mop Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitorial"
     ]
 },
-  "bbox": [-103.891675,44.526209,-103.891675,44.526209],
-  "geometry": {"coordinates":[-103.891675,44.526209],"type":"Point"}
+  "bbox": [
+    -103.891675,
+    44.526209,
+    -103.891675,
+    44.526209
+],
+  "geometry": {"coordinates":[-103.89167500000001,44.526209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387003513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702506,43.57714,-96.702506,43.57714",
     "geom:latitude":43.57714,
     "geom:longitude":-96.702506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 N Jessica Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387003513,
-    "wof:lastmodified":1449059620,
+    "wof:lastmodified":1467082757,
     "wof:name":"Mulder & Son Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-96.702506,43.57714,-96.702506,43.57714],
+  "bbox": [
+    -96.702506,
+    43.57714,
+    -96.702506,
+    43.57714
+],
   "geometry": {"coordinates":[-96.702506,43.57714],"type":"Point"}
 }

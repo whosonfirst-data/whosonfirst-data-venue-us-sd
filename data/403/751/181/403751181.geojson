@@ -2,13 +2,14 @@
   "id": 403751181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.090822,43.285134,-97.090822,43.285134",
     "geom:latitude":43.285134,
     "geom:longitude":-97.090822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Illinois Ave",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403751181,
-    "wof:lastmodified":1449054704,
+    "wof:lastmodified":1467082675,
     "wof:name":"System Programming Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-97.090822,43.285134,-97.090822,43.285134],
+  "bbox": [
+    -97.090822,
+    43.285134,
+    -97.090822,
+    43.285134
+],
   "geometry": {"coordinates":[-97.090822,43.285134],"type":"Point"}
 }

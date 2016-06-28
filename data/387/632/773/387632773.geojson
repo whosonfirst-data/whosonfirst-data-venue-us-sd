@@ -2,13 +2,14 @@
   "id": 387632773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856686,43.376503,-99.856686,43.376503",
     "geom:latitude":43.376503,
     "geom:longitude":-99.856686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387632773,
-    "wof:lastmodified":1449058534,
+    "wof:lastmodified":1467082735,
     "wof:name":"Computers 'N' More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-99.856686,43.376503,-99.856686,43.376503],
+  "bbox": [
+    -99.856686,
+    43.376503,
+    -99.856686,
+    43.376503
+],
   "geometry": {"coordinates":[-99.856686,43.376503],"type":"Point"}
 }

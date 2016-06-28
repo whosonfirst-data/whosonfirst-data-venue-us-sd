@@ -2,13 +2,14 @@
   "id": 371138089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.591128,43.769415,-103.591128,43.769415",
     "geom:latitude":43.769415,
     "geom:longitude":-103.591128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Washington St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371138089,
-    "wof:lastmodified":1449049301,
+    "wof:lastmodified":1467082662,
     "wof:name":"Sanders Sanitation Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "collection"
     ]
 },
-  "bbox": [-103.591128,43.769415,-103.591128,43.769415],
+  "bbox": [
+    -103.591128,
+    43.769415,
+    -103.591128,
+    43.769415
+],
   "geometry": {"coordinates":[-103.591128,43.769415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387511421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790017,43.530085,-96.790017,43.530085",
     "geom:latitude":43.530085,
     "geom:longitude":-96.790017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 W Homefield Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387511421,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467082722,
     "wof:name":"Accent Window Decor",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-96.790017,43.530085,-96.790017,43.530085],
-  "geometry": {"coordinates":[-96.790017,43.530085],"type":"Point"}
+  "bbox": [
+    -96.790017,
+    43.530085,
+    -96.790017,
+    43.530085
+],
+  "geometry": {"coordinates":[-96.79001700000001,43.530085],"type":"Point"}
 }

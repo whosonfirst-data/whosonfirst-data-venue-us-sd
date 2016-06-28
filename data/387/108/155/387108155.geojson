@@ -2,13 +2,14 @@
   "id": 387108155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.269774,45.704929,-98.269774,45.704929",
     "geom:latitude":45.704929,
     "geom:longitude":-98.269774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39750 116th St",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387108155,
-    "wof:lastmodified":1449056185,
+    "wof:lastmodified":1467082688,
     "wof:name":"Joel Wilson",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.269774,45.704929,-98.269774,45.704929],
+  "bbox": [
+    -98.269774,
+    45.704929,
+    -98.269774,
+    45.704929
+],
   "geometry": {"coordinates":[-98.269774,45.704929],"type":"Point"}
 }

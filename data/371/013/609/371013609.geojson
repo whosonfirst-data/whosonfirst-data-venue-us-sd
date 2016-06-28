@@ -2,13 +2,14 @@
   "id": 371013609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.244982,43.994468,-102.244982,43.994468",
     "geom:latitude":43.994468,
     "geom:longitude":-102.244982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W 4th Ave",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371013609,
-    "wof:lastmodified":1449049764,
+    "wof:lastmodified":1467082668,
     "wof:name":"Crown Oil",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-102.244982,43.994468,-102.244982,43.994468],
-  "geometry": {"coordinates":[-102.244982,43.994468],"type":"Point"}
+  "bbox": [
+    -102.244982,
+    43.994468,
+    -102.244982,
+    43.994468
+],
+  "geometry": {"coordinates":[-102.24498199999999,43.994468],"type":"Point"}
 }

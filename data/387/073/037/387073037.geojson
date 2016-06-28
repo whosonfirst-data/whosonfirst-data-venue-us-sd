@@ -2,13 +2,14 @@
   "id": 387073037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.736362,43.499684,-96.736362,43.499684",
     "geom:latitude":43.499684,
     "geom:longitude":-96.736362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 W Bayberry Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387073037,
-    "wof:lastmodified":1449056633,
+    "wof:lastmodified":1467082697,
     "wof:name":"Dakota Spirit Supersquads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-96.736362,43.499684,-96.736362,43.499684],
+  "bbox": [
+    -96.736362,
+    43.499684,
+    -96.736362,
+    43.499684
+],
   "geometry": {"coordinates":[-96.736362,43.499684],"type":"Point"}
 }

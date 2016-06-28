@@ -2,13 +2,14 @@
   "id": 403722609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.312255,44.152142,-103.312255,44.152142",
     "geom:latitude":44.152142,
     "geom:longitude":-103.312255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5513 Oak St",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403722609,
-    "wof:lastmodified":1449055093,
+    "wof:lastmodified":1467082678,
     "wof:name":"Black Hawk Water District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.312255,44.152142,-103.312255,44.152142],
-  "geometry": {"coordinates":[-103.312255,44.152142],"type":"Point"}
+  "bbox": [
+    -103.312255,
+    44.152142,
+    -103.312255,
+    44.152142
+],
+  "geometry": {"coordinates":[-103.31225499999999,44.152142],"type":"Point"}
 }

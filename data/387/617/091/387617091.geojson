@@ -2,13 +2,14 @@
   "id": 387617091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.106868,44.779592,-99.106868,44.779592",
     "geom:latitude":44.779592,
     "geom:longitude":-99.106868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35415 State Hwy 26",
     "sg:city":"Orient",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387617091,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1467082689,
     "wof:name":"Ponderosa Bar & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-99.106868,44.779592,-99.106868,44.779592],
-  "geometry": {"coordinates":[-99.106868,44.779592],"type":"Point"}
+  "bbox": [
+    -99.106868,
+    44.779592,
+    -99.106868,
+    44.779592
+],
+  "geometry": {"coordinates":[-99.10686800000001,44.779592],"type":"Point"}
 }

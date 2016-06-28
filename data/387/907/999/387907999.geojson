@@ -2,13 +2,14 @@
   "id": 387907999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926633,44.323595,-96.926633,44.323595",
     "geom:latitude":44.323595,
     "geom:longitude":-96.926633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387907999,
-    "wof:lastmodified":1449059630,
+    "wof:lastmodified":1467082757,
     "wof:name":"Quality Creations Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.926633,44.323595,-96.926633,44.323595],
+  "bbox": [
+    -96.926633,
+    44.323595,
+    -96.926633,
+    44.323595
+],
   "geometry": {"coordinates":[-96.926633,44.323595],"type":"Point"}
 }

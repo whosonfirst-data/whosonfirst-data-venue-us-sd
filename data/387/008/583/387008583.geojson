@@ -2,13 +2,14 @@
   "id": 387008583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756324,43.460807,-96.756324,43.460807",
     "geom:latitude":43.460807,
     "geom:longitude":-96.756324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47238 271st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387008583,
-    "wof:lastmodified":1449057294,
+    "wof:lastmodified":1467082710,
     "wof:name":"Foster Landscaping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.756324,43.460807,-96.756324,43.460807],
-  "geometry": {"coordinates":[-96.756324,43.460807],"type":"Point"}
+  "bbox": [
+    -96.756324,
+    43.460807,
+    -96.756324,
+    43.460807
+],
+  "geometry": {"coordinates":[-96.75632400000001,43.460807],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387028159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214689,44.385028,-98.214689,44.385028",
     "geom:latitude":44.385028,
     "geom:longitude":-98.214689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 15th St NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387028159,
-    "wof:lastmodified":1449058166,
+    "wof:lastmodified":1467082728,
     "wof:name":"ARMY National Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-98.214689,44.385028,-98.214689,44.385028],
-  "geometry": {"coordinates":[-98.214689,44.385028],"type":"Point"}
+  "bbox": [
+    -98.214689,
+    44.385028,
+    -98.214689,
+    44.385028
+],
+  "geometry": {"coordinates":[-98.21468900000001,44.385028],"type":"Point"}
 }

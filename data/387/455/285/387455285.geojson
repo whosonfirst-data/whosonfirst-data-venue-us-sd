@@ -2,13 +2,14 @@
   "id": 387455285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.350737,44.620249,-97.350737,44.620249",
     "geom:latitude":44.620249,
     "geom:longitude":-97.350737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19071 443rd Ave",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387455285,
-    "wof:lastmodified":1449059316,
+    "wof:lastmodified":1467082751,
     "wof:name":"Ingalls Prairie Wild Fowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.350737,44.620249,-97.350737,44.620249],
+  "bbox": [
+    -97.350737,
+    44.620249,
+    -97.350737,
+    44.620249
+],
   "geometry": {"coordinates":[-97.350737,44.620249],"type":"Point"}
 }

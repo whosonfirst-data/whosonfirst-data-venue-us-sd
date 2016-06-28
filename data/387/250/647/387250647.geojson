@@ -2,13 +2,14 @@
   "id": 387250647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.470726,45.328784,-98.470726,45.328784",
     "geom:latitude":45.328784,
     "geom:longitude":-98.470726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38823 142nd St",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387250647,
-    "wof:lastmodified":1449058275,
+    "wof:lastmodified":1467082730,
     "wof:name":"Cornerstone Consulting Service",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-98.470726,45.328784,-98.470726,45.328784],
+  "bbox": [
+    -98.470726,
+    45.328784,
+    -98.470726,
+    45.328784
+],
   "geometry": {"coordinates":[-98.470726,45.328784],"type":"Point"}
 }

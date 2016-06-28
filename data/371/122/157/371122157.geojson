@@ -2,13 +2,14 @@
   "id": 371122157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.414891,45.469988,-98.414891,45.469988",
     "geom:latitude":45.469988,
     "geom:longitude":-98.414891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Production St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371122157,
-    "wof:lastmodified":1449049649,
+    "wof:lastmodified":1467082667,
     "wof:name":"Sentranet",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-98.414891,45.469988,-98.414891,45.469988],
+  "bbox": [
+    -98.414891,
+    45.469988,
+    -98.414891,
+    45.469988
+],
   "geometry": {"coordinates":[-98.414891,45.469988],"type":"Point"}
 }

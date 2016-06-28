@@ -2,13 +2,14 @@
   "id": 387505887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.611779,43.633901,-96.611779,43.633901",
     "geom:latitude":43.633901,
     "geom:longitude":-96.611779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25878 480th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387505887,
-    "wof:lastmodified":1449059301,
+    "wof:lastmodified":1467082751,
     "wof:name":"A-1 Septic Tank & Excavating",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.611779,43.633901,-96.611779,43.633901],
+  "bbox": [
+    -96.611779,
+    43.633901,
+    -96.611779,
+    43.633901
+],
   "geometry": {"coordinates":[-96.611779,43.633901],"type":"Point"}
 }

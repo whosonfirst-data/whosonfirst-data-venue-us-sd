@@ -2,13 +2,14 @@
   "id": 387790347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.502738,43.717216,-96.502738,43.717216",
     "geom:latitude":43.717216,
     "geom:longitude":-96.502738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 N Main Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387790347,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1467082745,
     "wof:name":"Exercise Place",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-96.502738,43.717216,-96.502738,43.717216],
-  "geometry": {"coordinates":[-96.502738,43.717216],"type":"Point"}
+  "bbox": [
+    -96.502738,
+    43.717216,
+    -96.502738,
+    43.717216
+],
+  "geometry": {"coordinates":[-96.50273799999999,43.717216],"type":"Point"}
 }

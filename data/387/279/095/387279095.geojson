@@ -2,13 +2,14 @@
   "id": 387279095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.036681,43.182573,-98.036681,43.182573",
     "geom:latitude":43.182573,
     "geom:longitude":-98.036681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40719 290th St",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387279095,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1467082722,
     "wof:name":"Bietz Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-98.036681,43.182573,-98.036681,43.182573],
+  "bbox": [
+    -98.036681,
+    43.182573,
+    -98.036681,
+    43.182573
+],
   "geometry": {"coordinates":[-98.036681,43.182573],"type":"Point"}
 }

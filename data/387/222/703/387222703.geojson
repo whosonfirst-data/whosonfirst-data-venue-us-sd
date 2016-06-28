@@ -2,13 +2,14 @@
   "id": 387222703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761893,43.523839,-96.761893,43.523839",
     "geom:latitude":43.523839,
     "geom:longitude":-96.761893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3041 W Donahue Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387222703,
-    "wof:lastmodified":1449058652,
+    "wof:lastmodified":1467082738,
     "wof:name":"S Ohme",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.761893,43.523839,-96.761893,43.523839],
+  "bbox": [
+    -96.761893,
+    43.523839,
+    -96.761893,
+    43.523839
+],
   "geometry": {"coordinates":[-96.761893,43.523839],"type":"Point"}
 }

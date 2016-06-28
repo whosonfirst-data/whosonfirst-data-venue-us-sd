@@ -2,13 +2,14 @@
   "id": 387128383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.634268,45.263975,-96.634268,45.263975",
     "geom:latitude":45.263975,
     "geom:longitude":-96.634268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Country Club Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387128383,
-    "wof:lastmodified":1449057596,
+    "wof:lastmodified":1467082717,
     "wof:name":"Wolff Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.634268,45.263975,-96.634268,45.263975],
-  "geometry": {"coordinates":[-96.634268,45.263975],"type":"Point"}
+  "bbox": [
+    -96.634268,
+    45.263975,
+    -96.634268,
+    45.263975
+],
+  "geometry": {"coordinates":[-96.63426800000001,45.263975],"type":"Point"}
 }

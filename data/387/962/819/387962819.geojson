@@ -2,13 +2,14 @@
   "id": 387962819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767995,43.5131,-96.767995,43.5131",
     "geom:latitude":43.5131,
     "geom:longitude":-96.767995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 S Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387962819,
-    "wof:lastmodified":1449058339,
+    "wof:lastmodified":1467082732,
     "wof:name":"Billion Hyundai",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.767995,43.5131,-96.767995,43.5131],
+  "bbox": [
+    -96.767995,
+    43.5131,
+    -96.767995,
+    43.5131
+],
   "geometry": {"coordinates":[-96.767995,43.5131],"type":"Point"}
 }

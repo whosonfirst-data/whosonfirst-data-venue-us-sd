@@ -2,13 +2,14 @@
   "id": 387155935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.909822,43.301592,-96.909822,43.301592",
     "geom:latitude":43.301592,
     "geom:longitude":-96.909822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46478 282nd St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387155935,
-    "wof:lastmodified":1449059256,
+    "wof:lastmodified":1467082750,
     "wof:name":"Graber Telecom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.909822,43.301592,-96.909822,43.301592],
-  "geometry": {"coordinates":[-96.909822,43.301592],"type":"Point"}
+  "bbox": [
+    -96.909822,
+    43.301592,
+    -96.909822,
+    43.301592
+],
+  "geometry": {"coordinates":[-96.90982200000001,43.301592],"type":"Point"}
 }

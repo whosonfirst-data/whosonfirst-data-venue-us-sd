@@ -2,13 +2,14 @@
   "id": 387572529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.293579,43.083557,-98.293579,43.083557",
     "geom:latitude":43.083557,
     "geom:longitude":-98.293579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main Ave N",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387572529,
-    "wof:lastmodified":1449058432,
+    "wof:lastmodified":1467082733,
     "wof:name":"Jan Steensland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "publisher"
     ]
 },
-  "bbox": [-98.293579,43.083557,-98.293579,43.083557],
-  "geometry": {"coordinates":[-98.293579,43.083557],"type":"Point"}
+  "bbox": [
+    -98.293579,
+    43.083557,
+    -98.293579,
+    43.083557
+],
+  "geometry": {"coordinates":[-98.29357899999999,43.083557],"type":"Point"}
 }

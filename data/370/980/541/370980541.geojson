@@ -2,13 +2,14 @@
   "id": 370980541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.589969,43.594717,-96.589969,43.594717",
     "geom:latitude":43.594717,
     "geom:longitude":-96.589969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370980541,
-    "wof:lastmodified":1449029306,
+    "wof:lastmodified":1467082655,
     "wof:name":"Neighbors",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.589969,43.594717,-96.589969,43.594717],
+  "bbox": [
+    -96.589969,
+    43.594717,
+    -96.589969,
+    43.594717
+],
   "geometry": {"coordinates":[-96.589969,43.594717],"type":"Point"}
 }

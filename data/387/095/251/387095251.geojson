@@ -2,13 +2,14 @@
   "id": 387095251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813392,43.446459,-96.813392,43.446459",
     "geom:latitude":43.446459,
     "geom:longitude":-96.813392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46970 272nd St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387095251,
-    "wof:lastmodified":1449058042,
+    "wof:lastmodified":1467082726,
     "wof:name":"KMS Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.813392,43.446459,-96.813392,43.446459],
-  "geometry": {"coordinates":[-96.813392,43.446459],"type":"Point"}
+  "bbox": [
+    -96.813392,
+    43.446459,
+    -96.813392,
+    43.446459
+],
+  "geometry": {"coordinates":[-96.81339199999999,43.446459],"type":"Point"}
 }

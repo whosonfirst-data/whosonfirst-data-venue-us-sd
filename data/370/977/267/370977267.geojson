@@ -2,13 +2,14 @@
   "id": 370977267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.229279,44.484998,-97.229279,44.484998",
     "geom:latitude":44.484998,
     "geom:longitude":-97.229279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44839 200th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370977267,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1467082658,
     "wof:name":"Lone Tree Legend Quilts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.229279,44.484998,-97.229279,44.484998],
-  "geometry": {"coordinates":[-97.229279,44.484998],"type":"Point"}
+  "bbox": [
+    -97.229279,
+    44.484998,
+    -97.229279,
+    44.484998
+],
+  "geometry": {"coordinates":[-97.22927900000001,44.484998],"type":"Point"}
 }

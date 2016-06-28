@@ -2,13 +2,14 @@
   "id": 371171519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.473398,43.42861,-103.473398,43.42861",
     "geom:latitude":43.42861,
     "geom:longitude":-103.473398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371171519,
-    "wof:lastmodified":1449050151,
+    "wof:lastmodified":1467082673,
     "wof:name":"West River Monument Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-103.473398,43.42861,-103.473398,43.42861],
+  "bbox": [
+    -103.473398,
+    43.42861,
+    -103.473398,
+    43.42861
+],
   "geometry": {"coordinates":[-103.473398,43.42861],"type":"Point"}
 }

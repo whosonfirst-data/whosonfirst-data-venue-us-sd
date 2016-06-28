@@ -2,13 +2,14 @@
   "id": 386971765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.948408,45.169867,-98.948408,45.169867",
     "geom:latitude":45.169867,
     "geom:longitude":-98.948408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Main St",
     "sg:city":"Cresbard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386971765,
-    "wof:lastmodified":1449028789,
+    "wof:lastmodified":1467082652,
     "wof:name":"Town Of Cresbard Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.948408,45.169867,-98.948408,45.169867],
+  "bbox": [
+    -98.948408,
+    45.169867,
+    -98.948408,
+    45.169867
+],
   "geometry": {"coordinates":[-98.948408,45.169867],"type":"Point"}
 }

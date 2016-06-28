@@ -2,13 +2,14 @@
   "id": 387662483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.429239,43.231057,-99.429239,43.231057",
     "geom:latitude":43.231057,
     "geom:longitude":-99.429239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Rosebud Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387662483,
-    "wof:lastmodified":1449058678,
+    "wof:lastmodified":1467082738,
     "wof:name":"Bloom Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-99.429239,43.231057,-99.429239,43.231057],
+  "bbox": [
+    -99.429239,
+    43.231057,
+    -99.429239,
+    43.231057
+],
   "geometry": {"coordinates":[-99.429239,43.231057],"type":"Point"}
 }

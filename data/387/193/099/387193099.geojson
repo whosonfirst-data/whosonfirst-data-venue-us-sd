@@ -2,13 +2,14 @@
   "id": 387193099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.55182,43.633718,-96.55182,43.633718",
     "geom:latitude":43.633718,
     "geom:longitude":-96.55182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25878 483rd Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387193099,
-    "wof:lastmodified":1449056721,
+    "wof:lastmodified":1467082699,
     "wof:name":"Klingbile Construction",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "structural"
     ]
 },
-  "bbox": [-96.55182,43.633718,-96.55182,43.633718],
-  "geometry": {"coordinates":[-96.55182,43.633718],"type":"Point"}
+  "bbox": [
+    -96.55182,
+    43.633718,
+    -96.55182,
+    43.633718
+],
+  "geometry": {"coordinates":[-96.55182000000001,43.633718],"type":"Point"}
 }

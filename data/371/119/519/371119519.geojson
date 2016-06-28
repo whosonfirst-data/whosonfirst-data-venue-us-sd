@@ -2,13 +2,14 @@
   "id": 371119519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.469651,45.45805,-98.469651,45.45805",
     "geom:latitude":45.45805,
     "geom:longitude":-98.469651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 7th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371119519,
-    "wof:lastmodified":1449049801,
+    "wof:lastmodified":1467082669,
     "wof:name":"Aberdeen Area Senior Center",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-98.469651,45.45805,-98.469651,45.45805],
+  "bbox": [
+    -98.469651,
+    45.45805,
+    -98.469651,
+    45.45805
+],
   "geometry": {"coordinates":[-98.469651,45.45805],"type":"Point"}
 }

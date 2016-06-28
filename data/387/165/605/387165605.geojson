@@ -2,13 +2,14 @@
   "id": 387165605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271162,44.103115,-103.271162,44.103115",
     "geom:latitude":44.103115,
     "geom:longitude":-103.271162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387165605,
-    "wof:lastmodified":1449059926,
+    "wof:lastmodified":1467082763,
     "wof:name":"RAJ Rentals & Equipment",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.271162,44.103115,-103.271162,44.103115],
+  "bbox": [
+    -103.271162,
+    44.103115,
+    -103.271162,
+    44.103115
+],
   "geometry": {"coordinates":[-103.271162,44.103115],"type":"Point"}
 }

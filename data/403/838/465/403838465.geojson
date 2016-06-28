@@ -2,13 +2,14 @@
   "id": 403838465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.657721,45.306545,-96.657721,45.306545",
     "geom:latitude":45.306545,
     "geom:longitude":-96.657721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14331 477th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403838465,
-    "wof:lastmodified":1449054782,
+    "wof:lastmodified":1467082675,
     "wof:name":"True Temp Refrig & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.657721,45.306545,-96.657721,45.306545],
+  "bbox": [
+    -96.657721,
+    45.306545,
+    -96.657721,
+    45.306545
+],
   "geometry": {"coordinates":[-96.657721,45.306545],"type":"Point"}
 }

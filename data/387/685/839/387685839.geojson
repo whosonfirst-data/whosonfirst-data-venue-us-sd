@@ -2,13 +2,14 @@
   "id": 387685839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742674,43.551182,-96.742674,43.551182",
     "geom:latitude":43.551182,
     "geom:longitude":-96.742674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Euclid Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387685839,
-    "wof:lastmodified":1449059826,
+    "wof:lastmodified":1467082761,
     "wof:name":"Erickson Photography",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "portrait"
     ]
 },
-  "bbox": [-96.742674,43.551182,-96.742674,43.551182],
-  "geometry": {"coordinates":[-96.742674,43.551182],"type":"Point"}
+  "bbox": [
+    -96.742674,
+    43.551182,
+    -96.742674,
+    43.551182
+],
+  "geometry": {"coordinates":[-96.74267399999999,43.551182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387823157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.257396,44.29631,-99.257396,44.29631",
     "geom:latitude":44.29631,
     "geom:longitude":-99.257396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34600 213th St",
     "sg:city":"Ree Heights",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387823157,
-    "wof:lastmodified":1449059889,
+    "wof:lastmodified":1467082762,
     "wof:name":"Arlen Harvey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.257396,44.29631,-99.257396,44.29631],
+  "bbox": [
+    -99.257396,
+    44.29631,
+    -99.257396,
+    44.29631
+],
   "geometry": {"coordinates":[-99.257396,44.29631],"type":"Point"}
 }

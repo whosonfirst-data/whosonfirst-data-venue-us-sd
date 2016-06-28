@@ -2,13 +2,14 @@
   "id": 387728311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.954282,45.012364,-99.954282,45.012364",
     "geom:latitude":45.012364,
     "geom:longitude":-99.954282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N East St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387728311,
-    "wof:lastmodified":1449056993,
+    "wof:lastmodified":1467082704,
     "wof:name":"Cahill & Assoc PC CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-99.954282,45.012364,-99.954282,45.012364],
-  "geometry": {"coordinates":[-99.954282,45.012364],"type":"Point"}
+  "bbox": [
+    -99.954282,
+    45.012364,
+    -99.954282,
+    45.012364
+],
+  "geometry": {"coordinates":[-99.95428200000001,45.012364],"type":"Point"}
 }

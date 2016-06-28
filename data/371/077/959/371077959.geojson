@@ -2,13 +2,14 @@
   "id": 371077959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.441684,44.525022,-99.441684,44.525022",
     "geom:latitude":44.525022,
     "geom:longitude":-99.441684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Iowa Ave N",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371077959,
-    "wof:lastmodified":1449049193,
+    "wof:lastmodified":1467082660,
     "wof:name":"Highmore Herald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-99.441684,44.525022,-99.441684,44.525022],
+  "bbox": [
+    -99.441684,
+    44.525022,
+    -99.441684,
+    44.525022
+],
   "geometry": {"coordinates":[-99.441684,44.525022],"type":"Point"}
 }

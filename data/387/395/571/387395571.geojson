@@ -2,13 +2,14 @@
   "id": 387395571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556445,44.384046,-97.556445,44.384046",
     "geom:latitude":44.384046,
     "geom:longitude":-97.556445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Ingalls Ave SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387395571,
-    "wof:lastmodified":1449059367,
+    "wof:lastmodified":1467082752,
     "wof:name":"Armory Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.556445,44.384046,-97.556445,44.384046],
+  "bbox": [
+    -97.556445,
+    44.384046,
+    -97.556445,
+    44.384046
+],
   "geometry": {"coordinates":[-97.556445,44.384046],"type":"Point"}
 }

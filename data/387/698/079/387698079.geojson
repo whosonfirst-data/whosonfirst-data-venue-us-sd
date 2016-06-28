@@ -2,13 +2,14 @@
   "id": 387698079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.111747,44.032469,-103.111747,44.032469",
     "geom:latitude":44.032469,
     "geom:longitude":-103.111747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7052 Green Valley Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387698079,
-    "wof:lastmodified":1449059687,
+    "wof:lastmodified":1467082758,
     "wof:name":"Old School Bussing Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firefighter"
     ]
 },
-  "bbox": [-103.111747,44.032469,-103.111747,44.032469],
-  "geometry": {"coordinates":[-103.111747,44.032469],"type":"Point"}
+  "bbox": [
+    -103.111747,
+    44.032469,
+    -103.111747,
+    44.032469
+],
+  "geometry": {"coordinates":[-103.11174699999999,44.032469],"type":"Point"}
 }

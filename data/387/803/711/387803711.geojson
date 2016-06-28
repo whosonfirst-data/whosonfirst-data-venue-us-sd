@@ -2,13 +2,14 @@
   "id": 387803711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761246,43.554215,-96.761246,43.554215",
     "geom:latitude":43.554215,
     "geom:longitude":-96.761246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 N Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387803711,
-    "wof:lastmodified":1449059964,
+    "wof:lastmodified":1467082764,
     "wof:name":"World Of Windows & Siding",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.761246,43.554215,-96.761246,43.554215],
+  "bbox": [
+    -96.761246,
+    43.554215,
+    -96.761246,
+    43.554215
+],
   "geometry": {"coordinates":[-96.761246,43.554215],"type":"Point"}
 }

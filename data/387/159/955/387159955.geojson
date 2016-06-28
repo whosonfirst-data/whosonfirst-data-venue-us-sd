@@ -2,13 +2,14 @@
   "id": 387159955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744979,43.530347,-96.744979,43.530347",
     "geom:latitude":43.530347,
     "geom:longitude":-96.744979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S Lake Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387159955,
-    "wof:lastmodified":1449056568,
+    "wof:lastmodified":1467082696,
     "wof:name":"Chem-Dry Four Seasons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.744979,43.530347,-96.744979,43.530347],
+  "bbox": [
+    -96.744979,
+    43.530347,
+    -96.744979,
+    43.530347
+],
   "geometry": {"coordinates":[-96.744979,43.530347],"type":"Point"}
 }

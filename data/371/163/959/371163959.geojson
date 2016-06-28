@@ -2,13 +2,14 @@
   "id": 371163959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.250818,45.90637,-97.250818,45.90637",
     "geom:latitude":45.90637,
     "geom:longitude":-97.250818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44740 102nd St",
     "sg:city":"Veblen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371163959,
-    "wof:lastmodified":1449050117,
+    "wof:lastmodified":1467082673,
     "wof:name":"Barnstormers LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "air"
     ]
 },
-  "bbox": [-97.250818,45.90637,-97.250818,45.90637],
+  "bbox": [
+    -97.250818,
+    45.90637,
+    -97.250818,
+    45.90637
+],
   "geometry": {"coordinates":[-97.250818,45.90637],"type":"Point"}
 }

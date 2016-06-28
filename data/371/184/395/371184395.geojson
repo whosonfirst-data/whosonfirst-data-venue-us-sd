@@ -2,13 +2,14 @@
   "id": 371184395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.93645,44.528743,-96.93645,44.528743",
     "geom:latitude":44.528743,
     "geom:longitude":-96.93645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46361 197th St",
     "sg:city":"Bruce",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371184395,
-    "wof:lastmodified":1449049219,
+    "wof:lastmodified":1467082660,
     "wof:name":"David Linneman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.93645,44.528743,-96.93645,44.528743],
-  "geometry": {"coordinates":[-96.93645,44.528743],"type":"Point"}
+  "bbox": [
+    -96.93645,
+    44.528743,
+    -96.93645,
+    44.528743
+],
+  "geometry": {"coordinates":[-96.93644999999999,44.528743],"type":"Point"}
 }

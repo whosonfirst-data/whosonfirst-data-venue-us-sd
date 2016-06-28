@@ -2,13 +2,14 @@
   "id": 387603647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.832705,43.57267,-96.832705,43.57267",
     "geom:latitude":43.57267,
     "geom:longitude":-96.832705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46807 263rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387603647,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1467082751,
     "wof:name":"Vortex Publishing",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-96.832705,43.57267,-96.832705,43.57267],
+  "bbox": [
+    -96.832705,
+    43.57267,
+    -96.832705,
+    43.57267
+],
   "geometry": {"coordinates":[-96.832705,43.57267],"type":"Point"}
 }

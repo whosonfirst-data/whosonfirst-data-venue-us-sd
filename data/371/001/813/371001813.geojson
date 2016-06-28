@@ -2,13 +2,14 @@
   "id": 371001813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329337,43.812448,-99.329337,43.812448",
     "geom:latitude":43.812448,
     "geom:longitude":-99.329337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 N Main St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371001813,
-    "wof:lastmodified":1449049275,
+    "wof:lastmodified":1467082661,
     "wof:name":"Dailey Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-99.329337,43.812448,-99.329337,43.812448],
+  "bbox": [
+    -99.329337,
+    43.812448,
+    -99.329337,
+    43.812448
+],
   "geometry": {"coordinates":[-99.329337,43.812448],"type":"Point"}
 }

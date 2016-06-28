@@ -2,13 +2,14 @@
   "id": 387389359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.203446,43.473768,-97.203446,43.473768",
     "geom:latitude":43.473768,
     "geom:longitude":-97.203446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44990 270th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387389359,
-    "wof:lastmodified":1449059136,
+    "wof:lastmodified":1467082747,
     "wof:name":"Eugene Gross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.203446,43.473768,-97.203446,43.473768],
+  "bbox": [
+    -97.203446,
+    43.473768,
+    -97.203446,
+    43.473768
+],
   "geometry": {"coordinates":[-97.203446,43.473768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387582107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.532229,44.973162,-99.532229,44.973162",
     "geom:latitude":44.973162,
     "geom:longitude":-99.532229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16639 331st Ave",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387582107,
-    "wof:lastmodified":1449058158,
+    "wof:lastmodified":1467082728,
     "wof:name":"Goldade Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.532229,44.973162,-99.532229,44.973162],
+  "bbox": [
+    -99.532229,
+    44.973162,
+    -99.532229,
+    44.973162
+],
   "geometry": {"coordinates":[-99.532229,44.973162],"type":"Point"}
 }

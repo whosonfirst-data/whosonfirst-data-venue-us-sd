@@ -2,13 +2,14 @@
   "id": 387799613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593435,44.045795,-96.593435,44.045795",
     "geom:latitude":44.045795,
     "geom:longitude":-96.593435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Park Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387799613,
-    "wof:lastmodified":1449059938,
+    "wof:lastmodified":1467082764,
     "wof:name":"Eastern Dakota Specialties Sp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.593435,44.045795,-96.593435,44.045795],
+  "bbox": [
+    -96.593435,
+    44.045795,
+    -96.593435,
+    44.045795
+],
   "geometry": {"coordinates":[-96.593435,44.045795],"type":"Point"}
 }

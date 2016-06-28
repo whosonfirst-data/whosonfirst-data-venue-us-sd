@@ -2,13 +2,14 @@
   "id": 387923371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.295344,44.048501,-103.295344,44.048501",
     "geom:latitude":44.048501,
     "geom:longitude":-103.295344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Woodrun Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387923371,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1467082760,
     "wof:name":"Shebby Lee Tours",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-103.295344,44.048501,-103.295344,44.048501],
+  "bbox": [
+    -103.295344,
+    44.048501,
+    -103.295344,
+    44.048501
+],
   "geometry": {"coordinates":[-103.295344,44.048501],"type":"Point"}
 }

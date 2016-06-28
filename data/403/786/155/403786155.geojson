@@ -2,13 +2,14 @@
   "id": 403786155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.884465,43.60097,-97.884465,43.60097",
     "geom:latitude":43.60097,
     "geom:longitude":-97.884465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41611 261st St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403786155,
-    "wof:lastmodified":1449054800,
+    "wof:lastmodified":1467082676,
     "wof:name":"Rods Custom Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.884465,43.60097,-97.884465,43.60097],
-  "geometry": {"coordinates":[-97.884465,43.60097],"type":"Point"}
+  "bbox": [
+    -97.884465,
+    43.60097,
+    -97.884465,
+    43.60097
+],
+  "geometry": {"coordinates":[-97.88446500000001,43.60097],"type":"Point"}
 }

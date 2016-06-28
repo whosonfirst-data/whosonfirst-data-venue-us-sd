@@ -2,13 +2,14 @@
   "id": 387314815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803493,44.293441,-96.803493,44.293441",
     "geom:latitude":44.293441,
     "geom:longitude":-96.803493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Indian Hills Rd",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387314815,
-    "wof:lastmodified":1449059757,
+    "wof:lastmodified":1467082760,
     "wof:name":"Mundt Debra S Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.803493,44.293441,-96.803493,44.293441],
+  "bbox": [
+    -96.803493,
+    44.293441,
+    -96.803493,
+    44.293441
+],
   "geometry": {"coordinates":[-96.803493,44.293441],"type":"Point"}
 }

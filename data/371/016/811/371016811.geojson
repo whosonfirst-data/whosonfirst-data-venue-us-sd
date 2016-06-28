@@ -2,13 +2,14 @@
   "id": 371016811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793387,43.462821,-96.793387,43.462821",
     "geom:latitude":43.462821,
     "geom:longitude":-96.793387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47060 98th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371016811,
-    "wof:lastmodified":1449049220,
+    "wof:lastmodified":1467082660,
     "wof:name":"Delta Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.793387,43.462821,-96.793387,43.462821],
+  "bbox": [
+    -96.793387,
+    43.462821,
+    -96.793387,
+    43.462821
+],
   "geometry": {"coordinates":[-96.793387,43.462821],"type":"Point"}
 }

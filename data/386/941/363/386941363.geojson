@@ -2,13 +2,14 @@
   "id": 386941363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.940186,43.625879,-96.940186,43.625879",
     "geom:latitude":43.625879,
     "geom:longitude":-96.940186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 N Van Demark Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386941363,
-    "wof:lastmodified":1449028814,
+    "wof:lastmodified":1467082652,
     "wof:name":"Hartford Swimming Pool",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.940186,43.625879,-96.940186,43.625879],
+  "bbox": [
+    -96.940186,
+    43.625879,
+    -96.940186,
+    43.625879
+],
   "geometry": {"coordinates":[-96.940186,43.625879],"type":"Point"}
 }

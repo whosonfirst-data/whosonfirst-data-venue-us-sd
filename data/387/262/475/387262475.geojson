@@ -2,13 +2,14 @@
   "id": 387262475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131343,44.903467,-97.131343,44.903467",
     "geom:latitude":44.903467,
     "geom:longitude":-97.131343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 10th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387262475,
-    "wof:lastmodified":1449058459,
+    "wof:lastmodified":1467082734,
     "wof:name":"Ron's Saw Shop Two",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saw"
     ]
 },
-  "bbox": [-97.131343,44.903467,-97.131343,44.903467],
+  "bbox": [
+    -97.131343,
+    44.903467,
+    -97.131343,
+    44.903467
+],
   "geometry": {"coordinates":[-97.131343,44.903467],"type":"Point"}
 }

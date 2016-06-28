@@ -2,13 +2,14 @@
   "id": 387482767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775259,43.645237,-96.775259,43.645237",
     "geom:latitude":43.645237,
     "geom:longitude":-96.775259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47183 258th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387482767,
-    "wof:lastmodified":1449057448,
+    "wof:lastmodified":1467082713,
     "wof:name":"Village Pet Products",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.775259,43.645237,-96.775259,43.645237],
-  "geometry": {"coordinates":[-96.775259,43.645237],"type":"Point"}
+  "bbox": [
+    -96.775259,
+    43.645237,
+    -96.775259,
+    43.645237
+],
+  "geometry": {"coordinates":[-96.77525900000001,43.645237],"type":"Point"}
 }

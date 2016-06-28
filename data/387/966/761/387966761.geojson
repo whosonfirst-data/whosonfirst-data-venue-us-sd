@@ -2,13 +2,14 @@
   "id": 387966761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.291519,44.024876,-98.291519,44.024876",
     "geom:latitude":44.024876,
     "geom:longitude":-98.291519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23200 396th Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387966761,
-    "wof:lastmodified":1449056140,
+    "wof:lastmodified":1467082687,
     "wof:name":"Arthur Larson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.291519,44.024876,-98.291519,44.024876],
-  "geometry": {"coordinates":[-98.291519,44.024876],"type":"Point"}
+  "bbox": [
+    -98.291519,
+    44.024876,
+    -98.291519,
+    44.024876
+],
+  "geometry": {"coordinates":[-98.29151899999999,44.024876],"type":"Point"}
 }

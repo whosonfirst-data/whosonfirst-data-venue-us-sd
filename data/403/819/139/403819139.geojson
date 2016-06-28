@@ -2,13 +2,14 @@
   "id": 403819139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330785,43.812134,-99.330785,43.812134",
     "geom:latitude":43.812134,
     "geom:longitude":-99.330785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Beebe Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403819139,
-    "wof:lastmodified":1449054955,
+    "wof:lastmodified":1467082677,
     "wof:name":"Andy's Appliance & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.330785,43.812134,-99.330785,43.812134],
-  "geometry": {"coordinates":[-99.330785,43.812134],"type":"Point"}
+  "bbox": [
+    -99.330785,
+    43.812134,
+    -99.330785,
+    43.812134
+],
+  "geometry": {"coordinates":[-99.33078500000001,43.812134],"type":"Point"}
 }

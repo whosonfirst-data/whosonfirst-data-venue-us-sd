@@ -2,13 +2,14 @@
   "id": 387325445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703263,43.531778,-96.703263,43.531778",
     "geom:latitude":43.531778,
     "geom:longitude":-96.703263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 S Coates Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387325445,
-    "wof:lastmodified":1449057599,
+    "wof:lastmodified":1467082717,
     "wof:name":"Creative Homes",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.703263,43.531778,-96.703263,43.531778],
-  "geometry": {"coordinates":[-96.703263,43.531778],"type":"Point"}
+  "bbox": [
+    -96.703263,
+    43.531778,
+    -96.703263,
+    43.531778
+],
+  "geometry": {"coordinates":[-96.70326300000001,43.531778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387354927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109818,44.907906,-97.109818,44.907906",
     "geom:latitude":44.907906,
     "geom:longitude":-97.109818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 2nd St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387354927,
-    "wof:lastmodified":1449059491,
+    "wof:lastmodified":1467082754,
     "wof:name":"Peerless Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "garment"
     ]
 },
-  "bbox": [-97.109818,44.907906,-97.109818,44.907906],
+  "bbox": [
+    -97.109818,
+    44.907906,
+    -97.109818,
+    44.907906
+],
   "geometry": {"coordinates":[-97.109818,44.907906],"type":"Point"}
 }

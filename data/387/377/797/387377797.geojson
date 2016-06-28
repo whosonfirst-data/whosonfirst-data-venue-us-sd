@@ -2,13 +2,14 @@
   "id": 387377797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768181,43.642287,-96.768181,43.642287",
     "geom:latitude":43.642287,
     "geom:longitude":-96.768181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47213 Schweigers Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387377797,
-    "wof:lastmodified":1449057535,
+    "wof:lastmodified":1467082715,
     "wof:name":"Northern Truck Equipment Corp",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cap"
     ]
 },
-  "bbox": [-96.768181,43.642287,-96.768181,43.642287],
+  "bbox": [
+    -96.768181,
+    43.642287,
+    -96.768181,
+    43.642287
+],
   "geometry": {"coordinates":[-96.768181,43.642287],"type":"Point"}
 }

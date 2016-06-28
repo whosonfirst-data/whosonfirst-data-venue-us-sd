@@ -2,13 +2,14 @@
   "id": 371164513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.450142,44.57515,-98.450142,44.57515",
     "geom:latitude":44.57515,
     "geom:longitude":-98.450142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38860 194th St",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371164513,
-    "wof:lastmodified":1449049150,
+    "wof:lastmodified":1467082659,
     "wof:name":"Jeff Tollefson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.450142,44.57515,-98.450142,44.57515],
+  "bbox": [
+    -98.450142,
+    44.57515,
+    -98.450142,
+    44.57515
+],
   "geometry": {"coordinates":[-98.450142,44.57515],"type":"Point"}
 }

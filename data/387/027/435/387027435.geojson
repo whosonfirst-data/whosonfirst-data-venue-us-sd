@@ -2,13 +2,14 @@
   "id": 387027435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.356672,44.004006,-103.356672,44.004006",
     "geom:latitude":44.004006,
     "geom:longitude":-103.356672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23433 Sand Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387027435,
-    "wof:lastmodified":1449056811,
+    "wof:lastmodified":1467082701,
     "wof:name":"Haines Station LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-103.356672,44.004006,-103.356672,44.004006],
+  "bbox": [
+    -103.356672,
+    44.004006,
+    -103.356672,
+    44.004006
+],
   "geometry": {"coordinates":[-103.356672,44.004006],"type":"Point"}
 }

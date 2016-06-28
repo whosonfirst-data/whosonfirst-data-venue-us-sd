@@ -2,13 +2,14 @@
   "id": 386982587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720578,43.49759,-96.720578,43.49759",
     "geom:latitude":43.49759,
     "geom:longitude":-96.720578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 S Twin Ridge Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386982587,
-    "wof:lastmodified":1449028669,
+    "wof:lastmodified":1467082650,
     "wof:name":"Scotts Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.720578,43.49759,-96.720578,43.49759],
+  "bbox": [
+    -96.720578,
+    43.49759,
+    -96.720578,
+    43.49759
+],
   "geometry": {"coordinates":[-96.720578,43.49759],"type":"Point"}
 }

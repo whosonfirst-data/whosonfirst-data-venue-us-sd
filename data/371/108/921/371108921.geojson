@@ -2,13 +2,14 @@
   "id": 371108921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214194,44.3777,-98.214194,44.3777",
     "geom:latitude":44.3777,
     "geom:longitude":-98.214194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371108921,
-    "wof:lastmodified":1449049093,
+    "wof:lastmodified":1467082659,
     "wof:name":"Radio Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "utility"
     ]
 },
-  "bbox": [-98.214194,44.3777,-98.214194,44.3777],
-  "geometry": {"coordinates":[-98.214194,44.3777],"type":"Point"}
+  "bbox": [
+    -98.214194,
+    44.3777,
+    -98.214194,
+    44.3777
+],
+  "geometry": {"coordinates":[-98.21419400000001,44.3777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387844837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731123,43.553892,-96.731123,43.553892",
     "geom:latitude":43.553892,
     "geom:longitude":-96.731123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 W 4th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387844837,
-    "wof:lastmodified":1449057728,
+    "wof:lastmodified":1467082719,
     "wof:name":"Minnehaha County Sheriff Dept",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-96.731123,43.553892,-96.731123,43.553892],
+  "bbox": [
+    -96.731123,
+    43.553892,
+    -96.731123,
+    43.553892
+],
   "geometry": {"coordinates":[-96.731123,43.553892],"type":"Point"}
 }

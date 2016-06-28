@@ -2,13 +2,14 @@
   "id": 387684259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751089,43.510563,-96.751089,43.510563",
     "geom:latitude":43.510563,
     "geom:longitude":-96.751089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387684259,
-    "wof:lastmodified":1449057049,
+    "wof:lastmodified":1467082705,
     "wof:name":"First Avenue Trading",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-96.751089,43.510563,-96.751089,43.510563],
-  "geometry": {"coordinates":[-96.751089,43.510563],"type":"Point"}
+  "bbox": [
+    -96.751089,
+    43.510563,
+    -96.751089,
+    43.510563
+],
+  "geometry": {"coordinates":[-96.75108899999999,43.510563],"type":"Point"}
 }

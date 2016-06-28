@@ -2,13 +2,14 @@
   "id": 387515723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772381,43.505185,-96.772381,43.505185",
     "geom:latitude":43.505185,
     "geom:longitude":-96.772381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 W Technology Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387515723,
-    "wof:lastmodified":1449056988,
+    "wof:lastmodified":1467082704,
     "wof:name":"M S Society Dakota Chapter",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-96.772381,43.505185,-96.772381,43.505185],
+  "bbox": [
+    -96.772381,
+    43.505185,
+    -96.772381,
+    43.505185
+],
   "geometry": {"coordinates":[-96.772381,43.505185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387217247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758698,43.519854,-96.758698,43.519854",
     "geom:latitude":43.519854,
     "geom:longitude":-96.758698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 S Garfield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387217247,
-    "wof:lastmodified":1449059690,
+    "wof:lastmodified":1467082758,
     "wof:name":"Capital Planning Svc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.758698,43.519854,-96.758698,43.519854],
+  "bbox": [
+    -96.758698,
+    43.519854,
+    -96.758698,
+    43.519854
+],
   "geometry": {"coordinates":[-96.758698,43.519854],"type":"Point"}
 }

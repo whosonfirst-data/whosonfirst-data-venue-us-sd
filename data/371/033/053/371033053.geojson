@@ -2,13 +2,14 @@
   "id": 371033053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.405983,43.423772,-98.405983,43.423772",
     "geom:latitude":43.423772,
     "geom:longitude":-98.405983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371033053,
-    "wof:lastmodified":1449049258,
+    "wof:lastmodified":1467082661,
     "wof:name":"Corsica Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.405983,43.423772,-98.405983,43.423772],
-  "geometry": {"coordinates":[-98.405983,43.423772],"type":"Point"}
+  "bbox": [
+    -98.405983,
+    43.423772,
+    -98.405983,
+    43.423772
+],
+  "geometry": {"coordinates":[-98.40598300000001,43.423772],"type":"Point"}
 }

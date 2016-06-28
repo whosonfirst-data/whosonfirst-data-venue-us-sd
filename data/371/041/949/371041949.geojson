@@ -2,13 +2,14 @@
   "id": 371041949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.421752,43.885973,-103.421752,43.885973",
     "geom:latitude":43.885973,
     "geom:longitude":-103.421752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Old Cemetery Rd",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371041949,
-    "wof:lastmodified":1449049387,
+    "wof:lastmodified":1467082663,
     "wof:name":"Rushmore Express",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.421752,43.885973,-103.421752,43.885973],
+  "bbox": [
+    -103.421752,
+    43.885973,
+    -103.421752,
+    43.885973
+],
   "geometry": {"coordinates":[-103.421752,43.885973],"type":"Point"}
 }

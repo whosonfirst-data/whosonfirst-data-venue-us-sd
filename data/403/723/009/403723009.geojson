@@ -2,13 +2,14 @@
   "id": 403723009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.423251,43.238726,-99.423251,43.238726",
     "geom:latitude":43.238726,
     "geom:longitude":-99.423251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Logan Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403723009,
-    "wof:lastmodified":1449055425,
+    "wof:lastmodified":1467082681,
     "wof:name":"Rod Fortuna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-99.423251,43.238726,-99.423251,43.238726],
-  "geometry": {"coordinates":[-99.423251,43.238726],"type":"Point"}
+  "bbox": [
+    -99.423251,
+    43.238726,
+    -99.423251,
+    43.238726
+],
+  "geometry": {"coordinates":[-99.42325099999999,43.238726],"type":"Point"}
 }

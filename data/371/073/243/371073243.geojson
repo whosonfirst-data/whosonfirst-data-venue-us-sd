@@ -2,13 +2,14 @@
   "id": 371073243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756955,43.544029,-96.756955,43.544029",
     "geom:latitude":43.544029,
     "geom:longitude":-96.756955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371073243,
-    "wof:lastmodified":1449049162,
+    "wof:lastmodified":1467082660,
     "wof:name":"Robson True Value Hardware",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.756955,43.544029,-96.756955,43.544029],
+  "bbox": [
+    -96.756955,
+    43.544029,
+    -96.756955,
+    43.544029
+],
   "geometry": {"coordinates":[-96.756955,43.544029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387769579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.236558,44.050231,-103.236558,44.050231",
     "geom:latitude":44.050231,
     "geom:longitude":-103.236558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387769579,
-    "wof:lastmodified":1449057364,
+    "wof:lastmodified":1467082712,
     "wof:name":"Lazy J R V Park & Kampground",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trailer"
     ]
 },
-  "bbox": [-103.236558,44.050231,-103.236558,44.050231],
+  "bbox": [
+    -103.236558,
+    44.050231,
+    -103.236558,
+    44.050231
+],
   "geometry": {"coordinates":[-103.236558,44.050231],"type":"Point"}
 }

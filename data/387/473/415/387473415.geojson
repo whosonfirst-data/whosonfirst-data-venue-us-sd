@@ -2,13 +2,14 @@
   "id": 387473415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947562,44.355036,-96.947562,44.355036",
     "geom:latitude":44.355036,
     "geom:longitude":-96.947562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46306 209th St",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387473415,
-    "wof:lastmodified":1449056892,
+    "wof:lastmodified":1467082702,
     "wof:name":"Edman Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.947562,44.355036,-96.947562,44.355036],
+  "bbox": [
+    -96.947562,
+    44.355036,
+    -96.947562,
+    44.355036
+],
   "geometry": {"coordinates":[-96.947562,44.355036],"type":"Point"}
 }

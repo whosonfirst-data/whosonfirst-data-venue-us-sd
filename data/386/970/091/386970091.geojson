@@ -2,13 +2,14 @@
   "id": 386970091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38879,43.71953,-97.38879,43.71953",
     "geom:latitude":43.71953,
     "geom:longitude":-97.38879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 S Nebraska St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386970091,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1467082655,
     "wof:name":"Sturdevant's Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.38879,43.71953,-97.38879,43.71953],
+  "bbox": [
+    -97.38879,
+    43.71953,
+    -97.38879,
+    43.71953
+],
   "geometry": {"coordinates":[-97.38879,43.71953],"type":"Point"}
 }

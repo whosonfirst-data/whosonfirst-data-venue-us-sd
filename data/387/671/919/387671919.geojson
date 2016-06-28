@@ -2,13 +2,14 @@
   "id": 387671919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.156882,44.067484,-103.156882,44.067484",
     "geom:latitude":44.067484,
     "geom:longitude":-103.156882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3550 Twilight Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387671919,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1467082704,
     "wof:name":"A & H Truck Salvage Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-103.156882,44.067484,-103.156882,44.067484],
+  "bbox": [
+    -103.156882,
+    44.067484,
+    -103.156882,
+    44.067484
+],
   "geometry": {"coordinates":[-103.156882,44.067484],"type":"Point"}
 }

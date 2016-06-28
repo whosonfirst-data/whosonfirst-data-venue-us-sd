@@ -2,13 +2,14 @@
   "id": 387899773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709702,43.810427,-96.709702,43.810427",
     "geom:latitude":43.810427,
     "geom:longitude":-96.709702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24654 475th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387899773,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1467082759,
     "wof:name":"Shooter's Alley",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.709702,43.810427,-96.709702,43.810427],
-  "geometry": {"coordinates":[-96.709702,43.810427],"type":"Point"}
+  "bbox": [
+    -96.709702,
+    43.810427,
+    -96.709702,
+    43.810427
+],
+  "geometry": {"coordinates":[-96.70970199999999,43.810427],"type":"Point"}
 }

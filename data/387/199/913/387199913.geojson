@@ -2,13 +2,14 @@
   "id": 387199913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714821,43.645278,-96.714821,43.645278",
     "geom:latitude":43.645278,
     "geom:longitude":-96.714821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47482 258th St",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387199913,
-    "wof:lastmodified":1449056500,
+    "wof:lastmodified":1467082694,
     "wof:name":"Responsible Fluid Power Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-96.714821,43.645278,-96.714821,43.645278],
+  "bbox": [
+    -96.714821,
+    43.645278,
+    -96.714821,
+    43.645278
+],
   "geometry": {"coordinates":[-96.714821,43.645278],"type":"Point"}
 }

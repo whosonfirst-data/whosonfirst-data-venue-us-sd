@@ -2,13 +2,14 @@
   "id": 387603343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.412518,44.775097,-97.412518,44.775097",
     "geom:latitude":44.775097,
     "geom:longitude":-97.412518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43989 180th St",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387603343,
-    "wof:lastmodified":1449059340,
+    "wof:lastmodified":1467082751,
     "wof:name":"Bryce Gjerde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.412518,44.775097,-97.412518,44.775097],
-  "geometry": {"coordinates":[-97.412518,44.775097],"type":"Point"}
+  "bbox": [
+    -97.412518,
+    44.775097,
+    -97.412518,
+    44.775097
+],
+  "geometry": {"coordinates":[-97.41251800000001,44.775097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387226763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11634,44.899629,-97.11634,44.899629",
     "geom:latitude":44.899629,
     "geom:longitude":-97.11634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 1st Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387226763,
-    "wof:lastmodified":1449058873,
+    "wof:lastmodified":1467082742,
     "wof:name":"Austin Hinderaker Hopper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.11634,44.899629,-97.11634,44.899629],
-  "geometry": {"coordinates":[-97.11634,44.899629],"type":"Point"}
+  "bbox": [
+    -97.11634,
+    44.899629,
+    -97.11634,
+    44.899629
+],
+  "geometry": {"coordinates":[-97.11633999999999,44.899629],"type":"Point"}
 }

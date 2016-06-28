@@ -2,13 +2,14 @@
   "id": 387375537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.281257,44.05187,-103.281257,44.05187",
     "geom:latitude":44.05187,
     "geom:longitude":-103.281257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3526 Park Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387375537,
-    "wof:lastmodified":1449056251,
+    "wof:lastmodified":1467082689,
     "wof:name":"Rapid City Wns Bowl Associaton",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-103.281257,44.05187,-103.281257,44.05187],
+  "bbox": [
+    -103.281257,
+    44.05187,
+    -103.281257,
+    44.05187
+],
   "geometry": {"coordinates":[-103.281257,44.05187],"type":"Point"}
 }

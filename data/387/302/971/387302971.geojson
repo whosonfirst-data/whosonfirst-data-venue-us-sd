@@ -2,13 +2,14 @@
   "id": 387302971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.82947,43.298951,-103.82947,43.298951",
     "geom:latitude":43.298951,
     "geom:longitude":-103.82947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 5th Ave",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387302971,
-    "wof:lastmodified":1449057382,
+    "wof:lastmodified":1467082712,
     "wof:name":"Senior Citizens Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-103.82947,43.298951,-103.82947,43.298951],
+  "bbox": [
+    -103.82947,
+    43.298951,
+    -103.82947,
+    43.298951
+],
   "geometry": {"coordinates":[-103.82947,43.298951],"type":"Point"}
 }

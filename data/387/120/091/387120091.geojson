@@ -2,13 +2,14 @@
   "id": 387120091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.16082,45.934883,-102.16082,45.934883",
     "geom:latitude":45.934883,
     "geom:longitude":-102.16082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 10th St W",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387120091,
-    "wof:lastmodified":1449059376,
+    "wof:lastmodified":1467082752,
     "wof:name":"Cut Som Graphics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "masonry"
     ]
 },
-  "bbox": [-102.16082,45.934883,-102.16082,45.934883],
+  "bbox": [
+    -102.16082,
+    45.934883,
+    -102.16082,
+    45.934883
+],
   "geometry": {"coordinates":[-102.16082,45.934883],"type":"Point"}
 }

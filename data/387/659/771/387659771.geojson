@@ -2,13 +2,14 @@
   "id": 387659771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.444684,43.774404,-98.444684,43.774404",
     "geom:latitude":43.774404,
     "geom:longitude":-98.444684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38859 249th St",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387659771,
-    "wof:lastmodified":1449056516,
+    "wof:lastmodified":1467082695,
     "wof:name":"Marketing Concepts Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.444684,43.774404,-98.444684,43.774404],
+  "bbox": [
+    -98.444684,
+    43.774404,
+    -98.444684,
+    43.774404
+],
   "geometry": {"coordinates":[-98.444684,43.774404],"type":"Point"}
 }

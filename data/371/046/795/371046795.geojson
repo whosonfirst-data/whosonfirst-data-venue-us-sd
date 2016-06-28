@@ -2,13 +2,14 @@
   "id": 371046795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.148899,44.068084,-103.148899,44.068084",
     "geom:latitude":44.068084,
     "geom:longitude":-103.148899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Zinnia",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371046795,
-    "wof:lastmodified":1449049635,
+    "wof:lastmodified":1467082666,
     "wof:name":"Paint & More",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.148899,44.068084,-103.148899,44.068084],
+  "bbox": [
+    -103.148899,
+    44.068084,
+    -103.148899,
+    44.068084
+],
   "geometry": {"coordinates":[-103.148899,44.068084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387784259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.733459,43.175108,-101.733459,43.175108",
     "geom:latitude":43.175108,
     "geom:longitude":-101.733459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387784259,
-    "wof:lastmodified":1449058648,
+    "wof:lastmodified":1467082738,
     "wof:name":"Bennett County Jr-Sr High Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.733459,43.175108,-101.733459,43.175108],
+  "bbox": [
+    -101.733459,
+    43.175108,
+    -101.733459,
+    43.175108
+],
   "geometry": {"coordinates":[-101.733459,43.175108],"type":"Point"}
 }

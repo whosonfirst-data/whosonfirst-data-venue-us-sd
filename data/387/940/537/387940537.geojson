@@ -2,13 +2,14 @@
   "id": 387940537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.334054,43.79865,-99.334054,43.79865",
     "geom:latitude":43.79865,
     "geom:longitude":-99.334054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Terrace Rd",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387940537,
-    "wof:lastmodified":1449057032,
+    "wof:lastmodified":1467082705,
     "wof:name":"Mark Pazour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-99.334054,43.79865,-99.334054,43.79865],
-  "geometry": {"coordinates":[-99.334054,43.79865],"type":"Point"}
+  "bbox": [
+    -99.334054,
+    43.79865,
+    -99.334054,
+    43.79865
+],
+  "geometry": {"coordinates":[-99.33405399999999,43.79865],"type":"Point"}
 }

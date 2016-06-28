@@ -2,13 +2,14 @@
   "id": 371148607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671554,43.542096,-96.671554,43.542096",
     "geom:latitude":43.542096,
     "geom:longitude":-96.671554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371148607,
-    "wof:lastmodified":1449049959,
+    "wof:lastmodified":1467082671,
     "wof:name":"Dollar Etc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.671554,43.542096,-96.671554,43.542096],
+  "bbox": [
+    -96.671554,
+    43.542096,
+    -96.671554,
+    43.542096
+],
   "geometry": {"coordinates":[-96.671554,43.542096],"type":"Point"}
 }

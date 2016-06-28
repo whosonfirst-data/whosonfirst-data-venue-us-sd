@@ -2,13 +2,14 @@
   "id": 387772459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.392263,43.848518,-97.392263,43.848518",
     "geom:latitude":43.848518,
     "geom:longitude":-97.392263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44013 244th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387772459,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1467082721,
     "wof:name":"Elm Grove Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.392263,43.848518,-97.392263,43.848518],
+  "bbox": [
+    -97.392263,
+    43.848518,
+    -97.392263,
+    43.848518
+],
   "geometry": {"coordinates":[-97.392263,43.848518],"type":"Point"}
 }

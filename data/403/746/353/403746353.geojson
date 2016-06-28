@@ -2,13 +2,14 @@
   "id": 403746353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.304965,44.143121,-103.304965,44.143121",
     "geom:latitude":44.143121,
     "geom:longitude":-103.304965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6011 Ackerman Ln",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":403746353,
-    "wof:lastmodified":1449054614,
+    "wof:lastmodified":1467082674,
     "wof:name":"West River Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parts"
     ]
 },
-  "bbox": [-103.304965,44.143121,-103.304965,44.143121],
+  "bbox": [
+    -103.304965,
+    44.143121,
+    -103.304965,
+    44.143121
+],
   "geometry": {"coordinates":[-103.304965,44.143121],"type":"Point"}
 }

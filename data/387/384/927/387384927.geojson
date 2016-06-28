@@ -2,13 +2,14 @@
   "id": 387384927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.895845,44.498486,-103.895845,44.498486",
     "geom:latitude":44.498486,
     "geom:longitude":-103.895845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Cottonwood Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387384927,
-    "wof:lastmodified":1449056583,
+    "wof:lastmodified":1467082696,
     "wof:name":"Laughlin Locum Tenens Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.895845,44.498486,-103.895845,44.498486],
-  "geometry": {"coordinates":[-103.895845,44.498486],"type":"Point"}
+  "bbox": [
+    -103.895845,
+    44.498486,
+    -103.895845,
+    44.498486
+],
+  "geometry": {"coordinates":[-103.89584499999999,44.498486],"type":"Point"}
 }

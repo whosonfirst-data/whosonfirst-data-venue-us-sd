@@ -2,13 +2,14 @@
   "id": 387052401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.352048,43.965267,-103.352048,43.965267",
     "geom:latitude":43.965267,
     "geom:longitude":-103.352048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13536 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387052401,
-    "wof:lastmodified":1449057829,
+    "wof:lastmodified":1467082721,
     "wof:name":"Baker Timber Products Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "business"
     ]
 },
-  "bbox": [-103.352048,43.965267,-103.352048,43.965267],
+  "bbox": [
+    -103.352048,
+    43.965267,
+    -103.352048,
+    43.965267
+],
   "geometry": {"coordinates":[-103.352048,43.965267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386951403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.376695,43.938666,-103.376695,43.938666",
     "geom:latitude":43.938666,
     "geom:longitude":-103.376695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23910 Sun Country Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386951403,
-    "wof:lastmodified":1449028634,
+    "wof:lastmodified":1467082649,
     "wof:name":"Capture Concepts Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advertising"
     ]
 },
-  "bbox": [-103.376695,43.938666,-103.376695,43.938666],
+  "bbox": [
+    -103.376695,
+    43.938666,
+    -103.376695,
+    43.938666
+],
   "geometry": {"coordinates":[-103.376695,43.938666],"type":"Point"}
 }

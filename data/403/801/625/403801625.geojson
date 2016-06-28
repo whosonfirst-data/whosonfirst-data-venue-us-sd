@@ -2,13 +2,14 @@
   "id": 403801625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223761,44.044601,-103.223761,44.044601",
     "geom:latitude":44.044601,
     "geom:longitude":-103.223761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Alta Vista Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403801625,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1467082683,
     "wof:name":"Weidenbach Brothers Cnstr",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.223761,44.044601,-103.223761,44.044601],
+  "bbox": [
+    -103.223761,
+    44.044601,
+    -103.223761,
+    44.044601
+],
   "geometry": {"coordinates":[-103.223761,44.044601],"type":"Point"}
 }

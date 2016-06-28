@@ -2,13 +2,14 @@
   "id": 387576393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132749,44.90078,-97.132749,44.90078",
     "geom:latitude":44.90078,
     "geom:longitude":-97.132749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 11th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387576393,
-    "wof:lastmodified":1449059030,
+    "wof:lastmodified":1467082745,
     "wof:name":"Kahles Guns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-97.132749,44.90078,-97.132749,44.90078],
+  "bbox": [
+    -97.132749,
+    44.90078,
+    -97.132749,
+    44.90078
+],
   "geometry": {"coordinates":[-97.132749,44.90078],"type":"Point"}
 }

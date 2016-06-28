@@ -2,13 +2,14 @@
   "id": 387472331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.779946,44.358487,-103.779946,44.358487",
     "geom:latitude":44.358487,
     "geom:longitude":-103.779946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Glendale Dr",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387472331,
-    "wof:lastmodified":1449056407,
+    "wof:lastmodified":1467082693,
     "wof:name":"Reggie's Auto Body & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.779946,44.358487,-103.779946,44.358487],
+  "bbox": [
+    -103.779946,
+    44.358487,
+    -103.779946,
+    44.358487
+],
   "geometry": {"coordinates":[-103.779946,44.358487],"type":"Point"}
 }

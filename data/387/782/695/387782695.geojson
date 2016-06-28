@@ -2,13 +2,14 @@
   "id": 387782695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.227233,44.360239,-98.227233,44.360239",
     "geom:latitude":44.360239,
     "geom:longitude":-98.227233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Nevada Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387782695,
-    "wof:lastmodified":1449056098,
+    "wof:lastmodified":1467082686,
     "wof:name":"Huron Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-98.227233,44.360239,-98.227233,44.360239],
+  "bbox": [
+    -98.227233,
+    44.360239,
+    -98.227233,
+    44.360239
+],
   "geometry": {"coordinates":[-98.227233,44.360239],"type":"Point"}
 }

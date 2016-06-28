@@ -2,13 +2,14 @@
   "id": 387597379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.337387,43.805162,-99.337387,43.805162",
     "geom:latitude":43.805162,
     "geom:longitude":-99.337387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W 11th Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387597379,
-    "wof:lastmodified":1449059872,
+    "wof:lastmodified":1467082762,
     "wof:name":"Millers Crane & Dragline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dredging"
     ]
 },
-  "bbox": [-99.337387,43.805162,-99.337387,43.805162],
-  "geometry": {"coordinates":[-99.337387,43.805162],"type":"Point"}
+  "bbox": [
+    -99.337387,
+    43.805162,
+    -99.337387,
+    43.805162
+],
+  "geometry": {"coordinates":[-99.33738700000001,43.805162],"type":"Point"}
 }

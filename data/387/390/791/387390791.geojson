@@ -2,13 +2,14 @@
   "id": 387390791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.886447,44.519821,-103.886447,44.519821",
     "geom:latitude":44.519821,
     "geom:longitude":-103.886447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 E Fairground Loop",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387390791,
-    "wof:lastmodified":1449059959,
+    "wof:lastmodified":1467082764,
     "wof:name":"Exit 8 Trailer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trailer"
     ]
 },
-  "bbox": [-103.886447,44.519821,-103.886447,44.519821],
+  "bbox": [
+    -103.886447,
+    44.519821,
+    -103.886447,
+    44.519821
+],
   "geometry": {"coordinates":[-103.886447,44.519821],"type":"Point"}
 }

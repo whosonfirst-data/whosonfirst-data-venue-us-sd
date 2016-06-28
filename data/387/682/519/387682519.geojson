@@ -2,13 +2,14 @@
   "id": 387682519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230483,44.081544,-103.230483,44.081544",
     "geom:latitude":44.081544,
     "geom:longitude":-103.230483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387682519,
-    "wof:lastmodified":1449056764,
+    "wof:lastmodified":1467082700,
     "wof:name":"Who's Hobby House",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.230483,44.081544,-103.230483,44.081544],
-  "geometry": {"coordinates":[-103.230483,44.081544],"type":"Point"}
+  "bbox": [
+    -103.230483,
+    44.081544,
+    -103.230483,
+    44.081544
+],
+  "geometry": {"coordinates":[-103.23048300000001,44.081544],"type":"Point"}
 }

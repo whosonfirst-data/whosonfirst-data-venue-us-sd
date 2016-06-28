@@ -2,13 +2,14 @@
   "id": 386965295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.772344,44.110846,-102.772344,44.110846",
     "geom:latitude":44.110846,
     "geom:longitude":-102.772344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16380 227th St",
     "sg:city":"New Underwood",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386965295,
-    "wof:lastmodified":1449028842,
+    "wof:lastmodified":1467082653,
     "wof:name":"Hotsy Equipment Sales & Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-102.772344,44.110846,-102.772344,44.110846],
+  "bbox": [
+    -102.772344,
+    44.110846,
+    -102.772344,
+    44.110846
+],
   "geometry": {"coordinates":[-102.772344,44.110846],"type":"Point"}
 }

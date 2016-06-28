@@ -2,13 +2,14 @@
   "id": 403814537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936774,43.804719,-97.936774,43.804719",
     "geom:latitude":43.804719,
     "geom:longitude":-97.936774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41358 247th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403814537,
-    "wof:lastmodified":1449054876,
+    "wof:lastmodified":1467082676,
     "wof:name":"Ralph Mahoney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.936774,43.804719,-97.936774,43.804719],
+  "bbox": [
+    -97.936774,
+    43.804719,
+    -97.936774,
+    43.804719
+],
   "geometry": {"coordinates":[-97.936774,43.804719],"type":"Point"}
 }

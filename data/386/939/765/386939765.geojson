@@ -2,13 +2,14 @@
   "id": 386939765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136429,43.401515,-97.136429,43.401515",
     "geom:latitude":43.401515,
     "geom:longitude":-97.136429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 N Main Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386939765,
-    "wof:lastmodified":1449028711,
+    "wof:lastmodified":1467082651,
     "wof:name":"Schoeneman Brothers Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-97.136429,43.401515,-97.136429,43.401515],
-  "geometry": {"coordinates":[-97.136429,43.401515],"type":"Point"}
+  "bbox": [
+    -97.136429,
+    43.401515,
+    -97.136429,
+    43.401515
+],
+  "geometry": {"coordinates":[-97.13642900000001,43.401515],"type":"Point"}
 }

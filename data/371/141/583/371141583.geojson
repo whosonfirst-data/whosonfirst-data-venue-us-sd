@@ -2,13 +2,14 @@
   "id": 371141583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.032259,43.701914,-98.032259,43.701914",
     "geom:latitude":43.701914,
     "geom:longitude":-98.032259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 University Blvd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371141583,
-    "wof:lastmodified":1449049376,
+    "wof:lastmodified":1467082663,
     "wof:name":"Federated Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.032259,43.701914,-98.032259,43.701914],
+  "bbox": [
+    -98.032259,
+    43.701914,
+    -98.032259,
+    43.701914
+],
   "geometry": {"coordinates":[-98.032259,43.701914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387206679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120981,43.174709,-97.120981,43.174709",
     "geom:latitude":43.174709,
     "geom:longitude":-97.120981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29066 454th Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387206679,
-    "wof:lastmodified":1449058696,
+    "wof:lastmodified":1467082739,
     "wof:name":"Ronald D Larsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.120981,43.174709,-97.120981,43.174709],
+  "bbox": [
+    -97.120981,
+    43.174709,
+    -97.120981,
+    43.174709
+],
   "geometry": {"coordinates":[-97.120981,43.174709],"type":"Point"}
 }

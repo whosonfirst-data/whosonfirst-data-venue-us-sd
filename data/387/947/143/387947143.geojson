@@ -2,13 +2,14 @@
   "id": 387947143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729695,43.541503,-96.729695,43.541503",
     "geom:latitude":43.541503,
     "geom:longitude":-96.729695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W 14th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387947143,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1467082742,
     "wof:name":"Davenport Evans Hurwitz Smith",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "law"
     ]
 },
-  "bbox": [-96.729695,43.541503,-96.729695,43.541503],
-  "geometry": {"coordinates":[-96.729695,43.541503],"type":"Point"}
+  "bbox": [
+    -96.729695,
+    43.541503,
+    -96.729695,
+    43.541503
+],
+  "geometry": {"coordinates":[-96.72969500000001,43.541503],"type":"Point"}
 }

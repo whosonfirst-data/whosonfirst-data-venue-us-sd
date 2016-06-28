@@ -2,13 +2,14 @@
   "id": 387098247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.188324,44.913698,-97.188324,44.913698",
     "geom:latitude":44.913698,
     "geom:longitude":-97.188324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 11th Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387098247,
-    "wof:lastmodified":1449059513,
+    "wof:lastmodified":1467082755,
     "wof:name":"Birtch Tree Cellar Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.188324,44.913698,-97.188324,44.913698],
-  "geometry": {"coordinates":[-97.188324,44.913698],"type":"Point"}
+  "bbox": [
+    -97.188324,
+    44.913698,
+    -97.188324,
+    44.913698
+],
+  "geometry": {"coordinates":[-97.18832399999999,44.913698],"type":"Point"}
 }

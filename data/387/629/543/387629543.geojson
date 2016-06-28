@@ -2,13 +2,14 @@
   "id": 387629543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.673563,43.522003,-96.673563,43.522003",
     "geom:latitude":43.522003,
     "geom:longitude":-96.673563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4305 E 33rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387629543,
-    "wof:lastmodified":1449059017,
+    "wof:lastmodified":1467082745,
     "wof:name":"Southstern Bhvioral Heatlhcare",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-96.673563,43.522003,-96.673563,43.522003],
+  "bbox": [
+    -96.673563,
+    43.522003,
+    -96.673563,
+    43.522003
+],
   "geometry": {"coordinates":[-96.673563,43.522003],"type":"Point"}
 }

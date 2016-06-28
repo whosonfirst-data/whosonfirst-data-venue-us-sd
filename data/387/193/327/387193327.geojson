@@ -2,13 +2,14 @@
   "id": 387193327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.517177,45.430622,-98.517177,45.430622",
     "geom:latitude":45.430622,
     "geom:longitude":-98.517177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38566 135th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387193327,
-    "wof:lastmodified":1449056719,
+    "wof:lastmodified":1467082699,
     "wof:name":"Bob Ross",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.517177,45.430622,-98.517177,45.430622],
+  "bbox": [
+    -98.517177,
+    45.430622,
+    -98.517177,
+    45.430622
+],
   "geometry": {"coordinates":[-98.517177,45.430622],"type":"Point"}
 }

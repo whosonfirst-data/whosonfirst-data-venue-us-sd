@@ -2,13 +2,14 @@
   "id": 387140641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.790913,44.000215,-97.790913,44.000215",
     "geom:latitude":44.000215,
     "geom:longitude":-97.790913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23304 421st Ave",
     "sg:city":"Fedora",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387140641,
-    "wof:lastmodified":1449056654,
+    "wof:lastmodified":1467082698,
     "wof:name":"Larson's Feed & Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-97.790913,44.000215,-97.790913,44.000215],
+  "bbox": [
+    -97.790913,
+    44.000215,
+    -97.790913,
+    44.000215
+],
   "geometry": {"coordinates":[-97.790913,44.000215],"type":"Point"}
 }

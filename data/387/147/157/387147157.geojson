@@ -2,13 +2,14 @@
   "id": 387147157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538205,43.16908,-97.538205,43.16908",
     "geom:latitude":43.16908,
     "geom:longitude":-97.538205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29074 433rd Ave",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387147157,
-    "wof:lastmodified":1449059500,
+    "wof:lastmodified":1467082755,
     "wof:name":"Donald Orth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.538205,43.16908,-97.538205,43.16908],
+  "bbox": [
+    -97.538205,
+    43.16908,
+    -97.538205,
+    43.16908
+],
   "geometry": {"coordinates":[-97.538205,43.16908],"type":"Point"}
 }

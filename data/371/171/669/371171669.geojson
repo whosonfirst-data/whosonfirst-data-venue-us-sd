@@ -2,13 +2,14 @@
   "id": 371171669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480355,43.440409,-103.480355,43.440409",
     "geom:latitude":43.440409,
     "geom:longitude":-103.480355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371171669,
-    "wof:lastmodified":1449050148,
+    "wof:lastmodified":1467082673,
     "wof:name":"Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-103.480355,43.440409,-103.480355,43.440409],
+  "bbox": [
+    -103.480355,
+    43.440409,
+    -103.480355,
+    43.440409
+],
   "geometry": {"coordinates":[-103.480355,43.440409],"type":"Point"}
 }

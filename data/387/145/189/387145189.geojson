@@ -2,13 +2,14 @@
   "id": 387145189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.843038,43.448468,-96.843038,43.448468",
     "geom:latitude":43.448468,
     "geom:longitude":-96.843038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Apple St",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387145189,
-    "wof:lastmodified":1449057261,
+    "wof:lastmodified":1467082710,
     "wof:name":"Kreative Kids Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.843038,43.448468,-96.843038,43.448468],
-  "geometry": {"coordinates":[-96.843038,43.448468],"type":"Point"}
+  "bbox": [
+    -96.843038,
+    43.448468,
+    -96.843038,
+    43.448468
+],
+  "geometry": {"coordinates":[-96.84303800000001,43.448468],"type":"Point"}
 }

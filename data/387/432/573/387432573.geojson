@@ -2,13 +2,14 @@
   "id": 387432573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.326213,44.356125,-100.326213,44.356125",
     "geom:latitude":44.356125,
     "geom:longitude":-100.326213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 E Park St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387432573,
-    "wof:lastmodified":1449056047,
+    "wof:lastmodified":1467082685,
     "wof:name":"Alamo Excavating & Trenching",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-100.326213,44.356125,-100.326213,44.356125],
+  "bbox": [
+    -100.326213,
+    44.356125,
+    -100.326213,
+    44.356125
+],
   "geometry": {"coordinates":[-100.326213,44.356125],"type":"Point"}
 }

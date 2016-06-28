@@ -2,13 +2,14 @@
   "id": 387898941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.204603,44.348644,-98.204603,44.348644",
     "geom:latitude":44.348644,
     "geom:longitude":-98.204603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1530 Frank Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387898941,
-    "wof:lastmodified":1449056036,
+    "wof:lastmodified":1467082685,
     "wof:name":"Bethesda Church Of Huron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-98.204603,44.348644,-98.204603,44.348644],
-  "geometry": {"coordinates":[-98.204603,44.348644],"type":"Point"}
+  "bbox": [
+    -98.204603,
+    44.348644,
+    -98.204603,
+    44.348644
+],
+  "geometry": {"coordinates":[-98.20460300000001,44.348644],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387174353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.479276,43.440602,-103.479276,43.440602",
     "geom:latitude":43.440602,
     "geom:longitude":-103.479276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 Battle Mountain Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387174353,
-    "wof:lastmodified":1449056622,
+    "wof:lastmodified":1467082697,
     "wof:name":"Amoco Fruit Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.479276,43.440602,-103.479276,43.440602],
+  "bbox": [
+    -103.479276,
+    43.440602,
+    -103.479276,
+    43.440602
+],
   "geometry": {"coordinates":[-103.479276,43.440602],"type":"Point"}
 }

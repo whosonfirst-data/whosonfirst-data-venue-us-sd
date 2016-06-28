@@ -2,13 +2,14 @@
   "id": 371125919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.369124,42.923386,-97.369124,42.923386",
     "geom:latitude":42.923386,
     "geom:longitude":-97.369124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 E 39th St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371125919,
-    "wof:lastmodified":1449050098,
+    "wof:lastmodified":1467082673,
     "wof:name":"L & S Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.369124,42.923386,-97.369124,42.923386],
+  "bbox": [
+    -97.369124,
+    42.923386,
+    -97.369124,
+    42.923386
+],
   "geometry": {"coordinates":[-97.369124,42.923386],"type":"Point"}
 }

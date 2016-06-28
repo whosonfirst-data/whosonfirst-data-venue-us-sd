@@ -2,13 +2,14 @@
   "id": 387536635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.458665,45.291406,-96.458665,45.291406",
     "geom:latitude":45.291406,
     "geom:longitude":-96.458665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Main St",
     "sg:city":"Brandt",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387536635,
-    "wof:lastmodified":1449058374,
+    "wof:lastmodified":1467082732,
     "wof:name":"Brandt Repair Gas Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-96.458665,45.291406,-96.458665,45.291406],
+  "bbox": [
+    -96.458665,
+    45.291406,
+    -96.458665,
+    45.291406
+],
   "geometry": {"coordinates":[-96.458665,45.291406],"type":"Point"}
 }

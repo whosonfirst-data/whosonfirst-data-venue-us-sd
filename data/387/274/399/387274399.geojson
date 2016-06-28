@@ -2,13 +2,14 @@
   "id": 387274399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.618867,45.371657,-98.618867,45.371657",
     "geom:latitude":45.371657,
     "geom:longitude":-98.618867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13912 379th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387274399,
-    "wof:lastmodified":1449056572,
+    "wof:lastmodified":1467082696,
     "wof:name":"Gaylon Anderson",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.618867,45.371657,-98.618867,45.371657],
-  "geometry": {"coordinates":[-98.618867,45.371657],"type":"Point"}
+  "bbox": [
+    -98.618867,
+    45.371657,
+    -98.618867,
+    45.371657
+],
+  "geometry": {"coordinates":[-98.61886699999999,45.371657],"type":"Point"}
 }

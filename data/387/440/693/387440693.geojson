@@ -2,13 +2,14 @@
   "id": 387440693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.512117,43.583136,-96.512117,43.583136",
     "geom:latitude":43.583136,
     "geom:longitude":-96.512117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26228 485th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387440693,
-    "wof:lastmodified":1449057443,
+    "wof:lastmodified":1467082713,
     "wof:name":"Warne Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.512117,43.583136,-96.512117,43.583136],
+  "bbox": [
+    -96.512117,
+    43.583136,
+    -96.512117,
+    43.583136
+],
   "geometry": {"coordinates":[-96.512117,43.583136],"type":"Point"}
 }

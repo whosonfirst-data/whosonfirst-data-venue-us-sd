@@ -2,13 +2,14 @@
   "id": 387169079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727534,43.433622,-96.727534,43.433622",
     "geom:latitude":43.433622,
     "geom:longitude":-96.727534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27287 State Hwy 115",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387169079,
-    "wof:lastmodified":1449058452,
+    "wof:lastmodified":1467082734,
     "wof:name":"Hehn Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.727534,43.433622,-96.727534,43.433622],
-  "geometry": {"coordinates":[-96.727534,43.433622],"type":"Point"}
+  "bbox": [
+    -96.727534,
+    43.433622,
+    -96.727534,
+    43.433622
+],
+  "geometry": {"coordinates":[-96.72753400000001,43.433622],"type":"Point"}
 }

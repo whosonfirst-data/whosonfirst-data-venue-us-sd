@@ -2,13 +2,14 @@
   "id": 387030113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.37449,44.426529,-97.37449,44.426529",
     "geom:latitude":44.426529,
     "geom:longitude":-97.37449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44190 204th St",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387030113,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"W Odegaard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-97.37449,44.426529,-97.37449,44.426529],
-  "geometry": {"coordinates":[-97.37449,44.426529],"type":"Point"}
+  "bbox": [
+    -97.37449,
+    44.426529,
+    -97.37449,
+    44.426529
+],
+  "geometry": {"coordinates":[-97.37448999999999,44.426529],"type":"Point"}
 }

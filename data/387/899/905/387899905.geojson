@@ -2,13 +2,14 @@
   "id": 387899905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77571,43.646547,-96.77571,43.646547",
     "geom:latitude":43.646547,
     "geom:longitude":-96.77571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25753 Cottonwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387899905,
-    "wof:lastmodified":1449059728,
+    "wof:lastmodified":1467082759,
     "wof:name":"James Roofing",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.77571,43.646547,-96.77571,43.646547],
+  "bbox": [
+    -96.77571,
+    43.646547,
+    -96.77571,
+    43.646547
+],
   "geometry": {"coordinates":[-96.77571,43.646547],"type":"Point"}
 }

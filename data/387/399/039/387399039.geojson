@@ -2,13 +2,14 @@
   "id": 387399039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.629648,43.025708,-96.629648,43.025708",
     "geom:latitude":43.025708,
     "geom:longitude":-96.629648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Dakota St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387399039,
-    "wof:lastmodified":1449056774,
+    "wof:lastmodified":1467082700,
     "wof:name":"Alcester Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.629648,43.025708,-96.629648,43.025708],
+  "bbox": [
+    -96.629648,
+    43.025708,
+    -96.629648,
+    43.025708
+],
   "geometry": {"coordinates":[-96.629648,43.025708],"type":"Point"}
 }

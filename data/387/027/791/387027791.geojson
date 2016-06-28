@@ -2,13 +2,14 @@
   "id": 387027791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.339693,44.19851,-103.339693,44.19851",
     "geom:latitude":44.19851,
     "geom:longitude":-103.339693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12209 Ruby Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387027791,
-    "wof:lastmodified":1449056810,
+    "wof:lastmodified":1467082701,
     "wof:name":"Fran Hatfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.339693,44.19851,-103.339693,44.19851],
+  "bbox": [
+    -103.339693,
+    44.19851,
+    -103.339693,
+    44.19851
+],
   "geometry": {"coordinates":[-103.339693,44.19851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403716835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.516948,44.412203,-103.516948,44.412203",
     "geom:latitude":44.412203,
     "geom:longitude":-103.516948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Willard St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403716835,
-    "wof:lastmodified":1449054813,
+    "wof:lastmodified":1467082676,
     "wof:name":"Locks By Bereny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repair"
     ]
 },
-  "bbox": [-103.516948,44.412203,-103.516948,44.412203],
+  "bbox": [
+    -103.516948,
+    44.412203,
+    -103.516948,
+    44.412203
+],
   "geometry": {"coordinates":[-103.516948,44.412203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387208981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.482585,43.438117,-103.482585,43.438117",
     "geom:latitude":43.438117,
     "geom:longitude":-103.482585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Almond St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387208981,
-    "wof:lastmodified":1449056555,
+    "wof:lastmodified":1467082696,
     "wof:name":"Crawford Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.482585,43.438117,-103.482585,43.438117],
+  "bbox": [
+    -103.482585,
+    43.438117,
+    -103.482585,
+    43.438117
+],
   "geometry": {"coordinates":[-103.482585,43.438117],"type":"Point"}
 }

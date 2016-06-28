@@ -2,13 +2,14 @@
   "id": 371172351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.638781,45.221253,-96.638781,45.221253",
     "geom:latitude":45.221253,
     "geom:longitude":-96.638781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Railway Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371172351,
-    "wof:lastmodified":1449049446,
+    "wof:lastmodified":1467082664,
     "wof:name":"S & N Livestock Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "machinery"
     ]
 },
-  "bbox": [-96.638781,45.221253,-96.638781,45.221253],
-  "geometry": {"coordinates":[-96.638781,45.221253],"type":"Point"}
+  "bbox": [
+    -96.638781,
+    45.221253,
+    -96.638781,
+    45.221253
+],
+  "geometry": {"coordinates":[-96.63878099999999,45.221253],"type":"Point"}
 }

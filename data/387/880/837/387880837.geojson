@@ -2,13 +2,14 @@
   "id": 387880837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329107,43.810569,-99.329107,43.810569",
     "geom:latitude":43.810569,
     "geom:longitude":-99.329107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Lawler Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387880837,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1467082764,
     "wof:name":"Adams Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.329107,43.810569,-99.329107,43.810569],
-  "geometry": {"coordinates":[-99.329107,43.810569],"type":"Point"}
+  "bbox": [
+    -99.329107,
+    43.810569,
+    -99.329107,
+    43.810569
+],
+  "geometry": {"coordinates":[-99.32910699999999,43.810569],"type":"Point"}
 }

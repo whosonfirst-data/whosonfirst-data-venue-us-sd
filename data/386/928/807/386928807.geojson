@@ -2,13 +2,14 @@
   "id": 386928807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48805,45.453807,-98.48805,45.453807",
     "geom:latitude":45.453807,
     "geom:longitude":-98.48805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386928807,
-    "wof:lastmodified":1449028907,
+    "wof:lastmodified":1467082654,
     "wof:name":"Clear Blue Retreat Pools & Sps",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tub"
     ]
 },
-  "bbox": [-98.48805,45.453807,-98.48805,45.453807],
+  "bbox": [
+    -98.48805,
+    45.453807,
+    -98.48805,
+    45.453807
+],
   "geometry": {"coordinates":[-98.48805,45.453807],"type":"Point"}
 }

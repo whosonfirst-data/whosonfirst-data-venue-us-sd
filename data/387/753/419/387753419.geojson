@@ -2,13 +2,14 @@
   "id": 387753419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48798,45.46588,-98.48798,45.46588",
     "geom:latitude":45.46588,
     "geom:longitude":-98.48798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387753419,
-    "wof:lastmodified":1449056561,
+    "wof:lastmodified":1467082696,
     "wof:name":"Pantorium",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-98.48798,45.46588,-98.48798,45.46588],
-  "geometry": {"coordinates":[-98.48798,45.46588],"type":"Point"}
+  "bbox": [
+    -98.48798,
+    45.46588,
+    -98.48798,
+    45.46588
+],
+  "geometry": {"coordinates":[-98.48797999999999,45.46588],"type":"Point"}
 }

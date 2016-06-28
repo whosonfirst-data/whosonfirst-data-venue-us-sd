@@ -2,13 +2,14 @@
   "id": 387503573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.734346,43.173352,-101.734346,43.173352",
     "geom:latitude":43.173352,
     "geom:longitude":-101.734346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 School St",
     "sg:city":"Wanblee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387503573,
-    "wof:lastmodified":1449059932,
+    "wof:lastmodified":1467082763,
     "wof:name":"Crazy Horse Day School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.734346,43.173352,-101.734346,43.173352],
+  "bbox": [
+    -101.734346,
+    43.173352,
+    -101.734346,
+    43.173352
+],
   "geometry": {"coordinates":[-101.734346,43.173352],"type":"Point"}
 }

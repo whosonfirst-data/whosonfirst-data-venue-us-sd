@@ -2,13 +2,14 @@
   "id": 387006925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.646452,43.543233,-97.646452,43.543233",
     "geom:latitude":43.543233,
     "geom:longitude":-97.646452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42837 State Hwy 42",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387006925,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1467082748,
     "wof:name":"Anywhere Pos LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.646452,43.543233,-97.646452,43.543233],
+  "bbox": [
+    -97.646452,
+    43.543233,
+    -97.646452,
+    43.543233
+],
   "geometry": {"coordinates":[-97.646452,43.543233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403824455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77735,43.543859,-96.77735,43.543859",
     "geom:latitude":43.543859,
     "geom:longitude":-96.77735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403824455,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1467082678,
     "wof:name":"Vern Eide Motor Cars",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.77735,43.543859,-96.77735,43.543859],
+  "bbox": [
+    -96.77735,
+    43.543859,
+    -96.77735,
+    43.543859
+],
   "geometry": {"coordinates":[-96.77735,43.543859],"type":"Point"}
 }

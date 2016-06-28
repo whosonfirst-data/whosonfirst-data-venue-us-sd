@@ -2,13 +2,14 @@
   "id": 387454775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676762,43.508393,-96.676762,43.508393",
     "geom:latitude":43.508393,
     "geom:longitude":-96.676762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4024 S Brady Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387454775,
-    "wof:lastmodified":1449059557,
+    "wof:lastmodified":1467082756,
     "wof:name":"Midwest Industrial Tools Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tool"
     ]
 },
-  "bbox": [-96.676762,43.508393,-96.676762,43.508393],
+  "bbox": [
+    -96.676762,
+    43.508393,
+    -96.676762,
+    43.508393
+],
   "geometry": {"coordinates":[-96.676762,43.508393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387107623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.725202,43.541531,-96.725202,43.541531",
     "geom:latitude":43.541531,
     "geom:longitude":-96.725202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 S 1st Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387107623,
-    "wof:lastmodified":1449056128,
+    "wof:lastmodified":1467082687,
     "wof:name":"Top Hat Bar & Lounge",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-96.725202,43.541531,-96.725202,43.541531],
+  "bbox": [
+    -96.725202,
+    43.541531,
+    -96.725202,
+    43.541531
+],
   "geometry": {"coordinates":[-96.725202,43.541531],"type":"Point"}
 }

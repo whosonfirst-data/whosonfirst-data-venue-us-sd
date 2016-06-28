@@ -2,13 +2,14 @@
   "id": 387330325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.09047,44.896729,-97.09047,44.896729",
     "geom:latitude":44.896729,
     "geom:longitude":-97.09047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 14th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387330325,
-    "wof:lastmodified":1449058004,
+    "wof:lastmodified":1467082725,
     "wof:name":"Kathies Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.09047,44.896729,-97.09047,44.896729],
+  "bbox": [
+    -97.09047,
+    44.896729,
+    -97.09047,
+    44.896729
+],
   "geometry": {"coordinates":[-97.09047,44.896729],"type":"Point"}
 }

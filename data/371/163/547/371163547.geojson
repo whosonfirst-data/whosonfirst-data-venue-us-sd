@@ -2,13 +2,14 @@
   "id": 371163547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.246423,43.838666,-98.246423,43.838666",
     "geom:latitude":43.838666,
     "geom:longitude":-98.246423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24470 398th Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371163547,
-    "wof:lastmodified":1449050112,
+    "wof:lastmodified":1467082673,
     "wof:name":"Hetland Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.246423,43.838666,-98.246423,43.838666],
-  "geometry": {"coordinates":[-98.246423,43.838666],"type":"Point"}
+  "bbox": [
+    -98.246423,
+    43.838666,
+    -98.246423,
+    43.838666
+],
+  "geometry": {"coordinates":[-98.24642299999999,43.838666],"type":"Point"}
 }

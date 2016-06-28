@@ -2,13 +2,14 @@
   "id": 387129215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.420483,43.328381,-97.420483,43.328381",
     "geom:latitude":43.328381,
     "geom:longitude":-97.420483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27978 US Hwy 81",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387129215,
-    "wof:lastmodified":1449059186,
+    "wof:lastmodified":1467082748,
     "wof:name":"Lavern Graber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.420483,43.328381,-97.420483,43.328381],
+  "bbox": [
+    -97.420483,
+    43.328381,
+    -97.420483,
+    43.328381
+],
   "geometry": {"coordinates":[-97.420483,43.328381],"type":"Point"}
 }

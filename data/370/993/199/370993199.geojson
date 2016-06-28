@@ -2,13 +2,14 @@
   "id": 370993199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.121076,43.993046,-97.121076,43.993046",
     "geom:latitude":43.993046,
     "geom:longitude":-97.121076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 10th St SW",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370993199,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1467082656,
     "wof:name":"Gravel Pit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-97.121076,43.993046,-97.121076,43.993046],
+  "bbox": [
+    -97.121076,
+    43.993046,
+    -97.121076,
+    43.993046
+],
   "geometry": {"coordinates":[-97.121076,43.993046],"type":"Point"}
 }

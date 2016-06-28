@@ -2,13 +2,14 @@
   "id": 387781231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.73155,45.436737,-98.73155,45.436737",
     "geom:latitude":45.436737,
     "geom:longitude":-98.73155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Nesbitt Dr",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387781231,
-    "wof:lastmodified":1449056815,
+    "wof:lastmodified":1467082701,
     "wof:name":"The Fort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.73155,45.436737,-98.73155,45.436737],
+  "bbox": [
+    -98.73155,
+    45.436737,
+    -98.73155,
+    45.436737
+],
   "geometry": {"coordinates":[-98.73155,45.436737],"type":"Point"}
 }

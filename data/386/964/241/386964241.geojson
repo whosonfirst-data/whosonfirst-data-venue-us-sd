@@ -2,13 +2,14 @@
   "id": 386964241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.414171,43.901179,-103.414171,43.901179",
     "geom:latitude":43.901179,
     "geom:longitude":-103.414171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Madill St",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386964241,
-    "wof:lastmodified":1449028875,
+    "wof:lastmodified":1467082654,
     "wof:name":"Keystone Community Ctr",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.414171,43.901179,-103.414171,43.901179],
+  "bbox": [
+    -103.414171,
+    43.901179,
+    -103.414171,
+    43.901179
+],
   "geometry": {"coordinates":[-103.414171,43.901179],"type":"Point"}
 }

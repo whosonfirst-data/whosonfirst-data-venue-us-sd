@@ -2,13 +2,14 @@
   "id": 387049693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.814155,43.525406,-96.814155,43.525406",
     "geom:latitude":43.525406,
     "geom:longitude":-96.814155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 W Strabane Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387049693,
-    "wof:lastmodified":1449057990,
+    "wof:lastmodified":1467082725,
     "wof:name":"Echo Valley Enterprises Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.814155,43.525406,-96.814155,43.525406],
+  "bbox": [
+    -96.814155,
+    43.525406,
+    -96.814155,
+    43.525406
+],
   "geometry": {"coordinates":[-96.814155,43.525406],"type":"Point"}
 }

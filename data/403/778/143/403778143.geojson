@@ -2,13 +2,14 @@
   "id": 403778143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.635857,44.463837,-103.635857,44.463837",
     "geom:latitude":44.463837,
     "geom:longitude":-103.635857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 Easy St",
     "sg:city":"Whitewood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403778143,
-    "wof:lastmodified":1449054650,
+    "wof:lastmodified":1467082674,
     "wof:name":"Doug Ottema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mineral"
     ]
 },
-  "bbox": [-103.635857,44.463837,-103.635857,44.463837],
+  "bbox": [
+    -103.635857,
+    44.463837,
+    -103.635857,
+    44.463837
+],
   "geometry": {"coordinates":[-103.635857,44.463837],"type":"Point"}
 }

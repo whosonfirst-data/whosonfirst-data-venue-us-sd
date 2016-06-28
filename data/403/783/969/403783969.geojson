@@ -2,13 +2,14 @@
   "id": 403783969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.133129,43.083254,-97.133129,43.083254",
     "geom:latitude":43.083254,
     "geom:longitude":-97.133129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45362 State Hwy 46",
     "sg:city":"Irene",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403783969,
-    "wof:lastmodified":1449054663,
+    "wof:lastmodified":1467082674,
     "wof:name":"Whimsies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.133129,43.083254,-97.133129,43.083254],
+  "bbox": [
+    -97.133129,
+    43.083254,
+    -97.133129,
+    43.083254
+],
   "geometry": {"coordinates":[-97.133129,43.083254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403825231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.352659,44.365845,-100.352659,44.365845",
     "geom:latitude":44.365845,
     "geom:longitude":-100.352659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Coteau St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403825231,
-    "wof:lastmodified":1449054668,
+    "wof:lastmodified":1467082674,
     "wof:name":"K Ccr 1240 AM Radio News Sprts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-100.352659,44.365845,-100.352659,44.365845],
+  "bbox": [
+    -100.352659,
+    44.365845,
+    -100.352659,
+    44.365845
+],
   "geometry": {"coordinates":[-100.352659,44.365845],"type":"Point"}
 }

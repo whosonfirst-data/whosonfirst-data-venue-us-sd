@@ -2,13 +2,14 @@
   "id": 387218971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.116597,45.495997,-102.116597,45.495997",
     "geom:latitude":45.495997,
     "geom:longitude":-102.116597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19566 131st St",
     "sg:city":"Meadow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387218971,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1467082735,
     "wof:name":"John Buer Main Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-102.116597,45.495997,-102.116597,45.495997],
+  "bbox": [
+    -102.116597,
+    45.495997,
+    -102.116597,
+    45.495997
+],
   "geometry": {"coordinates":[-102.116597,45.495997],"type":"Point"}
 }

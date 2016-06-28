@@ -2,13 +2,14 @@
   "id": 387224871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.805341,44.285428,-99.805341,44.285428",
     "geom:latitude":44.285428,
     "geom:longitude":-99.805341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21345 318th Ave",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387224871,
-    "wof:lastmodified":1449058891,
+    "wof:lastmodified":1467082742,
     "wof:name":"Mike Ogan Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.805341,44.285428,-99.805341,44.285428],
+  "bbox": [
+    -99.805341,
+    44.285428,
+    -99.805341,
+    44.285428
+],
   "geometry": {"coordinates":[-99.805341,44.285428],"type":"Point"}
 }

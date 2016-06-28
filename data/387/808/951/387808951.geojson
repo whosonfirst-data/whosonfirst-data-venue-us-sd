@@ -2,13 +2,14 @@
   "id": 387808951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.777126,45.242907,-99.777126,45.242907",
     "geom:latitude":45.242907,
     "geom:longitude":-99.777126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Main St",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387808951,
-    "wof:lastmodified":1449056295,
+    "wof:lastmodified":1467082690,
     "wof:name":"Rader Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.777126,45.242907,-99.777126,45.242907],
+  "bbox": [
+    -99.777126,
+    45.242907,
+    -99.777126,
+    45.242907
+],
   "geometry": {"coordinates":[-99.777126,45.242907],"type":"Point"}
 }

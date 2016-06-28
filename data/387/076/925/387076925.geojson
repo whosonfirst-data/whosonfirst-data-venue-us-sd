@@ -2,13 +2,14 @@
   "id": 387076925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.473348,45.473647,-98.473348,45.473647",
     "geom:latitude":45.473647,
     "geom:longitude":-98.473348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 8th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387076925,
-    "wof:lastmodified":1449059089,
+    "wof:lastmodified":1467082747,
     "wof:name":"Midwest Rubber Stamp Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.473348,45.473647,-98.473348,45.473647],
+  "bbox": [
+    -98.473348,
+    45.473647,
+    -98.473348,
+    45.473647
+],
   "geometry": {"coordinates":[-98.473348,45.473647],"type":"Point"}
 }

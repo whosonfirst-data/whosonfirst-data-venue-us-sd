@@ -2,13 +2,14 @@
   "id": 403833491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.288228,45.900492,-100.288228,45.900492",
     "geom:latitude":45.900492,
     "geom:longitude":-100.288228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 B Ave",
     "sg:city":"Pollock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403833491,
-    "wof:lastmodified":1449054789,
+    "wof:lastmodified":1467082675,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-100.288228,45.900492,-100.288228,45.900492],
+  "bbox": [
+    -100.288228,
+    45.900492,
+    -100.288228,
+    45.900492
+],
   "geometry": {"coordinates":[-100.288228,45.900492],"type":"Point"}
 }

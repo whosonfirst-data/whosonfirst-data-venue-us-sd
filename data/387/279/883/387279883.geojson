@@ -2,13 +2,14 @@
   "id": 387279883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.45118,45.547176,-100.45118,45.547176",
     "geom:latitude":45.547176,
     "geom:longitude":-100.45118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 W Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387279883,
-    "wof:lastmodified":1449057849,
+    "wof:lastmodified":1467082722,
     "wof:name":"Mobridge Gas Co & Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "gas"
     ]
 },
-  "bbox": [-100.45118,45.547176,-100.45118,45.547176],
-  "geometry": {"coordinates":[-100.45118,45.547176],"type":"Point"}
+  "bbox": [
+    -100.45118,
+    45.547176,
+    -100.45118,
+    45.547176
+],
+  "geometry": {"coordinates":[-100.45117999999999,45.547176],"type":"Point"}
 }

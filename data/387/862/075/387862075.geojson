@@ -2,13 +2,14 @@
   "id": 387862075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.753555,43.546131,-96.753555,43.546131",
     "geom:latitude":43.546131,
     "geom:longitude":-96.753555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Lyndale Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387862075,
-    "wof:lastmodified":1449060009,
+    "wof:lastmodified":1467082765,
     "wof:name":"Hanssen Co",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.753555,43.546131,-96.753555,43.546131],
-  "geometry": {"coordinates":[-96.753555,43.546131],"type":"Point"}
+  "bbox": [
+    -96.753555,
+    43.546131,
+    -96.753555,
+    43.546131
+],
+  "geometry": {"coordinates":[-96.75355500000001,43.546131],"type":"Point"}
 }

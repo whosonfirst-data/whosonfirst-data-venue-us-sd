@@ -2,13 +2,14 @@
   "id": 387542667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838169,44.224875,-96.838169,44.224875",
     "geom:latitude":44.224875,
     "geom:longitude":-96.838169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Northshore Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387542667,
-    "wof:lastmodified":1449059059,
+    "wof:lastmodified":1467082746,
     "wof:name":"Madsen Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "display"
     ]
 },
-  "bbox": [-96.838169,44.224875,-96.838169,44.224875],
-  "geometry": {"coordinates":[-96.838169,44.224875],"type":"Point"}
+  "bbox": [
+    -96.838169,
+    44.224875,
+    -96.838169,
+    44.224875
+],
+  "geometry": {"coordinates":[-96.83816899999999,44.224875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387514859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707516,43.592538,-96.707516,43.592538",
     "geom:latitude":43.592538,
     "geom:longitude":-96.707516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 E 52nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387514859,
-    "wof:lastmodified":1449058021,
+    "wof:lastmodified":1467082725,
     "wof:name":"Dakota Diesel Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engine"
     ]
 },
-  "bbox": [-96.707516,43.592538,-96.707516,43.592538],
+  "bbox": [
+    -96.707516,
+    43.592538,
+    -96.707516,
+    43.592538
+],
   "geometry": {"coordinates":[-96.707516,43.592538],"type":"Point"}
 }

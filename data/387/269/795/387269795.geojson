@@ -2,13 +2,14 @@
   "id": 387269795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726897,43.765873,-96.726897,43.765873",
     "geom:latitude":43.765873,
     "geom:longitude":-96.726897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Kyle Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387269795,
-    "wof:lastmodified":1449058497,
+    "wof:lastmodified":1467082735,
     "wof:name":"Birth Options Resource Network",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.726897,43.765873,-96.726897,43.765873],
-  "geometry": {"coordinates":[-96.726897,43.765873],"type":"Point"}
+  "bbox": [
+    -96.726897,
+    43.765873,
+    -96.726897,
+    43.765873
+],
+  "geometry": {"coordinates":[-96.72689699999999,43.765873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387142613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.383768,44.037024,-97.383768,44.037024",
     "geom:latitude":44.037024,
     "geom:longitude":-97.383768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44084 231st St",
     "sg:city":"Winfred",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387142613,
-    "wof:lastmodified":1449059154,
+    "wof:lastmodified":1467082748,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "processing"
     ]
 },
-  "bbox": [-97.383768,44.037024,-97.383768,44.037024],
+  "bbox": [
+    -97.383768,
+    44.037024,
+    -97.383768,
+    44.037024
+],
   "geometry": {"coordinates":[-97.383768,44.037024],"type":"Point"}
 }

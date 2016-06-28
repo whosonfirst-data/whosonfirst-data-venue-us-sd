@@ -2,13 +2,14 @@
   "id": 370971933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025643,43.71231,-98.025643,43.71231",
     "geom:latitude":43.71231,
     "geom:longitude":-98.025643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370971933,
-    "wof:lastmodified":1449030791,
+    "wof:lastmodified":1467082656,
     "wof:name":"KORN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-98.025643,43.71231,-98.025643,43.71231],
+  "bbox": [
+    -98.025643,
+    43.71231,
+    -98.025643,
+    43.71231
+],
   "geometry": {"coordinates":[-98.025643,43.71231],"type":"Point"}
 }

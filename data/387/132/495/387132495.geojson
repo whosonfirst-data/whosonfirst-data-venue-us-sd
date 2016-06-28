@@ -2,13 +2,14 @@
   "id": 387132495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.97661,43.398284,-97.97661,43.398284",
     "geom:latitude":43.398284,
     "geom:longitude":-97.97661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Chapman Dr",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387132495,
-    "wof:lastmodified":1449057961,
+    "wof:lastmodified":1467082724,
     "wof:name":"Schulz Electric Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.97661,43.398284,-97.97661,43.398284],
-  "geometry": {"coordinates":[-97.97661,43.398284],"type":"Point"}
+  "bbox": [
+    -97.97661,
+    43.398284,
+    -97.97661,
+    43.398284
+],
+  "geometry": {"coordinates":[-97.97660999999999,43.398284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403758147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76362,43.550568,-96.76362,43.550568",
     "geom:latitude":43.550568,
     "geom:longitude":-96.76362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2703 W 7th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403758147,
-    "wof:lastmodified":1449055046,
+    "wof:lastmodified":1467082678,
     "wof:name":"South Dakota Innkeepers Assn",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.76362,43.550568,-96.76362,43.550568],
+  "bbox": [
+    -96.76362,
+    43.550568,
+    -96.76362,
+    43.550568
+],
   "geometry": {"coordinates":[-96.76362,43.550568],"type":"Point"}
 }

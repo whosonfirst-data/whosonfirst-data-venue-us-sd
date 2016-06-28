@@ -2,13 +2,14 @@
   "id": 387857301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.915328,42.774317,-96.915328,42.774317",
     "geom:latitude":42.774317,
     "geom:longitude":-96.915328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Catalina Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387857301,
-    "wof:lastmodified":1449058578,
+    "wof:lastmodified":1467082736,
     "wof:name":"Lupkes Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.915328,42.774317,-96.915328,42.774317],
+  "bbox": [
+    -96.915328,
+    42.774317,
+    -96.915328,
+    42.774317
+],
   "geometry": {"coordinates":[-96.915328,42.774317],"type":"Point"}
 }

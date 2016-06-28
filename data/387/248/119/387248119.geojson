@@ -2,13 +2,14 @@
   "id": 387248119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.489988,43.955899,-97.489988,43.955899",
     "geom:latitude":43.955899,
     "geom:longitude":-97.489988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23658 436th Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387248119,
-    "wof:lastmodified":1449058199,
+    "wof:lastmodified":1467082729,
     "wof:name":"Bob Gassman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.489988,43.955899,-97.489988,43.955899],
+  "bbox": [
+    -97.489988,
+    43.955899,
+    -97.489988,
+    43.955899
+],
   "geometry": {"coordinates":[-97.489988,43.955899],"type":"Point"}
 }

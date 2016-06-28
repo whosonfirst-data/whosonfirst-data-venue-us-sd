@@ -2,13 +2,14 @@
   "id": 387287049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.21424,44.342527,-98.21424,44.342527",
     "geom:latitude":44.342527,
     "geom:longitude":-98.21424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387287049,
-    "wof:lastmodified":1449056344,
+    "wof:lastmodified":1467082691,
     "wof:name":"Apc Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.21424,44.342527,-98.21424,44.342527],
+  "bbox": [
+    -98.21424,
+    44.342527,
+    -98.21424,
+    44.342527
+],
   "geometry": {"coordinates":[-98.21424,44.342527],"type":"Point"}
 }

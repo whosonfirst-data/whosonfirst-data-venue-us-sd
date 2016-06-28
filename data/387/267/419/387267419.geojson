@@ -2,13 +2,14 @@
   "id": 387267419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114238,44.900447,-97.114238,44.900447",
     "geom:latitude":44.900447,
     "geom:longitude":-97.114238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387267419,
-    "wof:lastmodified":1449059575,
+    "wof:lastmodified":1467082756,
     "wof:name":"Little Jenny's Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.114238,44.900447,-97.114238,44.900447],
+  "bbox": [
+    -97.114238,
+    44.900447,
+    -97.114238,
+    44.900447
+],
   "geometry": {"coordinates":[-97.114238,44.900447],"type":"Point"}
 }

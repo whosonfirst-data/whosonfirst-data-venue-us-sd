@@ -2,13 +2,14 @@
   "id": 387782125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221064,44.088087,-103.221064,44.088087",
     "geom:latitude":44.088087,
     "geom:longitude":-103.221064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Denver St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387782125,
-    "wof:lastmodified":1449056099,
+    "wof:lastmodified":1467082686,
     "wof:name":"Civic Plaza Apartments",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-103.221064,44.088087,-103.221064,44.088087],
+  "bbox": [
+    -103.221064,
+    44.088087,
+    -103.221064,
+    44.088087
+],
   "geometry": {"coordinates":[-103.221064,44.088087],"type":"Point"}
 }

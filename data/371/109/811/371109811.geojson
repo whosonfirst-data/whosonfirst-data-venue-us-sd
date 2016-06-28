@@ -2,13 +2,14 @@
   "id": 371109811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.473762,45.050135,-96.473762,45.050135",
     "geom:latitude":45.050135,
     "geom:longitude":-96.473762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48640 161st St",
     "sg:city":"Revillo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371109811,
-    "wof:lastmodified":1449049363,
+    "wof:lastmodified":1467082663,
     "wof:name":"Kanthak Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "local"
     ]
 },
-  "bbox": [-96.473762,45.050135,-96.473762,45.050135],
-  "geometry": {"coordinates":[-96.473762,45.050135],"type":"Point"}
+  "bbox": [
+    -96.473762,
+    45.050135,
+    -96.473762,
+    45.050135
+],
+  "geometry": {"coordinates":[-96.47376199999999,45.050135],"type":"Point"}
 }

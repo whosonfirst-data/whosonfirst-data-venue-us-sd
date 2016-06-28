@@ -2,13 +2,14 @@
   "id": 387425587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.128006,44.338085,-101.128006,44.338085",
     "geom:latitude":44.338085,
     "geom:longitude":-101.128006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20931 State Hwy 63",
     "sg:city":"Hayes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387425587,
-    "wof:lastmodified":1449057442,
+    "wof:lastmodified":1467082713,
     "wof:name":"Sivage Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.128006,44.338085,-101.128006,44.338085],
+  "bbox": [
+    -101.128006,
+    44.338085,
+    -101.128006,
+    44.338085
+],
   "geometry": {"coordinates":[-101.128006,44.338085],"type":"Point"}
 }

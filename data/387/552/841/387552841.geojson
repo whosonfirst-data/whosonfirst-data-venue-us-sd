@@ -2,13 +2,14 @@
   "id": 387552841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722431,43.524444,-96.722431,43.524444",
     "geom:latitude":43.524444,
     "geom:longitude":-96.722431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E 31st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387552841,
-    "wof:lastmodified":1449057698,
+    "wof:lastmodified":1467082719,
     "wof:name":"Fitzgrald Solutionsd Group Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-96.722431,43.524444,-96.722431,43.524444],
+  "bbox": [
+    -96.722431,
+    43.524444,
+    -96.722431,
+    43.524444
+],
   "geometry": {"coordinates":[-96.722431,43.524444],"type":"Point"}
 }

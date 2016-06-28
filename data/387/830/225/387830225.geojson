@@ -2,13 +2,14 @@
   "id": 387830225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109652,44.007702,-97.109652,44.007702",
     "geom:latitude":44.007702,
     "geom:longitude":-97.109652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387830225,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1467082703,
     "wof:name":"Sample Our Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.109652,44.007702,-97.109652,44.007702],
+  "bbox": [
+    -97.109652,
+    44.007702,
+    -97.109652,
+    44.007702
+],
   "geometry": {"coordinates":[-97.109652,44.007702],"type":"Point"}
 }

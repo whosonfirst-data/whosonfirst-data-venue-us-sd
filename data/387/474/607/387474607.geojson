@@ -2,13 +2,14 @@
   "id": 387474607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768275,44.305409,-96.768275,44.305409",
     "geom:latitude":44.305409,
     "geom:longitude":-96.768275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387474607,
-    "wof:lastmodified":1449056274,
+    "wof:lastmodified":1467082690,
     "wof:name":"PPM Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "system"
     ]
 },
-  "bbox": [-96.768275,44.305409,-96.768275,44.305409],
+  "bbox": [
+    -96.768275,
+    44.305409,
+    -96.768275,
+    44.305409
+],
   "geometry": {"coordinates":[-96.768275,44.305409],"type":"Point"}
 }

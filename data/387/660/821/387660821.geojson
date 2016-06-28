@@ -2,13 +2,14 @@
   "id": 387660821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711293,43.587479,-96.711293,43.587479",
     "geom:latitude":43.587479,
     "geom:longitude":-96.711293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4102 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387660821,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1467082755,
     "wof:name":"Gaetze Welding & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-96.711293,43.587479,-96.711293,43.587479],
+  "bbox": [
+    -96.711293,
+    43.587479,
+    -96.711293,
+    43.587479
+],
   "geometry": {"coordinates":[-96.711293,43.587479],"type":"Point"}
 }

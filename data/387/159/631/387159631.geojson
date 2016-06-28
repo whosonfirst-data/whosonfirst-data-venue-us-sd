@@ -2,13 +2,14 @@
   "id": 387159631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.627024,43.557064,-97.627024,43.557064",
     "geom:latitude":43.557064,
     "geom:longitude":-97.627024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26418 429th Ave",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387159631,
-    "wof:lastmodified":1449056566,
+    "wof:lastmodified":1467082696,
     "wof:name":"David Jansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.627024,43.557064,-97.627024,43.557064],
-  "geometry": {"coordinates":[-97.627024,43.557064],"type":"Point"}
+  "bbox": [
+    -97.627024,
+    43.557064,
+    -97.627024,
+    43.557064
+],
+  "geometry": {"coordinates":[-97.62702400000001,43.557064],"type":"Point"}
 }

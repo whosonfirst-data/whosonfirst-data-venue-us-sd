@@ -2,13 +2,14 @@
   "id": 387400315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.390467,44.426404,-97.390467,44.426404",
     "geom:latitude":44.426404,
     "geom:longitude":-97.390467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20388 441st Ave",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387400315,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1467082694,
     "wof:name":"Lynn Hasche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.390467,44.426404,-97.390467,44.426404],
+  "bbox": [
+    -97.390467,
+    44.426404,
+    -97.390467,
+    44.426404
+],
   "geometry": {"coordinates":[-97.390467,44.426404],"type":"Point"}
 }

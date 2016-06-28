@@ -2,13 +2,14 @@
   "id": 403803781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.673545,43.547481,-96.673545,43.547481",
     "geom:latitude":43.547481,
     "geom:longitude":-96.673545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4209 E Walker Way",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403803781,
-    "wof:lastmodified":1449055980,
+    "wof:lastmodified":1467082685,
     "wof:name":"Walker Trucking Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.673545,43.547481,-96.673545,43.547481],
+  "bbox": [
+    -96.673545,
+    43.547481,
+    -96.673545,
+    43.547481
+],
   "geometry": {"coordinates":[-96.673545,43.547481],"type":"Point"}
 }

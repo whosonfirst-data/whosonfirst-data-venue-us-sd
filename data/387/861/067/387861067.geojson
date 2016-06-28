@@ -2,13 +2,14 @@
   "id": 387861067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905663,43.35436,-96.905663,43.35436",
     "geom:latitude":43.35436,
     "geom:longitude":-96.905663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 W 2nd Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387861067,
-    "wof:lastmodified":1449059895,
+    "wof:lastmodified":1467082763,
     "wof:name":"Drywall Specialties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.905663,43.35436,-96.905663,43.35436],
+  "bbox": [
+    -96.905663,
+    43.35436,
+    -96.905663,
+    43.35436
+],
   "geometry": {"coordinates":[-96.905663,43.35436],"type":"Point"}
 }

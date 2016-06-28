@@ -2,13 +2,14 @@
   "id": 387511161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.363708,44.847403,-97.363708,44.847403",
     "geom:latitude":44.847403,
     "geom:longitude":-97.363708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44249 175th St",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387511161,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467082722,
     "wof:name":"Paulsen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.363708,44.847403,-97.363708,44.847403],
+  "bbox": [
+    -97.363708,
+    44.847403,
+    -97.363708,
+    44.847403
+],
   "geometry": {"coordinates":[-97.363708,44.847403],"type":"Point"}
 }

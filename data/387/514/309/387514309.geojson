@@ -2,13 +2,14 @@
   "id": 387514309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.437799,44.083697,-103.437799,44.083697",
     "geom:latitude":44.083697,
     "geom:longitude":-103.437799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12250 W Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387514309,
-    "wof:lastmodified":1449058020,
+    "wof:lastmodified":1467082725,
     "wof:name":"Johnson Siding Volunteer Fire",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-103.437799,44.083697,-103.437799,44.083697],
+  "bbox": [
+    -103.437799,
+    44.083697,
+    -103.437799,
+    44.083697
+],
   "geometry": {"coordinates":[-103.437799,44.083697],"type":"Point"}
 }

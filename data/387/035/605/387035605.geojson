@@ -2,13 +2,14 @@
   "id": 387035605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708217,43.691756,-96.708217,43.691756",
     "geom:latitude":43.691756,
     "geom:longitude":-96.708217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25466 475th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387035605,
-    "wof:lastmodified":1449059188,
+    "wof:lastmodified":1467082748,
     "wof:name":"Belly Acres Greenhouse & Nurs",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tree"
     ]
 },
-  "bbox": [-96.708217,43.691756,-96.708217,43.691756],
+  "bbox": [
+    -96.708217,
+    43.691756,
+    -96.708217,
+    43.691756
+],
   "geometry": {"coordinates":[-96.708217,43.691756],"type":"Point"}
 }

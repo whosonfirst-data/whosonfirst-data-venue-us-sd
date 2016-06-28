@@ -2,13 +2,14 @@
   "id": 371013087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.717596,43.258282,-99.717596,43.258282",
     "geom:latitude":43.258282,
     "geom:longitude":-99.717596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 W 5th St",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371013087,
-    "wof:lastmodified":1449049765,
+    "wof:lastmodified":1467082668,
     "wof:name":"Scott's Welding & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-99.717596,43.258282,-99.717596,43.258282],
+  "bbox": [
+    -99.717596,
+    43.258282,
+    -99.717596,
+    43.258282
+],
   "geometry": {"coordinates":[-99.717596,43.258282],"type":"Point"}
 }

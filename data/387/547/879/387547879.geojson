@@ -2,13 +2,14 @@
   "id": 387547879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.917276,42.772577,-96.917276,42.772577",
     "geom:latitude":42.772577,
     "geom:longitude":-96.917276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"969 Crestview Dr",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387547879,
-    "wof:lastmodified":1449056494,
+    "wof:lastmodified":1467082694,
     "wof:name":"Midwest Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "matting"
     ]
 },
-  "bbox": [-96.917276,42.772577,-96.917276,42.772577],
+  "bbox": [
+    -96.917276,
+    42.772577,
+    -96.917276,
+    42.772577
+],
   "geometry": {"coordinates":[-96.917276,42.772577],"type":"Point"}
 }

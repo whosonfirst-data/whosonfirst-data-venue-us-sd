@@ -2,13 +2,14 @@
   "id": 403794453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.784124,43.543968,-96.784124,43.543968",
     "geom:latitude":43.543968,
     "geom:longitude":-96.784124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403794453,
-    "wof:lastmodified":1449055268,
+    "wof:lastmodified":1467082679,
     "wof:name":"H & W Contracting LLC",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "utility"
     ]
 },
-  "bbox": [-96.784124,43.543968,-96.784124,43.543968],
-  "geometry": {"coordinates":[-96.784124,43.543968],"type":"Point"}
+  "bbox": [
+    -96.784124,
+    43.543968,
+    -96.784124,
+    43.543968
+],
+  "geometry": {"coordinates":[-96.78412400000001,43.543968],"type":"Point"}
 }

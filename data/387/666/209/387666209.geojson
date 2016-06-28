@@ -2,13 +2,14 @@
   "id": 387666209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67156,43.554932,-96.67156,43.554932",
     "geom:latitude":43.554932,
     "geom:longitude":-96.67156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387666209,
-    "wof:lastmodified":1449057496,
+    "wof:lastmodified":1467082714,
     "wof:name":"Children's Home Society",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.67156,43.554932,-96.67156,43.554932],
+  "bbox": [
+    -96.67156,
+    43.554932,
+    -96.67156,
+    43.554932
+],
   "geometry": {"coordinates":[-96.67156,43.554932],"type":"Point"}
 }

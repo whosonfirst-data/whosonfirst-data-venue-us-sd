@@ -2,13 +2,14 @@
   "id": 387173739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.340549,44.177023,-103.340549,44.177023",
     "geom:latitude":44.177023,
     "geom:longitude":-103.340549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7353 Rena Ln",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387173739,
-    "wof:lastmodified":1449056835,
+    "wof:lastmodified":1467082701,
     "wof:name":"Swanson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.340549,44.177023,-103.340549,44.177023],
+  "bbox": [
+    -103.340549,
+    44.177023,
+    -103.340549,
+    44.177023
+],
   "geometry": {"coordinates":[-103.340549,44.177023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387660711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.49902,43.979045,-97.49902,43.979045",
     "geom:latitude":43.979045,
     "geom:longitude":-97.49902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43554 235th St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387660711,
-    "wof:lastmodified":1449059522,
+    "wof:lastmodified":1467082755,
     "wof:name":"Ray Feldaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.49902,43.979045,-97.49902,43.979045],
+  "bbox": [
+    -97.49902,
+    43.979045,
+    -97.49902,
+    43.979045
+],
   "geometry": {"coordinates":[-97.49902,43.979045],"type":"Point"}
 }

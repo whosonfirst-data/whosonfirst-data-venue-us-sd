@@ -2,13 +2,14 @@
   "id": 387423473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.932676,43.626498,-96.932676,43.626498",
     "geom:latitude":43.626498,
     "geom:longitude":-96.932676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N Sagehorn Dr",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387423473,
-    "wof:lastmodified":1449056732,
+    "wof:lastmodified":1467082699,
     "wof:name":"Crown Construction",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.932676,43.626498,-96.932676,43.626498],
+  "bbox": [
+    -96.932676,
+    43.626498,
+    -96.932676,
+    43.626498
+],
   "geometry": {"coordinates":[-96.932676,43.626498],"type":"Point"}
 }

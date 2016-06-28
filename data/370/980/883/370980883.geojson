@@ -2,13 +2,14 @@
   "id": 370980883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.637661,45.221178,-96.637661,45.221178",
     "geom:latitude":45.221178,
     "geom:longitude":-96.637661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Railway Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370980883,
-    "wof:lastmodified":1449029309,
+    "wof:lastmodified":1467082656,
     "wof:name":"Valley Queen Cheese Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cheese"
     ]
 },
-  "bbox": [-96.637661,45.221178,-96.637661,45.221178],
-  "geometry": {"coordinates":[-96.637661,45.221178],"type":"Point"}
+  "bbox": [
+    -96.637661,
+    45.221178,
+    -96.637661,
+    45.221178
+],
+  "geometry": {"coordinates":[-96.63766099999999,45.221178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387026457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.1141,44.004964,-97.1141,44.004964",
     "geom:latitude":44.004964,
     "geom:longitude":-97.1141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387026457,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1467082732,
     "wof:name":"Green's Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-97.1141,44.004964,-97.1141,44.004964],
-  "geometry": {"coordinates":[-97.1141,44.004964],"type":"Point"}
+  "bbox": [
+    -97.1141,
+    44.004964,
+    -97.1141,
+    44.004964
+],
+  "geometry": {"coordinates":[-97.11409999999999,44.004964],"type":"Point"}
 }

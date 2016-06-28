@@ -2,13 +2,14 @@
   "id": 387822565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.478482,44.474027,-98.478482,44.474027",
     "geom:latitude":44.474027,
     "geom:longitude":-98.478482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20084 387th Ave",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387822565,
-    "wof:lastmodified":1449059804,
+    "wof:lastmodified":1467082761,
     "wof:name":"Sioux Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "staffing"
     ]
 },
-  "bbox": [-98.478482,44.474027,-98.478482,44.474027],
+  "bbox": [
+    -98.478482,
+    44.474027,
+    -98.478482,
+    44.474027
+],
   "geometry": {"coordinates":[-98.478482,44.474027],"type":"Point"}
 }

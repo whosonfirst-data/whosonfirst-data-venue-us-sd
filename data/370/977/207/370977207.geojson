@@ -2,13 +2,14 @@
   "id": 370977207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.867462,44.46522,-103.867462,44.46522",
     "geom:latitude":44.46522,
     "geom:longitude":-103.867462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Oak Ridge Rd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370977207,
-    "wof:lastmodified":1449032562,
+    "wof:lastmodified":1467082658,
     "wof:name":"Peak Development LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-103.867462,44.46522,-103.867462,44.46522],
+  "bbox": [
+    -103.867462,
+    44.46522,
+    -103.867462,
+    44.46522
+],
   "geometry": {"coordinates":[-103.867462,44.46522],"type":"Point"}
 }

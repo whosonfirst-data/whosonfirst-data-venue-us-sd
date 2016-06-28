@@ -2,13 +2,14 @@
   "id": 403836835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.032284,45.507297,-100.032284,45.507297",
     "geom:latitude":45.507297,
     "geom:longitude":-100.032284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4411 Main St",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403836835,
-    "wof:lastmodified":1449055497,
+    "wof:lastmodified":1467082681,
     "wof:name":"Selby Record",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-100.032284,45.507297,-100.032284,45.507297],
+  "bbox": [
+    -100.032284,
+    45.507297,
+    -100.032284,
+    45.507297
+],
   "geometry": {"coordinates":[-100.032284,45.507297],"type":"Point"}
 }

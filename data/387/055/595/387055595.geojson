@@ -2,13 +2,14 @@
   "id": 387055595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.690723,43.941048,-97.690723,43.941048",
     "geom:latitude":43.941048,
     "geom:longitude":-97.690723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23782 426th Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387055595,
-    "wof:lastmodified":1449056962,
+    "wof:lastmodified":1467082704,
     "wof:name":"Mike Sibson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.690723,43.941048,-97.690723,43.941048],
-  "geometry": {"coordinates":[-97.690723,43.941048],"type":"Point"}
+  "bbox": [
+    -97.690723,
+    43.941048,
+    -97.690723,
+    43.941048
+],
+  "geometry": {"coordinates":[-97.69072300000001,43.941048],"type":"Point"}
 }

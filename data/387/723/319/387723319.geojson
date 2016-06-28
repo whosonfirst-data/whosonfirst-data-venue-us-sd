@@ -2,13 +2,14 @@
   "id": 387723319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70799,43.474955,-96.70799,43.474955",
     "geom:latitude":43.474955,
     "geom:longitude":-96.70799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47447 85th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387723319,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1467082731,
     "wof:name":"Moses Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.70799,43.474955,-96.70799,43.474955],
+  "bbox": [
+    -96.70799,
+    43.474955,
+    -96.70799,
+    43.474955
+],
   "geometry": {"coordinates":[-96.70799,43.474955],"type":"Point"}
 }

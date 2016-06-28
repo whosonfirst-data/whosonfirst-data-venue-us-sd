@@ -2,13 +2,14 @@
   "id": 387143157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.244234,44.370579,-98.244234,44.370579",
     "geom:latitude":44.370579,
     "geom:longitude":-98.244234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Old Hwy 14 W",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387143157,
-    "wof:lastmodified":1449059280,
+    "wof:lastmodified":1467082750,
     "wof:name":"Dakota Precision Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "job"
     ]
 },
-  "bbox": [-98.244234,44.370579,-98.244234,44.370579],
-  "geometry": {"coordinates":[-98.244234,44.370579],"type":"Point"}
+  "bbox": [
+    -98.244234,
+    44.370579,
+    -98.244234,
+    44.370579
+],
+  "geometry": {"coordinates":[-98.24423400000001,44.370579],"type":"Point"}
 }

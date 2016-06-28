@@ -2,13 +2,14 @@
   "id": 387139269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729466,43.592631,-96.729466,43.592631",
     "geom:latitude":43.592631,
     "geom:longitude":-96.729466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W National Guard Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387139269,
-    "wof:lastmodified":1449056467,
+    "wof:lastmodified":1467082694,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "security"
     ]
 },
-  "bbox": [-96.729466,43.592631,-96.729466,43.592631],
+  "bbox": [
+    -96.729466,
+    43.592631,
+    -96.729466,
+    43.592631
+],
   "geometry": {"coordinates":[-96.729466,43.592631],"type":"Point"}
 }

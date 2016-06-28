@@ -2,13 +2,14 @@
   "id": 387950327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.208678,43.629199,-97.208678,43.629199",
     "geom:latitude":43.629199,
     "geom:longitude":-97.208678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25935 450th Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387950327,
-    "wof:lastmodified":1449057586,
+    "wof:lastmodified":1467082716,
     "wof:name":"Pat Bartmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.208678,43.629199,-97.208678,43.629199],
-  "geometry": {"coordinates":[-97.208678,43.629199],"type":"Point"}
+  "bbox": [
+    -97.208678,
+    43.629199,
+    -97.208678,
+    43.629199
+],
+  "geometry": {"coordinates":[-97.20867800000001,43.629199],"type":"Point"}
 }

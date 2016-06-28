@@ -2,13 +2,14 @@
   "id": 387888895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.983998,43.543339,-96.983998,43.543339",
     "geom:latitude":43.543339,
     "geom:longitude":-96.983998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46157 265th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387888895,
-    "wof:lastmodified":1449058479,
+    "wof:lastmodified":1467082734,
     "wof:name":"Kalb Construction",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.983998,43.543339,-96.983998,43.543339],
+  "bbox": [
+    -96.983998,
+    43.543339,
+    -96.983998,
+    43.543339
+],
   "geometry": {"coordinates":[-96.983998,43.543339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403751587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752493,43.505832,-96.752493,43.505832",
     "geom:latitude":43.505832,
     "geom:longitude":-96.752493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 W 50th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403751587,
-    "wof:lastmodified":1449054699,
+    "wof:lastmodified":1467082675,
     "wof:name":"Premere Forms Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "form"
     ]
 },
-  "bbox": [-96.752493,43.505832,-96.752493,43.505832],
+  "bbox": [
+    -96.752493,
+    43.505832,
+    -96.752493,
+    43.505832
+],
   "geometry": {"coordinates":[-96.752493,43.505832],"type":"Point"}
 }

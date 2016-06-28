@@ -2,13 +2,14 @@
   "id": 387882041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748026,43.500378,-96.748026,43.500378",
     "geom:latitude":43.500378,
     "geom:longitude":-96.748026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387882041,
-    "wof:lastmodified":1449056780,
+    "wof:lastmodified":1467082700,
     "wof:name":"J J's Wine Spirits & Cigars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.748026,43.500378,-96.748026,43.500378],
+  "bbox": [
+    -96.748026,
+    43.500378,
+    -96.748026,
+    43.500378
+],
   "geometry": {"coordinates":[-96.748026,43.500378],"type":"Point"}
 }

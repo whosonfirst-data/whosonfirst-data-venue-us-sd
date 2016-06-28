@@ -2,13 +2,14 @@
   "id": 387385829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.893863,42.854145,-97.893863,42.854145",
     "geom:latitude":42.854145,
     "geom:longitude":-97.893863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 8th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387385829,
-    "wof:lastmodified":1449058367,
+    "wof:lastmodified":1467082732,
     "wof:name":"Richie's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.893863,42.854145,-97.893863,42.854145],
+  "bbox": [
+    -97.893863,
+    42.854145,
+    -97.893863,
+    42.854145
+],
   "geometry": {"coordinates":[-97.893863,42.854145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371131471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488112,45.462945,-98.488112,45.462945",
     "geom:latitude":45.462945,
     "geom:longitude":-98.488112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371131471,
-    "wof:lastmodified":1449049321,
+    "wof:lastmodified":1467082662,
     "wof:name":"Pauer Sound & Music Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "musical"
     ]
 },
-  "bbox": [-98.488112,45.462945,-98.488112,45.462945],
+  "bbox": [
+    -98.488112,
+    45.462945,
+    -98.488112,
+    45.462945
+],
   "geometry": {"coordinates":[-98.488112,45.462945],"type":"Point"}
 }

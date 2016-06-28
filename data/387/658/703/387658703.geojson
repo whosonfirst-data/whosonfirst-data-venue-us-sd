@@ -2,13 +2,14 @@
   "id": 387658703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772566,44.297788,-96.772566,44.297788",
     "geom:latitude":44.297788,
     "geom:longitude":-96.772566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"677 Park Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387658703,
-    "wof:lastmodified":1449056032,
+    "wof:lastmodified":1467082685,
     "wof:name":"MSC Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "composer"
     ]
 },
-  "bbox": [-96.772566,44.297788,-96.772566,44.297788],
+  "bbox": [
+    -96.772566,
+    44.297788,
+    -96.772566,
+    44.297788
+],
   "geometry": {"coordinates":[-96.772566,44.297788],"type":"Point"}
 }

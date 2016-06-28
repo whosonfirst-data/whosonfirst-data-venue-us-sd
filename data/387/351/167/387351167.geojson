@@ -2,13 +2,14 @@
   "id": 387351167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775566,43.645688,-96.775566,43.645688",
     "geom:latitude":43.645688,
     "geom:longitude":-96.775566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25784 Cottonwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387351167,
-    "wof:lastmodified":1449059354,
+    "wof:lastmodified":1467082752,
     "wof:name":"Medical Waste Transport Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-96.775566,43.645688,-96.775566,43.645688],
+  "bbox": [
+    -96.775566,
+    43.645688,
+    -96.775566,
+    43.645688
+],
   "geometry": {"coordinates":[-96.775566,43.645688],"type":"Point"}
 }

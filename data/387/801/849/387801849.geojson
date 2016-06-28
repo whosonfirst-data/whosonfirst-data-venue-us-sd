@@ -2,13 +2,14 @@
   "id": 387801849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727393,43.330102,-96.727393,43.330102",
     "geom:latitude":43.330102,
     "geom:longitude":-96.727393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28001 State Hwy 115",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387801849,
-    "wof:lastmodified":1449059250,
+    "wof:lastmodified":1467082750,
     "wof:name":"Mikes Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.727393,43.330102,-96.727393,43.330102],
-  "geometry": {"coordinates":[-96.727393,43.330102],"type":"Point"}
+  "bbox": [
+    -96.727393,
+    43.330102,
+    -96.727393,
+    43.330102
+],
+  "geometry": {"coordinates":[-96.72739300000001,43.330102],"type":"Point"}
 }

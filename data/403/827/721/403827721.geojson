@@ -2,13 +2,14 @@
   "id": 403827721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.958515,45.011364,-99.958515,45.011364",
     "geom:latitude":45.011364,
     "geom:longitude":-99.958515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Platte St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403827721,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1467082679,
     "wof:name":"Medicine Rock Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-99.958515,45.011364,-99.958515,45.011364],
-  "geometry": {"coordinates":[-99.958515,45.011364],"type":"Point"}
+  "bbox": [
+    -99.958515,
+    45.011364,
+    -99.958515,
+    45.011364
+],
+  "geometry": {"coordinates":[-99.95851500000001,45.011364],"type":"Point"}
 }

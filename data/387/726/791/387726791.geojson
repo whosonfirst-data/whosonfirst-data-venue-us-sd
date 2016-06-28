@@ -2,13 +2,14 @@
   "id": 387726791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109805,44.909799,-97.109805,44.909799",
     "geom:latitude":44.909799,
     "geom:longitude":-97.109805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 2nd St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387726791,
-    "wof:lastmodified":1449058716,
+    "wof:lastmodified":1467082739,
     "wof:name":"Mount Olive Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.109805,44.909799,-97.109805,44.909799],
-  "geometry": {"coordinates":[-97.109805,44.909799],"type":"Point"}
+  "bbox": [
+    -97.109805,
+    44.909799,
+    -97.109805,
+    44.909799
+],
+  "geometry": {"coordinates":[-97.10980499999999,44.909799],"type":"Point"}
 }

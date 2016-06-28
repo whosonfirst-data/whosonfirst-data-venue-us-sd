@@ -2,13 +2,14 @@
   "id": 387937445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.933211,43.343033,-99.933211,43.343033",
     "geom:latitude":43.343033,
     "geom:longitude":-99.933211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31180 280th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387937445,
-    "wof:lastmodified":1449056820,
+    "wof:lastmodified":1467082701,
     "wof:name":"Randy Eddie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.933211,43.343033,-99.933211,43.343033],
+  "bbox": [
+    -99.933211,
+    43.343033,
+    -99.933211,
+    43.343033
+],
   "geometry": {"coordinates":[-99.933211,43.343033],"type":"Point"}
 }

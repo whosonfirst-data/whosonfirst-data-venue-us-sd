@@ -2,13 +2,14 @@
   "id": 387637467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800253,44.310234,-96.800253,44.310234",
     "geom:latitude":44.310234,
     "geom:longitude":-96.800253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 3rd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387637467,
-    "wof:lastmodified":1449056114,
+    "wof:lastmodified":1467082687,
     "wof:name":"Kinner & Co LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.800253,44.310234,-96.800253,44.310234],
+  "bbox": [
+    -96.800253,
+    44.310234,
+    -96.800253,
+    44.310234
+],
   "geometry": {"coordinates":[-96.800253,44.310234],"type":"Point"}
 }

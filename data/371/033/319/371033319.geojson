@@ -2,13 +2,14 @@
   "id": 371033319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732787,43.55986,-96.732787,43.55986",
     "geom:latitude":43.55986,
     "geom:longitude":-96.732787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 N Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371033319,
-    "wof:lastmodified":1449049258,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ridgecrest Baptist Church",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.732787,43.55986,-96.732787,43.55986],
+  "bbox": [
+    -96.732787,
+    43.55986,
+    -96.732787,
+    43.55986
+],
   "geometry": {"coordinates":[-96.732787,43.55986],"type":"Point"}
 }

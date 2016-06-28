@@ -2,13 +2,14 @@
   "id": 387053045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.862512,43.376615,-99.862512,43.376615",
     "geom:latitude":43.376615,
     "geom:longitude":-99.862512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387053045,
-    "wof:lastmodified":1449056819,
+    "wof:lastmodified":1467082701,
     "wof:name":"Nelson Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-99.862512,43.376615,-99.862512,43.376615],
+  "bbox": [
+    -99.862512,
+    43.376615,
+    -99.862512,
+    43.376615
+],
   "geometry": {"coordinates":[-99.862512,43.376615],"type":"Point"}
 }

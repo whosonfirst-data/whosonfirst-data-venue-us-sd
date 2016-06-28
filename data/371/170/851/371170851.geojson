@@ -2,13 +2,14 @@
   "id": 371170851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.879717,43.819062,-96.879717,43.819062",
     "geom:latitude":43.819062,
     "geom:longitude":-96.879717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46659 246th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371170851,
-    "wof:lastmodified":1449049119,
+    "wof:lastmodified":1467082659,
     "wof:name":"Milton Eide",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.879717,43.819062,-96.879717,43.819062],
+  "bbox": [
+    -96.879717,
+    43.819062,
+    -96.879717,
+    43.819062
+],
   "geometry": {"coordinates":[-96.879717,43.819062],"type":"Point"}
 }

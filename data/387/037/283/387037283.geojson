@@ -2,13 +2,14 @@
   "id": 387037283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.107154,44.779669,-99.107154,44.779669",
     "geom:latitude":44.779669,
     "geom:longitude":-99.107154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35406 State Hwy 26",
     "sg:city":"Orient",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387037283,
-    "wof:lastmodified":1449059987,
+    "wof:lastmodified":1467082765,
     "wof:name":"Betty Naber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.107154,44.779669,-99.107154,44.779669],
-  "geometry": {"coordinates":[-99.107154,44.779669],"type":"Point"}
+  "bbox": [
+    -99.107154,
+    44.779669,
+    -99.107154,
+    44.779669
+],
+  "geometry": {"coordinates":[-99.10715399999999,44.779669],"type":"Point"}
 }

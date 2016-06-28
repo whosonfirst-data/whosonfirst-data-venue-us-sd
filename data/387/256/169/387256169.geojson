@@ -2,13 +2,14 @@
   "id": 387256169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.460078,43.820401,-96.460078,43.820401",
     "geom:latitude":43.820401,
     "geom:longitude":-96.460078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48790 246th St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387256169,
-    "wof:lastmodified":1449059003,
+    "wof:lastmodified":1467082745,
     "wof:name":"Mark E Rogen",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.460078,43.820401,-96.460078,43.820401],
+  "bbox": [
+    -96.460078,
+    43.820401,
+    -96.460078,
+    43.820401
+],
   "geometry": {"coordinates":[-96.460078,43.820401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387563191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.329394,45.577852,-98.329394,45.577852",
     "geom:latitude":45.577852,
     "geom:longitude":-98.329394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12454 395th Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387563191,
-    "wof:lastmodified":1449056176,
+    "wof:lastmodified":1467082688,
     "wof:name":"Elmview Angus Farm",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.329394,45.577852,-98.329394,45.577852],
-  "geometry": {"coordinates":[-98.329394,45.577852],"type":"Point"}
+  "bbox": [
+    -98.329394,
+    45.577852,
+    -98.329394,
+    45.577852
+],
+  "geometry": {"coordinates":[-98.32939399999999,45.577852],"type":"Point"}
 }

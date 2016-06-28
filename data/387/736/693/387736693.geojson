@@ -2,13 +2,14 @@
   "id": 387736693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.838017,43.500259,-96.838017,43.500259",
     "geom:latitude":43.500259,
     "geom:longitude":-96.838017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46869 268th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387736693,
-    "wof:lastmodified":1449059877,
+    "wof:lastmodified":1467082762,
     "wof:name":"Michaels Sanitary Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "used"
     ]
 },
-  "bbox": [-96.838017,43.500259,-96.838017,43.500259],
-  "geometry": {"coordinates":[-96.838017,43.500259],"type":"Point"}
+  "bbox": [
+    -96.838017,
+    43.500259,
+    -96.838017,
+    43.500259
+],
+  "geometry": {"coordinates":[-96.83801699999999,43.500259],"type":"Point"}
 }

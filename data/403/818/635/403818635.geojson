@@ -2,13 +2,14 @@
   "id": 403818635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635642,45.220883,-96.635642,45.220883",
     "geom:latitude":45.220883,
     "geom:longitude":-96.635642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E 2nd Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403818635,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1467082680,
     "wof:name":"Back Door Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "ale"
     ]
 },
-  "bbox": [-96.635642,45.220883,-96.635642,45.220883],
+  "bbox": [
+    -96.635642,
+    45.220883,
+    -96.635642,
+    45.220883
+],
   "geometry": {"coordinates":[-96.635642,45.220883],"type":"Point"}
 }

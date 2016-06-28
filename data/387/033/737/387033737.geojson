@@ -2,13 +2,14 @@
   "id": 387033737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.588415,43.037064,-97.588415,43.037064",
     "geom:latitude":43.037064,
     "geom:longitude":-97.588415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Railroad St",
     "sg:city":"Lesterville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387033737,
-    "wof:lastmodified":1449056879,
+    "wof:lastmodified":1467082702,
     "wof:name":"Lesterville Feed & Grain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grain"
     ]
 },
-  "bbox": [-97.588415,43.037064,-97.588415,43.037064],
+  "bbox": [
+    -97.588415,
+    43.037064,
+    -97.588415,
+    43.037064
+],
   "geometry": {"coordinates":[-97.588415,43.037064],"type":"Point"}
 }

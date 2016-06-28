@@ -2,13 +2,14 @@
   "id": 387578989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.716993,43.153245,-97.716993,43.153245",
     "geom:latitude":43.153245,
     "geom:longitude":-97.716993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 3rd St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387578989,
-    "wof:lastmodified":1449057062,
+    "wof:lastmodified":1467082706,
     "wof:name":"Wewela Dill Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "item"
     ]
 },
-  "bbox": [-97.716993,43.153245,-97.716993,43.153245],
+  "bbox": [
+    -97.716993,
+    43.153245,
+    -97.716993,
+    43.153245
+],
   "geometry": {"coordinates":[-97.716993,43.153245],"type":"Point"}
 }

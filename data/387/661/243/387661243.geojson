@@ -2,13 +2,14 @@
   "id": 387661243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511085,45.459406,-98.511085,45.459406",
     "geom:latitude":45.459406,
     "geom:longitude":-98.511085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387661243,
-    "wof:lastmodified":1449059502,
+    "wof:lastmodified":1467082755,
     "wof:name":"Campbell's Town-Cntry Bldg Sup",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-98.511085,45.459406,-98.511085,45.459406],
-  "geometry": {"coordinates":[-98.511085,45.459406],"type":"Point"}
+  "bbox": [
+    -98.511085,
+    45.459406,
+    -98.511085,
+    45.459406
+],
+  "geometry": {"coordinates":[-98.51108499999999,45.459406],"type":"Point"}
 }

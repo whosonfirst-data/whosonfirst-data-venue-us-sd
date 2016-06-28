@@ -2,13 +2,14 @@
   "id": 403718299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806571,43.263329,-96.806571,43.263329",
     "geom:latitude":43.263329,
     "geom:longitude":-96.806571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28461 470th Ave",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403718299,
-    "wof:lastmodified":1449054932,
+    "wof:lastmodified":1467082677,
     "wof:name":"William Beck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.806571,43.263329,-96.806571,43.263329],
-  "geometry": {"coordinates":[-96.806571,43.263329],"type":"Point"}
+  "bbox": [
+    -96.806571,
+    43.263329,
+    -96.806571,
+    43.263329
+],
+  "geometry": {"coordinates":[-96.80657100000001,43.263329],"type":"Point"}
 }

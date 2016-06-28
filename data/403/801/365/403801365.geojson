@@ -2,13 +2,14 @@
   "id": 403801365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483965,45.464031,-98.483965,45.464031",
     "geom:latitude":45.464031,
     "geom:longitude":-98.483965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 1st Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403801365,
-    "wof:lastmodified":1449055737,
+    "wof:lastmodified":1467082683,
     "wof:name":"Johnny Cavelle Dance Studio",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-98.483965,45.464031,-98.483965,45.464031],
+  "bbox": [
+    -98.483965,
+    45.464031,
+    -98.483965,
+    45.464031
+],
   "geometry": {"coordinates":[-98.483965,45.464031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387825261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.541434,44.387086,-97.541434,44.387086",
     "geom:latitude":44.387086,
     "geom:longitude":-97.541434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Lyle Ave NE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387825261,
-    "wof:lastmodified":1449056264,
+    "wof:lastmodified":1467082690,
     "wof:name":"Kingsbury 4-H Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.541434,44.387086,-97.541434,44.387086],
+  "bbox": [
+    -97.541434,
+    44.387086,
+    -97.541434,
+    44.387086
+],
   "geometry": {"coordinates":[-97.541434,44.387086],"type":"Point"}
 }

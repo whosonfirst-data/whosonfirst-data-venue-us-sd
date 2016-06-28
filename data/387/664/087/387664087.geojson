@@ -2,13 +2,14 @@
   "id": 387664087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810252,43.534782,-96.810252,43.534782",
     "geom:latitude":43.534782,
     "geom:longitude":-96.810252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 S Honeysuckle Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387664087,
-    "wof:lastmodified":1449057509,
+    "wof:lastmodified":1467082715,
     "wof:name":"Oeml Liquidators",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.810252,43.534782,-96.810252,43.534782],
-  "geometry": {"coordinates":[-96.810252,43.534782],"type":"Point"}
+  "bbox": [
+    -96.810252,
+    43.534782,
+    -96.810252,
+    43.534782
+],
+  "geometry": {"coordinates":[-96.81025200000001,43.534782],"type":"Point"}
 }

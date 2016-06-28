@@ -2,13 +2,14 @@
   "id": 387755323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.437355,43.589456,-98.437355,43.589456",
     "geom:latitude":43.589456,
     "geom:longitude":-98.437355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N 3rd St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387755323,
-    "wof:lastmodified":1449057171,
+    "wof:lastmodified":1467082708,
     "wof:name":"Vernon Punt Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.437355,43.589456,-98.437355,43.589456],
+  "bbox": [
+    -98.437355,
+    43.589456,
+    -98.437355,
+    43.589456
+],
   "geometry": {"coordinates":[-98.437355,43.589456],"type":"Point"}
 }

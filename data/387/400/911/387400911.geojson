@@ -2,13 +2,14 @@
   "id": 387400911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.497925,45.448149,-98.497925,45.448149",
     "geom:latitude":45.448149,
     "geom:longitude":-98.497925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 S 7th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387400911,
-    "wof:lastmodified":1449056482,
+    "wof:lastmodified":1467082694,
     "wof:name":"Society For Preservation",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-98.497925,45.448149,-98.497925,45.448149],
+  "bbox": [
+    -98.497925,
+    45.448149,
+    -98.497925,
+    45.448149
+],
   "geometry": {"coordinates":[-98.497925,45.448149],"type":"Point"}
 }

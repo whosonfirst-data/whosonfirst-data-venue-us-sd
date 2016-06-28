@@ -2,13 +2,14 @@
   "id": 387961337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.592216,43.57699,-96.592216,43.57699",
     "geom:latitude":43.57699,
     "geom:longitude":-96.592216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Hackberry St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387961337,
-    "wof:lastmodified":1449059848,
+    "wof:lastmodified":1467082761,
     "wof:name":"K C's Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.592216,43.57699,-96.592216,43.57699],
-  "geometry": {"coordinates":[-96.592216,43.57699],"type":"Point"}
+  "bbox": [
+    -96.592216,
+    43.57699,
+    -96.592216,
+    43.57699
+],
+  "geometry": {"coordinates":[-96.59221599999999,43.57699],"type":"Point"}
 }

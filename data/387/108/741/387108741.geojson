@@ -2,13 +2,14 @@
   "id": 387108741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.322811,43.808604,-99.322811,43.808604",
     "geom:latitude":43.808604,
     "geom:longitude":-99.322811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 E Prospect Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387108741,
-    "wof:lastmodified":1449056180,
+    "wof:lastmodified":1467082688,
     "wof:name":"Farmers Union Co-Op Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-99.322811,43.808604,-99.322811,43.808604],
+  "bbox": [
+    -99.322811,
+    43.808604,
+    -99.322811,
+    43.808604
+],
   "geometry": {"coordinates":[-99.322811,43.808604],"type":"Point"}
 }

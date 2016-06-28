@@ -2,13 +2,14 @@
   "id": 387218145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.986958,44.519347,-98.986958,44.519347",
     "geom:latitude":44.519347,
     "geom:longitude":-98.986958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E 4th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387218145,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1467082735,
     "wof:name":"Miller Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.986958,44.519347,-98.986958,44.519347],
+  "bbox": [
+    -98.986958,
+    44.519347,
+    -98.986958,
+    44.519347
+],
   "geometry": {"coordinates":[-98.986958,44.519347],"type":"Point"}
 }

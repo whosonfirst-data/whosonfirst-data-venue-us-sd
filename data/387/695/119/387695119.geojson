@@ -2,13 +2,14 @@
   "id": 387695119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.484845,45.459128,-98.484845,45.459128",
     "geom:latitude":45.459128,
     "geom:longitude":-98.484845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387695119,
-    "wof:lastmodified":1449057548,
+    "wof:lastmodified":1467082716,
     "wof:name":"Sanders Robert J DDS",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.484845,45.459128,-98.484845,45.459128],
-  "geometry": {"coordinates":[-98.484845,45.459128],"type":"Point"}
+  "bbox": [
+    -98.484845,
+    45.459128,
+    -98.484845,
+    45.459128
+],
+  "geometry": {"coordinates":[-98.48484500000001,45.459128],"type":"Point"}
 }

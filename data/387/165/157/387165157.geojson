@@ -2,13 +2,14 @@
   "id": 387165157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.478097,43.425595,-103.478097,43.425595",
     "geom:latitude":43.425595,
     "geom:longitude":-103.478097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 S 14th St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387165157,
-    "wof:lastmodified":1449059928,
+    "wof:lastmodified":1467082763,
     "wof:name":"Black Hills MBL Extinguisher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "retail"
     ]
 },
-  "bbox": [-103.478097,43.425595,-103.478097,43.425595],
-  "geometry": {"coordinates":[-103.478097,43.425595],"type":"Point"}
+  "bbox": [
+    -103.478097,
+    43.425595,
+    -103.478097,
+    43.425595
+],
+  "geometry": {"coordinates":[-103.47809700000001,43.425595],"type":"Point"}
 }

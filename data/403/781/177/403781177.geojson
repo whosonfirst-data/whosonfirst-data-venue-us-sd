@@ -2,13 +2,14 @@
   "id": 403781177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496489,45.448888,-98.496489,45.448888",
     "geom:latitude":45.448888,
     "geom:longitude":-98.496489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 S 6th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403781177,
-    "wof:lastmodified":1449054889,
+    "wof:lastmodified":1467082677,
     "wof:name":"Simes & Simes",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.496489,45.448888,-98.496489,45.448888],
+  "bbox": [
+    -98.496489,
+    45.448888,
+    -98.496489,
+    45.448888
+],
   "geometry": {"coordinates":[-98.496489,45.448888],"type":"Point"}
 }

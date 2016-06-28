@@ -2,13 +2,14 @@
   "id": 387604829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.260842,44.059896,-103.260842,44.059896",
     "geom:latitude":44.059896,
     "geom:longitude":-103.260842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 Harney Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387604829,
-    "wof:lastmodified":1449059478,
+    "wof:lastmodified":1467082754,
     "wof:name":"Pinedale Too Preschool",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-103.260842,44.059896,-103.260842,44.059896],
+  "bbox": [
+    -103.260842,
+    44.059896,
+    -103.260842,
+    44.059896
+],
   "geometry": {"coordinates":[-103.260842,44.059896],"type":"Point"}
 }

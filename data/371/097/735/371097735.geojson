@@ -2,13 +2,14 @@
   "id": 371097735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.482584,44.236165,-96.482584,44.236165",
     "geom:latitude":44.236165,
     "geom:longitude":-96.482584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Buffalo St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371097735,
-    "wof:lastmodified":1449049436,
+    "wof:lastmodified":1467082664,
     "wof:name":"B & H Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-96.482584,44.236165,-96.482584,44.236165],
+  "bbox": [
+    -96.482584,
+    44.236165,
+    -96.482584,
+    44.236165
+],
   "geometry": {"coordinates":[-96.482584,44.236165],"type":"Point"}
 }

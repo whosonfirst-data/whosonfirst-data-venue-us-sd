@@ -2,13 +2,14 @@
   "id": 387445045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214242,44.343658,-98.214242,44.343658",
     "geom:latitude":44.343658,
     "geom:longitude":-98.214242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387445045,
-    "wof:lastmodified":1449056614,
+    "wof:lastmodified":1467082697,
     "wof:name":"Tobacco Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214242,44.343658,-98.214242,44.343658],
+  "bbox": [
+    -98.214242,
+    44.343658,
+    -98.214242,
+    44.343658
+],
   "geometry": {"coordinates":[-98.214242,44.343658],"type":"Point"}
 }

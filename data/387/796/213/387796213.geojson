@@ -2,13 +2,14 @@
   "id": 387796213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.603128,43.765369,-103.603128,43.765369",
     "geom:latitude":43.765369,
     "geom:longitude":-103.603128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387796213,
-    "wof:lastmodified":1449057897,
+    "wof:lastmodified":1467082723,
     "wof:name":"Gerald M Baldwin Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.603128,43.765369,-103.603128,43.765369],
+  "bbox": [
+    -103.603128,
+    43.765369,
+    -103.603128,
+    43.765369
+],
   "geometry": {"coordinates":[-103.603128,43.765369],"type":"Point"}
 }

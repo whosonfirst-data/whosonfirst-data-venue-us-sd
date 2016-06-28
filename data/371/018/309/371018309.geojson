@@ -2,13 +2,14 @@
   "id": 371018309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.017618,43.695014,-98.017618,43.695014",
     "geom:latitude":43.695014,
     "geom:longitude":-98.017618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E Norway Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371018309,
-    "wof:lastmodified":1449049552,
+    "wof:lastmodified":1467082665,
     "wof:name":"Twin Dragon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.017618,43.695014,-98.017618,43.695014],
+  "bbox": [
+    -98.017618,
+    43.695014,
+    -98.017618,
+    43.695014
+],
   "geometry": {"coordinates":[-98.017618,43.695014],"type":"Point"}
 }

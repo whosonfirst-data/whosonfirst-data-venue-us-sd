@@ -2,13 +2,14 @@
   "id": 370997063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.765516,44.352145,-103.765516,44.352145",
     "geom:latitude":44.352145,
     "geom:longitude":-103.765516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 US Hwy 14 Alt",
     "sg:city":"Central City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370997063,
-    "wof:lastmodified":1449031867,
+    "wof:lastmodified":1467082657,
     "wof:name":"Pizza Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.765516,44.352145,-103.765516,44.352145],
-  "geometry": {"coordinates":[-103.765516,44.352145],"type":"Point"}
+  "bbox": [
+    -103.765516,
+    44.352145,
+    -103.765516,
+    44.352145
+],
+  "geometry": {"coordinates":[-103.76551600000001,44.352145],"type":"Point"}
 }

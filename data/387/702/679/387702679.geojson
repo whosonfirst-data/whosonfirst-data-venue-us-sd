@@ -2,13 +2,14 @@
   "id": 387702679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.214031,43.485879,-97.214031,43.485879",
     "geom:latitude":43.485879,
     "geom:longitude":-97.214031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 3rd St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387702679,
-    "wof:lastmodified":1449058007,
+    "wof:lastmodified":1467082725,
     "wof:name":"Wayne Wieman Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.214031,43.485879,-97.214031,43.485879],
-  "geometry": {"coordinates":[-97.214031,43.485879],"type":"Point"}
+  "bbox": [
+    -97.214031,
+    43.485879,
+    -97.214031,
+    43.485879
+],
+  "geometry": {"coordinates":[-97.21403100000001,43.485879],"type":"Point"}
 }

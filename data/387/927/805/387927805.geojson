@@ -2,13 +2,14 @@
   "id": 387927805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.270444,43.197825,-98.270444,43.197825",
     "geom:latitude":43.197825,
     "geom:longitude":-98.270444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39591 289th St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387927805,
-    "wof:lastmodified":1449059518,
+    "wof:lastmodified":1467082755,
     "wof:name":"Chet B Eitemiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.270444,43.197825,-98.270444,43.197825],
+  "bbox": [
+    -98.270444,
+    43.197825,
+    -98.270444,
+    43.197825
+],
   "geometry": {"coordinates":[-98.270444,43.197825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371066135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.00598,43.776226,-97.00598,43.776226",
     "geom:latitude":43.776226,
     "geom:longitude":-97.00598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45992 249th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371066135,
-    "wof:lastmodified":1449049309,
+    "wof:lastmodified":1467082662,
     "wof:name":"Sign Design & Labeling Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "print"
     ]
 },
-  "bbox": [-97.00598,43.776226,-97.00598,43.776226],
-  "geometry": {"coordinates":[-97.00598,43.776226],"type":"Point"}
+  "bbox": [
+    -97.00598,
+    43.776226,
+    -97.00598,
+    43.776226
+],
+  "geometry": {"coordinates":[-97.00597999999999,43.776226],"type":"Point"}
 }

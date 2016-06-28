@@ -2,13 +2,14 @@
   "id": 371003311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.029848,43.706624,-98.029848,43.706624",
     "geom:latitude":43.706624,
     "geom:longitude":-98.029848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 W Birch Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371003311,
-    "wof:lastmodified":1449050062,
+    "wof:lastmodified":1467082672,
     "wof:name":"Action Pack Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.029848,43.706624,-98.029848,43.706624],
+  "bbox": [
+    -98.029848,
+    43.706624,
+    -98.029848,
+    43.706624
+],
   "geometry": {"coordinates":[-98.029848,43.706624],"type":"Point"}
 }

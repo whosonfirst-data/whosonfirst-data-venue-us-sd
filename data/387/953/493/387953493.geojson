@@ -2,13 +2,14 @@
   "id": 387953493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691256,44.753646,-96.691256,44.753646",
     "geom:latitude":44.753646,
     "geom:longitude":-96.691256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 9th Ave S",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387953493,
-    "wof:lastmodified":1449058733,
+    "wof:lastmodified":1467082739,
     "wof:name":"Pretty Windows By Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drapery"
     ]
 },
-  "bbox": [-96.691256,44.753646,-96.691256,44.753646],
+  "bbox": [
+    -96.691256,
+    44.753646,
+    -96.691256,
+    44.753646
+],
   "geometry": {"coordinates":[-96.691256,44.753646],"type":"Point"}
 }

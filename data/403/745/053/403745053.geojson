@@ -2,13 +2,14 @@
   "id": 403745053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025756,43.710368,-98.025756,43.710368",
     "geom:latitude":43.710368,
     "geom:longitude":-98.025756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 W 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403745053,
-    "wof:lastmodified":1449055888,
+    "wof:lastmodified":1467082684,
     "wof:name":"Milt's Radiator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "radiator"
     ]
 },
-  "bbox": [-98.025756,43.710368,-98.025756,43.710368],
+  "bbox": [
+    -98.025756,
+    43.710368,
+    -98.025756,
+    43.710368
+],
   "geometry": {"coordinates":[-98.025756,43.710368],"type":"Point"}
 }

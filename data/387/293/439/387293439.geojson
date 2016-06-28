@@ -2,13 +2,14 @@
   "id": 387293439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.335032,43.268367,-98.335032,43.268367",
     "geom:latitude":43.268367,
     "geom:longitude":-98.335032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39261 284th St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387293439,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1467082701,
     "wof:name":"BRB Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.335032,43.268367,-98.335032,43.268367],
+  "bbox": [
+    -98.335032,
+    43.268367,
+    -98.335032,
+    43.268367
+],
   "geometry": {"coordinates":[-98.335032,43.268367],"type":"Point"}
 }

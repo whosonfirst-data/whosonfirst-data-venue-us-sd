@@ -2,13 +2,14 @@
   "id": 387802353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.587714,43.594714,-96.587714,43.594714",
     "geom:latitude":43.594714,
     "geom:longitude":-96.587714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387802353,
-    "wof:lastmodified":1449059208,
+    "wof:lastmodified":1467082749,
     "wof:name":"U-Haul",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.587714,43.594714,-96.587714,43.594714],
-  "geometry": {"coordinates":[-96.587714,43.594714],"type":"Point"}
+  "bbox": [
+    -96.587714,
+    43.594714,
+    -96.587714,
+    43.594714
+],
+  "geometry": {"coordinates":[-96.58771400000001,43.594714],"type":"Point"}
 }

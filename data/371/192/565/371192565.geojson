@@ -2,13 +2,14 @@
   "id": 371192565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.221799,44.363172,-98.221799,44.363172",
     "geom:latitude":44.363172,
     "geom:longitude":-98.221799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 3rd St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371192565,
-    "wof:lastmodified":1449049797,
+    "wof:lastmodified":1467082669,
     "wof:name":"Clerk Of Courts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.221799,44.363172,-98.221799,44.363172],
+  "bbox": [
+    -98.221799,
+    44.363172,
+    -98.221799,
+    44.363172
+],
   "geometry": {"coordinates":[-98.221799,44.363172],"type":"Point"}
 }

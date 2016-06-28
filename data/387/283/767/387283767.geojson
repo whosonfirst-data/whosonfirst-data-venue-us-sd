@@ -2,13 +2,14 @@
   "id": 387283767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.944353,43.413247,-97.944353,43.413247",
     "geom:latitude":43.413247,
     "geom:longitude":-97.944353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41222 274th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387283767,
-    "wof:lastmodified":1449057224,
+    "wof:lastmodified":1467082709,
     "wof:name":"Thomas Kummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.944353,43.413247,-97.944353,43.413247],
-  "geometry": {"coordinates":[-97.944353,43.413247],"type":"Point"}
+  "bbox": [
+    -97.944353,
+    43.413247,
+    -97.944353,
+    43.413247
+],
+  "geometry": {"coordinates":[-97.94435300000001,43.413247],"type":"Point"}
 }

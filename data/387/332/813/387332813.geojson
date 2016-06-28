@@ -2,13 +2,14 @@
   "id": 387332813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.6744,43.636548,-98.6744,43.636548",
     "geom:latitude":43.636548,
     "geom:longitude":-98.6744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25875 376th Ave",
     "sg:city":"White Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387332813,
-    "wof:lastmodified":1449058226,
+    "wof:lastmodified":1467082729,
     "wof:name":"Bruinsma Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.6744,43.636548,-98.6744,43.636548],
-  "geometry": {"coordinates":[-98.6744,43.636548],"type":"Point"}
+  "bbox": [
+    -98.6744,
+    43.636548,
+    -98.6744,
+    43.636548
+],
+  "geometry": {"coordinates":[-98.67440000000001,43.636548],"type":"Point"}
 }

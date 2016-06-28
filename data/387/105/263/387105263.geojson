@@ -2,13 +2,14 @@
   "id": 387105263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803775,44.305552,-96.803775,44.305552",
     "geom:latitude":44.305552,
     "geom:longitude":-96.803775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Division Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387105263,
-    "wof:lastmodified":1449057557,
+    "wof:lastmodified":1467082716,
     "wof:name":"Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-96.803775,44.305552,-96.803775,44.305552],
+  "bbox": [
+    -96.803775,
+    44.305552,
+    -96.803775,
+    44.305552
+],
   "geometry": {"coordinates":[-96.803775,44.305552],"type":"Point"}
 }

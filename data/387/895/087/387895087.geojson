@@ -2,13 +2,14 @@
   "id": 387895087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.592827,43.585529,-96.592827,43.585529",
     "geom:latitude":43.585529,
     "geom:longitude":-96.592827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 W Marialane Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387895087,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1467082719,
     "wof:name":"Human Resources Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.592827,43.585529,-96.592827,43.585529],
+  "bbox": [
+    -96.592827,
+    43.585529,
+    -96.592827,
+    43.585529
+],
   "geometry": {"coordinates":[-96.592827,43.585529],"type":"Point"}
 }

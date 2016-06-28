@@ -2,13 +2,14 @@
   "id": 387668545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728083,43.545914,-96.728083,43.545914",
     "geom:latitude":43.545914,
     "geom:longitude":-96.728083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 W 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387668545,
-    "wof:lastmodified":1449058762,
+    "wof:lastmodified":1467082740,
     "wof:name":"Ming Wah",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.728083,43.545914,-96.728083,43.545914],
+  "bbox": [
+    -96.728083,
+    43.545914,
+    -96.728083,
+    43.545914
+],
   "geometry": {"coordinates":[-96.728083,43.545914],"type":"Point"}
 }

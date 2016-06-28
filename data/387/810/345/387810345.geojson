@@ -2,13 +2,14 @@
   "id": 387810345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.655685,43.030381,-97.655685,43.030381",
     "geom:latitude":43.030381,
     "geom:longitude":-97.655685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30058 427th Ave",
     "sg:city":"Lesterville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387810345,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1467082708,
     "wof:name":"Mildred Walloch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-97.655685,43.030381,-97.655685,43.030381],
-  "geometry": {"coordinates":[-97.655685,43.030381],"type":"Point"}
+  "bbox": [
+    -97.655685,
+    43.030381,
+    -97.655685,
+    43.030381
+],
+  "geometry": {"coordinates":[-97.65568500000001,43.030381],"type":"Point"}
 }

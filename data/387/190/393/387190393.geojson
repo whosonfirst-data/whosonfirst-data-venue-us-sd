@@ -2,13 +2,14 @@
   "id": 387190393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.004263,43.709661,-98.004263,43.709661",
     "geom:latitude":43.709661,
     "geom:longitude":-98.004263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 E 1st Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387190393,
-    "wof:lastmodified":1449059678,
+    "wof:lastmodified":1467082758,
     "wof:name":"Tender Hearts Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-98.004263,43.709661,-98.004263,43.709661],
-  "geometry": {"coordinates":[-98.004263,43.709661],"type":"Point"}
+  "bbox": [
+    -98.004263,
+    43.709661,
+    -98.004263,
+    43.709661
+],
+  "geometry": {"coordinates":[-98.00426299999999,43.709661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387042565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756245,43.553906,-96.756245,43.553906",
     "geom:latitude":43.553906,
     "geom:longitude":-96.756245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Paramount Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387042565,
-    "wof:lastmodified":1449058995,
+    "wof:lastmodified":1467082745,
     "wof:name":"Starlite Estates Mobile Home",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-96.756245,43.553906,-96.756245,43.553906],
-  "geometry": {"coordinates":[-96.756245,43.553906],"type":"Point"}
+  "bbox": [
+    -96.756245,
+    43.553906,
+    -96.756245,
+    43.553906
+],
+  "geometry": {"coordinates":[-96.75624500000001,43.553906],"type":"Point"}
 }

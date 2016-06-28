@@ -2,13 +2,14 @@
   "id": 370972799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775319,43.739116,-96.775319,43.739116",
     "geom:latitude":43.739116,
     "geom:longitude":-96.775319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25167 472nd Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370972799,
-    "wof:lastmodified":1449030780,
+    "wof:lastmodified":1467082656,
     "wof:name":"Power Cell LLC",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-96.775319,43.739116,-96.775319,43.739116],
+  "bbox": [
+    -96.775319,
+    43.739116,
+    -96.775319,
+    43.739116
+],
   "geometry": {"coordinates":[-96.775319,43.739116],"type":"Point"}
 }

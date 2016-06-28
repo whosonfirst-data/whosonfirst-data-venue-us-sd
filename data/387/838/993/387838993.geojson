@@ -2,13 +2,14 @@
   "id": 387838993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752028,43.554635,-96.752028,43.554635",
     "geom:latitude":43.554635,
     "geom:longitude":-96.752028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W Burnside St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387838993,
-    "wof:lastmodified":1449056570,
+    "wof:lastmodified":1467082696,
     "wof:name":"C T Storage",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "replacement"
     ]
 },
-  "bbox": [-96.752028,43.554635,-96.752028,43.554635],
+  "bbox": [
+    -96.752028,
+    43.554635,
+    -96.752028,
+    43.554635
+],
   "geometry": {"coordinates":[-96.752028,43.554635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387794569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.292507,43.082701,-98.292507,43.082701",
     "geom:latitude":43.082701,
     "geom:longitude":-98.292507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Park St NE",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387794569,
-    "wof:lastmodified":1449057931,
+    "wof:lastmodified":1467082723,
     "wof:name":"Heatmiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "furnace"
     ]
 },
-  "bbox": [-98.292507,43.082701,-98.292507,43.082701],
+  "bbox": [
+    -98.292507,
+    43.082701,
+    -98.292507,
+    43.082701
+],
   "geometry": {"coordinates":[-98.292507,43.082701],"type":"Point"}
 }

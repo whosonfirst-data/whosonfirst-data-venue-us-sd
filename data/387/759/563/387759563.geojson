@@ -2,13 +2,14 @@
   "id": 387759563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198858,44.088525,-103.198858,44.088525",
     "geom:latitude":44.088525,
     "geom:longitude":-103.198858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 E Watertown St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387759563,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1467082764,
     "wof:name":"Black Hills Career Lrng Ctr",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "administrative"
     ]
 },
-  "bbox": [-103.198858,44.088525,-103.198858,44.088525],
+  "bbox": [
+    -103.198858,
+    44.088525,
+    -103.198858,
+    44.088525
+],
   "geometry": {"coordinates":[-103.198858,44.088525],"type":"Point"}
 }

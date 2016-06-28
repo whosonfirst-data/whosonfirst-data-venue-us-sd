@@ -2,13 +2,14 @@
   "id": 387180885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.203784,44.350631,-98.203784,44.350631",
     "geom:latitude":44.350631,
     "geom:longitude":-98.203784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Nicholas Ct",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387180885,
-    "wof:lastmodified":1449056269,
+    "wof:lastmodified":1467082690,
     "wof:name":"Mees Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.203784,44.350631,-98.203784,44.350631],
+  "bbox": [
+    -98.203784,
+    44.350631,
+    -98.203784,
+    44.350631
+],
   "geometry": {"coordinates":[-98.203784,44.350631],"type":"Point"}
 }

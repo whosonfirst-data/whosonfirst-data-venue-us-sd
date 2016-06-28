@@ -2,13 +2,14 @@
   "id": 371093221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.36871,45.458908,-98.36871,45.458908",
     "geom:latitude":45.458908,
     "geom:longitude":-98.36871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39316 133rd St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371093221,
-    "wof:lastmodified":1449049062,
+    "wof:lastmodified":1467082658,
     "wof:name":"Gordon Schmidt Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.36871,45.458908,-98.36871,45.458908],
-  "geometry": {"coordinates":[-98.36871,45.458908],"type":"Point"}
+  "bbox": [
+    -98.36871,
+    45.458908,
+    -98.36871,
+    45.458908
+],
+  "geometry": {"coordinates":[-98.36870999999999,45.458908],"type":"Point"}
 }

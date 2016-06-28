@@ -2,13 +2,14 @@
   "id": 387090705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.811724,44.452382,-103.811724,44.452382",
     "geom:latitude":44.452382,
     "geom:longitude":-103.811724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Christensen Dr",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387090705,
-    "wof:lastmodified":1449059142,
+    "wof:lastmodified":1467082748,
     "wof:name":"Willow & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "replacement"
     ]
 },
-  "bbox": [-103.811724,44.452382,-103.811724,44.452382],
+  "bbox": [
+    -103.811724,
+    44.452382,
+    -103.811724,
+    44.452382
+],
   "geometry": {"coordinates":[-103.811724,44.452382],"type":"Point"}
 }

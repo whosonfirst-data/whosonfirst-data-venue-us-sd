@@ -2,13 +2,14 @@
   "id": 387899261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.44122,45.472071,-98.44122,45.472071",
     "geom:latitude":45.472071,
     "geom:longitude":-98.44122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2916 Idea Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387899261,
-    "wof:lastmodified":1449059726,
+    "wof:lastmodified":1467082759,
     "wof:name":"Wooden Mallet",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.44122,45.472071,-98.44122,45.472071],
+  "bbox": [
+    -98.44122,
+    45.472071,
+    -98.44122,
+    45.472071
+],
   "geometry": {"coordinates":[-98.44122,45.472071],"type":"Point"}
 }

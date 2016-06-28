@@ -2,13 +2,14 @@
   "id": 387315961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.369522,44.354182,-100.369522,44.354182",
     "geom:latitude":44.354182,
     "geom:longitude":-100.369522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 E Main Ave",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387315961,
-    "wof:lastmodified":1449059723,
+    "wof:lastmodified":1467082759,
     "wof:name":"Bad River Surplus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.369522,44.354182,-100.369522,44.354182],
+  "bbox": [
+    -100.369522,
+    44.354182,
+    -100.369522,
+    44.354182
+],
   "geometry": {"coordinates":[-100.369522,44.354182],"type":"Point"}
 }

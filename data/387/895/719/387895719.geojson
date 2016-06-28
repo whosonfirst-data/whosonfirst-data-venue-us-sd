@@ -2,13 +2,14 @@
   "id": 387895719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.133775,44.361066,-98.133775,44.361066",
     "geom:latitude":44.361066,
     "geom:longitude":-98.133775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20865 404th Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387895719,
-    "wof:lastmodified":1449057719,
+    "wof:lastmodified":1467082719,
     "wof:name":"Pat Cronin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.133775,44.361066,-98.133775,44.361066],
+  "bbox": [
+    -98.133775,
+    44.361066,
+    -98.133775,
+    44.361066
+],
   "geometry": {"coordinates":[-98.133775,44.361066],"type":"Point"}
 }

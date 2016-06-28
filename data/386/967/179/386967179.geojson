@@ -2,13 +2,14 @@
   "id": 386967179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.575133,43.588356,-96.575133,43.588356",
     "geom:latitude":43.588356,
     "geom:longitude":-96.575133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Lark Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386967179,
-    "wof:lastmodified":1449028962,
+    "wof:lastmodified":1467082655,
     "wof:name":"Kimz Klozet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "house"
     ]
 },
-  "bbox": [-96.575133,43.588356,-96.575133,43.588356],
-  "geometry": {"coordinates":[-96.575133,43.588356],"type":"Point"}
+  "bbox": [
+    -96.575133,
+    43.588356,
+    -96.575133,
+    43.588356
+],
+  "geometry": {"coordinates":[-96.57513299999999,43.588356],"type":"Point"}
 }

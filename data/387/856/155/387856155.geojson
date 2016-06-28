@@ -2,13 +2,14 @@
   "id": 387856155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947137,43.621899,-96.947137,43.621899",
     "geom:latitude":43.621899,
     "geom:longitude":-96.947137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Oaks Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387856155,
-    "wof:lastmodified":1449057177,
+    "wof:lastmodified":1467082708,
     "wof:name":"Hartford Fire Station",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.947137,43.621899,-96.947137,43.621899],
+  "bbox": [
+    -96.947137,
+    43.621899,
+    -96.947137,
+    43.621899
+],
   "geometry": {"coordinates":[-96.947137,43.621899],"type":"Point"}
 }

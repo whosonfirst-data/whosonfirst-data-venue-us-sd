@@ -2,13 +2,14 @@
   "id": 371108359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.638268,44.466488,-103.638268,44.466488",
     "geom:latitude":44.466488,
     "geom:longitude":-103.638268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Fillmore St",
     "sg:city":"Whitewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371108359,
-    "wof:lastmodified":1449049090,
+    "wof:lastmodified":1467082659,
     "wof:name":"Immanuel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.638268,44.466488,-103.638268,44.466488],
+  "bbox": [
+    -103.638268,
+    44.466488,
+    -103.638268,
+    44.466488
+],
   "geometry": {"coordinates":[-103.638268,44.466488],"type":"Point"}
 }

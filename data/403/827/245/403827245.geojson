@@ -2,13 +2,14 @@
   "id": 403827245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.053798,43.629681,-98.053798,43.629681",
     "geom:latitude":43.629681,
     "geom:longitude":-98.053798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40750 259th St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403827245,
-    "wof:lastmodified":1449055105,
+    "wof:lastmodified":1467082679,
     "wof:name":"Colwell Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.053798,43.629681,-98.053798,43.629681],
+  "bbox": [
+    -98.053798,
+    43.629681,
+    -98.053798,
+    43.629681
+],
   "geometry": {"coordinates":[-98.053798,43.629681],"type":"Point"}
 }

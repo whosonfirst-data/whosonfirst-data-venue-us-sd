@@ -2,13 +2,14 @@
   "id": 387011713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.637322,43.427143,-96.637322,43.427143",
     "geom:latitude":43.427143,
     "geom:longitude":-96.637322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27335 Ridgeway Rd",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387011713,
-    "wof:lastmodified":1449059230,
+    "wof:lastmodified":1467082749,
     "wof:name":"Heartland Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.637322,43.427143,-96.637322,43.427143],
+  "bbox": [
+    -96.637322,
+    43.427143,
+    -96.637322,
+    43.427143
+],
   "geometry": {"coordinates":[-96.637322,43.427143],"type":"Point"}
 }

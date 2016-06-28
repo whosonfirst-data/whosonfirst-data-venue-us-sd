@@ -2,13 +2,14 @@
   "id": 371083471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.4296,45.533276,-100.4296,45.533276",
     "geom:latitude":45.533276,
     "geom:longitude":-100.4296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 3rd Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371083471,
-    "wof:lastmodified":1449049502,
+    "wof:lastmodified":1467082665,
     "wof:name":"Northeastern Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-100.4296,45.533276,-100.4296,45.533276],
-  "geometry": {"coordinates":[-100.4296,45.533276],"type":"Point"}
+  "bbox": [
+    -100.4296,
+    45.533276,
+    -100.4296,
+    45.533276
+],
+  "geometry": {"coordinates":[-100.42959999999999,45.533276],"type":"Point"}
 }

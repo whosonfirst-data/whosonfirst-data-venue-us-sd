@@ -2,13 +2,14 @@
   "id": 387272629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.376805,44.219546,-103.376805,44.219546",
     "geom:latitude":44.219546,
     "geom:longitude":-103.376805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14460 Apple Dr",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387272629,
-    "wof:lastmodified":1449059657,
+    "wof:lastmodified":1467082758,
     "wof:name":"Heartland Payment Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "card"
     ]
 },
-  "bbox": [-103.376805,44.219546,-103.376805,44.219546],
+  "bbox": [
+    -103.376805,
+    44.219546,
+    -103.376805,
+    44.219546
+],
   "geometry": {"coordinates":[-103.376805,44.219546],"type":"Point"}
 }

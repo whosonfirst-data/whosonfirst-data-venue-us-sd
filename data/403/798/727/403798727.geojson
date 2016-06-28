@@ -2,13 +2,14 @@
   "id": 403798727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.027076,43.716246,-98.027076,43.716246",
     "geom:latitude":43.716246,
     "geom:longitude":-98.027076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 N Rowley St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403798727,
-    "wof:lastmodified":1449054882,
+    "wof:lastmodified":1467082677,
     "wof:name":"J R's Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-98.027076,43.716246,-98.027076,43.716246],
-  "geometry": {"coordinates":[-98.027076,43.716246],"type":"Point"}
+  "bbox": [
+    -98.027076,
+    43.716246,
+    -98.027076,
+    43.716246
+],
+  "geometry": {"coordinates":[-98.02707599999999,43.716246],"type":"Point"}
 }

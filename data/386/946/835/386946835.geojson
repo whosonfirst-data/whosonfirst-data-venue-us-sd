@@ -2,13 +2,14 @@
   "id": 386946835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73127,43.535785,-96.73127,43.535785",
     "geom:latitude":43.535785,
     "geom:longitude":-96.73127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386946835,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1467082655,
     "wof:name":"Global Liquors",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.73127,43.535785,-96.73127,43.535785],
-  "geometry": {"coordinates":[-96.73127,43.535785],"type":"Point"}
+  "bbox": [
+    -96.73127,
+    43.535785,
+    -96.73127,
+    43.535785
+],
+  "geometry": {"coordinates":[-96.73126999999999,43.535785],"type":"Point"}
 }

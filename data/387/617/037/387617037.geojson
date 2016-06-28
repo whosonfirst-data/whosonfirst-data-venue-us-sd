@@ -2,13 +2,14 @@
   "id": 387617037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.130004,44.902775,-97.130004,44.902775",
     "geom:latitude":44.902775,
     "geom:longitude":-97.130004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387617037,
-    "wof:lastmodified":1449056252,
+    "wof:lastmodified":1467082689,
     "wof:name":"Wishard Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.130004,44.902775,-97.130004,44.902775],
+  "bbox": [
+    -97.130004,
+    44.902775,
+    -97.130004,
+    44.902775
+],
   "geometry": {"coordinates":[-97.130004,44.902775],"type":"Point"}
 }

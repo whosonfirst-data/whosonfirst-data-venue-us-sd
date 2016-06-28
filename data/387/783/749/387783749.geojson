@@ -2,13 +2,14 @@
   "id": 387783749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.437458,43.351279,-97.437458,43.351279",
     "geom:latitude":43.351279,
     "geom:longitude":-97.437458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 S Main St",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387783749,
-    "wof:lastmodified":1449056239,
+    "wof:lastmodified":1467082689,
     "wof:name":"Stahl's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.437458,43.351279,-97.437458,43.351279],
-  "geometry": {"coordinates":[-97.437458,43.351279],"type":"Point"}
+  "bbox": [
+    -97.437458,
+    43.351279,
+    -97.437458,
+    43.351279
+],
+  "geometry": {"coordinates":[-97.43745800000001,43.351279],"type":"Point"}
 }

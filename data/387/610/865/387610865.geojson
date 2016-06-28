@@ -2,13 +2,14 @@
   "id": 387610865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671408,43.534831,-96.671408,43.534831",
     "geom:latitude":43.534831,
     "geom:longitude":-96.671408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 E 20th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387610865,
-    "wof:lastmodified":1449059860,
+    "wof:lastmodified":1467082762,
     "wof:name":"Hilltop Beauty Salon",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.671408,43.534831,-96.671408,43.534831],
+  "bbox": [
+    -96.671408,
+    43.534831,
+    -96.671408,
+    43.534831
+],
   "geometry": {"coordinates":[-96.671408,43.534831],"type":"Point"}
 }

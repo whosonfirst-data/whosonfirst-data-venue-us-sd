@@ -2,13 +2,14 @@
   "id": 387671015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722333,43.543386,-96.722333,43.543386",
     "geom:latitude":43.543386,
     "geom:longitude":-96.722333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387671015,
-    "wof:lastmodified":1449056984,
+    "wof:lastmodified":1467082704,
     "wof:name":"Common Sense",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.722333,43.543386,-96.722333,43.543386],
-  "geometry": {"coordinates":[-96.722333,43.543386],"type":"Point"}
+  "bbox": [
+    -96.722333,
+    43.543386,
+    -96.722333,
+    43.543386
+],
+  "geometry": {"coordinates":[-96.72233300000001,43.543386],"type":"Point"}
 }

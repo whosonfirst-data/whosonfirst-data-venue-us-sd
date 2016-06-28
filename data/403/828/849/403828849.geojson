@@ -2,13 +2,14 @@
   "id": 403828849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214138,44.368054,-98.214138,44.368054",
     "geom:latitude":44.368054,
     "geom:longitude":-98.214138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403828849,
-    "wof:lastmodified":1449055326,
+    "wof:lastmodified":1467082680,
     "wof:name":"Fair City Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.214138,44.368054,-98.214138,44.368054],
-  "geometry": {"coordinates":[-98.214138,44.368054],"type":"Point"}
+  "bbox": [
+    -98.214138,
+    44.368054,
+    -98.214138,
+    44.368054
+],
+  "geometry": {"coordinates":[-98.21413800000001,44.368054],"type":"Point"}
 }

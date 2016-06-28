@@ -2,13 +2,14 @@
   "id": 403779857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.260268,44.101151,-103.260268,44.101151",
     "geom:latitude":44.101151,
     "geom:longitude":-103.260268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 S Plaza Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403779857,
-    "wof:lastmodified":1449054831,
+    "wof:lastmodified":1467082676,
     "wof:name":"Happy Tails Dog Training",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dog"
     ]
 },
-  "bbox": [-103.260268,44.101151,-103.260268,44.101151],
+  "bbox": [
+    -103.260268,
+    44.101151,
+    -103.260268,
+    44.101151
+],
   "geometry": {"coordinates":[-103.260268,44.101151],"type":"Point"}
 }

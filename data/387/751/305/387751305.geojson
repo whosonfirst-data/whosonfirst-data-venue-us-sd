@@ -2,13 +2,14 @@
   "id": 387751305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221725,44.100145,-103.221725,44.100145",
     "geom:latitude":44.100145,
     "geom:longitude":-103.221725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387751305,
-    "wof:lastmodified":1449056326,
+    "wof:lastmodified":1467082691,
     "wof:name":"Intertribal Baptist Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.221725,44.100145,-103.221725,44.100145],
-  "geometry": {"coordinates":[-103.221725,44.100145],"type":"Point"}
+  "bbox": [
+    -103.221725,
+    44.100145,
+    -103.221725,
+    44.100145
+],
+  "geometry": {"coordinates":[-103.22172500000001,44.100145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387625585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.373453,44.876593,-97.373453,44.876593",
     "geom:latitude":44.876593,
     "geom:longitude":-97.373453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44187 US Hwy 212",
     "sg:city":"Henry",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387625585,
-    "wof:lastmodified":1449059979,
+    "wof:lastmodified":1467082764,
     "wof:name":"Dakota Auto Crushers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-97.373453,44.876593,-97.373453,44.876593],
+  "bbox": [
+    -97.373453,
+    44.876593,
+    -97.373453,
+    44.876593
+],
   "geometry": {"coordinates":[-97.373453,44.876593],"type":"Point"}
 }

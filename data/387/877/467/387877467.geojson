@@ -2,13 +2,14 @@
   "id": 387877467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.723872,43.542538,-96.723872,43.542538",
     "geom:latitude":43.542538,
     "geom:longitude":-96.723872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S 2nd Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387877467,
-    "wof:lastmodified":1449058787,
+    "wof:lastmodified":1467082740,
     "wof:name":"Command Center",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.723872,43.542538,-96.723872,43.542538],
+  "bbox": [
+    -96.723872,
+    43.542538,
+    -96.723872,
+    43.542538
+],
   "geometry": {"coordinates":[-96.723872,43.542538],"type":"Point"}
 }

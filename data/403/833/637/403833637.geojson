@@ -2,13 +2,14 @@
   "id": 403833637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.291763,44.006596,-103.291763,44.006596",
     "geom:latitude":44.006596,
     "geom:longitude":-103.291763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4265 Peridot Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403833637,
-    "wof:lastmodified":1449054788,
+    "wof:lastmodified":1467082675,
     "wof:name":"Great American Tour Company",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "promoter"
     ]
 },
-  "bbox": [-103.291763,44.006596,-103.291763,44.006596],
+  "bbox": [
+    -103.291763,
+    44.006596,
+    -103.291763,
+    44.006596
+],
   "geometry": {"coordinates":[-103.291763,44.006596],"type":"Point"}
 }

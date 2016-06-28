@@ -2,13 +2,14 @@
   "id": 387072897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.996948,43.630624,-96.996948,43.630624",
     "geom:latitude":43.630624,
     "geom:longitude":-96.996948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46087 259th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387072897,
-    "wof:lastmodified":1449058114,
+    "wof:lastmodified":1467082727,
     "wof:name":"Ideker Construction Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.996948,43.630624,-96.996948,43.630624],
+  "bbox": [
+    -96.996948,
+    43.630624,
+    -96.996948,
+    43.630624
+],
   "geometry": {"coordinates":[-96.996948,43.630624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403737969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685702,44.752321,-96.685702,44.752321",
     "geom:latitude":44.752321,
     "geom:longitude":-96.685702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 5th Ave S",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403737969,
-    "wof:lastmodified":1449054950,
+    "wof:lastmodified":1467082677,
     "wof:name":"United Methodist Paronage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.685702,44.752321,-96.685702,44.752321],
-  "geometry": {"coordinates":[-96.685702,44.752321],"type":"Point"}
+  "bbox": [
+    -96.685702,
+    44.752321,
+    -96.685702,
+    44.752321
+],
+  "geometry": {"coordinates":[-96.68570200000001,44.752321],"type":"Point"}
 }

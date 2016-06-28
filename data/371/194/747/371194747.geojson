@@ -2,13 +2,14 @@
   "id": 371194747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.151608,43.408931,-98.151608,43.408931",
     "geom:latitude":43.408931,
     "geom:longitude":-98.151608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27427 402nd Ave",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371194747,
-    "wof:lastmodified":1449049976,
+    "wof:lastmodified":1467082671,
     "wof:name":"Luebke Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.151608,43.408931,-98.151608,43.408931],
+  "bbox": [
+    -98.151608,
+    43.408931,
+    -98.151608,
+    43.408931
+],
   "geometry": {"coordinates":[-98.151608,43.408931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387396511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.527619,44.008924,-97.527619,44.008924",
     "geom:latitude":44.008924,
     "geom:longitude":-97.527619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Market Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387396511,
-    "wof:lastmodified":1449058607,
+    "wof:lastmodified":1467082737,
     "wof:name":"Sturdevant's Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.527619,44.008924,-97.527619,44.008924],
+  "bbox": [
+    -97.527619,
+    44.008924,
+    -97.527619,
+    44.008924
+],
   "geometry": {"coordinates":[-97.527619,44.008924],"type":"Point"}
 }

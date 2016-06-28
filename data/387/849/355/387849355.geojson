@@ -2,13 +2,14 @@
   "id": 387849355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720959,45.222477,-96.720959,45.222477",
     "geom:latitude":45.222477,
     "geom:longitude":-96.720959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47497 US Hwy 12",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387849355,
-    "wof:lastmodified":1449056799,
+    "wof:lastmodified":1467082700,
     "wof:name":"Mike Trapp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.720959,45.222477,-96.720959,45.222477],
-  "geometry": {"coordinates":[-96.720959,45.222477],"type":"Point"}
+  "bbox": [
+    -96.720959,
+    45.222477,
+    -96.720959,
+    45.222477
+],
+  "geometry": {"coordinates":[-96.72095899999999,45.222477],"type":"Point"}
 }

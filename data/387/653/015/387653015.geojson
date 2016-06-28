@@ -2,13 +2,14 @@
   "id": 387653015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.990209,44.520562,-98.990209,44.520562",
     "geom:latitude":44.520562,
     "geom:longitude":-98.990209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 5th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387653015,
-    "wof:lastmodified":1449056385,
+    "wof:lastmodified":1467082692,
     "wof:name":"Heartland Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.990209,44.520562,-98.990209,44.520562],
-  "geometry": {"coordinates":[-98.990209,44.520562],"type":"Point"}
+  "bbox": [
+    -98.990209,
+    44.520562,
+    -98.990209,
+    44.520562
+],
+  "geometry": {"coordinates":[-98.99020899999999,44.520562],"type":"Point"}
 }

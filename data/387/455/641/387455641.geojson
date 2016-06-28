@@ -2,13 +2,14 @@
   "id": 387455641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.205825,44.354486,-98.205825,44.354486",
     "geom:latitude":44.354486,
     "geom:longitude":-98.205825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 Beach Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387455641,
-    "wof:lastmodified":1449059318,
+    "wof:lastmodified":1467082751,
     "wof:name":"Elite Auto & Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.205825,44.354486,-98.205825,44.354486],
+  "bbox": [
+    -98.205825,
+    44.354486,
+    -98.205825,
+    44.354486
+],
   "geometry": {"coordinates":[-98.205825,44.354486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387270683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.450989,45.450457,-98.450989,45.450457",
     "geom:latitude":45.450457,
     "geom:longitude":-98.450989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2622 13th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387270683,
-    "wof:lastmodified":1449056778,
+    "wof:lastmodified":1467082700,
     "wof:name":"Brown County Speedway",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "racetrack"
     ]
 },
-  "bbox": [-98.450989,45.450457,-98.450989,45.450457],
-  "geometry": {"coordinates":[-98.450989,45.450457],"type":"Point"}
+  "bbox": [
+    -98.450989,
+    45.450457,
+    -98.450989,
+    45.450457
+],
+  "geometry": {"coordinates":[-98.45098900000001,45.450457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387345621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.338206,44.170101,-98.338206,44.170101",
     "geom:latitude":44.170101,
     "geom:longitude":-98.338206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39340 222nd St",
     "sg:city":"Alpena",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387345621,
-    "wof:lastmodified":1449059619,
+    "wof:lastmodified":1467082757,
     "wof:name":"Losing Gaylan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.338206,44.170101,-98.338206,44.170101],
+  "bbox": [
+    -98.338206,
+    44.170101,
+    -98.338206,
+    44.170101
+],
   "geometry": {"coordinates":[-98.338206,44.170101],"type":"Point"}
 }

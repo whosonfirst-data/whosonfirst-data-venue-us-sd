@@ -2,13 +2,14 @@
   "id": 387881281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726862,43.116457,-96.726862,43.116457",
     "geom:latitude":43.116457,
     "geom:longitude":-96.726862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29474 474th Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387881281,
-    "wof:lastmodified":1449058313,
+    "wof:lastmodified":1467082731,
     "wof:name":"Agriliance LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "related"
     ]
 },
-  "bbox": [-96.726862,43.116457,-96.726862,43.116457],
+  "bbox": [
+    -96.726862,
+    43.116457,
+    -96.726862,
+    43.116457
+],
   "geometry": {"coordinates":[-96.726862,43.116457],"type":"Point"}
 }

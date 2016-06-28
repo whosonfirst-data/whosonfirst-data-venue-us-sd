@@ -2,13 +2,14 @@
   "id": 387818779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10779,44.535872,-97.10779,44.535872",
     "geom:latitude":44.535872,
     "geom:longitude":-97.10779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 S Lake Dr",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387818779,
-    "wof:lastmodified":1449057947,
+    "wof:lastmodified":1467082724,
     "wof:name":"Darryl Moore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.10779,44.535872,-97.10779,44.535872],
-  "geometry": {"coordinates":[-97.10779,44.535872],"type":"Point"}
+  "bbox": [
+    -97.10779,
+    44.535872,
+    -97.10779,
+    44.535872
+],
+  "geometry": {"coordinates":[-97.10778999999999,44.535872],"type":"Point"}
 }

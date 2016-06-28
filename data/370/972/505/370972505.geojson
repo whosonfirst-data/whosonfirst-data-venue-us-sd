@@ -2,13 +2,14 @@
   "id": 370972505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118681,44.902549,-97.118681,44.902549",
     "geom:latitude":44.902549,
     "geom:longitude":-97.118681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 1st Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370972505,
-    "wof:lastmodified":1449030779,
+    "wof:lastmodified":1467082656,
     "wof:name":"Terrco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.118681,44.902549,-97.118681,44.902549],
+  "bbox": [
+    -97.118681,
+    44.902549,
+    -97.118681,
+    44.902549
+],
   "geometry": {"coordinates":[-97.118681,44.902549],"type":"Point"}
 }

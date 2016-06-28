@@ -2,13 +2,14 @@
   "id": 387211837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.102519,44.902854,-97.102519,44.902854",
     "geom:latitude":44.902854,
     "geom:longitude":-97.102519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 C Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387211837,
-    "wof:lastmodified":1449057041,
+    "wof:lastmodified":1467082705,
     "wof:name":"Ceramics By Marianne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.102519,44.902854,-97.102519,44.902854],
+  "bbox": [
+    -97.102519,
+    44.902854,
+    -97.102519,
+    44.902854
+],
   "geometry": {"coordinates":[-97.102519,44.902854],"type":"Point"}
 }

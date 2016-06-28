@@ -2,13 +2,14 @@
   "id": 387415333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463902,45.298277,-96.463902,45.298277",
     "geom:latitude":45.298277,
     "geom:longitude":-96.463902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 2nd Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387415333,
-    "wof:lastmodified":1449058858,
+    "wof:lastmodified":1467082742,
     "wof:name":"Harold Fedt Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.463902,45.298277,-96.463902,45.298277],
+  "bbox": [
+    -96.463902,
+    45.298277,
+    -96.463902,
+    45.298277
+],
   "geometry": {"coordinates":[-96.463902,45.298277],"type":"Point"}
 }

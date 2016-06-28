@@ -2,13 +2,14 @@
   "id": 403752793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751169,43.55642,-96.751169,43.55642",
     "geom:latitude":43.55642,
     "geom:longitude":-96.751169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 N Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403752793,
-    "wof:lastmodified":1449054851,
+    "wof:lastmodified":1467082676,
     "wof:name":"Sigler Fire Equipment Co",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-96.751169,43.55642,-96.751169,43.55642],
+  "bbox": [
+    -96.751169,
+    43.55642,
+    -96.751169,
+    43.55642
+],
   "geometry": {"coordinates":[-96.751169,43.55642],"type":"Point"}
 }

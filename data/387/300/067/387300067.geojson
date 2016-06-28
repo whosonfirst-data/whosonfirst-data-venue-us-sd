@@ -2,13 +2,14 @@
   "id": 387300067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.345664,43.726858,-98.345664,43.726858",
     "geom:latitude":43.726858,
     "geom:longitude":-98.345664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25231 393rd Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387300067,
-    "wof:lastmodified":1449058246,
+    "wof:lastmodified":1467082730,
     "wof:name":"Gary Gjesdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.345664,43.726858,-98.345664,43.726858],
+  "bbox": [
+    -98.345664,
+    43.726858,
+    -98.345664,
+    43.726858
+],
   "geometry": {"coordinates":[-98.345664,43.726858],"type":"Point"}
 }

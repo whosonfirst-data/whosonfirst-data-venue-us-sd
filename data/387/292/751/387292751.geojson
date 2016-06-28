@@ -2,13 +2,14 @@
   "id": 387292751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.293648,44.039465,-103.293648,44.039465",
     "geom:latitude":44.039465,
     "geom:longitude":-103.293648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 S Glenview Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387292751,
-    "wof:lastmodified":1449056424,
+    "wof:lastmodified":1467082693,
     "wof:name":"Bentar LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "closed"
     ]
 },
-  "bbox": [-103.293648,44.039465,-103.293648,44.039465],
+  "bbox": [
+    -103.293648,
+    44.039465,
+    -103.293648,
+    44.039465
+],
   "geometry": {"coordinates":[-103.293648,44.039465],"type":"Point"}
 }

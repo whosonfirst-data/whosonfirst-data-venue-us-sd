@@ -2,13 +2,14 @@
   "id": 387323219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593594,44.325764,-96.593594,44.325764",
     "geom:latitude":44.325764,
     "geom:longitude":-96.593594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48058 211th St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387323219,
-    "wof:lastmodified":1449056436,
+    "wof:lastmodified":1467082693,
     "wof:name":"Donald Scholl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.593594,44.325764,-96.593594,44.325764],
+  "bbox": [
+    -96.593594,
+    44.325764,
+    -96.593594,
+    44.325764
+],
   "geometry": {"coordinates":[-96.593594,44.325764],"type":"Point"}
 }

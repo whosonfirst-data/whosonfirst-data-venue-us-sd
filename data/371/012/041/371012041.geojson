@@ -2,13 +2,14 @@
   "id": 371012041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771105,43.506741,-96.771105,43.506741",
     "geom:latitude":43.506741,
     "geom:longitude":-96.771105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4309 S Louise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371012041,
-    "wof:lastmodified":1449050032,
+    "wof:lastmodified":1467082672,
     "wof:name":"Premier 4d Imaging",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "imaging"
     ]
 },
-  "bbox": [-96.771105,43.506741,-96.771105,43.506741],
-  "geometry": {"coordinates":[-96.771105,43.506741],"type":"Point"}
+  "bbox": [
+    -96.771105,
+    43.506741,
+    -96.771105,
+    43.506741
+],
+  "geometry": {"coordinates":[-96.77110500000001,43.506741],"type":"Point"}
 }

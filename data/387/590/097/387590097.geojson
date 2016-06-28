@@ -2,13 +2,14 @@
   "id": 387590097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.23234,44.063569,-103.23234,44.063569",
     "geom:latitude":44.063569,
     "geom:longitude":-103.23234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387590097,
-    "wof:lastmodified":1449058370,
+    "wof:lastmodified":1467082732,
     "wof:name":"Carpetmart",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rug"
     ]
 },
-  "bbox": [-103.23234,44.063569,-103.23234,44.063569],
-  "geometry": {"coordinates":[-103.23234,44.063569],"type":"Point"}
+  "bbox": [
+    -103.23234,
+    44.063569,
+    -103.23234,
+    44.063569
+],
+  "geometry": {"coordinates":[-103.23233999999999,44.063569],"type":"Point"}
 }

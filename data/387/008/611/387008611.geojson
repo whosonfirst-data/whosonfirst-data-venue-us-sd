@@ -2,13 +2,14 @@
   "id": 387008611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.321048,44.690621,-98.321048,44.690621",
     "geom:latitude":44.690621,
     "geom:longitude":-98.321048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39506 186th St",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387008611,
-    "wof:lastmodified":1449057294,
+    "wof:lastmodified":1467082710,
     "wof:name":"Dale Stellmacher Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.321048,44.690621,-98.321048,44.690621],
+  "bbox": [
+    -98.321048,
+    44.690621,
+    -98.321048,
+    44.690621
+],
   "geometry": {"coordinates":[-98.321048,44.690621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387682945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.200872,44.343788,-98.200872,44.343788",
     "geom:latitude":44.343788,
     "geom:longitude":-98.200872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Indiana Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387682945,
-    "wof:lastmodified":1449056762,
+    "wof:lastmodified":1467082700,
     "wof:name":"Karl Blessinger MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.200872,44.343788,-98.200872,44.343788],
+  "bbox": [
+    -98.200872,
+    44.343788,
+    -98.200872,
+    44.343788
+],
   "geometry": {"coordinates":[-98.200872,44.343788],"type":"Point"}
 }

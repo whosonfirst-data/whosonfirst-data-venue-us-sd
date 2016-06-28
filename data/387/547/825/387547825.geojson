@@ -2,13 +2,14 @@
   "id": 387547825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488125,45.467708,-98.488125,45.467708",
     "geom:latitude":45.467708,
     "geom:longitude":-98.488125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387547825,
-    "wof:lastmodified":1449056494,
+    "wof:lastmodified":1467082694,
     "wof:name":"Jerry's Radiator Svc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "radiator"
     ]
 },
-  "bbox": [-98.488125,45.467708,-98.488125,45.467708],
+  "bbox": [
+    -98.488125,
+    45.467708,
+    -98.488125,
+    45.467708
+],
   "geometry": {"coordinates":[-98.488125,45.467708],"type":"Point"}
 }

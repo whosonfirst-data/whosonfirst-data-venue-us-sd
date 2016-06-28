@@ -2,13 +2,14 @@
   "id": 387429963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.869667,44.101303,-102.869667,44.101303",
     "geom:latitude":44.101303,
     "geom:longitude":-102.869667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22785 159th Ave",
     "sg:city":"New Underwood",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387429963,
-    "wof:lastmodified":1449059714,
+    "wof:lastmodified":1467082759,
     "wof:name":"Meadow Creek Ranch",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-102.869667,44.101303,-102.869667,44.101303],
-  "geometry": {"coordinates":[-102.869667,44.101303],"type":"Point"}
+  "bbox": [
+    -102.869667,
+    44.101303,
+    -102.869667,
+    44.101303
+],
+  "geometry": {"coordinates":[-102.86966700000001,44.101303],"type":"Point"}
 }

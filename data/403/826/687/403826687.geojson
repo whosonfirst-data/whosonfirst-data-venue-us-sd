@@ -2,13 +2,14 @@
   "id": 403826687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.484263,44.233767,-96.484263,44.233767",
     "geom:latitude":44.233767,
     "geom:longitude":-96.484263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Beaver St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403826687,
-    "wof:lastmodified":1449055576,
+    "wof:lastmodified":1467082682,
     "wof:name":"Bob Thompson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.484263,44.233767,-96.484263,44.233767],
+  "bbox": [
+    -96.484263,
+    44.233767,
+    -96.484263,
+    44.233767
+],
   "geometry": {"coordinates":[-96.484263,44.233767],"type":"Point"}
 }

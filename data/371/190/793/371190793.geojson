@@ -2,13 +2,14 @@
   "id": 371190793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.034522,45.305693,-97.034522,45.305693",
     "geom:latitude":45.305693,
     "geom:longitude":-97.034522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Grant Ave",
     "sg:city":"Peever",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371190793,
-    "wof:lastmodified":1449050086,
+    "wof:lastmodified":1467082673,
     "wof:name":"Hortness Implement Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.034522,45.305693,-97.034522,45.305693],
+  "bbox": [
+    -97.034522,
+    45.305693,
+    -97.034522,
+    45.305693
+],
   "geometry": {"coordinates":[-97.034522,45.305693],"type":"Point"}
 }

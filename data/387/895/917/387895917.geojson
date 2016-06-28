@@ -2,13 +2,14 @@
   "id": 387895917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.863702,44.506029,-103.863702,44.506029",
     "geom:latitude":44.506029,
     "geom:longitude":-103.863702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Wyoming Ct",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387895917,
-    "wof:lastmodified":1449057721,
+    "wof:lastmodified":1467082719,
     "wof:name":"Ironwood Homes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.863702,44.506029,-103.863702,44.506029],
+  "bbox": [
+    -103.863702,
+    44.506029,
+    -103.863702,
+    44.506029
+],
   "geometry": {"coordinates":[-103.863702,44.506029],"type":"Point"}
 }

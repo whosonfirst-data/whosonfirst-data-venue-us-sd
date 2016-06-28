@@ -2,13 +2,14 @@
   "id": 387736413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711882,43.826161,-96.711882,43.826161",
     "geom:latitude":43.826161,
     "geom:longitude":-96.711882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 E 7th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387736413,
-    "wof:lastmodified":1449059878,
+    "wof:lastmodified":1467082762,
     "wof:name":"Hardware Discounters",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.711882,43.826161,-96.711882,43.826161],
+  "bbox": [
+    -96.711882,
+    43.826161,
+    -96.711882,
+    43.826161
+],
   "geometry": {"coordinates":[-96.711882,43.826161],"type":"Point"}
 }

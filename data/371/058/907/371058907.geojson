@@ -2,13 +2,14 @@
   "id": 371058907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.916113,45.695072,-99.916113,45.695072",
     "geom:latitude":45.695072,
     "geom:longitude":-99.916113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31392 117th St",
     "sg:city":"Mound City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371058907,
-    "wof:lastmodified":1449049185,
+    "wof:lastmodified":1467082660,
     "wof:name":"Mark Holzwarth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.916113,45.695072,-99.916113,45.695072],
+  "bbox": [
+    -99.916113,
+    45.695072,
+    -99.916113,
+    45.695072
+],
   "geometry": {"coordinates":[-99.916113,45.695072],"type":"Point"}
 }

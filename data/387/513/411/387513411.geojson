@@ -2,13 +2,14 @@
   "id": 387513411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.586065,43.591662,-96.586065,43.591662",
     "geom:latitude":43.591662,
     "geom:longitude":-96.586065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 E Elm St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387513411,
-    "wof:lastmodified":1449058627,
+    "wof:lastmodified":1467082737,
     "wof:name":"Brandon Area Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.586065,43.591662,-96.586065,43.591662],
+  "bbox": [
+    -96.586065,
+    43.591662,
+    -96.586065,
+    43.591662
+],
   "geometry": {"coordinates":[-96.586065,43.591662],"type":"Point"}
 }

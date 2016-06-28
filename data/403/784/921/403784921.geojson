@@ -2,13 +2,14 @@
   "id": 403784921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.332261,43.571055,-98.332261,43.571055",
     "geom:latitude":43.571055,
     "geom:longitude":-98.332261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39381 263rd St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403784921,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1467082681,
     "wof:name":"Leroy Sperlich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.332261,43.571055,-98.332261,43.571055],
+  "bbox": [
+    -98.332261,
+    43.571055,
+    -98.332261,
+    43.571055
+],
   "geometry": {"coordinates":[-98.332261,43.571055],"type":"Point"}
 }

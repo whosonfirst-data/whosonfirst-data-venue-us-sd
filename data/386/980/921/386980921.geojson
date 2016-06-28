@@ -2,13 +2,14 @@
   "id": 386980921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798531,44.31021,-96.798531,44.31021",
     "geom:latitude":44.31021,
     "geom:longitude":-96.798531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":386980921,
-    "wof:lastmodified":1449028651,
+    "wof:lastmodified":1467082650,
     "wof:name":"Frame Gallery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-96.798531,44.31021,-96.798531,44.31021],
+  "bbox": [
+    -96.798531,
+    44.31021,
+    -96.798531,
+    44.31021
+],
   "geometry": {"coordinates":[-96.798531,44.31021],"type":"Point"}
 }

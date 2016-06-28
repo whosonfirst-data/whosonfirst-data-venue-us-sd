@@ -2,13 +2,14 @@
   "id": 370988939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890161,43.354375,-96.890161,43.354375",
     "geom:latitude":43.354375,
     "geom:longitude":-96.890161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 E 2nd Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370988939,
-    "wof:lastmodified":1449030265,
+    "wof:lastmodified":1467082656,
     "wof:name":"First English Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.890161,43.354375,-96.890161,43.354375],
-  "geometry": {"coordinates":[-96.890161,43.354375],"type":"Point"}
+  "bbox": [
+    -96.890161,
+    43.354375,
+    -96.890161,
+    43.354375
+],
+  "geometry": {"coordinates":[-96.89016100000001,43.354375],"type":"Point"}
 }

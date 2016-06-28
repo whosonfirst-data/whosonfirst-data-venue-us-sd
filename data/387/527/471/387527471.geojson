@@ -2,13 +2,14 @@
   "id": 387527471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.987809,43.547519,-97.987809,43.547519",
     "geom:latitude":43.547519,
     "geom:longitude":-97.987809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 W Main St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387527471,
-    "wof:lastmodified":1449059129,
+    "wof:lastmodified":1467082747,
     "wof:name":"S-S Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.987809,43.547519,-97.987809,43.547519],
+  "bbox": [
+    -97.987809,
+    43.547519,
+    -97.987809,
+    43.547519
+],
   "geometry": {"coordinates":[-97.987809,43.547519],"type":"Point"}
 }

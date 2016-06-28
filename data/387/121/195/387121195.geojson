@@ -2,13 +2,14 @@
   "id": 387121195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796641,43.543823,-96.796641,43.543823",
     "geom:latitude":43.543823,
     "geom:longitude":-96.796641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5909 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387121195,
-    "wof:lastmodified":1449059079,
+    "wof:lastmodified":1467082746,
     "wof:name":"New Beginning Introductions",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "beauty"
     ]
 },
-  "bbox": [-96.796641,43.543823,-96.796641,43.543823],
-  "geometry": {"coordinates":[-96.796641,43.543823],"type":"Point"}
+  "bbox": [
+    -96.796641,
+    43.543823,
+    -96.796641,
+    43.543823
+],
+  "geometry": {"coordinates":[-96.79664099999999,43.543823],"type":"Point"}
 }

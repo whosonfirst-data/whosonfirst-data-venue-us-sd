@@ -2,13 +2,14 @@
   "id": 387443449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455715,45.455656,-98.455715,45.455656",
     "geom:latitude":45.455656,
     "geom:longitude":-98.455715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"834 S Park St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387443449,
-    "wof:lastmodified":1449059219,
+    "wof:lastmodified":1467082749,
     "wof:name":"D Bremer Photography",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "photo"
     ]
 },
-  "bbox": [-98.455715,45.455656,-98.455715,45.455656],
+  "bbox": [
+    -98.455715,
+    45.455656,
+    -98.455715,
+    45.455656
+],
   "geometry": {"coordinates":[-98.455715,45.455656],"type":"Point"}
 }

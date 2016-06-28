@@ -2,13 +2,14 @@
   "id": 387705005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.718633,43.149673,-97.718633,43.149673",
     "geom:latitude":43.149673,
     "geom:longitude":-97.718633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387705005,
-    "wof:lastmodified":1449059943,
+    "wof:lastmodified":1467082764,
     "wof:name":"R M Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.718633,43.149673,-97.718633,43.149673],
+  "bbox": [
+    -97.718633,
+    43.149673,
+    -97.718633,
+    43.149673
+],
   "geometry": {"coordinates":[-97.718633,43.149673],"type":"Point"}
 }

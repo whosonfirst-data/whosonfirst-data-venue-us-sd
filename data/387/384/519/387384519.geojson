@@ -2,13 +2,14 @@
   "id": 387384519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217135,44.373822,-98.217135,44.373822",
     "geom:latitude":44.373822,
     "geom:longitude":-98.217135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Illinois Ave NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387384519,
-    "wof:lastmodified":1449056583,
+    "wof:lastmodified":1467082696,
     "wof:name":"C T Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-98.217135,44.373822,-98.217135,44.373822],
+  "bbox": [
+    -98.217135,
+    44.373822,
+    -98.217135,
+    44.373822
+],
   "geometry": {"coordinates":[-98.217135,44.373822],"type":"Point"}
 }

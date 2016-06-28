@@ -2,13 +2,14 @@
   "id": 387920569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.371797,43.9665,-98.371797,43.9665",
     "geom:latitude":43.9665,
     "geom:longitude":-98.371797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39298 236th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387920569,
-    "wof:lastmodified":1449059048,
+    "wof:lastmodified":1467082746,
     "wof:name":"Stu Wolter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.371797,43.9665,-98.371797,43.9665],
+  "bbox": [
+    -98.371797,
+    43.9665,
+    -98.371797,
+    43.9665
+],
   "geometry": {"coordinates":[-98.371797,43.9665],"type":"Point"}
 }

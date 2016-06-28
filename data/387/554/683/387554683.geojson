@@ -2,13 +2,14 @@
   "id": 387554683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701479,43.566546,-96.701479,43.566546",
     "geom:latitude":43.566546,
     "geom:longitude":-96.701479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 N Lewis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387554683,
-    "wof:lastmodified":1449056888,
+    "wof:lastmodified":1467082702,
     "wof:name":"Natures Finest Taxidermy Inc",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "taxidermist"
     ]
 },
-  "bbox": [-96.701479,43.566546,-96.701479,43.566546],
-  "geometry": {"coordinates":[-96.701479,43.566546],"type":"Point"}
+  "bbox": [
+    -96.701479,
+    43.566546,
+    -96.701479,
+    43.566546
+],
+  "geometry": {"coordinates":[-96.70147900000001,43.566546],"type":"Point"}
 }

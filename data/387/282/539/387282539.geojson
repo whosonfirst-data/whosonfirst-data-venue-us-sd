@@ -2,13 +2,14 @@
   "id": 387282539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798607,44.264143,-96.798607,44.264143",
     "geom:latitude":44.264143,
     "geom:longitude":-96.798607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 35th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387282539,
-    "wof:lastmodified":1449058491,
+    "wof:lastmodified":1467082735,
     "wof:name":"Dakota Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.798607,44.264143,-96.798607,44.264143],
+  "bbox": [
+    -96.798607,
+    44.264143,
+    -96.798607,
+    44.264143
+],
   "geometry": {"coordinates":[-96.798607,44.264143],"type":"Point"}
 }

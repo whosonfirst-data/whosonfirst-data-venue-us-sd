@@ -2,13 +2,14 @@
   "id": 387181411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.167691,44.890244,-97.167691,44.890244",
     "geom:latitude":44.890244,
     "geom:longitude":-97.167691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3334 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387181411,
-    "wof:lastmodified":1449058434,
+    "wof:lastmodified":1467082734,
     "wof:name":"CSS Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.167691,44.890244,-97.167691,44.890244],
+  "bbox": [
+    -97.167691,
+    44.890244,
+    -97.167691,
+    44.890244
+],
   "geometry": {"coordinates":[-97.167691,44.890244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387153115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.599016,43.766501,-103.599016,43.766501",
     "geom:latitude":43.766501,
     "geom:longitude":-103.599016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387153115,
-    "wof:lastmodified":1449058725,
+    "wof:lastmodified":1467082739,
     "wof:name":"Chigger Charley's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.599016,43.766501,-103.599016,43.766501],
-  "geometry": {"coordinates":[-103.599016,43.766501],"type":"Point"}
+  "bbox": [
+    -103.599016,
+    43.766501,
+    -103.599016,
+    43.766501
+],
+  "geometry": {"coordinates":[-103.59901600000001,43.766501],"type":"Point"}
 }

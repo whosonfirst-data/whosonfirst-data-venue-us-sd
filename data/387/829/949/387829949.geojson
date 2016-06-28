@@ -2,13 +2,14 @@
   "id": 387829949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955568,45.013619,-99.955568,45.013619",
     "geom:latitude":45.013619,
     "geom:longitude":-99.955568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387829949,
-    "wof:lastmodified":1449059672,
+    "wof:lastmodified":1467082758,
     "wof:name":"Hansen Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.955568,45.013619,-99.955568,45.013619],
+  "bbox": [
+    -99.955568,
+    45.013619,
+    -99.955568,
+    45.013619
+],
   "geometry": {"coordinates":[-99.955568,45.013619],"type":"Point"}
 }

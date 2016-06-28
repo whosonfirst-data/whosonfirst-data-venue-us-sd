@@ -2,13 +2,14 @@
   "id": 387928963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.428193,45.537286,-100.428193,45.537286",
     "geom:latitude":45.537286,
     "geom:longitude":-100.428193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 4th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387928963,
-    "wof:lastmodified":1449059394,
+    "wof:lastmodified":1467082753,
     "wof:name":"De Glass Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-100.428193,45.537286,-100.428193,45.537286],
-  "geometry": {"coordinates":[-100.428193,45.537286],"type":"Point"}
+  "bbox": [
+    -100.428193,
+    45.537286,
+    -100.428193,
+    45.537286
+],
+  "geometry": {"coordinates":[-100.42819299999999,45.537286],"type":"Point"}
 }

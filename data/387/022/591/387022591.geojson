@@ -2,13 +2,14 @@
   "id": 387022591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73283,43.555126,-96.73283,43.555126",
     "geom:latitude":43.555126,
     "geom:longitude":-96.73283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387022591,
-    "wof:lastmodified":1449057358,
+    "wof:lastmodified":1467082712,
     "wof:name":"Hawthorne Elementary School",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.73283,43.555126,-96.73283,43.555126],
-  "geometry": {"coordinates":[-96.73283,43.555126],"type":"Point"}
+  "bbox": [
+    -96.73283,
+    43.555126,
+    -96.73283,
+    43.555126
+],
+  "geometry": {"coordinates":[-96.73283000000001,43.555126],"type":"Point"}
 }

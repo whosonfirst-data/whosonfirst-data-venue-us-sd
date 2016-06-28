@@ -2,13 +2,14 @@
   "id": 387284199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.28885,44.096965,-103.28885,44.096965",
     "geom:latitude":44.096965,
     "geom:longitude":-103.28885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4095 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387284199,
-    "wof:lastmodified":1449058467,
+    "wof:lastmodified":1467082734,
     "wof:name":"Buck & Gator",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-103.28885,44.096965,-103.28885,44.096965],
+  "bbox": [
+    -103.28885,
+    44.096965,
+    -103.28885,
+    44.096965
+],
   "geometry": {"coordinates":[-103.28885,44.096965],"type":"Point"}
 }

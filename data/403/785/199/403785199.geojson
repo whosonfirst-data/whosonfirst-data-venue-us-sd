@@ -2,13 +2,14 @@
   "id": 403785199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.289163,43.808113,-97.289163,43.808113",
     "geom:latitude":43.808113,
     "geom:longitude":-97.289163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24603 446th Ave",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403785199,
-    "wof:lastmodified":1449055745,
+    "wof:lastmodified":1467082683,
     "wof:name":"Eugene Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.289163,43.808113,-97.289163,43.808113],
+  "bbox": [
+    -97.289163,
+    43.808113,
+    -97.289163,
+    43.808113
+],
   "geometry": {"coordinates":[-97.289163,43.808113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371149423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.397792,44.149649,-103.397792,44.149649",
     "geom:latitude":44.149649,
     "geom:longitude":-103.397792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10801 Canyon Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371149423,
-    "wof:lastmodified":1449049065,
+    "wof:lastmodified":1467082658,
     "wof:name":"Vifquain Concrete Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.397792,44.149649,-103.397792,44.149649],
+  "bbox": [
+    -103.397792,
+    44.149649,
+    -103.397792,
+    44.149649
+],
   "geometry": {"coordinates":[-103.397792,44.149649],"type":"Point"}
 }

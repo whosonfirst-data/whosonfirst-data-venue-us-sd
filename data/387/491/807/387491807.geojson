@@ -2,13 +2,14 @@
   "id": 387491807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.106618,43.703,-98.106618,43.703",
     "geom:latitude":43.703,
     "geom:longitude":-98.106618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25393 405th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387491807,
-    "wof:lastmodified":1449056049,
+    "wof:lastmodified":1467082686,
     "wof:name":"Steve's Paint Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mach"
     ]
 },
-  "bbox": [-98.106618,43.703,-98.106618,43.703],
+  "bbox": [
+    -98.106618,
+    43.703,
+    -98.106618,
+    43.703
+],
   "geometry": {"coordinates":[-98.106618,43.703],"type":"Point"}
 }

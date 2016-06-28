@@ -2,13 +2,14 @@
   "id": 387541947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.28939,44.087625,-103.28939,44.087625",
     "geom:latitude":44.087625,
     "geom:longitude":-103.28939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Meadowwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387541947,
-    "wof:lastmodified":1449056532,
+    "wof:lastmodified":1467082695,
     "wof:name":"Manning Nancy Law Office",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-103.28939,44.087625,-103.28939,44.087625],
+  "bbox": [
+    -103.28939,
+    44.087625,
+    -103.28939,
+    44.087625
+],
   "geometry": {"coordinates":[-103.28939,44.087625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370979167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.827083,43.371916,-99.827083,43.371916",
     "geom:latitude":43.371916,
     "geom:longitude":-99.827083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31718 278th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370979167,
-    "wof:lastmodified":1449031474,
+    "wof:lastmodified":1467082657,
     "wof:name":"Tripp County Recycling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.827083,43.371916,-99.827083,43.371916],
+  "bbox": [
+    -99.827083,
+    43.371916,
+    -99.827083,
+    43.371916
+],
   "geometry": {"coordinates":[-99.827083,43.371916],"type":"Point"}
 }

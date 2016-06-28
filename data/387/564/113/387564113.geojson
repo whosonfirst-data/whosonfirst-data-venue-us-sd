@@ -2,13 +2,14 @@
   "id": 387564113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.264733,43.712681,-98.264733,43.712681",
     "geom:latitude":43.712681,
     "geom:longitude":-98.264733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 3rd St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387564113,
-    "wof:lastmodified":1449059695,
+    "wof:lastmodified":1467082759,
     "wof:name":"Beyond Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.264733,43.712681,-98.264733,43.712681],
-  "geometry": {"coordinates":[-98.264733,43.712681],"type":"Point"}
+  "bbox": [
+    -98.264733,
+    43.712681,
+    -98.264733,
+    43.712681
+],
+  "geometry": {"coordinates":[-98.26473300000001,43.712681],"type":"Point"}
 }

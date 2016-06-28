@@ -2,13 +2,14 @@
   "id": 387522871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.899839,43.38246,-99.899839,43.38246",
     "geom:latitude":43.38246,
     "geom:longitude":-99.899839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31351 US Hwy 18",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387522871,
-    "wof:lastmodified":1449057914,
+    "wof:lastmodified":1467082723,
     "wof:name":"Nagel Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-99.899839,43.38246,-99.899839,43.38246],
+  "bbox": [
+    -99.899839,
+    43.38246,
+    -99.899839,
+    43.38246
+],
   "geometry": {"coordinates":[-99.899839,43.38246],"type":"Point"}
 }

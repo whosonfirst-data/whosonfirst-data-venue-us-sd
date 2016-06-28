@@ -2,13 +2,14 @@
   "id": 386981297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.588148,43.765647,-103.588148,43.765647",
     "geom:latitude":43.765647,
     "geom:longitude":-103.588148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Canal St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386981297,
-    "wof:lastmodified":1449028973,
+    "wof:lastmodified":1467082655,
     "wof:name":"Bryant Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.588148,43.765647,-103.588148,43.765647],
+  "bbox": [
+    -103.588148,
+    43.765647,
+    -103.588148,
+    43.765647
+],
   "geometry": {"coordinates":[-103.588148,43.765647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387056633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731422,43.553551,-96.731422,43.553551",
     "geom:latitude":43.553551,
     "geom:longitude":-96.731422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387056633,
-    "wof:lastmodified":1449057189,
+    "wof:lastmodified":1467082708,
     "wof:name":"A Appletree Pro Resume",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resume"
     ]
 },
-  "bbox": [-96.731422,43.553551,-96.731422,43.553551],
-  "geometry": {"coordinates":[-96.731422,43.553551],"type":"Point"}
+  "bbox": [
+    -96.731422,
+    43.553551,
+    -96.731422,
+    43.553551
+],
+  "geometry": {"coordinates":[-96.73142199999999,43.553551],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371173011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.125593,44.008047,-97.125593,44.008047",
     "geom:latitude":44.008047,
     "geom:longitude":-97.125593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 N Olive Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371173011,
-    "wof:lastmodified":1449049242,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ronald Shultis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.125593,44.008047,-97.125593,44.008047],
-  "geometry": {"coordinates":[-97.125593,44.008047],"type":"Point"}
+  "bbox": [
+    -97.125593,
+    44.008047,
+    -97.125593,
+    44.008047
+],
+  "geometry": {"coordinates":[-97.12559299999999,44.008047],"type":"Point"}
 }

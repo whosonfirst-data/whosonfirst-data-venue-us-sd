@@ -2,13 +2,14 @@
   "id": 387205313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.725259,43.540441,-96.725259,43.540441",
     "geom:latitude":43.540441,
     "geom:longitude":-96.725259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S 1st Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387205313,
-    "wof:lastmodified":1449058403,
+    "wof:lastmodified":1467082733,
     "wof:name":"Absolute Detective & Bodyguard",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"
     ]
 },
-  "bbox": [-96.725259,43.540441,-96.725259,43.540441],
-  "geometry": {"coordinates":[-96.725259,43.540441],"type":"Point"}
+  "bbox": [
+    -96.725259,
+    43.540441,
+    -96.725259,
+    43.540441
+],
+  "geometry": {"coordinates":[-96.72525899999999,43.540441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371151231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.138611,45.73362,-98.138611,45.73362",
     "geom:latitude":45.73362,
     "geom:longitude":-98.138611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40437 114th St",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371151231,
-    "wof:lastmodified":1449049080,
+    "wof:lastmodified":1467082658,
     "wof:name":"Tunby Land Ltd Partnership",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-98.138611,45.73362,-98.138611,45.73362],
+  "bbox": [
+    -98.138611,
+    45.73362,
+    -98.138611,
+    45.73362
+],
   "geometry": {"coordinates":[-98.138611,45.73362],"type":"Point"}
 }

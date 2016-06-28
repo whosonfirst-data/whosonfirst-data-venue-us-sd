@@ -2,13 +2,14 @@
   "id": 387127483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.847616,43.388172,-98.847616,43.388172",
     "geom:latitude":43.388172,
     "geom:longitude":-98.847616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Delaware Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387127483,
-    "wof:lastmodified":1449059609,
+    "wof:lastmodified":1467082757,
     "wof:name":"Platte Tree & Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.847616,43.388172,-98.847616,43.388172],
+  "bbox": [
+    -98.847616,
+    43.388172,
+    -98.847616,
+    43.388172
+],
   "geometry": {"coordinates":[-98.847616,43.388172],"type":"Point"}
 }

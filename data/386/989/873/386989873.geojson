@@ -2,13 +2,14 @@
   "id": 386989873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.541435,44.38713,-97.541435,44.38713",
     "geom:latitude":44.38713,
     "geom:longitude":-97.541435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Lyle Ave NE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386989873,
-    "wof:lastmodified":1449028866,
+    "wof:lastmodified":1467082653,
     "wof:name":"Kingsbury County Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.541435,44.38713,-97.541435,44.38713],
-  "geometry": {"coordinates":[-97.541435,44.38713],"type":"Point"}
+  "bbox": [
+    -97.541435,
+    44.38713,
+    -97.541435,
+    44.38713
+],
+  "geometry": {"coordinates":[-97.54143500000001,44.38713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387372607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118749,44.01689,-97.118749,44.01689",
     "geom:latitude":44.01689,
     "geom:longitude":-97.118749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Cedar Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387372607,
-    "wof:lastmodified":1449058413,
+    "wof:lastmodified":1467082733,
     "wof:name":"Postma Kelly R Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-97.118749,44.01689,-97.118749,44.01689],
-  "geometry": {"coordinates":[-97.118749,44.01689],"type":"Point"}
+  "bbox": [
+    -97.118749,
+    44.01689,
+    -97.118749,
+    44.01689
+],
+  "geometry": {"coordinates":[-97.11874899999999,44.01689],"type":"Point"}
 }

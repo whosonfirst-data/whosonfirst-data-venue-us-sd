@@ -2,13 +2,14 @@
   "id": 387027039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.299223,44.132445,-103.299223,44.132445",
     "geom:latitude":44.132445,
     "geom:longitude":-103.299223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4900 State Hwy 79",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387027039,
-    "wof:lastmodified":1449056811,
+    "wof:lastmodified":1467082701,
     "wof:name":"Finishing Touch Furniture Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furniture"
     ]
 },
-  "bbox": [-103.299223,44.132445,-103.299223,44.132445],
+  "bbox": [
+    -103.299223,
+    44.132445,
+    -103.299223,
+    44.132445
+],
   "geometry": {"coordinates":[-103.299223,44.132445],"type":"Point"}
 }

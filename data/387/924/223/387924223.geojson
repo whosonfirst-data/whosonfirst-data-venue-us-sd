@@ -2,13 +2,14 @@
   "id": 387924223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.575293,43.588263,-96.575293,43.588263",
     "geom:latitude":43.588263,
     "geom:longitude":-96.575293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Lark Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387924223,
-    "wof:lastmodified":1449057151,
+    "wof:lastmodified":1467082707,
     "wof:name":"Good/Day Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-96.575293,43.588263,-96.575293,43.588263],
+  "bbox": [
+    -96.575293,
+    43.588263,
+    -96.575293,
+    43.588263
+],
   "geometry": {"coordinates":[-96.575293,43.588263],"type":"Point"}
 }

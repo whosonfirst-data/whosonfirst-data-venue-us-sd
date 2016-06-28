@@ -2,13 +2,14 @@
   "id": 403735649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72408,43.544608,-96.72408,43.544608",
     "geom:latitude":43.544608,
     "geom:longitude":-96.72408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 E 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403735649,
-    "wof:lastmodified":1449055918,
+    "wof:lastmodified":1467082684,
     "wof:name":"Golden Law Office",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.72408,43.544608,-96.72408,43.544608],
+  "bbox": [
+    -96.72408,
+    43.544608,
+    -96.72408,
+    43.544608
+],
   "geometry": {"coordinates":[-96.72408,43.544608],"type":"Point"}
 }

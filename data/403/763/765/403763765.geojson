@@ -2,13 +2,14 @@
   "id": 403763765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.755524,44.325725,-96.755524,44.325725",
     "geom:latitude":44.325725,
     "geom:longitude":-96.755524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3028 US Hwy 14 Byp",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403763765,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1467082684,
     "wof:name":"Industrial Machine-Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maker"
     ]
 },
-  "bbox": [-96.755524,44.325725,-96.755524,44.325725],
-  "geometry": {"coordinates":[-96.755524,44.325725],"type":"Point"}
+  "bbox": [
+    -96.755524,
+    44.325725,
+    -96.755524,
+    44.325725
+],
+  "geometry": {"coordinates":[-96.75552399999999,44.325725],"type":"Point"}
 }

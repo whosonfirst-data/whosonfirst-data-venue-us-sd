@@ -2,13 +2,14 @@
   "id": 387906423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.254529,44.347641,-100.254529,44.347641",
     "geom:latitude":44.347641,
     "geom:longitude":-100.254529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 Dry Run Rd",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387906423,
-    "wof:lastmodified":1449057550,
+    "wof:lastmodified":1467082716,
     "wof:name":"Mid-State Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-100.254529,44.347641,-100.254529,44.347641],
-  "geometry": {"coordinates":[-100.254529,44.347641],"type":"Point"}
+  "bbox": [
+    -100.254529,
+    44.347641,
+    -100.254529,
+    44.347641
+],
+  "geometry": {"coordinates":[-100.25452900000001,44.347641],"type":"Point"}
 }

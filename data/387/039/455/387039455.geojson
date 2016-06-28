@@ -2,13 +2,14 @@
   "id": 387039455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.614765,44.928242,-98.614765,44.928242",
     "geom:latitude":44.928242,
     "geom:longitude":-98.614765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16989 379th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387039455,
-    "wof:lastmodified":1449059446,
+    "wof:lastmodified":1467082754,
     "wof:name":"Rude-Wetzler Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.614765,44.928242,-98.614765,44.928242],
-  "geometry": {"coordinates":[-98.614765,44.928242],"type":"Point"}
+  "bbox": [
+    -98.614765,
+    44.928242,
+    -98.614765,
+    44.928242
+],
+  "geometry": {"coordinates":[-98.61476500000001,44.928242],"type":"Point"}
 }

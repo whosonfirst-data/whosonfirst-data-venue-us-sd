@@ -2,13 +2,14 @@
   "id": 387202265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76315,43.54593,-96.76315,43.54593",
     "geom:latitude":43.54593,
     "geom:longitude":-96.76315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 W 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387202265,
-    "wof:lastmodified":1449059425,
+    "wof:lastmodified":1467082753,
     "wof:name":"Sunshine Food Mkts",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.76315,43.54593,-96.76315,43.54593],
+  "bbox": [
+    -96.76315,
+    43.54593,
+    -96.76315,
+    43.54593
+],
   "geometry": {"coordinates":[-96.76315,43.54593],"type":"Point"}
 }

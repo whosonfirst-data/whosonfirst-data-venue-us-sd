@@ -2,13 +2,14 @@
   "id": 387168681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798531,44.31127,-96.798531,44.31127",
     "geom:latitude":44.31127,
     "geom:longitude":-96.798531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387168681,
-    "wof:lastmodified":1449058093,
+    "wof:lastmodified":1467082727,
     "wof:name":"Nancy J Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.798531,44.31127,-96.798531,44.31127],
+  "bbox": [
+    -96.798531,
+    44.31127,
+    -96.798531,
+    44.31127
+],
   "geometry": {"coordinates":[-96.798531,44.31127],"type":"Point"}
 }

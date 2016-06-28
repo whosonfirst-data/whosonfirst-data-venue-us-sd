@@ -2,13 +2,14 @@
   "id": 387565249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985244,43.545274,-97.985244,43.545274",
     "geom:latitude":43.545274,
     "geom:longitude":-97.985244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S 2nd St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387565249,
-    "wof:lastmodified":1449059580,
+    "wof:lastmodified":1467082756,
     "wof:name":"Ethan Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.985244,43.545274,-97.985244,43.545274],
-  "geometry": {"coordinates":[-97.985244,43.545274],"type":"Point"}
+  "bbox": [
+    -97.985244,
+    43.545274,
+    -97.985244,
+    43.545274
+],
+  "geometry": {"coordinates":[-97.98524399999999,43.545274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387549479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720342,43.823976,-96.720342,43.823976",
     "geom:latitude":43.823976,
     "geom:longitude":-96.720342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 State Hwy 77",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387549479,
-    "wof:lastmodified":1449057144,
+    "wof:lastmodified":1467082707,
     "wof:name":"Michael R Juba DDS",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.720342,43.823976,-96.720342,43.823976],
+  "bbox": [
+    -96.720342,
+    43.823976,
+    -96.720342,
+    43.823976
+],
   "geometry": {"coordinates":[-96.720342,43.823976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403704483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.372078,44.348851,-100.372078,44.348851",
     "geom:latitude":44.348851,
     "geom:longitude":-100.372078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Park Ave",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403704483,
-    "wof:lastmodified":1449054991,
+    "wof:lastmodified":1467082678,
     "wof:name":"Dakota Motor Trike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "motor"
     ]
 },
-  "bbox": [-100.372078,44.348851,-100.372078,44.348851],
+  "bbox": [
+    -100.372078,
+    44.348851,
+    -100.372078,
+    44.348851
+],
   "geometry": {"coordinates":[-100.372078,44.348851],"type":"Point"}
 }

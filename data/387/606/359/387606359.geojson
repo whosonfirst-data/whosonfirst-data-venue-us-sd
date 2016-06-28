@@ -2,13 +2,14 @@
   "id": 387606359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.205785,44.363324,-98.205785,44.363324",
     "geom:latitude":44.363324,
     "geom:longitude":-98.205785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 3rd St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387606359,
-    "wof:lastmodified":1449056689,
+    "wof:lastmodified":1467082698,
     "wof:name":"Gary Zell's Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-98.205785,44.363324,-98.205785,44.363324],
-  "geometry": {"coordinates":[-98.205785,44.363324],"type":"Point"}
+  "bbox": [
+    -98.205785,
+    44.363324,
+    -98.205785,
+    44.363324
+],
+  "geometry": {"coordinates":[-98.20578500000001,44.363324],"type":"Point"}
 }

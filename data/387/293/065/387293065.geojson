@@ -2,13 +2,14 @@
   "id": 387293065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.313774,43.833187,-97.313774,43.833187",
     "geom:latitude":43.833187,
     "geom:longitude":-97.313774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44478 245th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387293065,
-    "wof:lastmodified":1449056848,
+    "wof:lastmodified":1467082701,
     "wof:name":"James Osterberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.313774,43.833187,-97.313774,43.833187],
+  "bbox": [
+    -97.313774,
+    43.833187,
+    -97.313774,
+    43.833187
+],
   "geometry": {"coordinates":[-97.313774,43.833187],"type":"Point"}
 }

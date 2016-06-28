@@ -2,13 +2,14 @@
   "id": 387375673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.042072,43.705615,-98.042072,43.705615",
     "geom:latitude":43.705615,
     "geom:longitude":-98.042072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 Palmer Pl",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387375673,
-    "wof:lastmodified":1449056253,
+    "wof:lastmodified":1467082689,
     "wof:name":"Zimmer Caulking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.042072,43.705615,-98.042072,43.705615],
+  "bbox": [
+    -98.042072,
+    43.705615,
+    -98.042072,
+    43.705615
+],
   "geometry": {"coordinates":[-98.042072,43.705615],"type":"Point"}
 }

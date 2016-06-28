@@ -2,13 +2,14 @@
   "id": 387388469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733344,44.878781,-97.733344,44.878781",
     "geom:latitude":44.878781,
     "geom:longitude":-97.733344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387388469,
-    "wof:lastmodified":1449056264,
+    "wof:lastmodified":1467082690,
     "wof:name":"Kens Fairway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chain"
     ]
 },
-  "bbox": [-97.733344,44.878781,-97.733344,44.878781],
+  "bbox": [
+    -97.733344,
+    44.878781,
+    -97.733344,
+    44.878781
+],
   "geometry": {"coordinates":[-97.733344,44.878781],"type":"Point"}
 }

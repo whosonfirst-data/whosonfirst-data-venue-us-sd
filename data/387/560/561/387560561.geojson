@@ -2,13 +2,14 @@
   "id": 387560561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790893,43.530502,-96.790893,43.530502",
     "geom:latitude":43.530502,
     "geom:longitude":-96.790893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 S Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387560561,
-    "wof:lastmodified":1449059013,
+    "wof:lastmodified":1467082745,
     "wof:name":"Parish of St Michael",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.790893,43.530502,-96.790893,43.530502],
+  "bbox": [
+    -96.790893,
+    43.530502,
+    -96.790893,
+    43.530502
+],
   "geometry": {"coordinates":[-96.790893,43.530502],"type":"Point"}
 }

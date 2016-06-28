@@ -2,13 +2,14 @@
   "id": 387229315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.0738,43.640923,-97.0738,43.640923",
     "geom:latitude":43.640923,
     "geom:longitude":-97.0738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 S Main St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387229315,
-    "wof:lastmodified":1449059149,
+    "wof:lastmodified":1467082748,
     "wof:name":"Humboldt K-5 School",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.0738,43.640923,-97.0738,43.640923],
-  "geometry": {"coordinates":[-97.0738,43.640923],"type":"Point"}
+  "bbox": [
+    -97.0738,
+    43.640923,
+    -97.0738,
+    43.640923
+],
+  "geometry": {"coordinates":[-97.07380000000001,43.640923],"type":"Point"}
 }

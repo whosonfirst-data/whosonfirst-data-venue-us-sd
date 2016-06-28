@@ -2,13 +2,14 @@
   "id": 387732813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.713782,44.171211,-97.713782,44.171211",
     "geom:latitude":44.171211,
     "geom:longitude":-97.713782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St E",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387732813,
-    "wof:lastmodified":1449060032,
+    "wof:lastmodified":1467082765,
     "wof:name":"Farmers & Merchants State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.713782,44.171211,-97.713782,44.171211],
-  "geometry": {"coordinates":[-97.713782,44.171211],"type":"Point"}
+  "bbox": [
+    -97.713782,
+    44.171211,
+    -97.713782,
+    44.171211
+],
+  "geometry": {"coordinates":[-97.71378199999999,44.171211],"type":"Point"}
 }

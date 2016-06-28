@@ -2,13 +2,14 @@
   "id": 387331441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.327478,43.995931,-98.327478,43.995931",
     "geom:latitude":43.995931,
     "geom:longitude":-98.327478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39476 234th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387331441,
-    "wof:lastmodified":1449058415,
+    "wof:lastmodified":1467082733,
     "wof:name":"Swenson Bros 4 Bar S Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [-98.327478,43.995931,-98.327478,43.995931],
+  "bbox": [
+    -98.327478,
+    43.995931,
+    -98.327478,
+    43.995931
+],
   "geometry": {"coordinates":[-98.327478,43.995931],"type":"Point"}
 }

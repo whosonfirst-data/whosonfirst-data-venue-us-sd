@@ -2,13 +2,14 @@
   "id": 387125579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.898208,44.761002,-96.898208,44.761002",
     "geom:latitude":44.761002,
     "geom:longitude":-96.898208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46534 181st St",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387125579,
-    "wof:lastmodified":1449059786,
+    "wof:lastmodified":1467082760,
     "wof:name":"Bemis Christn Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.898208,44.761002,-96.898208,44.761002],
+  "bbox": [
+    -96.898208,
+    44.761002,
+    -96.898208,
+    44.761002
+],
   "geometry": {"coordinates":[-96.898208,44.761002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387941503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.409558,45.92296,-98.409558,45.92296",
     "geom:latitude":45.92296,
     "geom:longitude":-98.409558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39130 101st St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387941503,
-    "wof:lastmodified":1449058385,
+    "wof:lastmodified":1467082732,
     "wof:name":"Steve Karjalainen",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.409558,45.92296,-98.409558,45.92296],
+  "bbox": [
+    -98.409558,
+    45.92296,
+    -98.409558,
+    45.92296
+],
   "geometry": {"coordinates":[-98.409558,45.92296],"type":"Point"}
 }

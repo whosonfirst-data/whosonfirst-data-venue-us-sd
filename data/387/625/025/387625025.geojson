@@ -2,13 +2,14 @@
   "id": 387625025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.159424,45.939831,-102.159424,45.939831",
     "geom:latitude":45.939831,
     "geom:longitude":-102.159424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Main Ave",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387625025,
-    "wof:lastmodified":1449059979,
+    "wof:lastmodified":1467082764,
     "wof:name":"Lemmon Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-102.159424,45.939831,-102.159424,45.939831],
+  "bbox": [
+    -102.159424,
+    45.939831,
+    -102.159424,
+    45.939831
+],
   "geometry": {"coordinates":[-102.159424,45.939831],"type":"Point"}
 }

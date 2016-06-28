@@ -2,13 +2,14 @@
   "id": 386953955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.480852,45.478655,-98.480852,45.478655",
     "geom:latitude":45.478655,
     "geom:longitude":-98.480852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 N Arch St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":386953955,
-    "wof:lastmodified":1449028834,
+    "wof:lastmodified":1467082653,
     "wof:name":"Nikken Authorized Distributer",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "diet"
     ]
 },
-  "bbox": [-98.480852,45.478655,-98.480852,45.478655],
+  "bbox": [
+    -98.480852,
+    45.478655,
+    -98.480852,
+    45.478655
+],
   "geometry": {"coordinates":[-98.480852,45.478655],"type":"Point"}
 }

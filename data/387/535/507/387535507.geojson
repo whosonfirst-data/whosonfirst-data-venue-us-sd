@@ -2,13 +2,14 @@
   "id": 387535507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.860079,43.377576,-99.860079,43.377576",
     "geom:latitude":43.377576,
     "geom:longitude":-99.860079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 W 1st St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387535507,
-    "wof:lastmodified":1449056789,
+    "wof:lastmodified":1467082700,
     "wof:name":"Branch Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "development"
     ]
 },
-  "bbox": [-99.860079,43.377576,-99.860079,43.377576],
+  "bbox": [
+    -99.860079,
+    43.377576,
+    -99.860079,
+    43.377576
+],
   "geometry": {"coordinates":[-99.860079,43.377576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371120555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.518899,44.402624,-103.518899,44.402624",
     "geom:latitude":44.402624,
     "geom:longitude":-103.518899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1875 Ballpark Rd",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371120555,
-    "wof:lastmodified":1449049983,
+    "wof:lastmodified":1467082671,
     "wof:name":"Ole Woodworker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-103.518899,44.402624,-103.518899,44.402624],
+  "bbox": [
+    -103.518899,
+    44.402624,
+    -103.518899,
+    44.402624
+],
   "geometry": {"coordinates":[-103.518899,44.402624],"type":"Point"}
 }

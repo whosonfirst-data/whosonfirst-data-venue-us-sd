@@ -2,13 +2,14 @@
   "id": 387220535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.433986,45.542615,-100.433986,45.542615",
     "geom:latitude":45.542615,
     "geom:longitude":-100.433986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 N Main St",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387220535,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1467082760,
     "wof:name":"CIP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.433986,45.542615,-100.433986,45.542615],
+  "bbox": [
+    -100.433986,
+    45.542615,
+    -100.433986,
+    45.542615
+],
   "geometry": {"coordinates":[-100.433986,45.542615],"type":"Point"}
 }

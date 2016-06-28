@@ -2,13 +2,14 @@
   "id": 371164783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10763,43.009106,-97.10763,43.009106",
     "geom:latitude":43.009106,
     "geom:longitude":-97.10763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Ohio St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371164783,
-    "wof:lastmodified":1449049145,
+    "wof:lastmodified":1467082659,
     "wof:name":"Wakonda Senior Citizens Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-97.10763,43.009106,-97.10763,43.009106],
+  "bbox": [
+    -97.10763,
+    43.009106,
+    -97.10763,
+    43.009106
+],
   "geometry": {"coordinates":[-97.10763,43.009106],"type":"Point"}
 }

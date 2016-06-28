@@ -2,13 +2,14 @@
   "id": 387426079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813919,43.983787,-96.813919,43.983787",
     "geom:latitude":43.983787,
     "geom:longitude":-96.813919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Main Ave",
     "sg:city":"Colman",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387426079,
-    "wof:lastmodified":1449056913,
+    "wof:lastmodified":1467082703,
     "wof:name":"Home Federal Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.813919,43.983787,-96.813919,43.983787],
+  "bbox": [
+    -96.813919,
+    43.983787,
+    -96.813919,
+    43.983787
+],
   "geometry": {"coordinates":[-96.813919,43.983787],"type":"Point"}
 }

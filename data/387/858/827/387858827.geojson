@@ -2,13 +2,14 @@
   "id": 387858827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711281,43.590299,-96.711281,43.590299",
     "geom:latitude":43.590299,
     "geom:longitude":-96.711281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387858827,
-    "wof:lastmodified":1449056485,
+    "wof:lastmodified":1467082694,
     "wof:name":"Quest Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "temperature"
     ]
 },
-  "bbox": [-96.711281,43.590299,-96.711281,43.590299],
+  "bbox": [
+    -96.711281,
+    43.590299,
+    -96.711281,
+    43.590299
+],
   "geometry": {"coordinates":[-96.711281,43.590299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387873161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.453966,45.463269,-98.453966,45.463269",
     "geom:latitude":45.463269,
     "geom:longitude":-98.453966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 S Roosevelt St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387873161,
-    "wof:lastmodified":1449056893,
+    "wof:lastmodified":1467082702,
     "wof:name":"Trinity Church Vicarage",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.453966,45.463269,-98.453966,45.463269],
-  "geometry": {"coordinates":[-98.453966,45.463269],"type":"Point"}
+  "bbox": [
+    -98.453966,
+    45.463269,
+    -98.453966,
+    45.463269
+],
+  "geometry": {"coordinates":[-98.45396599999999,45.463269],"type":"Point"}
 }

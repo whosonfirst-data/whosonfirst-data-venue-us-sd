@@ -2,13 +2,14 @@
   "id": 387908193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.163692,45.934888,-102.163692,45.934888",
     "geom:latitude":45.934888,
     "geom:longitude":-102.163692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 10th St W",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387908193,
-    "wof:lastmodified":1449058260,
+    "wof:lastmodified":1467082730,
     "wof:name":"Dittus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.163692,45.934888,-102.163692,45.934888],
+  "bbox": [
+    -102.163692,
+    45.934888,
+    -102.163692,
+    45.934888
+],
   "geometry": {"coordinates":[-102.163692,45.934888],"type":"Point"}
 }

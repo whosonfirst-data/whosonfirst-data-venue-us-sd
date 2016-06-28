@@ -2,13 +2,14 @@
   "id": 387913931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.990128,43.38964,-97.990128,43.38964",
     "geom:latitude":43.38964,
     "geom:longitude":-97.990128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S 4th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387913931,
-    "wof:lastmodified":1449057576,
+    "wof:lastmodified":1467082716,
     "wof:name":"Car Shed Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trailer"
     ]
 },
-  "bbox": [-97.990128,43.38964,-97.990128,43.38964],
+  "bbox": [
+    -97.990128,
+    43.38964,
+    -97.990128,
+    43.38964
+],
   "geometry": {"coordinates":[-97.990128,43.38964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403828583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.659965,44.340944,-98.659965,44.340944",
     "geom:latitude":44.340944,
     "geom:longitude":-98.659965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21005 376th Ave",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403828583,
-    "wof:lastmodified":1449055327,
+    "wof:lastmodified":1467082680,
     "wof:name":"Mid States Rodeo Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.659965,44.340944,-98.659965,44.340944],
+  "bbox": [
+    -98.659965,
+    44.340944,
+    -98.659965,
+    44.340944
+],
   "geometry": {"coordinates":[-98.659965,44.340944],"type":"Point"}
 }

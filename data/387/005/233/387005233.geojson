@@ -2,13 +2,14 @@
   "id": 387005233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928683,44.331383,-96.928683,44.331383",
     "geom:latitude":44.331383,
     "geom:longitude":-96.928683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 N Samara Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387005233,
-    "wof:lastmodified":1449059612,
+    "wof:lastmodified":1467082757,
     "wof:name":"R M Vander Wal Truck Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.928683,44.331383,-96.928683,44.331383],
-  "geometry": {"coordinates":[-96.928683,44.331383],"type":"Point"}
+  "bbox": [
+    -96.928683,
+    44.331383,
+    -96.928683,
+    44.331383
+],
+  "geometry": {"coordinates":[-96.92868300000001,44.331383],"type":"Point"}
 }

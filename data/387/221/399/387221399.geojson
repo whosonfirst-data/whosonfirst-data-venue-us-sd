@@ -2,13 +2,14 @@
   "id": 387221399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.23477,44.0813,-103.23477,44.0813",
     "geom:latitude":44.0813,
     "geom:longitude":-103.23477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 West Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387221399,
-    "wof:lastmodified":1449057781,
+    "wof:lastmodified":1467082720,
     "wof:name":"Keith D Moler",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.23477,44.0813,-103.23477,44.0813],
+  "bbox": [
+    -103.23477,
+    44.0813,
+    -103.23477,
+    44.0813
+],
   "geometry": {"coordinates":[-103.23477,44.0813],"type":"Point"}
 }

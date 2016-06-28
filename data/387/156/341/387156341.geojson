@@ -2,13 +2,14 @@
   "id": 387156341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.777875,44.35347,-103.777875,44.35347",
     "geom:latitude":44.35347,
     "geom:longitude":-103.777875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Glendale Dr",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387156341,
-    "wof:lastmodified":1449056852,
+    "wof:lastmodified":1467082701,
     "wof:name":"Anderson Fmly Spt Chrprctic PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.777875,44.35347,-103.777875,44.35347],
-  "geometry": {"coordinates":[-103.777875,44.35347],"type":"Point"}
+  "bbox": [
+    -103.777875,
+    44.35347,
+    -103.777875,
+    44.35347
+],
+  "geometry": {"coordinates":[-103.77787499999999,44.35347],"type":"Point"}
 }

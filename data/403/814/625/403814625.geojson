@@ -2,13 +2,14 @@
   "id": 403814625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.022709,43.709181,-98.022709,43.709181",
     "geom:latitude":43.709181,
     "geom:longitude":-98.022709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 S Kimball St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403814625,
-    "wof:lastmodified":1449054877,
+    "wof:lastmodified":1467082676,
     "wof:name":"Pleasant Hills Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "structural"
     ]
 },
-  "bbox": [-98.022709,43.709181,-98.022709,43.709181],
-  "geometry": {"coordinates":[-98.022709,43.709181],"type":"Point"}
+  "bbox": [
+    -98.022709,
+    43.709181,
+    -98.022709,
+    43.709181
+],
+  "geometry": {"coordinates":[-98.02270900000001,43.709181],"type":"Point"}
 }

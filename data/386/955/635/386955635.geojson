@@ -2,13 +2,14 @@
   "id": 386955635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48632,45.498492,-98.48632,45.498492",
     "geom:latitude":45.498492,
     "geom:longitude":-98.48632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 Rolling Meadows Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386955635,
-    "wof:lastmodified":1449028837,
+    "wof:lastmodified":1467082653,
     "wof:name":"Cropwise Consulting Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "seed"
     ]
 },
-  "bbox": [-98.48632,45.498492,-98.48632,45.498492],
-  "geometry": {"coordinates":[-98.48632,45.498492],"type":"Point"}
+  "bbox": [
+    -98.48632,
+    45.498492,
+    -98.48632,
+    45.498492
+],
+  "geometry": {"coordinates":[-98.48632000000001,45.498492],"type":"Point"}
 }

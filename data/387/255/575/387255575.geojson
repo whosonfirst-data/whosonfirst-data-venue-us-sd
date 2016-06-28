@@ -2,13 +2,14 @@
   "id": 387255575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.845506,44.482187,-103.845506,44.482187",
     "geom:latitude":44.482187,
     "geom:longitude":-103.845506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387255575,
-    "wof:lastmodified":1449057832,
+    "wof:lastmodified":1467082721,
     "wof:name":"Rushmore Office Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.845506,44.482187,-103.845506,44.482187],
+  "bbox": [
+    -103.845506,
+    44.482187,
+    -103.845506,
+    44.482187
+],
   "geometry": {"coordinates":[-103.845506,44.482187],"type":"Point"}
 }

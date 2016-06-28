@@ -2,13 +2,14 @@
   "id": 387447571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.979111,44.919032,-96.979111,44.919032",
     "geom:latitude":44.919032,
     "geom:longitude":-96.979111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46164 170th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387447571,
-    "wof:lastmodified":1449058789,
+    "wof:lastmodified":1467082740,
     "wof:name":"William Lindner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.979111,44.919032,-96.979111,44.919032],
+  "bbox": [
+    -96.979111,
+    44.919032,
+    -96.979111,
+    44.919032
+],
   "geometry": {"coordinates":[-96.979111,44.919032],"type":"Point"}
 }

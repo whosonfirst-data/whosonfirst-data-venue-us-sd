@@ -2,13 +2,14 @@
   "id": 403821985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232949,44.081096,-103.232949,44.081096",
     "geom:latitude":44.081096,
     "geom:longitude":-103.232949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403821985,
-    "wof:lastmodified":1449055360,
+    "wof:lastmodified":1467082680,
     "wof:name":"Federal Protective Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-103.232949,44.081096,-103.232949,44.081096],
+  "bbox": [
+    -103.232949,
+    44.081096,
+    -103.232949,
+    44.081096
+],
   "geometry": {"coordinates":[-103.232949,44.081096],"type":"Point"}
 }

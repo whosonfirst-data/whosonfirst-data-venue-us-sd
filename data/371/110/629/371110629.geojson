@@ -2,13 +2,14 @@
   "id": 371110629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.72425,44.378881,-99.72425,44.378881",
     "geom:latitude":44.378881,
     "geom:longitude":-99.72425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20710 322nd Ave",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371110629,
-    "wof:lastmodified":1449049350,
+    "wof:lastmodified":1467082662,
     "wof:name":"David Salathe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.72425,44.378881,-99.72425,44.378881],
+  "bbox": [
+    -99.72425,
+    44.378881,
+    -99.72425,
+    44.378881
+],
   "geometry": {"coordinates":[-99.72425,44.378881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387481071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.092922,44.89006,-97.092922,44.89006",
     "geom:latitude":44.89006,
     "geom:longitude":-97.092922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387481071,
-    "wof:lastmodified":1449059434,
+    "wof:lastmodified":1467082753,
     "wof:name":"Johnson Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.092922,44.89006,-97.092922,44.89006],
+  "bbox": [
+    -97.092922,
+    44.89006,
+    -97.092922,
+    44.89006
+],
   "geometry": {"coordinates":[-97.092922,44.89006],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387647893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131906,44.911678,-97.131906,44.911678",
     "geom:latitude":44.911678,
     "geom:longitude":-97.131906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 10th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387647893,
-    "wof:lastmodified":1449057904,
+    "wof:lastmodified":1467082723,
     "wof:name":"Stockman's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.131906,44.911678,-97.131906,44.911678],
+  "bbox": [
+    -97.131906,
+    44.911678,
+    -97.131906,
+    44.911678
+],
   "geometry": {"coordinates":[-97.131906,44.911678],"type":"Point"}
 }

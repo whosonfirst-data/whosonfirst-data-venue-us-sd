@@ -2,13 +2,14 @@
   "id": 371097519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.676759,43.508678,-96.676759,43.508678",
     "geom:latitude":43.508678,
     "geom:longitude":-96.676759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4032 S Brady Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371097519,
-    "wof:lastmodified":1449049436,
+    "wof:lastmodified":1467082664,
     "wof:name":"Vital Acoustics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.676759,43.508678,-96.676759,43.508678],
+  "bbox": [
+    -96.676759,
+    43.508678,
+    -96.676759,
+    43.508678
+],
   "geometry": {"coordinates":[-96.676759,43.508678],"type":"Point"}
 }

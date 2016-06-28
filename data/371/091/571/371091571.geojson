@@ -2,13 +2,14 @@
   "id": 371091571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.535214,43.717078,-96.535214,43.717078",
     "geom:latitude":43.717078,
     "geom:longitude":-96.535214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48380 253rd St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371091571,
-    "wof:lastmodified":1449049129,
+    "wof:lastmodified":1467082659,
     "wof:name":"Robert Hanson",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.535214,43.717078,-96.535214,43.717078],
+  "bbox": [
+    -96.535214,
+    43.717078,
+    -96.535214,
+    43.717078
+],
   "geometry": {"coordinates":[-96.535214,43.717078],"type":"Point"}
 }

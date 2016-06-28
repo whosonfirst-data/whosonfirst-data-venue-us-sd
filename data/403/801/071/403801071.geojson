@@ -2,13 +2,14 @@
   "id": 403801071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.672136,43.521294,-96.672136,43.521294",
     "geom:latitude":43.521294,
     "geom:longitude":-96.672136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 E Pepper Ridge Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403801071,
-    "wof:lastmodified":1449055742,
+    "wof:lastmodified":1467082683,
     "wof:name":"Best Friend Pet & House Sttng",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sitting"
     ]
 },
-  "bbox": [-96.672136,43.521294,-96.672136,43.521294],
-  "geometry": {"coordinates":[-96.672136,43.521294],"type":"Point"}
+  "bbox": [
+    -96.672136,
+    43.521294,
+    -96.672136,
+    43.521294
+],
+  "geometry": {"coordinates":[-96.67213599999999,43.521294],"type":"Point"}
 }

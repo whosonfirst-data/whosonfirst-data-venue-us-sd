@@ -2,13 +2,14 @@
   "id": 387720407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.864878,44.494132,-103.864878,44.494132",
     "geom:latitude":44.494132,
     "geom:longitude":-103.864878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 N 3rd St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387720407,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467082705,
     "wof:name":"Spearfish Canyon Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "education"
     ]
 },
-  "bbox": [-103.864878,44.494132,-103.864878,44.494132],
+  "bbox": [
+    -103.864878,
+    44.494132,
+    -103.864878,
+    44.494132
+],
   "geometry": {"coordinates":[-103.864878,44.494132],"type":"Point"}
 }

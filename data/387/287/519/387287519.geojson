@@ -2,13 +2,14 @@
   "id": 387287519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72842,43.554738,-96.72842,43.554738",
     "geom:latitude":43.554738,
     "geom:longitude":-96.72842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387287519,
-    "wof:lastmodified":1449056346,
+    "wof:lastmodified":1467082691,
     "wof:name":"Lazer Engraving 4-U",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-96.72842,43.554738,-96.72842,43.554738],
+  "bbox": [
+    -96.72842,
+    43.554738,
+    -96.72842,
+    43.554738
+],
   "geometry": {"coordinates":[-96.72842,43.554738],"type":"Point"}
 }

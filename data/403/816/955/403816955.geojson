@@ -2,13 +2,14 @@
   "id": 403816955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496653,45.450117,-98.496653,45.450117",
     "geom:latitude":45.450117,
     "geom:longitude":-98.496653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 S 6th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816955,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1467082681,
     "wof:name":"Aberdeen Clean-All",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-98.496653,45.450117,-98.496653,45.450117],
-  "geometry": {"coordinates":[-98.496653,45.450117],"type":"Point"}
+  "bbox": [
+    -98.496653,
+    45.450117,
+    -98.496653,
+    45.450117
+],
+  "geometry": {"coordinates":[-98.49665299999999,45.450117],"type":"Point"}
 }

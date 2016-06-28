@@ -2,13 +2,14 @@
   "id": 403714423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.867823,44.212602,-96.867823,44.212602",
     "geom:latitude":44.212602,
     "geom:longitude":-96.867823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21883 467th Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403714423,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1467082680,
     "wof:name":"Rick Bortnem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.867823,44.212602,-96.867823,44.212602],
+  "bbox": [
+    -96.867823,
+    44.212602,
+    -96.867823,
+    44.212602
+],
   "geometry": {"coordinates":[-96.867823,44.212602],"type":"Point"}
 }

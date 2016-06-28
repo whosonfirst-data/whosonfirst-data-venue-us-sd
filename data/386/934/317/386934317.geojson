@@ -2,13 +2,14 @@
   "id": 386934317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433346,45.473655,-98.433346,45.473655",
     "geom:latitude":45.473655,
     "geom:longitude":-98.433346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4651 8th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386934317,
-    "wof:lastmodified":1449028645,
+    "wof:lastmodified":1467082649,
     "wof:name":"A A A Authorized Emergency Svc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-98.433346,45.473655,-98.433346,45.473655],
+  "bbox": [
+    -98.433346,
+    45.473655,
+    -98.433346,
+    45.473655
+],
   "geometry": {"coordinates":[-98.433346,45.473655],"type":"Point"}
 }

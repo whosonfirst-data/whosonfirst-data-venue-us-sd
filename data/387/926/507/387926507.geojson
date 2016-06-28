@@ -2,13 +2,14 @@
   "id": 387926507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.695098,43.544961,-96.695098,43.544961",
     "geom:latitude":43.544961,
     "geom:longitude":-96.695098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Conklin Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387926507,
-    "wof:lastmodified":1449057426,
+    "wof:lastmodified":1467082713,
     "wof:name":"Douglas E Amen P C",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-96.695098,43.544961,-96.695098,43.544961],
+  "bbox": [
+    -96.695098,
+    43.544961,
+    -96.695098,
+    43.544961
+],
   "geometry": {"coordinates":[-96.695098,43.544961],"type":"Point"}
 }

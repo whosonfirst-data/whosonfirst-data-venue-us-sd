@@ -2,13 +2,14 @@
   "id": 387766895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747045,43.561423,-96.747045,43.561423",
     "geom:latitude":43.561423,
     "geom:longitude":-96.747045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387766895,
-    "wof:lastmodified":1449056065,
+    "wof:lastmodified":1467082686,
     "wof:name":"Junior Achievement of SD",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-96.747045,43.561423,-96.747045,43.561423],
+  "bbox": [
+    -96.747045,
+    43.561423,
+    -96.747045,
+    43.561423
+],
   "geometry": {"coordinates":[-96.747045,43.561423],"type":"Point"}
 }

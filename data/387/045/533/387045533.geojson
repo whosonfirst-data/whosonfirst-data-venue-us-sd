@@ -2,13 +2,14 @@
   "id": 387045533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704898,43.553302,-96.704898,43.553302",
     "geom:latitude":43.553302,
     "geom:longitude":-96.704898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 E 4th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387045533,
-    "wof:lastmodified":1449059472,
+    "wof:lastmodified":1467082754,
     "wof:name":"Daves Music Lessons",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.704898,43.553302,-96.704898,43.553302],
+  "bbox": [
+    -96.704898,
+    43.553302,
+    -96.704898,
+    43.553302
+],
   "geometry": {"coordinates":[-96.704898,43.553302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387553711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234436,44.357336,-98.234436,44.357336",
     "geom:latitude":44.357336,
     "geom:longitude":-98.234436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387553711,
-    "wof:lastmodified":1449056138,
+    "wof:lastmodified":1467082687,
     "wof:name":"Trussbilt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-98.234436,44.357336,-98.234436,44.357336],
+  "bbox": [
+    -98.234436,
+    44.357336,
+    -98.234436,
+    44.357336
+],
   "geometry": {"coordinates":[-98.234436,44.357336],"type":"Point"}
 }

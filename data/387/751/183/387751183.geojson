@@ -2,13 +2,14 @@
   "id": 387751183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.028788,45.444387,-99.028788,45.444387",
     "geom:latitude":45.444387,
     "geom:longitude":-99.028788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 1st Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387751183,
-    "wof:lastmodified":1449056327,
+    "wof:lastmodified":1467082691,
     "wof:name":"Myron Fillbach Computer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.028788,45.444387,-99.028788,45.444387],
-  "geometry": {"coordinates":[-99.028788,45.444387],"type":"Point"}
+  "bbox": [
+    -99.028788,
+    45.444387,
+    -99.028788,
+    45.444387
+],
+  "geometry": {"coordinates":[-99.02878800000001,45.444387],"type":"Point"}
 }

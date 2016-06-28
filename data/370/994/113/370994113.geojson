@@ -2,13 +2,14 @@
   "id": 370994113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.9103,43.511835,-96.9103,43.511835",
     "geom:latitude":43.511835,
     "geom:longitude":-96.9103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26719 465th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370994113,
-    "wof:lastmodified":1449029240,
+    "wof:lastmodified":1467082655,
     "wof:name":"R & R Concrete Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.9103,43.511835,-96.9103,43.511835],
-  "geometry": {"coordinates":[-96.9103,43.511835],"type":"Point"}
+  "bbox": [
+    -96.9103,
+    43.511835,
+    -96.9103,
+    43.511835
+],
+  "geometry": {"coordinates":[-96.91030000000001,43.511835],"type":"Point"}
 }

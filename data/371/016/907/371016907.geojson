@@ -2,13 +2,14 @@
   "id": 371016907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136498,43.399712,-97.136498,43.399712",
     "geom:latitude":43.399712,
     "geom:longitude":-97.136498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 4th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371016907,
-    "wof:lastmodified":1449049224,
+    "wof:lastmodified":1467082661,
     "wof:name":"Prairie Pumper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.136498,43.399712,-97.136498,43.399712],
+  "bbox": [
+    -97.136498,
+    43.399712,
+    -97.136498,
+    43.399712
+],
   "geometry": {"coordinates":[-97.136498,43.399712],"type":"Point"}
 }

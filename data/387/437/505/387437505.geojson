@@ -2,13 +2,14 @@
   "id": 387437505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.496972,45.32547,-98.496972,45.32547",
     "geom:latitude":45.32547,
     "geom:longitude":-98.496972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Main St W",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387437505,
-    "wof:lastmodified":1449058864,
+    "wof:lastmodified":1467082742,
     "wof:name":"Eagle Pass Ranch",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cattle"
     ]
 },
-  "bbox": [-98.496972,45.32547,-98.496972,45.32547],
+  "bbox": [
+    -98.496972,
+    45.32547,
+    -98.496972,
+    45.32547
+],
   "geometry": {"coordinates":[-98.496972,45.32547],"type":"Point"}
 }

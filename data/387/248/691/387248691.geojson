@@ -2,13 +2,14 @@
   "id": 387248691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732568,43.514215,-96.732568,43.514215",
     "geom:latitude":43.514215,
     "geom:longitude":-96.732568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3429 S Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387248691,
-    "wof:lastmodified":1449058198,
+    "wof:lastmodified":1467082729,
     "wof:name":"Cambridge Gallery",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.732568,43.514215,-96.732568,43.514215],
+  "bbox": [
+    -96.732568,
+    43.514215,
+    -96.732568,
+    43.514215
+],
   "geometry": {"coordinates":[-96.732568,43.514215],"type":"Point"}
 }

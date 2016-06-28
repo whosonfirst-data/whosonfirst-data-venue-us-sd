@@ -2,13 +2,14 @@
   "id": 371106831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.052328,43.543405,-97.052328,43.543405",
     "geom:latitude":43.543405,
     "geom:longitude":-97.052328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45794 265th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371106831,
-    "wof:lastmodified":1449049052,
+    "wof:lastmodified":1467082658,
     "wof:name":"Dancing Music Machine",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.052328,43.543405,-97.052328,43.543405],
+  "bbox": [
+    -97.052328,
+    43.543405,
+    -97.052328,
+    43.543405
+],
   "geometry": {"coordinates":[-97.052328,43.543405],"type":"Point"}
 }

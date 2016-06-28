@@ -2,13 +2,14 @@
   "id": 387024405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.260386,44.083545,-103.260386,44.083545",
     "geom:latitude":44.083545,
     "geom:longitude":-103.260386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Sheffer St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387024405,
-    "wof:lastmodified":1449057928,
+    "wof:lastmodified":1467082723,
     "wof:name":"R Mac Leod Consulting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-103.260386,44.083545,-103.260386,44.083545],
+  "bbox": [
+    -103.260386,
+    44.083545,
+    -103.260386,
+    44.083545
+],
   "geometry": {"coordinates":[-103.260386,44.083545],"type":"Point"}
 }

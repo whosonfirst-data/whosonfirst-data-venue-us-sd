@@ -2,13 +2,14 @@
   "id": 403710945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.822196,44.477404,-103.822196,44.477404",
     "geom:latitude":44.477404,
     "geom:longitude":-103.822196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403710945,
-    "wof:lastmodified":1449054706,
+    "wof:lastmodified":1467082675,
     "wof:name":"Red Dot Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.822196,44.477404,-103.822196,44.477404],
-  "geometry": {"coordinates":[-103.822196,44.477404],"type":"Point"}
+  "bbox": [
+    -103.822196,
+    44.477404,
+    -103.822196,
+    44.477404
+],
+  "geometry": {"coordinates":[-103.82219600000001,44.477404],"type":"Point"}
 }

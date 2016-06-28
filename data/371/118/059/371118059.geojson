@@ -2,13 +2,14 @@
   "id": 371118059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.433876,45.533311,-100.433876,45.533311",
     "geom:latitude":45.533311,
     "geom:longitude":-100.433876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Railroad St E",
     "sg:city":"Glenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371118059,
-    "wof:lastmodified":1449049899,
+    "wof:lastmodified":1467082670,
     "wof:name":"Farms Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-100.433876,45.533311,-100.433876,45.533311],
+  "bbox": [
+    -100.433876,
+    45.533311,
+    -100.433876,
+    45.533311
+],
   "geometry": {"coordinates":[-100.433876,45.533311],"type":"Point"}
 }

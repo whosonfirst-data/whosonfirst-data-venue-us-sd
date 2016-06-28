@@ -2,13 +2,14 @@
   "id": 387148017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.868132,43.723172,-96.868132,43.723172",
     "geom:latitude":43.723172,
     "geom:longitude":-96.868132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 3rd St",
     "sg:city":"Lyons",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387148017,
-    "wof:lastmodified":1449059331,
+    "wof:lastmodified":1467082751,
     "wof:name":"US Post Office",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.868132,43.723172,-96.868132,43.723172],
+  "bbox": [
+    -96.868132,
+    43.723172,
+    -96.868132,
+    43.723172
+],
   "geometry": {"coordinates":[-96.868132,43.723172],"type":"Point"}
 }

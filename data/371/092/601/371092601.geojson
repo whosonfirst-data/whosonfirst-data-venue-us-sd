@@ -2,13 +2,14 @@
   "id": 371092601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.212148,44.083809,-103.212148,44.083809",
     "geom:latitude":44.083809,
     "geom:longitude":-103.212148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 E Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371092601,
-    "wof:lastmodified":1449049906,
+    "wof:lastmodified":1467082670,
     "wof:name":"Wolff's Plumbing & Heating Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.212148,44.083809,-103.212148,44.083809],
+  "bbox": [
+    -103.212148,
+    44.083809,
+    -103.212148,
+    44.083809
+],
   "geometry": {"coordinates":[-103.212148,44.083809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386997217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.657914,43.44977,-97.657914,43.44977",
     "geom:latitude":43.44977,
     "geom:longitude":-97.657914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27157 427th Ave",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386997217,
-    "wof:lastmodified":1449028900,
+    "wof:lastmodified":1467082654,
     "wof:name":"Buehner Dairy Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.657914,43.44977,-97.657914,43.44977],
-  "geometry": {"coordinates":[-97.657914,43.44977],"type":"Point"}
+  "bbox": [
+    -97.657914,
+    43.44977,
+    -97.657914,
+    43.44977
+],
+  "geometry": {"coordinates":[-97.65791400000001,43.44977],"type":"Point"}
 }

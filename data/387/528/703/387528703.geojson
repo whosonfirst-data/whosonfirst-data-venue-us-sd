@@ -2,13 +2,14 @@
   "id": 387528703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.976216,44.518164,-98.976216,44.518164",
     "geom:latitude":44.518164,
     "geom:longitude":-98.976216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387528703,
-    "wof:lastmodified":1449057117,
+    "wof:lastmodified":1467082707,
     "wof:name":"Miller Concrete Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "product"
     ]
 },
-  "bbox": [-98.976216,44.518164,-98.976216,44.518164],
-  "geometry": {"coordinates":[-98.976216,44.518164],"type":"Point"}
+  "bbox": [
+    -98.976216,
+    44.518164,
+    -98.976216,
+    44.518164
+],
+  "geometry": {"coordinates":[-98.97621599999999,44.518164],"type":"Point"}
 }

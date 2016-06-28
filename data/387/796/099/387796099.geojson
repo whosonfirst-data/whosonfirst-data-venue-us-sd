@@ -2,13 +2,14 @@
   "id": 387796099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.602935,44.050478,-96.602935,44.050478",
     "geom:latitude":44.050478,
     "geom:longitude":-96.602935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W 1st Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387796099,
-    "wof:lastmodified":1449057898,
+    "wof:lastmodified":1467082723,
     "wof:name":"Moody Co-Operative Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.602935,44.050478,-96.602935,44.050478],
+  "bbox": [
+    -96.602935,
+    44.050478,
+    -96.602935,
+    44.050478
+],
   "geometry": {"coordinates":[-96.602935,44.050478],"type":"Point"}
 }

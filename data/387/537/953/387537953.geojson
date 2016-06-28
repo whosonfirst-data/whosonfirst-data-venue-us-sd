@@ -2,13 +2,14 @@
   "id": 387537953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492324,45.4539,-98.492324,45.4539",
     "geom:latitude":45.4539,
     "geom:longitude":-98.492324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 11th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387537953,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1467082705,
     "wof:name":"Aberdeen Marine",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [-98.492324,45.4539,-98.492324,45.4539],
+  "bbox": [
+    -98.492324,
+    45.4539,
+    -98.492324,
+    45.4539
+],
   "geometry": {"coordinates":[-98.492324,45.4539],"type":"Point"}
 }

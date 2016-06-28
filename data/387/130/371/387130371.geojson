@@ -2,13 +2,14 @@
   "id": 387130371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.532319,43.659091,-96.532319,43.659091",
     "geom:latitude":43.659091,
     "geom:longitude":-96.532319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48397 257th St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387130371,
-    "wof:lastmodified":1449057408,
+    "wof:lastmodified":1467082713,
     "wof:name":"Carlson Bruce & Dinal",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.532319,43.659091,-96.532319,43.659091],
+  "bbox": [
+    -96.532319,
+    43.659091,
+    -96.532319,
+    43.659091
+],
   "geometry": {"coordinates":[-96.532319,43.659091],"type":"Point"}
 }

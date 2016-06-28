@@ -2,13 +2,14 @@
   "id": 387067669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733744,43.518504,-96.733744,43.518504",
     "geom:latitude":43.518504,
     "geom:longitude":-96.733744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W 37th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387067669,
-    "wof:lastmodified":1449056360,
+    "wof:lastmodified":1467082692,
     "wof:name":"Drake Donald A DDS",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.733744,43.518504,-96.733744,43.518504],
+  "bbox": [
+    -96.733744,
+    43.518504,
+    -96.733744,
+    43.518504
+],
   "geometry": {"coordinates":[-96.733744,43.518504],"type":"Point"}
 }

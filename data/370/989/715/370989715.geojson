@@ -2,13 +2,14 @@
   "id": 370989715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.952274,43.11817,-96.952274,43.11817",
     "geom:latitude":43.11817,
     "geom:longitude":-96.952274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Center St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370989715,
-    "wof:lastmodified":1449031578,
+    "wof:lastmodified":1467082657,
     "wof:name":"Gehle Delain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.952274,43.11817,-96.952274,43.11817],
+  "bbox": [
+    -96.952274,
+    43.11817,
+    -96.952274,
+    43.11817
+],
   "geometry": {"coordinates":[-96.952274,43.11817],"type":"Point"}
 }

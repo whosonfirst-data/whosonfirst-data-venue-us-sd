@@ -2,13 +2,14 @@
   "id": 387307441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.465005,45.528712,-102.465005,45.528712",
     "geom:latitude":45.528712,
     "geom:longitude":-102.465005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Coleman Ave",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387307441,
-    "wof:lastmodified":1449057084,
+    "wof:lastmodified":1467082706,
     "wof:name":"Stateline Telecommunications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-102.465005,45.528712,-102.465005,45.528712],
+  "bbox": [
+    -102.465005,
+    45.528712,
+    -102.465005,
+    45.528712
+],
   "geometry": {"coordinates":[-102.465005,45.528712],"type":"Point"}
 }

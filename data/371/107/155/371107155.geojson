@@ -2,13 +2,14 @@
   "id": 371107155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221636,44.115513,-103.221636,44.115513",
     "geom:latitude":44.115513,
     "geom:longitude":-103.221636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3060 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371107155,
-    "wof:lastmodified":1449049077,
+    "wof:lastmodified":1467082658,
     "wof:name":"Duffield Construction Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.221636,44.115513,-103.221636,44.115513],
+  "bbox": [
+    -103.221636,
+    44.115513,
+    -103.221636,
+    44.115513
+],
   "geometry": {"coordinates":[-103.221636,44.115513],"type":"Point"}
 }

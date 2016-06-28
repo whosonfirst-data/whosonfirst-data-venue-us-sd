@@ -2,13 +2,14 @@
   "id": 387074009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.599315,43.767793,-103.599315,43.767793",
     "geom:latitude":43.767793,
     "geom:longitude":-103.599315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 N 6th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387074009,
-    "wof:lastmodified":1449058163,
+    "wof:lastmodified":1467082728,
     "wof:name":"Berean Bible Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-103.599315,43.767793,-103.599315,43.767793],
+  "bbox": [
+    -103.599315,
+    43.767793,
+    -103.599315,
+    43.767793
+],
   "geometry": {"coordinates":[-103.599315,43.767793],"type":"Point"}
 }

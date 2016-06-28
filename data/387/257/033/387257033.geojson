@@ -2,13 +2,14 @@
   "id": 387257033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.235423,44.033517,-103.235423,44.033517",
     "geom:latitude":44.033517,
     "geom:longitude":-103.235423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Enchantment Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387257033,
-    "wof:lastmodified":1449057218,
+    "wof:lastmodified":1467082709,
     "wof:name":"Cloud Nine Therapeutic Massage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.235423,44.033517,-103.235423,44.033517],
+  "bbox": [
+    -103.235423,
+    44.033517,
+    -103.235423,
+    44.033517
+],
   "geometry": {"coordinates":[-103.235423,44.033517],"type":"Point"}
 }

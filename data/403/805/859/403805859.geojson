@@ -2,13 +2,14 @@
   "id": 403805859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.301304,44.087197,-103.301304,44.087197",
     "geom:latitude":44.087197,
     "geom:longitude":-103.301304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Ray Ann Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403805859,
-    "wof:lastmodified":1449055080,
+    "wof:lastmodified":1467082678,
     "wof:name":"Menkens Carpet & Furniture Clg",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-103.301304,44.087197,-103.301304,44.087197],
+  "bbox": [
+    -103.301304,
+    44.087197,
+    -103.301304,
+    44.087197
+],
   "geometry": {"coordinates":[-103.301304,44.087197],"type":"Point"}
 }

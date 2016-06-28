@@ -2,13 +2,14 @@
   "id": 387017633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271494,44.096729,-103.271494,44.096729",
     "geom:latitude":44.096729,
     "geom:longitude":-103.271494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3292 Lien St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387017633,
-    "wof:lastmodified":1449058135,
+    "wof:lastmodified":1467082728,
     "wof:name":"Dakota Block Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brick"
     ]
 },
-  "bbox": [-103.271494,44.096729,-103.271494,44.096729],
+  "bbox": [
+    -103.271494,
+    44.096729,
+    -103.271494,
+    44.096729
+],
   "geometry": {"coordinates":[-103.271494,44.096729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387069163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.093105,44.890135,-97.093105,44.890135",
     "geom:latitude":44.890135,
     "geom:longitude":-97.093105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387069163,
-    "wof:lastmodified":1449058514,
+    "wof:lastmodified":1467082735,
     "wof:name":"J H Larson Electrical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.093105,44.890135,-97.093105,44.890135],
-  "geometry": {"coordinates":[-97.093105,44.890135],"type":"Point"}
+  "bbox": [
+    -97.093105,
+    44.890135,
+    -97.093105,
+    44.890135
+],
+  "geometry": {"coordinates":[-97.09310499999999,44.890135],"type":"Point"}
 }

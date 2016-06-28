@@ -2,13 +2,14 @@
   "id": 387457161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694317,43.592747,-96.694317,43.592747",
     "geom:latitude":43.592747,
     "geom:longitude":-96.694317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 E 52nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387457161,
-    "wof:lastmodified":1449058664,
+    "wof:lastmodified":1467082738,
     "wof:name":"T S Vending Co",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.694317,43.592747,-96.694317,43.592747],
+  "bbox": [
+    -96.694317,
+    43.592747,
+    -96.694317,
+    43.592747
+],
   "geometry": {"coordinates":[-96.694317,43.592747],"type":"Point"}
 }

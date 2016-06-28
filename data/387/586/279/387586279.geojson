@@ -2,13 +2,14 @@
   "id": 387586279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.716232,43.14815,-97.716232,43.14815",
     "geom:latitude":43.14815,
     "geom:longitude":-97.716232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 4th St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387586279,
-    "wof:lastmodified":1449059482,
+    "wof:lastmodified":1467082754,
     "wof:name":"Scottie Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.716232,43.14815,-97.716232,43.14815],
-  "geometry": {"coordinates":[-97.716232,43.14815],"type":"Point"}
+  "bbox": [
+    -97.716232,
+    43.14815,
+    -97.716232,
+    43.14815
+],
+  "geometry": {"coordinates":[-97.71623200000001,43.14815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386994067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.760193,43.645429,-96.760193,43.645429",
     "geom:latitude":43.645429,
     "geom:longitude":-96.760193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47260 258th St",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386994067,
-    "wof:lastmodified":1449028635,
+    "wof:lastmodified":1467082649,
     "wof:name":"Renberg Elementary School",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.760193,43.645429,-96.760193,43.645429],
+  "bbox": [
+    -96.760193,
+    43.645429,
+    -96.760193,
+    43.645429
+],
   "geometry": {"coordinates":[-96.760193,43.645429],"type":"Point"}
 }

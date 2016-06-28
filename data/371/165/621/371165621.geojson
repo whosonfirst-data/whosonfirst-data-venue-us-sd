@@ -2,13 +2,14 @@
   "id": 371165621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455335,45.473796,-98.455335,45.473796",
     "geom:latitude":45.473796,
     "geom:longitude":-98.455335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 8th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371165621,
-    "wof:lastmodified":1449050146,
+    "wof:lastmodified":1467082673,
     "wof:name":"Louie's Service",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "oil"
     ]
 },
-  "bbox": [-98.455335,45.473796,-98.455335,45.473796],
-  "geometry": {"coordinates":[-98.455335,45.473796],"type":"Point"}
+  "bbox": [
+    -98.455335,
+    45.473796,
+    -98.455335,
+    45.473796
+],
+  "geometry": {"coordinates":[-98.45533500000001,45.473796],"type":"Point"}
 }

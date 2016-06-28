@@ -2,13 +2,14 @@
   "id": 371097523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.298266,44.083225,-103.298266,44.083225",
     "geom:latitude":44.083225,
     "geom:longitude":-103.298266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4622 Baldwin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371097523,
-    "wof:lastmodified":1449049433,
+    "wof:lastmodified":1467082664,
     "wof:name":"Bh Medbill Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.298266,44.083225,-103.298266,44.083225],
+  "bbox": [
+    -103.298266,
+    44.083225,
+    -103.298266,
+    44.083225
+],
   "geometry": {"coordinates":[-103.298266,44.083225],"type":"Point"}
 }

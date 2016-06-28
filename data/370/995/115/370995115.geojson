@@ -2,13 +2,14 @@
   "id": 370995115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721223,43.548626,-96.721223,43.548626",
     "geom:latitude":43.548626,
     "geom:longitude":-96.721223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370995115,
-    "wof:lastmodified":1449032101,
+    "wof:lastmodified":1467082658,
     "wof:name":"Electric Pulp Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-96.721223,43.548626,-96.721223,43.548626],
-  "geometry": {"coordinates":[-96.721223,43.548626],"type":"Point"}
+  "bbox": [
+    -96.721223,
+    43.548626,
+    -96.721223,
+    43.548626
+],
+  "geometry": {"coordinates":[-96.72122299999999,43.548626],"type":"Point"}
 }

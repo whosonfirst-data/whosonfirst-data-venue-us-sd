@@ -2,13 +2,14 @@
   "id": 387034757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798954,45.106216,-96.798954,45.106216",
     "geom:latitude":45.106216,
     "geom:longitude":-96.798954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15699 470th Ave",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387034757,
-    "wof:lastmodified":1449056533,
+    "wof:lastmodified":1467082695,
     "wof:name":"Stockholm Refrigeration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-96.798954,45.106216,-96.798954,45.106216],
-  "geometry": {"coordinates":[-96.798954,45.106216],"type":"Point"}
+  "bbox": [
+    -96.798954,
+    45.106216,
+    -96.798954,
+    45.106216
+],
+  "geometry": {"coordinates":[-96.79895399999999,45.106216],"type":"Point"}
 }

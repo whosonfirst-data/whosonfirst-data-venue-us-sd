@@ -2,13 +2,14 @@
   "id": 387203453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.68651,44.149452,-99.68651,44.149452",
     "geom:latitude":44.149452,
     "geom:longitude":-99.68651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22285 Mint Rd",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387203453,
-    "wof:lastmodified":1449057795,
+    "wof:lastmodified":1467082721,
     "wof:name":"Double G Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.68651,44.149452,-99.68651,44.149452],
+  "bbox": [
+    -99.68651,
+    44.149452,
+    -99.68651,
+    44.149452
+],
   "geometry": {"coordinates":[-99.68651,44.149452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371092003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.329669,45.388431,-98.329669,45.388431",
     "geom:latitude":45.388431,
     "geom:longitude":-98.329669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13755 395th Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371092003,
-    "wof:lastmodified":1449049907,
+    "wof:lastmodified":1467082670,
     "wof:name":"Dollys Hospital",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-98.329669,45.388431,-98.329669,45.388431],
+  "bbox": [
+    -98.329669,
+    45.388431,
+    -98.329669,
+    45.388431
+],
   "geometry": {"coordinates":[-98.329669,45.388431],"type":"Point"}
 }

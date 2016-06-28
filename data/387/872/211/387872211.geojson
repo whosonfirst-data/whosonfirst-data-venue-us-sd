@@ -2,13 +2,14 @@
   "id": 387872211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774652,43.501967,-96.774652,43.501967",
     "geom:latitude":43.501967,
     "geom:longitude":-96.774652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4816 S Technopolis Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387872211,
-    "wof:lastmodified":1449056449,
+    "wof:lastmodified":1467082693,
     "wof:name":"Sylvan Prometric Ctr",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.774652,43.501967,-96.774652,43.501967],
+  "bbox": [
+    -96.774652,
+    43.501967,
+    -96.774652,
+    43.501967
+],
   "geometry": {"coordinates":[-96.774652,43.501967],"type":"Point"}
 }

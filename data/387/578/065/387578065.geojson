@@ -2,13 +2,14 @@
   "id": 387578065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.265554,44.084745,-103.265554,44.084745",
     "geom:latitude":44.084745,
     "geom:longitude":-103.265554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 W Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387578065,
-    "wof:lastmodified":1449057061,
+    "wof:lastmodified":1467082706,
     "wof:name":"Birdsall Sand & Gravel",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-103.265554,44.084745,-103.265554,44.084745],
-  "geometry": {"coordinates":[-103.265554,44.084745],"type":"Point"}
+  "bbox": [
+    -103.265554,
+    44.084745,
+    -103.265554,
+    44.084745
+],
+  "geometry": {"coordinates":[-103.26555399999999,44.084745],"type":"Point"}
 }

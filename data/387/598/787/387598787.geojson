@@ -2,13 +2,14 @@
   "id": 387598787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.982755,44.58824,-97.982755,44.58824",
     "geom:latitude":44.58824,
     "geom:longitude":-97.982755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41178 193rd St",
     "sg:city":"Carpenter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387598787,
-    "wof:lastmodified":1449056313,
+    "wof:lastmodified":1467082691,
     "wof:name":"Dakota Farms International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ingredient"
     ]
 },
-  "bbox": [-97.982755,44.58824,-97.982755,44.58824],
+  "bbox": [
+    -97.982755,
+    44.58824,
+    -97.982755,
+    44.58824
+],
   "geometry": {"coordinates":[-97.982755,44.58824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387179537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.560449,45.503407,-98.560449,45.503407",
     "geom:latitude":45.503407,
     "geom:longitude":-98.560449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38374 130th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387179537,
-    "wof:lastmodified":1449059524,
+    "wof:lastmodified":1467082755,
     "wof:name":"Harms Heating Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.560449,45.503407,-98.560449,45.503407],
-  "geometry": {"coordinates":[-98.560449,45.503407],"type":"Point"}
+  "bbox": [
+    -98.560449,
+    45.503407,
+    -98.560449,
+    45.503407
+],
+  "geometry": {"coordinates":[-98.56044900000001,45.503407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387115973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.113755,44.897835,-97.113755,44.897835",
     "geom:latitude":44.897835,
     "geom:longitude":-97.113755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387115973,
-    "wof:lastmodified":1449056084,
+    "wof:lastmodified":1467082686,
     "wof:name":"200 Maple Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-97.113755,44.897835,-97.113755,44.897835],
+  "bbox": [
+    -97.113755,
+    44.897835,
+    -97.113755,
+    44.897835
+],
   "geometry": {"coordinates":[-97.113755,44.897835],"type":"Point"}
 }

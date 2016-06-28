@@ -2,13 +2,14 @@
   "id": 387884087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.160219,45.268372,-97.160219,45.268372",
     "geom:latitude":45.268372,
     "geom:longitude":-97.160219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45230 146th St",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387884087,
-    "wof:lastmodified":1449059175,
+    "wof:lastmodified":1467082748,
     "wof:name":"Norswiss Dairy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.160219,45.268372,-97.160219,45.268372],
+  "bbox": [
+    -97.160219,
+    45.268372,
+    -97.160219,
+    45.268372
+],
   "geometry": {"coordinates":[-97.160219,45.268372],"type":"Point"}
 }

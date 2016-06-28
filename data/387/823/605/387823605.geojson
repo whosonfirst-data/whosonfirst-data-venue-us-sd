@@ -2,13 +2,14 @@
   "id": 387823605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.727282,44.372692,-103.727282,44.372692",
     "geom:latitude":44.372692,
     "geom:longitude":-103.727282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Van Buren St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387823605,
-    "wof:lastmodified":1449059889,
+    "wof:lastmodified":1467082762,
     "wof:name":"French Creek Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.727282,44.372692,-103.727282,44.372692],
+  "bbox": [
+    -103.727282,
+    44.372692,
+    -103.727282,
+    44.372692
+],
   "geometry": {"coordinates":[-103.727282,44.372692],"type":"Point"}
 }

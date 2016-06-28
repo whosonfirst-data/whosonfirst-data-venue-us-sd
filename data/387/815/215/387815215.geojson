@@ -2,13 +2,14 @@
   "id": 387815215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.380284,44.572476,-97.380284,44.572476",
     "geom:latitude":44.572476,
     "geom:longitude":-97.380284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44153 194th St",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387815215,
-    "wof:lastmodified":1449057946,
+    "wof:lastmodified":1467082724,
     "wof:name":"Ralph Noem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.380284,44.572476,-97.380284,44.572476],
+  "bbox": [
+    -97.380284,
+    44.572476,
+    -97.380284,
+    44.572476
+],
   "geometry": {"coordinates":[-97.380284,44.572476],"type":"Point"}
 }

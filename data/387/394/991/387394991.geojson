@@ -2,13 +2,14 @@
   "id": 387394991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.267759,44.103988,-103.267759,44.103988",
     "geom:latitude":44.103988,
     "geom:longitude":-103.267759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 Samco Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387394991,
-    "wof:lastmodified":1449056837,
+    "wof:lastmodified":1467082701,
     "wof:name":"Premier Storage Systems",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.267759,44.103988,-103.267759,44.103988],
+  "bbox": [
+    -103.267759,
+    44.103988,
+    -103.267759,
+    44.103988
+],
   "geometry": {"coordinates":[-103.267759,44.103988],"type":"Point"}
 }

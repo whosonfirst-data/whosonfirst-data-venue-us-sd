@@ -2,13 +2,14 @@
   "id": 387455403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214162,44.381396,-98.214162,44.381396",
     "geom:latitude":44.381396,
     "geom:longitude":-98.214162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387455403,
-    "wof:lastmodified":1449059319,
+    "wof:lastmodified":1467082751,
     "wof:name":"Speedland Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-98.214162,44.381396,-98.214162,44.381396],
+  "bbox": [
+    -98.214162,
+    44.381396,
+    -98.214162,
+    44.381396
+],
   "geometry": {"coordinates":[-98.214162,44.381396],"type":"Point"}
 }

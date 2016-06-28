@@ -2,13 +2,14 @@
   "id": 387367167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.357569,45.714903,-97.357569,45.714903",
     "geom:latitude":45.714903,
     "geom:longitude":-97.357569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44276 115th St",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387367167,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1467082732,
     "wof:name":"Wegleitner Locker Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.357569,45.714903,-97.357569,45.714903],
+  "bbox": [
+    -97.357569,
+    45.714903,
+    -97.357569,
+    45.714903
+],
   "geometry": {"coordinates":[-97.357569,45.714903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387459443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.483282,45.474861,-98.483282,45.474861",
     "geom:latitude":45.474861,
     "geom:longitude":-98.483282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 9th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387459443,
-    "wof:lastmodified":1449057655,
+    "wof:lastmodified":1467082718,
     "wof:name":"Davis Court Apartments",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-98.483282,45.474861,-98.483282,45.474861],
+  "bbox": [
+    -98.483282,
+    45.474861,
+    -98.483282,
+    45.474861
+],
   "geometry": {"coordinates":[-98.483282,45.474861],"type":"Point"}
 }

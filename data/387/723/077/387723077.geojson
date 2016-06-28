@@ -2,13 +2,14 @@
   "id": 387723077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.223536,44.120031,-103.223536,44.120031",
     "geom:latitude":44.120031,
     "geom:longitude":-103.223536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 Chief Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387723077,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1467082731,
     "wof:name":"Sacred Vows Wedding Service",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chapel"
     ]
 },
-  "bbox": [-103.223536,44.120031,-103.223536,44.120031],
+  "bbox": [
+    -103.223536,
+    44.120031,
+    -103.223536,
+    44.120031
+],
   "geometry": {"coordinates":[-103.223536,44.120031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387377263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729004,43.513165,-96.729004,43.513165",
     "geom:latitude":43.513165,
     "geom:longitude":-96.729004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 S Center Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387377263,
-    "wof:lastmodified":1449057537,
+    "wof:lastmodified":1467082715,
     "wof:name":"Great Amusement Pool & Dart",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "devices"
     ]
 },
-  "bbox": [-96.729004,43.513165,-96.729004,43.513165],
+  "bbox": [
+    -96.729004,
+    43.513165,
+    -96.729004,
+    43.513165
+],
   "geometry": {"coordinates":[-96.729004,43.513165],"type":"Point"}
 }

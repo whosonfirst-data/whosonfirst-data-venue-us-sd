@@ -2,13 +2,14 @@
   "id": 387279705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.293383,44.061358,-103.293383,44.061358",
     "geom:latitude":44.061358,
     "geom:longitude":-103.293383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387279705,
-    "wof:lastmodified":1449057850,
+    "wof:lastmodified":1467082722,
     "wof:name":"Blessed Sacrament Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.293383,44.061358,-103.293383,44.061358],
-  "geometry": {"coordinates":[-103.293383,44.061358],"type":"Point"}
+  "bbox": [
+    -103.293383,
+    44.061358,
+    -103.293383,
+    44.061358
+],
+  "geometry": {"coordinates":[-103.29338300000001,44.061358],"type":"Point"}
 }

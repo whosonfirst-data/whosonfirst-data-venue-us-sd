@@ -2,13 +2,14 @@
   "id": 371153189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671448,43.525942,-96.671448,43.525942",
     "geom:latitude":43.525942,
     "geom:longitude":-96.671448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 E Belmont St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371153189,
-    "wof:lastmodified":1449049776,
+    "wof:lastmodified":1467082668,
     "wof:name":"Sundog Internet Creations",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-96.671448,43.525942,-96.671448,43.525942],
+  "bbox": [
+    -96.671448,
+    43.525942,
+    -96.671448,
+    43.525942
+],
   "geometry": {"coordinates":[-96.671448,43.525942],"type":"Point"}
 }

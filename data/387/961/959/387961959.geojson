@@ -2,13 +2,14 @@
   "id": 387961959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.447794,45.540539,-100.447794,45.540539",
     "geom:latitude":45.540539,
     "geom:longitude":-100.447794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 8th St W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387961959,
-    "wof:lastmodified":1449059849,
+    "wof:lastmodified":1467082761,
     "wof:name":"Lyles Burner Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.447794,45.540539,-100.447794,45.540539],
+  "bbox": [
+    -100.447794,
+    45.540539,
+    -100.447794,
+    45.540539
+],
   "geometry": {"coordinates":[-100.447794,45.540539],"type":"Point"}
 }

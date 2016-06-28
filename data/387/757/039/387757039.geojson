@@ -2,13 +2,14 @@
   "id": 387757039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.29214,43.183048,-99.29214,43.183048",
     "geom:latitude":43.183048,
     "geom:longitude":-99.29214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 Main St",
     "sg:city":"Burke",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387757039,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1467082730,
     "wof:name":"Gunvordahl Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.29214,43.183048,-99.29214,43.183048],
+  "bbox": [
+    -99.29214,
+    43.183048,
+    -99.29214,
+    43.183048
+],
   "geometry": {"coordinates":[-99.29214,43.183048],"type":"Point"}
 }

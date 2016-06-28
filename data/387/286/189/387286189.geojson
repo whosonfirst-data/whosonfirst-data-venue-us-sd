@@ -2,13 +2,14 @@
   "id": 387286189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.009871,43.725429,-97.009871,43.725429",
     "geom:latitude":43.725429,
     "geom:longitude":-97.009871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25249 460th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387286189,
-    "wof:lastmodified":1449057100,
+    "wof:lastmodified":1467082706,
     "wof:name":"Arlyn Van Wyhe Trucking",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.009871,43.725429,-97.009871,43.725429],
+  "bbox": [
+    -97.009871,
+    43.725429,
+    -97.009871,
+    43.725429
+],
   "geometry": {"coordinates":[-97.009871,43.725429],"type":"Point"}
 }

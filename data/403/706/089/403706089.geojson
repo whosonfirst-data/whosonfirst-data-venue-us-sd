@@ -2,13 +2,14 @@
   "id": 403706089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731424,43.561141,-96.731424,43.561141",
     "geom:latitude":43.561141,
     "geom:longitude":-96.731424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403706089,
-    "wof:lastmodified":1449054729,
+    "wof:lastmodified":1467082675,
     "wof:name":"Whiffers Sandwich Inc",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dress"
     ]
 },
-  "bbox": [-96.731424,43.561141,-96.731424,43.561141],
+  "bbox": [
+    -96.731424,
+    43.561141,
+    -96.731424,
+    43.561141
+],
   "geometry": {"coordinates":[-96.731424,43.561141],"type":"Point"}
 }

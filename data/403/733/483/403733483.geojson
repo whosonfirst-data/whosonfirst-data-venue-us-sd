@@ -2,13 +2,14 @@
   "id": 403733483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.619231,43.517839,-96.619231,43.517839",
     "geom:latitude":43.517839,
     "geom:longitude":-96.619231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8504 E 38th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403733483,
-    "wof:lastmodified":1449054806,
+    "wof:lastmodified":1467082676,
     "wof:name":"Sioux Falls Fiberglass Repair",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refinishing"
     ]
 },
-  "bbox": [-96.619231,43.517839,-96.619231,43.517839],
+  "bbox": [
+    -96.619231,
+    43.517839,
+    -96.619231,
+    43.517839
+],
   "geometry": {"coordinates":[-96.619231,43.517839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387238399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986568,43.545398,-97.986568,43.545398",
     "geom:latitude":43.545398,
     "geom:longitude":-97.986568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Elm St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387238399,
-    "wof:lastmodified":1449057529,
+    "wof:lastmodified":1467082715,
     "wof:name":"Adjustment Training Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "group"
     ]
 },
-  "bbox": [-97.986568,43.545398,-97.986568,43.545398],
-  "geometry": {"coordinates":[-97.986568,43.545398],"type":"Point"}
+  "bbox": [
+    -97.986568,
+    43.545398,
+    -97.986568,
+    43.545398
+],
+  "geometry": {"coordinates":[-97.98656800000001,43.545398],"type":"Point"}
 }

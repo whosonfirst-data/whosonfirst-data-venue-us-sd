@@ -2,13 +2,14 @@
   "id": 387245179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111058,43.005632,-97.111058,43.005632",
     "geom:latitude":43.005632,
     "geom:longitude":-97.111058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Nebraska St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387245179,
-    "wof:lastmodified":1449059794,
+    "wof:lastmodified":1467082760,
     "wof:name":"Wakonda Public Elementary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.111058,43.005632,-97.111058,43.005632],
+  "bbox": [
+    -97.111058,
+    43.005632,
+    -97.111058,
+    43.005632
+],
   "geometry": {"coordinates":[-97.111058,43.005632],"type":"Point"}
 }

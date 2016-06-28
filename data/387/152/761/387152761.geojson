@@ -2,13 +2,14 @@
   "id": 387152761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.024662,43.460165,-97.024662,43.460165",
     "geom:latitude":43.460165,
     "geom:longitude":-97.024662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45851 271st St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387152761,
-    "wof:lastmodified":1449059033,
+    "wof:lastmodified":1467082745,
     "wof:name":"Kenneth Krumbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.024662,43.460165,-97.024662,43.460165],
-  "geometry": {"coordinates":[-97.024662,43.460165],"type":"Point"}
+  "bbox": [
+    -97.024662,
+    43.460165,
+    -97.024662,
+    43.460165
+],
+  "geometry": {"coordinates":[-97.02466200000001,43.460165],"type":"Point"}
 }

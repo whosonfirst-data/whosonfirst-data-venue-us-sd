@@ -2,13 +2,14 @@
   "id": 387855249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120983,43.1907,-97.120983,43.1907",
     "geom:latitude":43.1907,
     "geom:longitude":-97.120983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28959 454th Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387855249,
-    "wof:lastmodified":1449058909,
+    "wof:lastmodified":1467082743,
     "wof:name":"Donald E Larsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.120983,43.1907,-97.120983,43.1907],
+  "bbox": [
+    -97.120983,
+    43.1907,
+    -97.120983,
+    43.1907
+],
   "geometry": {"coordinates":[-97.120983,43.1907],"type":"Point"}
 }

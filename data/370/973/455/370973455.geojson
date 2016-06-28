@@ -2,13 +2,14 @@
   "id": 370973455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.041406,45.762042,-98.041406,45.762042",
     "geom:latitude":45.762042,
     "geom:longitude":-98.041406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11205 409th Ave",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370973455,
-    "wof:lastmodified":1449031110,
+    "wof:lastmodified":1467082657,
     "wof:name":"Christenson Brothers",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.041406,45.762042,-98.041406,45.762042],
-  "geometry": {"coordinates":[-98.041406,45.762042],"type":"Point"}
+  "bbox": [
+    -98.041406,
+    45.762042,
+    -98.041406,
+    45.762042
+],
+  "geometry": {"coordinates":[-98.04140599999999,45.762042],"type":"Point"}
 }

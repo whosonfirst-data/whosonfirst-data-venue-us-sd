@@ -2,13 +2,14 @@
   "id": 371173973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.86156,44.499282,-103.86156,44.499282",
     "geom:latitude":44.499282,
     "geom:longitude":-103.86156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 N Main St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371173973,
-    "wof:lastmodified":1449049242,
+    "wof:lastmodified":1467082661,
     "wof:name":"Spearfish High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "secondary"
     ]
 },
-  "bbox": [-103.86156,44.499282,-103.86156,44.499282],
+  "bbox": [
+    -103.86156,
+    44.499282,
+    -103.86156,
+    44.499282
+],
   "geometry": {"coordinates":[-103.86156,44.499282],"type":"Point"}
 }

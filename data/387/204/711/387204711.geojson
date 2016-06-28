@@ -2,13 +2,14 @@
   "id": 387204711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515724,45.358115,-98.515724,45.358115",
     "geom:latitude":45.358115,
     "geom:longitude":-98.515724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38602 140th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387204711,
-    "wof:lastmodified":1449060026,
+    "wof:lastmodified":1467082765,
     "wof:name":"Summers Manufacturing",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-98.515724,45.358115,-98.515724,45.358115],
-  "geometry": {"coordinates":[-98.515724,45.358115],"type":"Point"}
+  "bbox": [
+    -98.515724,
+    45.358115,
+    -98.515724,
+    45.358115
+],
+  "geometry": {"coordinates":[-98.51572400000001,45.358115],"type":"Point"}
 }

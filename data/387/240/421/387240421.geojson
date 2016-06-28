@@ -2,13 +2,14 @@
   "id": 387240421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890616,43.611868,-96.890616,43.611868",
     "geom:latitude":43.611868,
     "geom:longitude":-96.890616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26015 466th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387240421,
-    "wof:lastmodified":1449056506,
+    "wof:lastmodified":1467082695,
     "wof:name":"Melin Truck Service Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.890616,43.611868,-96.890616,43.611868],
-  "geometry": {"coordinates":[-96.890616,43.611868],"type":"Point"}
+  "bbox": [
+    -96.890616,
+    43.611868,
+    -96.890616,
+    43.611868
+],
+  "geometry": {"coordinates":[-96.89061599999999,43.611868],"type":"Point"}
 }

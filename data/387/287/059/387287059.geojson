@@ -2,13 +2,14 @@
   "id": 387287059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.30527,44.879794,-98.30527,44.879794",
     "geom:latitude":44.879794,
     "geom:longitude":-98.30527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Ash St",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387287059,
-    "wof:lastmodified":1449056341,
+    "wof:lastmodified":1467082691,
     "wof:name":"Magic Comb Of Houghton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.30527,44.879794,-98.30527,44.879794],
-  "geometry": {"coordinates":[-98.30527,44.879794],"type":"Point"}
+  "bbox": [
+    -98.30527,
+    44.879794,
+    -98.30527,
+    44.879794
+],
+  "geometry": {"coordinates":[-98.30526999999999,44.879794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371084363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.637032,45.217872,-96.637032,45.217872",
     "geom:latitude":45.217872,
     "geom:longitude":-96.637032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 5th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371084363,
-    "wof:lastmodified":1449049137,
+    "wof:lastmodified":1467082659,
     "wof:name":"Milbank Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "housing"
     ]
 },
-  "bbox": [-96.637032,45.217872,-96.637032,45.217872],
+  "bbox": [
+    -96.637032,
+    45.217872,
+    -96.637032,
+    45.217872
+],
   "geometry": {"coordinates":[-96.637032,45.217872],"type":"Point"}
 }

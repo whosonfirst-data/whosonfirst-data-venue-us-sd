@@ -2,13 +2,14 @@
   "id": 403785359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.225068,44.080678,-103.225068,44.080678",
     "geom:latitude":44.080678,
     "geom:longitude":-103.225068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403785359,
-    "wof:lastmodified":1449055744,
+    "wof:lastmodified":1467082683,
     "wof:name":"Looking Back Photo Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-103.225068,44.080678,-103.225068,44.080678],
-  "geometry": {"coordinates":[-103.225068,44.080678],"type":"Point"}
+  "bbox": [
+    -103.225068,
+    44.080678,
+    -103.225068,
+    44.080678
+],
+  "geometry": {"coordinates":[-103.22506799999999,44.080678],"type":"Point"}
 }

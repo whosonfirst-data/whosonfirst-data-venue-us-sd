@@ -2,13 +2,14 @@
   "id": 387243095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.28168,44.058986,-98.28168,44.058986",
     "geom:latitude":44.058986,
     "geom:longitude":-98.28168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39620 W 11th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387243095,
-    "wof:lastmodified":1449057335,
+    "wof:lastmodified":1467082711,
     "wof:name":"Triple S Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.28168,44.058986,-98.28168,44.058986],
-  "geometry": {"coordinates":[-98.28168,44.058986],"type":"Point"}
+  "bbox": [
+    -98.28168,
+    44.058986,
+    -98.28168,
+    44.058986
+],
+  "geometry": {"coordinates":[-98.28167999999999,44.058986],"type":"Point"}
 }

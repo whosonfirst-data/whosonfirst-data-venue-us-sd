@@ -2,13 +2,14 @@
   "id": 387908819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.905639,43.290216,-96.905639,43.290216",
     "geom:latitude":43.290216,
     "geom:longitude":-96.905639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28279 465th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387908819,
-    "wof:lastmodified":1449058262,
+    "wof:lastmodified":1467082730,
     "wof:name":"Arlyn Rops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.905639,43.290216,-96.905639,43.290216],
-  "geometry": {"coordinates":[-96.905639,43.290216],"type":"Point"}
+  "bbox": [
+    -96.905639,
+    43.290216,
+    -96.905639,
+    43.290216
+],
+  "geometry": {"coordinates":[-96.90563899999999,43.290216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387350785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.50086,43.709369,-96.50086,43.709369",
     "geom:latitude":43.709369,
     "geom:longitude":-96.50086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Leslie Dr",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387350785,
-    "wof:lastmodified":1449058051,
+    "wof:lastmodified":1467082726,
     "wof:name":"Shear Magic",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.50086,43.709369,-96.50086,43.709369],
+  "bbox": [
+    -96.50086,
+    43.709369,
+    -96.50086,
+    43.709369
+],
   "geometry": {"coordinates":[-96.50086,43.709369],"type":"Point"}
 }

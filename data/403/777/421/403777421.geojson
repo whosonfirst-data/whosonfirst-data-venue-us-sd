@@ -2,13 +2,14 @@
   "id": 403777421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703496,43.546669,-96.703496,43.546669",
     "geom:latitude":43.546669,
     "geom:longitude":-96.703496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403777421,
-    "wof:lastmodified":1449055346,
+    "wof:lastmodified":1467082680,
     "wof:name":"School For Deaf South Dakota",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-96.703496,43.546669,-96.703496,43.546669],
+  "bbox": [
+    -96.703496,
+    43.546669,
+    -96.703496,
+    43.546669
+],
   "geometry": {"coordinates":[-96.703496,43.546669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387482953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.577928,43.239628,-97.577928,43.239628",
     "geom:latitude":43.239628,
     "geom:longitude":-97.577928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S 5th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387482953,
-    "wof:lastmodified":1449057451,
+    "wof:lastmodified":1467082713,
     "wof:name":"Rick's Radio & TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-97.577928,43.239628,-97.577928,43.239628],
+  "bbox": [
+    -97.577928,
+    43.239628,
+    -97.577928,
+    43.239628
+],
   "geometry": {"coordinates":[-97.577928,43.239628],"type":"Point"}
 }

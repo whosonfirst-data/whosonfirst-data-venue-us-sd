@@ -2,13 +2,14 @@
   "id": 387601637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.262194,44.070172,-103.262194,44.070172",
     "geom:latitude":44.070172,
     "geom:longitude":-103.262194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387601637,
-    "wof:lastmodified":1449057804,
+    "wof:lastmodified":1467082721,
     "wof:name":"Midwest Financial Svc Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-103.262194,44.070172,-103.262194,44.070172],
-  "geometry": {"coordinates":[-103.262194,44.070172],"type":"Point"}
+  "bbox": [
+    -103.262194,
+    44.070172,
+    -103.262194,
+    44.070172
+],
+  "geometry": {"coordinates":[-103.26219399999999,44.070172],"type":"Point"}
 }

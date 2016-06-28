@@ -2,13 +2,14 @@
   "id": 387381143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.232961,44.370812,-98.232961,44.370812",
     "geom:latitude":44.370812,
     "geom:longitude":-98.232961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 4th St NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387381143,
-    "wof:lastmodified":1449056420,
+    "wof:lastmodified":1467082693,
     "wof:name":"Country Hedging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-98.232961,44.370812,-98.232961,44.370812],
+  "bbox": [
+    -98.232961,
+    44.370812,
+    -98.232961,
+    44.370812
+],
   "geometry": {"coordinates":[-98.232961,44.370812],"type":"Point"}
 }

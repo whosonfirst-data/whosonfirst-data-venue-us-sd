@@ -2,13 +2,14 @@
   "id": 371135693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.371097,44.223872,-97.371097,44.223872",
     "geom:latitude":44.223872,
     "geom:longitude":-97.371097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44244 218th St",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371135693,
-    "wof:lastmodified":1449049419,
+    "wof:lastmodified":1467082663,
     "wof:name":"David Folsland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.371097,44.223872,-97.371097,44.223872],
-  "geometry": {"coordinates":[-97.371097,44.223872],"type":"Point"}
+  "bbox": [
+    -97.371097,
+    44.223872,
+    -97.371097,
+    44.223872
+],
+  "geometry": {"coordinates":[-97.37109700000001,44.223872],"type":"Point"}
 }

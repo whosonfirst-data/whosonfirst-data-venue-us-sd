@@ -2,13 +2,14 @@
   "id": 387181105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734937,43.513051,-96.734937,43.513051",
     "geom:latitude":43.513051,
     "geom:longitude":-96.734937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W 43rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387181105,
-    "wof:lastmodified":1449058438,
+    "wof:lastmodified":1467082734,
     "wof:name":"Kriens Construction Company",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.734937,43.513051,-96.734937,43.513051],
+  "bbox": [
+    -96.734937,
+    43.513051,
+    -96.734937,
+    43.513051
+],
   "geometry": {"coordinates":[-96.734937,43.513051],"type":"Point"}
 }

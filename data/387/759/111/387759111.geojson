@@ -2,13 +2,14 @@
   "id": 387759111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.288969,43.076029,-98.288969,43.076029",
     "geom:latitude":43.076029,
     "geom:longitude":-98.288969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 5th St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387759111,
-    "wof:lastmodified":1449059977,
+    "wof:lastmodified":1467082764,
     "wof:name":"Foster Cnstr & Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.288969,43.076029,-98.288969,43.076029],
-  "geometry": {"coordinates":[-98.288969,43.076029],"type":"Point"}
+  "bbox": [
+    -98.288969,
+    43.076029,
+    -98.288969,
+    43.076029
+],
+  "geometry": {"coordinates":[-98.28896899999999,43.076029],"type":"Point"}
 }

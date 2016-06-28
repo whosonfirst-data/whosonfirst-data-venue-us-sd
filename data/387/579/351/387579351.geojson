@@ -2,13 +2,14 @@
   "id": 387579351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.39197,42.89064,-97.39197,42.89064",
     "geom:latitude":42.89064,
     "geom:longitude":-97.39197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Douglas Ave",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387579351,
-    "wof:lastmodified":1449057311,
+    "wof:lastmodified":1467082711,
     "wof:name":"Memorial Park Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-97.39197,42.89064,-97.39197,42.89064],
+  "bbox": [
+    -97.39197,
+    42.89064,
+    -97.39197,
+    42.89064
+],
   "geometry": {"coordinates":[-97.39197,42.89064],"type":"Point"}
 }

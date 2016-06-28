@@ -2,13 +2,14 @@
   "id": 403808653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.327239,44.359474,-100.327239,44.359474",
     "geom:latitude":44.359474,
     "geom:longitude":-100.327239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E Wells Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403808653,
-    "wof:lastmodified":1449054682,
+    "wof:lastmodified":1467082675,
     "wof:name":"Carlson Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-100.327239,44.359474,-100.327239,44.359474],
-  "geometry": {"coordinates":[-100.327239,44.359474],"type":"Point"}
+  "bbox": [
+    -100.327239,
+    44.359474,
+    -100.327239,
+    44.359474
+],
+  "geometry": {"coordinates":[-100.32723900000001,44.359474],"type":"Point"}
 }

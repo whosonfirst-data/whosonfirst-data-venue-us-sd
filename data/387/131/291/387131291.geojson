@@ -2,13 +2,14 @@
   "id": 387131291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.957049,43.119334,-96.957049,43.119334",
     "geom:latitude":43.119334,
     "geom:longitude":-96.957049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Florida St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387131291,
-    "wof:lastmodified":1449057244,
+    "wof:lastmodified":1467082709,
     "wof:name":"Centerville Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.957049,43.119334,-96.957049,43.119334],
+  "bbox": [
+    -96.957049,
+    43.119334,
+    -96.957049,
+    43.119334
+],
   "geometry": {"coordinates":[-96.957049,43.119334],"type":"Point"}
 }

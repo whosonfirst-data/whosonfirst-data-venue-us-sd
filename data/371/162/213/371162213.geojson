@@ -2,13 +2,14 @@
   "id": 371162213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.036756,43.700687,-98.036756,43.700687",
     "geom:latitude":43.700687,
     "geom:longitude":-98.036756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 S Miller Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371162213,
-    "wof:lastmodified":1449049969,
+    "wof:lastmodified":1467082671,
     "wof:name":"Genes Photography Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-98.036756,43.700687,-98.036756,43.700687],
+  "bbox": [
+    -98.036756,
+    43.700687,
+    -98.036756,
+    43.700687
+],
   "geometry": {"coordinates":[-98.036756,43.700687],"type":"Point"}
 }

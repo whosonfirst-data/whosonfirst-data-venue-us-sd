@@ -2,13 +2,14 @@
   "id": 371138171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549301,44.386102,-97.549301,44.386102",
     "geom:latitude":44.386102,
     "geom:longitude":-97.549301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Calumet Ave SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371138171,
-    "wof:lastmodified":1449049305,
+    "wof:lastmodified":1467082662,
     "wof:name":"Prairieflower & Loftus Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.549301,44.386102,-97.549301,44.386102],
+  "bbox": [
+    -97.549301,
+    44.386102,
+    -97.549301,
+    44.386102
+],
   "geometry": {"coordinates":[-97.549301,44.386102],"type":"Point"}
 }

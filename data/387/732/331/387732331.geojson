@@ -2,13 +2,14 @@
   "id": 387732331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487997,45.459979,-98.487997,45.459979",
     "geom:latitude":45.459979,
     "geom:longitude":-98.487997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387732331,
-    "wof:lastmodified":1449060035,
+    "wof:lastmodified":1467082765,
     "wof:name":"An Affair To Remember",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-98.487997,45.459979,-98.487997,45.459979],
-  "geometry": {"coordinates":[-98.487997,45.459979],"type":"Point"}
+  "bbox": [
+    -98.487997,
+    45.459979,
+    -98.487997,
+    45.459979
+],
+  "geometry": {"coordinates":[-98.48799699999999,45.459979],"type":"Point"}
 }

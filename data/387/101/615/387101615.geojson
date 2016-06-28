@@ -2,13 +2,14 @@
   "id": 387101615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.642394,44.558654,-96.642394,44.558654",
     "geom:latitude":44.558654,
     "geom:longitude":-96.642394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Dakota St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387101615,
-    "wof:lastmodified":1449058108,
+    "wof:lastmodified":1467082727,
     "wof:name":"Gesswein Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.642394,44.558654,-96.642394,44.558654],
+  "bbox": [
+    -96.642394,
+    44.558654,
+    -96.642394,
+    44.558654
+],
   "geometry": {"coordinates":[-96.642394,44.558654],"type":"Point"}
 }

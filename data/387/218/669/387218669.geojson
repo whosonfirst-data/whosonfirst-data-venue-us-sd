@@ -2,13 +2,14 @@
   "id": 387218669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49537,45.524711,-98.49537,45.524711",
     "geom:latitude":45.524711,
     "geom:longitude":-98.49537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12849 387th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387218669,
-    "wof:lastmodified":1449058519,
+    "wof:lastmodified":1467082735,
     "wof:name":"Hedges Auto Cars & Parts",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.49537,45.524711,-98.49537,45.524711],
-  "geometry": {"coordinates":[-98.49537,45.524711],"type":"Point"}
+  "bbox": [
+    -98.49537,
+    45.524711,
+    -98.49537,
+    45.524711
+],
+  "geometry": {"coordinates":[-98.49536999999999,45.524711],"type":"Point"}
 }

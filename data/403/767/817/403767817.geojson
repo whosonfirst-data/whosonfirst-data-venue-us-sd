@@ -2,13 +2,14 @@
   "id": 403767817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.290494,44.195459,-103.290494,44.195459",
     "geom:latitude":44.195459,
     "geom:longitude":-103.290494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4656 Crooked Oaks Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403767817,
-    "wof:lastmodified":1449055029,
+    "wof:lastmodified":1467082678,
     "wof:name":"Harold L Stoltenburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.290494,44.195459,-103.290494,44.195459],
+  "bbox": [
+    -103.290494,
+    44.195459,
+    -103.290494,
+    44.195459
+],
   "geometry": {"coordinates":[-103.290494,44.195459],"type":"Point"}
 }

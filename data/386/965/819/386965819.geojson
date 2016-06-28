@@ -2,13 +2,14 @@
   "id": 386965819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791436,43.301297,-96.791436,43.301297",
     "geom:latitude":43.301297,
     "geom:longitude":-96.791436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47073 US Hwy 18",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386965819,
-    "wof:lastmodified":1449028843,
+    "wof:lastmodified":1467082653,
     "wof:name":"Pump N' Pak Of Worthing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.791436,43.301297,-96.791436,43.301297],
+  "bbox": [
+    -96.791436,
+    43.301297,
+    -96.791436,
+    43.301297
+],
   "geometry": {"coordinates":[-96.791436,43.301297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387970877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795021,43.515106,-96.795021,43.515106",
     "geom:latitude":43.515106,
     "geom:longitude":-96.795021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 S Westbrooke Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387970877,
-    "wof:lastmodified":1449059856,
+    "wof:lastmodified":1467082762,
     "wof:name":"Viscs Cleaning",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.795021,43.515106,-96.795021,43.515106],
-  "geometry": {"coordinates":[-96.795021,43.515106],"type":"Point"}
+  "bbox": [
+    -96.795021,
+    43.515106,
+    -96.795021,
+    43.515106
+],
+  "geometry": {"coordinates":[-96.79502100000001,43.515106],"type":"Point"}
 }

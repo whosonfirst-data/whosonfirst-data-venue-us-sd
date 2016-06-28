@@ -2,13 +2,14 @@
   "id": 403754887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750998,43.509699,-96.750998,43.509699",
     "geom:latitude":43.509699,
     "geom:longitude":-96.750998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403754887,
-    "wof:lastmodified":1449055490,
+    "wof:lastmodified":1467082681,
     "wof:name":"Nami South Dakota",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-96.750998,43.509699,-96.750998,43.509699],
+  "bbox": [
+    -96.750998,
+    43.509699,
+    -96.750998,
+    43.509699
+],
   "geometry": {"coordinates":[-96.750998,43.509699],"type":"Point"}
 }

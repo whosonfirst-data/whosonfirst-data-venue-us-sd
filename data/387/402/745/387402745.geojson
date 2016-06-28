@@ -2,13 +2,14 @@
   "id": 387402745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433396,45.462182,-98.433396,45.462182",
     "geom:latitude":45.462182,
     "geom:longitude":-98.433396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Brown County 19 N",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387402745,
-    "wof:lastmodified":1449057319,
+    "wof:lastmodified":1467082711,
     "wof:name":"A & J Schopp Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.433396,45.462182,-98.433396,45.462182],
+  "bbox": [
+    -98.433396,
+    45.462182,
+    -98.433396,
+    45.462182
+],
   "geometry": {"coordinates":[-98.433396,45.462182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371082103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.359708,43.424468,-97.359708,43.424468",
     "geom:latitude":43.424468,
     "geom:longitude":-97.359708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27336 442nd Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371082103,
-    "wof:lastmodified":1449049099,
+    "wof:lastmodified":1467082659,
     "wof:name":"Roger Waltner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.359708,43.424468,-97.359708,43.424468],
+  "bbox": [
+    -97.359708,
+    43.424468,
+    -97.359708,
+    43.424468
+],
   "geometry": {"coordinates":[-97.359708,43.424468],"type":"Point"}
 }

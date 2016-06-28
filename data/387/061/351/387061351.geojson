@@ -2,13 +2,14 @@
   "id": 387061351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.842138,43.377965,-99.842138,43.377965",
     "geom:latitude":43.377965,
     "geom:longitude":-99.842138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 Cherry St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387061351,
-    "wof:lastmodified":1449058860,
+    "wof:lastmodified":1467082742,
     "wof:name":"Docken Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.842138,43.377965,-99.842138,43.377965],
-  "geometry": {"coordinates":[-99.842138,43.377965],"type":"Point"}
+  "bbox": [
+    -99.842138,
+    43.377965,
+    -99.842138,
+    43.377965
+],
+  "geometry": {"coordinates":[-99.84213800000001,43.377965],"type":"Point"}
 }

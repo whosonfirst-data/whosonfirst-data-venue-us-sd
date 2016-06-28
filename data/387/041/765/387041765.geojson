@@ -2,13 +2,14 @@
   "id": 387041765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.424063,45.537289,-100.424063,45.537289",
     "geom:latitude":45.537289,
     "geom:longitude":-100.424063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 7th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387041765,
-    "wof:lastmodified":1449057473,
+    "wof:lastmodified":1467082714,
     "wof:name":"Haux TV & Radio Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-100.424063,45.537289,-100.424063,45.537289],
+  "bbox": [
+    -100.424063,
+    45.537289,
+    -100.424063,
+    45.537289
+],
   "geometry": {"coordinates":[-100.424063,45.537289],"type":"Point"}
 }

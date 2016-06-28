@@ -2,13 +2,14 @@
   "id": 371042411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.292783,43.598497,-97.292783,43.598497",
     "geom:latitude":43.598497,
     "geom:longitude":-97.292783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 N 3rd Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371042411,
-    "wof:lastmodified":1449049833,
+    "wof:lastmodified":1467082669,
     "wof:name":"Oakleaf Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.292783,43.598497,-97.292783,43.598497],
+  "bbox": [
+    -97.292783,
+    43.598497,
+    -97.292783,
+    43.598497
+],
   "geometry": {"coordinates":[-97.292783,43.598497],"type":"Point"}
 }

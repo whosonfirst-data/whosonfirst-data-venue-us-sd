@@ -2,13 +2,14 @@
   "id": 387878919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.89682,44.570393,-97.89682,44.570393",
     "geom:latitude":44.570393,
     "geom:longitude":-97.89682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19423 416th Ave",
     "sg:city":"Carpenter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387878919,
-    "wof:lastmodified":1449058097,
+    "wof:lastmodified":1467082727,
     "wof:name":"Waldner John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.89682,44.570393,-97.89682,44.570393],
-  "geometry": {"coordinates":[-97.89682,44.570393],"type":"Point"}
+  "bbox": [
+    -97.89682,
+    44.570393,
+    -97.89682,
+    44.570393
+],
+  "geometry": {"coordinates":[-97.89682000000001,44.570393],"type":"Point"}
 }

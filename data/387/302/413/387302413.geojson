@@ -2,13 +2,14 @@
   "id": 387302413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.089564,44.221603,-97.089564,44.221603",
     "geom:latitude":44.221603,
     "geom:longitude":-97.089564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21818 456th Ave",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387302413,
-    "wof:lastmodified":1449057381,
+    "wof:lastmodified":1467082712,
     "wof:name":"Cider Hills Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.089564,44.221603,-97.089564,44.221603],
+  "bbox": [
+    -97.089564,
+    44.221603,
+    -97.089564,
+    44.221603
+],
   "geometry": {"coordinates":[-97.089564,44.221603],"type":"Point"}
 }

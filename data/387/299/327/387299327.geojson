@@ -2,13 +2,14 @@
   "id": 387299327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.231446,44.079636,-103.231446,44.079636",
     "geom:latitude":44.079636,
     "geom:longitude":-103.231446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387299327,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1467082706,
     "wof:name":"Lucid Living Center",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hypnotherapy"
     ]
 },
-  "bbox": [-103.231446,44.079636,-103.231446,44.079636],
-  "geometry": {"coordinates":[-103.231446,44.079636],"type":"Point"}
+  "bbox": [
+    -103.231446,
+    44.079636,
+    -103.231446,
+    44.079636
+],
+  "geometry": {"coordinates":[-103.23144600000001,44.079636],"type":"Point"}
 }

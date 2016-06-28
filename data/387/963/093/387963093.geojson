@@ -2,13 +2,14 @@
   "id": 387963093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747182,43.321197,-96.747182,43.321197",
     "geom:latitude":43.321197,
     "geom:longitude":-96.747182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28062 473rd Ave",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387963093,
-    "wof:lastmodified":1449056470,
+    "wof:lastmodified":1467082694,
     "wof:name":"Carol Broughton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.747182,43.321197,-96.747182,43.321197],
+  "bbox": [
+    -96.747182,
+    43.321197,
+    -96.747182,
+    43.321197
+],
   "geometry": {"coordinates":[-96.747182,43.321197],"type":"Point"}
 }

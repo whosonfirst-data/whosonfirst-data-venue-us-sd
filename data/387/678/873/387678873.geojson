@@ -2,13 +2,14 @@
   "id": 387678873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229338,44.077994,-103.229338,44.077994",
     "geom:latitude":44.077994,
     "geom:longitude":-103.229338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 Quincy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387678873,
-    "wof:lastmodified":1449057937,
+    "wof:lastmodified":1467082724,
     "wof:name":"Associates of Ent Black Hills",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-103.229338,44.077994,-103.229338,44.077994],
+  "bbox": [
+    -103.229338,
+    44.077994,
+    -103.229338,
+    44.077994
+],
   "geometry": {"coordinates":[-103.229338,44.077994],"type":"Point"}
 }

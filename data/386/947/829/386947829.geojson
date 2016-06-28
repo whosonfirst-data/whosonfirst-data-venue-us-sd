@@ -2,13 +2,14 @@
   "id": 386947829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.200322,44.517713,-99.200322,44.517713",
     "geom:latitude":44.517713,
     "geom:longitude":-99.200322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Dakota Ave",
     "sg:city":"Ree Heights",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386947829,
-    "wof:lastmodified":1449028864,
+    "wof:lastmodified":1467082653,
     "wof:name":"Ree Heights Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-99.200322,44.517713,-99.200322,44.517713],
+  "bbox": [
+    -99.200322,
+    44.517713,
+    -99.200322,
+    44.517713
+],
   "geometry": {"coordinates":[-99.200322,44.517713],"type":"Point"}
 }

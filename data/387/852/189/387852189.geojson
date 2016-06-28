@@ -2,13 +2,14 @@
   "id": 387852189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.615842,45.770724,-99.615842,45.770724",
     "geom:latitude":45.770724,
     "geom:longitude":-99.615842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 F Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387852189,
-    "wof:lastmodified":1449059277,
+    "wof:lastmodified":1467082750,
     "wof:name":"Hair Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.615842,45.770724,-99.615842,45.770724],
+  "bbox": [
+    -99.615842,
+    45.770724,
+    -99.615842,
+    45.770724
+],
   "geometry": {"coordinates":[-99.615842,45.770724],"type":"Point"}
 }

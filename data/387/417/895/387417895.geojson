@@ -2,13 +2,14 @@
   "id": 387417895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758452,43.548651,-96.758452,43.548651",
     "geom:latitude":43.548651,
     "geom:longitude":-96.758452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 N Garfield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387417895,
-    "wof:lastmodified":1449057661,
+    "wof:lastmodified":1467082718,
     "wof:name":"Paralyzed Veterans Of America",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-96.758452,43.548651,-96.758452,43.548651],
-  "geometry": {"coordinates":[-96.758452,43.548651],"type":"Point"}
+  "bbox": [
+    -96.758452,
+    43.548651,
+    -96.758452,
+    43.548651
+],
+  "geometry": {"coordinates":[-96.75845200000001,43.548651],"type":"Point"}
 }

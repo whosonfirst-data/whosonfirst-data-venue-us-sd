@@ -2,13 +2,14 @@
   "id": 387375171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.603116,43.493377,-96.603116,43.493377",
     "geom:latitude":43.493377,
     "geom:longitude":-96.603116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48035 Riverside Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387375171,
-    "wof:lastmodified":1449056256,
+    "wof:lastmodified":1467082690,
     "wof:name":"Salt Of The Earth Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.603116,43.493377,-96.603116,43.493377],
+  "bbox": [
+    -96.603116,
+    43.493377,
+    -96.603116,
+    43.493377
+],
   "geometry": {"coordinates":[-96.603116,43.493377],"type":"Point"}
 }

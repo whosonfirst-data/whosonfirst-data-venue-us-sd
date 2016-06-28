@@ -2,13 +2,14 @@
   "id": 387511331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.278531,44.052837,-98.278531,44.052837",
     "geom:latitude":44.052837,
     "geom:longitude":-98.278531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S 2nd Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387511331,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467082722,
     "wof:name":"Paker Brokerage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.278531,44.052837,-98.278531,44.052837],
+  "bbox": [
+    -98.278531,
+    44.052837,
+    -98.278531,
+    44.052837
+],
   "geometry": {"coordinates":[-98.278531,44.052837],"type":"Point"}
 }

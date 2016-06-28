@@ -2,13 +2,14 @@
   "id": 387000551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.293669,45.150206,-99.293669,45.150206",
     "geom:latitude":45.150206,
     "geom:longitude":-99.293669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15442 343rd Ave",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387000551,
-    "wof:lastmodified":1449056711,
+    "wof:lastmodified":1467082699,
     "wof:name":"Brentwood Colony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.293669,45.150206,-99.293669,45.150206],
-  "geometry": {"coordinates":[-99.293669,45.150206],"type":"Point"}
+  "bbox": [
+    -99.293669,
+    45.150206,
+    -99.293669,
+    45.150206
+],
+  "geometry": {"coordinates":[-99.29366899999999,45.150206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387395949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.62722,45.222872,-96.62722,45.222872",
     "geom:latitude":45.222872,
     "geom:longitude":-96.62722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 E Milbank Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387395949,
-    "wof:lastmodified":1449059366,
+    "wof:lastmodified":1467082752,
     "wof:name":"Milbank Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.62722,45.222872,-96.62722,45.222872],
-  "geometry": {"coordinates":[-96.62722,45.222872],"type":"Point"}
+  "bbox": [
+    -96.62722,
+    45.222872,
+    -96.62722,
+    45.222872
+],
+  "geometry": {"coordinates":[-96.62721999999999,45.222872],"type":"Point"}
 }

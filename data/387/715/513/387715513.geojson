@@ -2,13 +2,14 @@
   "id": 387715513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.729712,44.877402,-97.729712,44.877402",
     "geom:latitude":44.877402,
     "geom:longitude":-97.729712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 1st Ave E",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387715513,
-    "wof:lastmodified":1449059150,
+    "wof:lastmodified":1467082748,
     "wof:name":"Aeronca Lovers Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.729712,44.877402,-97.729712,44.877402],
-  "geometry": {"coordinates":[-97.729712,44.877402],"type":"Point"}
+  "bbox": [
+    -97.729712,
+    44.877402,
+    -97.729712,
+    44.877402
+],
+  "geometry": {"coordinates":[-97.72971200000001,44.877402],"type":"Point"}
 }

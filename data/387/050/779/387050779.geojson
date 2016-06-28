@@ -2,13 +2,14 @@
   "id": 387050779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710408,43.815305,-96.710408,43.815305",
     "geom:latitude":43.815305,
     "geom:longitude":-96.710408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Centennial Pl",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387050779,
-    "wof:lastmodified":1449058206,
+    "wof:lastmodified":1467082729,
     "wof:name":"Sward Tree Svc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.710408,43.815305,-96.710408,43.815305],
+  "bbox": [
+    -96.710408,
+    43.815305,
+    -96.710408,
+    43.815305
+],
   "geometry": {"coordinates":[-96.710408,43.815305],"type":"Point"}
 }

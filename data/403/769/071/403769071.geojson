@@ -2,13 +2,14 @@
   "id": 403769071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.262929,45.636254,-99.262929,45.636254",
     "geom:latitude":45.636254,
     "geom:longitude":-99.262929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34910 121st St",
     "sg:city":"Hosmer",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403769071,
-    "wof:lastmodified":1449055071,
+    "wof:lastmodified":1467082678,
     "wof:name":"Western Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cellular"
     ]
 },
-  "bbox": [-99.262929,45.636254,-99.262929,45.636254],
+  "bbox": [
+    -99.262929,
+    45.636254,
+    -99.262929,
+    45.636254
+],
   "geometry": {"coordinates":[-99.262929,45.636254],"type":"Point"}
 }

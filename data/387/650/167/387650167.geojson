@@ -2,13 +2,14 @@
   "id": 387650167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635929,45.220915,-96.635929,45.220915",
     "geom:latitude":45.220915,
     "geom:longitude":-96.635929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387650167,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1467082733,
     "wof:name":"Ogdhal Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-96.635929,45.220915,-96.635929,45.220915],
+  "bbox": [
+    -96.635929,
+    45.220915,
+    -96.635929,
+    45.220915
+],
   "geometry": {"coordinates":[-96.635929,45.220915],"type":"Point"}
 }

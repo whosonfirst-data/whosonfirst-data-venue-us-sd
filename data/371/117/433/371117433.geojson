@@ -2,13 +2,14 @@
   "id": 371117433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131303,44.901444,-97.131303,44.901444",
     "geom:latitude":44.901444,
     "geom:longitude":-97.131303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 10th St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371117433,
-    "wof:lastmodified":1449049770,
+    "wof:lastmodified":1467082668,
     "wof:name":"Dakota Discount & Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pawnbroker"
     ]
 },
-  "bbox": [-97.131303,44.901444,-97.131303,44.901444],
+  "bbox": [
+    -97.131303,
+    44.901444,
+    -97.131303,
+    44.901444
+],
   "geometry": {"coordinates":[-97.131303,44.901444],"type":"Point"}
 }

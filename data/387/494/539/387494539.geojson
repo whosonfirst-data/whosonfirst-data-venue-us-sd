@@ -2,13 +2,14 @@
   "id": 387494539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.265541,44.105526,-103.265541,44.105526",
     "geom:latitude":44.105526,
     "geom:longitude":-103.265541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1770 Rand Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387494539,
-    "wof:lastmodified":1449059499,
+    "wof:lastmodified":1467082755,
     "wof:name":"A A T C H B",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "administers"
     ]
 },
-  "bbox": [-103.265541,44.105526,-103.265541,44.105526],
+  "bbox": [
+    -103.265541,
+    44.105526,
+    -103.265541,
+    44.105526
+],
   "geometry": {"coordinates":[-103.265541,44.105526],"type":"Point"}
 }

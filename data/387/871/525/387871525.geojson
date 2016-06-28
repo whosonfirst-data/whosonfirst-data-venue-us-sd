@@ -2,13 +2,14 @@
   "id": 387871525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.635235,45.775879,-99.635235,45.775879",
     "geom:latitude":45.775879,
     "geom:longitude":-99.635235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11139 327th Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387871525,
-    "wof:lastmodified":1449057351,
+    "wof:lastmodified":1467082711,
     "wof:name":"Michael Raile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.635235,45.775879,-99.635235,45.775879],
-  "geometry": {"coordinates":[-99.635235,45.775879],"type":"Point"}
+  "bbox": [
+    -99.635235,
+    45.775879,
+    -99.635235,
+    45.775879
+],
+  "geometry": {"coordinates":[-99.63523499999999,45.775879],"type":"Point"}
 }

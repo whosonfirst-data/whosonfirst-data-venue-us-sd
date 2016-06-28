@@ -2,13 +2,14 @@
   "id": 387919095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.535237,43.155013,-98.535237,43.155013",
     "geom:latitude":43.155013,
     "geom:longitude":-98.535237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 E Lake St",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387919095,
-    "wof:lastmodified":1449058981,
+    "wof:lastmodified":1467082744,
     "wof:name":"Avera St Benedict Certified",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.535237,43.155013,-98.535237,43.155013],
+  "bbox": [
+    -98.535237,
+    43.155013,
+    -98.535237,
+    43.155013
+],
   "geometry": {"coordinates":[-98.535237,43.155013],"type":"Point"}
 }

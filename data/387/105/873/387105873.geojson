@@ -2,13 +2,14 @@
   "id": 387105873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800387,44.313016,-96.800387,44.313016",
     "geom:latitude":44.313016,
     "geom:longitude":-96.800387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 7th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387105873,
-    "wof:lastmodified":1449057554,
+    "wof:lastmodified":1467082716,
     "wof:name":"Brookings Sheriffs Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-96.800387,44.313016,-96.800387,44.313016],
+  "bbox": [
+    -96.800387,
+    44.313016,
+    -96.800387,
+    44.313016
+],
   "geometry": {"coordinates":[-96.800387,44.313016],"type":"Point"}
 }

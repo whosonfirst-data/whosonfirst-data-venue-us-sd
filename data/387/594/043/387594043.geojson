@@ -2,13 +2,14 @@
   "id": 387594043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.505971,43.840888,-101.505971,43.840888",
     "geom:latitude":43.840888,
     "geom:longitude":-101.505971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Hwy 16",
     "sg:city":"Presho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387594043,
-    "wof:lastmodified":1449056650,
+    "wof:lastmodified":1467082698,
     "wof:name":"Lyman County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.505971,43.840888,-101.505971,43.840888],
+  "bbox": [
+    -101.505971,
+    43.840888,
+    -101.505971,
+    43.840888
+],
   "geometry": {"coordinates":[-101.505971,43.840888],"type":"Point"}
 }

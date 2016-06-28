@@ -2,13 +2,14 @@
   "id": 387464101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728554,43.790188,-96.728554,43.790188",
     "geom:latitude":43.790188,
     "geom:longitude":-96.728554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47414 248th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387464101,
-    "wof:lastmodified":1449057124,
+    "wof:lastmodified":1467082707,
     "wof:name":"James Klein",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.728554,43.790188,-96.728554,43.790188],
+  "bbox": [
+    -96.728554,
+    43.790188,
+    -96.728554,
+    43.790188
+],
   "geometry": {"coordinates":[-96.728554,43.790188],"type":"Point"}
 }

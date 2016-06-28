@@ -2,13 +2,14 @@
   "id": 403714851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.200072,44.083911,-103.200072,44.083911",
     "geom:latitude":44.083911,
     "geom:longitude":-103.200072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 E Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403714851,
-    "wof:lastmodified":1449055286,
+    "wof:lastmodified":1467082680,
     "wof:name":"Pleasant Acres Mobile Home Pk",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-103.200072,44.083911,-103.200072,44.083911],
-  "geometry": {"coordinates":[-103.200072,44.083911],"type":"Point"}
+  "bbox": [
+    -103.200072,
+    44.083911,
+    -103.200072,
+    44.083911
+],
+  "geometry": {"coordinates":[-103.20007200000001,44.083911],"type":"Point"}
 }

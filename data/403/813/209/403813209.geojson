@@ -2,13 +2,14 @@
   "id": 403813209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.090115,45.877928,-100.090115,45.877928",
     "geom:latitude":45.877928,
     "geom:longitude":-100.090115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10485 305th Ave",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403813209,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1467082678,
     "wof:name":"Wiest John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.090115,45.877928,-100.090115,45.877928],
+  "bbox": [
+    -100.090115,
+    45.877928,
+    -100.090115,
+    45.877928
+],
   "geometry": {"coordinates":[-100.090115,45.877928],"type":"Point"}
 }

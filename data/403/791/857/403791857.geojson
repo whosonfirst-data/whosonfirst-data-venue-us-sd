@@ -2,13 +2,14 @@
   "id": 403791857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769262,44.3077,-96.769262,44.3077",
     "geom:latitude":44.3077,
     "geom:longitude":-96.769262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 3rd St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403791857,
-    "wof:lastmodified":1449055659,
+    "wof:lastmodified":1467082682,
     "wof:name":"Morning Side Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.769262,44.3077,-96.769262,44.3077],
+  "bbox": [
+    -96.769262,
+    44.3077,
+    -96.769262,
+    44.3077
+],
   "geometry": {"coordinates":[-96.769262,44.3077],"type":"Point"}
 }

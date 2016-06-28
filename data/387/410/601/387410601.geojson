@@ -2,13 +2,14 @@
   "id": 387410601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.292803,44.196964,-103.292803,44.196964",
     "geom:latitude":44.196964,
     "geom:longitude":-103.292803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4534 Crooked Oaks Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387410601,
-    "wof:lastmodified":1449056170,
+    "wof:lastmodified":1467082688,
     "wof:name":"Douglas Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.292803,44.196964,-103.292803,44.196964],
-  "geometry": {"coordinates":[-103.292803,44.196964],"type":"Point"}
+  "bbox": [
+    -103.292803,
+    44.196964,
+    -103.292803,
+    44.196964
+],
+  "geometry": {"coordinates":[-103.29280300000001,44.196964],"type":"Point"}
 }

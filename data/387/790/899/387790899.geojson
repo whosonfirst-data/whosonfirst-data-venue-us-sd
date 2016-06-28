@@ -2,13 +2,14 @@
   "id": 387790899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214702,44.363316,-98.214702,44.363316",
     "geom:latitude":44.363316,
     "geom:longitude":-98.214702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 3rd St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387790899,
-    "wof:lastmodified":1449059023,
+    "wof:lastmodified":1467082745,
     "wof:name":"Manolis Gus Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-98.214702,44.363316,-98.214702,44.363316],
+  "bbox": [
+    -98.214702,
+    44.363316,
+    -98.214702,
+    44.363316
+],
   "geometry": {"coordinates":[-98.214702,44.363316],"type":"Point"}
 }

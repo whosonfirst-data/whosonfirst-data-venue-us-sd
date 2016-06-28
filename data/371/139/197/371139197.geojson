@@ -2,13 +2,14 @@
   "id": 371139197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.664557,43.549426,-96.664557,43.549426",
     "geom:latitude":43.549426,
     "geom:longitude":-96.664557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 N Marquette Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371139197,
-    "wof:lastmodified":1449049127,
+    "wof:lastmodified":1467082659,
     "wof:name":"Baker Trucking",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-96.664557,43.549426,-96.664557,43.549426],
+  "bbox": [
+    -96.664557,
+    43.549426,
+    -96.664557,
+    43.549426
+],
   "geometry": {"coordinates":[-96.664557,43.549426],"type":"Point"}
 }

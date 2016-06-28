@@ -2,13 +2,14 @@
   "id": 387747895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732545,43.531233,-96.732545,43.531233",
     "geom:latitude":43.531233,
     "geom:longitude":-96.732545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W 24th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387747895,
-    "wof:lastmodified":1449056791,
+    "wof:lastmodified":1467082700,
     "wof:name":"AG Services of America Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.732545,43.531233,-96.732545,43.531233],
+  "bbox": [
+    -96.732545,
+    43.531233,
+    -96.732545,
+    43.531233
+],
   "geometry": {"coordinates":[-96.732545,43.531233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387009629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.511493,45.458091,-98.511493,45.458091",
     "geom:latitude":45.458091,
     "geom:longitude":-98.511493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 S 16th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387009629,
-    "wof:lastmodified":1449059844,
+    "wof:lastmodified":1467082761,
     "wof:name":"Colette M Giroux",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clerical"
     ]
 },
-  "bbox": [-98.511493,45.458091,-98.511493,45.458091],
+  "bbox": [
+    -98.511493,
+    45.458091,
+    -98.511493,
+    45.458091
+],
   "geometry": {"coordinates":[-98.511493,45.458091],"type":"Point"}
 }

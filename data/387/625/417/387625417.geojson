@@ -2,13 +2,14 @@
   "id": 387625417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.560271,44.380937,-97.560271,44.380937",
     "geom:latitude":44.380937,
     "geom:longitude":-97.560271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 7th St SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387625417,
-    "wof:lastmodified":1449059977,
+    "wof:lastmodified":1467082764,
     "wof:name":"Kingsbury County Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.560271,44.380937,-97.560271,44.380937],
+  "bbox": [
+    -97.560271,
+    44.380937,
+    -97.560271,
+    44.380937
+],
   "geometry": {"coordinates":[-97.560271,44.380937],"type":"Point"}
 }

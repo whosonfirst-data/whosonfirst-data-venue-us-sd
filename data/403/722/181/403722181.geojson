@@ -2,13 +2,14 @@
   "id": 403722181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.936829,43.40347,-97.936829,43.40347",
     "geom:latitude":43.40347,
     "geom:longitude":-97.936829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27485 413th Ave",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403722181,
-    "wof:lastmodified":1449055093,
+    "wof:lastmodified":1467082678,
     "wof:name":"Clarence Thury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.936829,43.40347,-97.936829,43.40347],
+  "bbox": [
+    -97.936829,
+    43.40347,
+    -97.936829,
+    43.40347
+],
   "geometry": {"coordinates":[-97.936829,43.40347],"type":"Point"}
 }

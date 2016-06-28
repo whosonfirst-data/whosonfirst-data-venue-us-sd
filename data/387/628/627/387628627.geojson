@@ -2,13 +2,14 @@
   "id": 387628627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671499,43.546639,-96.671499,43.546639",
     "geom:latitude":43.546639,
     "geom:longitude":-96.671499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387628627,
-    "wof:lastmodified":1449059199,
+    "wof:lastmodified":1467082749,
     "wof:name":"Siouxland Pain Clinic",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "dentist"
     ]
 },
-  "bbox": [-96.671499,43.546639,-96.671499,43.546639],
+  "bbox": [
+    -96.671499,
+    43.546639,
+    -96.671499,
+    43.546639
+],
   "geometry": {"coordinates":[-96.671499,43.546639],"type":"Point"}
 }

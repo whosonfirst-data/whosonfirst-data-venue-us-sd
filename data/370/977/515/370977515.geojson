@@ -2,13 +2,14 @@
   "id": 370977515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.073169,44.026575,-103.073169,44.026575",
     "geom:latitude":44.026575,
     "geom:longitude":-103.073169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14878 Jackie Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370977515,
-    "wof:lastmodified":1449032558,
+    "wof:lastmodified":1467082658,
     "wof:name":"Ambitious Truck & Auto",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-103.073169,44.026575,-103.073169,44.026575],
-  "geometry": {"coordinates":[-103.073169,44.026575],"type":"Point"}
+  "bbox": [
+    -103.073169,
+    44.026575,
+    -103.073169,
+    44.026575
+],
+  "geometry": {"coordinates":[-103.07316899999999,44.026575],"type":"Point"}
 }

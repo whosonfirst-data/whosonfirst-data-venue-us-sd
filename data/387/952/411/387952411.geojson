@@ -2,13 +2,14 @@
   "id": 387952411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746238,43.5222,-96.746238,43.5222",
     "geom:latitude":43.5222,
     "geom:longitude":-96.746238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 S West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387952411,
-    "wof:lastmodified":1449058847,
+    "wof:lastmodified":1467082742,
     "wof:name":"Beacon",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-96.746238,43.5222,-96.746238,43.5222],
-  "geometry": {"coordinates":[-96.746238,43.5222],"type":"Point"}
+  "bbox": [
+    -96.746238,
+    43.5222,
+    -96.746238,
+    43.5222
+],
+  "geometry": {"coordinates":[-96.74623800000001,43.5222],"type":"Point"}
 }

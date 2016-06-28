@@ -2,13 +2,14 @@
   "id": 387172865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.211928,44.085702,-103.211928,44.085702",
     "geom:latitude":44.085702,
     "geom:longitude":-103.211928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 E Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387172865,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1467082717,
     "wof:name":"Center For Restorative Justice",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arbitration"
     ]
 },
-  "bbox": [-103.211928,44.085702,-103.211928,44.085702],
+  "bbox": [
+    -103.211928,
+    44.085702,
+    -103.211928,
+    44.085702
+],
   "geometry": {"coordinates":[-103.211928,44.085702],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387276955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789937,44.293277,-96.789937,44.293277",
     "geom:latitude":44.293277,
     "geom:longitude":-96.789937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Arrowhead Pass",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387276955,
-    "wof:lastmodified":1449056257,
+    "wof:lastmodified":1467082690,
     "wof:name":"Van Magnus Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.789937,44.293277,-96.789937,44.293277],
-  "geometry": {"coordinates":[-96.789937,44.293277],"type":"Point"}
+  "bbox": [
+    -96.789937,
+    44.293277,
+    -96.789937,
+    44.293277
+],
+  "geometry": {"coordinates":[-96.78993699999999,44.293277],"type":"Point"}
 }

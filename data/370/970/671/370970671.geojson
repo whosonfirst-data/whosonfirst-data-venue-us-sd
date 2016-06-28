@@ -2,13 +2,14 @@
   "id": 370970671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.18914,44.085711,-103.18914,44.085711",
     "geom:latitude":44.085711,
     "geom:longitude":-103.18914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 E Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370970671,
-    "wof:lastmodified":1449032406,
+    "wof:lastmodified":1467082658,
     "wof:name":"French's Upholstery",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "findings"
     ]
 },
-  "bbox": [-103.18914,44.085711,-103.18914,44.085711],
-  "geometry": {"coordinates":[-103.18914,44.085711],"type":"Point"}
+  "bbox": [
+    -103.18914,
+    44.085711,
+    -103.18914,
+    44.085711
+],
+  "geometry": {"coordinates":[-103.18913999999999,44.085711],"type":"Point"}
 }

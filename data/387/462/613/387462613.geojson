@@ -2,13 +2,14 @@
   "id": 387462613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.390008,44.537196,-97.390008,44.537196",
     "geom:latitude":44.537196,
     "geom:longitude":-97.390008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19665 441st Ave",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387462613,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1467082760,
     "wof:name":"Verne Jensen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.390008,44.537196,-97.390008,44.537196],
-  "geometry": {"coordinates":[-97.390008,44.537196],"type":"Point"}
+  "bbox": [
+    -97.390008,
+    44.537196,
+    -97.390008,
+    44.537196
+],
+  "geometry": {"coordinates":[-97.39000799999999,44.537196],"type":"Point"}
 }

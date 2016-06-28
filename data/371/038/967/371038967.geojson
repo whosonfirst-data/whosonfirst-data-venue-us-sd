@@ -2,13 +2,14 @@
   "id": 371038967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.039836,45.03755,-98.039836,45.03755",
     "geom:latitude":45.03755,
     "geom:longitude":-98.039836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40905 162nd St",
     "sg:city":"Turton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371038967,
-    "wof:lastmodified":1449049730,
+    "wof:lastmodified":1467082668,
     "wof:name":"Barrie Rolland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.039836,45.03755,-98.039836,45.03755],
-  "geometry": {"coordinates":[-98.039836,45.03755],"type":"Point"}
+  "bbox": [
+    -98.039836,
+    45.03755,
+    -98.039836,
+    45.03755
+],
+  "geometry": {"coordinates":[-98.03983599999999,45.03755],"type":"Point"}
 }

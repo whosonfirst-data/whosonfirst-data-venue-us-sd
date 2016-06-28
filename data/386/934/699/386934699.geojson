@@ -2,13 +2,14 @@
   "id": 386934699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735051,43.515884,-96.735051,43.515884",
     "geom:latitude":43.515884,
     "geom:longitude":-96.735051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3213 S Norton Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386934699,
-    "wof:lastmodified":1449028640,
+    "wof:lastmodified":1467082649,
     "wof:name":"Luken Memorials-Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "monument"
     ]
 },
-  "bbox": [-96.735051,43.515884,-96.735051,43.515884],
+  "bbox": [
+    -96.735051,
+    43.515884,
+    -96.735051,
+    43.515884
+],
   "geometry": {"coordinates":[-96.735051,43.515884],"type":"Point"}
 }

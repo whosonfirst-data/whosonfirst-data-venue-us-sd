@@ -2,13 +2,14 @@
   "id": 387405523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.600138,43.765885,-103.600138,43.765885",
     "geom:latitude":43.765885,
     "geom:longitude":-103.600138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 S 5th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387405523,
-    "wof:lastmodified":1449059597,
+    "wof:lastmodified":1467082757,
     "wof:name":"Custer County Sheriff's Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-103.600138,43.765885,-103.600138,43.765885],
+  "bbox": [
+    -103.600138,
+    43.765885,
+    -103.600138,
+    43.765885
+],
   "geometry": {"coordinates":[-103.600138,43.765885],"type":"Point"}
 }

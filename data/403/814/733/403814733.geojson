@@ -2,13 +2,14 @@
   "id": 403814733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.496679,45.017362,-96.496679,45.017362",
     "geom:latitude":45.017362,
     "geom:longitude":-96.496679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16324 485th Ave",
     "sg:city":"Revillo",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403814733,
-    "wof:lastmodified":1449054876,
+    "wof:lastmodified":1467082676,
     "wof:name":"Dennis A & Connie Harstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-96.496679,45.017362,-96.496679,45.017362],
+  "bbox": [
+    -96.496679,
+    45.017362,
+    -96.496679,
+    45.017362
+],
   "geometry": {"coordinates":[-96.496679,45.017362],"type":"Point"}
 }

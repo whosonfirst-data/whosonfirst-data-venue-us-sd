@@ -2,13 +2,14 @@
   "id": 371051553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.09219,44.902932,-97.09219,44.902932",
     "geom:latitude":44.902932,
     "geom:longitude":-97.09219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 B Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371051553,
-    "wof:lastmodified":1449049678,
+    "wof:lastmodified":1467082667,
     "wof:name":"Leef Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-97.09219,44.902932,-97.09219,44.902932],
+  "bbox": [
+    -97.09219,
+    44.902932,
+    -97.09219,
+    44.902932
+],
   "geometry": {"coordinates":[-97.09219,44.902932],"type":"Point"}
 }

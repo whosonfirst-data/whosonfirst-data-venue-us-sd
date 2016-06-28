@@ -2,13 +2,14 @@
   "id": 387727525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.950729,43.750563,-96.950729,43.750563",
     "geom:latitude":43.750563,
     "geom:longitude":-96.950729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25072 463rd Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387727525,
-    "wof:lastmodified":1449056679,
+    "wof:lastmodified":1467082698,
     "wof:name":"Robert Justice",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.950729,43.750563,-96.950729,43.750563],
+  "bbox": [
+    -96.950729,
+    43.750563,
+    -96.950729,
+    43.750563
+],
   "geometry": {"coordinates":[-96.950729,43.750563],"type":"Point"}
 }

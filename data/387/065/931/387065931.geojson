@@ -2,13 +2,14 @@
   "id": 387065931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.990003,43.39479,-97.990003,43.39479",
     "geom:latitude":43.39479,
     "geom:longitude":-97.990003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Main St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387065931,
-    "wof:lastmodified":1449059877,
+    "wof:lastmodified":1467082762,
     "wof:name":"Clements Wiese Funeral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.990003,43.39479,-97.990003,43.39479],
+  "bbox": [
+    -97.990003,
+    43.39479,
+    -97.990003,
+    43.39479
+],
   "geometry": {"coordinates":[-97.990003,43.39479],"type":"Point"}
 }

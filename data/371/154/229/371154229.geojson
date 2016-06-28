@@ -2,13 +2,14 @@
   "id": 371154229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.246349,44.038592,-103.246349,44.038592",
     "geom:latitude":44.038592,
     "geom:longitude":-103.246349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371154229,
-    "wof:lastmodified":1449050160,
+    "wof:lastmodified":1467082674,
     "wof:name":"Black Hills Gold Jewelry",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.246349,44.038592,-103.246349,44.038592],
+  "bbox": [
+    -103.246349,
+    44.038592,
+    -103.246349,
+    44.038592
+],
   "geometry": {"coordinates":[-103.246349,44.038592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370975711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788263,44.306799,-96.788263,44.306799",
     "geom:latitude":44.306799,
     "geom:longitude":-96.788263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 2nd St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370975711,
-    "wof:lastmodified":1449032003,
+    "wof:lastmodified":1467082657,
     "wof:name":"Fjordland Lodge 508",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.788263,44.306799,-96.788263,44.306799],
+  "bbox": [
+    -96.788263,
+    44.306799,
+    -96.788263,
+    44.306799
+],
   "geometry": {"coordinates":[-96.788263,44.306799],"type":"Point"}
 }

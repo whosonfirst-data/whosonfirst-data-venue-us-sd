@@ -2,13 +2,14 @@
   "id": 387810953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691274,43.715476,-96.691274,43.715476",
     "geom:latitude":43.715476,
     "geom:longitude":-96.691274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25343 476th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387810953,
-    "wof:lastmodified":1449057205,
+    "wof:lastmodified":1467082708,
     "wof:name":"Schreurs John",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-96.691274,43.715476,-96.691274,43.715476],
-  "geometry": {"coordinates":[-96.691274,43.715476],"type":"Point"}
+  "bbox": [
+    -96.691274,
+    43.715476,
+    -96.691274,
+    43.715476
+],
+  "geometry": {"coordinates":[-96.69127400000001,43.715476],"type":"Point"}
 }

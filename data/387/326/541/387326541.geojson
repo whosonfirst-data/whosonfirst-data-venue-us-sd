@@ -2,13 +2,14 @@
   "id": 387326541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.476488,43.759131,-96.476488,43.759131",
     "geom:latitude":43.759131,
     "geom:longitude":-96.476488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 2nd St",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387326541,
-    "wof:lastmodified":1449057725,
+    "wof:lastmodified":1467082719,
     "wof:name":"First Lutheran Church",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.476488,43.759131,-96.476488,43.759131],
+  "bbox": [
+    -96.476488,
+    43.759131,
+    -96.476488,
+    43.759131
+],
   "geometry": {"coordinates":[-96.476488,43.759131],"type":"Point"}
 }

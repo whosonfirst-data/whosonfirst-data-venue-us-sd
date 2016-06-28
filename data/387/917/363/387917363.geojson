@@ -2,13 +2,14 @@
   "id": 387917363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.67684,43.517104,-96.67684,43.517104",
     "geom:latitude":43.517104,
     "geom:longitude":-96.67684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3209 S Tyler Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387917363,
-    "wof:lastmodified":1449059423,
+    "wof:lastmodified":1467082753,
     "wof:name":"Louis Green Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-96.67684,43.517104,-96.67684,43.517104],
+  "bbox": [
+    -96.67684,
+    43.517104,
+    -96.67684,
+    43.517104
+],
   "geometry": {"coordinates":[-96.67684,43.517104],"type":"Point"}
 }

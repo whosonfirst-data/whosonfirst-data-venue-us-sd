@@ -2,13 +2,14 @@
   "id": 387795409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.274103,44.084236,-103.274103,44.084236",
     "geom:latitude":44.084236,
     "geom:longitude":-103.274103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Federal Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387795409,
-    "wof:lastmodified":1449058359,
+    "wof:lastmodified":1467082732,
     "wof:name":"Pkl Corp",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.274103,44.084236,-103.274103,44.084236],
+  "bbox": [
+    -103.274103,
+    44.084236,
+    -103.274103,
+    44.084236
+],
   "geometry": {"coordinates":[-103.274103,44.084236],"type":"Point"}
 }

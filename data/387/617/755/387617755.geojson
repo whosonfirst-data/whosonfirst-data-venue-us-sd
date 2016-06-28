@@ -2,13 +2,14 @@
   "id": 387617755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.4993,45.459509,-98.4993,45.459509",
     "geom:latitude":45.459509,
     "geom:longitude":-98.4993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 6th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387617755,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1467082689,
     "wof:name":"Suds & Cars",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-98.4993,45.459509,-98.4993,45.459509],
-  "geometry": {"coordinates":[-98.4993,45.459509],"type":"Point"}
+  "bbox": [
+    -98.4993,
+    45.459509,
+    -98.4993,
+    45.459509
+],
+  "geometry": {"coordinates":[-98.49930000000001,45.459509],"type":"Point"}
 }

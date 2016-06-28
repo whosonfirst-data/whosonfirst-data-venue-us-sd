@@ -2,13 +2,14 @@
   "id": 387098573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790962,43.462737,-96.790962,43.462737",
     "geom:latitude":43.462737,
     "geom:longitude":-96.790962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47073 98th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387098573,
-    "wof:lastmodified":1449059515,
+    "wof:lastmodified":1467082755,
     "wof:name":"Skip's Auto Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.790962,43.462737,-96.790962,43.462737],
-  "geometry": {"coordinates":[-96.790962,43.462737],"type":"Point"}
+  "bbox": [
+    -96.790962,
+    43.462737,
+    -96.790962,
+    43.462737
+],
+  "geometry": {"coordinates":[-96.79096199999999,43.462737],"type":"Point"}
 }

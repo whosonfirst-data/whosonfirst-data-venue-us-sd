@@ -2,13 +2,14 @@
   "id": 387443307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271515,44.096729,-103.271515,44.096729",
     "geom:latitude":44.096729,
     "geom:longitude":-103.271515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 Lien St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387443307,
-    "wof:lastmodified":1449059218,
+    "wof:lastmodified":1467082749,
     "wof:name":"Browning Resources",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gold"
     ]
 },
-  "bbox": [-103.271515,44.096729,-103.271515,44.096729],
-  "geometry": {"coordinates":[-103.271515,44.096729],"type":"Point"}
+  "bbox": [
+    -103.271515,
+    44.096729,
+    -103.271515,
+    44.096729
+],
+  "geometry": {"coordinates":[-103.27151499999999,44.096729],"type":"Point"}
 }

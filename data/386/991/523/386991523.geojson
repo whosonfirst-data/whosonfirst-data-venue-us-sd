@@ -2,13 +2,14 @@
   "id": 386991523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.580875,45.501929,-102.580875,45.501929",
     "geom:latitude":45.501929,
     "geom:longitude":-102.580875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17316 131st St",
     "sg:city":"Bison",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386991523,
-    "wof:lastmodified":1449028713,
+    "wof:lastmodified":1467082651,
     "wof:name":"Starr Grain & Implement Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "elevator"
     ]
 },
-  "bbox": [-102.580875,45.501929,-102.580875,45.501929],
-  "geometry": {"coordinates":[-102.580875,45.501929],"type":"Point"}
+  "bbox": [
+    -102.580875,
+    45.501929,
+    -102.580875,
+    45.501929
+],
+  "geometry": {"coordinates":[-102.58087500000001,45.501929],"type":"Point"}
 }

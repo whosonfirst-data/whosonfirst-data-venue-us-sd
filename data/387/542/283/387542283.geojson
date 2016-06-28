@@ -2,13 +2,14 @@
   "id": 387542283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.075749,44.082327,-103.075749,44.082327",
     "geom:latitude":44.082327,
     "geom:longitude":-103.075749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22885 Aberdeen Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387542283,
-    "wof:lastmodified":1449059056,
+    "wof:lastmodified":1467082746,
     "wof:name":"A To Z Shredding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "destruction"
     ]
 },
-  "bbox": [-103.075749,44.082327,-103.075749,44.082327],
+  "bbox": [
+    -103.075749,
+    44.082327,
+    -103.075749,
+    44.082327
+],
   "geometry": {"coordinates":[-103.075749,44.082327],"type":"Point"}
 }

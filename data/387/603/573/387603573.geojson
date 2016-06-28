@@ -2,13 +2,14 @@
   "id": 387603573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986589,43.54745,-97.986589,43.54745",
     "geom:latitude":43.54745,
     "geom:longitude":-97.986589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387603573,
-    "wof:lastmodified":1449059339,
+    "wof:lastmodified":1467082751,
     "wof:name":"American Legion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "military"
     ]
 },
-  "bbox": [-97.986589,43.54745,-97.986589,43.54745],
+  "bbox": [
+    -97.986589,
+    43.54745,
+    -97.986589,
+    43.54745
+],
   "geometry": {"coordinates":[-97.986589,43.54745],"type":"Point"}
 }

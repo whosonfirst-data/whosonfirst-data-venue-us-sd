@@ -2,13 +2,14 @@
   "id": 387725047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463799,45.29157,-96.463799,45.29157",
     "geom:latitude":45.29157,
     "geom:longitude":-96.463799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Main St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387725047,
-    "wof:lastmodified":1449057028,
+    "wof:lastmodified":1467082705,
     "wof:name":"Main Street Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-96.463799,45.29157,-96.463799,45.29157],
-  "geometry": {"coordinates":[-96.463799,45.29157],"type":"Point"}
+  "bbox": [
+    -96.463799,
+    45.29157,
+    -96.463799,
+    45.29157
+],
+  "geometry": {"coordinates":[-96.46379899999999,45.29157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371194415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.68488,43.503684,-96.68488,43.503684",
     "geom:latitude":43.503684,
     "geom:longitude":-96.68488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4500 S Prince of Peace Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371194415,
-    "wof:lastmodified":1449049980,
+    "wof:lastmodified":1467082671,
     "wof:name":"Avera Prince-Peace Retirement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.68488,43.503684,-96.68488,43.503684],
-  "geometry": {"coordinates":[-96.68488,43.503684],"type":"Point"}
+  "bbox": [
+    -96.68488,
+    43.503684,
+    -96.68488,
+    43.503684
+],
+  "geometry": {"coordinates":[-96.68488000000001,43.503684],"type":"Point"}
 }

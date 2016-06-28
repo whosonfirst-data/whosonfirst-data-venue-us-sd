@@ -2,13 +2,14 @@
   "id": 387027381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72021,43.514808,-96.72021,43.514808",
     "geom:latitude":43.514808,
     "geom:longitude":-96.72021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 E 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387027381,
-    "wof:lastmodified":1449056808,
+    "wof:lastmodified":1467082701,
     "wof:name":"Dakota Bookkeeping Solutions",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.72021,43.514808,-96.72021,43.514808],
-  "geometry": {"coordinates":[-96.72021,43.514808],"type":"Point"}
+  "bbox": [
+    -96.72021,
+    43.514808,
+    -96.72021,
+    43.514808
+],
+  "geometry": {"coordinates":[-96.72020999999999,43.514808],"type":"Point"}
 }

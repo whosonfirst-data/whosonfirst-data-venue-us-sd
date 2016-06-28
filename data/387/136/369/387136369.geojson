@@ -2,13 +2,14 @@
   "id": 387136369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.271517,43.838678,-101.271517,43.838678",
     "geom:latitude":43.838678,
     "geom:longitude":-101.271517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Hwy 16",
     "sg:city":"Presho",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387136369,
-    "wof:lastmodified":1449059866,
+    "wof:lastmodified":1467082762,
     "wof:name":"Hutch's Cafe & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-101.271517,43.838678,-101.271517,43.838678],
+  "bbox": [
+    -101.271517,
+    43.838678,
+    -101.271517,
+    43.838678
+],
   "geometry": {"coordinates":[-101.271517,43.838678],"type":"Point"}
 }

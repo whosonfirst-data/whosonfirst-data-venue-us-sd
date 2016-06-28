@@ -2,13 +2,14 @@
   "id": 371033495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.848712,43.376761,-99.848712,43.376761",
     "geom:latitude":43.376761,
     "geom:longitude":-99.848712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371033495,
-    "wof:lastmodified":1449049257,
+    "wof:lastmodified":1467082661,
     "wof:name":"Steakholder Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.848712,43.376761,-99.848712,43.376761],
-  "geometry": {"coordinates":[-99.848712,43.376761],"type":"Point"}
+  "bbox": [
+    -99.848712,
+    43.376761,
+    -99.848712,
+    43.376761
+],
+  "geometry": {"coordinates":[-99.84871200000001,43.376761],"type":"Point"}
 }

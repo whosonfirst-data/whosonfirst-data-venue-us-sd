@@ -2,13 +2,14 @@
   "id": 387792149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.968764,44.316083,-96.968764,44.316083",
     "geom:latitude":44.316083,
     "geom:longitude":-96.968764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21167 462nd Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387792149,
-    "wof:lastmodified":1449056915,
+    "wof:lastmodified":1467082703,
     "wof:name":"Choice Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.968764,44.316083,-96.968764,44.316083],
-  "geometry": {"coordinates":[-96.968764,44.316083],"type":"Point"}
+  "bbox": [
+    -96.968764,
+    44.316083,
+    -96.968764,
+    44.316083
+],
+  "geometry": {"coordinates":[-96.96876399999999,44.316083],"type":"Point"}
 }

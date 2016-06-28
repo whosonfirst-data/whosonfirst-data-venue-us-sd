@@ -2,13 +2,14 @@
   "id": 387132739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774208,43.084668,-96.774208,43.084668",
     "geom:latitude":43.084668,
     "geom:longitude":-96.774208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N 3rd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387132739,
-    "wof:lastmodified":1449057960,
+    "wof:lastmodified":1467082724,
     "wof:name":"Beresford Republic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-96.774208,43.084668,-96.774208,43.084668],
+  "bbox": [
+    -96.774208,
+    43.084668,
+    -96.774208,
+    43.084668
+],
   "geometry": {"coordinates":[-96.774208,43.084668],"type":"Point"}
 }

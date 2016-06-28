@@ -2,13 +2,14 @@
   "id": 387207015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.631496,43.600888,-97.631496,43.600888",
     "geom:latitude":43.600888,
     "geom:longitude":-97.631496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42884 261st St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387207015,
-    "wof:lastmodified":1449058770,
+    "wof:lastmodified":1467082740,
     "wof:name":"Gsi Grain Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drying"
     ]
 },
-  "bbox": [-97.631496,43.600888,-97.631496,43.600888],
+  "bbox": [
+    -97.631496,
+    43.600888,
+    -97.631496,
+    43.600888
+],
   "geometry": {"coordinates":[-97.631496,43.600888],"type":"Point"}
 }

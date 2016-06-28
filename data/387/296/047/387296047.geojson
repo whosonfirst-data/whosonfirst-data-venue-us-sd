@@ -2,13 +2,14 @@
   "id": 387296047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.712929,45.160768,-102.712929,45.160768",
     "geom:latitude":45.160768,
     "geom:longitude":-102.712929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15541 Cedar Canyon Rd",
     "sg:city":"Faith",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387296047,
-    "wof:lastmodified":1449059216,
+    "wof:lastmodified":1467082749,
     "wof:name":"Johnson Fritzs Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.712929,45.160768,-102.712929,45.160768],
+  "bbox": [
+    -102.712929,
+    45.160768,
+    -102.712929,
+    45.160768
+],
   "geometry": {"coordinates":[-102.712929,45.160768],"type":"Point"}
 }

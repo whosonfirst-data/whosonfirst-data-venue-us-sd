@@ -2,13 +2,14 @@
   "id": 403820707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711398,43.601698,-96.711398,43.601698",
     "geom:latitude":43.601698,
     "geom:longitude":-96.711398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4815 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403820707,
-    "wof:lastmodified":1449055336,
+    "wof:lastmodified":1467082680,
     "wof:name":"Guardian Building Pdts Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.711398,43.601698,-96.711398,43.601698],
+  "bbox": [
+    -96.711398,
+    43.601698,
+    -96.711398,
+    43.601698
+],
   "geometry": {"coordinates":[-96.711398,43.601698],"type":"Point"}
 }

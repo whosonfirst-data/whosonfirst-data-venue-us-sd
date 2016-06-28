@@ -2,13 +2,14 @@
   "id": 387547097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.026389,45.44788,-99.026389,45.44788",
     "geom:latitude":45.44788,
     "geom:longitude":-99.026389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 5th Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387547097,
-    "wof:lastmodified":1449056495,
+    "wof:lastmodified":1467082694,
     "wof:name":"Department Of Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.026389,45.44788,-99.026389,45.44788],
-  "geometry": {"coordinates":[-99.026389,45.44788],"type":"Point"}
+  "bbox": [
+    -99.026389,
+    45.44788,
+    -99.026389,
+    45.44788
+],
+  "geometry": {"coordinates":[-99.02638899999999,45.44788],"type":"Point"}
 }

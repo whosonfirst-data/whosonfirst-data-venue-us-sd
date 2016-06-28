@@ -2,13 +2,14 @@
   "id": 387809131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801475,45.287274,-96.801475,45.287274",
     "geom:latitude":45.287274,
     "geom:longitude":-96.801475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14469 470th Ave",
     "sg:city":"Twin Brooks",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387809131,
-    "wof:lastmodified":1449059240,
+    "wof:lastmodified":1467082749,
     "wof:name":"Mc Crea Orgene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.801475,45.287274,-96.801475,45.287274],
+  "bbox": [
+    -96.801475,
+    45.287274,
+    -96.801475,
+    45.287274
+],
   "geometry": {"coordinates":[-96.801475,45.287274],"type":"Point"}
 }

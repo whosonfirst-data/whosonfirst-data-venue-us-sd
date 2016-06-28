@@ -2,13 +2,14 @@
   "id": 387343271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.046376,45.176031,-97.046376,45.176031",
     "geom:latitude":45.176031,
     "geom:longitude":-97.046376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15227 458th Ave",
     "sg:city":"Summit",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387343271,
-    "wof:lastmodified":1449058810,
+    "wof:lastmodified":1467082741,
     "wof:name":"F Purdy Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.046376,45.176031,-97.046376,45.176031],
+  "bbox": [
+    -97.046376,
+    45.176031,
+    -97.046376,
+    45.176031
+],
   "geometry": {"coordinates":[-97.046376,45.176031],"type":"Point"}
 }

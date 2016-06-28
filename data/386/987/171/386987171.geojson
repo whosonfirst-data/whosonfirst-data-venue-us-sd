@@ -2,13 +2,14 @@
   "id": 386987171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.267904,43.037127,-98.267904,43.037127",
     "geom:latitude":43.037127,
     "geom:longitude":-98.267904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39513 300th St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386987171,
-    "wof:lastmodified":1449028796,
+    "wof:lastmodified":1467082652,
     "wof:name":"David Becvar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.267904,43.037127,-98.267904,43.037127],
+  "bbox": [
+    -98.267904,
+    43.037127,
+    -98.267904,
+    43.037127
+],
   "geometry": {"coordinates":[-98.267904,43.037127],"type":"Point"}
 }

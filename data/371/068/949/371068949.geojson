@@ -2,13 +2,14 @@
   "id": 371068949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.571387,43.524849,-96.571387,43.524849",
     "geom:latitude":43.524849,
     "geom:longitude":-96.571387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48190 Kim Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371068949,
-    "wof:lastmodified":1449049566,
+    "wof:lastmodified":1467082665,
     "wof:name":"Van Dyke Transport Inc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "provides"
     ]
 },
-  "bbox": [-96.571387,43.524849,-96.571387,43.524849],
+  "bbox": [
+    -96.571387,
+    43.524849,
+    -96.571387,
+    43.524849
+],
   "geometry": {"coordinates":[-96.571387,43.524849],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403709503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.42988,43.224228,-99.42988,43.224228",
     "geom:latitude":43.224228,
     "geom:longitude":-99.42988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Nepper St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403709503,
-    "wof:lastmodified":1449054900,
+    "wof:lastmodified":1467082677,
     "wof:name":"Fishn Tackler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "request"
     ]
 },
-  "bbox": [-99.42988,43.224228,-99.42988,43.224228],
+  "bbox": [
+    -99.42988,
+    43.224228,
+    -99.42988,
+    43.224228
+],
   "geometry": {"coordinates":[-99.42988,43.224228],"type":"Point"}
 }

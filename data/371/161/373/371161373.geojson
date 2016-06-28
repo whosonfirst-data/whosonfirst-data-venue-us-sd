@@ -2,13 +2,14 @@
   "id": 371161373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578663,44.383221,-97.578663,44.383221",
     "geom:latitude":44.383221,
     "geom:longitude":-97.578663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43146 US Hwy 14",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371161373,
-    "wof:lastmodified":1449049439,
+    "wof:lastmodified":1467082664,
     "wof:name":"Tom Peckenpaugh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.578663,44.383221,-97.578663,44.383221],
-  "geometry": {"coordinates":[-97.578663,44.383221],"type":"Point"}
+  "bbox": [
+    -97.578663,
+    44.383221,
+    -97.578663,
+    44.383221
+],
+  "geometry": {"coordinates":[-97.57866300000001,44.383221],"type":"Point"}
 }

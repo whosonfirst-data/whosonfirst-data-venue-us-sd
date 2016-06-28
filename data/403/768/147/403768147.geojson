@@ -2,13 +2,14 @@
   "id": 403768147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430853,43.234406,-99.430853,43.234406",
     "geom:latitude":43.234406,
     "geom:longitude":-99.430853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Main St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403768147,
-    "wof:lastmodified":1449055143,
+    "wof:lastmodified":1467082679,
     "wof:name":"H & J Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "implement"
     ]
 },
-  "bbox": [-99.430853,43.234406,-99.430853,43.234406],
+  "bbox": [
+    -99.430853,
+    43.234406,
+    -99.430853,
+    43.234406
+],
   "geometry": {"coordinates":[-99.430853,43.234406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387608285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.292334,43.187636,-99.292334,43.187636",
     "geom:latitude":43.187636,
     "geom:longitude":-99.292334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Main St",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387608285,
-    "wof:lastmodified":1449057731,
+    "wof:lastmodified":1467082719,
     "wof:name":"Ernies Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.292334,43.187636,-99.292334,43.187636],
+  "bbox": [
+    -99.292334,
+    43.187636,
+    -99.292334,
+    43.187636
+],
   "geometry": {"coordinates":[-99.292334,43.187636],"type":"Point"}
 }

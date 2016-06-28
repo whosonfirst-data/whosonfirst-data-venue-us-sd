@@ -2,13 +2,14 @@
   "id": 387634325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.321895,43.51793,-98.321895,43.51793",
     "geom:latitude":43.51793,
     "geom:longitude":-98.321895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26671 394th Ave",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387634325,
-    "wof:lastmodified":1449057918,
+    "wof:lastmodified":1467082723,
     "wof:name":"Robert Wieczorek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.321895,43.51793,-98.321895,43.51793],
+  "bbox": [
+    -98.321895,
+    43.51793,
+    -98.321895,
+    43.51793
+],
   "geometry": {"coordinates":[-98.321895,43.51793],"type":"Point"}
 }

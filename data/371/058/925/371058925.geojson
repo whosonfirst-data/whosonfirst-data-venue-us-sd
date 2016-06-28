@@ -2,13 +2,14 @@
   "id": 371058925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.757886,45.792446,-97.757886,45.792446",
     "geom:latitude":45.792446,
     "geom:longitude":-97.757886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1106 7th St",
     "sg:city":"Britton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371058925,
-    "wof:lastmodified":1449049180,
+    "wof:lastmodified":1467082660,
     "wof:name":"Grandma's House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.757886,45.792446,-97.757886,45.792446],
+  "bbox": [
+    -97.757886,
+    45.792446,
+    -97.757886,
+    45.792446
+],
   "geometry": {"coordinates":[-97.757886,45.792446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387897683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.328837,43.808447,-99.328837,43.808447",
     "geom:latitude":43.808447,
     "geom:longitude":-99.328837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E King St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387897683,
-    "wof:lastmodified":1449059308,
+    "wof:lastmodified":1467082751,
     "wof:name":"Bel Aire Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.328837,43.808447,-99.328837,43.808447],
-  "geometry": {"coordinates":[-99.328837,43.808447],"type":"Point"}
+  "bbox": [
+    -99.328837,
+    43.808447,
+    -99.328837,
+    43.808447
+],
+  "geometry": {"coordinates":[-99.32883699999999,43.808447],"type":"Point"}
 }

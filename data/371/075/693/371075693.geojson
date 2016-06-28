@@ -2,13 +2,14 @@
   "id": 371075693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509029,45.481349,-98.509029,45.481349",
     "geom:latitude":45.481349,
     "geom:longitude":-98.509029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 15th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371075693,
-    "wof:lastmodified":1449049619,
+    "wof:lastmodified":1467082666,
     "wof:name":"Medical Center Pharmacy",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "drug"
     ]
 },
-  "bbox": [-98.509029,45.481349,-98.509029,45.481349],
+  "bbox": [
+    -98.509029,
+    45.481349,
+    -98.509029,
+    45.481349
+],
   "geometry": {"coordinates":[-98.509029,45.481349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387475861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387114,42.890657,-97.387114,42.890657",
     "geom:latitude":42.890657,
     "geom:longitude":-97.387114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Mulberry St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387475861,
-    "wof:lastmodified":1449057687,
+    "wof:lastmodified":1467082718,
     "wof:name":"Clough Gerald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.387114,42.890657,-97.387114,42.890657],
+  "bbox": [
+    -97.387114,
+    42.890657,
+    -97.387114,
+    42.890657
+],
   "geometry": {"coordinates":[-97.387114,42.890657],"type":"Point"}
 }

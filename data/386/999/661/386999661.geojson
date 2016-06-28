@@ -2,13 +2,14 @@
   "id": 386999661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.463461,45.472714,-98.463461,45.472714",
     "geom:latitude":45.472714,
     "geom:longitude":-98.463461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Arthurs Ct",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386999661,
-    "wof:lastmodified":1449028930,
+    "wof:lastmodified":1467082655,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-98.463461,45.472714,-98.463461,45.472714],
+  "bbox": [
+    -98.463461,
+    45.472714,
+    -98.463461,
+    45.472714
+],
   "geometry": {"coordinates":[-98.463461,45.472714],"type":"Point"}
 }

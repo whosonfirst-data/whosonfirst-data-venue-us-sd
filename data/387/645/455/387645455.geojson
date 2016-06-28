@@ -2,13 +2,14 @@
   "id": 387645455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.311742,44.152206,-103.311742,44.152206",
     "geom:latitude":44.152206,
     "geom:longitude":-103.311742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5504 Oak St",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387645455,
-    "wof:lastmodified":1449056493,
+    "wof:lastmodified":1467082694,
     "wof:name":"Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.311742,44.152206,-103.311742,44.152206],
+  "bbox": [
+    -103.311742,
+    44.152206,
+    -103.311742,
+    44.152206
+],
   "geometry": {"coordinates":[-103.311742,44.152206],"type":"Point"}
 }

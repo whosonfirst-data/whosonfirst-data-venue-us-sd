@@ -2,13 +2,14 @@
   "id": 387329785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.266857,44.097546,-103.266857,44.097546",
     "geom:latitude":44.097546,
     "geom:longitude":-103.266857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387329785,
-    "wof:lastmodified":1449057159,
+    "wof:lastmodified":1467082707,
     "wof:name":"Chiesman Foundation-Democracy",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-103.266857,44.097546,-103.266857,44.097546],
+  "bbox": [
+    -103.266857,
+    44.097546,
+    -103.266857,
+    44.097546
+],
   "geometry": {"coordinates":[-103.266857,44.097546],"type":"Point"}
 }

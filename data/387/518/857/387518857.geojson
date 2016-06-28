@@ -2,13 +2,14 @@
   "id": 387518857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.655311,45.449902,-99.655311,45.449902",
     "geom:latitude":45.449902,
     "geom:longitude":-99.655311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 4th Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387518857,
-    "wof:lastmodified":1449058257,
+    "wof:lastmodified":1467082730,
     "wof:name":"Country Pine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-99.655311,45.449902,-99.655311,45.449902],
+  "bbox": [
+    -99.655311,
+    45.449902,
+    -99.655311,
+    45.449902
+],
   "geometry": {"coordinates":[-99.655311,45.449902],"type":"Point"}
 }

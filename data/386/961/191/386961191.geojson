@@ -2,13 +2,14 @@
   "id": 386961191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.029994,43.723691,-98.029994,43.723691",
     "geom:latitude":43.723691,
     "geom:longitude":-98.029994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Sanborn Blvd",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386961191,
-    "wof:lastmodified":1449028968,
+    "wof:lastmodified":1467082655,
     "wof:name":"Martin Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-98.029994,43.723691,-98.029994,43.723691],
+  "bbox": [
+    -98.029994,
+    43.723691,
+    -98.029994,
+    43.723691
+],
   "geometry": {"coordinates":[-98.029994,43.723691],"type":"Point"}
 }

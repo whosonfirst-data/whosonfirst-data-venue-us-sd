@@ -2,13 +2,14 @@
   "id": 387726697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.483936,43.429836,-103.483936,43.429836",
     "geom:latitude":43.429836,
     "geom:longitude":-103.483936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387726697,
-    "wof:lastmodified":1449058715,
+    "wof:lastmodified":1467082739,
     "wof:name":"Norton's Sinclair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oil"
     ]
 },
-  "bbox": [-103.483936,43.429836,-103.483936,43.429836],
+  "bbox": [
+    -103.483936,
+    43.429836,
+    -103.483936,
+    43.429836
+],
   "geometry": {"coordinates":[-103.483936,43.429836],"type":"Point"}
 }

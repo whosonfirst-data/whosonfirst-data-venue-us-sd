@@ -2,13 +2,14 @@
   "id": 387423723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705014,43.54084,-96.705014,43.54084",
     "geom:latitude":43.54084,
     "geom:longitude":-96.705014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 S Mable Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387423723,
-    "wof:lastmodified":1449056732,
+    "wof:lastmodified":1467082699,
     "wof:name":"Mullinix Trucking Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.705014,43.54084,-96.705014,43.54084],
-  "geometry": {"coordinates":[-96.705014,43.54084],"type":"Point"}
+  "bbox": [
+    -96.705014,
+    43.54084,
+    -96.705014,
+    43.54084
+],
+  "geometry": {"coordinates":[-96.70501400000001,43.54084],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386941747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.902369,44.57579,-96.902369,44.57579",
     "geom:latitude":44.57579,
     "geom:longitude":-96.902369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N Main St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386941747,
-    "wof:lastmodified":1449028811,
+    "wof:lastmodified":1467082652,
     "wof:name":"Arlington Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.902369,44.57579,-96.902369,44.57579],
-  "geometry": {"coordinates":[-96.902369,44.57579],"type":"Point"}
+  "bbox": [
+    -96.902369,
+    44.57579,
+    -96.902369,
+    44.57579
+],
+  "geometry": {"coordinates":[-96.90236899999999,44.57579],"type":"Point"}
 }

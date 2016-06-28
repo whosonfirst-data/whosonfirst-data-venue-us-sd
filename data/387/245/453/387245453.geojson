@@ -2,13 +2,14 @@
   "id": 387245453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.356169,44.097697,-103.356169,44.097697",
     "geom:latitude":44.097697,
     "geom:longitude":-103.356169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8420 Blackbird Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387245453,
-    "wof:lastmodified":1449059795,
+    "wof:lastmodified":1467082760,
     "wof:name":"Innovative Mtls Processes LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineering"
     ]
 },
-  "bbox": [-103.356169,44.097697,-103.356169,44.097697],
-  "geometry": {"coordinates":[-103.356169,44.097697],"type":"Point"}
+  "bbox": [
+    -103.356169,
+    44.097697,
+    -103.356169,
+    44.097697
+],
+  "geometry": {"coordinates":[-103.35616899999999,44.097697],"type":"Point"}
 }

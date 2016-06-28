@@ -2,13 +2,14 @@
   "id": 387198029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810513,43.512262,-96.810513,43.512262",
     "geom:latitude":43.512262,
     "geom:longitude":-96.810513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6800 W 46th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387198029,
-    "wof:lastmodified":1449057477,
+    "wof:lastmodified":1467082714,
     "wof:name":"Ronning Companies",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.810513,43.512262,-96.810513,43.512262],
+  "bbox": [
+    -96.810513,
+    43.512262,
+    -96.810513,
+    43.512262
+],
   "geometry": {"coordinates":[-96.810513,43.512262],"type":"Point"}
 }

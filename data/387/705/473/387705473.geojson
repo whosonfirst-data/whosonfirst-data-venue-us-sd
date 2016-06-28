@@ -2,13 +2,14 @@
   "id": 387705473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69319,43.592296,-96.69319,43.592296",
     "geom:latitude":43.592296,
     "geom:longitude":-96.69319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 N Hainje Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387705473,
-    "wof:lastmodified":1449059941,
+    "wof:lastmodified":1467082764,
     "wof:name":"Mid States Audio Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "music"
     ]
 },
-  "bbox": [-96.69319,43.592296,-96.69319,43.592296],
+  "bbox": [
+    -96.69319,
+    43.592296,
+    -96.69319,
+    43.592296
+],
   "geometry": {"coordinates":[-96.69319,43.592296],"type":"Point"}
 }

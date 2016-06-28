@@ -2,13 +2,14 @@
   "id": 387164813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.454399,44.79063,-96.454399,44.79063",
     "geom:latitude":44.79063,
     "geom:longitude":-96.454399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Main Ave",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387164813,
-    "wof:lastmodified":1449056561,
+    "wof:lastmodified":1467082696,
     "wof:name":"Borderline Wind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "powered"
     ]
 },
-  "bbox": [-96.454399,44.79063,-96.454399,44.79063],
+  "bbox": [
+    -96.454399,
+    44.79063,
+    -96.454399,
+    44.79063
+],
   "geometry": {"coordinates":[-96.454399,44.79063],"type":"Point"}
 }

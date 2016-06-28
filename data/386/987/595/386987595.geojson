@@ -2,13 +2,14 @@
   "id": 386987595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77487,43.5142,-96.77487,43.5142",
     "geom:latitude":43.5142,
     "geom:longitude":-96.77487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386987595,
-    "wof:lastmodified":1449028795,
+    "wof:lastmodified":1467082652,
     "wof:name":"Cover To Cover",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-96.77487,43.5142,-96.77487,43.5142],
-  "geometry": {"coordinates":[-96.77487,43.5142],"type":"Point"}
+  "bbox": [
+    -96.77487,
+    43.5142,
+    -96.77487,
+    43.5142
+],
+  "geometry": {"coordinates":[-96.77487000000001,43.5142],"type":"Point"}
 }

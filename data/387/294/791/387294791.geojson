@@ -2,13 +2,14 @@
   "id": 387294791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526159,45.330059,-97.526159,45.330059",
     "geom:latitude":45.330059,
     "geom:longitude":-97.526159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 5th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387294791,
-    "wof:lastmodified":1449058820,
+    "wof:lastmodified":1467082741,
     "wof:name":"Webster Street Dept Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-97.526159,45.330059,-97.526159,45.330059],
-  "geometry": {"coordinates":[-97.526159,45.330059],"type":"Point"}
+  "bbox": [
+    -97.526159,
+    45.330059,
+    -97.526159,
+    45.330059
+],
+  "geometry": {"coordinates":[-97.52615900000001,45.330059],"type":"Point"}
 }

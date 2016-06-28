@@ -2,13 +2,14 @@
   "id": 387175721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.473327,45.239932,-96.473327,45.239932",
     "geom:latitude":45.239932,
     "geom:longitude":-96.473327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48603 148th St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387175721,
-    "wof:lastmodified":1449058749,
+    "wof:lastmodified":1467082740,
     "wof:name":"Ipr Dakotas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-96.473327,45.239932,-96.473327,45.239932],
+  "bbox": [
+    -96.473327,
+    45.239932,
+    -96.473327,
+    45.239932
+],
   "geometry": {"coordinates":[-96.473327,45.239932],"type":"Point"}
 }

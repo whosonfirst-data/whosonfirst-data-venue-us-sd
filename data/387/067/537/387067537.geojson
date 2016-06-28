@@ -2,13 +2,14 @@
   "id": 387067537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.151508,44.053368,-103.151508,44.053368",
     "geom:latitude":44.053368,
     "geom:longitude":-103.151508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3333 E 39th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387067537,
-    "wof:lastmodified":1449056359,
+    "wof:lastmodified":1467082692,
     "wof:name":"Elks Golf Course",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "golf"
     ]
 },
-  "bbox": [-103.151508,44.053368,-103.151508,44.053368],
-  "geometry": {"coordinates":[-103.151508,44.053368],"type":"Point"}
+  "bbox": [
+    -103.151508,
+    44.053368,
+    -103.151508,
+    44.053368
+],
+  "geometry": {"coordinates":[-103.15150800000001,44.053368],"type":"Point"}
 }

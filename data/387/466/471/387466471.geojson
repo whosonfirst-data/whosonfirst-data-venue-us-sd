@@ -2,13 +2,14 @@
   "id": 387466471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803858,43.537579,-96.803858,43.537579",
     "geom:latitude":43.537579,
     "geom:longitude":-96.803858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 S Garnet Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387466471,
-    "wof:lastmodified":1449057234,
+    "wof:lastmodified":1467082709,
     "wof:name":"Werner Leann Day Care",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.803858,43.537579,-96.803858,43.537579],
-  "geometry": {"coordinates":[-96.803858,43.537579],"type":"Point"}
+  "bbox": [
+    -96.803858,
+    43.537579,
+    -96.803858,
+    43.537579
+],
+  "geometry": {"coordinates":[-96.80385800000001,43.537579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387027613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713377,43.517607,-96.713377,43.517607",
     "geom:latitude":43.517607,
     "geom:longitude":-96.713377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 S 9th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387027613,
-    "wof:lastmodified":1449056809,
+    "wof:lastmodified":1467082701,
     "wof:name":"Dexter & Associates",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.713377,43.517607,-96.713377,43.517607],
-  "geometry": {"coordinates":[-96.713377,43.517607],"type":"Point"}
+  "bbox": [
+    -96.713377,
+    43.517607,
+    -96.713377,
+    43.517607
+],
+  "geometry": {"coordinates":[-96.71337699999999,43.517607],"type":"Point"}
 }

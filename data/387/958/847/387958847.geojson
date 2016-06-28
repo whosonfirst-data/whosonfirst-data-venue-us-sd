@@ -2,13 +2,14 @@
   "id": 387958847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722214,43.59597,-96.722214,43.59597",
     "geom:latitude":43.59597,
     "geom:longitude":-96.722214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387958847,
-    "wof:lastmodified":1449059072,
+    "wof:lastmodified":1467082746,
     "wof:name":"Bowden Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-96.722214,43.59597,-96.722214,43.59597],
-  "geometry": {"coordinates":[-96.722214,43.59597],"type":"Point"}
+  "bbox": [
+    -96.722214,
+    43.59597,
+    -96.722214,
+    43.59597
+],
+  "geometry": {"coordinates":[-96.72221399999999,43.59597],"type":"Point"}
 }

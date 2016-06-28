@@ -2,13 +2,14 @@
   "id": 386958701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790959,43.463004,-96.790959,43.463004",
     "geom:latitude":43.463004,
     "geom:longitude":-96.790959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27086 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386958701,
-    "wof:lastmodified":1449028881,
+    "wof:lastmodified":1467082654,
     "wof:name":"JARCO Builders LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.790959,43.463004,-96.790959,43.463004],
+  "bbox": [
+    -96.790959,
+    43.463004,
+    -96.790959,
+    43.463004
+],
   "geometry": {"coordinates":[-96.790959,43.463004],"type":"Point"}
 }

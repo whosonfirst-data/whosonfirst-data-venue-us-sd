@@ -2,13 +2,14 @@
   "id": 387133059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.600933,43.767391,-103.600933,43.767391",
     "geom:latitude":43.767391,
     "geom:longitude":-103.600933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 N 5th St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387133059,
-    "wof:lastmodified":1449059263,
+    "wof:lastmodified":1467082750,
     "wof:name":"Southern Hills Adult Ed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.600933,43.767391,-103.600933,43.767391],
+  "bbox": [
+    -103.600933,
+    43.767391,
+    -103.600933,
+    43.767391
+],
   "geometry": {"coordinates":[-103.600933,43.767391],"type":"Point"}
 }

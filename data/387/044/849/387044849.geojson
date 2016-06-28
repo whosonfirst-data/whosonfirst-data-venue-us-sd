@@ -2,13 +2,14 @@
   "id": 387044849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.519097,44.875869,-98.519097,44.875869",
     "geom:latitude":44.875869,
     "geom:longitude":-98.519097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 W 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387044849,
-    "wof:lastmodified":1449058088,
+    "wof:lastmodified":1467082727,
     "wof:name":"Redfield Rural Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "v"
     ]
 },
-  "bbox": [-98.519097,44.875869,-98.519097,44.875869],
+  "bbox": [
+    -98.519097,
+    44.875869,
+    -98.519097,
+    44.875869
+],
   "geometry": {"coordinates":[-98.519097,44.875869],"type":"Point"}
 }

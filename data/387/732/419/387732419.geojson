@@ -2,13 +2,14 @@
   "id": 387732419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495361,45.371874,-98.495361,45.371874",
     "geom:latitude":45.371874,
     "geom:longitude":-98.495361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13905 387th Ave",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387732419,
-    "wof:lastmodified":1449060035,
+    "wof:lastmodified":1467082766,
     "wof:name":"Mocassin Creek Delvy",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.495361,45.371874,-98.495361,45.371874],
+  "bbox": [
+    -98.495361,
+    45.371874,
+    -98.495361,
+    45.371874
+],
   "geometry": {"coordinates":[-98.495361,45.371874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370992147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719251,43.530237,-96.719251,43.530237",
     "geom:latitude":43.530237,
     "geom:longitude":-96.719251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E Dana Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370992147,
-    "wof:lastmodified":1449030688,
+    "wof:lastmodified":1467082656,
     "wof:name":"Breit Law Offices PC",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.719251,43.530237,-96.719251,43.530237],
+  "bbox": [
+    -96.719251,
+    43.530237,
+    -96.719251,
+    43.530237
+],
   "geometry": {"coordinates":[-96.719251,43.530237],"type":"Point"}
 }

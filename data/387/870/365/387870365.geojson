@@ -2,13 +2,14 @@
   "id": 387870365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640081,43.538568,-96.640081,43.538568",
     "geom:latitude":43.538568,
     "geom:longitude":-96.640081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 S Enterprise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387870365,
-    "wof:lastmodified":1449057104,
+    "wof:lastmodified":1467082706,
     "wof:name":"Highway Improvement Inc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-96.640081,43.538568,-96.640081,43.538568],
+  "bbox": [
+    -96.640081,
+    43.538568,
+    -96.640081,
+    43.538568
+],
   "geometry": {"coordinates":[-96.640081,43.538568],"type":"Point"}
 }

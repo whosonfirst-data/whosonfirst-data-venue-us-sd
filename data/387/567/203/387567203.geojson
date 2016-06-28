@@ -2,13 +2,14 @@
   "id": 387567203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.461567,45.462191,-98.461567,45.462191",
     "geom:latitude":45.462191,
     "geom:longitude":-98.461567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387567203,
-    "wof:lastmodified":1449059947,
+    "wof:lastmodified":1467082764,
     "wof:name":"Primrose Place",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "residential"
     ]
 },
-  "bbox": [-98.461567,45.462191,-98.461567,45.462191],
+  "bbox": [
+    -98.461567,
+    45.462191,
+    -98.461567,
+    45.462191
+],
   "geometry": {"coordinates":[-98.461567,45.462191],"type":"Point"}
 }

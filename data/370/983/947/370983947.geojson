@@ -2,13 +2,14 @@
   "id": 370983947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795818,43.543898,-96.795818,43.543898",
     "geom:latitude":43.543898,
     "geom:longitude":-96.795818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5513 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370983947,
-    "wof:lastmodified":1449032195,
+    "wof:lastmodified":1467082658,
     "wof:name":"Boat Shop Inc",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "marine"
     ]
 },
-  "bbox": [-96.795818,43.543898,-96.795818,43.543898],
+  "bbox": [
+    -96.795818,
+    43.543898,
+    -96.795818,
+    43.543898
+],
   "geometry": {"coordinates":[-96.795818,43.543898],"type":"Point"}
 }

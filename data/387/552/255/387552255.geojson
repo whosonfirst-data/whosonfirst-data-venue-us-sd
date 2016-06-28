@@ -2,13 +2,14 @@
   "id": 387552255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.96333,43.420146,-98.96333,43.420146",
     "geom:latitude":43.420146,
     "geom:longitude":-98.96333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27361 361st Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387552255,
-    "wof:lastmodified":1449057697,
+    "wof:lastmodified":1467082719,
     "wof:name":"Ronald P Samuelson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "soybean"
     ]
 },
-  "bbox": [-98.96333,43.420146,-98.96333,43.420146],
+  "bbox": [
+    -98.96333,
+    43.420146,
+    -98.96333,
+    43.420146
+],
   "geometry": {"coordinates":[-98.96333,43.420146],"type":"Point"}
 }

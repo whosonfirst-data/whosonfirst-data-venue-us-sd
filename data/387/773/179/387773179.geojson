@@ -2,13 +2,14 @@
   "id": 387773179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.738323,44.878677,-97.738323,44.878677",
     "geom:latitude":44.878677,
     "geom:longitude":-97.738323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Idaho St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387773179,
-    "wof:lastmodified":1449056593,
+    "wof:lastmodified":1467082696,
     "wof:name":"St Michael's Parish Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.738323,44.878677,-97.738323,44.878677],
-  "geometry": {"coordinates":[-97.738323,44.878677],"type":"Point"}
+  "bbox": [
+    -97.738323,
+    44.878677,
+    -97.738323,
+    44.878677
+],
+  "geometry": {"coordinates":[-97.73832299999999,44.878677],"type":"Point"}
 }

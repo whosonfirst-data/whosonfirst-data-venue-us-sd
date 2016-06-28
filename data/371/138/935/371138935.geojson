@@ -2,13 +2,14 @@
   "id": 371138935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751158,43.530261,-96.751158,43.530261",
     "geom:latitude":43.530261,
     "geom:longitude":-96.751158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371138935,
-    "wof:lastmodified":1449049305,
+    "wof:lastmodified":1467082662,
     "wof:name":"Hair By Stewarts",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.751158,43.530261,-96.751158,43.530261],
+  "bbox": [
+    -96.751158,
+    43.530261,
+    -96.751158,
+    43.530261
+],
   "geometry": {"coordinates":[-96.751158,43.530261],"type":"Point"}
 }

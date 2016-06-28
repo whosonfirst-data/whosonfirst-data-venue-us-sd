@@ -2,13 +2,14 @@
   "id": 403770469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.851195,43.642391,-96.851195,43.642391",
     "geom:latitude":43.642391,
     "geom:longitude":-96.851195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25819 468th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403770469,
-    "wof:lastmodified":1449056002,
+    "wof:lastmodified":1467082685,
     "wof:name":"Deffenbaugh Homes",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.851195,43.642391,-96.851195,43.642391],
+  "bbox": [
+    -96.851195,
+    43.642391,
+    -96.851195,
+    43.642391
+],
   "geometry": {"coordinates":[-96.851195,43.642391],"type":"Point"}
 }

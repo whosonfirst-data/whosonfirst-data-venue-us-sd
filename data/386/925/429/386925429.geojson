@@ -2,13 +2,14 @@
   "id": 386925429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.433107,43.775199,-97.433107,43.775199",
     "geom:latitude":43.775199,
     "geom:longitude":-97.433107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43825 249th St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386925429,
-    "wof:lastmodified":1449028628,
+    "wof:lastmodified":1467082649,
     "wof:name":"Seamless Gutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gutter"
     ]
 },
-  "bbox": [-97.433107,43.775199,-97.433107,43.775199],
-  "geometry": {"coordinates":[-97.433107,43.775199],"type":"Point"}
+  "bbox": [
+    -97.433107,
+    43.775199,
+    -97.433107,
+    43.775199
+],
+  "geometry": {"coordinates":[-97.43310700000001,43.775199],"type":"Point"}
 }

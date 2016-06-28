@@ -2,13 +2,14 @@
   "id": 387265003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.389683,43.892155,-97.389683,43.892155",
     "geom:latitude":43.892155,
     "geom:longitude":-97.389683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24096 US Hwy 81",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387265003,
-    "wof:lastmodified":1449057395,
+    "wof:lastmodified":1467082712,
     "wof:name":"LA Grand Angus & Hereford Rnch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "livestock"
     ]
 },
-  "bbox": [-97.389683,43.892155,-97.389683,43.892155],
-  "geometry": {"coordinates":[-97.389683,43.892155],"type":"Point"}
+  "bbox": [
+    -97.389683,
+    43.892155,
+    -97.389683,
+    43.892155
+],
+  "geometry": {"coordinates":[-97.38968300000001,43.892155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387624823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.225336,44.079974,-103.225336,44.079974",
     "geom:latitude":44.079974,
     "geom:longitude":-103.225336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 5th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387624823,
-    "wof:lastmodified":1449058724,
+    "wof:lastmodified":1467082739,
     "wof:name":"House Of Vacuums",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-103.225336,44.079974,-103.225336,44.079974],
+  "bbox": [
+    -103.225336,
+    44.079974,
+    -103.225336,
+    44.079974
+],
   "geometry": {"coordinates":[-103.225336,44.079974],"type":"Point"}
 }

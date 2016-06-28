@@ -2,13 +2,14 @@
   "id": 387757047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.489997,45.764588,-99.489997,45.764588",
     "geom:latitude":45.764588,
     "geom:longitude":-99.489997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11434 335th Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387757047,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1467082730,
     "wof:name":"S Hoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.489997,45.764588,-99.489997,45.764588],
+  "bbox": [
+    -99.489997,
+    45.764588,
+    -99.489997,
+    45.764588
+],
   "geometry": {"coordinates":[-99.489997,45.764588],"type":"Point"}
 }

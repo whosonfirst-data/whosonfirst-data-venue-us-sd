@@ -2,13 +2,14 @@
   "id": 386998293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191695,44.061111,-103.191695,44.061111",
     "geom:latitude":44.061111,
     "geom:longitude":-103.191695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2689 S Hwy 79",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386998293,
-    "wof:lastmodified":1449028721,
+    "wof:lastmodified":1467082651,
     "wof:name":"Outback Storage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.191695,44.061111,-103.191695,44.061111],
+  "bbox": [
+    -103.191695,
+    44.061111,
+    -103.191695,
+    44.061111
+],
   "geometry": {"coordinates":[-103.191695,44.061111],"type":"Point"}
 }

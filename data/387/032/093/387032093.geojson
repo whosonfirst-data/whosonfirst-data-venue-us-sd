@@ -2,13 +2,14 @@
   "id": 387032093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804978,43.833737,-96.804978,43.833737",
     "geom:latitude":43.833737,
     "geom:longitude":-96.804978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47028 245th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387032093,
-    "wof:lastmodified":1449057965,
+    "wof:lastmodified":1467082724,
     "wof:name":"Michael Wolles",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.804978,43.833737,-96.804978,43.833737],
-  "geometry": {"coordinates":[-96.804978,43.833737],"type":"Point"}
+  "bbox": [
+    -96.804978,
+    43.833737,
+    -96.804978,
+    43.833737
+],
+  "geometry": {"coordinates":[-96.80497800000001,43.833737],"type":"Point"}
 }

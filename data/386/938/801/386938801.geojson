@@ -2,13 +2,14 @@
   "id": 386938801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.294032,44.078866,-103.294032,44.078866",
     "geom:latitude":44.078866,
     "geom:longitude":-103.294032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4429 Bellewood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386938801,
-    "wof:lastmodified":1449028872,
+    "wof:lastmodified":1467082653,
     "wof:name":"Jh Consulting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.294032,44.078866,-103.294032,44.078866],
+  "bbox": [
+    -103.294032,
+    44.078866,
+    -103.294032,
+    44.078866
+],
   "geometry": {"coordinates":[-103.294032,44.078866],"type":"Point"}
 }

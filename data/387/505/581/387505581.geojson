@@ -2,13 +2,14 @@
   "id": 387505581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593239,43.582077,-96.593239,43.582077",
     "geom:latitude":43.582077,
     "geom:longitude":-96.593239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Chapelwood Dr",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387505581,
-    "wof:lastmodified":1449059298,
+    "wof:lastmodified":1467082751,
     "wof:name":"Dee Buxton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.593239,43.582077,-96.593239,43.582077],
+  "bbox": [
+    -96.593239,
+    43.582077,
+    -96.593239,
+    43.582077
+],
   "geometry": {"coordinates":[-96.593239,43.582077],"type":"Point"}
 }

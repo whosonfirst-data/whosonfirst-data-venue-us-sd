@@ -2,13 +2,14 @@
   "id": 387318975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.985469,44.523733,-98.985469,44.523733",
     "geom:latitude":44.523733,
     "geom:longitude":-98.985469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 E 8th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387318975,
-    "wof:lastmodified":1449056947,
+    "wof:lastmodified":1467082703,
     "wof:name":"Ernest Clement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.985469,44.523733,-98.985469,44.523733],
-  "geometry": {"coordinates":[-98.985469,44.523733],"type":"Point"}
+  "bbox": [
+    -98.985469,
+    44.523733,
+    -98.985469,
+    44.523733
+],
+  "geometry": {"coordinates":[-98.98546899999999,44.523733],"type":"Point"}
 }

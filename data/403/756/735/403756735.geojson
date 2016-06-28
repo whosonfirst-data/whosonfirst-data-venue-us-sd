@@ -2,13 +2,14 @@
   "id": 403756735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.217557,44.079459,-103.217557,44.079459",
     "geom:latitude":44.079459,
     "geom:longitude":-103.217557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403756735,
-    "wof:lastmodified":1449055447,
+    "wof:lastmodified":1467082681,
     "wof:name":"Dakota Spas",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-103.217557,44.079459,-103.217557,44.079459],
+  "bbox": [
+    -103.217557,
+    44.079459,
+    -103.217557,
+    44.079459
+],
   "geometry": {"coordinates":[-103.217557,44.079459],"type":"Point"}
 }

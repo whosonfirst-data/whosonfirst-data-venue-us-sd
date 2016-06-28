@@ -2,13 +2,14 @@
   "id": 387330283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.337213,43.429901,-97.337213,43.429901",
     "geom:latitude":43.429901,
     "geom:longitude":-97.337213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44354 273rd St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387330283,
-    "wof:lastmodified":1449058005,
+    "wof:lastmodified":1467082725,
     "wof:name":"Bethesda Mennonite Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.337213,43.429901,-97.337213,43.429901],
-  "geometry": {"coordinates":[-97.337213,43.429901],"type":"Point"}
+  "bbox": [
+    -97.337213,
+    43.429901,
+    -97.337213,
+    43.429901
+],
+  "geometry": {"coordinates":[-97.33721300000001,43.429901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403828157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232494,44.063401,-103.232494,44.063401",
     "geom:latitude":44.063401,
     "geom:longitude":-103.232494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Mount Rushmore Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403828157,
-    "wof:lastmodified":1449055327,
+    "wof:lastmodified":1467082680,
     "wof:name":"J & D Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gift"
     ]
 },
-  "bbox": [-103.232494,44.063401,-103.232494,44.063401],
+  "bbox": [
+    -103.232494,
+    44.063401,
+    -103.232494,
+    44.063401
+],
   "geometry": {"coordinates":[-103.232494,44.063401],"type":"Point"}
 }

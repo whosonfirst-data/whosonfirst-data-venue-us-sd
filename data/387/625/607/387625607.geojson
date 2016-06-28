@@ -2,13 +2,14 @@
   "id": 387625607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.033982,44.279796,-98.033982,44.279796",
     "geom:latitude":44.279796,
     "geom:longitude":-98.033982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21419 409th Ave",
     "sg:city":"Cavour",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387625607,
-    "wof:lastmodified":1449059976,
+    "wof:lastmodified":1467082764,
     "wof:name":"Eckmann Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.033982,44.279796,-98.033982,44.279796],
-  "geometry": {"coordinates":[-98.033982,44.279796],"type":"Point"}
+  "bbox": [
+    -98.033982,
+    44.279796,
+    -98.033982,
+    44.279796
+],
+  "geometry": {"coordinates":[-98.03398199999999,44.279796],"type":"Point"}
 }

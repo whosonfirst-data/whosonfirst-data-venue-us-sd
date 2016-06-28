@@ -2,13 +2,14 @@
   "id": 371135697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.44068,44.416278,-103.44068,44.416278",
     "geom:latitude":44.416278,
     "geom:longitude":-103.44068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13041 State Hwy 34",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371135697,
-    "wof:lastmodified":1449049422,
+    "wof:lastmodified":1467082663,
     "wof:name":"Cmw Manifacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-103.44068,44.416278,-103.44068,44.416278],
+  "bbox": [
+    -103.44068,
+    44.416278,
+    -103.44068,
+    44.416278
+],
   "geometry": {"coordinates":[-103.44068,44.416278],"type":"Point"}
 }

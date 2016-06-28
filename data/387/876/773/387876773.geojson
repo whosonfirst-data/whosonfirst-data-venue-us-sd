@@ -2,13 +2,14 @@
   "id": 387876773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.592223,43.769841,-103.592223,43.769841",
     "geom:latitude":43.769841,
     "geom:longitude":-103.592223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Crook St",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387876773,
-    "wof:lastmodified":1449056863,
+    "wof:lastmodified":1467082702,
     "wof:name":"Steele Collision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.592223,43.769841,-103.592223,43.769841],
+  "bbox": [
+    -103.592223,
+    43.769841,
+    -103.592223,
+    43.769841
+],
   "geometry": {"coordinates":[-103.592223,43.769841],"type":"Point"}
 }

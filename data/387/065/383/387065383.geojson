@@ -2,13 +2,14 @@
   "id": 387065383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.153997,44.37851,-98.153997,44.37851",
     "geom:latitude":44.37851,
     "geom:longitude":-98.153997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20741 403rd Ave",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387065383,
-    "wof:lastmodified":1449059876,
+    "wof:lastmodified":1467082762,
     "wof:name":"Huron Area Antique Power Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.153997,44.37851,-98.153997,44.37851],
+  "bbox": [
+    -98.153997,
+    44.37851,
+    -98.153997,
+    44.37851
+],
   "geometry": {"coordinates":[-98.153997,44.37851],"type":"Point"}
 }

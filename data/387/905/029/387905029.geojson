@@ -2,13 +2,14 @@
   "id": 387905029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.407263,42.881453,-97.407263,42.881453",
     "geom:latitude":42.881453,
     "geom:longitude":-97.407263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Summit St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387905029,
-    "wof:lastmodified":1449057589,
+    "wof:lastmodified":1467082716,
     "wof:name":"Klein's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-97.407263,42.881453,-97.407263,42.881453],
+  "bbox": [
+    -97.407263,
+    42.881453,
+    -97.407263,
+    42.881453
+],
   "geometry": {"coordinates":[-97.407263,42.881453],"type":"Point"}
 }

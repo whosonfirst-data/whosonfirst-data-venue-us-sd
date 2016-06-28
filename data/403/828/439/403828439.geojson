@@ -2,13 +2,14 @@
   "id": 403828439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.677023,43.24083,-97.677023,43.24083",
     "geom:latitude":43.24083,
     "geom:longitude":-97.677023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Euclid St",
     "sg:city":"Olivet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403828439,
-    "wof:lastmodified":1449055327,
+    "wof:lastmodified":1467082680,
     "wof:name":"Oplinger Abstract & Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-97.677023,43.24083,-97.677023,43.24083],
-  "geometry": {"coordinates":[-97.677023,43.24083],"type":"Point"}
+  "bbox": [
+    -97.677023,
+    43.24083,
+    -97.677023,
+    43.24083
+],
+  "geometry": {"coordinates":[-97.67702300000001,43.24083],"type":"Point"}
 }

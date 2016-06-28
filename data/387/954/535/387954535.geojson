@@ -2,13 +2,14 @@
   "id": 387954535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.150132,44.889562,-97.150132,44.889562",
     "geom:latitude":44.889562,
     "geom:longitude":-97.150132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 23rd St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387954535,
-    "wof:lastmodified":1449059427,
+    "wof:lastmodified":1467082753,
     "wof:name":"Carloson's Glass & Mirror",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-97.150132,44.889562,-97.150132,44.889562],
+  "bbox": [
+    -97.150132,
+    44.889562,
+    -97.150132,
+    44.889562
+],
   "geometry": {"coordinates":[-97.150132,44.889562],"type":"Point"}
 }

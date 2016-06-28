@@ -2,13 +2,14 @@
   "id": 371052519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809509,43.535129,-96.809509,43.535129",
     "geom:latitude":43.535129,
     "geom:longitude":-96.809509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6829 W Honeysuckle Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371052519,
-    "wof:lastmodified":1449049475,
+    "wof:lastmodified":1467082664,
     "wof:name":"Graham Marsh Gulf Corp",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heavy"
     ]
 },
-  "bbox": [-96.809509,43.535129,-96.809509,43.535129],
-  "geometry": {"coordinates":[-96.809509,43.535129],"type":"Point"}
+  "bbox": [
+    -96.809509,
+    43.535129,
+    -96.809509,
+    43.535129
+],
+  "geometry": {"coordinates":[-96.80950900000001,43.535129],"type":"Point"}
 }

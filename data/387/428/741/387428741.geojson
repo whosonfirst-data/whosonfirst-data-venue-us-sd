@@ -2,13 +2,14 @@
   "id": 387428741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.235714,44.078209,-103.235714,44.078209",
     "geom:latitude":44.078209,
     "geom:longitude":-103.235714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 West Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387428741,
-    "wof:lastmodified":1449059658,
+    "wof:lastmodified":1467082758,
     "wof:name":"Stahl Painting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-103.235714,44.078209,-103.235714,44.078209],
+  "bbox": [
+    -103.235714,
+    44.078209,
+    -103.235714,
+    44.078209
+],
   "geometry": {"coordinates":[-103.235714,44.078209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403742965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.33728,44.176453,-103.33728,44.176453",
     "geom:latitude":44.176453,
     "geom:longitude":-103.33728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 Emerald Heights Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403742965,
-    "wof:lastmodified":1449054722,
+    "wof:lastmodified":1467082675,
     "wof:name":"Montgomery Shelly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.33728,44.176453,-103.33728,44.176453],
-  "geometry": {"coordinates":[-103.33728,44.176453],"type":"Point"}
+  "bbox": [
+    -103.33728,
+    44.176453,
+    -103.33728,
+    44.176453
+],
+  "geometry": {"coordinates":[-103.33728000000001,44.176453],"type":"Point"}
 }

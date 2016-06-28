@@ -2,13 +2,14 @@
   "id": 387159495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.306417,44.089,-103.306417,44.089",
     "geom:latitude":44.089,
     "geom:longitude":-103.306417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 N Berry Pine Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387159495,
-    "wof:lastmodified":1449056566,
+    "wof:lastmodified":1467082696,
     "wof:name":"Ginny's Fine Jewelry",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-103.306417,44.089,-103.306417,44.089],
+  "bbox": [
+    -103.306417,
+    44.089,
+    -103.306417,
+    44.089
+],
   "geometry": {"coordinates":[-103.306417,44.089],"type":"Point"}
 }

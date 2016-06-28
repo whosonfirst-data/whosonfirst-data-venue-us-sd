@@ -2,13 +2,14 @@
   "id": 387744789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.563721,44.078293,-98.563721,44.078293",
     "geom:latitude":44.078293,
     "geom:longitude":-98.563721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 1st St SE",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387744789,
-    "wof:lastmodified":1449057468,
+    "wof:lastmodified":1467082714,
     "wof:name":"Cashman's Radiator Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.563721,44.078293,-98.563721,44.078293],
+  "bbox": [
+    -98.563721,
+    44.078293,
+    -98.563721,
+    44.078293
+],
   "geometry": {"coordinates":[-98.563721,44.078293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403762265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72624,43.359199,-96.72624,43.359199",
     "geom:latitude":43.359199,
     "geom:longitude":-96.72624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47408 278th St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403762265,
-    "wof:lastmodified":1449055555,
+    "wof:lastmodified":1467082682,
     "wof:name":"Northern Plains Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.72624,43.359199,-96.72624,43.359199],
+  "bbox": [
+    -96.72624,
+    43.359199,
+    -96.72624,
+    43.359199
+],
   "geometry": {"coordinates":[-96.72624,43.359199],"type":"Point"}
 }

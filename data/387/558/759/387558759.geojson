@@ -2,13 +2,14 @@
   "id": 387558759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.160785,45.941835,-102.160785,45.941835",
     "geom:latitude":45.941835,
     "geom:longitude":-102.160785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 1st Ave W",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387558759,
-    "wof:lastmodified":1449057135,
+    "wof:lastmodified":1467082707,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.160785,45.941835,-102.160785,45.941835],
+  "bbox": [
+    -102.160785,
+    45.941835,
+    -102.160785,
+    45.941835
+],
   "geometry": {"coordinates":[-102.160785,45.941835],"type":"Point"}
 }

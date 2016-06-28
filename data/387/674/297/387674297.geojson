@@ -2,13 +2,14 @@
   "id": 387674297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791424,43.463438,-96.791424,43.463438",
     "geom:latitude":43.463438,
     "geom:longitude":-96.791424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27059 Mueller Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387674297,
-    "wof:lastmodified":1449058954,
+    "wof:lastmodified":1467082744,
     "wof:name":"Mueller's Pallets LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.791424,43.463438,-96.791424,43.463438],
-  "geometry": {"coordinates":[-96.791424,43.463438],"type":"Point"}
+  "bbox": [
+    -96.791424,
+    43.463438,
+    -96.791424,
+    43.463438
+],
+  "geometry": {"coordinates":[-96.79142400000001,43.463438],"type":"Point"}
 }

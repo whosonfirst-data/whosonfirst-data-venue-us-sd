@@ -2,13 +2,14 @@
   "id": 387723371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.591886,43.639942,-96.591886,43.639942",
     "geom:latitude":43.639942,
     "geom:longitude":-96.591886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25837 481st Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387723371,
-    "wof:lastmodified":1449058328,
+    "wof:lastmodified":1467082731,
     "wof:name":"Gary Popken",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.591886,43.639942,-96.591886,43.639942],
+  "bbox": [
+    -96.591886,
+    43.639942,
+    -96.591886,
+    43.639942
+],
   "geometry": {"coordinates":[-96.591886,43.639942],"type":"Point"}
 }

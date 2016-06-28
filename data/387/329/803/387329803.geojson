@@ -2,13 +2,14 @@
   "id": 387329803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.6994,43.688633,-96.6994,43.688633",
     "geom:latitude":43.688633,
     "geom:longitude":-96.6994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47563 255th St",
     "sg:city":"Renner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387329803,
-    "wof:lastmodified":1449057160,
+    "wof:lastmodified":1467082707,
     "wof:name":"At Analytical Inc",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "research"
     ]
 },
-  "bbox": [-96.6994,43.688633,-96.6994,43.688633],
+  "bbox": [
+    -96.6994,
+    43.688633,
+    -96.6994,
+    43.688633
+],
   "geometry": {"coordinates":[-96.6994,43.688633],"type":"Point"}
 }

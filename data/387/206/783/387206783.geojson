@@ -2,13 +2,14 @@
   "id": 387206783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.287712,43.606871,-97.287712,43.606871",
     "geom:latitude":43.606871,
     "geom:longitude":-97.287712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26035 446th Ave",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387206783,
-    "wof:lastmodified":1449058694,
+    "wof:lastmodified":1467082739,
     "wof:name":"Lyle Dekramer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.287712,43.606871,-97.287712,43.606871],
+  "bbox": [
+    -97.287712,
+    43.606871,
+    -97.287712,
+    43.606871
+],
   "geometry": {"coordinates":[-97.287712,43.606871],"type":"Point"}
 }

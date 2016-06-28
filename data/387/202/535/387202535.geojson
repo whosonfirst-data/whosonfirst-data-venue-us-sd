@@ -2,13 +2,14 @@
   "id": 387202535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702188,43.532851,-96.702188,43.532851",
     "geom:latitude":43.532851,
     "geom:longitude":-96.702188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 E 24th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387202535,
-    "wof:lastmodified":1449059426,
+    "wof:lastmodified":1467082753,
     "wof:name":"South Dakota Junior Football",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-96.702188,43.532851,-96.702188,43.532851],
-  "geometry": {"coordinates":[-96.702188,43.532851],"type":"Point"}
+  "bbox": [
+    -96.702188,
+    43.532851,
+    -96.702188,
+    43.532851
+],
+  "geometry": {"coordinates":[-96.70218800000001,43.532851],"type":"Point"}
 }

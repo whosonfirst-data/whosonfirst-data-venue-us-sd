@@ -2,13 +2,14 @@
   "id": 387877213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988625,44.522579,-98.988625,44.522579",
     "geom:latitude":44.522579,
     "geom:longitude":-98.988625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387877213,
-    "wof:lastmodified":1449058783,
+    "wof:lastmodified":1467082740,
     "wof:name":"Old Street Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.988625,44.522579,-98.988625,44.522579],
+  "bbox": [
+    -98.988625,
+    44.522579,
+    -98.988625,
+    44.522579
+],
   "geometry": {"coordinates":[-98.988625,44.522579],"type":"Point"}
 }

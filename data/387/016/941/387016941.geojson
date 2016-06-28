@@ -2,13 +2,14 @@
   "id": 387016941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.976742,43.388181,-96.976742,43.388181",
     "geom:latitude":43.388181,
     "geom:longitude":-96.976742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46163 276th St",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387016941,
-    "wof:lastmodified":1449056761,
+    "wof:lastmodified":1467082700,
     "wof:name":"Fred Haan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.976742,43.388181,-96.976742,43.388181],
+  "bbox": [
+    -96.976742,
+    43.388181,
+    -96.976742,
+    43.388181
+],
   "geometry": {"coordinates":[-96.976742,43.388181],"type":"Point"}
 }

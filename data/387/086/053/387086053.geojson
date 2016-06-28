@@ -2,13 +2,14 @@
   "id": 387086053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109563,44.899533,-97.109563,44.899533",
     "geom:latitude":44.899533,
     "geom:longitude":-97.109563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387086053,
-    "wof:lastmodified":1449058658,
+    "wof:lastmodified":1467082738,
     "wof:name":"Inter Lakes Community Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-97.109563,44.899533,-97.109563,44.899533],
-  "geometry": {"coordinates":[-97.109563,44.899533],"type":"Point"}
+  "bbox": [
+    -97.109563,
+    44.899533,
+    -97.109563,
+    44.899533
+],
+  "geometry": {"coordinates":[-97.10956299999999,44.899533],"type":"Point"}
 }

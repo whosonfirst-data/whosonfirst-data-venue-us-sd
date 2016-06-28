@@ -2,13 +2,14 @@
   "id": 371001277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.543322,43.111287,-97.543322,43.111287",
     "geom:latitude":43.111287,
     "geom:longitude":-97.543322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43283 295th St",
     "sg:city":"Lesterville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371001277,
-    "wof:lastmodified":1449049275,
+    "wof:lastmodified":1467082661,
     "wof:name":"Fischer Brothers Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.543322,43.111287,-97.543322,43.111287],
+  "bbox": [
+    -97.543322,
+    43.111287,
+    -97.543322,
+    43.111287
+],
   "geometry": {"coordinates":[-97.543322,43.111287],"type":"Point"}
 }

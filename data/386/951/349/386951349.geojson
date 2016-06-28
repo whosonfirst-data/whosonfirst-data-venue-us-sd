@@ -2,13 +2,14 @@
   "id": 386951349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746396,43.500268,-96.746396,43.500268",
     "geom:latitude":43.500268,
     "geom:longitude":-96.746396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 W 57th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386951349,
-    "wof:lastmodified":1449028633,
+    "wof:lastmodified":1467082649,
     "wof:name":"Gas Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.746396,43.500268,-96.746396,43.500268],
+  "bbox": [
+    -96.746396,
+    43.500268,
+    -96.746396,
+    43.500268
+],
   "geometry": {"coordinates":[-96.746396,43.500268],"type":"Point"}
 }

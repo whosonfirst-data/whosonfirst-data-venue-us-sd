@@ -2,13 +2,14 @@
   "id": 371062421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.099035,44.776627,-98.099035,44.776627",
     "geom:latitude":44.776627,
     "geom:longitude":-98.099035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18012 406th Ave",
     "sg:city":"Doland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371062421,
-    "wof:lastmodified":1449050080,
+    "wof:lastmodified":1467082672,
     "wof:name":"Laverne Weinreis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.099035,44.776627,-98.099035,44.776627],
+  "bbox": [
+    -98.099035,
+    44.776627,
+    -98.099035,
+    44.776627
+],
   "geometry": {"coordinates":[-98.099035,44.776627],"type":"Point"}
 }

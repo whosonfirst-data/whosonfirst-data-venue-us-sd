@@ -2,13 +2,14 @@
   "id": 386931633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.523063,44.023878,-98.523063,44.023878",
     "geom:latitude":44.023878,
     "geom:longitude":-98.523063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38458 232nd St",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386931633,
-    "wof:lastmodified":1449028952,
+    "wof:lastmodified":1467082655,
     "wof:name":"Foothills Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-98.523063,44.023878,-98.523063,44.023878],
-  "geometry": {"coordinates":[-98.523063,44.023878],"type":"Point"}
+  "bbox": [
+    -98.523063,
+    44.023878,
+    -98.523063,
+    44.023878
+],
+  "geometry": {"coordinates":[-98.52306299999999,44.023878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387107369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79332,43.432086,-96.79332,43.432086",
     "geom:latitude":43.432086,
     "geom:longitude":-96.79332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27296 Ironworks Ave",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387107369,
-    "wof:lastmodified":1449056129,
+    "wof:lastmodified":1467082687,
     "wof:name":"Top's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.79332,43.432086,-96.79332,43.432086],
-  "geometry": {"coordinates":[-96.79332,43.432086],"type":"Point"}
+  "bbox": [
+    -96.79332,
+    43.432086,
+    -96.79332,
+    43.432086
+],
+  "geometry": {"coordinates":[-96.79331999999999,43.432086],"type":"Point"}
 }

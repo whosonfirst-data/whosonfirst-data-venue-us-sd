@@ -2,13 +2,14 @@
   "id": 387123961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.806901,44.474497,-103.806901,44.474497",
     "geom:latitude":44.474497,
     "geom:longitude":-103.806901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 4th Ave",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387123961,
-    "wof:lastmodified":1449057241,
+    "wof:lastmodified":1467082709,
     "wof:name":"Mack's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "removal"
     ]
 },
-  "bbox": [-103.806901,44.474497,-103.806901,44.474497],
+  "bbox": [
+    -103.806901,
+    44.474497,
+    -103.806901,
+    44.474497
+],
   "geometry": {"coordinates":[-103.806901,44.474497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387594211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.89301,43.354367,-96.89301,43.354367",
     "geom:latitude":43.354367,
     "geom:longitude":-96.89301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W 2nd Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387594211,
-    "wof:lastmodified":1449056648,
+    "wof:lastmodified":1467082697,
     "wof:name":"Dover Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.89301,43.354367,-96.89301,43.354367],
+  "bbox": [
+    -96.89301,
+    43.354367,
+    -96.89301,
+    43.354367
+],
   "geometry": {"coordinates":[-96.89301,43.354367],"type":"Point"}
 }

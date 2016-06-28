@@ -2,13 +2,14 @@
   "id": 387474233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.716074,43.889747,-100.716074,43.889747",
     "geom:latitude":43.889747,
     "geom:longitude":-100.716074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 2nd St",
     "sg:city":"Murdo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387474233,
-    "wof:lastmodified":1449056280,
+    "wof:lastmodified":1467082690,
     "wof:name":"Murdo Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-100.716074,43.889747,-100.716074,43.889747],
-  "geometry": {"coordinates":[-100.716074,43.889747],"type":"Point"}
+  "bbox": [
+    -100.716074,
+    43.889747,
+    -100.716074,
+    43.889747
+],
+  "geometry": {"coordinates":[-100.71607400000001,43.889747],"type":"Point"}
 }

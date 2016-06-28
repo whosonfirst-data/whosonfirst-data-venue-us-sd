@@ -2,13 +2,14 @@
   "id": 387180435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120737,44.917418,-97.120737,44.917418",
     "geom:latitude":44.917418,
     "geom:longitude":-97.120737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Karen St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387180435,
-    "wof:lastmodified":1449056270,
+    "wof:lastmodified":1467082690,
     "wof:name":"Bullis Brothers Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pump"
     ]
 },
-  "bbox": [-97.120737,44.917418,-97.120737,44.917418],
-  "geometry": {"coordinates":[-97.120737,44.917418],"type":"Point"}
+  "bbox": [
+    -97.120737,
+    44.917418,
+    -97.120737,
+    44.917418
+],
+  "geometry": {"coordinates":[-97.12073700000001,44.917418],"type":"Point"}
 }

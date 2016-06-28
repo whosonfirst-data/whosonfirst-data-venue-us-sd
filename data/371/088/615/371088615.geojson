@@ -2,13 +2,14 @@
   "id": 371088615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.664709,43.550501,-96.664709,43.550501",
     "geom:latitude":43.550501,
     "geom:longitude":-96.664709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Marquette Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371088615,
-    "wof:lastmodified":1449049846,
+    "wof:lastmodified":1467082669,
     "wof:name":"Mr Ed Handyman",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.664709,43.550501,-96.664709,43.550501],
+  "bbox": [
+    -96.664709,
+    43.550501,
+    -96.664709,
+    43.550501
+],
   "geometry": {"coordinates":[-96.664709,43.550501],"type":"Point"}
 }

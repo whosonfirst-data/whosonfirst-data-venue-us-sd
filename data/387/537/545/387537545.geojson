@@ -2,13 +2,14 @@
   "id": 387537545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802025,43.526174,-96.802025,43.526174",
     "geom:latitude":43.526174,
     "geom:longitude":-96.802025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 S Acacia Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387537545,
-    "wof:lastmodified":1449057035,
+    "wof:lastmodified":1467082705,
     "wof:name":"AM Tech Automotive Equipment",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-96.802025,43.526174,-96.802025,43.526174],
+  "bbox": [
+    -96.802025,
+    43.526174,
+    -96.802025,
+    43.526174
+],
   "geometry": {"coordinates":[-96.802025,43.526174],"type":"Point"}
 }

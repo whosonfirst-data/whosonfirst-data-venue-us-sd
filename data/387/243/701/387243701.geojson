@@ -2,13 +2,14 @@
   "id": 387243701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.964438,43.408606,-96.964438,43.408606",
     "geom:latitude":43.408606,
     "geom:longitude":-96.964438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27459 462nd Ave",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387243701,
-    "wof:lastmodified":1449057335,
+    "wof:lastmodified":1467082711,
     "wof:name":"Kent Plucker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.964438,43.408606,-96.964438,43.408606],
+  "bbox": [
+    -96.964438,
+    43.408606,
+    -96.964438,
+    43.408606
+],
   "geometry": {"coordinates":[-96.964438,43.408606],"type":"Point"}
 }

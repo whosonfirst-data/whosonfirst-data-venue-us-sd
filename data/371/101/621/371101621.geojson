@@ -2,13 +2,14 @@
   "id": 371101621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.438513,45.460422,-98.438513,45.460422",
     "geom:latitude":45.460422,
     "geom:longitude":-98.438513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Centennial St S",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":371101621,
-    "wof:lastmodified":1449049592,
+    "wof:lastmodified":1467082666,
     "wof:name":"Americ Inn",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-98.438513,45.460422,-98.438513,45.460422],
+  "bbox": [
+    -98.438513,
+    45.460422,
+    -98.438513,
+    45.460422
+],
   "geometry": {"coordinates":[-98.438513,45.460422],"type":"Point"}
 }

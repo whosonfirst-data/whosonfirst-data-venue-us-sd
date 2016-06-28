@@ -2,13 +2,14 @@
   "id": 387894435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.352646,44.36966,-100.352646,44.36966",
     "geom:latitude":44.36966,
     "geom:longitude":-100.352646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Capitol Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387894435,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1467082718,
     "wof:name":"Div Of Emergency Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "order"
     ]
 },
-  "bbox": [-100.352646,44.36966,-100.352646,44.36966],
-  "geometry": {"coordinates":[-100.352646,44.36966],"type":"Point"}
+  "bbox": [
+    -100.352646,
+    44.36966,
+    -100.352646,
+    44.36966
+],
+  "geometry": {"coordinates":[-100.35264599999999,44.36966],"type":"Point"}
 }

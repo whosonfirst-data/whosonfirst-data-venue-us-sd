@@ -2,13 +2,14 @@
   "id": 387384377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79013,44.311543,-96.79013,44.311543",
     "geom:latitude":44.311543,
     "geom:longitude":-96.79013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387384377,
-    "wof:lastmodified":1449056580,
+    "wof:lastmodified":1467082696,
     "wof:name":"One of Four Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.79013,44.311543,-96.79013,44.311543],
+  "bbox": [
+    -96.79013,
+    44.311543,
+    -96.79013,
+    44.311543
+],
   "geometry": {"coordinates":[-96.79013,44.311543],"type":"Point"}
 }

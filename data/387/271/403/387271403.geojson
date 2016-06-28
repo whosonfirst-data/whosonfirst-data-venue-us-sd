@@ -2,13 +2,14 @@
   "id": 387271403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.505487,44.398145,-96.505487,44.398145",
     "geom:latitude":44.398145,
     "geom:longitude":-96.505487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48562 206th St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387271403,
-    "wof:lastmodified":1449058103,
+    "wof:lastmodified":1467082727,
     "wof:name":"Geuke Quarter Horses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-96.505487,44.398145,-96.505487,44.398145],
+  "bbox": [
+    -96.505487,
+    44.398145,
+    -96.505487,
+    44.398145
+],
   "geometry": {"coordinates":[-96.505487,44.398145],"type":"Point"}
 }

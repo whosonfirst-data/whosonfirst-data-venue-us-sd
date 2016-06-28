@@ -2,13 +2,14 @@
   "id": 387074053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.514959,44.87569,-98.514959,44.87569",
     "geom:latitude":44.87569,
     "geom:longitude":-98.514959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387074053,
-    "wof:lastmodified":1449058161,
+    "wof:lastmodified":1467082728,
     "wof:name":"Sd Career Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-98.514959,44.87569,-98.514959,44.87569],
+  "bbox": [
+    -98.514959,
+    44.87569,
+    -98.514959,
+    44.87569
+],
   "geometry": {"coordinates":[-98.514959,44.87569],"type":"Point"}
 }

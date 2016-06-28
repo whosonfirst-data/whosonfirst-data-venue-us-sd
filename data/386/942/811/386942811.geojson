@@ -2,13 +2,14 @@
   "id": 386942811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795348,44.30188,-96.795348,44.30188",
     "geom:latitude":44.30188,
     "geom:longitude":-96.795348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 6th Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":386942811,
-    "wof:lastmodified":1449028766,
+    "wof:lastmodified":1467082652,
     "wof:name":"De Beer Small Engine Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mower"
     ]
 },
-  "bbox": [-96.795348,44.30188,-96.795348,44.30188],
+  "bbox": [
+    -96.795348,
+    44.30188,
+    -96.795348,
+    44.30188
+],
   "geometry": {"coordinates":[-96.795348,44.30188],"type":"Point"}
 }

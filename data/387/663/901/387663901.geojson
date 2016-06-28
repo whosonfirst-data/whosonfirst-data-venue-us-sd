@@ -2,13 +2,14 @@
   "id": 387663901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.522013,44.416486,-103.522013,44.416486",
     "geom:latitude":44.416486,
     "geom:longitude":-103.522013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1835 Lazelle St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387663901,
-    "wof:lastmodified":1449058906,
+    "wof:lastmodified":1467082743,
     "wof:name":"Lazellele Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.522013,44.416486,-103.522013,44.416486],
+  "bbox": [
+    -103.522013,
+    44.416486,
+    -103.522013,
+    44.416486
+],
   "geometry": {"coordinates":[-103.522013,44.416486],"type":"Point"}
 }

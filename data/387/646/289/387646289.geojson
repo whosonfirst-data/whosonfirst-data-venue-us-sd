@@ -2,13 +2,14 @@
   "id": 387646289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214236,44.348048,-98.214236,44.348048",
     "geom:latitude":44.348048,
     "geom:longitude":-98.214236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1585 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387646289,
-    "wof:lastmodified":1449056023,
+    "wof:lastmodified":1467082685,
     "wof:name":"Fullerton Furniture Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214236,44.348048,-98.214236,44.348048],
+  "bbox": [
+    -98.214236,
+    44.348048,
+    -98.214236,
+    44.348048
+],
   "geometry": {"coordinates":[-98.214236,44.348048],"type":"Point"}
 }

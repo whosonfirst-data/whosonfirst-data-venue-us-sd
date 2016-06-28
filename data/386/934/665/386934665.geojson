@@ -2,13 +2,14 @@
   "id": 386934665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480654,43.429815,-103.480654,43.429815",
     "geom:latitude":43.429815,
     "geom:longitude":-103.480654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 University Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386934665,
-    "wof:lastmodified":1449028640,
+    "wof:lastmodified":1467082649,
     "wof:name":"Quailty Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-103.480654,43.429815,-103.480654,43.429815],
+  "bbox": [
+    -103.480654,
+    43.429815,
+    -103.480654,
+    43.429815
+],
   "geometry": {"coordinates":[-103.480654,43.429815],"type":"Point"}
 }

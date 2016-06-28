@@ -2,13 +2,14 @@
   "id": 387787199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025485,43.703423,-98.025485,43.703423",
     "geom:latitude":43.703423,
     "geom:longitude":-98.025485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 S Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387787199,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1467082721,
     "wof:name":"G T Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.025485,43.703423,-98.025485,43.703423],
+  "bbox": [
+    -98.025485,
+    43.703423,
+    -98.025485,
+    43.703423
+],
   "geometry": {"coordinates":[-98.025485,43.703423],"type":"Point"}
 }

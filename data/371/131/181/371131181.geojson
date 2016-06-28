@@ -2,13 +2,14 @@
   "id": 371131181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735632,43.544672,-96.735632,43.544672",
     "geom:latitude":43.544672,
     "geom:longitude":-96.735632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371131181,
-    "wof:lastmodified":1449049322,
+    "wof:lastmodified":1467082662,
     "wof:name":"Plaza 600 Apartments",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.735632,43.544672,-96.735632,43.544672],
+  "bbox": [
+    -96.735632,
+    43.544672,
+    -96.735632,
+    43.544672
+],
   "geometry": {"coordinates":[-96.735632,43.544672],"type":"Point"}
 }

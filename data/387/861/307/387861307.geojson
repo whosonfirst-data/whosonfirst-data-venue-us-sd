@@ -2,13 +2,14 @@
   "id": 387861307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.455714,45.455979,-98.455714,45.455979",
     "geom:latitude":45.455979,
     "geom:longitude":-98.455714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 S Park St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387861307,
-    "wof:lastmodified":1449059897,
+    "wof:lastmodified":1467082763,
     "wof:name":"Kirby Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-98.455714,45.455979,-98.455714,45.455979],
+  "bbox": [
+    -98.455714,
+    45.455979,
+    -98.455714,
+    45.455979
+],
   "geometry": {"coordinates":[-98.455714,45.455979],"type":"Point"}
 }

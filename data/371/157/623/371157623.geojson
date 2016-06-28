@@ -2,13 +2,14 @@
   "id": 371157623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217383,44.363741,-98.217383,44.363741",
     "geom:latitude":44.363741,
     "geom:longitude":-98.217383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Illinois Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371157623,
-    "wof:lastmodified":1449049992,
+    "wof:lastmodified":1467082671,
     "wof:name":"St Francis Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.217383,44.363741,-98.217383,44.363741],
+  "bbox": [
+    -98.217383,
+    44.363741,
+    -98.217383,
+    44.363741
+],
   "geometry": {"coordinates":[-98.217383,44.363741],"type":"Point"}
 }

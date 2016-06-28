@@ -2,13 +2,14 @@
   "id": 403802403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486139,45.477964,-98.486139,45.477964",
     "geom:latitude":45.477964,
     "geom:longitude":-98.486139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 12th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403802403,
-    "wof:lastmodified":1449055718,
+    "wof:lastmodified":1467082683,
     "wof:name":"William & Joyce Marshall",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.486139,45.477964,-98.486139,45.477964],
-  "geometry": {"coordinates":[-98.486139,45.477964],"type":"Point"}
+  "bbox": [
+    -98.486139,
+    45.477964,
+    -98.486139,
+    45.477964
+],
+  "geometry": {"coordinates":[-98.48613899999999,45.477964],"type":"Point"}
 }

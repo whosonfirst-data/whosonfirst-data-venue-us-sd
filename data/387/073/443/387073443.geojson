@@ -2,13 +2,14 @@
   "id": 387073443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.57372,43.522492,-96.57372,43.522492",
     "geom:latitude":43.522492,
     "geom:longitude":-96.57372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48185 State Hwy 42",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387073443,
-    "wof:lastmodified":1449056631,
+    "wof:lastmodified":1467082697,
     "wof:name":"Tilden's Floor Covering",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.57372,43.522492,-96.57372,43.522492],
-  "geometry": {"coordinates":[-96.57372,43.522492],"type":"Point"}
+  "bbox": [
+    -96.57372,
+    43.522492,
+    -96.57372,
+    43.522492
+],
+  "geometry": {"coordinates":[-96.57371999999999,43.522492],"type":"Point"}
 }

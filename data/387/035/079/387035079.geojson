@@ -2,13 +2,14 @@
   "id": 387035079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.225327,44.0785,-103.225327,44.0785",
     "geom:latitude":44.0785,
     "geom:longitude":-103.225327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387035079,
-    "wof:lastmodified":1449059186,
+    "wof:lastmodified":1467082748,
     "wof:name":"Rushmore Debt Management",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counseling"
     ]
 },
-  "bbox": [-103.225327,44.0785,-103.225327,44.0785],
-  "geometry": {"coordinates":[-103.225327,44.0785],"type":"Point"}
+  "bbox": [
+    -103.225327,
+    44.0785,
+    -103.225327,
+    44.0785
+],
+  "geometry": {"coordinates":[-103.22532699999999,44.0785],"type":"Point"}
 }

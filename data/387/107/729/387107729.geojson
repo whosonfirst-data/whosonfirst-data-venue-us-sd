@@ -2,13 +2,14 @@
   "id": 387107729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.548409,44.389788,-97.548409,44.389788",
     "geom:latitude":44.389788,
     "geom:longitude":-97.548409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Calumet Ave N",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387107729,
-    "wof:lastmodified":1449056128,
+    "wof:lastmodified":1467082687,
     "wof:name":"Gass Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.548409,44.389788,-97.548409,44.389788],
-  "geometry": {"coordinates":[-97.548409,44.389788],"type":"Point"}
+  "bbox": [
+    -97.548409,
+    44.389788,
+    -97.548409,
+    44.389788
+],
+  "geometry": {"coordinates":[-97.54840900000001,44.389788],"type":"Point"}
 }

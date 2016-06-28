@@ -2,13 +2,14 @@
   "id": 387388973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.812998,43.5316,-96.812998,43.5316",
     "geom:latitude":43.5316,
     "geom:longitude":-96.812998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 W Selkirk Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387388973,
-    "wof:lastmodified":1449056262,
+    "wof:lastmodified":1467082690,
     "wof:name":"Bormann Construction",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.812998,43.5316,-96.812998,43.5316],
-  "geometry": {"coordinates":[-96.812998,43.5316],"type":"Point"}
+  "bbox": [
+    -96.812998,
+    43.5316,
+    -96.812998,
+    43.5316
+],
+  "geometry": {"coordinates":[-96.81299799999999,43.5316],"type":"Point"}
 }

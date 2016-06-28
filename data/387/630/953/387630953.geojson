@@ -2,13 +2,14 @@
   "id": 387630953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.159268,45.94187,-102.159268,45.94187",
     "geom:latitude":45.94187,
     "geom:longitude":-102.159268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Main Ave",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387630953,
-    "wof:lastmodified":1449057458,
+    "wof:lastmodified":1467082714,
     "wof:name":"Jerrys Do It Best Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.159268,45.94187,-102.159268,45.94187],
+  "bbox": [
+    -102.159268,
+    45.94187,
+    -102.159268,
+    45.94187
+],
   "geometry": {"coordinates":[-102.159268,45.94187],"type":"Point"}
 }

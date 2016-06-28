@@ -2,13 +2,14 @@
   "id": 387741153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.804701,43.54396,-96.804701,43.54396",
     "geom:latitude":43.54396,
     "geom:longitude":-96.804701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6408 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387741153,
-    "wof:lastmodified":1449056320,
+    "wof:lastmodified":1467082691,
     "wof:name":"Overhead Door",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-96.804701,43.54396,-96.804701,43.54396],
-  "geometry": {"coordinates":[-96.804701,43.54396],"type":"Point"}
+  "bbox": [
+    -96.804701,
+    43.54396,
+    -96.804701,
+    43.54396
+],
+  "geometry": {"coordinates":[-96.80470099999999,43.54396],"type":"Point"}
 }

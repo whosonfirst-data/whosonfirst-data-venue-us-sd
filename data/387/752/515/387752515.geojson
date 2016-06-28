@@ -2,13 +2,14 @@
   "id": 387752515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704637,43.214179,-96.704637,43.214179",
     "geom:latitude":43.214179,
     "geom:longitude":-96.704637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47519 288th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387752515,
-    "wof:lastmodified":1449056738,
+    "wof:lastmodified":1467082699,
     "wof:name":"Randys Payloader Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.704637,43.214179,-96.704637,43.214179],
-  "geometry": {"coordinates":[-96.704637,43.214179],"type":"Point"}
+  "bbox": [
+    -96.704637,
+    43.214179,
+    -96.704637,
+    43.214179
+],
+  "geometry": {"coordinates":[-96.70463700000001,43.214179],"type":"Point"}
 }

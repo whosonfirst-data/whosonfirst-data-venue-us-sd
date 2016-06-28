@@ -2,13 +2,14 @@
   "id": 387510375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.672395,43.519608,-96.672395,43.519608",
     "geom:latitude":43.519608,
     "geom:longitude":-96.672395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4421 E 36th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387510375,
-    "wof:lastmodified":1449058394,
+    "wof:lastmodified":1467082733,
     "wof:name":"Mjk Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.672395,43.519608,-96.672395,43.519608],
-  "geometry": {"coordinates":[-96.672395,43.519608],"type":"Point"}
+  "bbox": [
+    -96.672395,
+    43.519608,
+    -96.672395,
+    43.519608
+],
+  "geometry": {"coordinates":[-96.67239499999999,43.519608],"type":"Point"}
 }

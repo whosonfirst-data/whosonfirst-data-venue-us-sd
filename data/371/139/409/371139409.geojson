@@ -2,13 +2,14 @@
   "id": 371139409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.855054,43.21269,-97.855054,43.21269",
     "geom:latitude":43.21269,
     "geom:longitude":-97.855054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28741 417th Ave",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371139409,
-    "wof:lastmodified":1449049125,
+    "wof:lastmodified":1467082659,
     "wof:name":"G & S Manufacturing & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.855054,43.21269,-97.855054,43.21269],
+  "bbox": [
+    -97.855054,
+    43.21269,
+    -97.855054,
+    43.21269
+],
   "geometry": {"coordinates":[-97.855054,43.21269],"type":"Point"}
 }

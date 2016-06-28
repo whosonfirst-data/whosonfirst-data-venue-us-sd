@@ -2,13 +2,14 @@
   "id": 403741085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.435392,45.537386,-100.435392,45.537386",
     "geom:latitude":45.537386,
     "geom:longitude":-100.435392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 1st Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403741085,
-    "wof:lastmodified":1449054697,
+    "wof:lastmodified":1467082675,
     "wof:name":"Lewellen Vitamins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.435392,45.537386,-100.435392,45.537386],
-  "geometry": {"coordinates":[-100.435392,45.537386],"type":"Point"}
+  "bbox": [
+    -100.435392,
+    45.537386,
+    -100.435392,
+    45.537386
+],
+  "geometry": {"coordinates":[-100.43539199999999,45.537386],"type":"Point"}
 }

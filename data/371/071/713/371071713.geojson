@@ -2,13 +2,14 @@
   "id": 371071713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136057,43.393587,-97.136057,43.393587",
     "geom:latitude":43.393587,
     "geom:longitude":-97.136057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 E Sanborn St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371071713,
-    "wof:lastmodified":1449049708,
+    "wof:lastmodified":1467082667,
     "wof:name":"Parker Senior Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "citizen"
     ]
 },
-  "bbox": [-97.136057,43.393587,-97.136057,43.393587],
-  "geometry": {"coordinates":[-97.136057,43.393587],"type":"Point"}
+  "bbox": [
+    -97.136057,
+    43.393587,
+    -97.136057,
+    43.393587
+],
+  "geometry": {"coordinates":[-97.13605699999999,43.393587],"type":"Point"}
 }

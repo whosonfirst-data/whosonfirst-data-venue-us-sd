@@ -2,13 +2,14 @@
   "id": 403774607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.214795,44.079028,-103.214795,44.079028",
     "geom:latitude":44.079028,
     "geom:longitude":-103.214795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 E Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403774607,
-    "wof:lastmodified":1449055152,
+    "wof:lastmodified":1467082679,
     "wof:name":"Country Time Ceramics Supply",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-103.214795,44.079028,-103.214795,44.079028],
+  "bbox": [
+    -103.214795,
+    44.079028,
+    -103.214795,
+    44.079028
+],
   "geometry": {"coordinates":[-103.214795,44.079028],"type":"Point"}
 }

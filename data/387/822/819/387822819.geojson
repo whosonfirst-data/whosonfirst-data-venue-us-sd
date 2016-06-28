@@ -2,13 +2,14 @@
   "id": 387822819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.01002,43.708464,-98.01002,43.708464",
     "geom:latitude":43.708464,
     "geom:longitude":-98.01002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Hanson St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387822819,
-    "wof:lastmodified":1449059802,
+    "wof:lastmodified":1467082761,
     "wof:name":"S P M Thermo-Shield Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-98.01002,43.708464,-98.01002,43.708464],
+  "bbox": [
+    -98.01002,
+    43.708464,
+    -98.01002,
+    43.708464
+],
   "geometry": {"coordinates":[-98.01002,43.708464],"type":"Point"}
 }

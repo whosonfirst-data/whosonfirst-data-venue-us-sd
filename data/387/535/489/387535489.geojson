@@ -2,13 +2,14 @@
   "id": 387535489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214148,44.379977,-98.214148,44.379977",
     "geom:latitude":44.379977,
     "geom:longitude":-98.214148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387535489,
-    "wof:lastmodified":1449056788,
+    "wof:lastmodified":1467082700,
     "wof:name":"Maintenance Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "generator"
     ]
 },
-  "bbox": [-98.214148,44.379977,-98.214148,44.379977],
-  "geometry": {"coordinates":[-98.214148,44.379977],"type":"Point"}
+  "bbox": [
+    -98.214148,
+    44.379977,
+    -98.214148,
+    44.379977
+],
+  "geometry": {"coordinates":[-98.21414799999999,44.379977],"type":"Point"}
 }

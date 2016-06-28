@@ -2,13 +2,14 @@
   "id": 371005435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.474372,45.085775,-97.474372,45.085775",
     "geom:latitude":45.085775,
     "geom:longitude":-97.474372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Main St",
     "sg:city":"Wallace",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371005435,
-    "wof:lastmodified":1449050060,
+    "wof:lastmodified":1467082672,
     "wof:name":"Keller Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-97.474372,45.085775,-97.474372,45.085775],
+  "bbox": [
+    -97.474372,
+    45.085775,
+    -97.474372,
+    45.085775
+],
   "geometry": {"coordinates":[-97.474372,45.085775],"type":"Point"}
 }

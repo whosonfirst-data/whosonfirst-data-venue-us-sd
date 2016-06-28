@@ -2,13 +2,14 @@
   "id": 387320585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.624833,43.814444,-102.624833,43.814444",
     "geom:latitude":43.814444,
     "geom:longitude":-102.624833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17160 Hart Table Rd",
     "sg:city":"Scenic",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387320585,
-    "wof:lastmodified":1449057065,
+    "wof:lastmodified":1467082706,
     "wof:name":"Ralph White",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.624833,43.814444,-102.624833,43.814444],
+  "bbox": [
+    -102.624833,
+    43.814444,
+    -102.624833,
+    43.814444
+],
   "geometry": {"coordinates":[-102.624833,43.814444],"type":"Point"}
 }

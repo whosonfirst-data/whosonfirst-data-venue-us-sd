@@ -2,13 +2,14 @@
   "id": 387448649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803479,43.543962,-96.803479,43.543962",
     "geom:latitude":43.543962,
     "geom:longitude":-96.803479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387448649,
-    "wof:lastmodified":1449059738,
+    "wof:lastmodified":1467082759,
     "wof:name":"Unclaimed Freight Furniture",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.803479,43.543962,-96.803479,43.543962],
+  "bbox": [
+    -96.803479,
+    43.543962,
+    -96.803479,
+    43.543962
+],
   "geometry": {"coordinates":[-96.803479,43.543962],"type":"Point"}
 }

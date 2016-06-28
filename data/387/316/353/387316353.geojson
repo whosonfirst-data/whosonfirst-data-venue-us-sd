@@ -2,13 +2,14 @@
   "id": 387316353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.302435,43.081594,-98.302435,43.081594",
     "geom:latitude":43.081594,
     "geom:longitude":-98.302435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 W Hwy 46",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387316353,
-    "wof:lastmodified":1449058684,
+    "wof:lastmodified":1467082738,
     "wof:name":"S & S Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.302435,43.081594,-98.302435,43.081594],
+  "bbox": [
+    -98.302435,
+    43.081594,
+    -98.302435,
+    43.081594
+],
   "geometry": {"coordinates":[-98.302435,43.081594],"type":"Point"}
 }

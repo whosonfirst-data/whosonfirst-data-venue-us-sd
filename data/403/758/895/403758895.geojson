@@ -2,13 +2,14 @@
   "id": 403758895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.777091,45.23967,-99.777091,45.23967",
     "geom:latitude":45.23967,
     "geom:longitude":-99.777091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Main St",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403758895,
-    "wof:lastmodified":1449055041,
+    "wof:lastmodified":1467082678,
     "wof:name":"St Anthonys Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.777091,45.23967,-99.777091,45.23967],
+  "bbox": [
+    -99.777091,
+    45.23967,
+    -99.777091,
+    45.23967
+],
   "geometry": {"coordinates":[-99.777091,45.23967],"type":"Point"}
 }

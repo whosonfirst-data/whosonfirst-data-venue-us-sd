@@ -2,13 +2,14 @@
   "id": 387101905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111227,44.899709,-97.111227,44.899709",
     "geom:latitude":44.899709,
     "geom:longitude":-97.111227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387101905,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1467082727,
     "wof:name":"Altus Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.111227,44.899709,-97.111227,44.899709],
+  "bbox": [
+    -97.111227,
+    44.899709,
+    -97.111227,
+    44.899709
+],
   "geometry": {"coordinates":[-97.111227,44.899709],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387671351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.292605,43.496178,-98.292605,43.496178",
     "geom:latitude":43.496178,
     "geom:longitude":-98.292605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26819 395th Ave",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387671351,
-    "wof:lastmodified":1449056985,
+    "wof:lastmodified":1467082704,
     "wof:name":"Don Tecklenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.292605,43.496178,-98.292605,43.496178],
-  "geometry": {"coordinates":[-98.292605,43.496178],"type":"Point"}
+  "bbox": [
+    -98.292605,
+    43.496178,
+    -98.292605,
+    43.496178
+],
+  "geometry": {"coordinates":[-98.29260499999999,43.496178],"type":"Point"}
 }

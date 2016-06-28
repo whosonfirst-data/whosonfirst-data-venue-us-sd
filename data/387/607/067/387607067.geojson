@@ -2,13 +2,14 @@
   "id": 387607067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.383541,43.719931,-97.383541,43.719931",
     "geom:latitude":43.719931,
     "geom:longitude":-97.383541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E Hollister Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387607067,
-    "wof:lastmodified":1449056606,
+    "wof:lastmodified":1467082697,
     "wof:name":"Dave Wickman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.383541,43.719931,-97.383541,43.719931],
-  "geometry": {"coordinates":[-97.383541,43.719931],"type":"Point"}
+  "bbox": [
+    -97.383541,
+    43.719931,
+    -97.383541,
+    43.719931
+],
+  "geometry": {"coordinates":[-97.38354099999999,43.719931],"type":"Point"}
 }

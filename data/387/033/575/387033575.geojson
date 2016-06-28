@@ -2,13 +2,14 @@
   "id": 387033575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.985826,43.394654,-97.985826,43.394654",
     "geom:latitude":43.394654,
     "geom:longitude":-97.985826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 E Main St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387033575,
-    "wof:lastmodified":1449056881,
+    "wof:lastmodified":1467082702,
     "wof:name":"Maxwell & Bowar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.985826,43.394654,-97.985826,43.394654],
+  "bbox": [
+    -97.985826,
+    43.394654,
+    -97.985826,
+    43.394654
+],
   "geometry": {"coordinates":[-97.985826,43.394654],"type":"Point"}
 }

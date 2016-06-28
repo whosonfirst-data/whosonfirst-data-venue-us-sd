@@ -2,13 +2,14 @@
   "id": 371074141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.792155,43.080282,-96.792155,43.080282",
     "geom:latitude":43.080282,
     "geom:longitude":-96.792155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 W Main St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371074141,
-    "wof:lastmodified":1449049610,
+    "wof:lastmodified":1467082666,
     "wof:name":"Henderson Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.792155,43.080282,-96.792155,43.080282],
-  "geometry": {"coordinates":[-96.792155,43.080282],"type":"Point"}
+  "bbox": [
+    -96.792155,
+    43.080282,
+    -96.792155,
+    43.080282
+],
+  "geometry": {"coordinates":[-96.79215499999999,43.080282],"type":"Point"}
 }

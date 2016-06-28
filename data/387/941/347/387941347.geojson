@@ -2,13 +2,14 @@
   "id": 387941347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769831,43.330384,-96.769831,43.330384",
     "geom:latitude":43.330384,
     "geom:longitude":-96.769831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Steven St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387941347,
-    "wof:lastmodified":1449058379,
+    "wof:lastmodified":1467082732,
     "wof:name":"Coome Custom Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-96.769831,43.330384,-96.769831,43.330384],
+  "bbox": [
+    -96.769831,
+    43.330384,
+    -96.769831,
+    43.330384
+],
   "geometry": {"coordinates":[-96.769831,43.330384],"type":"Point"}
 }

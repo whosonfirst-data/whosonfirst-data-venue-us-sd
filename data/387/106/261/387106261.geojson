@@ -2,13 +2,14 @@
   "id": 387106261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.567763,45.51795,-98.567763,45.51795",
     "geom:latitude":45.51795,
     "geom:longitude":-98.567763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38324 129th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387106261,
-    "wof:lastmodified":1449056059,
+    "wof:lastmodified":1467082686,
     "wof:name":"Al's Specialties",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "equipment"
     ]
 },
-  "bbox": [-98.567763,45.51795,-98.567763,45.51795],
+  "bbox": [
+    -98.567763,
+    45.51795,
+    -98.567763,
+    45.51795
+],
   "geometry": {"coordinates":[-98.567763,45.51795],"type":"Point"}
 }

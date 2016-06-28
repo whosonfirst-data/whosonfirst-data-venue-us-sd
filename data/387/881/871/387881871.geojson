@@ -2,13 +2,14 @@
   "id": 387881871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.836363,43.384175,-98.836363,43.384175",
     "geom:latitude":43.384175,
     "geom:longitude":-98.836363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 7th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387881871,
-    "wof:lastmodified":1449058310,
+    "wof:lastmodified":1467082731,
     "wof:name":"Platte Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.836363,43.384175,-98.836363,43.384175],
-  "geometry": {"coordinates":[-98.836363,43.384175],"type":"Point"}
+  "bbox": [
+    -98.836363,
+    43.384175,
+    -98.836363,
+    43.384175
+],
+  "geometry": {"coordinates":[-98.83636300000001,43.384175],"type":"Point"}
 }

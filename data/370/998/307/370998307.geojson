@@ -2,13 +2,14 @@
   "id": 370998307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.513851,45.338932,-97.513851,45.338932",
     "geom:latitude":45.338932,
     "geom:longitude":-97.513851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 E 13th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370998307,
-    "wof:lastmodified":1449030215,
+    "wof:lastmodified":1467082656,
     "wof:name":"Tim Kiefer Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.513851,45.338932,-97.513851,45.338932],
+  "bbox": [
+    -97.513851,
+    45.338932,
+    -97.513851,
+    45.338932
+],
   "geometry": {"coordinates":[-97.513851,45.338932],"type":"Point"}
 }

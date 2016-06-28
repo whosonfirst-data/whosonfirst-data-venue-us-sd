@@ -2,13 +2,14 @@
   "id": 387139847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.642583,44.326991,-96.642583,44.326991",
     "geom:latitude":44.326991,
     "geom:longitude":-96.642583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21091 1st Ave S",
     "sg:city":"Bushnell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387139847,
-    "wof:lastmodified":1449056469,
+    "wof:lastmodified":1467082694,
     "wof:name":"On Edge Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "studio"
     ]
 },
-  "bbox": [-96.642583,44.326991,-96.642583,44.326991],
+  "bbox": [
+    -96.642583,
+    44.326991,
+    -96.642583,
+    44.326991
+],
   "geometry": {"coordinates":[-96.642583,44.326991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403799959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.988941,44.508823,-99.988941,44.508823",
     "geom:latitude":44.508823,
     "geom:longitude":-99.988941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Lonetree Ave",
     "sg:city":"Blunt",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403799959,
-    "wof:lastmodified":1449055968,
+    "wof:lastmodified":1467082684,
     "wof:name":"Bourk & Hart Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.988941,44.508823,-99.988941,44.508823],
+  "bbox": [
+    -99.988941,
+    44.508823,
+    -99.988941,
+    44.508823
+],
   "geometry": {"coordinates":[-99.988941,44.508823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371071811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.858039,43.374499,-99.858039,43.374499",
     "geom:latitude":43.374499,
     "geom:longitude":-99.858039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 W 4th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371071811,
-    "wof:lastmodified":1449049706,
+    "wof:lastmodified":1467082667,
     "wof:name":"Tripp County Water Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sewage"
     ]
 },
-  "bbox": [-99.858039,43.374499,-99.858039,43.374499],
-  "geometry": {"coordinates":[-99.858039,43.374499],"type":"Point"}
+  "bbox": [
+    -99.858039,
+    43.374499,
+    -99.858039,
+    43.374499
+],
+  "geometry": {"coordinates":[-99.85803900000001,43.374499],"type":"Point"}
 }

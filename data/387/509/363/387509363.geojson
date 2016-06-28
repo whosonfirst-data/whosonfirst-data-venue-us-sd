@@ -2,13 +2,14 @@
   "id": 387509363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.25709,44.084669,-103.25709,44.084669",
     "geom:latitude":44.084669,
     "geom:longitude":-103.25709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 W Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387509363,
-    "wof:lastmodified":1449056274,
+    "wof:lastmodified":1467082690,
     "wof:name":"South Dakota Overhead Doors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "door"
     ]
 },
-  "bbox": [-103.25709,44.084669,-103.25709,44.084669],
-  "geometry": {"coordinates":[-103.25709,44.084669],"type":"Point"}
+  "bbox": [
+    -103.25709,
+    44.084669,
+    -103.25709,
+    44.084669
+],
+  "geometry": {"coordinates":[-103.25709000000001,44.084669],"type":"Point"}
 }

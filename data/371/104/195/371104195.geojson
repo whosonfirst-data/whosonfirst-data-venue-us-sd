@@ -2,13 +2,14 @@
   "id": 371104195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751649,44.304474,-96.751649,44.304474",
     "geom:latitude":44.304474,
     "geom:longitude":-96.751649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 32nd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371104195,
-    "wof:lastmodified":1449049451,
+    "wof:lastmodified":1467082664,
     "wof:name":"Winter Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "concrete"
     ]
 },
-  "bbox": [-96.751649,44.304474,-96.751649,44.304474],
+  "bbox": [
+    -96.751649,
+    44.304474,
+    -96.751649,
+    44.304474
+],
   "geometry": {"coordinates":[-96.751649,44.304474],"type":"Point"}
 }

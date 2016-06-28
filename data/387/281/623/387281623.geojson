@@ -2,13 +2,14 @@
   "id": 387281623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.746218,43.519474,-96.746218,43.519474",
     "geom:latitude":43.519474,
     "geom:longitude":-96.746218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 S West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387281623,
-    "wof:lastmodified":1449059347,
+    "wof:lastmodified":1467082752,
     "wof:name":"Janelle S Decorative Arts",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.746218,43.519474,-96.746218,43.519474],
+  "bbox": [
+    -96.746218,
+    43.519474,
+    -96.746218,
+    43.519474
+],
   "geometry": {"coordinates":[-96.746218,43.519474],"type":"Point"}
 }

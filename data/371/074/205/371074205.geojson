@@ -2,13 +2,14 @@
   "id": 371074205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.353503,44.366654,-100.353503,44.366654",
     "geom:latitude":44.366654,
     "geom:longitude":-100.353503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 E Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371074205,
-    "wof:lastmodified":1449049615,
+    "wof:lastmodified":1467082666,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "institute"
     ]
 },
-  "bbox": [-100.353503,44.366654,-100.353503,44.366654],
+  "bbox": [
+    -100.353503,
+    44.366654,
+    -100.353503,
+    44.366654
+],
   "geometry": {"coordinates":[-100.353503,44.366654],"type":"Point"}
 }

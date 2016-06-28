@@ -2,13 +2,14 @@
   "id": 387764759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771042,44.296841,-96.771042,44.296841",
     "geom:latitude":44.296841,
     "geom:longitude":-96.771042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 8th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387764759,
-    "wof:lastmodified":1449059741,
+    "wof:lastmodified":1467082759,
     "wof:name":"Brookings School District 5-1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.771042,44.296841,-96.771042,44.296841],
-  "geometry": {"coordinates":[-96.771042,44.296841],"type":"Point"}
+  "bbox": [
+    -96.771042,
+    44.296841,
+    -96.771042,
+    44.296841
+],
+  "geometry": {"coordinates":[-96.77104199999999,44.296841],"type":"Point"}
 }

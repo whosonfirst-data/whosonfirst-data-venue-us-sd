@@ -2,13 +2,14 @@
   "id": 387269899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.261617,43.422988,-97.261617,43.422988",
     "geom:latitude":43.422988,
     "geom:longitude":-97.261617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Florida St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387269899,
-    "wof:lastmodified":1449058498,
+    "wof:lastmodified":1467082735,
     "wof:name":"Walter Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.261617,43.422988,-97.261617,43.422988],
+  "bbox": [
+    -97.261617,
+    43.422988,
+    -97.261617,
+    43.422988
+],
   "geometry": {"coordinates":[-97.261617,43.422988],"type":"Point"}
 }

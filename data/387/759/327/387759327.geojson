@@ -2,13 +2,14 @@
   "id": 387759327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.521503,45.333103,-97.521503,45.333103",
     "geom:latitude":45.333103,
     "geom:longitude":-97.521503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W 1st St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387759327,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1467082764,
     "wof:name":"Circuit Court Judge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-97.521503,45.333103,-97.521503,45.333103],
+  "bbox": [
+    -97.521503,
+    45.333103,
+    -97.521503,
+    45.333103
+],
   "geometry": {"coordinates":[-97.521503,45.333103],"type":"Point"}
 }

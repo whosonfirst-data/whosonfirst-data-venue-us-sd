@@ -2,13 +2,14 @@
   "id": 387568725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.844576,43.376515,-99.844576,43.376515",
     "geom:latitude":43.376515,
     "geom:longitude":-99.844576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 E Hwy 44",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387568725,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1467082685,
     "wof:name":"Pheasant Finder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-99.844576,43.376515,-99.844576,43.376515],
+  "bbox": [
+    -99.844576,
+    43.376515,
+    -99.844576,
+    43.376515
+],
   "geometry": {"coordinates":[-99.844576,43.376515],"type":"Point"}
 }

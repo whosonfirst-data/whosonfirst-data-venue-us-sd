@@ -2,13 +2,14 @@
   "id": 387790131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798699,43.539603,-96.798699,43.539603",
     "geom:latitude":43.539603,
     "geom:longitude":-96.798699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5704 W Missouri St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387790131,
-    "wof:lastmodified":1449059022,
+    "wof:lastmodified":1467082745,
     "wof:name":"June's Exclusive Wigs",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-96.798699,43.539603,-96.798699,43.539603],
+  "bbox": [
+    -96.798699,
+    43.539603,
+    -96.798699,
+    43.539603
+],
   "geometry": {"coordinates":[-96.798699,43.539603],"type":"Point"}
 }

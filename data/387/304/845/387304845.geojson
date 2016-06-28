@@ -2,13 +2,14 @@
   "id": 387304845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.748576,45.343733,-97.748576,45.343733",
     "geom:latitude":45.343733,
     "geom:longitude":-97.748576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 3rd St S",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387304845,
-    "wof:lastmodified":1449058940,
+    "wof:lastmodified":1467082743,
     "wof:name":"Bristol School District 18-1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.748576,45.343733,-97.748576,45.343733],
+  "bbox": [
+    -97.748576,
+    45.343733,
+    -97.748576,
+    45.343733
+],
   "geometry": {"coordinates":[-97.748576,45.343733],"type":"Point"}
 }

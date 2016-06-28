@@ -2,13 +2,14 @@
   "id": 371143777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.253472,44.074071,-103.253472,44.074071",
     "geom:latitude":44.074071,
     "geom:longitude":-103.253472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371143777,
-    "wof:lastmodified":1449049940,
+    "wof:lastmodified":1467082671,
     "wof:name":"Jackson Boulevard Casino",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-103.253472,44.074071,-103.253472,44.074071],
+  "bbox": [
+    -103.253472,
+    44.074071,
+    -103.253472,
+    44.074071
+],
   "geometry": {"coordinates":[-103.253472,44.074071],"type":"Point"}
 }

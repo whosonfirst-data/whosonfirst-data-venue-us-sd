@@ -2,13 +2,14 @@
   "id": 387197333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763847,44.276125,-96.763847,44.276125",
     "geom:latitude":44.276125,
     "geom:longitude":-96.763847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Morgans Pass",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387197333,
-    "wof:lastmodified":1449059441,
+    "wof:lastmodified":1467082753,
     "wof:name":"Western Estates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "community"
     ]
 },
-  "bbox": [-96.763847,44.276125,-96.763847,44.276125],
+  "bbox": [
+    -96.763847,
+    44.276125,
+    -96.763847,
+    44.276125
+],
   "geometry": {"coordinates":[-96.763847,44.276125],"type":"Point"}
 }

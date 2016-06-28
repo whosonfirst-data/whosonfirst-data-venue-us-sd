@@ -2,13 +2,14 @@
   "id": 387649411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.551673,45.767134,-99.551673,45.767134",
     "geom:latitude":45.767134,
     "geom:longitude":-99.551673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33166 112th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387649411,
-    "wof:lastmodified":1449058703,
+    "wof:lastmodified":1467082739,
     "wof:name":"EMC Ag Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.551673,45.767134,-99.551673,45.767134],
-  "geometry": {"coordinates":[-99.551673,45.767134],"type":"Point"}
+  "bbox": [
+    -99.551673,
+    45.767134,
+    -99.551673,
+    45.767134
+],
+  "geometry": {"coordinates":[-99.55167299999999,45.767134],"type":"Point"}
 }

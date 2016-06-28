@@ -2,13 +2,14 @@
   "id": 387693859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.14024,44.89936,-97.14024,44.89936",
     "geom:latitude":44.89936,
     "geom:longitude":-97.14024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 3rd Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387693859,
-    "wof:lastmodified":1449056331,
+    "wof:lastmodified":1467082691,
     "wof:name":"Colony West Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.14024,44.89936,-97.14024,44.89936],
-  "geometry": {"coordinates":[-97.14024,44.89936],"type":"Point"}
+  "bbox": [
+    -97.14024,
+    44.89936,
+    -97.14024,
+    44.89936
+],
+  "geometry": {"coordinates":[-97.14024000000001,44.89936],"type":"Point"}
 }

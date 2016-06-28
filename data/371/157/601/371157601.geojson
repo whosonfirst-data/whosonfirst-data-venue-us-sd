@@ -2,13 +2,14 @@
   "id": 371157601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.542786,43.156195,-98.542786,43.156195",
     "geom:latitude":43.156195,
     "geom:longitude":-98.542786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Main St",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371157601,
-    "wof:lastmodified":1449049990,
+    "wof:lastmodified":1467082671,
     "wof:name":"Rural Office Of Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-98.542786,43.156195,-98.542786,43.156195],
-  "geometry": {"coordinates":[-98.542786,43.156195],"type":"Point"}
+  "bbox": [
+    -98.542786,
+    43.156195,
+    -98.542786,
+    43.156195
+],
+  "geometry": {"coordinates":[-98.54278600000001,43.156195],"type":"Point"}
 }

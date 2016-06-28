@@ -2,13 +2,14 @@
   "id": 387524509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.518243,44.877021,-98.518243,44.877021",
     "geom:latitude":44.877021,
     "geom:longitude":-98.518243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 E 6th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387524509,
-    "wof:lastmodified":1449056074,
+    "wof:lastmodified":1467082686,
     "wof:name":"Farmers Union Oil Co-CENEX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.518243,44.877021,-98.518243,44.877021],
+  "bbox": [
+    -98.518243,
+    44.877021,
+    -98.518243,
+    44.877021
+],
   "geometry": {"coordinates":[-98.518243,44.877021],"type":"Point"}
 }

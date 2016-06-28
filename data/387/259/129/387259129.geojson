@@ -2,13 +2,14 @@
   "id": 387259129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.095604,44.890063,-97.095604,44.890063",
     "geom:latitude":44.890063,
     "geom:longitude":-97.095604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387259129,
-    "wof:lastmodified":1449056977,
+    "wof:lastmodified":1467082704,
     "wof:name":"Rex T V & Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "electronic"
     ]
 },
-  "bbox": [-97.095604,44.890063,-97.095604,44.890063],
-  "geometry": {"coordinates":[-97.095604,44.890063],"type":"Point"}
+  "bbox": [
+    -97.095604,
+    44.890063,
+    -97.095604,
+    44.890063
+],
+  "geometry": {"coordinates":[-97.09560399999999,44.890063],"type":"Point"}
 }

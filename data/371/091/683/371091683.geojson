@@ -2,13 +2,14 @@
   "id": 371091683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.728104,43.172698,-101.728104,43.172698",
     "geom:latitude":43.172698,
     "geom:longitude":-101.728104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Ave D",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371091683,
-    "wof:lastmodified":1449049130,
+    "wof:lastmodified":1467082659,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-101.728104,43.172698,-101.728104,43.172698],
+  "bbox": [
+    -101.728104,
+    43.172698,
+    -101.728104,
+    43.172698
+],
   "geometry": {"coordinates":[-101.728104,43.172698],"type":"Point"}
 }

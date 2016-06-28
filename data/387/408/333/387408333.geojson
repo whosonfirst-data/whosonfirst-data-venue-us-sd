@@ -2,13 +2,14 @@
   "id": 387408333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733268,44.878855,-97.733268,44.878855",
     "geom:latitude":44.878855,
     "geom:longitude":-97.733268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387408333,
-    "wof:lastmodified":1449056580,
+    "wof:lastmodified":1467082696,
     "wof:name":"Hurley & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.733268,44.878855,-97.733268,44.878855],
+  "bbox": [
+    -97.733268,
+    44.878855,
+    -97.733268,
+    44.878855
+],
   "geometry": {"coordinates":[-97.733268,44.878855],"type":"Point"}
 }

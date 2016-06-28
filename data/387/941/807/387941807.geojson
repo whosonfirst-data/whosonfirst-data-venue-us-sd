@@ -2,13 +2,14 @@
   "id": 387941807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487961,45.460908,-98.487961,45.460908",
     "geom:latitude":45.460908,
     "geom:longitude":-98.487961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387941807,
-    "wof:lastmodified":1449058378,
+    "wof:lastmodified":1467082732,
     "wof:name":"Stamp Ladies Two",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stat"
     ]
 },
-  "bbox": [-98.487961,45.460908,-98.487961,45.460908],
+  "bbox": [
+    -98.487961,
+    45.460908,
+    -98.487961,
+    45.460908
+],
   "geometry": {"coordinates":[-98.487961,45.460908],"type":"Point"}
 }

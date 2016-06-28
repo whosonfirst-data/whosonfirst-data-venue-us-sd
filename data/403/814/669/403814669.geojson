@@ -2,13 +2,14 @@
   "id": 403814669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.701428,44.460912,-98.701428,44.460912",
     "geom:latitude":44.460912,
     "geom:longitude":-98.701428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20195 374th Ave",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403814669,
-    "wof:lastmodified":1449054873,
+    "wof:lastmodified":1467082676,
     "wof:name":"Blue Fire Mobile Dj Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.701428,44.460912,-98.701428,44.460912],
-  "geometry": {"coordinates":[-98.701428,44.460912],"type":"Point"}
+  "bbox": [
+    -98.701428,
+    44.460912,
+    -98.701428,
+    44.460912
+],
+  "geometry": {"coordinates":[-98.70142800000001,44.460912],"type":"Point"}
 }

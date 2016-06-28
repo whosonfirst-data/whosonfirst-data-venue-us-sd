@@ -2,13 +2,14 @@
   "id": 370999699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.499662,42.489815,-96.499662,42.489815",
     "geom:latitude":42.489815,
     "geom:longitude":-96.499662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"747 W Sawgrass Trl",
     "sg:city":"North Sioux City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370999699,
-    "wof:lastmodified":1449032051,
+    "wof:lastmodified":1467082658,
     "wof:name":"Doncaster Womens Designer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.499662,42.489815,-96.499662,42.489815],
+  "bbox": [
+    -96.499662,
+    42.489815,
+    -96.499662,
+    42.489815
+],
   "geometry": {"coordinates":[-96.499662,42.489815],"type":"Point"}
 }

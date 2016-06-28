@@ -2,13 +2,14 @@
   "id": 387533989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.139129,44.070375,-103.139129,44.070375",
     "geom:latitude":44.070375,
     "geom:longitude":-103.139129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Harding Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387533989,
-    "wof:lastmodified":1449056071,
+    "wof:lastmodified":1467082686,
     "wof:name":"West River Vw Club",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.139129,44.070375,-103.139129,44.070375],
+  "bbox": [
+    -103.139129,
+    44.070375,
+    -103.139129,
+    44.070375
+],
   "geometry": {"coordinates":[-103.139129,44.070375],"type":"Point"}
 }

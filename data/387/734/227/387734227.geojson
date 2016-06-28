@@ -2,13 +2,14 @@
   "id": 387734227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.458728,45.291405,-96.458728,45.291405",
     "geom:latitude":45.291405,
     "geom:longitude":-96.458728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Main St",
     "sg:city":"New Effington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387734227,
-    "wof:lastmodified":1449059437,
+    "wof:lastmodified":1467082753,
     "wof:name":"New Effington Vlntr Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "v"
     ]
 },
-  "bbox": [-96.458728,45.291405,-96.458728,45.291405],
-  "geometry": {"coordinates":[-96.458728,45.291405],"type":"Point"}
+  "bbox": [
+    -96.458728,
+    45.291405,
+    -96.458728,
+    45.291405
+],
+  "geometry": {"coordinates":[-96.45872799999999,45.291405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387147121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215768,44.102883,-103.215768,44.102883",
     "geom:latitude":44.102883,
     "geom:longitude":-103.215768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Knollwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387147121,
-    "wof:lastmodified":1449059501,
+    "wof:lastmodified":1467082755,
     "wof:name":"Oglala Lakota College",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.215768,44.102883,-103.215768,44.102883],
+  "bbox": [
+    -103.215768,
+    44.102883,
+    -103.215768,
+    44.102883
+],
   "geometry": {"coordinates":[-103.215768,44.102883],"type":"Point"}
 }

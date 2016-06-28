@@ -2,13 +2,14 @@
   "id": 403712063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.737955,45.100333,-98.737955,45.100333",
     "geom:latitude":45.100333,
     "geom:longitude":-98.737955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15795 372nd Ave",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403712063,
-    "wof:lastmodified":1449055202,
+    "wof:lastmodified":1467082679,
     "wof:name":"Donald Steward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.737955,45.100333,-98.737955,45.100333],
+  "bbox": [
+    -98.737955,
+    45.100333,
+    -98.737955,
+    45.100333
+],
   "geometry": {"coordinates":[-98.737955,45.100333],"type":"Point"}
 }

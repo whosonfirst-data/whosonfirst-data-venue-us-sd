@@ -2,13 +2,14 @@
   "id": 371155785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.009705,43.527,-97.009705,43.527",
     "geom:latitude":43.527,
     "geom:longitude":-97.009705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26612 460th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371155785,
-    "wof:lastmodified":1449049926,
+    "wof:lastmodified":1467082670,
     "wof:name":"American Business Forms",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-97.009705,43.527,-97.009705,43.527],
+  "bbox": [
+    -97.009705,
+    43.527,
+    -97.009705,
+    43.527
+],
   "geometry": {"coordinates":[-97.009705,43.527],"type":"Point"}
 }

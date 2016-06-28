@@ -2,13 +2,14 @@
   "id": 371116157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.46155,45.462116,-98.46155,45.462116",
     "geom:latitude":45.462116,
     "geom:longitude":-98.46155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":371116157,
-    "wof:lastmodified":1449049180,
+    "wof:lastmodified":1467082660,
     "wof:name":"Curt's Motor Sports",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "snowmobile"
     ]
 },
-  "bbox": [-98.46155,45.462116,-98.46155,45.462116],
+  "bbox": [
+    -98.46155,
+    45.462116,
+    -98.46155,
+    45.462116
+],
   "geometry": {"coordinates":[-98.46155,45.462116],"type":"Point"}
 }

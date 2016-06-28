@@ -2,13 +2,14 @@
   "id": 387952503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.663603,44.039368,-101.663603,44.039368",
     "geom:latitude":44.039368,
     "geom:longitude":-101.663603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Pine St",
     "sg:city":"Philip",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387952503,
-    "wof:lastmodified":1449058852,
+    "wof:lastmodified":1467082742,
     "wof:name":"Earl's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.663603,44.039368,-101.663603,44.039368],
-  "geometry": {"coordinates":[-101.663603,44.039368],"type":"Point"}
+  "bbox": [
+    -101.663603,
+    44.039368,
+    -101.663603,
+    44.039368
+],
+  "geometry": {"coordinates":[-101.66360299999999,44.039368],"type":"Point"}
 }

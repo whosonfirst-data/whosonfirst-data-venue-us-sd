@@ -2,13 +2,14 @@
   "id": 386942329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.092864,44.888509,-97.092864,44.888509",
     "geom:latitude":44.888509,
     "geom:longitude":-97.092864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 14th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386942329,
-    "wof:lastmodified":1449028764,
+    "wof:lastmodified":1467082652,
     "wof:name":"Max Rouse & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.092864,44.888509,-97.092864,44.888509],
-  "geometry": {"coordinates":[-97.092864,44.888509],"type":"Point"}
+  "bbox": [
+    -97.092864,
+    44.888509,
+    -97.092864,
+    44.888509
+],
+  "geometry": {"coordinates":[-97.09286400000001,44.888509],"type":"Point"}
 }

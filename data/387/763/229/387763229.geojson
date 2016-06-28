@@ -2,13 +2,14 @@
   "id": 387763229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.484407,45.446295,-98.484407,45.446295",
     "geom:latitude":45.446295,
     "geom:longitude":-98.484407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1724 Marshall Rd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387763229,
-    "wof:lastmodified":1449059907,
+    "wof:lastmodified":1467082763,
     "wof:name":"Windshield Doctor",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-98.484407,45.446295,-98.484407,45.446295],
+  "bbox": [
+    -98.484407,
+    45.446295,
+    -98.484407,
+    45.446295
+],
   "geometry": {"coordinates":[-98.484407,45.446295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386936669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.733696,44.173338,-99.733696,44.173338",
     "geom:latitude":44.173338,
     "geom:longitude":-99.733696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22154 Westbend Rd",
     "sg:city":"Harrold",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":386936669,
-    "wof:lastmodified":1449028724,
+    "wof:lastmodified":1467082651,
     "wof:name":"West Bend State Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.733696,44.173338,-99.733696,44.173338],
-  "geometry": {"coordinates":[-99.733696,44.173338],"type":"Point"}
+  "bbox": [
+    -99.733696,
+    44.173338,
+    -99.733696,
+    44.173338
+],
+  "geometry": {"coordinates":[-99.73369599999999,44.173338],"type":"Point"}
 }

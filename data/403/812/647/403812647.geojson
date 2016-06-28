@@ -2,13 +2,14 @@
   "id": 403812647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.561575,45.254581,-96.561575,45.254581",
     "geom:latitude":45.254581,
     "geom:longitude":-96.561575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48175 147th St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403812647,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1467082674,
     "wof:name":"Exhaust Pro of Milbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "install"
     ]
 },
-  "bbox": [-96.561575,45.254581,-96.561575,45.254581],
+  "bbox": [
+    -96.561575,
+    45.254581,
+    -96.561575,
+    45.254581
+],
   "geometry": {"coordinates":[-96.561575,45.254581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403738075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.383824,42.902154,-97.383824,42.902154",
     "geom:latitude":42.902154,
     "geom:longitude":-97.383824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Regal Dr",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403738075,
-    "wof:lastmodified":1449055583,
+    "wof:lastmodified":1467082682,
     "wof:name":"Karttrax Go-Kart & Amusement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.383824,42.902154,-97.383824,42.902154],
+  "bbox": [
+    -97.383824,
+    42.902154,
+    -97.383824,
+    42.902154
+],
   "geometry": {"coordinates":[-97.383824,42.902154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371051347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.280613,44.052562,-103.280613,44.052562",
     "geom:latitude":44.052562,
     "geom:longitude":-103.280613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3615 Winners Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371051347,
-    "wof:lastmodified":1449049682,
+    "wof:lastmodified":1467082667,
     "wof:name":"Lois E Owens",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-103.280613,44.052562,-103.280613,44.052562],
+  "bbox": [
+    -103.280613,
+    44.052562,
+    -103.280613,
+    44.052562
+],
   "geometry": {"coordinates":[-103.280613,44.052562],"type":"Point"}
 }

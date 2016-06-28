@@ -2,13 +2,14 @@
   "id": 387443139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271307,44.103988,-103.271307,44.103988",
     "geom:latitude":44.103988,
     "geom:longitude":-103.271307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387443139,
-    "wof:lastmodified":1449059216,
+    "wof:lastmodified":1467082749,
     "wof:name":"Beka Corp",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.271307,44.103988,-103.271307,44.103988],
-  "geometry": {"coordinates":[-103.271307,44.103988],"type":"Point"}
+  "bbox": [
+    -103.271307,
+    44.103988,
+    -103.271307,
+    44.103988
+],
+  "geometry": {"coordinates":[-103.27130699999999,44.103988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386955269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747126,43.556811,-96.747126,43.556811",
     "geom:latitude":43.556811,
     "geom:longitude":-96.747126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386955269,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1467082653,
     "wof:name":"Imagination Design Studio",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-96.747126,43.556811,-96.747126,43.556811],
-  "geometry": {"coordinates":[-96.747126,43.556811],"type":"Point"}
+  "bbox": [
+    -96.747126,
+    43.556811,
+    -96.747126,
+    43.556811
+],
+  "geometry": {"coordinates":[-96.74712599999999,43.556811],"type":"Point"}
 }

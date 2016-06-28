@@ -2,13 +2,14 @@
   "id": 371106671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.248786,43.806736,-102.248786,43.806736",
     "geom:latitude":43.806736,
     "geom:longitude":-102.248786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19051 Huether Rd",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371106671,
-    "wof:lastmodified":1449049052,
+    "wof:lastmodified":1467082658,
     "wof:name":"Huether Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.248786,43.806736,-102.248786,43.806736],
+  "bbox": [
+    -102.248786,
+    43.806736,
+    -102.248786,
+    43.806736
+],
   "geometry": {"coordinates":[-102.248786,43.806736],"type":"Point"}
 }

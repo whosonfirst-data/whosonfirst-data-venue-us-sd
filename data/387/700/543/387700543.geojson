@@ -2,13 +2,14 @@
   "id": 387700543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75141,43.692033,-96.75141,43.692033",
     "geom:latitude":43.692033,
     "geom:longitude":-96.75141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25467 473rd Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387700543,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1467082756,
     "wof:name":"Heartland Arabians",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stable"
     ]
 },
-  "bbox": [-96.75141,43.692033,-96.75141,43.692033],
-  "geometry": {"coordinates":[-96.75141,43.692033],"type":"Point"}
+  "bbox": [
+    -96.75141,
+    43.692033,
+    -96.75141,
+    43.692033
+],
+  "geometry": {"coordinates":[-96.75141000000001,43.692033],"type":"Point"}
 }

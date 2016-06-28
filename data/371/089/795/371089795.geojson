@@ -2,13 +2,14 @@
   "id": 371089795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.887196,43.954005,-98.887196,43.954005",
     "geom:latitude":43.954005,
     "geom:longitude":-98.887196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23668 365th Ave",
     "sg:city":"Kimball",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371089795,
-    "wof:lastmodified":1449049253,
+    "wof:lastmodified":1467082661,
     "wof:name":"Ed Havlik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.887196,43.954005,-98.887196,43.954005],
+  "bbox": [
+    -98.887196,
+    43.954005,
+    -98.887196,
+    43.954005
+],
   "geometry": {"coordinates":[-98.887196,43.954005],"type":"Point"}
 }

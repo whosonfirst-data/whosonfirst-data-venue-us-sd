@@ -2,13 +2,14 @@
   "id": 387312485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.280401,44.087105,-103.280401,44.087105",
     "geom:latitude":44.087105,
     "geom:longitude":-103.280401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3645 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387312485,
-    "wof:lastmodified":1449058030,
+    "wof:lastmodified":1467082725,
     "wof:name":"FUNTURE MART",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-103.280401,44.087105,-103.280401,44.087105],
+  "bbox": [
+    -103.280401,
+    44.087105,
+    -103.280401,
+    44.087105
+],
   "geometry": {"coordinates":[-103.280401,44.087105],"type":"Point"}
 }

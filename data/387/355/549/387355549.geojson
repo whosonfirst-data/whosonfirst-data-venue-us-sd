@@ -2,13 +2,14 @@
   "id": 387355549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.930471,42.779484,-96.930471,42.779484",
     "geom:latitude":42.779484,
     "geom:longitude":-96.930471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Main St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387355549,
-    "wof:lastmodified":1449057161,
+    "wof:lastmodified":1467082707,
     "wof:name":"Reed Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.930471,42.779484,-96.930471,42.779484],
+  "bbox": [
+    -96.930471,
+    42.779484,
+    -96.930471,
+    42.779484
+],
   "geometry": {"coordinates":[-96.930471,42.779484],"type":"Point"}
 }

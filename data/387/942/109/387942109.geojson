@@ -2,13 +2,14 @@
   "id": 387942109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.156885,44.062284,-103.156885,44.062284",
     "geom:latitude":44.062284,
     "geom:longitude":-103.156885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3782 E Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387942109,
-    "wof:lastmodified":1449057838,
+    "wof:lastmodified":1467082721,
     "wof:name":"D & M Ag Supply Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "feed"
     ]
 },
-  "bbox": [-103.156885,44.062284,-103.156885,44.062284],
+  "bbox": [
+    -103.156885,
+    44.062284,
+    -103.156885,
+    44.062284
+],
   "geometry": {"coordinates":[-103.156885,44.062284],"type":"Point"}
 }

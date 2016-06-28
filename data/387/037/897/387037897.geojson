@@ -2,13 +2,14 @@
   "id": 387037897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.488011,43.434286,-103.488011,43.434286",
     "geom:latitude":43.434286,
     "geom:longitude":-103.488011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Wilson Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387037897,
-    "wof:lastmodified":1449059988,
+    "wof:lastmodified":1467082765,
     "wof:name":"Robert Kleinsasser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.488011,43.434286,-103.488011,43.434286],
+  "bbox": [
+    -103.488011,
+    43.434286,
+    -103.488011,
+    43.434286
+],
   "geometry": {"coordinates":[-103.488011,43.434286],"type":"Point"}
 }

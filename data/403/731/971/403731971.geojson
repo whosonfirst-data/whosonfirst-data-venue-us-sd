@@ -2,13 +2,14 @@
   "id": 403731971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728007,43.547246,-96.728007,43.547246",
     "geom:latitude":43.547246,
     "geom:longitude":-96.728007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 W 9th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403731971,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1467082683,
     "wof:name":"US West Interact",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.728007,43.547246,-96.728007,43.547246],
-  "geometry": {"coordinates":[-96.728007,43.547246],"type":"Point"}
+  "bbox": [
+    -96.728007,
+    43.547246,
+    -96.728007,
+    43.547246
+],
+  "geometry": {"coordinates":[-96.72800700000001,43.547246],"type":"Point"}
 }

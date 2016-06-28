@@ -2,13 +2,14 @@
   "id": 371058985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.985155,44.518343,-98.985155,44.518343",
     "geom:latitude":44.518343,
     "geom:longitude":-98.985155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 E 3rd St",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371058985,
-    "wof:lastmodified":1449049182,
+    "wof:lastmodified":1467082660,
     "wof:name":"Spencer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-98.985155,44.518343,-98.985155,44.518343],
-  "geometry": {"coordinates":[-98.985155,44.518343],"type":"Point"}
+  "bbox": [
+    -98.985155,
+    44.518343,
+    -98.985155,
+    44.518343
+],
+  "geometry": {"coordinates":[-98.98515500000001,44.518343],"type":"Point"}
 }

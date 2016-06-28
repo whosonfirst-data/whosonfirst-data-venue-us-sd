@@ -2,13 +2,14 @@
   "id": 371049735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101497,42.994687,-97.101497,42.994687",
     "geom:latitude":42.994687,
     "geom:longitude":-97.101497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30310 455th Ave",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371049735,
-    "wof:lastmodified":1449049547,
+    "wof:lastmodified":1467082665,
     "wof:name":"C & N Peterson Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.101497,42.994687,-97.101497,42.994687],
-  "geometry": {"coordinates":[-97.101497,42.994687],"type":"Point"}
+  "bbox": [
+    -97.101497,
+    42.994687,
+    -97.101497,
+    42.994687
+],
+  "geometry": {"coordinates":[-97.10149699999999,42.994687],"type":"Point"}
 }

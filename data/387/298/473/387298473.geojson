@@ -2,13 +2,14 @@
   "id": 387298473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856601,43.376502,-99.856601,43.376502",
     "geom:latitude":43.376502,
     "geom:longitude":-99.856601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 E 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387298473,
-    "wof:lastmodified":1449057128,
+    "wof:lastmodified":1467082707,
     "wof:name":"Classic Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-99.856601,43.376502,-99.856601,43.376502],
+  "bbox": [
+    -99.856601,
+    43.376502,
+    -99.856601,
+    43.376502
+],
   "geometry": {"coordinates":[-99.856601,43.376502],"type":"Point"}
 }

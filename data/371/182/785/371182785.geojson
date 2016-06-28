@@ -2,13 +2,14 @@
   "id": 371182785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.50912,44.4117,-103.50912,44.4117",
     "geom:latitude":44.4117,
     "geom:longitude":-103.50912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Douglas St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371182785,
-    "wof:lastmodified":1449049724,
+    "wof:lastmodified":1467082668,
     "wof:name":"American Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.50912,44.4117,-103.50912,44.4117],
+  "bbox": [
+    -103.50912,
+    44.4117,
+    -103.50912,
+    44.4117
+],
   "geometry": {"coordinates":[-103.50912,44.4117],"type":"Point"}
 }

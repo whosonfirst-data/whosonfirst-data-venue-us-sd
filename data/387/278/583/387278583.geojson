@@ -2,13 +2,14 @@
   "id": 387278583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731267,43.563645,-96.731267,43.563645",
     "geom:latitude":43.563645,
     "geom:longitude":-96.731267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387278583,
-    "wof:lastmodified":1449058214,
+    "wof:lastmodified":1467082729,
     "wof:name":"You'Re The Boss",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-96.731267,43.563645,-96.731267,43.563645],
+  "bbox": [
+    -96.731267,
+    43.563645,
+    -96.731267,
+    43.563645
+],
   "geometry": {"coordinates":[-96.731267,43.563645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387439761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768334,43.501104,-96.768334,43.501104",
     "geom:latitude":43.501104,
     "geom:longitude":-96.768334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4909 S Tennis Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387439761,
-    "wof:lastmodified":1449057150,
+    "wof:lastmodified":1467082707,
     "wof:name":"B A Ebert Heating & Air Cond",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.768334,43.501104,-96.768334,43.501104],
+  "bbox": [
+    -96.768334,
+    43.501104,
+    -96.768334,
+    43.501104
+],
   "geometry": {"coordinates":[-96.768334,43.501104],"type":"Point"}
 }

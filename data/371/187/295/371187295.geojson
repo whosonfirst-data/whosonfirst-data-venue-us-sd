@@ -2,13 +2,14 @@
   "id": 371187295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806583,43.513554,-96.806583,43.513554",
     "geom:latitude":43.513554,
     "geom:longitude":-96.806583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W 43rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371187295,
-    "wof:lastmodified":1449049190,
+    "wof:lastmodified":1467082660,
     "wof:name":"Regency Place",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "skilled"
     ]
 },
-  "bbox": [-96.806583,43.513554,-96.806583,43.513554],
+  "bbox": [
+    -96.806583,
+    43.513554,
+    -96.806583,
+    43.513554
+],
   "geometry": {"coordinates":[-96.806583,43.513554],"type":"Point"}
 }

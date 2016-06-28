@@ -2,13 +2,14 @@
   "id": 387120509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.719686,44.383111,-103.719686,44.383111",
     "geom:latitude":44.383111,
     "geom:longitude":-103.719686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Dunlop Ave",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387120509,
-    "wof:lastmodified":1449059376,
+    "wof:lastmodified":1467082752,
     "wof:name":"3s Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-103.719686,44.383111,-103.719686,44.383111],
+  "bbox": [
+    -103.719686,
+    44.383111,
+    -103.719686,
+    44.383111
+],
   "geometry": {"coordinates":[-103.719686,44.383111],"type":"Point"}
 }

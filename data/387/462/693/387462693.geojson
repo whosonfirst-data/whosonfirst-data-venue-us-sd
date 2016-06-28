@@ -2,13 +2,14 @@
   "id": 387462693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.282274,44.079981,-103.282274,44.079981",
     "geom:latitude":44.079981,
     "geom:longitude":-103.282274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 Reder St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387462693,
-    "wof:lastmodified":1449059766,
+    "wof:lastmodified":1467082760,
     "wof:name":"Midland National Life Insur Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.282274,44.079981,-103.282274,44.079981],
+  "bbox": [
+    -103.282274,
+    44.079981,
+    -103.282274,
+    44.079981
+],
   "geometry": {"coordinates":[-103.282274,44.079981],"type":"Point"}
 }

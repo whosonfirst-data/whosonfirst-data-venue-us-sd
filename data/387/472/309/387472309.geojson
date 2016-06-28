@@ -2,13 +2,14 @@
   "id": 387472309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.285108,43.598029,-97.285108,43.598029",
     "geom:latitude":43.598029,
     "geom:longitude":-97.285108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Main St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387472309,
-    "wof:lastmodified":1449056406,
+    "wof:lastmodified":1467082693,
     "wof:name":"Cameron Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.285108,43.598029,-97.285108,43.598029],
-  "geometry": {"coordinates":[-97.285108,43.598029],"type":"Point"}
+  "bbox": [
+    -97.285108,
+    43.598029,
+    -97.285108,
+    43.598029
+],
+  "geometry": {"coordinates":[-97.28510799999999,43.598029],"type":"Point"}
 }

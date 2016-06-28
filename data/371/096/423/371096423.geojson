@@ -2,13 +2,14 @@
   "id": 371096423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.100253,44.013768,-97.100253,44.013768",
     "geom:latitude":44.013768,
     "geom:longitude":-97.100253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Jennifer St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371096423,
-    "wof:lastmodified":1449049339,
+    "wof:lastmodified":1467082662,
     "wof:name":"Southlake Holdings LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-97.100253,44.013768,-97.100253,44.013768],
+  "bbox": [
+    -97.100253,
+    44.013768,
+    -97.100253,
+    44.013768
+],
   "geometry": {"coordinates":[-97.100253,44.013768],"type":"Point"}
 }

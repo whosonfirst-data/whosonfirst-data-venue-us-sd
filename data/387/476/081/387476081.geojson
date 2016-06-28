@@ -2,13 +2,14 @@
   "id": 387476081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.486415,45.47893,-98.486415,45.47893",
     "geom:latitude":45.47893,
     "geom:longitude":-98.486415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 N Lincoln St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387476081,
-    "wof:lastmodified":1449057645,
+    "wof:lastmodified":1467082718,
     "wof:name":"JAS Properties LLC",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-98.486415,45.47893,-98.486415,45.47893],
-  "geometry": {"coordinates":[-98.486415,45.47893],"type":"Point"}
+  "bbox": [
+    -98.486415,
+    45.47893,
+    -98.486415,
+    45.47893
+],
+  "geometry": {"coordinates":[-98.48641499999999,45.47893],"type":"Point"}
 }

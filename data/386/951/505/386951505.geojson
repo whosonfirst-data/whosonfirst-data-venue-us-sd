@@ -2,13 +2,14 @@
   "id": 386951505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.768414,44.348945,-103.768414,44.348945",
     "geom:latitude":44.348945,
     "geom:longitude":-103.768414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 W McClellan St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386951505,
-    "wof:lastmodified":1449028635,
+    "wof:lastmodified":1467082649,
     "wof:name":"R&D Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.768414,44.348945,-103.768414,44.348945],
-  "geometry": {"coordinates":[-103.768414,44.348945],"type":"Point"}
+  "bbox": [
+    -103.768414,
+    44.348945,
+    -103.768414,
+    44.348945
+],
+  "geometry": {"coordinates":[-103.76841400000001,44.348945],"type":"Point"}
 }

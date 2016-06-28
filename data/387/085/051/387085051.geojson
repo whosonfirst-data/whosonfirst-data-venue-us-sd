@@ -2,13 +2,14 @@
   "id": 387085051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48812,45.457033,-98.48812,45.457033",
     "geom:latitude":45.457033,
     "geom:longitude":-98.48812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387085051,
-    "wof:lastmodified":1449057058,
+    "wof:lastmodified":1467082705,
     "wof:name":"Yelduz Shrine Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-98.48812,45.457033,-98.48812,45.457033],
+  "bbox": [
+    -98.48812,
+    45.457033,
+    -98.48812,
+    45.457033
+],
   "geometry": {"coordinates":[-98.48812,45.457033],"type":"Point"}
 }

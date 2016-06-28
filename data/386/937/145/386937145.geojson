@@ -2,13 +2,14 @@
   "id": 386937145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.658928,43.41707,-96.658928,43.41707",
     "geom:latitude":43.41707,
     "geom:longitude":-96.658928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47746 274th St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":386937145,
-    "wof:lastmodified":1449028678,
+    "wof:lastmodified":1467082650,
     "wof:name":"GRPROMO.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.658928,43.41707,-96.658928,43.41707],
+  "bbox": [
+    -96.658928,
+    43.41707,
+    -96.658928,
+    43.41707
+],
   "geometry": {"coordinates":[-96.658928,43.41707],"type":"Point"}
 }

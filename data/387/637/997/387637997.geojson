@@ -2,13 +2,14 @@
   "id": 387637997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.512529,44.415634,-103.512529,44.415634",
     "geom:latitude":44.415634,
     "geom:longitude":-103.512529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Lazelle St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387637997,
-    "wof:lastmodified":1449056114,
+    "wof:lastmodified":1467082687,
     "wof:name":"Lynn's Dakotamart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-103.512529,44.415634,-103.512529,44.415634],
+  "bbox": [
+    -103.512529,
+    44.415634,
+    -103.512529,
+    44.415634
+],
   "geometry": {"coordinates":[-103.512529,44.415634],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387020011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044486,45.664705,-97.044486,45.664705",
     "geom:latitude":45.664705,
     "geom:longitude":-97.044486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Oak St E",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387020011,
-    "wof:lastmodified":1449057880,
+    "wof:lastmodified":1467082722,
     "wof:name":"Grace Lutheran Chr Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.044486,45.664705,-97.044486,45.664705],
-  "geometry": {"coordinates":[-97.044486,45.664705],"type":"Point"}
+  "bbox": [
+    -97.044486,
+    45.664705,
+    -97.044486,
+    45.664705
+],
+  "geometry": {"coordinates":[-97.04448600000001,45.664705],"type":"Point"}
 }

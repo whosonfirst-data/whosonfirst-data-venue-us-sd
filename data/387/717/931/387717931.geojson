@@ -2,13 +2,14 @@
   "id": 387717931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.734952,44.875263,-97.734952,44.875263",
     "geom:latitude":44.875263,
     "geom:longitude":-97.734952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Smith St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387717931,
-    "wof:lastmodified":1449056223,
+    "wof:lastmodified":1467082689,
     "wof:name":"Saint Paul Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.734952,44.875263,-97.734952,44.875263],
-  "geometry": {"coordinates":[-97.734952,44.875263],"type":"Point"}
+  "bbox": [
+    -97.734952,
+    44.875263,
+    -97.734952,
+    44.875263
+],
+  "geometry": {"coordinates":[-97.73495200000001,44.875263],"type":"Point"}
 }

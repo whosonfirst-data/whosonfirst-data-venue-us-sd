@@ -2,13 +2,14 @@
   "id": 371195245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767719,43.574602,-96.767719,43.574602",
     "geom:latitude":43.574602,
     "geom:longitude":-96.767719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371195245,
-    "wof:lastmodified":1449049751,
+    "wof:lastmodified":1467082668,
     "wof:name":"Transport Refrigeration Of Sd",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.767719,43.574602,-96.767719,43.574602],
+  "bbox": [
+    -96.767719,
+    43.574602,
+    -96.767719,
+    43.574602
+],
   "geometry": {"coordinates":[-96.767719,43.574602],"type":"Point"}
 }

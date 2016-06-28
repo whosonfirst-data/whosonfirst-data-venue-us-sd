@@ -2,13 +2,14 @@
   "id": 386941197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.775863,44.351368,-103.775863,44.351368",
     "geom:latitude":44.351368,
     "geom:longitude":-103.775863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Terraville Ave",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386941197,
-    "wof:lastmodified":1449028813,
+    "wof:lastmodified":1467082652,
     "wof:name":"Firestone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.775863,44.351368,-103.775863,44.351368],
+  "bbox": [
+    -103.775863,
+    44.351368,
+    -103.775863,
+    44.351368
+],
   "geometry": {"coordinates":[-103.775863,44.351368],"type":"Point"}
 }

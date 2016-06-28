@@ -2,13 +2,14 @@
   "id": 387849605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.108183,44.894427,-97.108183,44.894427",
     "geom:latitude":44.894427,
     "geom:longitude":-97.108183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 5th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387849605,
-    "wof:lastmodified":1449056798,
+    "wof:lastmodified":1467082700,
     "wof:name":"Blessings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.108183,44.894427,-97.108183,44.894427],
+  "bbox": [
+    -97.108183,
+    44.894427,
+    -97.108183,
+    44.894427
+],
   "geometry": {"coordinates":[-97.108183,44.894427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387299179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795299,44.303158,-96.795299,44.303158",
     "geom:latitude":44.303158,
     "geom:longitude":-96.795299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 6th Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387299179,
-    "wof:lastmodified":1449057072,
+    "wof:lastmodified":1467082706,
     "wof:name":"Apostolic Lighthouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.795299,44.303158,-96.795299,44.303158],
+  "bbox": [
+    -96.795299,
+    44.303158,
+    -96.795299,
+    44.303158
+],
   "geometry": {"coordinates":[-96.795299,44.303158],"type":"Point"}
 }

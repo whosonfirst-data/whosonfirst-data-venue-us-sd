@@ -2,13 +2,14 @@
   "id": 387967249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844833,43.388128,-98.844833,43.388128",
     "geom:latitude":43.388128,
     "geom:longitude":-98.844833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387967249,
-    "wof:lastmodified":1449059637,
+    "wof:lastmodified":1467082757,
     "wof:name":"Lone Tree Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.844833,43.388128,-98.844833,43.388128],
-  "geometry": {"coordinates":[-98.844833,43.388128],"type":"Point"}
+  "bbox": [
+    -98.844833,
+    43.388128,
+    -98.844833,
+    43.388128
+],
+  "geometry": {"coordinates":[-98.84483299999999,43.388128],"type":"Point"}
 }

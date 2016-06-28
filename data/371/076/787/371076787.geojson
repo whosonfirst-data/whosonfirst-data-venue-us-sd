@@ -2,13 +2,14 @@
   "id": 371076787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.324183,44.153594,-103.324183,44.153594",
     "geom:latitude":44.153594,
     "geom:longitude":-103.324183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7005 Timberline Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371076787,
-    "wof:lastmodified":1449049864,
+    "wof:lastmodified":1467082669,
     "wof:name":"Timberline Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.324183,44.153594,-103.324183,44.153594],
+  "bbox": [
+    -103.324183,
+    44.153594,
+    -103.324183,
+    44.153594
+],
   "geometry": {"coordinates":[-103.324183,44.153594],"type":"Point"}
 }

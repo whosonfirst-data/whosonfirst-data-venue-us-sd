@@ -2,13 +2,14 @@
   "id": 387660111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.948297,45.013425,-99.948297,45.013425",
     "geom:latitude":45.013425,
     "geom:longitude":-99.948297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 E Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387660111,
-    "wof:lastmodified":1449059523,
+    "wof:lastmodified":1467082755,
     "wof:name":"Community Care Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-99.948297,45.013425,-99.948297,45.013425],
+  "bbox": [
+    -99.948297,
+    45.013425,
+    -99.948297,
+    45.013425
+],
   "geometry": {"coordinates":[-99.948297,45.013425],"type":"Point"}
 }

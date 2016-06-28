@@ -2,13 +2,14 @@
   "id": 371176799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215422,44.052246,-103.215422,44.052246",
     "geom:latitude":44.052246,
     "geom:longitude":-103.215422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Cypress Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371176799,
-    "wof:lastmodified":1449049745,
+    "wof:lastmodified":1467082668,
     "wof:name":"Rusty's Taxidermy",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxidermist"
     ]
 },
-  "bbox": [-103.215422,44.052246,-103.215422,44.052246],
+  "bbox": [
+    -103.215422,
+    44.052246,
+    -103.215422,
+    44.052246
+],
   "geometry": {"coordinates":[-103.215422,44.052246],"type":"Point"}
 }

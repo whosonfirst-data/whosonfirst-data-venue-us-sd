@@ -2,13 +2,14 @@
   "id": 371067619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.574285,44.088796,-98.574285,44.088796",
     "geom:latitude":44.088796,
     "geom:longitude":-98.574285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 College Ave N",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371067619,
-    "wof:lastmodified":1449049104,
+    "wof:lastmodified":1467082659,
     "wof:name":"Wessington Springs Pump House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.574285,44.088796,-98.574285,44.088796],
+  "bbox": [
+    -98.574285,
+    44.088796,
+    -98.574285,
+    44.088796
+],
   "geometry": {"coordinates":[-98.574285,44.088796],"type":"Point"}
 }

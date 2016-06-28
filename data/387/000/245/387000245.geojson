@@ -2,13 +2,14 @@
   "id": 387000245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731239,43.566703,-96.731239,43.566703",
     "geom:latitude":43.566703,
     "geom:longitude":-96.731239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387000245,
-    "wof:lastmodified":1449056713,
+    "wof:lastmodified":1467082699,
     "wof:name":"Heartland Sod Farm",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sodding"
     ]
 },
-  "bbox": [-96.731239,43.566703,-96.731239,43.566703],
+  "bbox": [
+    -96.731239,
+    43.566703,
+    -96.731239,
+    43.566703
+],
   "geometry": {"coordinates":[-96.731239,43.566703],"type":"Point"}
 }

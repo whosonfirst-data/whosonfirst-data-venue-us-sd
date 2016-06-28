@@ -2,13 +2,14 @@
   "id": 387208021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.704252,43.439685,-96.704252,43.439685",
     "geom:latitude":43.439685,
     "geom:longitude":-96.704252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Enterprise St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387208021,
-    "wof:lastmodified":1449056553,
+    "wof:lastmodified":1467082696,
     "wof:name":"Showplace Kitchens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.704252,43.439685,-96.704252,43.439685],
+  "bbox": [
+    -96.704252,
+    43.439685,
+    -96.704252,
+    43.439685
+],
   "geometry": {"coordinates":[-96.704252,43.439685],"type":"Point"}
 }

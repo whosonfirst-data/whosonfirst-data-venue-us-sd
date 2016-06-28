@@ -2,13 +2,14 @@
   "id": 371006285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.344848,43.324745,-98.344848,43.324745",
     "geom:latitude":43.324745,
     "geom:longitude":-98.344848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 Braddock St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371006285,
-    "wof:lastmodified":1449049878,
+    "wof:lastmodified":1467082670,
     "wof:name":"Prairie Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.344848,43.324745,-98.344848,43.324745],
+  "bbox": [
+    -98.344848,
+    43.324745,
+    -98.344848,
+    43.324745
+],
   "geometry": {"coordinates":[-98.344848,43.324745],"type":"Point"}
 }

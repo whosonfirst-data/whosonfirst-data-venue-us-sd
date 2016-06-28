@@ -2,13 +2,14 @@
   "id": 387877535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.095222,44.890135,-97.095222,44.890135",
     "geom:latitude":44.890135,
     "geom:longitude":-97.095222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1331 9th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387877535,
-    "wof:lastmodified":1449058783,
+    "wof:lastmodified":1467082740,
     "wof:name":"Quality Lenders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "business"
     ]
 },
-  "bbox": [-97.095222,44.890135,-97.095222,44.890135],
-  "geometry": {"coordinates":[-97.095222,44.890135],"type":"Point"}
+  "bbox": [
+    -97.095222,
+    44.890135,
+    -97.095222,
+    44.890135
+],
+  "geometry": {"coordinates":[-97.09522200000001,44.890135],"type":"Point"}
 }

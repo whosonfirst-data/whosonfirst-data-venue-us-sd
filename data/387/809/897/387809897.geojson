@@ -2,13 +2,14 @@
   "id": 387809897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733344,44.873702,-97.733344,44.873702",
     "geom:latitude":44.873702,
     "geom:longitude":-97.733344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387809897,
-    "wof:lastmodified":1449059242,
+    "wof:lastmodified":1467082749,
     "wof:name":"Hanson & Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.733344,44.873702,-97.733344,44.873702],
+  "bbox": [
+    -97.733344,
+    44.873702,
+    -97.733344,
+    44.873702
+],
   "geometry": {"coordinates":[-97.733344,44.873702],"type":"Point"}
 }

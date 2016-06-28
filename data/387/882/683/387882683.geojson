@@ -2,13 +2,14 @@
   "id": 387882683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743807,43.539251,-96.743807,43.539251",
     "geom:latitude":43.539251,
     "geom:longitude":-96.743807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 S Covell Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387882683,
-    "wof:lastmodified":1449056780,
+    "wof:lastmodified":1467082700,
     "wof:name":"New Vision International Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.743807,43.539251,-96.743807,43.539251],
+  "bbox": [
+    -96.743807,
+    43.539251,
+    -96.743807,
+    43.539251
+],
   "geometry": {"coordinates":[-96.743807,43.539251],"type":"Point"}
 }

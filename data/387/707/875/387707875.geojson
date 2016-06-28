@@ -2,13 +2,14 @@
   "id": 387707875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856923,43.380547,-99.856923,43.380547",
     "geom:latitude":43.380547,
     "geom:longitude":-99.856923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 N Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387707875,
-    "wof:lastmodified":1449059328,
+    "wof:lastmodified":1467082751,
     "wof:name":"Picture Perfect Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-99.856923,43.380547,-99.856923,43.380547],
-  "geometry": {"coordinates":[-99.856923,43.380547],"type":"Point"}
+  "bbox": [
+    -99.856923,
+    43.380547,
+    -99.856923,
+    43.380547
+],
+  "geometry": {"coordinates":[-99.85692299999999,43.380547],"type":"Point"}
 }

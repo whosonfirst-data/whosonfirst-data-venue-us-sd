@@ -2,13 +2,14 @@
   "id": 371031437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.430755,43.232772,-99.430755,43.232772",
     "geom:latitude":43.232772,
     "geom:longitude":-99.430755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Main St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371031437,
-    "wof:lastmodified":1449049411,
+    "wof:lastmodified":1467082663,
     "wof:name":"Bank West Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.430755,43.232772,-99.430755,43.232772],
+  "bbox": [
+    -99.430755,
+    43.232772,
+    -99.430755,
+    43.232772
+],
   "geometry": {"coordinates":[-99.430755,43.232772],"type":"Point"}
 }

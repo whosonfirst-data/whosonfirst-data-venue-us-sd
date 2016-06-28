@@ -2,13 +2,14 @@
   "id": 403809817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.546664,44.426492,-103.546664,44.426492",
     "geom:latitude":44.426492,
     "geom:longitude":-103.546664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Oak Dr",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403809817,
-    "wof:lastmodified":1449055729,
+    "wof:lastmodified":1467082683,
     "wof:name":"Commercial & Fine Art Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.546664,44.426492,-103.546664,44.426492],
-  "geometry": {"coordinates":[-103.546664,44.426492],"type":"Point"}
+  "bbox": [
+    -103.546664,
+    44.426492,
+    -103.546664,
+    44.426492
+],
+  "geometry": {"coordinates":[-103.54666400000001,44.426492],"type":"Point"}
 }

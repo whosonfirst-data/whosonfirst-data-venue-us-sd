@@ -2,13 +2,14 @@
   "id": 403824399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.4659,45.462098,-98.4659,45.462098",
     "geom:latitude":45.462098,
     "geom:longitude":-98.4659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403824399,
-    "wof:lastmodified":1449055097,
+    "wof:lastmodified":1467082678,
     "wof:name":"Rose Janitorial",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-98.4659,45.462098,-98.4659,45.462098],
+  "bbox": [
+    -98.4659,
+    45.462098,
+    -98.4659,
+    45.462098
+],
   "geometry": {"coordinates":[-98.4659,45.462098],"type":"Point"}
 }

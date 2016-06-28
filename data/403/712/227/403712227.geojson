@@ -2,13 +2,14 @@
   "id": 403712227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.231992,44.07736,-103.231992,44.07736",
     "geom:latitude":44.07736,
     "geom:longitude":-103.231992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Columbus St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403712227,
-    "wof:lastmodified":1449055206,
+    "wof:lastmodified":1467082679,
     "wof:name":"Lycia A Scott MD",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-103.231992,44.07736,-103.231992,44.07736],
-  "geometry": {"coordinates":[-103.231992,44.07736],"type":"Point"}
+  "bbox": [
+    -103.231992,
+    44.07736,
+    -103.231992,
+    44.07736
+],
+  "geometry": {"coordinates":[-103.23199200000001,44.07736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387247641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.729461,45.453363,-98.729461,45.453363",
     "geom:latitude":45.453363,
     "geom:longitude":-98.729461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Nesbitt Dr",
     "sg:city":"Mina",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387247641,
-    "wof:lastmodified":1449058335,
+    "wof:lastmodified":1467082731,
     "wof:name":"Phillips Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.729461,45.453363,-98.729461,45.453363],
+  "bbox": [
+    -98.729461,
+    45.453363,
+    -98.729461,
+    45.453363
+],
   "geometry": {"coordinates":[-98.729461,45.453363],"type":"Point"}
 }

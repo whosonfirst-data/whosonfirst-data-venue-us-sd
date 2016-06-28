@@ -2,13 +2,14 @@
   "id": 387711995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.195233,45.437698,-99.195233,45.437698",
     "geom:latitude":45.437698,
     "geom:longitude":-99.195233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13458 350th Ave",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387711995,
-    "wof:lastmodified":1449059225,
+    "wof:lastmodified":1467082749,
     "wof:name":"Bruce L Opp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-99.195233,45.437698,-99.195233,45.437698],
+  "bbox": [
+    -99.195233,
+    45.437698,
+    -99.195233,
+    45.437698
+],
   "geometry": {"coordinates":[-99.195233,45.437698],"type":"Point"}
 }

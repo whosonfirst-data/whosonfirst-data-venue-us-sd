@@ -2,13 +2,14 @@
   "id": 387136483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.339208,45.304947,-99.339208,45.304947",
     "geom:latitude":45.304947,
     "geom:longitude":-99.339208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14349 342nd Ave",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387136483,
-    "wof:lastmodified":1449059863,
+    "wof:lastmodified":1467082762,
     "wof:name":"Clayton H Geist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.339208,45.304947,-99.339208,45.304947],
+  "bbox": [
+    -99.339208,
+    45.304947,
+    -99.339208,
+    45.304947
+],
   "geometry": {"coordinates":[-99.339208,45.304947],"type":"Point"}
 }

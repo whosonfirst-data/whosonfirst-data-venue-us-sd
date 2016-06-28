@@ -2,13 +2,14 @@
   "id": 387903349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.938,44.51749,-98.938,44.51749",
     "geom:latitude":44.51749,
     "geom:longitude":-98.938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Commercial Ave",
     "sg:city":"St Lawrence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387903349,
-    "wof:lastmodified":1449056338,
+    "wof:lastmodified":1467082691,
     "wof:name":"Willie's Bar & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.938,44.51749,-98.938,44.51749],
+  "bbox": [
+    -98.938,
+    44.51749,
+    -98.938,
+    44.51749
+],
   "geometry": {"coordinates":[-98.938,44.51749],"type":"Point"}
 }

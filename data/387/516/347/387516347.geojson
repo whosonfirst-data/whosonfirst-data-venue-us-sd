@@ -2,13 +2,14 @@
   "id": 387516347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.52018,45.328038,-97.52018,45.328038",
     "geom:latitude":45.328038,
     "geom:longitude":-97.52018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Main St",
     "sg:city":"New Effington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387516347,
-    "wof:lastmodified":1449056829,
+    "wof:lastmodified":1467082701,
     "wof:name":"Four Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-97.52018,45.328038,-97.52018,45.328038],
+  "bbox": [
+    -97.52018,
+    45.328038,
+    -97.52018,
+    45.328038
+],
   "geometry": {"coordinates":[-97.52018,45.328038],"type":"Point"}
 }

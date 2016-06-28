@@ -2,13 +2,14 @@
   "id": 387970579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.402585,45.864756,-98.402585,45.864756",
     "geom:latitude":45.864756,
     "geom:longitude":-98.402585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39159 105th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387970579,
-    "wof:lastmodified":1449059854,
+    "wof:lastmodified":1467082762,
     "wof:name":"Wolter Randal",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.402585,45.864756,-98.402585,45.864756],
+  "bbox": [
+    -98.402585,
+    45.864756,
+    -98.402585,
+    45.864756
+],
   "geometry": {"coordinates":[-98.402585,45.864756],"type":"Point"}
 }

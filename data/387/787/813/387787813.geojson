@@ -2,13 +2,14 @@
   "id": 387787813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.340808,43.799686,-99.340808,43.799686",
     "geom:latitude":43.799686,
     "geom:longitude":-99.340808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Sioux Dr",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387787813,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1467082721,
     "wof:name":"Brule Buffalo County News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-99.340808,43.799686,-99.340808,43.799686],
+  "bbox": [
+    -99.340808,
+    43.799686,
+    -99.340808,
+    43.799686
+],
   "geometry": {"coordinates":[-99.340808,43.799686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403808497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928673,45.10562,-96.928673,45.10562",
     "geom:latitude":45.10562,
     "geom:longitude":-96.928673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Main St",
     "sg:city":"South Shore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403808497,
-    "wof:lastmodified":1449054684,
+    "wof:lastmodified":1467082675,
     "wof:name":"Meyer's Recreation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.928673,45.10562,-96.928673,45.10562],
+  "bbox": [
+    -96.928673,
+    45.10562,
+    -96.928673,
+    45.10562
+],
   "geometry": {"coordinates":[-96.928673,45.10562],"type":"Point"}
 }

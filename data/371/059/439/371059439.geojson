@@ -2,13 +2,14 @@
   "id": 371059439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191574,44.119828,-103.191574,44.119828",
     "geom:latitude":44.119828,
     "geom:longitude":-103.191574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3490 143rd Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371059439,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467082661,
     "wof:name":"Day & Night Plumbing",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.191574,44.119828,-103.191574,44.119828],
+  "bbox": [
+    -103.191574,
+    44.119828,
+    -103.191574,
+    44.119828
+],
   "geometry": {"coordinates":[-103.191574,44.119828],"type":"Point"}
 }

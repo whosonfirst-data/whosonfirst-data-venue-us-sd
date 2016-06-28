@@ -2,13 +2,14 @@
   "id": 371059739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.991632,44.519327,-98.991632,44.519327",
     "geom:latitude":44.519327,
     "geom:longitude":-98.991632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 W 4th St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371059739,
-    "wof:lastmodified":1449049293,
+    "wof:lastmodified":1467082661,
     "wof:name":"De Geest Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.991632,44.519327,-98.991632,44.519327],
+  "bbox": [
+    -98.991632,
+    44.519327,
+    -98.991632,
+    44.519327
+],
   "geometry": {"coordinates":[-98.991632,44.519327],"type":"Point"}
 }

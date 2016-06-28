@@ -2,13 +2,14 @@
   "id": 387940019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.114516,44.90032,-97.114516,44.90032",
     "geom:latitude":44.90032,
     "geom:longitude":-97.114516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 S Broadway",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387940019,
-    "wof:lastmodified":1449057032,
+    "wof:lastmodified":1467082705,
     "wof:name":"Next Door Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-97.114516,44.90032,-97.114516,44.90032],
-  "geometry": {"coordinates":[-97.114516,44.90032],"type":"Point"}
+  "bbox": [
+    -97.114516,
+    44.90032,
+    -97.114516,
+    44.90032
+],
+  "geometry": {"coordinates":[-97.11451599999999,44.90032],"type":"Point"}
 }

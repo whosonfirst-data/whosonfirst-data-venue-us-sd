@@ -2,13 +2,14 @@
   "id": 387582333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709886,43.495623,-96.709886,43.495623",
     "geom:latitude":43.495623,
     "geom:longitude":-96.709886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 E Jenny Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387582333,
-    "wof:lastmodified":1449058158,
+    "wof:lastmodified":1467082728,
     "wof:name":"American Environmental Pest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.709886,43.495623,-96.709886,43.495623],
+  "bbox": [
+    -96.709886,
+    43.495623,
+    -96.709886,
+    43.495623
+],
   "geometry": {"coordinates":[-96.709886,43.495623],"type":"Point"}
 }

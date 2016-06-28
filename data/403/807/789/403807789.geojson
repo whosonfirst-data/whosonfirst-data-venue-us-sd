@@ -2,13 +2,14 @@
   "id": 403807789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986954,43.478266,-97.986954,43.478266",
     "geom:latitude":43.478266,
     "geom:longitude":-97.986954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S King St",
     "sg:city":"Dimock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403807789,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1467082677,
     "wof:name":"Gerald Wisner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.986954,43.478266,-97.986954,43.478266],
+  "bbox": [
+    -97.986954,
+    43.478266,
+    -97.986954,
+    43.478266
+],
   "geometry": {"coordinates":[-97.986954,43.478266],"type":"Point"}
 }

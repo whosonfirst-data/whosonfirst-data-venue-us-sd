@@ -2,13 +2,14 @@
   "id": 387659201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.062663,43.701975,-98.062663,43.701975",
     "geom:latitude":43.701975,
     "geom:longitude":-98.062663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 W Havens St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387659201,
-    "wof:lastmodified":1449056518,
+    "wof:lastmodified":1467082695,
     "wof:name":"Ellefson Implement Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "implement"
     ]
 },
-  "bbox": [-98.062663,43.701975,-98.062663,43.701975],
+  "bbox": [
+    -98.062663,
+    43.701975,
+    -98.062663,
+    43.701975
+],
   "geometry": {"coordinates":[-98.062663,43.701975],"type":"Point"}
 }

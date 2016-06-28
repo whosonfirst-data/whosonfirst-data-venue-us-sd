@@ -2,13 +2,14 @@
   "id": 371034911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.012161,43.710578,-98.012161,43.710578",
     "geom:latitude":43.710578,
     "geom:longitude":-98.012161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E 2nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371034911,
-    "wof:lastmodified":1449049142,
+    "wof:lastmodified":1467082659,
     "wof:name":"Old World Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.012161,43.710578,-98.012161,43.710578],
-  "geometry": {"coordinates":[-98.012161,43.710578],"type":"Point"}
+  "bbox": [
+    -98.012161,
+    43.710578,
+    -98.012161,
+    43.710578
+],
+  "geometry": {"coordinates":[-98.01216100000001,43.710578],"type":"Point"}
 }

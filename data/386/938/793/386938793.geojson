@@ -2,13 +2,14 @@
   "id": 386938793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.98847,44.518211,-98.98847,44.518211",
     "geom:latitude":44.518211,
     "geom:longitude":-98.98847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 E 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386938793,
-    "wof:lastmodified":1449028871,
+    "wof:lastmodified":1467082653,
     "wof:name":"Hand County Abstract & Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.98847,44.518211,-98.98847,44.518211],
-  "geometry": {"coordinates":[-98.98847,44.518211],"type":"Point"}
+  "bbox": [
+    -98.98847,
+    44.518211,
+    -98.98847,
+    44.518211
+],
+  "geometry": {"coordinates":[-98.98847000000001,44.518211],"type":"Point"}
 }

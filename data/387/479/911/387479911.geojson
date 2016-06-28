@@ -2,13 +2,14 @@
   "id": 387479911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.685137,43.505315,-96.685137,43.505315",
     "geom:latitude":43.505315,
     "geom:longitude":-96.685137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 E Dudley Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387479911,
-    "wof:lastmodified":1449058713,
+    "wof:lastmodified":1467082739,
     "wof:name":"Holy Spirit Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-96.685137,43.505315,-96.685137,43.505315],
+  "bbox": [
+    -96.685137,
+    43.505315,
+    -96.685137,
+    43.505315
+],
   "geometry": {"coordinates":[-96.685137,43.505315],"type":"Point"}
 }

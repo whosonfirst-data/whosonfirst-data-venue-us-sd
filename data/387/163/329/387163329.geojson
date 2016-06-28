@@ -2,13 +2,14 @@
   "id": 387163329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.241964,43.993516,-102.241964,43.993516",
     "geom:latitude":43.993516,
     "geom:longitude":-102.241964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Main St",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387163329,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1467082761,
     "wof:name":"Pennington Sheriffs Office",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-102.241964,43.993516,-102.241964,43.993516],
+  "bbox": [
+    -102.241964,
+    43.993516,
+    -102.241964,
+    43.993516
+],
   "geometry": {"coordinates":[-102.241964,43.993516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370996359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.685285,45.910057,-98.685285,45.910057",
     "geom:latitude":45.910057,
     "geom:longitude":-98.685285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37597 102nd St",
     "sg:city":"Forbes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370996359,
-    "wof:lastmodified":1449030007,
+    "wof:lastmodified":1467082656,
     "wof:name":"Elm Lake Lodge",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-98.685285,45.910057,-98.685285,45.910057],
-  "geometry": {"coordinates":[-98.685285,45.910057],"type":"Point"}
+  "bbox": [
+    -98.685285,
+    45.910057,
+    -98.685285,
+    45.910057
+],
+  "geometry": {"coordinates":[-98.68528499999999,45.910057],"type":"Point"}
 }

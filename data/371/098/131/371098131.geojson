@@ -2,13 +2,14 @@
   "id": 371098131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234416,44.337586,-98.234416,44.337586",
     "geom:latitude":44.337586,
     "geom:longitude":-98.234416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2390 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371098131,
-    "wof:lastmodified":1449050018,
+    "wof:lastmodified":1467082672,
     "wof:name":"Huron Cable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-98.234416,44.337586,-98.234416,44.337586],
+  "bbox": [
+    -98.234416,
+    44.337586,
+    -98.234416,
+    44.337586
+],
   "geometry": {"coordinates":[-98.234416,44.337586],"type":"Point"}
 }

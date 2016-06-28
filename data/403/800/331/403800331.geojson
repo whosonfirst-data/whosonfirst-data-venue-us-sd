@@ -2,13 +2,14 @@
   "id": 403800331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.496119,43.717281,-96.496119,43.717281",
     "geom:latitude":43.717281,
     "geom:longitude":-96.496119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 4th St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403800331,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1467082675,
     "wof:name":"Palisade Manor Nursing Home",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skilled"
     ]
 },
-  "bbox": [-96.496119,43.717281,-96.496119,43.717281],
-  "geometry": {"coordinates":[-96.496119,43.717281],"type":"Point"}
+  "bbox": [
+    -96.496119,
+    43.717281,
+    -96.496119,
+    43.717281
+],
+  "geometry": {"coordinates":[-96.49611899999999,43.717281],"type":"Point"}
 }

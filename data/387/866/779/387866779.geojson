@@ -2,13 +2,14 @@
   "id": 387866779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.794987,43.458417,-96.794987,43.458417",
     "geom:latitude":43.458417,
     "geom:longitude":-96.794987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27107 Independence Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387866779,
-    "wof:lastmodified":1449057911,
+    "wof:lastmodified":1467082723,
     "wof:name":"Flooring America Of Sioux Fls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "floor"
     ]
 },
-  "bbox": [-96.794987,43.458417,-96.794987,43.458417],
-  "geometry": {"coordinates":[-96.794987,43.458417],"type":"Point"}
+  "bbox": [
+    -96.794987,
+    43.458417,
+    -96.794987,
+    43.458417
+],
+  "geometry": {"coordinates":[-96.79498700000001,43.458417],"type":"Point"}
 }

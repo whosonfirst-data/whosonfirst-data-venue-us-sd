@@ -2,13 +2,14 @@
   "id": 386938267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.947635,45.013425,-99.947635,45.013425",
     "geom:latitude":45.013425,
     "geom:longitude":-99.947635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Garfield Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386938267,
-    "wof:lastmodified":1449028874,
+    "wof:lastmodified":1467082653,
     "wof:name":"Oahe Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-99.947635,45.013425,-99.947635,45.013425],
-  "geometry": {"coordinates":[-99.947635,45.013425],"type":"Point"}
+  "bbox": [
+    -99.947635,
+    45.013425,
+    -99.947635,
+    45.013425
+],
+  "geometry": {"coordinates":[-99.94763500000001,45.013425],"type":"Point"}
 }

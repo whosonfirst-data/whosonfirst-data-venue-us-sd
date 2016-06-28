@@ -2,13 +2,14 @@
   "id": 387029731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.766665,45.649699,-98.766665,45.649699",
     "geom:latitude":45.649699,
     "geom:longitude":-98.766665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11981 371st Ave",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387029731,
-    "wof:lastmodified":1449057716,
+    "wof:lastmodified":1467082719,
     "wof:name":"Arlin Dutenhoffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.766665,45.649699,-98.766665,45.649699],
+  "bbox": [
+    -98.766665,
+    45.649699,
+    -98.766665,
+    45.649699
+],
   "geometry": {"coordinates":[-98.766665,45.649699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387922979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711436,43.589139,-96.711436,43.589139",
     "geom:latitude":43.589139,
     "geom:longitude":-96.711436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387922979,
-    "wof:lastmodified":1449056451,
+    "wof:lastmodified":1467082693,
     "wof:name":"Barneys Auto Salvage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yard"
     ]
 },
-  "bbox": [-96.711436,43.589139,-96.711436,43.589139],
-  "geometry": {"coordinates":[-96.711436,43.589139],"type":"Point"}
+  "bbox": [
+    -96.711436,
+    43.589139,
+    -96.711436,
+    43.589139
+],
+  "geometry": {"coordinates":[-96.71143600000001,43.589139],"type":"Point"}
 }

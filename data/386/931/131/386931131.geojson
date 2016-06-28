@@ -2,13 +2,14 @@
   "id": 386931131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.176875,45.833736,-102.176875,45.833736",
     "geom:latitude":45.833736,
     "geom:longitude":-102.176875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11162 State Hwy 73",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386931131,
-    "wof:lastmodified":1449028950,
+    "wof:lastmodified":1467082655,
     "wof:name":"Rosenau Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-102.176875,45.833736,-102.176875,45.833736],
+  "bbox": [
+    -102.176875,
+    45.833736,
+    -102.176875,
+    45.833736
+],
   "geometry": {"coordinates":[-102.176875,45.833736],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387177753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.389542,44.062592,-103.389542,44.062592",
     "geom:latitude":44.062592,
     "geom:longitude":-103.389542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2556 Lindsey Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387177753,
-    "wof:lastmodified":1449059916,
+    "wof:lastmodified":1467082763,
     "wof:name":"In Stitches",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sewing"
     ]
 },
-  "bbox": [-103.389542,44.062592,-103.389542,44.062592],
-  "geometry": {"coordinates":[-103.389542,44.062592],"type":"Point"}
+  "bbox": [
+    -103.389542,
+    44.062592,
+    -103.389542,
+    44.062592
+],
+  "geometry": {"coordinates":[-103.38954200000001,44.062592],"type":"Point"}
 }

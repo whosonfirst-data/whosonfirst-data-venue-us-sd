@@ -2,13 +2,14 @@
   "id": 387490981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.573672,43.594672,-96.573672,43.594672",
     "geom:latitude":43.594672,
     "geom:longitude":-96.573672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 E Holly Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387490981,
-    "wof:lastmodified":1449059529,
+    "wof:lastmodified":1467082755,
     "wof:name":"Security Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.573672,43.594672,-96.573672,43.594672],
+  "bbox": [
+    -96.573672,
+    43.594672,
+    -96.573672,
+    43.594672
+],
   "geometry": {"coordinates":[-96.573672,43.594672],"type":"Point"}
 }

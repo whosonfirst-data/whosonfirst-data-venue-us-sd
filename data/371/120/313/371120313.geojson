@@ -2,13 +2,14 @@
   "id": 371120313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.343157,44.179977,-103.343157,44.179977",
     "geom:latitude":44.179977,
     "geom:longitude":-103.343157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10108 Cantle Ct",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371120313,
-    "wof:lastmodified":1449049981,
+    "wof:lastmodified":1467082671,
     "wof:name":"R C Peter Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.343157,44.179977,-103.343157,44.179977],
-  "geometry": {"coordinates":[-103.343157,44.179977],"type":"Point"}
+  "bbox": [
+    -103.343157,
+    44.179977,
+    -103.343157,
+    44.179977
+],
+  "geometry": {"coordinates":[-103.34315700000001,44.179977],"type":"Point"}
 }

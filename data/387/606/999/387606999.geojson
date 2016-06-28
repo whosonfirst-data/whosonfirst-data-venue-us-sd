@@ -2,13 +2,14 @@
   "id": 387606999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118422,43.996508,-97.118422,43.996508",
     "geom:latitude":43.996508,
     "geom:longitude":-97.118422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 8th St SW",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387606999,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1467082698,
     "wof:name":"Home Service Water Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-97.118422,43.996508,-97.118422,43.996508],
+  "bbox": [
+    -97.118422,
+    43.996508,
+    -97.118422,
+    43.996508
+],
   "geometry": {"coordinates":[-97.118422,43.996508],"type":"Point"}
 }

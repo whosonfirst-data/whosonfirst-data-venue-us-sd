@@ -2,13 +2,14 @@
   "id": 387250255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77488,43.604112,-96.77488,43.604112",
     "geom:latitude":43.604112,
     "geom:longitude":-96.77488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 N Harvestore Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387250255,
-    "wof:lastmodified":1449058274,
+    "wof:lastmodified":1467082730,
     "wof:name":"Ace Septic",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "septic"
     ]
 },
-  "bbox": [-96.77488,43.604112,-96.77488,43.604112],
+  "bbox": [
+    -96.77488,
+    43.604112,
+    -96.77488,
+    43.604112
+],
   "geometry": {"coordinates":[-96.77488,43.604112],"type":"Point"}
 }

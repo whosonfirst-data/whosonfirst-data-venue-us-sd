@@ -2,13 +2,14 @@
   "id": 387491965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112477,44.007033,-97.112477,44.007033",
     "geom:latitude":44.007033,
     "geom:longitude":-97.112477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Harth Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387491965,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1467082686,
     "wof:name":"C U Mortgage Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.112477,44.007033,-97.112477,44.007033],
+  "bbox": [
+    -97.112477,
+    44.007033,
+    -97.112477,
+    44.007033
+],
   "geometry": {"coordinates":[-97.112477,44.007033],"type":"Point"}
 }

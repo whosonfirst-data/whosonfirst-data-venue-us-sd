@@ -2,13 +2,14 @@
   "id": 370985321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.783281,44.293044,-96.783281,44.293044",
     "geom:latitude":44.293044,
     "geom:longitude":-96.783281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1313 King Arthur Ct",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370985321,
-    "wof:lastmodified":1449030761,
+    "wof:lastmodified":1467082656,
     "wof:name":"Johnson Jolene Ahmed Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.783281,44.293044,-96.783281,44.293044],
+  "bbox": [
+    -96.783281,
+    44.293044,
+    -96.783281,
+    44.293044
+],
   "geometry": {"coordinates":[-96.783281,44.293044],"type":"Point"}
 }

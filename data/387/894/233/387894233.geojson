@@ -2,13 +2,14 @@
   "id": 387894233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.501713,45.468748,-98.501713,45.468748",
     "geom:latitude":45.468748,
     "geom:longitude":-98.501713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Circle Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387894233,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1467082718,
     "wof:name":"Kyburz-Carlson Construction",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.501713,45.468748,-98.501713,45.468748],
+  "bbox": [
+    -98.501713,
+    45.468748,
+    -98.501713,
+    45.468748
+],
   "geometry": {"coordinates":[-98.501713,45.468748],"type":"Point"}
 }

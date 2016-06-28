@@ -2,13 +2,14 @@
   "id": 387030081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.475012,43.758188,-96.475012,43.758188",
     "geom:latitude":43.758188,
     "geom:longitude":-96.475012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Summer Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387030081,
-    "wof:lastmodified":1449057495,
+    "wof:lastmodified":1467082714,
     "wof:name":"Duncan Trucking",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.475012,43.758188,-96.475012,43.758188],
-  "geometry": {"coordinates":[-96.475012,43.758188],"type":"Point"}
+  "bbox": [
+    -96.475012,
+    43.758188,
+    -96.475012,
+    43.758188
+],
+  "geometry": {"coordinates":[-96.47501200000001,43.758188],"type":"Point"}
 }

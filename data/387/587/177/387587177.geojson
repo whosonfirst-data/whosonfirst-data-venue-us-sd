@@ -2,13 +2,14 @@
   "id": 387587177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.333166,44.183865,-103.333166,44.183865",
     "geom:latitude":44.183865,
     "geom:longitude":-103.333166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7000 E High Meadows Rd",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387587177,
-    "wof:lastmodified":1449057403,
+    "wof:lastmodified":1467082713,
     "wof:name":"Opstedahl Gene Appl & Plbg Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-103.333166,44.183865,-103.333166,44.183865],
-  "geometry": {"coordinates":[-103.333166,44.183865],"type":"Point"}
+  "bbox": [
+    -103.333166,
+    44.183865,
+    -103.333166,
+    44.183865
+],
+  "geometry": {"coordinates":[-103.33316600000001,44.183865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387087369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.458885,45.291403,-96.458885,45.291403",
     "geom:latitude":45.291403,
     "geom:longitude":-96.458885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Main St",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387087369,
-    "wof:lastmodified":1449057865,
+    "wof:lastmodified":1467082722,
     "wof:name":"Spuds-N-Spuds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.458885,45.291403,-96.458885,45.291403],
+  "bbox": [
+    -96.458885,
+    45.291403,
+    -96.458885,
+    45.291403
+],
   "geometry": {"coordinates":[-96.458885,45.291403],"type":"Point"}
 }

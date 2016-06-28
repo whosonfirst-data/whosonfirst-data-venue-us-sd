@@ -2,13 +2,14 @@
   "id": 387693777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635144,43.536469,-96.635144,43.536469",
     "geom:latitude":43.536469,
     "geom:longitude":-96.635144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Hillside Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387693777,
-    "wof:lastmodified":1449056331,
+    "wof:lastmodified":1467082691,
     "wof:name":"BULLSEYE Custom Cabinetry Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.635144,43.536469,-96.635144,43.536469],
+  "bbox": [
+    -96.635144,
+    43.536469,
+    -96.635144,
+    43.536469
+],
   "geometry": {"coordinates":[-96.635144,43.536469],"type":"Point"}
 }

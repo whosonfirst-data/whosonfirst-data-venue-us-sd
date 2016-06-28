@@ -2,13 +2,14 @@
   "id": 387575219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769095,43.568375,-96.769095,43.568375",
     "geom:latitude":43.568375,
     "geom:longitude":-96.769095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 W Russell St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387575219,
-    "wof:lastmodified":1449057204,
+    "wof:lastmodified":1467082708,
     "wof:name":"Brimark Inn",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.769095,43.568375,-96.769095,43.568375],
-  "geometry": {"coordinates":[-96.769095,43.568375],"type":"Point"}
+  "bbox": [
+    -96.769095,
+    43.568375,
+    -96.769095,
+    43.568375
+],
+  "geometry": {"coordinates":[-96.76909499999999,43.568375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387123371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.028258,43.716498,-98.028258,43.716498",
     "geom:latitude":43.716498,
     "geom:longitude":-98.028258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 N Duff St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387123371,
-    "wof:lastmodified":1449057238,
+    "wof:lastmodified":1467082709,
     "wof:name":"Top Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-98.028258,43.716498,-98.028258,43.716498],
-  "geometry": {"coordinates":[-98.028258,43.716498],"type":"Point"}
+  "bbox": [
+    -98.028258,
+    43.716498,
+    -98.028258,
+    43.716498
+],
+  "geometry": {"coordinates":[-98.02825799999999,43.716498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387462241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.95426,45.014532,-99.95426,45.014532",
     "geom:latitude":45.014532,
     "geom:longitude":-99.95426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N East St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387462241,
-    "wof:lastmodified":1449059771,
+    "wof:lastmodified":1467082760,
     "wof:name":"Catholic CCD Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.95426,45.014532,-99.95426,45.014532],
+  "bbox": [
+    -99.95426,
+    45.014532,
+    -99.95426,
+    45.014532
+],
   "geometry": {"coordinates":[-99.95426,45.014532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371068285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.427881,43.231007,-99.427881,43.231007",
     "geom:latitude":43.231007,
     "geom:longitude":-99.427881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Spencer Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371068285,
-    "wof:lastmodified":1449049563,
+    "wof:lastmodified":1467082665,
     "wof:name":"Family Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-99.427881,43.231007,-99.427881,43.231007],
+  "bbox": [
+    -99.427881,
+    43.231007,
+    -99.427881,
+    43.231007
+],
   "geometry": {"coordinates":[-99.427881,43.231007],"type":"Point"}
 }

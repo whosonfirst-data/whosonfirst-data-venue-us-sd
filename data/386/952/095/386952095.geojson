@@ -2,13 +2,14 @@
   "id": 386952095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.133611,44.367726,-97.133611,44.367726",
     "geom:latitude":44.367726,
     "geom:longitude":-97.133611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N 4th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386952095,
-    "wof:lastmodified":1449028857,
+    "wof:lastmodified":1467082653,
     "wof:name":"Gerald Bunker Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-97.133611,44.367726,-97.133611,44.367726],
+  "bbox": [
+    -97.133611,
+    44.367726,
+    -97.133611,
+    44.367726
+],
   "geometry": {"coordinates":[-97.133611,44.367726],"type":"Point"}
 }

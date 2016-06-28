@@ -2,13 +2,14 @@
   "id": 387805345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106496,44.898571,-97.106496,44.898571",
     "geom:latitude":44.898571,
     "geom:longitude":-97.106496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 5th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387805345,
-    "wof:lastmodified":1449057371,
+    "wof:lastmodified":1467082712,
     "wof:name":"Burger Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.106496,44.898571,-97.106496,44.898571],
-  "geometry": {"coordinates":[-97.106496,44.898571],"type":"Point"}
+  "bbox": [
+    -97.106496,
+    44.898571,
+    -97.106496,
+    44.898571
+],
+  "geometry": {"coordinates":[-97.10649600000001,44.898571],"type":"Point"}
 }

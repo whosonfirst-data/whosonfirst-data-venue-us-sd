@@ -2,13 +2,14 @@
   "id": 387693517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.05969,43.003826,-98.05969,43.003826",
     "geom:latitude":43.003826,
     "geom:longitude":-98.05969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E Railway St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387693517,
-    "wof:lastmodified":1449056331,
+    "wof:lastmodified":1467082691,
     "wof:name":"Schultz Building Ctr & Ready",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-98.05969,43.003826,-98.05969,43.003826],
+  "bbox": [
+    -98.05969,
+    43.003826,
+    -98.05969,
+    43.003826
+],
   "geometry": {"coordinates":[-98.05969,43.003826],"type":"Point"}
 }

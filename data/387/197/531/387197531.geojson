@@ -2,13 +2,14 @@
   "id": 387197531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.027921,45.445292,-99.027921,45.445292",
     "geom:latitude":45.445292,
     "geom:longitude":-99.027921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Main St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387197531,
-    "wof:lastmodified":1449059439,
+    "wof:lastmodified":1467082753,
     "wof:name":"Ipswich Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-99.027921,45.445292,-99.027921,45.445292],
-  "geometry": {"coordinates":[-99.027921,45.445292],"type":"Point"}
+  "bbox": [
+    -99.027921,
+    45.445292,
+    -99.027921,
+    45.445292
+],
+  "geometry": {"coordinates":[-99.02792100000001,45.445292],"type":"Point"}
 }

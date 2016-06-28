@@ -2,13 +2,14 @@
   "id": 403764487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115497,44.003874,-97.115497,44.003874",
     "geom:latitude":44.003874,
     "geom:longitude":-97.115497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 SW 1st St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403764487,
-    "wof:lastmodified":1449055886,
+    "wof:lastmodified":1467082683,
     "wof:name":"Heritage Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-97.115497,44.003874,-97.115497,44.003874],
+  "bbox": [
+    -97.115497,
+    44.003874,
+    -97.115497,
+    44.003874
+],
   "geometry": {"coordinates":[-97.115497,44.003874],"type":"Point"}
 }

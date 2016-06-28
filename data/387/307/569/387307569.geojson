@@ -2,13 +2,14 @@
   "id": 387307569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761055,43.601734,-96.761055,43.601734",
     "geom:latitude":43.601734,
     "geom:longitude":-96.761055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4710 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387307569,
-    "wof:lastmodified":1449057088,
+    "wof:lastmodified":1467082706,
     "wof:name":"Auto Body Specialties",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-96.761055,43.601734,-96.761055,43.601734],
+  "bbox": [
+    -96.761055,
+    43.601734,
+    -96.761055,
+    43.601734
+],
   "geometry": {"coordinates":[-96.761055,43.601734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387923099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.135086,43.400174,-97.135086,43.400174",
     "geom:latitude":43.400174,
     "geom:longitude":-97.135086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E 5th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387923099,
-    "wof:lastmodified":1449059789,
+    "wof:lastmodified":1467082760,
     "wof:name":"Bob Elliot Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.135086,43.400174,-97.135086,43.400174],
+  "bbox": [
+    -97.135086,
+    43.400174,
+    -97.135086,
+    43.400174
+],
   "geometry": {"coordinates":[-97.135086,43.400174],"type":"Point"}
 }

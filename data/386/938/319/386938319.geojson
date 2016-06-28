@@ -2,13 +2,14 @@
   "id": 386938319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221253,44.126925,-103.221253,44.126925",
     "geom:latitude":44.126925,
     "geom:longitude":-103.221253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Dolphin Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386938319,
-    "wof:lastmodified":1449028872,
+    "wof:lastmodified":1467082653,
     "wof:name":"Hofer Duane",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.221253,44.126925,-103.221253,44.126925],
+  "bbox": [
+    -103.221253,
+    44.126925,
+    -103.221253,
+    44.126925
+],
   "geometry": {"coordinates":[-103.221253,44.126925],"type":"Point"}
 }

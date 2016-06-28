@@ -2,13 +2,14 @@
   "id": 371190851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.518426,43.1835,-97.518426,43.1835",
     "geom:latitude":43.1835,
     "geom:longitude":-97.518426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43408 290th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371190851,
-    "wof:lastmodified":1449050088,
+    "wof:lastmodified":1467082673,
     "wof:name":"Marvin Guthmiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.518426,43.1835,-97.518426,43.1835],
-  "geometry": {"coordinates":[-97.518426,43.1835],"type":"Point"}
+  "bbox": [
+    -97.518426,
+    43.1835,
+    -97.518426,
+    43.1835
+],
+  "geometry": {"coordinates":[-97.51842600000001,43.1835],"type":"Point"}
 }

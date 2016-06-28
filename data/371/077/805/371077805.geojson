@@ -2,13 +2,14 @@
   "id": 371077805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.450095,45.459086,-98.450095,45.459086",
     "geom:latitude":45.459086,
     "geom:longitude":-98.450095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2714 Hwy 12 E",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371077805,
-    "wof:lastmodified":1449049191,
+    "wof:lastmodified":1467082660,
     "wof:name":"South Dakota State-Mntnc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-98.450095,45.459086,-98.450095,45.459086],
+  "bbox": [
+    -98.450095,
+    45.459086,
+    -98.450095,
+    45.459086
+],
   "geometry": {"coordinates":[-98.450095,45.459086],"type":"Point"}
 }

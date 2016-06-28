@@ -2,13 +2,14 @@
   "id": 371025233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.477896,43.140026,-97.477896,43.140026",
     "geom:latitude":43.140026,
     "geom:longitude":-97.477896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43617 293rd St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371025233,
-    "wof:lastmodified":1449049953,
+    "wof:lastmodified":1467082671,
     "wof:name":"Darwin Kirschenman Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.477896,43.140026,-97.477896,43.140026],
+  "bbox": [
+    -97.477896,
+    43.140026,
+    -97.477896,
+    43.140026
+],
   "geometry": {"coordinates":[-97.477896,43.140026],"type":"Point"}
 }

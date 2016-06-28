@@ -2,13 +2,14 @@
   "id": 403823309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.126899,43.813103,-98.126899,43.813103",
     "geom:latitude":43.813103,
     "geom:longitude":-98.126899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24635 404th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403823309,
-    "wof:lastmodified":1449055942,
+    "wof:lastmodified":1467082684,
     "wof:name":"Congregational UCC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.126899,43.813103,-98.126899,43.813103],
-  "geometry": {"coordinates":[-98.126899,43.813103],"type":"Point"}
+  "bbox": [
+    -98.126899,
+    43.813103,
+    -98.126899,
+    43.813103
+],
+  "geometry": {"coordinates":[-98.12689899999999,43.813103],"type":"Point"}
 }

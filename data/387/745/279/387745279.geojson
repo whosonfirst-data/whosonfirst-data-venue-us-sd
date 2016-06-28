@@ -2,13 +2,14 @@
   "id": 387745279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702234,43.503819,-96.702234,43.503819",
     "geom:latitude":43.503819,
     "geom:longitude":-96.702234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4512 S Highland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387745279,
-    "wof:lastmodified":1449059747,
+    "wof:lastmodified":1467082760,
     "wof:name":"Sikma Consulting",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.702234,43.503819,-96.702234,43.503819],
+  "bbox": [
+    -96.702234,
+    43.503819,
+    -96.702234,
+    43.503819
+],
   "geometry": {"coordinates":[-96.702234,43.503819],"type":"Point"}
 }

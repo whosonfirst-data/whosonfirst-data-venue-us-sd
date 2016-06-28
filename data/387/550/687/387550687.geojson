@@ -2,13 +2,14 @@
   "id": 387550687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.21476,43.398261,-98.21476,43.398261",
     "geom:latitude":43.398261,
     "geom:longitude":-98.21476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39871 275th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387550687,
-    "wof:lastmodified":1449058169,
+    "wof:lastmodified":1467082728,
     "wof:name":"Tom Heber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.21476,43.398261,-98.21476,43.398261],
+  "bbox": [
+    -98.21476,
+    43.398261,
+    -98.21476,
+    43.398261
+],
   "geometry": {"coordinates":[-98.21476,43.398261],"type":"Point"}
 }

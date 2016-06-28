@@ -2,13 +2,14 @@
   "id": 387193625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.481065,44.238875,-96.481065,44.238875",
     "geom:latitude":44.238875,
     "geom:longitude":-96.481065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Elk St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387193625,
-    "wof:lastmodified":1449056724,
+    "wof:lastmodified":1467082699,
     "wof:name":"Murray Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.481065,44.238875,-96.481065,44.238875],
+  "bbox": [
+    -96.481065,
+    44.238875,
+    -96.481065,
+    44.238875
+],
   "geometry": {"coordinates":[-96.481065,44.238875],"type":"Point"}
 }

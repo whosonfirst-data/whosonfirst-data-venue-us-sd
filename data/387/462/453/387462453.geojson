@@ -2,13 +2,14 @@
   "id": 387462453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025441,43.698901,-98.025441,43.698901",
     "geom:latitude":43.698901,
     "geom:longitude":-98.025441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387462453,
-    "wof:lastmodified":1449059770,
+    "wof:lastmodified":1467082760,
     "wof:name":"Arctic Refrigeration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-98.025441,43.698901,-98.025441,43.698901],
+  "bbox": [
+    -98.025441,
+    43.698901,
+    -98.025441,
+    43.698901
+],
   "geometry": {"coordinates":[-98.025441,43.698901],"type":"Point"}
 }

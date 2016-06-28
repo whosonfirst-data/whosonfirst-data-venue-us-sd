@@ -2,13 +2,14 @@
   "id": 371165279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635944,45.219858,-96.635944,45.219858",
     "geom:latitude":45.219858,
     "geom:longitude":-96.635944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371165279,
-    "wof:lastmodified":1449050144,
+    "wof:lastmodified":1467082673,
     "wof:name":"Brass Rail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.635944,45.219858,-96.635944,45.219858],
-  "geometry": {"coordinates":[-96.635944,45.219858],"type":"Point"}
+  "bbox": [
+    -96.635944,
+    45.219858,
+    -96.635944,
+    45.219858
+],
+  "geometry": {"coordinates":[-96.63594399999999,45.219858],"type":"Point"}
 }

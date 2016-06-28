@@ -2,13 +2,14 @@
   "id": 371108743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.980096,43.572309,-99.980096,43.572309",
     "geom:latitude":43.572309,
     "geom:longitude":-99.980096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30924 264th St",
     "sg:city":"Witten",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371108743,
-    "wof:lastmodified":1449049093,
+    "wof:lastmodified":1467082659,
     "wof:name":"Best Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.980096,43.572309,-99.980096,43.572309],
+  "bbox": [
+    -99.980096,
+    43.572309,
+    -99.980096,
+    43.572309
+],
   "geometry": {"coordinates":[-99.980096,43.572309],"type":"Point"}
 }

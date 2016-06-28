@@ -2,13 +2,14 @@
   "id": 387187225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.71316,43.887613,-100.71316,43.887613",
     "geom:latitude":43.887613,
     "geom:longitude":-100.71316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Main St",
     "sg:city":"Murdo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387187225,
-    "wof:lastmodified":1449056667,
+    "wof:lastmodified":1467082698,
     "wof:name":"Fuoss Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-100.71316,43.887613,-100.71316,43.887613],
+  "bbox": [
+    -100.71316,
+    43.887613,
+    -100.71316,
+    43.887613
+],
   "geometry": {"coordinates":[-100.71316,43.887613],"type":"Point"}
 }

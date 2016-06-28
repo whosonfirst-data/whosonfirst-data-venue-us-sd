@@ -2,13 +2,14 @@
   "id": 387482693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.25931,44.101653,-103.25931,44.101653",
     "geom:latitude":44.101653,
     "geom:longitude":-103.25931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Fountain Plaza Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387482693,
-    "wof:lastmodified":1449057449,
+    "wof:lastmodified":1467082713,
     "wof:name":"Simpson Doris M",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "advertising"
     ]
 },
-  "bbox": [-103.25931,44.101653,-103.25931,44.101653],
+  "bbox": [
+    -103.25931,
+    44.101653,
+    -103.25931,
+    44.101653
+],
   "geometry": {"coordinates":[-103.25931,44.101653],"type":"Point"}
 }

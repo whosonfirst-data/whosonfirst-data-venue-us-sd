@@ -2,13 +2,14 @@
   "id": 387858741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.551146,45.58228,-103.551146,45.58228",
     "geom:latitude":45.58228,
     "geom:longitude":-103.551146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 4th St W",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387858741,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"Harding County Abstract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.551146,45.58228,-103.551146,45.58228],
+  "bbox": [
+    -103.551146,
+    45.58228,
+    -103.551146,
+    45.58228
+],
   "geometry": {"coordinates":[-103.551146,45.58228],"type":"Point"}
 }

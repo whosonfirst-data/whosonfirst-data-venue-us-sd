@@ -2,13 +2,14 @@
   "id": 387089815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7469,43.550926,-96.7469,43.550926",
     "geom:latitude":43.550926,
     "geom:longitude":-96.7469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387089815,
-    "wof:lastmodified":1449056873,
+    "wof:lastmodified":1467082702,
     "wof:name":"Deuces Casino",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-96.7469,43.550926,-96.7469,43.550926],
+  "bbox": [
+    -96.7469,
+    43.550926,
+    -96.7469,
+    43.550926
+],
   "geometry": {"coordinates":[-96.7469,43.550926],"type":"Point"}
 }

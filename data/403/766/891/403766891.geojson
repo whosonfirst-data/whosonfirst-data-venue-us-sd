@@ -2,13 +2,14 @@
   "id": 403766891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112543,44.005109,-97.112543,44.005109",
     "geom:latitude":44.005109,
     "geom:longitude":-97.112543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403766891,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1467082674,
     "wof:name":"Lake County Dept Of Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "resource"
     ]
 },
-  "bbox": [-97.112543,44.005109,-97.112543,44.005109],
+  "bbox": [
+    -97.112543,
+    44.005109,
+    -97.112543,
+    44.005109
+],
   "geometry": {"coordinates":[-97.112543,44.005109],"type":"Point"}
 }

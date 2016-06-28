@@ -2,13 +2,14 @@
   "id": 387301765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.756079,43.544945,-96.756079,43.544945",
     "geom:latitude":43.544945,
     "geom:longitude":-96.756079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Elmwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387301765,
-    "wof:lastmodified":1449057076,
+    "wof:lastmodified":1467082706,
     "wof:name":"Ingraving Specialist Inc The",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-96.756079,43.544945,-96.756079,43.544945],
+  "bbox": [
+    -96.756079,
+    43.544945,
+    -96.756079,
+    43.544945
+],
   "geometry": {"coordinates":[-96.756079,43.544945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387251593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.690013,43.815033,-96.690013,43.815033",
     "geom:latitude":43.815033,
     "geom:longitude":-96.690013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47603 Centennial Pl",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387251593,
-    "wof:lastmodified":1449056189,
+    "wof:lastmodified":1467082688,
     "wof:name":"Fiegen Farm",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "general"
     ]
 },
-  "bbox": [-96.690013,43.815033,-96.690013,43.815033],
-  "geometry": {"coordinates":[-96.690013,43.815033],"type":"Point"}
+  "bbox": [
+    -96.690013,
+    43.815033,
+    -96.690013,
+    43.815033
+],
+  "geometry": {"coordinates":[-96.69001299999999,43.815033],"type":"Point"}
 }

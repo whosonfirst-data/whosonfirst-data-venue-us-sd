@@ -2,13 +2,14 @@
   "id": 387336561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.937579,43.368786,-97.937579,43.368786",
     "geom:latitude":43.368786,
     "geom:longitude":-97.937579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41255 277th St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387336561,
-    "wof:lastmodified":1449056040,
+    "wof:lastmodified":1467082685,
     "wof:name":"Delbert Thelen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.937579,43.368786,-97.937579,43.368786],
+  "bbox": [
+    -97.937579,
+    43.368786,
+    -97.937579,
+    43.368786
+],
   "geometry": {"coordinates":[-97.937579,43.368786],"type":"Point"}
 }

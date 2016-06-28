@@ -2,13 +2,14 @@
   "id": 386986633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731586,44.877984,-97.731586,44.877984",
     "geom:latitude":44.877984,
     "geom:longitude":-97.731586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Cloud St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386986633,
-    "wof:lastmodified":1449028894,
+    "wof:lastmodified":1467082654,
     "wof:name":"Clark Community Oil Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-97.731586,44.877984,-97.731586,44.877984],
-  "geometry": {"coordinates":[-97.731586,44.877984],"type":"Point"}
+  "bbox": [
+    -97.731586,
+    44.877984,
+    -97.731586,
+    44.877984
+],
+  "geometry": {"coordinates":[-97.73158599999999,44.877984],"type":"Point"}
 }

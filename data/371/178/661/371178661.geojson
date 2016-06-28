@@ -2,13 +2,14 @@
   "id": 371178661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.602818,43.765459,-103.602818,43.765459",
     "geom:latitude":43.765459,
     "geom:longitude":-103.602818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371178661,
-    "wof:lastmodified":1449049806,
+    "wof:lastmodified":1467082669,
     "wof:name":"Wrangler Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.602818,43.765459,-103.602818,43.765459],
+  "bbox": [
+    -103.602818,
+    43.765459,
+    -103.602818,
+    43.765459
+],
   "geometry": {"coordinates":[-103.602818,43.765459],"type":"Point"}
 }

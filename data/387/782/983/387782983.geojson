@@ -2,13 +2,14 @@
   "id": 387782983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.224008,43.546664,-98.224008,43.546664",
     "geom:latitude":43.546664,
     "geom:longitude":-98.224008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26461 399th Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387782983,
-    "wof:lastmodified":1449056099,
+    "wof:lastmodified":1467082686,
     "wof:name":"Virgil Herbst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.224008,43.546664,-98.224008,43.546664],
+  "bbox": [
+    -98.224008,
+    43.546664,
+    -98.224008,
+    43.546664
+],
   "geometry": {"coordinates":[-98.224008,43.546664],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387023415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.764724,44.305987,-96.764724,44.305987",
     "geom:latitude":44.305987,
     "geom:longitude":-96.764724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2410 Yorkshire Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387023415,
-    "wof:lastmodified":1449059547,
+    "wof:lastmodified":1467082756,
     "wof:name":"Yorkshire Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.764724,44.305987,-96.764724,44.305987],
+  "bbox": [
+    -96.764724,
+    44.305987,
+    -96.764724,
+    44.305987
+],
   "geometry": {"coordinates":[-96.764724,44.305987],"type":"Point"}
 }

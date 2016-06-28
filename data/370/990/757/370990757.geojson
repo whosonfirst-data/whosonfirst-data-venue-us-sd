@@ -2,13 +2,14 @@
   "id": 370990757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214059,44.354837,-98.214059,44.354837",
     "geom:latitude":44.354837,
     "geom:longitude":-98.214059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370990757,
-    "wof:lastmodified":1449031346,
+    "wof:lastmodified":1467082657,
     "wof:name":"Dakota Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214059,44.354837,-98.214059,44.354837],
-  "geometry": {"coordinates":[-98.214059,44.354837],"type":"Point"}
+  "bbox": [
+    -98.214059,
+    44.354837,
+    -98.214059,
+    44.354837
+],
+  "geometry": {"coordinates":[-98.21405900000001,44.354837],"type":"Point"}
 }

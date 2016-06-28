@@ -2,13 +2,14 @@
   "id": 387040281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.241101,43.219235,-97.241101,43.219235",
     "geom:latitude":43.219235,
     "geom:longitude":-97.241101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28759 448th Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387040281,
-    "wof:lastmodified":1449059812,
+    "wof:lastmodified":1467082761,
     "wof:name":"Larry R Larsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.241101,43.219235,-97.241101,43.219235],
+  "bbox": [
+    -97.241101,
+    43.219235,
+    -97.241101,
+    43.219235
+],
   "geometry": {"coordinates":[-97.241101,43.219235],"type":"Point"}
 }

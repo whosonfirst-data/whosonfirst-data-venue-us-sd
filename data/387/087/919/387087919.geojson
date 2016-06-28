@@ -2,13 +2,14 @@
   "id": 387087919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.947669,43.775901,-96.947669,43.775901",
     "geom:latitude":43.775901,
     "geom:longitude":-96.947669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46316 249th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387087919,
-    "wof:lastmodified":1449057860,
+    "wof:lastmodified":1467082722,
     "wof:name":"Willard Farms",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.947669,43.775901,-96.947669,43.775901],
+  "bbox": [
+    -96.947669,
+    43.775901,
+    -96.947669,
+    43.775901
+],
   "geometry": {"coordinates":[-96.947669,43.775901],"type":"Point"}
 }

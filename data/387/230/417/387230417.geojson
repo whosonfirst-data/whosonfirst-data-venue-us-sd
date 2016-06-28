@@ -2,13 +2,14 @@
   "id": 387230417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.65531,45.449818,-99.65531,45.449818",
     "geom:latitude":45.449818,
     "geom:longitude":-99.65531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7097 4th Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387230417,
-    "wof:lastmodified":1449058930,
+    "wof:lastmodified":1467082743,
     "wof:name":"Corner Cottage Drive Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.65531,45.449818,-99.65531,45.449818],
+  "bbox": [
+    -99.65531,
+    45.449818,
+    -99.65531,
+    45.449818
+],
   "geometry": {"coordinates":[-99.65531,45.449818],"type":"Point"}
 }

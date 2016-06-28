@@ -2,13 +2,14 @@
   "id": 387141457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731366,43.529634,-96.731366,43.529634",
     "geom:latitude":43.529634,
     "geom:longitude":-96.731366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 S Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387141457,
-    "wof:lastmodified":1449057432,
+    "wof:lastmodified":1467082713,
     "wof:name":"Crown Central Casino",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "casino"
     ]
 },
-  "bbox": [-96.731366,43.529634,-96.731366,43.529634],
-  "geometry": {"coordinates":[-96.731366,43.529634],"type":"Point"}
+  "bbox": [
+    -96.731366,
+    43.529634,
+    -96.731366,
+    43.529634
+],
+  "geometry": {"coordinates":[-96.73136599999999,43.529634],"type":"Point"}
 }

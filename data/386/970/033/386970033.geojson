@@ -2,13 +2,14 @@
   "id": 386970033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.842978,45.505674,-98.842978,45.505674",
     "geom:latitude":45.505674,
     "geom:longitude":-98.842978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36702 130th St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386970033,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1467082655,
     "wof:name":"Paul Malsom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.842978,45.505674,-98.842978,45.505674],
+  "bbox": [
+    -98.842978,
+    45.505674,
+    -98.842978,
+    45.505674
+],
   "geometry": {"coordinates":[-98.842978,45.505674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387584165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.276809,44.053152,-103.276809,44.053152",
     "geom:latitude":44.053152,
     "geom:longitude":-103.276809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3438 Nicklaus Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387584165,
-    "wof:lastmodified":1449056526,
+    "wof:lastmodified":1467082695,
     "wof:name":"Riss Homes",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.276809,44.053152,-103.276809,44.053152],
+  "bbox": [
+    -103.276809,
+    44.053152,
+    -103.276809,
+    44.053152
+],
   "geometry": {"coordinates":[-103.276809,44.053152],"type":"Point"}
 }

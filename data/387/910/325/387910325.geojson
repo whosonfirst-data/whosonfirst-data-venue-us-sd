@@ -2,13 +2,14 @@
   "id": 387910325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.830531,43.417452,-96.830531,43.417452",
     "geom:latitude":43.417452,
     "geom:longitude":-96.830531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46881 274th St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387910325,
-    "wof:lastmodified":1449057691,
+    "wof:lastmodified":1467082719,
     "wof:name":"Absolute Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-96.830531,43.417452,-96.830531,43.417452],
-  "geometry": {"coordinates":[-96.830531,43.417452],"type":"Point"}
+  "bbox": [
+    -96.830531,
+    43.417452,
+    -96.830531,
+    43.417452
+],
+  "geometry": {"coordinates":[-96.83053099999999,43.417452],"type":"Point"}
 }

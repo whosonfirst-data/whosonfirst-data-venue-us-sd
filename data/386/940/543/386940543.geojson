@@ -2,13 +2,14 @@
   "id": 386940543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191755,44.085659,-103.191755,44.085659",
     "geom:latitude":44.085659,
     "geom:longitude":-103.191755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 N Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386940543,
-    "wof:lastmodified":1449028689,
+    "wof:lastmodified":1467082650,
     "wof:name":"Time Equipment Rental & Sales",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-103.191755,44.085659,-103.191755,44.085659],
+  "bbox": [
+    -103.191755,
+    44.085659,
+    -103.191755,
+    44.085659
+],
   "geometry": {"coordinates":[-103.191755,44.085659],"type":"Point"}
 }

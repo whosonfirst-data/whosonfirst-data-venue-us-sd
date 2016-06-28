@@ -2,13 +2,14 @@
   "id": 387511643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734382,43.553526,-96.734382,43.553526",
     "geom:latitude":43.553526,
     "geom:longitude":-96.734382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 N Duluth Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387511643,
-    "wof:lastmodified":1449057858,
+    "wof:lastmodified":1467082722,
     "wof:name":"Catholic Respect Life Office",
     "wof:parent_id":85820755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.734382,43.553526,-96.734382,43.553526],
+  "bbox": [
+    -96.734382,
+    43.553526,
+    -96.734382,
+    43.553526
+],
   "geometry": {"coordinates":[-96.734382,43.553526],"type":"Point"}
 }

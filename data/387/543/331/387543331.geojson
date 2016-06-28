@@ -2,13 +2,14 @@
   "id": 387543331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.773597,44.29225,-96.773597,44.29225",
     "geom:latitude":44.29225,
     "geom:longitude":-96.773597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387543331,
-    "wof:lastmodified":1449056841,
+    "wof:lastmodified":1467082701,
     "wof:name":"Mickelson Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.773597,44.29225,-96.773597,44.29225],
+  "bbox": [
+    -96.773597,
+    44.29225,
+    -96.773597,
+    44.29225
+],
   "geometry": {"coordinates":[-96.773597,44.29225],"type":"Point"}
 }

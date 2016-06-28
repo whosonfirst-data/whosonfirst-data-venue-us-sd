@@ -2,13 +2,14 @@
   "id": 387251767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.538612,45.107715,-102.538612,45.107715",
     "geom:latitude":45.107715,
     "geom:longitude":-102.538612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17481 Deep Creek Rd",
     "sg:city":"Faith",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387251767,
-    "wof:lastmodified":1449056187,
+    "wof:lastmodified":1467082688,
     "wof:name":"Fairview Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-102.538612,45.107715,-102.538612,45.107715],
+  "bbox": [
+    -102.538612,
+    45.107715,
+    -102.538612,
+    45.107715
+],
   "geometry": {"coordinates":[-102.538612,45.107715],"type":"Point"}
 }

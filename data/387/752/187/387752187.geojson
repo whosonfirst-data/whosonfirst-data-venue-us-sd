@@ -2,13 +2,14 @@
   "id": 387752187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.216428,44.098401,-103.216428,44.098401",
     "geom:latitude":44.098401,
     "geom:longitude":-103.216428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Doolittle St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387752187,
-    "wof:lastmodified":1449056739,
+    "wof:lastmodified":1467082699,
     "wof:name":"Star Tech Computers",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-103.216428,44.098401,-103.216428,44.098401],
-  "geometry": {"coordinates":[-103.216428,44.098401],"type":"Point"}
+  "bbox": [
+    -103.216428,
+    44.098401,
+    -103.216428,
+    44.098401
+],
+  "geometry": {"coordinates":[-103.21642799999999,44.098401],"type":"Point"}
 }

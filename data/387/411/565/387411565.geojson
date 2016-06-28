@@ -2,13 +2,14 @@
   "id": 387411565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488832,45.114329,-98.488832,45.114329",
     "geom:latitude":45.114329,
     "geom:longitude":-98.488832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38771 157th St",
     "sg:city":"Mellette",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387411565,
-    "wof:lastmodified":1449056296,
+    "wof:lastmodified":1467082690,
     "wof:name":"Morgan Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.488832,45.114329,-98.488832,45.114329],
+  "bbox": [
+    -98.488832,
+    45.114329,
+    -98.488832,
+    45.114329
+],
   "geometry": {"coordinates":[-98.488832,45.114329],"type":"Point"}
 }

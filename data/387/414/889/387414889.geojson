@@ -2,13 +2,14 @@
   "id": 387414889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.161983,43.485394,-97.161983,43.485394",
     "geom:latitude":43.485394,
     "geom:longitude":-97.161983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26919 452nd Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387414889,
-    "wof:lastmodified":1449057881,
+    "wof:lastmodified":1467082722,
     "wof:name":"Buseman Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.161983,43.485394,-97.161983,43.485394],
-  "geometry": {"coordinates":[-97.161983,43.485394],"type":"Point"}
+  "bbox": [
+    -97.161983,
+    43.485394,
+    -97.161983,
+    43.485394
+],
+  "geometry": {"coordinates":[-97.16198300000001,43.485394],"type":"Point"}
 }

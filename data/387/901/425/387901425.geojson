@@ -2,13 +2,14 @@
   "id": 387901425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.33408,44.371221,-100.33408,44.371221",
     "geom:latitude":44.371221,
     "geom:longitude":-100.33408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Monroe Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387901425,
-    "wof:lastmodified":1449057702,
+    "wof:lastmodified":1467082719,
     "wof:name":"Krull Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-100.33408,44.371221,-100.33408,44.371221],
+  "bbox": [
+    -100.33408,
+    44.371221,
+    -100.33408,
+    44.371221
+],
   "geometry": {"coordinates":[-100.33408,44.371221],"type":"Point"}
 }

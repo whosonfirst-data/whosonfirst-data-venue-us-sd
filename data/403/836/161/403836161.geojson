@@ -2,13 +2,14 @@
   "id": 403836161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.829186,43.77529,-97.829186,43.77529",
     "geom:latitude":43.77529,
     "geom:longitude":-97.829186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24896 419th Ave",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403836161,
-    "wof:lastmodified":1449055498,
+    "wof:lastmodified":1467082681,
     "wof:name":"Scott D Bender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-97.829186,43.77529,-97.829186,43.77529],
-  "geometry": {"coordinates":[-97.829186,43.77529],"type":"Point"}
+  "bbox": [
+    -97.829186,
+    43.77529,
+    -97.829186,
+    43.77529
+],
+  "geometry": {"coordinates":[-97.82918600000001,43.77529],"type":"Point"}
 }

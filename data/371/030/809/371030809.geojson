@@ -2,13 +2,14 @@
   "id": 371030809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705373,43.503684,-96.705373,43.503684",
     "geom:latitude":43.503684,
     "geom:longitude":-96.705373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4516 S Pin Oak Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371030809,
-    "wof:lastmodified":1449049401,
+    "wof:lastmodified":1467082663,
     "wof:name":"Stick Shack North Inc",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.705373,43.503684,-96.705373,43.503684],
-  "geometry": {"coordinates":[-96.705373,43.503684],"type":"Point"}
+  "bbox": [
+    -96.705373,
+    43.503684,
+    -96.705373,
+    43.503684
+],
+  "geometry": {"coordinates":[-96.70537299999999,43.503684],"type":"Point"}
 }

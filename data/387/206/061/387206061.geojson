@@ -2,13 +2,14 @@
   "id": 387206061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719545,43.584529,-96.719545,43.584529",
     "geom:latitude":43.584529,
     "geom:longitude":-96.719545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 N 6th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387206061,
-    "wof:lastmodified":1449058696,
+    "wof:lastmodified":1467082739,
     "wof:name":"Family Tree Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.719545,43.584529,-96.719545,43.584529],
+  "bbox": [
+    -96.719545,
+    43.584529,
+    -96.719545,
+    43.584529
+],
   "geometry": {"coordinates":[-96.719545,43.584529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387309557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.765665,44.351975,-103.765665,44.351975",
     "geom:latitude":44.351975,
     "geom:longitude":-103.765665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Main St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387309557,
-    "wof:lastmodified":1449056950,
+    "wof:lastmodified":1467082703,
     "wof:name":"Old Town Hall Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.765665,44.351975,-103.765665,44.351975],
+  "bbox": [
+    -103.765665,
+    44.351975,
+    -103.765665,
+    44.351975
+],
   "geometry": {"coordinates":[-103.765665,44.351975],"type":"Point"}
 }

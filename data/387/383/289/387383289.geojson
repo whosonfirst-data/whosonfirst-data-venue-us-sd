@@ -2,13 +2,14 @@
   "id": 387383289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.340194,45.447731,-99.340194,45.447731",
     "geom:latitude":45.447731,
     "geom:longitude":-99.340194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Richmond St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387383289,
-    "wof:lastmodified":1449057717,
+    "wof:lastmodified":1467082719,
     "wof:name":"Westwood Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-99.340194,45.447731,-99.340194,45.447731],
+  "bbox": [
+    -99.340194,
+    45.447731,
+    -99.340194,
+    45.447731
+],
   "geometry": {"coordinates":[-99.340194,45.447731],"type":"Point"}
 }

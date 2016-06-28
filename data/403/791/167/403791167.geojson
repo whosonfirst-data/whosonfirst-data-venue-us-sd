@@ -2,13 +2,14 @@
   "id": 403791167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.253417,44.074136,-103.253417,44.074136",
     "geom:latitude":44.074136,
     "geom:longitude":-103.253417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2024 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403791167,
-    "wof:lastmodified":1449055659,
+    "wof:lastmodified":1467082682,
     "wof:name":"PSI Health Care Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-103.253417,44.074136,-103.253417,44.074136],
+  "bbox": [
+    -103.253417,
+    44.074136,
+    -103.253417,
+    44.074136
+],
   "geometry": {"coordinates":[-103.253417,44.074136],"type":"Point"}
 }

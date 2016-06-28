@@ -2,13 +2,14 @@
   "id": 387171663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.350656,44.368452,-100.350656,44.368452",
     "geom:latitude":44.368452,
     "geom:longitude":-100.350656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Euclid Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387171663,
-    "wof:lastmodified":1449059933,
+    "wof:lastmodified":1467082764,
     "wof:name":"South Dakota Casa Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.350656,44.368452,-100.350656,44.368452],
+  "bbox": [
+    -100.350656,
+    44.368452,
+    -100.350656,
+    44.368452
+],
   "geometry": {"coordinates":[-100.350656,44.368452],"type":"Point"}
 }

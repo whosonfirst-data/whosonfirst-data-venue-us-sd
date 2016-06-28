@@ -2,13 +2,14 @@
   "id": 387747813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928281,44.323405,-96.928281,44.323405",
     "geom:latitude":44.323405,
     "geom:longitude":-96.928281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Samara Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387747813,
-    "wof:lastmodified":1449056792,
+    "wof:lastmodified":1467082700,
     "wof:name":"Knapp Electric & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.928281,44.323405,-96.928281,44.323405],
+  "bbox": [
+    -96.928281,
+    44.323405,
+    -96.928281,
+    44.323405
+],
   "geometry": {"coordinates":[-96.928281,44.323405],"type":"Point"}
 }

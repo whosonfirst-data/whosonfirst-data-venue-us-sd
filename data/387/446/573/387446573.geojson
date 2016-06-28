@@ -2,13 +2,14 @@
   "id": 387446573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.593465,44.049427,-96.593465,44.049427",
     "geom:latitude":44.049427,
     "geom:longitude":-96.593465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387446573,
-    "wof:lastmodified":1449059593,
+    "wof:lastmodified":1467082757,
     "wof:name":"Flandreau Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-96.593465,44.049427,-96.593465,44.049427],
-  "geometry": {"coordinates":[-96.593465,44.049427],"type":"Point"}
+  "bbox": [
+    -96.593465,
+    44.049427,
+    -96.593465,
+    44.049427
+],
+  "geometry": {"coordinates":[-96.59346499999999,44.049427],"type":"Point"}
 }

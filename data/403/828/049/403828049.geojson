@@ -2,13 +2,14 @@
   "id": 403828049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191654,44.039844,-103.191654,44.039844",
     "geom:latitude":44.039844,
     "geom:longitude":-103.191654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 S Hwy 79",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403828049,
-    "wof:lastmodified":1449055325,
+    "wof:lastmodified":1467082680,
     "wof:name":"Clean Tech Of The Black Hills",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-103.191654,44.039844,-103.191654,44.039844],
+  "bbox": [
+    -103.191654,
+    44.039844,
+    -103.191654,
+    44.039844
+],
   "geometry": {"coordinates":[-103.191654,44.039844],"type":"Point"}
 }

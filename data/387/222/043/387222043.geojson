@@ -2,13 +2,14 @@
   "id": 387222043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.737796,44.254456,-98.737796,44.254456",
     "geom:latitude":44.254456,
     "geom:longitude":-98.737796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37273 216th St",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387222043,
-    "wof:lastmodified":1449058656,
+    "wof:lastmodified":1467082738,
     "wof:name":"3 C Christensen Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-98.737796,44.254456,-98.737796,44.254456],
+  "bbox": [
+    -98.737796,
+    44.254456,
+    -98.737796,
+    44.254456
+],
   "geometry": {"coordinates":[-98.737796,44.254456],"type":"Point"}
 }

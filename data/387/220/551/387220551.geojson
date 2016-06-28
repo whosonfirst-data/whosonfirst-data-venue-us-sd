@@ -2,13 +2,14 @@
   "id": 387220551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.359503,44.379399,-100.359503,44.379399",
     "geom:latitude":44.379399,
     "geom:longitude":-100.359503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 W 4th St",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387220551,
-    "wof:lastmodified":1449059779,
+    "wof:lastmodified":1467082760,
     "wof:name":"R & M Appliance Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "same"
     ]
 },
-  "bbox": [-100.359503,44.379399,-100.359503,44.379399],
+  "bbox": [
+    -100.359503,
+    44.379399,
+    -100.359503,
+    44.379399
+],
   "geometry": {"coordinates":[-100.359503,44.379399],"type":"Point"}
 }

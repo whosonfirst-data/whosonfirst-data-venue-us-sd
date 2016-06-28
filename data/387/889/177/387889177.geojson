@@ -2,13 +2,14 @@
   "id": 387889177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.424943,44.065262,-103.424943,44.065262",
     "geom:latitude":44.065262,
     "geom:longitude":-103.424943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13112 Big Bend Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387889177,
-    "wof:lastmodified":1449056044,
+    "wof:lastmodified":1467082685,
     "wof:name":"Lundeen Construction Services",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.424943,44.065262,-103.424943,44.065262],
+  "bbox": [
+    -103.424943,
+    44.065262,
+    -103.424943,
+    44.065262
+],
   "geometry": {"coordinates":[-103.424943,44.065262],"type":"Point"}
 }

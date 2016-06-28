@@ -2,13 +2,14 @@
   "id": 371126401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857008,44.488001,-103.857008,44.488001",
     "geom:latitude":44.488001,
     "geom:longitude":-103.857008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Grant St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371126401,
-    "wof:lastmodified":1449049408,
+    "wof:lastmodified":1467082663,
     "wof:name":"Superior Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "treatment"
     ]
 },
-  "bbox": [-103.857008,44.488001,-103.857008,44.488001],
-  "geometry": {"coordinates":[-103.857008,44.488001],"type":"Point"}
+  "bbox": [
+    -103.857008,
+    44.488001,
+    -103.857008,
+    44.488001
+],
+  "geometry": {"coordinates":[-103.85700799999999,44.488001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371194509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.430937,45.540368,-100.430937,45.540368",
     "geom:latitude":45.540368,
     "geom:longitude":-100.430937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 2nd Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371194509,
-    "wof:lastmodified":1449049977,
+    "wof:lastmodified":1467082671,
     "wof:name":"Kelly's Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.430937,45.540368,-100.430937,45.540368],
+  "bbox": [
+    -100.430937,
+    45.540368,
+    -100.430937,
+    45.540368
+],
   "geometry": {"coordinates":[-100.430937,45.540368],"type":"Point"}
 }

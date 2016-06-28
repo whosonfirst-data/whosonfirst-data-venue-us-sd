@@ -2,13 +2,14 @@
   "id": 387334961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.596493,45.250797,-96.596493,45.250797",
     "geom:latitude":45.250797,
     "geom:longitude":-96.596493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14724 480th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387334961,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1467082709,
     "wof:name":"Seven Star Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-96.596493,45.250797,-96.596493,45.250797],
+  "bbox": [
+    -96.596493,
+    45.250797,
+    -96.596493,
+    45.250797
+],
   "geometry": {"coordinates":[-96.596493,45.250797],"type":"Point"}
 }

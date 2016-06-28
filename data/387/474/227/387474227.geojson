@@ -2,13 +2,14 @@
   "id": 387474227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.463309,44.09325,-103.463309,44.09325",
     "geom:latitude":44.09325,
     "geom:longitude":-103.463309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13801 W Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387474227,
-    "wof:lastmodified":1449056276,
+    "wof:lastmodified":1467082690,
     "wof:name":"Placerville Camp Ucc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camp"
     ]
 },
-  "bbox": [-103.463309,44.09325,-103.463309,44.09325],
+  "bbox": [
+    -103.463309,
+    44.09325,
+    -103.463309,
+    44.09325
+],
   "geometry": {"coordinates":[-103.463309,44.09325],"type":"Point"}
 }

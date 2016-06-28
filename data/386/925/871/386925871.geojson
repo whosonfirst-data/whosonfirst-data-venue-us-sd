@@ -2,13 +2,14 @@
   "id": 386925871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729201,43.809348,-96.729201,43.809348",
     "geom:latitude":43.809348,
     "geom:longitude":-96.729201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24675 474th Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":386925871,
-    "wof:lastmodified":1449028627,
+    "wof:lastmodified":1467082649,
     "wof:name":"Denny's Windshield Repair",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "replacement"
     ]
 },
-  "bbox": [-96.729201,43.809348,-96.729201,43.809348],
+  "bbox": [
+    -96.729201,
+    43.809348,
+    -96.729201,
+    43.809348
+],
   "geometry": {"coordinates":[-96.729201,43.809348],"type":"Point"}
 }

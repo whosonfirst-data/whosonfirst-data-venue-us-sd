@@ -2,13 +2,14 @@
   "id": 403835087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191896,44.085681,-103.191896,44.085681",
     "geom:latitude":44.085681,
     "geom:longitude":-103.191896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 E Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403835087,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1467082676,
     "wof:name":"Sherry's Tax & Bookkeeping Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-103.191896,44.085681,-103.191896,44.085681],
+  "bbox": [
+    -103.191896,
+    44.085681,
+    -103.191896,
+    44.085681
+],
   "geometry": {"coordinates":[-103.191896,44.085681],"type":"Point"}
 }

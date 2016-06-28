@@ -2,13 +2,14 @@
   "id": 387433473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.390482,44.716836,-97.390482,44.716836",
     "geom:latitude":44.716836,
     "geom:longitude":-97.390482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18403 441st Ave",
     "sg:city":"Hazel",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387433473,
-    "wof:lastmodified":1449056548,
+    "wof:lastmodified":1467082695,
     "wof:name":"Curt Luken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.390482,44.716836,-97.390482,44.716836],
-  "geometry": {"coordinates":[-97.390482,44.716836],"type":"Point"}
+  "bbox": [
+    -97.390482,
+    44.716836,
+    -97.390482,
+    44.716836
+],
+  "geometry": {"coordinates":[-97.39048200000001,44.716836],"type":"Point"}
 }

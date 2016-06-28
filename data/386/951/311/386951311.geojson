@@ -2,13 +2,14 @@
   "id": 386951311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.692179,43.143723,-99.692179,43.143723",
     "geom:latitude":43.143723,
     "geom:longitude":-99.692179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29375 324th Ave",
     "sg:city":"Colome",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386951311,
-    "wof:lastmodified":1449028634,
+    "wof:lastmodified":1467082649,
     "wof:name":"Chandlor Shippy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.692179,43.143723,-99.692179,43.143723],
+  "bbox": [
+    -99.692179,
+    43.143723,
+    -99.692179,
+    43.143723
+],
   "geometry": {"coordinates":[-99.692179,43.143723],"type":"Point"}
 }

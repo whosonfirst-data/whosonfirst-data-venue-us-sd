@@ -2,13 +2,14 @@
   "id": 387623653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.850301,44.492014,-103.850301,44.492014",
     "geom:latitude":44.492014,
     "geom:longitude":-103.850301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 N 12th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387623653,
-    "wof:lastmodified":1449058780,
+    "wof:lastmodified":1467082740,
     "wof:name":"Maddison's Styling Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.850301,44.492014,-103.850301,44.492014],
+  "bbox": [
+    -103.850301,
+    44.492014,
+    -103.850301,
+    44.492014
+],
   "geometry": {"coordinates":[-103.850301,44.492014],"type":"Point"}
 }

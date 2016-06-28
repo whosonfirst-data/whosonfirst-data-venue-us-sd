@@ -2,13 +2,14 @@
   "id": 387374849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.050305,44.144505,-98.050305,44.144505",
     "geom:latitude":44.144505,
     "geom:longitude":-98.050305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22373 408th Ave",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387374849,
-    "wof:lastmodified":1449057764,
+    "wof:lastmodified":1467082720,
     "wof:name":"Carl Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.050305,44.144505,-98.050305,44.144505],
-  "geometry": {"coordinates":[-98.050305,44.144505],"type":"Point"}
+  "bbox": [
+    -98.050305,
+    44.144505,
+    -98.050305,
+    44.144505
+],
+  "geometry": {"coordinates":[-98.05030499999999,44.144505],"type":"Point"}
 }

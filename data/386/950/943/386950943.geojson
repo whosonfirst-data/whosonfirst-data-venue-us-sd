@@ -2,13 +2,14 @@
   "id": 386950943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.305495,44.875646,-98.305495,44.875646",
     "geom:latitude":44.875646,
     "geom:longitude":-98.305495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Maple St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386950943,
-    "wof:lastmodified":1449028748,
+    "wof:lastmodified":1467082651,
     "wof:name":"Frankfort City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-98.305495,44.875646,-98.305495,44.875646],
-  "geometry": {"coordinates":[-98.305495,44.875646],"type":"Point"}
+  "bbox": [
+    -98.305495,
+    44.875646,
+    -98.305495,
+    44.875646
+],
+  "geometry": {"coordinates":[-98.30549499999999,44.875646],"type":"Point"}
 }

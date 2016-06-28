@@ -2,13 +2,14 @@
   "id": 387746287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198463,44.08747,-103.198463,44.08747",
     "geom:latitude":44.08747,
     "geom:longitude":-103.198463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387746287,
-    "wof:lastmodified":1449056079,
+    "wof:lastmodified":1467082686,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.198463,44.08747,-103.198463,44.08747],
+  "bbox": [
+    -103.198463,
+    44.08747,
+    -103.198463,
+    44.08747
+],
   "geometry": {"coordinates":[-103.198463,44.08747],"type":"Point"}
 }

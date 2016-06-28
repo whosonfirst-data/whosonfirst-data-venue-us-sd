@@ -2,13 +2,14 @@
   "id": 387591213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.484127,45.223368,-96.484127,45.223368",
     "geom:latitude":45.223368,
     "geom:longitude":-96.484127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48575 149th St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387591213,
-    "wof:lastmodified":1449058142,
+    "wof:lastmodified":1467082728,
     "wof:name":"Rainbow Holstein Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "operate"
     ]
 },
-  "bbox": [-96.484127,45.223368,-96.484127,45.223368],
+  "bbox": [
+    -96.484127,
+    45.223368,
+    -96.484127,
+    45.223368
+],
   "geometry": {"coordinates":[-96.484127,45.223368],"type":"Point"}
 }

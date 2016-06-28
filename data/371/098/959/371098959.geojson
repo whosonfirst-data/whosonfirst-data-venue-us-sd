@@ -2,13 +2,14 @@
   "id": 371098959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526873,44.011872,-97.526873,44.011872",
     "geom:latitude":44.011872,
     "geom:longitude":-97.526873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371098959,
-    "wof:lastmodified":1449050021,
+    "wof:lastmodified":1467082672,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.526873,44.011872,-97.526873,44.011872],
-  "geometry": {"coordinates":[-97.526873,44.011872],"type":"Point"}
+  "bbox": [
+    -97.526873,
+    44.011872,
+    -97.526873,
+    44.011872
+],
+  "geometry": {"coordinates":[-97.52687299999999,44.011872],"type":"Point"}
 }

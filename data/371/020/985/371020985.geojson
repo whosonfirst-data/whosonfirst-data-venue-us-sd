@@ -2,13 +2,14 @@
   "id": 371020985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768398,44.295233,-96.768398,44.295233",
     "geom:latitude":44.295233,
     "geom:longitude":-96.768398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371020985,
-    "wof:lastmodified":1449049491,
+    "wof:lastmodified":1467082664,
     "wof:name":"Sonsations Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "antique"
     ]
 },
-  "bbox": [-96.768398,44.295233,-96.768398,44.295233],
+  "bbox": [
+    -96.768398,
+    44.295233,
+    -96.768398,
+    44.295233
+],
   "geometry": {"coordinates":[-96.768398,44.295233],"type":"Point"}
 }

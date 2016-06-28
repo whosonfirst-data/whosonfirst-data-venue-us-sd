@@ -2,13 +2,14 @@
   "id": 371157739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479113,45.456923,-98.479113,45.456923",
     "geom:latitude":45.456923,
     "geom:longitude":-98.479113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 8th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371157739,
-    "wof:lastmodified":1449049991,
+    "wof:lastmodified":1467082671,
     "wof:name":"Chang Clinic",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-98.479113,45.456923,-98.479113,45.456923],
+  "bbox": [
+    -98.479113,
+    45.456923,
+    -98.479113,
+    45.456923
+],
   "geometry": {"coordinates":[-98.479113,45.456923],"type":"Point"}
 }

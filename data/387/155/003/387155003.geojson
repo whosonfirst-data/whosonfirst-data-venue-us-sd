@@ -2,13 +2,14 @@
   "id": 387155003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.708486,43.986672,-98.708486,43.986672",
     "geom:latitude":43.986672,
     "geom:longitude":-98.708486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23449 374th Ave",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387155003,
-    "wof:lastmodified":1449059257,
+    "wof:lastmodified":1467082750,
     "wof:name":"Hideout Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.708486,43.986672,-98.708486,43.986672],
-  "geometry": {"coordinates":[-98.708486,43.986672],"type":"Point"}
+  "bbox": [
+    -98.708486,
+    43.986672,
+    -98.708486,
+    43.986672
+],
+  "geometry": {"coordinates":[-98.70848599999999,43.986672],"type":"Point"}
 }

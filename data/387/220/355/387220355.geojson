@@ -2,13 +2,14 @@
   "id": 387220355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.88893,43.359645,-96.88893,43.359645",
     "geom:latitude":43.359645,
     "geom:longitude":-96.88893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 E Boynton Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387220355,
-    "wof:lastmodified":1449059780,
+    "wof:lastmodified":1467082760,
     "wof:name":"For Paws Pet Styling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.88893,43.359645,-96.88893,43.359645],
+  "bbox": [
+    -96.88893,
+    43.359645,
+    -96.88893,
+    43.359645
+],
   "geometry": {"coordinates":[-96.88893,43.359645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387069045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.206241,43.413403,-97.206241,43.413403",
     "geom:latitude":43.413403,
     "geom:longitude":-97.206241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27417 Thunder Valley Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387069045,
-    "wof:lastmodified":1449058515,
+    "wof:lastmodified":1467082735,
     "wof:name":"Thunder Valley Dragways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.206241,43.413403,-97.206241,43.413403],
-  "geometry": {"coordinates":[-97.206241,43.413403],"type":"Point"}
+  "bbox": [
+    -97.206241,
+    43.413403,
+    -97.206241,
+    43.413403
+],
+  "geometry": {"coordinates":[-97.20624100000001,43.413403],"type":"Point"}
 }

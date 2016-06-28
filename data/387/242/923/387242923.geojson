@@ -2,13 +2,14 @@
   "id": 387242923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.438331,45.538366,-100.438331,45.538366",
     "geom:latitude":45.538366,
     "geom:longitude":-100.438331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 3rd Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387242923,
-    "wof:lastmodified":1449059471,
+    "wof:lastmodified":1467082754,
     "wof:name":"Mobridge Airport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.438331,45.538366,-100.438331,45.538366],
-  "geometry": {"coordinates":[-100.438331,45.538366],"type":"Point"}
+  "bbox": [
+    -100.438331,
+    45.538366,
+    -100.438331,
+    45.538366
+],
+  "geometry": {"coordinates":[-100.43833100000001,45.538366],"type":"Point"}
 }

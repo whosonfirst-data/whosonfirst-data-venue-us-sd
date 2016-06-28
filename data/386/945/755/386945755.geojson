@@ -2,13 +2,14 @@
   "id": 386945755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.828969,43.5438,-96.828969,43.5438",
     "geom:latitude":43.5438,
     "geom:longitude":-96.828969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8405 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386945755,
-    "wof:lastmodified":1449028656,
+    "wof:lastmodified":1467082650,
     "wof:name":"Chasers",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.828969,43.5438,-96.828969,43.5438],
+  "bbox": [
+    -96.828969,
+    43.5438,
+    -96.828969,
+    43.5438
+],
   "geometry": {"coordinates":[-96.828969,43.5438],"type":"Point"}
 }

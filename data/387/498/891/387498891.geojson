@@ -2,13 +2,14 @@
   "id": 387498891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.433967,45.551148,-100.433967,45.551148",
     "geom:latitude":45.551148,
     "geom:longitude":-100.433967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 N Main St",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387498891,
-    "wof:lastmodified":1449058990,
+    "wof:lastmodified":1467082745,
     "wof:name":"Morbridge Climate Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.433967,45.551148,-100.433967,45.551148],
+  "bbox": [
+    -100.433967,
+    45.551148,
+    -100.433967,
+    45.551148
+],
   "geometry": {"coordinates":[-100.433967,45.551148],"type":"Point"}
 }

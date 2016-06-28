@@ -2,13 +2,14 @@
   "id": 387600645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109704,44.014843,-97.109704,44.014843",
     "geom:latitude":44.014843,
     "geom:longitude":-97.109704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387600645,
-    "wof:lastmodified":1449056454,
+    "wof:lastmodified":1467082694,
     "wof:name":"J L Reel Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.109704,44.014843,-97.109704,44.014843],
-  "geometry": {"coordinates":[-97.109704,44.014843],"type":"Point"}
+  "bbox": [
+    -97.109704,
+    44.014843,
+    -97.109704,
+    44.014843
+],
+  "geometry": {"coordinates":[-97.10970399999999,44.014843],"type":"Point"}
 }

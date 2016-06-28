@@ -2,13 +2,14 @@
   "id": 370985811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.627412,43.534177,-96.627412,43.534177",
     "geom:latitude":43.534177,
     "geom:longitude":-96.627412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 State Hwy 42",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370985811,
-    "wof:lastmodified":1449030760,
+    "wof:lastmodified":1467082656,
     "wof:name":"Willow Run Golf Course",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "public"
     ]
 },
-  "bbox": [-96.627412,43.534177,-96.627412,43.534177],
-  "geometry": {"coordinates":[-96.627412,43.534177],"type":"Point"}
+  "bbox": [
+    -96.627412,
+    43.534177,
+    -96.627412,
+    43.534177
+],
+  "geometry": {"coordinates":[-96.62741200000001,43.534177],"type":"Point"}
 }

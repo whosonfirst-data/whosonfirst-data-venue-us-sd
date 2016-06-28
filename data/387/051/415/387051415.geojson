@@ -2,13 +2,14 @@
   "id": 387051415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747288,43.49183,-96.747288,43.49183",
     "geom:latitude":43.49183,
     "geom:longitude":-96.747288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5124 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387051415,
-    "wof:lastmodified":1449058453,
+    "wof:lastmodified":1467082734,
     "wof:name":"State Bank & Trust Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "real estate"
     ]
 },
-  "bbox": [-96.747288,43.49183,-96.747288,43.49183],
+  "bbox": [
+    -96.747288,
+    43.49183,
+    -96.747288,
+    43.49183
+],
   "geometry": {"coordinates":[-96.747288,43.49183],"type":"Point"}
 }

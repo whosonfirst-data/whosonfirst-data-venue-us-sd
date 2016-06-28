@@ -2,13 +2,14 @@
   "id": 370986107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.662215,45.448465,-99.662215,45.448465",
     "geom:latitude":45.448465,
     "geom:longitude":-99.662215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 5th St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370986107,
-    "wof:lastmodified":1449031821,
+    "wof:lastmodified":1467082657,
     "wof:name":"Bowdle Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-99.662215,45.448465,-99.662215,45.448465],
+  "bbox": [
+    -99.662215,
+    45.448465,
+    -99.662215,
+    45.448465
+],
   "geometry": {"coordinates":[-99.662215,45.448465],"type":"Point"}
 }

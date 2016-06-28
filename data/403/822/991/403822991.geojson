@@ -2,13 +2,14 @@
   "id": 403822991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.208303,43.215718,-98.208303,43.215718",
     "geom:latitude":43.215718,
     "geom:longitude":-98.208303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28774 399th Ave",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403822991,
-    "wof:lastmodified":1449055909,
+    "wof:lastmodified":1467082684,
     "wof:name":"Ted Gunnare Grain Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-98.208303,43.215718,-98.208303,43.215718],
+  "bbox": [
+    -98.208303,
+    43.215718,
+    -98.208303,
+    43.215718
+],
   "geometry": {"coordinates":[-98.208303,43.215718],"type":"Point"}
 }

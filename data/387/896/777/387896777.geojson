@@ -2,13 +2,14 @@
   "id": 387896777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.734641,45.456559,-98.734641,45.456559",
     "geom:latitude":45.456559,
     "geom:longitude":-98.734641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"283 S Sunset Dr",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387896777,
-    "wof:lastmodified":1449057486,
+    "wof:lastmodified":1467082714,
     "wof:name":"Sport Court of The Dakotas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.734641,45.456559,-98.734641,45.456559],
+  "bbox": [
+    -98.734641,
+    45.456559,
+    -98.734641,
+    45.456559
+],
   "geometry": {"coordinates":[-98.734641,45.456559],"type":"Point"}
 }

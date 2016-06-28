@@ -2,13 +2,14 @@
   "id": 387322129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.643391,45.211277,-96.643391,45.211277",
     "geom:latitude":45.211277,
     "geom:longitude":-96.643391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Industrial Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387322129,
-    "wof:lastmodified":1449056074,
+    "wof:lastmodified":1467082686,
     "wof:name":"Summer Diesel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.643391,45.211277,-96.643391,45.211277],
-  "geometry": {"coordinates":[-96.643391,45.211277],"type":"Point"}
+  "bbox": [
+    -96.643391,
+    45.211277,
+    -96.643391,
+    45.211277
+],
+  "geometry": {"coordinates":[-96.64339099999999,45.211277],"type":"Point"}
 }

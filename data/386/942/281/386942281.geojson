@@ -2,13 +2,14 @@
   "id": 386942281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.210168,44.358531,-98.210168,44.358531",
     "geom:latitude":44.358531,
     "geom:longitude":-98.210168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 7th St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386942281,
-    "wof:lastmodified":1449028765,
+    "wof:lastmodified":1467082652,
     "wof:name":"Dietz Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-98.210168,44.358531,-98.210168,44.358531],
+  "bbox": [
+    -98.210168,
+    44.358531,
+    -98.210168,
+    44.358531
+],
   "geometry": {"coordinates":[-98.210168,44.358531],"type":"Point"}
 }

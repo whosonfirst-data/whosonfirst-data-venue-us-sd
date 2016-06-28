@@ -2,13 +2,14 @@
   "id": 387620033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738479,43.544736,-96.738479,43.544736",
     "geom:latitude":43.544736,
     "geom:longitude":-96.738479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387620033,
-    "wof:lastmodified":1449059589,
+    "wof:lastmodified":1467082756,
     "wof:name":"Gear Up Fashion Outlet Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "man"
     ]
 },
-  "bbox": [-96.738479,43.544736,-96.738479,43.544736],
+  "bbox": [
+    -96.738479,
+    43.544736,
+    -96.738479,
+    43.544736
+],
   "geometry": {"coordinates":[-96.738479,43.544736],"type":"Point"}
 }

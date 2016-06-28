@@ -2,13 +2,14 @@
   "id": 387829907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.017084,43.698069,-98.017084,43.698069",
     "geom:latitude":43.698069,
     "geom:longitude":-98.017084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 S Burr St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387829907,
-    "wof:lastmodified":1449059673,
+    "wof:lastmodified":1467082758,
     "wof:name":"Orthopedic Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-98.017084,43.698069,-98.017084,43.698069],
+  "bbox": [
+    -98.017084,
+    43.698069,
+    -98.017084,
+    43.698069
+],
   "geometry": {"coordinates":[-98.017084,43.698069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387688065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.344848,43.324765,-98.344848,43.324765",
     "geom:latitude":43.324765,
     "geom:longitude":-98.344848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Braddock St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387688065,
-    "wof:lastmodified":1449057529,
+    "wof:lastmodified":1467082715,
     "wof:name":"Prairie Villa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-98.344848,43.324765,-98.344848,43.324765],
+  "bbox": [
+    -98.344848,
+    43.324765,
+    -98.344848,
+    43.324765
+],
   "geometry": {"coordinates":[-98.344848,43.324765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387193673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735725,43.549657,-96.735725,43.549657",
     "geom:latitude":43.549657,
     "geom:longitude":-96.735725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Summit Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387193673,
-    "wof:lastmodified":1449056720,
+    "wof:lastmodified":1467082699,
     "wof:name":"Rues Repair Remodeling",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.735725,43.549657,-96.735725,43.549657],
+  "bbox": [
+    -96.735725,
+    43.549657,
+    -96.735725,
+    43.549657
+],
   "geometry": {"coordinates":[-96.735725,43.549657],"type":"Point"}
 }

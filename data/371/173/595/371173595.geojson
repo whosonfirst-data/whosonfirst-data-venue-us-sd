@@ -2,13 +2,14 @@
   "id": 371173595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.818615,43.524232,-96.818615,43.524232",
     "geom:latitude":43.524232,
     "geom:longitude":-96.818615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7224 W Chesapeake Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371173595,
-    "wof:lastmodified":1449049244,
+    "wof:lastmodified":1467082661,
     "wof:name":"Vacanti Lawn Mowing",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.818615,43.524232,-96.818615,43.524232],
-  "geometry": {"coordinates":[-96.818615,43.524232],"type":"Point"}
+  "bbox": [
+    -96.818615,
+    43.524232,
+    -96.818615,
+    43.524232
+],
+  "geometry": {"coordinates":[-96.81861499999999,43.524232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387510977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702672,43.562554,-96.702672,43.562554",
     "geom:latitude":43.562554,
     "geom:longitude":-96.702672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 N Jessica Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387510977,
-    "wof:lastmodified":1449058396,
+    "wof:lastmodified":1467082733,
     "wof:name":"Alexander Elevchenko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.702672,43.562554,-96.702672,43.562554],
-  "geometry": {"coordinates":[-96.702672,43.562554],"type":"Point"}
+  "bbox": [
+    -96.702672,
+    43.562554,
+    -96.702672,
+    43.562554
+],
+  "geometry": {"coordinates":[-96.70267200000001,43.562554],"type":"Point"}
 }

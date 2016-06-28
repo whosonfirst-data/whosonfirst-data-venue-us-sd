@@ -2,13 +2,14 @@
   "id": 387824109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.320123,45.79198,-98.320123,45.79198",
     "geom:latitude":45.79198,
     "geom:longitude":-98.320123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39555 110th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387824109,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1467082714,
     "wof:name":"Lunzman Orland",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.320123,45.79198,-98.320123,45.79198],
+  "bbox": [
+    -98.320123,
+    45.79198,
+    -98.320123,
+    45.79198
+],
   "geometry": {"coordinates":[-98.320123,45.79198],"type":"Point"}
 }

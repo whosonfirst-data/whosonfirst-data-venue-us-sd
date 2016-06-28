@@ -2,13 +2,14 @@
   "id": 370975299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.550017,44.383257,-97.550017,44.383257",
     "geom:latitude":44.383257,
     "geom:longitude":-97.550017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Calumet Ave SW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370975299,
-    "wof:lastmodified":1449032001,
+    "wof:lastmodified":1467082657,
     "wof:name":"De Smet Good Samaritan Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.550017,44.383257,-97.550017,44.383257],
+  "bbox": [
+    -97.550017,
+    44.383257,
+    -97.550017,
+    44.383257
+],
   "geometry": {"coordinates":[-97.550017,44.383257],"type":"Point"}
 }

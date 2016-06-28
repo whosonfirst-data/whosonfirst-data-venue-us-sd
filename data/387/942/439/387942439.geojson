@@ -2,13 +2,14 @@
   "id": 387942439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.816412,43.73209,-96.816412,43.73209",
     "geom:latitude":43.73209,
     "geom:longitude":-96.816412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46970 252nd St",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387942439,
-    "wof:lastmodified":1449057838,
+    "wof:lastmodified":1467082721,
     "wof:name":"Jim Anderson",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.816412,43.73209,-96.816412,43.73209],
+  "bbox": [
+    -96.816412,
+    43.73209,
+    -96.816412,
+    43.73209
+],
   "geometry": {"coordinates":[-96.816412,43.73209],"type":"Point"}
 }

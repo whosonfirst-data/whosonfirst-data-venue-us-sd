@@ -2,13 +2,14 @@
   "id": 387227471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718628,43.548708,-96.718628,43.548708",
     "geom:latitude":43.548708,
     "geom:longitude":-96.718628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"614 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387227471,
-    "wof:lastmodified":1449056939,
+    "wof:lastmodified":1467082703,
     "wof:name":"Bead Gallery",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beads"
     ]
 },
-  "bbox": [-96.718628,43.548708,-96.718628,43.548708],
+  "bbox": [
+    -96.718628,
+    43.548708,
+    -96.718628,
+    43.548708
+],
   "geometry": {"coordinates":[-96.718628,43.548708],"type":"Point"}
 }

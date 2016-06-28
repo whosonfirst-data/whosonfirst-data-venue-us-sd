@@ -2,13 +2,14 @@
   "id": 371065699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715415,43.829063,-96.715415,43.829063",
     "geom:latitude":43.829063,
     "geom:longitude":-96.715415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Iowa Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371065699,
-    "wof:lastmodified":1449050130,
+    "wof:lastmodified":1467082673,
     "wof:name":"Dell Rapids Community",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-96.715415,43.829063,-96.715415,43.829063],
-  "geometry": {"coordinates":[-96.715415,43.829063],"type":"Point"}
+  "bbox": [
+    -96.715415,
+    43.829063,
+    -96.715415,
+    43.829063
+],
+  "geometry": {"coordinates":[-96.71541499999999,43.829063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403735549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.331292,45.668927,-98.331292,45.668927",
     "geom:latitude":45.668927,
     "geom:longitude":-98.331292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11848 395th Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403735549,
-    "wof:lastmodified":1449055913,
+    "wof:lastmodified":1467082684,
     "wof:name":"Buntrock Brothers",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-98.331292,45.668927,-98.331292,45.668927],
+  "bbox": [
+    -98.331292,
+    45.668927,
+    -98.331292,
+    45.668927
+],
   "geometry": {"coordinates":[-98.331292,45.668927],"type":"Point"}
 }

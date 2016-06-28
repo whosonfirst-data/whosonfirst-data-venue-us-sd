@@ -2,13 +2,14 @@
   "id": 387341189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.516938,43.139227,-97.516938,43.139227",
     "geom:latitude":43.139227,
     "geom:longitude":-97.516938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43512 Stone Church Rd",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387341189,
-    "wof:lastmodified":1449059751,
+    "wof:lastmodified":1467082760,
     "wof:name":"Wilfred Schaeffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.516938,43.139227,-97.516938,43.139227],
+  "bbox": [
+    -97.516938,
+    43.139227,
+    -97.516938,
+    43.139227
+],
   "geometry": {"coordinates":[-97.516938,43.139227],"type":"Point"}
 }

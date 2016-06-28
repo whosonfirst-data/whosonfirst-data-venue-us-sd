@@ -2,13 +2,14 @@
   "id": 371120225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.511404,44.414149,-103.511404,44.414149",
     "geom:latitude":44.414149,
     "geom:longitude":-103.511404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 1st St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371120225,
-    "wof:lastmodified":1449049982,
+    "wof:lastmodified":1467082671,
     "wof:name":"Sturgis Engineers & Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-103.511404,44.414149,-103.511404,44.414149],
+  "bbox": [
+    -103.511404,
+    44.414149,
+    -103.511404,
+    44.414149
+],
   "geometry": {"coordinates":[-103.511404,44.414149],"type":"Point"}
 }

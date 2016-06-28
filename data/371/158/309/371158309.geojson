@@ -2,13 +2,14 @@
   "id": 371158309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788363,43.509082,-96.788363,43.509082",
     "geom:latitude":43.509082,
     "geom:longitude":-96.788363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 S Watson Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371158309,
-    "wof:lastmodified":1449049752,
+    "wof:lastmodified":1467082668,
     "wof:name":"Midwest Tile LLC",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "installation"
     ]
 },
-  "bbox": [-96.788363,43.509082,-96.788363,43.509082],
+  "bbox": [
+    -96.788363,
+    43.509082,
+    -96.788363,
+    43.509082
+],
   "geometry": {"coordinates":[-96.788363,43.509082],"type":"Point"}
 }

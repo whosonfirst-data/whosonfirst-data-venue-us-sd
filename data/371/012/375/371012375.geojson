@@ -2,13 +2,14 @@
   "id": 371012375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.996492,43.258437,-96.996492,43.258437",
     "geom:latitude":43.258437,
     "geom:longitude":-96.996492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Minnesota Ave",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371012375,
-    "wof:lastmodified":1449050029,
+    "wof:lastmodified":1467082672,
     "wof:name":"Davis Agri-Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "seed"
     ]
 },
-  "bbox": [-96.996492,43.258437,-96.996492,43.258437],
+  "bbox": [
+    -96.996492,
+    43.258437,
+    -96.996492,
+    43.258437
+],
   "geometry": {"coordinates":[-96.996492,43.258437],"type":"Point"}
 }

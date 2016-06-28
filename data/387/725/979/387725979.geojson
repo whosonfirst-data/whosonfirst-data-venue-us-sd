@@ -2,13 +2,14 @@
   "id": 387725979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.289606,45.458528,-98.289606,45.458528",
     "geom:latitude":45.458528,
     "geom:longitude":-98.289606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39663 133rd St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387725979,
-    "wof:lastmodified":1449057029,
+    "wof:lastmodified":1467082705,
     "wof:name":"Stahl Farm",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.289606,45.458528,-98.289606,45.458528],
-  "geometry": {"coordinates":[-98.289606,45.458528],"type":"Point"}
+  "bbox": [
+    -98.289606,
+    45.458528,
+    -98.289606,
+    45.458528
+],
+  "geometry": {"coordinates":[-98.28960600000001,45.458528],"type":"Point"}
 }

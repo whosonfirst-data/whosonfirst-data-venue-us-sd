@@ -2,13 +2,14 @@
   "id": 387385265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.386224,44.37066,-100.386224,44.37066",
     "geom:latitude":44.37066,
     "geom:longitude":-100.386224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 US Hwy 14",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387385265,
-    "wof:lastmodified":1449058366,
+    "wof:lastmodified":1467082732,
     "wof:name":"Bad River Water Quality Projct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-100.386224,44.37066,-100.386224,44.37066],
+  "bbox": [
+    -100.386224,
+    44.37066,
+    -100.386224,
+    44.37066
+],
   "geometry": {"coordinates":[-100.386224,44.37066],"type":"Point"}
 }

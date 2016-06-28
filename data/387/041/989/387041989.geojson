@@ -2,13 +2,14 @@
   "id": 387041989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726802,43.545998,-96.726802,43.545998",
     "geom:latitude":43.545998,
     "geom:longitude":-96.726802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387041989,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1467082714,
     "wof:name":"Minnehaha Bankshares",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "holding"
     ]
 },
-  "bbox": [-96.726802,43.545998,-96.726802,43.545998],
-  "geometry": {"coordinates":[-96.726802,43.545998],"type":"Point"}
+  "bbox": [
+    -96.726802,
+    43.545998,
+    -96.726802,
+    43.545998
+],
+  "geometry": {"coordinates":[-96.72680200000001,43.545998],"type":"Point"}
 }

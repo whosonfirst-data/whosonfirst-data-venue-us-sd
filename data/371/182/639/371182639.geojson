@@ -2,13 +2,14 @@
   "id": 371182639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.31152,43.885104,-98.31152,43.885104",
     "geom:latitude":43.885104,
     "geom:longitude":-98.31152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24166 395th Ave",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371182639,
-    "wof:lastmodified":1449049724,
+    "wof:lastmodified":1467082668,
     "wof:name":"Selland & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.31152,43.885104,-98.31152,43.885104],
+  "bbox": [
+    -98.31152,
+    43.885104,
+    -98.31152,
+    43.885104
+],
   "geometry": {"coordinates":[-98.31152,43.885104],"type":"Point"}
 }

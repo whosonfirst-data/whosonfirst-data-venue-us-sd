@@ -2,13 +2,14 @@
   "id": 387718437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.215298,44.103216,-103.215298,44.103216",
     "geom:latitude":44.103216,
     "geom:longitude":-103.215298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Knollwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387718437,
-    "wof:lastmodified":1449056919,
+    "wof:lastmodified":1467082703,
     "wof:name":"Communication Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utility"
     ]
 },
-  "bbox": [-103.215298,44.103216,-103.215298,44.103216],
+  "bbox": [
+    -103.215298,
+    44.103216,
+    -103.215298,
+    44.103216
+],
   "geometry": {"coordinates":[-103.215298,44.103216],"type":"Point"}
 }

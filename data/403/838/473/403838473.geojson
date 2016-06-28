@@ -2,13 +2,14 @@
   "id": 403838473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.475647,43.432184,-103.475647,43.432184",
     "geom:latitude":43.432184,
     "geom:longitude":-103.475647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Jennings Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403838473,
-    "wof:lastmodified":1449054780,
+    "wof:lastmodified":1467082675,
     "wof:name":"Splash Of Color",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-103.475647,43.432184,-103.475647,43.432184],
+  "bbox": [
+    -103.475647,
+    43.432184,
+    -103.475647,
+    43.432184
+],
   "geometry": {"coordinates":[-103.475647,43.432184],"type":"Point"}
 }

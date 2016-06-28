@@ -2,13 +2,14 @@
   "id": 403798781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.331539,45.690547,-98.331539,45.690547",
     "geom:latitude":45.690547,
     "geom:longitude":-98.331539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11698 395th Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403798781,
-    "wof:lastmodified":1449054882,
+    "wof:lastmodified":1467082677,
     "wof:name":"Sand Lake Tree & Steel Svc LLC",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.331539,45.690547,-98.331539,45.690547],
-  "geometry": {"coordinates":[-98.331539,45.690547],"type":"Point"}
+  "bbox": [
+    -98.331539,
+    45.690547,
+    -98.331539,
+    45.690547
+],
+  "geometry": {"coordinates":[-98.33153900000001,45.690547],"type":"Point"}
 }

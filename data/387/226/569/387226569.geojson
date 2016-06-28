@@ -2,13 +2,14 @@
   "id": 387226569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.958477,45.013493,-99.958477,45.013493",
     "geom:latitude":45.013493,
     "geom:longitude":-99.958477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Platte St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387226569,
-    "wof:lastmodified":1449058872,
+    "wof:lastmodified":1467082742,
     "wof:name":"Kormendy's Used Vehicles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-99.958477,45.013493,-99.958477,45.013493],
+  "bbox": [
+    -99.958477,
+    45.013493,
+    -99.958477,
+    45.013493
+],
   "geometry": {"coordinates":[-99.958477,45.013493],"type":"Point"}
 }

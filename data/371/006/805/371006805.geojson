@@ -2,13 +2,14 @@
   "id": 371006805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.786273,43.538145,-97.786273,43.538145",
     "geom:latitude":43.538145,
     "geom:longitude":-97.786273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26534 421st Ave",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371006805,
-    "wof:lastmodified":1449049879,
+    "wof:lastmodified":1467082670,
     "wof:name":"D J Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [-97.786273,43.538145,-97.786273,43.538145],
-  "geometry": {"coordinates":[-97.786273,43.538145],"type":"Point"}
+  "bbox": [
+    -97.786273,
+    43.538145,
+    -97.786273,
+    43.538145
+],
+  "geometry": {"coordinates":[-97.78627299999999,43.538145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387226049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.157178,43.082153,-97.157178,43.082153",
     "geom:latitude":43.082153,
     "geom:longitude":-97.157178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Clay St",
     "sg:city":"Irene",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387226049,
-    "wof:lastmodified":1449058870,
+    "wof:lastmodified":1467082742,
     "wof:name":"Sunset Manor Avera Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.157178,43.082153,-97.157178,43.082153],
+  "bbox": [
+    -97.157178,
+    43.082153,
+    -97.157178,
+    43.082153
+],
   "geometry": {"coordinates":[-97.157178,43.082153],"type":"Point"}
 }

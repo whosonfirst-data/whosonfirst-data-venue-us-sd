@@ -2,13 +2,14 @@
   "id": 387040353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.884809,43.079462,-96.884809,43.079462",
     "geom:latitude":43.079462,
     "geom:longitude":-96.884809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29731 466th Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387040353,
-    "wof:lastmodified":1449059812,
+    "wof:lastmodified":1467082761,
     "wof:name":"Heidebrecht Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-96.884809,43.079462,-96.884809,43.079462],
+  "bbox": [
+    -96.884809,
+    43.079462,
+    -96.884809,
+    43.079462
+],
   "geometry": {"coordinates":[-96.884809,43.079462],"type":"Point"}
 }

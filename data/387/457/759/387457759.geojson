@@ -2,13 +2,14 @@
   "id": 387457759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781163,44.295343,-96.781163,44.295343",
     "geom:latitude":44.295343,
     "geom:longitude":-96.781163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Sequoia Ct",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387457759,
-    "wof:lastmodified":1449058666,
+    "wof:lastmodified":1467082738,
     "wof:name":"Kelly McGeough Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.781163,44.295343,-96.781163,44.295343],
-  "geometry": {"coordinates":[-96.781163,44.295343],"type":"Point"}
+  "bbox": [
+    -96.781163,
+    44.295343,
+    -96.781163,
+    44.295343
+],
+  "geometry": {"coordinates":[-96.78116300000001,44.295343],"type":"Point"}
 }

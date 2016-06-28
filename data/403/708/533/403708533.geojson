@@ -2,13 +2,14 @@
   "id": 403708533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.296237,44.079681,-103.296237,44.079681",
     "geom:latitude":44.079681,
     "geom:longitude":-103.296237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Westwind Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403708533,
-    "wof:lastmodified":1449054840,
+    "wof:lastmodified":1467082676,
     "wof:name":"Robert Graham",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-103.296237,44.079681,-103.296237,44.079681],
+  "bbox": [
+    -103.296237,
+    44.079681,
+    -103.296237,
+    44.079681
+],
   "geometry": {"coordinates":[-103.296237,44.079681],"type":"Point"}
 }

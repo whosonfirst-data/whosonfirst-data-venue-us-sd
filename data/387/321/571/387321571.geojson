@@ -2,13 +2,14 @@
   "id": 387321571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.865344,43.372267,-99.865344,43.372267",
     "geom:latitude":43.372267,
     "geom:longitude":-99.865344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 W 6th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387321571,
-    "wof:lastmodified":1449056209,
+    "wof:lastmodified":1467082689,
     "wof:name":"Winner Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-99.865344,43.372267,-99.865344,43.372267],
-  "geometry": {"coordinates":[-99.865344,43.372267],"type":"Point"}
+  "bbox": [
+    -99.865344,
+    43.372267,
+    -99.865344,
+    43.372267
+],
+  "geometry": {"coordinates":[-99.86534399999999,43.372267],"type":"Point"}
 }

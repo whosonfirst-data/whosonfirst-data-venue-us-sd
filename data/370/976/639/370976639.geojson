@@ -2,13 +2,14 @@
   "id": 370976639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716273,43.529371,-96.716273,43.529371",
     "geom:latitude":43.529371,
     "geom:longitude":-96.716273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370976639,
-    "wof:lastmodified":1449030487,
+    "wof:lastmodified":1467082656,
     "wof:name":"Baldwin Plumbing & Heating",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.716273,43.529371,-96.716273,43.529371],
+  "bbox": [
+    -96.716273,
+    43.529371,
+    -96.716273,
+    43.529371
+],
   "geometry": {"coordinates":[-96.716273,43.529371],"type":"Point"}
 }

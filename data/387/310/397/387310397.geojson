@@ -2,13 +2,14 @@
   "id": 387310397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.02779,45.926964,-100.02779,45.926964",
     "geom:latitude":45.926964,
     "geom:longitude":-100.02779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30850 101st St",
     "sg:city":"Herreid",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387310397,
-    "wof:lastmodified":1449058444,
+    "wof:lastmodified":1467082734,
     "wof:name":"Jerome Weisbeck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.02779,45.926964,-100.02779,45.926964],
+  "bbox": [
+    -100.02779,
+    45.926964,
+    -100.02779,
+    45.926964
+],
   "geometry": {"coordinates":[-100.02779,45.926964],"type":"Point"}
 }

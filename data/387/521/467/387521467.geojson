@@ -2,13 +2,14 @@
   "id": 387521467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.995566,44.723625,-98.995566,44.723625",
     "geom:latitude":44.723625,
     "geom:longitude":-98.995566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35920 Canham Pl",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387521467,
-    "wof:lastmodified":1449059731,
+    "wof:lastmodified":1467082759,
     "wof:name":"Middakota Vegetation Managemen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "weed"
     ]
 },
-  "bbox": [-98.995566,44.723625,-98.995566,44.723625],
+  "bbox": [
+    -98.995566,
+    44.723625,
+    -98.995566,
+    44.723625
+],
   "geometry": {"coordinates":[-98.995566,44.723625],"type":"Point"}
 }

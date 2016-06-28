@@ -2,13 +2,14 @@
   "id": 387537135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.103184,43.234748,-97.103184,43.234748",
     "geom:latitude":43.234748,
     "geom:longitude":-97.103184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28653 455th Ave",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387537135,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1467082705,
     "wof:name":"Todd Knutson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-97.103184,43.234748,-97.103184,43.234748],
+  "bbox": [
+    -97.103184,
+    43.234748,
+    -97.103184,
+    43.234748
+],
   "geometry": {"coordinates":[-97.103184,43.234748],"type":"Point"}
 }

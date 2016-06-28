@@ -2,13 +2,14 @@
   "id": 387089915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.565917,44.423068,-96.565917,44.423068",
     "geom:latitude":44.423068,
     "geom:longitude":-96.565917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20426 482nd Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387089915,
-    "wof:lastmodified":1449056874,
+    "wof:lastmodified":1467082702,
     "wof:name":"Norfeld Brethren Colony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.565917,44.423068,-96.565917,44.423068],
+  "bbox": [
+    -96.565917,
+    44.423068,
+    -96.565917,
+    44.423068
+],
   "geometry": {"coordinates":[-96.565917,44.423068],"type":"Point"}
 }

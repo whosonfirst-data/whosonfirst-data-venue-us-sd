@@ -2,13 +2,14 @@
   "id": 387904693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.161619,44.099158,-103.161619,44.099158",
     "geom:latitude":44.099158,
     "geom:longitude":-103.161619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3005 Beal St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387904693,
-    "wof:lastmodified":1449060002,
+    "wof:lastmodified":1467082765,
     "wof:name":"Black Hills Powersports Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "terrain"
     ]
 },
-  "bbox": [-103.161619,44.099158,-103.161619,44.099158],
+  "bbox": [
+    -103.161619,
+    44.099158,
+    -103.161619,
+    44.099158
+],
   "geometry": {"coordinates":[-103.161619,44.099158],"type":"Point"}
 }

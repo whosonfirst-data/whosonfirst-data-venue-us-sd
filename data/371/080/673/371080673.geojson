@@ -2,13 +2,14 @@
   "id": 371080673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.159414,45.942831,-102.159414,45.942831",
     "geom:latitude":45.942831,
     "geom:longitude":-102.159414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Main Ave",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371080673,
-    "wof:lastmodified":1449050109,
+    "wof:lastmodified":1467082673,
     "wof:name":"Modern Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.159414,45.942831,-102.159414,45.942831],
+  "bbox": [
+    -102.159414,
+    45.942831,
+    -102.159414,
+    45.942831
+],
   "geometry": {"coordinates":[-102.159414,45.942831],"type":"Point"}
 }

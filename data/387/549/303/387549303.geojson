@@ -2,13 +2,14 @@
   "id": 387549303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799828,43.529924,-96.799828,43.529924",
     "geom:latitude":43.529924,
     "geom:longitude":-96.799828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 W Tecumseh Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387549303,
-    "wof:lastmodified":1449057143,
+    "wof:lastmodified":1467082707,
     "wof:name":"McGuire Electric",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.799828,43.529924,-96.799828,43.529924],
-  "geometry": {"coordinates":[-96.799828,43.529924],"type":"Point"}
+  "bbox": [
+    -96.799828,
+    43.529924,
+    -96.799828,
+    43.529924
+],
+  "geometry": {"coordinates":[-96.79982800000001,43.529924],"type":"Point"}
 }

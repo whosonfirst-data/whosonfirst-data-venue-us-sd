@@ -2,13 +2,14 @@
   "id": 387427857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.449963,45.459236,-98.449963,45.459236",
     "geom:latitude":45.459236,
     "geom:longitude":-98.449963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 Hwy 12 E",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387427857,
-    "wof:lastmodified":1449057243,
+    "wof:lastmodified":1467082709,
     "wof:name":"Driver License Exam Station",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "program"
     ]
 },
-  "bbox": [-98.449963,45.459236,-98.449963,45.459236],
+  "bbox": [
+    -98.449963,
+    45.459236,
+    -98.449963,
+    45.459236
+],
   "geometry": {"coordinates":[-98.449963,45.459236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387273991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.236131,44.362175,-98.236131,44.362175",
     "geom:latitude":44.362175,
     "geom:longitude":-98.236131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Mellette Ave SW",
     "sg:city":"Bonesteel",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387273991,
-    "wof:lastmodified":1449058079,
+    "wof:lastmodified":1467082727,
     "wof:name":"Bonesteel Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-98.236131,44.362175,-98.236131,44.362175],
+  "bbox": [
+    -98.236131,
+    44.362175,
+    -98.236131,
+    44.362175
+],
   "geometry": {"coordinates":[-98.236131,44.362175],"type":"Point"}
 }

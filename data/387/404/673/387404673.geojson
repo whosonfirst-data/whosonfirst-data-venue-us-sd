@@ -2,13 +2,14 @@
   "id": 387404673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.984106,43.39481,-97.984106,43.39481",
     "geom:latitude":43.39481,
     "geom:longitude":-97.984106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 E Main St",
     "sg:city":"Virgil",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387404673,
-    "wof:lastmodified":1449058637,
+    "wof:lastmodified":1467082737,
     "wof:name":"Americald Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.984106,43.39481,-97.984106,43.39481],
+  "bbox": [
+    -97.984106,
+    43.39481,
+    -97.984106,
+    43.39481
+],
   "geometry": {"coordinates":[-97.984106,43.39481],"type":"Point"}
 }

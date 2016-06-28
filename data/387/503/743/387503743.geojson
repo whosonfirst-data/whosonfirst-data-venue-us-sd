@@ -2,13 +2,14 @@
   "id": 387503743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.509799,45.459419,-98.509799,45.459419",
     "geom:latitude":45.459419,
     "geom:longitude":-98.509799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 S 15th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387503743,
-    "wof:lastmodified":1449059931,
+    "wof:lastmodified":1467082763,
     "wof:name":"Palmer Distributing",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-98.509799,45.459419,-98.509799,45.459419],
+  "bbox": [
+    -98.509799,
+    45.459419,
+    -98.509799,
+    45.459419
+],
   "geometry": {"coordinates":[-98.509799,45.459419],"type":"Point"}
 }

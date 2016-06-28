@@ -2,13 +2,14 @@
   "id": 387555791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004077,43.397321,-97.004077,43.397321",
     "geom:latitude":43.397321,
     "geom:longitude":-97.004077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27535 460th Ave",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387555791,
-    "wof:lastmodified":1449059382,
+    "wof:lastmodified":1467082752,
     "wof:name":"Sasker Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.004077,43.397321,-97.004077,43.397321],
+  "bbox": [
+    -97.004077,
+    43.397321,
+    -97.004077,
+    43.397321
+],
   "geometry": {"coordinates":[-97.004077,43.397321],"type":"Point"}
 }

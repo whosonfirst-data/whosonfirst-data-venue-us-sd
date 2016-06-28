@@ -2,13 +2,14 @@
   "id": 403740511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711411,43.595459,-96.711411,43.595459",
     "geom:latitude":43.595459,
     "geom:longitude":-96.711411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4731 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403740511,
-    "wof:lastmodified":1449055242,
+    "wof:lastmodified":1467082679,
     "wof:name":"Home Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-96.711411,43.595459,-96.711411,43.595459],
+  "bbox": [
+    -96.711411,
+    43.595459,
+    -96.711411,
+    43.595459
+],
   "geometry": {"coordinates":[-96.711411,43.595459],"type":"Point"}
 }

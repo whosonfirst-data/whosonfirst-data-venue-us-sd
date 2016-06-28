@@ -2,13 +2,14 @@
   "id": 387395193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.891951,45.762359,-97.891951,45.762359",
     "geom:latitude":45.762359,
     "geom:longitude":-97.891951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41624 112th St",
     "sg:city":"Amherst",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387395193,
-    "wof:lastmodified":1449059367,
+    "wof:lastmodified":1467082752,
     "wof:name":"Wade Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.891951,45.762359,-97.891951,45.762359],
-  "geometry": {"coordinates":[-97.891951,45.762359],"type":"Point"}
+  "bbox": [
+    -97.891951,
+    45.762359,
+    -97.891951,
+    45.762359
+],
+  "geometry": {"coordinates":[-97.89195100000001,45.762359],"type":"Point"}
 }

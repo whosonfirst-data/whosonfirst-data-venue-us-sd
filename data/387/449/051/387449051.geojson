@@ -2,13 +2,14 @@
   "id": 387449051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.526946,44.0117,-97.526946,44.0117",
     "geom:latitude":44.0117,
     "geom:longitude":-97.526946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387449051,
-    "wof:lastmodified":1449059642,
+    "wof:lastmodified":1467082757,
     "wof:name":"Nearly New Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "thrift"
     ]
 },
-  "bbox": [-97.526946,44.0117,-97.526946,44.0117],
+  "bbox": [
+    -97.526946,
+    44.0117,
+    -97.526946,
+    44.0117
+],
   "geometry": {"coordinates":[-97.526946,44.0117],"type":"Point"}
 }

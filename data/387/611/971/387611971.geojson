@@ -2,13 +2,14 @@
   "id": 387611971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.32237,43.866765,-103.32237,43.866765",
     "geom:latitude":43.866765,
     "geom:longitude":-103.32237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24425 Thovson Rd",
     "sg:city":"Keystone",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387611971,
-    "wof:lastmodified":1449059107,
+    "wof:lastmodified":1467082747,
     "wof:name":"B H Electric",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.32237,43.866765,-103.32237,43.866765],
-  "geometry": {"coordinates":[-103.32237,43.866765],"type":"Point"}
+  "bbox": [
+    -103.32237,
+    43.866765,
+    -103.32237,
+    43.866765
+],
+  "geometry": {"coordinates":[-103.32237000000001,43.866765],"type":"Point"}
 }

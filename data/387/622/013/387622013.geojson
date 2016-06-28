@@ -2,13 +2,14 @@
   "id": 387622013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.626289,45.219038,-96.626289,45.219038",
     "geom:latitude":45.219038,
     "geom:longitude":-96.626289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387622013,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1467082749,
     "wof:name":"Whetstone Valley Elec Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-96.626289,45.219038,-96.626289,45.219038],
+  "bbox": [
+    -96.626289,
+    45.219038,
+    -96.626289,
+    45.219038
+],
   "geometry": {"coordinates":[-96.626289,45.219038],"type":"Point"}
 }

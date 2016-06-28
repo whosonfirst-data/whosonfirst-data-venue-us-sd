@@ -2,13 +2,14 @@
   "id": 387289951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.114989,44.540913,-101.114989,44.540913",
     "geom:latitude":44.540913,
     "geom:longitude":-101.114989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19783 250th Ave",
     "sg:city":"Hayes",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387289951,
-    "wof:lastmodified":1449059290,
+    "wof:lastmodified":1467082750,
     "wof:name":"Thorson Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-101.114989,44.540913,-101.114989,44.540913],
-  "geometry": {"coordinates":[-101.114989,44.540913],"type":"Point"}
+  "bbox": [
+    -101.114989,
+    44.540913,
+    -101.114989,
+    44.540913
+],
+  "geometry": {"coordinates":[-101.11498899999999,44.540913],"type":"Point"}
 }

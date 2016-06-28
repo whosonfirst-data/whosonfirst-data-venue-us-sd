@@ -2,13 +2,14 @@
   "id": 371171003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.032259,45.506375,-100.032259,45.506375",
     "geom:latitude":45.506375,
     "geom:longitude":-100.032259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 Main St",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371171003,
-    "wof:lastmodified":1449050153,
+    "wof:lastmodified":1467082673,
     "wof:name":"Berens Bar Hotel & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.032259,45.506375,-100.032259,45.506375],
+  "bbox": [
+    -100.032259,
+    45.506375,
+    -100.032259,
+    45.506375
+],
   "geometry": {"coordinates":[-100.032259,45.506375],"type":"Point"}
 }

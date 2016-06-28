@@ -2,13 +2,14 @@
   "id": 371171455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798729,43.496499,-96.798729,43.496499",
     "geom:latitude":43.496499,
     "geom:longitude":-96.798729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 S Danberry Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371171455,
-    "wof:lastmodified":1449050153,
+    "wof:lastmodified":1467082673,
     "wof:name":"Stan & Ollie's Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-96.798729,43.496499,-96.798729,43.496499],
-  "geometry": {"coordinates":[-96.798729,43.496499],"type":"Point"}
+  "bbox": [
+    -96.798729,
+    43.496499,
+    -96.798729,
+    43.496499
+],
+  "geometry": {"coordinates":[-96.79872899999999,43.496499],"type":"Point"}
 }

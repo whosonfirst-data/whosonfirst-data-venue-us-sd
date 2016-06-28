@@ -2,13 +2,14 @@
   "id": 387302295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.258983,44.084522,-103.258983,44.084522",
     "geom:latitude":44.084522,
     "geom:longitude":-103.258983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2445 W Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387302295,
-    "wof:lastmodified":1449057382,
+    "wof:lastmodified":1467082712,
     "wof:name":"Mx Connection",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-103.258983,44.084522,-103.258983,44.084522],
+  "bbox": [
+    -103.258983,
+    44.084522,
+    -103.258983,
+    44.084522
+],
   "geometry": {"coordinates":[-103.258983,44.084522],"type":"Point"}
 }

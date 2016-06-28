@@ -2,13 +2,14 @@
   "id": 403704829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.41632,45.502588,-98.41632,45.502588",
     "geom:latitude":45.502588,
     "geom:longitude":-98.41632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39084 130th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403704829,
-    "wof:lastmodified":1449054993,
+    "wof:lastmodified":1467082678,
     "wof:name":"Moccasin Creek Country Club",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.41632,45.502588,-98.41632,45.502588],
+  "bbox": [
+    -98.41632,
+    45.502588,
+    -98.41632,
+    45.502588
+],
   "geometry": {"coordinates":[-98.41632,45.502588],"type":"Point"}
 }

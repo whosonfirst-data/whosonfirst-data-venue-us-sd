@@ -2,13 +2,14 @@
   "id": 386976101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733241,44.886232,-97.733241,44.886232",
     "geom:latitude":44.886232,
     "geom:longitude":-97.733241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386976101,
-    "wof:lastmodified":1449028755,
+    "wof:lastmodified":1467082651,
     "wof:name":"United Methodist Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-97.733241,44.886232,-97.733241,44.886232],
-  "geometry": {"coordinates":[-97.733241,44.886232],"type":"Point"}
+  "bbox": [
+    -97.733241,
+    44.886232,
+    -97.733241,
+    44.886232
+],
+  "geometry": {"coordinates":[-97.73324100000001,44.886232],"type":"Point"}
 }

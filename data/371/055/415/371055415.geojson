@@ -2,13 +2,14 @@
   "id": 371055415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485928,45.465146,-98.485928,45.465146",
     "geom:latitude":45.465146,
     "geom:longitude":-98.485928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Court St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371055415,
-    "wof:lastmodified":1449049271,
+    "wof:lastmodified":1467082661,
     "wof:name":"Richardson Wyly Wise Sauck",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-98.485928,45.465146,-98.485928,45.465146],
+  "bbox": [
+    -98.485928,
+    45.465146,
+    -98.485928,
+    45.465146
+],
   "geometry": {"coordinates":[-98.485928,45.465146],"type":"Point"}
 }

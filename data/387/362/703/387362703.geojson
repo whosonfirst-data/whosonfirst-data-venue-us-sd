@@ -2,13 +2,14 @@
   "id": 387362703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.161953,44.097335,-103.161953,44.097335",
     "geom:latitude":44.097335,
     "geom:longitude":-103.161953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2830 Eglin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387362703,
-    "wof:lastmodified":1449058570,
+    "wof:lastmodified":1467082736,
     "wof:name":"Mobile Storage Rentals",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-103.161953,44.097335,-103.161953,44.097335],
+  "bbox": [
+    -103.161953,
+    44.097335,
+    -103.161953,
+    44.097335
+],
   "geometry": {"coordinates":[-103.161953,44.097335],"type":"Point"}
 }

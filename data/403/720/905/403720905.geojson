@@ -2,13 +2,14 @@
   "id": 403720905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.341484,45.588537,-102.341484,45.588537",
     "geom:latitude":45.588537,
     "geom:longitude":-102.341484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18342 Bakke Rd",
     "sg:city":"Lemmon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403720905,
-    "wof:lastmodified":1449054961,
+    "wof:lastmodified":1467082677,
     "wof:name":"American Express Finicial Advi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "se"
     ]
 },
-  "bbox": [-102.341484,45.588537,-102.341484,45.588537],
-  "geometry": {"coordinates":[-102.341484,45.588537],"type":"Point"}
+  "bbox": [
+    -102.341484,
+    45.588537,
+    -102.341484,
+    45.588537
+],
+  "geometry": {"coordinates":[-102.34148399999999,45.588537],"type":"Point"}
 }

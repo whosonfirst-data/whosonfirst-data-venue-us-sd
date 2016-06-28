@@ -2,13 +2,14 @@
   "id": 387564521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.521992,44.41505,-103.521992,44.41505",
     "geom:latitude":44.41505,
     "geom:longitude":-103.521992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2237 Sherman St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387564521,
-    "wof:lastmodified":1449059695,
+    "wof:lastmodified":1467082759,
     "wof:name":"Western Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-103.521992,44.41505,-103.521992,44.41505],
+  "bbox": [
+    -103.521992,
+    44.41505,
+    -103.521992,
+    44.41505
+],
   "geometry": {"coordinates":[-103.521992,44.41505],"type":"Point"}
 }

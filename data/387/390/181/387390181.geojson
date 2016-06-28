@@ -2,13 +2,14 @@
   "id": 387390181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.508551,43.83971,-101.508551,43.83971",
     "geom:latitude":43.83971,
     "geom:longitude":-101.508551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hwy 16",
     "sg:city":"Presho",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387390181,
-    "wof:lastmodified":1449059959,
+    "wof:lastmodified":1467082764,
     "wof:name":"Coachlight Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.508551,43.83971,-101.508551,43.83971],
+  "bbox": [
+    -101.508551,
+    43.83971,
+    -101.508551,
+    43.83971
+],
   "geometry": {"coordinates":[-101.508551,43.83971],"type":"Point"}
 }

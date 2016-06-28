@@ -2,13 +2,14 @@
   "id": 386935157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.287125,44.061005,-103.287125,44.061005",
     "geom:latitude":44.061005,
     "geom:longitude":-103.287125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386935157,
-    "wof:lastmodified":1449028896,
+    "wof:lastmodified":1467082654,
     "wof:name":"Garden Cottages Motel",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.287125,44.061005,-103.287125,44.061005],
+  "bbox": [
+    -103.287125,
+    44.061005,
+    -103.287125,
+    44.061005
+],
   "geometry": {"coordinates":[-103.287125,44.061005],"type":"Point"}
 }

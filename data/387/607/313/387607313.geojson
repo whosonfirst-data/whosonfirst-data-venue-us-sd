@@ -2,13 +2,14 @@
   "id": 387607313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.475026,45.458925,-98.475026,45.458925",
     "geom:latitude":45.458925,
     "geom:longitude":-98.475026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387607313,
-    "wof:lastmodified":1449056607,
+    "wof:lastmodified":1467082697,
     "wof:name":"Marshall Spas and Pools Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.475026,45.458925,-98.475026,45.458925],
+  "bbox": [
+    -98.475026,
+    45.458925,
+    -98.475026,
+    45.458925
+],
   "geometry": {"coordinates":[-98.475026,45.458925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403714147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.423918,45.537318,-100.423918,45.537318",
     "geom:latitude":45.537318,
     "geom:longitude":-100.423918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403714147,
-    "wof:lastmodified":1449055286,
+    "wof:lastmodified":1467082680,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-100.423918,45.537318,-100.423918,45.537318],
+  "bbox": [
+    -100.423918,
+    45.537318,
+    -100.423918,
+    45.537318
+],
   "geometry": {"coordinates":[-100.423918,45.537318],"type":"Point"}
 }

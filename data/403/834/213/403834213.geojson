@@ -2,13 +2,14 @@
   "id": 403834213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.356933,44.15617,-103.356933,44.15617",
     "geom:latitude":44.15617,
     "geom:longitude":-103.356933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 Chickadee Ln",
     "sg:city":"Black Hawk",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403834213,
-    "wof:lastmodified":1449054761,
+    "wof:lastmodified":1467082675,
     "wof:name":"First Look Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.356933,44.15617,-103.356933,44.15617],
+  "bbox": [
+    -103.356933,
+    44.15617,
+    -103.356933,
+    44.15617
+],
   "geometry": {"coordinates":[-103.356933,44.15617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387313843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.151225,44.098573,-103.151225,44.098573",
     "geom:latitude":44.098573,
     "geom:longitude":-103.151225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 S Interstate 90 Svc Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387313843,
-    "wof:lastmodified":1449056231,
+    "wof:lastmodified":1467082689,
     "wof:name":"American West Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.151225,44.098573,-103.151225,44.098573],
+  "bbox": [
+    -103.151225,
+    44.098573,
+    -103.151225,
+    44.098573
+],
   "geometry": {"coordinates":[-103.151225,44.098573],"type":"Point"}
 }

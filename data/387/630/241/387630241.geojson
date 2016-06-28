@@ -2,13 +2,14 @@
   "id": 387630241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.152669,44.025303,-98.152669,44.025303",
     "geom:latitude":44.025303,
     "geom:longitude":-98.152669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40226 232nd St",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387630241,
-    "wof:lastmodified":1449057459,
+    "wof:lastmodified":1467082714,
     "wof:name":"William Hinker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.152669,44.025303,-98.152669,44.025303],
+  "bbox": [
+    -98.152669,
+    44.025303,
+    -98.152669,
+    44.025303
+],
   "geometry": {"coordinates":[-98.152669,44.025303],"type":"Point"}
 }

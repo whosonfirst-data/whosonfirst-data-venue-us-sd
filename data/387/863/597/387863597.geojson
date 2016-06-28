@@ -2,13 +2,14 @@
   "id": 387863597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109509,44.235152,-97.109509,44.235152",
     "geom:latitude":44.235152,
     "geom:longitude":-97.109509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21729 455th Ave",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387863597,
-    "wof:lastmodified":1449058741,
+    "wof:lastmodified":1467082740,
     "wof:name":"Don Mathison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.109509,44.235152,-97.109509,44.235152],
+  "bbox": [
+    -97.109509,
+    44.235152,
+    -97.109509,
+    44.235152
+],
   "geometry": {"coordinates":[-97.109509,44.235152],"type":"Point"}
 }

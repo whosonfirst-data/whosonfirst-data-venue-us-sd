@@ -2,13 +2,14 @@
   "id": 371103701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.635932,45.220646,-96.635932,45.220646",
     "geom:latitude":45.220646,
     "geom:longitude":-96.635932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 S Main St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371103701,
-    "wof:lastmodified":1449049696,
+    "wof:lastmodified":1467082667,
     "wof:name":"Community Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hand"
     ]
 },
-  "bbox": [-96.635932,45.220646,-96.635932,45.220646],
+  "bbox": [
+    -96.635932,
+    45.220646,
+    -96.635932,
+    45.220646
+],
   "geometry": {"coordinates":[-96.635932,45.220646],"type":"Point"}
 }

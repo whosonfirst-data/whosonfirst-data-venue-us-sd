@@ -2,13 +2,14 @@
   "id": 387359753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694469,43.504188,-96.694469,43.504188",
     "geom:latitude":43.504188,
     "geom:longitude":-96.694469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 E 52nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387359753,
-    "wof:lastmodified":1449056053,
+    "wof:lastmodified":1467082686,
     "wof:name":"Pepsi-Cola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.694469,43.504188,-96.694469,43.504188],
+  "bbox": [
+    -96.694469,
+    43.504188,
+    -96.694469,
+    43.504188
+],
   "geometry": {"coordinates":[-96.694469,43.504188],"type":"Point"}
 }

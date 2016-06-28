@@ -2,13 +2,14 @@
   "id": 387876385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796994,44.312791,-96.796994,44.312791",
     "geom:latitude":44.312791,
     "geom:longitude":-96.796994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 5th Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387876385,
-    "wof:lastmodified":1449056865,
+    "wof:lastmodified":1467082702,
     "wof:name":"Town & Country Shopper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guide"
     ]
 },
-  "bbox": [-96.796994,44.312791,-96.796994,44.312791],
+  "bbox": [
+    -96.796994,
+    44.312791,
+    -96.796994,
+    44.312791
+],
   "geometry": {"coordinates":[-96.796994,44.312791],"type":"Point"}
 }

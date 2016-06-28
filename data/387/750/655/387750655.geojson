@@ -2,13 +2,14 @@
   "id": 387750655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221711,44.101849,-103.221711,44.101849",
     "geom:latitude":44.101849,
     "geom:longitude":-103.221711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387750655,
-    "wof:lastmodified":1449058402,
+    "wof:lastmodified":1467082733,
     "wof:name":"Micro Solutions Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-103.221711,44.101849,-103.221711,44.101849],
+  "bbox": [
+    -103.221711,
+    44.101849,
+    -103.221711,
+    44.101849
+],
   "geometry": {"coordinates":[-103.221711,44.101849],"type":"Point"}
 }

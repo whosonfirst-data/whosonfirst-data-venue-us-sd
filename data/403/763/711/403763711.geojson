@@ -2,13 +2,14 @@
   "id": 403763711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.811082,43.66203,-96.811082,43.66203",
     "geom:latitude":43.66203,
     "geom:longitude":-96.811082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 N West Ave",
     "sg:city":"Crooks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403763711,
-    "wof:lastmodified":1449055957,
+    "wof:lastmodified":1467082684,
     "wof:name":"Gally",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.811082,43.66203,-96.811082,43.66203],
+  "bbox": [
+    -96.811082,
+    43.66203,
+    -96.811082,
+    43.66203
+],
   "geometry": {"coordinates":[-96.811082,43.66203],"type":"Point"}
 }

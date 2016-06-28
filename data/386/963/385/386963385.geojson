@@ -2,13 +2,14 @@
   "id": 386963385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205229,44.06274,-103.205229,44.06274",
     "geom:latitude":44.06274,
     "geom:longitude":-103.205229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 E Iowa St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386963385,
-    "wof:lastmodified":1449028660,
+    "wof:lastmodified":1467082650,
     "wof:name":"Habitat Decorating Center",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.205229,44.06274,-103.205229,44.06274],
+  "bbox": [
+    -103.205229,
+    44.06274,
+    -103.205229,
+    44.06274
+],
   "geometry": {"coordinates":[-103.205229,44.06274],"type":"Point"}
 }

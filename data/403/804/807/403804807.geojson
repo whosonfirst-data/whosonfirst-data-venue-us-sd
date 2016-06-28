@@ -2,13 +2,14 @@
   "id": 403804807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.13857,44.902769,-97.13857,44.902769",
     "geom:latitude":44.902769,
     "geom:longitude":-97.13857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 W Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403804807,
-    "wof:lastmodified":1449055534,
+    "wof:lastmodified":1467082681,
     "wof:name":"Brian Cranz Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-97.13857,44.902769,-97.13857,44.902769],
+  "bbox": [
+    -97.13857,
+    44.902769,
+    -97.13857,
+    44.902769
+],
   "geometry": {"coordinates":[-97.13857,44.902769],"type":"Point"}
 }

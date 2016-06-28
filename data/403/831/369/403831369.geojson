@@ -2,13 +2,14 @@
   "id": 403831369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12111,44.014751,-97.12111,44.014751",
     "geom:latitude":44.014751,
     "geom:longitude":-97.12111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 NW 9th St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403831369,
-    "wof:lastmodified":1449055427,
+    "wof:lastmodified":1467082681,
     "wof:name":"L Mister Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.12111,44.014751,-97.12111,44.014751],
+  "bbox": [
+    -97.12111,
+    44.014751,
+    -97.12111,
+    44.014751
+],
   "geometry": {"coordinates":[-97.12111,44.014751],"type":"Point"}
 }

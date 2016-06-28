@@ -2,13 +2,14 @@
   "id": 387908169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.735053,44.878719,-97.735053,44.878719",
     "geom:latitude":44.878719,
     "geom:longitude":-97.735053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Smith St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387908169,
-    "wof:lastmodified":1449058262,
+    "wof:lastmodified":1467082730,
     "wof:name":"Plymouth Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.735053,44.878719,-97.735053,44.878719],
-  "geometry": {"coordinates":[-97.735053,44.878719],"type":"Point"}
+  "bbox": [
+    -97.735053,
+    44.878719,
+    -97.735053,
+    44.878719
+],
+  "geometry": {"coordinates":[-97.73505299999999,44.878719],"type":"Point"}
 }

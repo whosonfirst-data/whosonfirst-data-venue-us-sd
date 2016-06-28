@@ -2,13 +2,14 @@
   "id": 387904993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.638731,45.215467,-96.638731,45.215467",
     "geom:latitude":45.215467,
     "geom:longitude":-96.638731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S 1st St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387904993,
-    "wof:lastmodified":1449060003,
+    "wof:lastmodified":1467082765,
     "wof:name":"Emanuel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "church"
     ]
 },
-  "bbox": [-96.638731,45.215467,-96.638731,45.215467],
-  "geometry": {"coordinates":[-96.638731,45.215467],"type":"Point"}
+  "bbox": [
+    -96.638731,
+    45.215467,
+    -96.638731,
+    45.215467
+],
+  "geometry": {"coordinates":[-96.63873100000001,45.215467],"type":"Point"}
 }

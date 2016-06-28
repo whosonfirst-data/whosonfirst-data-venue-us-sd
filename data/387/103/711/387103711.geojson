@@ -2,13 +2,14 @@
   "id": 387103711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.422615,44.567268,-98.422615,44.567268",
     "geom:latitude":44.567268,
     "geom:longitude":-98.422615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19455 390th Ave",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387103711,
-    "wof:lastmodified":1449058486,
+    "wof:lastmodified":1467082734,
     "wof:name":"Todd Tollefson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.422615,44.567268,-98.422615,44.567268],
-  "geometry": {"coordinates":[-98.422615,44.567268],"type":"Point"}
+  "bbox": [
+    -98.422615,
+    44.567268,
+    -98.422615,
+    44.567268
+],
+  "geometry": {"coordinates":[-98.42261499999999,44.567268],"type":"Point"}
 }

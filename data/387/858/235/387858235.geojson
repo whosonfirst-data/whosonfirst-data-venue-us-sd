@@ -2,13 +2,14 @@
   "id": 387858235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.43835,45.544347,-100.43835,45.544347",
     "geom:latitude":45.544347,
     "geom:longitude":-100.43835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 3rd Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387858235,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"Krumm Joyce Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-100.43835,45.544347,-100.43835,45.544347],
+  "bbox": [
+    -100.43835,
+    45.544347,
+    -100.43835,
+    45.544347
+],
   "geometry": {"coordinates":[-100.43835,45.544347],"type":"Point"}
 }

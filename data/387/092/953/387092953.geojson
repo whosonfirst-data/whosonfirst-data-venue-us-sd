@@ -2,13 +2,14 @@
   "id": 387092953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.793721,44.474324,-103.793721,44.474324",
     "geom:latitude":44.474324,
     "geom:longitude":-103.793721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387092953,
-    "wof:lastmodified":1449059206,
+    "wof:lastmodified":1467082749,
     "wof:name":"Mc Laughlin Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sawmill"
     ]
 },
-  "bbox": [-103.793721,44.474324,-103.793721,44.474324],
-  "geometry": {"coordinates":[-103.793721,44.474324],"type":"Point"}
+  "bbox": [
+    -103.793721,
+    44.474324,
+    -103.793721,
+    44.474324
+],
+  "geometry": {"coordinates":[-103.79372100000001,44.474324],"type":"Point"}
 }

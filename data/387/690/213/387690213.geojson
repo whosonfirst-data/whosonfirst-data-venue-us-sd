@@ -2,13 +2,14 @@
   "id": 387690213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721152,43.516802,-96.721152,43.516802",
     "geom:latitude":43.516802,
     "geom:longitude":-96.721152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 S 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387690213,
-    "wof:lastmodified":1449058119,
+    "wof:lastmodified":1467082727,
     "wof:name":"Swanson's Perfection Cleaning",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-96.721152,43.516802,-96.721152,43.516802],
+  "bbox": [
+    -96.721152,
+    43.516802,
+    -96.721152,
+    43.516802
+],
   "geometry": {"coordinates":[-96.721152,43.516802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387052481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.296278,43.083631,-98.296278,43.083631",
     "geom:latitude":43.083631,
     "geom:longitude":-98.296278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 High Ave NW",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387052481,
-    "wof:lastmodified":1449057831,
+    "wof:lastmodified":1467082721,
     "wof:name":"St John's Luth Chr Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.296278,43.083631,-98.296278,43.083631],
+  "bbox": [
+    -98.296278,
+    43.083631,
+    -98.296278,
+    43.083631
+],
   "geometry": {"coordinates":[-98.296278,43.083631],"type":"Point"}
 }

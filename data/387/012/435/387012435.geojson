@@ -2,13 +2,14 @@
   "id": 387012435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.167179,43.720324,-98.167179,43.720324",
     "geom:latitude":43.720324,
     "geom:longitude":-98.167179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25275 402nd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387012435,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1467082755,
     "wof:name":"D & D Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.167179,43.720324,-98.167179,43.720324],
+  "bbox": [
+    -98.167179,
+    43.720324,
+    -98.167179,
+    43.720324
+],
   "geometry": {"coordinates":[-98.167179,43.720324],"type":"Point"}
 }

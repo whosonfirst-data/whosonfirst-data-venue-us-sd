@@ -2,13 +2,14 @@
   "id": 386934685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.512711,44.413228,-103.512711,44.413228",
     "geom:latitude":44.413228,
     "geom:longitude":-103.512711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 2nd St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386934685,
-    "wof:lastmodified":1449028643,
+    "wof:lastmodified":1467082649,
     "wof:name":"Dakota Hills Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-103.512711,44.413228,-103.512711,44.413228],
+  "bbox": [
+    -103.512711,
+    44.413228,
+    -103.512711,
+    44.413228
+],
   "geometry": {"coordinates":[-103.512711,44.413228],"type":"Point"}
 }

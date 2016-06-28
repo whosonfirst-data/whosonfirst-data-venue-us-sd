@@ -2,13 +2,14 @@
   "id": 387218161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.186917,43.70458,-97.186917,43.70458",
     "geom:latitude":43.70458,
     "geom:longitude":-97.186917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Elder St",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387218161,
-    "wof:lastmodified":1449058518,
+    "wof:lastmodified":1467082735,
     "wof:name":"Petri Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-97.186917,43.70458,-97.186917,43.70458],
-  "geometry": {"coordinates":[-97.186917,43.70458],"type":"Point"}
+  "bbox": [
+    -97.186917,
+    43.70458,
+    -97.186917,
+    43.70458
+],
+  "geometry": {"coordinates":[-97.18691699999999,43.70458],"type":"Point"}
 }

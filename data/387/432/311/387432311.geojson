@@ -2,13 +2,14 @@
   "id": 387432311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38565,45.920793,-97.38565,45.920793",
     "geom:latitude":45.920793,
     "geom:longitude":-97.38565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 la Frombois St",
     "sg:city":"Veblen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387432311,
-    "wof:lastmodified":1449056046,
+    "wof:lastmodified":1467082685,
     "wof:name":"Kid's Corner Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.38565,45.920793,-97.38565,45.920793],
+  "bbox": [
+    -97.38565,
+    45.920793,
+    -97.38565,
+    45.920793
+],
   "geometry": {"coordinates":[-97.38565,45.920793],"type":"Point"}
 }

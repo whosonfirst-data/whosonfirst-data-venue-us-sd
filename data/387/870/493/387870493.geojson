@@ -2,13 +2,14 @@
   "id": 387870493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.459446,45.52343,-102.459446,45.52343",
     "geom:latitude":45.52343,
     "geom:longitude":-102.459446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 4th Ave E",
     "sg:city":"Bison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387870493,
-    "wof:lastmodified":1449057103,
+    "wof:lastmodified":1467082706,
     "wof:name":"Bison Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-102.459446,45.52343,-102.459446,45.52343],
+  "bbox": [
+    -102.459446,
+    45.52343,
+    -102.459446,
+    45.52343
+],
   "geometry": {"coordinates":[-102.459446,45.52343],"type":"Point"}
 }

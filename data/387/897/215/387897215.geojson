@@ -2,13 +2,14 @@
   "id": 387897215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.471793,45.4821,-98.471793,45.4821",
     "geom:latitude":45.4821,
     "geom:longitude":-98.471793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1636 Somerset Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387897215,
-    "wof:lastmodified":1449059310,
+    "wof:lastmodified":1467082751,
     "wof:name":"Central Storage",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-98.471793,45.4821,-98.471793,45.4821],
-  "geometry": {"coordinates":[-98.471793,45.4821],"type":"Point"}
+  "bbox": [
+    -98.471793,
+    45.4821,
+    -98.471793,
+    45.4821
+],
+  "geometry": {"coordinates":[-98.47179300000001,45.4821],"type":"Point"}
 }

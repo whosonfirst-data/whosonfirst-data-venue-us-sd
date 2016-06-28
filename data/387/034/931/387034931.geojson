@@ -2,13 +2,14 @@
   "id": 387034931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.954193,45.011443,-99.954193,45.011443",
     "geom:latitude":45.011443,
     "geom:longitude":-99.954193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Commercial Ave",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387034931,
-    "wof:lastmodified":1449056535,
+    "wof:lastmodified":1467082695,
     "wof:name":"Teddy Bear Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.954193,45.011443,-99.954193,45.011443],
+  "bbox": [
+    -99.954193,
+    45.011443,
+    -99.954193,
+    45.011443
+],
   "geometry": {"coordinates":[-99.954193,45.011443],"type":"Point"}
 }

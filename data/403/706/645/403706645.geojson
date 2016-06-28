@@ -2,13 +2,14 @@
   "id": 403706645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857184,44.483483,-103.857184,44.483483",
     "geom:latitude":44.483483,
     "geom:longitude":-103.857184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Main St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403706645,
-    "wof:lastmodified":1449054728,
+    "wof:lastmodified":1467082675,
     "wof:name":"Friends Salon Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.857184,44.483483,-103.857184,44.483483],
+  "bbox": [
+    -103.857184,
+    44.483483,
+    -103.857184,
+    44.483483
+],
   "geometry": {"coordinates":[-103.857184,44.483483],"type":"Point"}
 }

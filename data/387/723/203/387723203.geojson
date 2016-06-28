@@ -2,13 +2,14 @@
   "id": 387723203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.330843,45.461898,-98.330843,45.461898",
     "geom:latitude":45.461898,
     "geom:longitude":-98.330843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13275 Country Dr",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387723203,
-    "wof:lastmodified":1449058327,
+    "wof:lastmodified":1467082731,
     "wof:name":"Abby's Cleaning Svc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.330843,45.461898,-98.330843,45.461898],
+  "bbox": [
+    -98.330843,
+    45.461898,
+    -98.330843,
+    45.461898
+],
   "geometry": {"coordinates":[-98.330843,45.461898],"type":"Point"}
 }

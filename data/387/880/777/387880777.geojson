@@ -2,13 +2,14 @@
   "id": 387880777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.3909,44.053413,-98.3909,44.053413",
     "geom:latitude":44.053413,
     "geom:longitude":-98.3909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39109 Old Hwy 34",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387880777,
-    "wof:lastmodified":1449059957,
+    "wof:lastmodified":1467082764,
     "wof:name":"Ron Goergen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.3909,44.053413,-98.3909,44.053413],
+  "bbox": [
+    -98.3909,
+    44.053413,
+    -98.3909,
+    44.053413
+],
   "geometry": {"coordinates":[-98.3909,44.053413],"type":"Point"}
 }

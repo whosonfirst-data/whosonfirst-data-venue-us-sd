@@ -2,13 +2,14 @@
   "id": 403813079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.102148,45.154166,-98.102148,45.154166",
     "geom:latitude":45.154166,
     "geom:longitude":-98.102148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Co Rd 6",
     "sg:city":"Conde",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403813079,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1467082678,
     "wof:name":"Larry Hearnen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.102148,45.154166,-98.102148,45.154166],
+  "bbox": [
+    -98.102148,
+    45.154166,
+    -98.102148,
+    45.154166
+],
   "geometry": {"coordinates":[-98.102148,45.154166],"type":"Point"}
 }

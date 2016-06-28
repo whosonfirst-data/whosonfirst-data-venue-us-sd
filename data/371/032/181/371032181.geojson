@@ -2,13 +2,14 @@
   "id": 371032181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.50835,44.736168,-98.50835,44.736168",
     "geom:latitude":44.736168,
     "geom:longitude":-98.50835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 3rd Ave",
     "sg:city":"Tulare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371032181,
-    "wof:lastmodified":1449049526,
+    "wof:lastmodified":1467082665,
     "wof:name":"Dawn's Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.50835,44.736168,-98.50835,44.736168],
-  "geometry": {"coordinates":[-98.50835,44.736168],"type":"Point"}
+  "bbox": [
+    -98.50835,
+    44.736168,
+    -98.50835,
+    44.736168
+],
+  "geometry": {"coordinates":[-98.50834999999999,44.736168],"type":"Point"}
 }

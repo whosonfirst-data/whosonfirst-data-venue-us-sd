@@ -2,13 +2,14 @@
   "id": 387308065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512643,45.340996,-97.512643,45.340996",
     "geom:latitude":45.340996,
     "geom:longitude":-97.512643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 US Hwy 12",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387308065,
-    "wof:lastmodified":1449060018,
+    "wof:lastmodified":1467082765,
     "wof:name":"Dave Hahler Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.512643,45.340996,-97.512643,45.340996],
+  "bbox": [
+    -97.512643,
+    45.340996,
+    -97.512643,
+    45.340996
+],
   "geometry": {"coordinates":[-97.512643,45.340996],"type":"Point"}
 }

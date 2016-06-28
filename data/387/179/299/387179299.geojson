@@ -2,13 +2,14 @@
   "id": 387179299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.948801,43.624727,-96.948801,43.624727",
     "geom:latitude":43.624727,
     "geom:longitude":-96.948801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W 4th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387179299,
-    "wof:lastmodified":1449059524,
+    "wof:lastmodified":1467082755,
     "wof:name":"Griff's Wallcovering & Paint",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.948801,43.624727,-96.948801,43.624727],
+  "bbox": [
+    -96.948801,
+    43.624727,
+    -96.948801,
+    43.624727
+],
   "geometry": {"coordinates":[-96.948801,43.624727],"type":"Point"}
 }

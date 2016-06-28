@@ -2,13 +2,14 @@
   "id": 387835629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.692589,43.540388,-96.692589,43.540388",
     "geom:latitude":43.540388,
     "geom:longitude":-96.692589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 S Blaine Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387835629,
-    "wof:lastmodified":1449056646,
+    "wof:lastmodified":1467082697,
     "wof:name":"Trini J Gonzalez",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marshal"
     ]
 },
-  "bbox": [-96.692589,43.540388,-96.692589,43.540388],
+  "bbox": [
+    -96.692589,
+    43.540388,
+    -96.692589,
+    43.540388
+],
   "geometry": {"coordinates":[-96.692589,43.540388],"type":"Point"}
 }

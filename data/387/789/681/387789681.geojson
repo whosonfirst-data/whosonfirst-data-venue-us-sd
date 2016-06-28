@@ -2,13 +2,14 @@
   "id": 387789681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.296989,44.08823,-103.296989,44.08823",
     "geom:latitude":44.08823,
     "geom:longitude":-103.296989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4717 S Canyon Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387789681,
-    "wof:lastmodified":1449057819,
+    "wof:lastmodified":1467082721,
     "wof:name":"Young Electric",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.296989,44.08823,-103.296989,44.08823],
+  "bbox": [
+    -103.296989,
+    44.08823,
+    -103.296989,
+    44.08823
+],
   "geometry": {"coordinates":[-103.296989,44.08823],"type":"Point"}
 }

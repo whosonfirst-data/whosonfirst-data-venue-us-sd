@@ -2,13 +2,14 @@
   "id": 387879671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.598565,45.294474,-98.598565,45.294474",
     "geom:latitude":45.294474,
     "geom:longitude":-98.598565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14445 382nd Ave",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387879671,
-    "wof:lastmodified":1449056146,
+    "wof:lastmodified":1467082687,
     "wof:name":"Wade Rozell",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.598565,45.294474,-98.598565,45.294474],
-  "geometry": {"coordinates":[-98.598565,45.294474],"type":"Point"}
+  "bbox": [
+    -98.598565,
+    45.294474,
+    -98.598565,
+    45.294474
+],
+  "geometry": {"coordinates":[-98.59856499999999,45.294474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387422455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806305,43.50166,-96.806305,43.50166",
     "geom:latitude":43.50166,
     "geom:longitude":-96.806305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6515 W 55th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387422455,
-    "wof:lastmodified":1449056378,
+    "wof:lastmodified":1467082692,
     "wof:name":"Williams Jennifer Day Care",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.806305,43.50166,-96.806305,43.50166],
-  "geometry": {"coordinates":[-96.806305,43.50166],"type":"Point"}
+  "bbox": [
+    -96.806305,
+    43.50166,
+    -96.806305,
+    43.50166
+],
+  "geometry": {"coordinates":[-96.80630499999999,43.50166],"type":"Point"}
 }

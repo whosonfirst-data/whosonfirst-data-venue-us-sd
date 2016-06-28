@@ -2,13 +2,14 @@
   "id": 387880033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.427884,43.238912,-99.427884,43.238912",
     "geom:latitude":43.238912,
     "geom:longitude":-99.427884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E 12th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387880033,
-    "wof:lastmodified":1449059953,
+    "wof:lastmodified":1467082764,
     "wof:name":"Silver Threads Residence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-99.427884,43.238912,-99.427884,43.238912],
-  "geometry": {"coordinates":[-99.427884,43.238912],"type":"Point"}
+  "bbox": [
+    -99.427884,
+    43.238912,
+    -99.427884,
+    43.238912
+],
+  "geometry": {"coordinates":[-99.42788400000001,43.238912],"type":"Point"}
 }

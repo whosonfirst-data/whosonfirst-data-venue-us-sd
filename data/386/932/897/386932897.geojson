@@ -2,13 +2,14 @@
   "id": 386932897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.731175,43.512971,-96.731175,43.512971",
     "geom:latitude":43.512971,
     "geom:longitude":-96.731175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W 43rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386932897,
-    "wof:lastmodified":1449028744,
+    "wof:lastmodified":1467082651,
     "wof:name":"North Cliff Plaza Storage",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-96.731175,43.512971,-96.731175,43.512971],
-  "geometry": {"coordinates":[-96.731175,43.512971],"type":"Point"}
+  "bbox": [
+    -96.731175,
+    43.512971,
+    -96.731175,
+    43.512971
+],
+  "geometry": {"coordinates":[-96.73117499999999,43.512971],"type":"Point"}
 }

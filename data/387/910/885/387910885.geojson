@@ -2,13 +2,14 @@
   "id": 387910885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.021141,43.704541,-98.021141,43.704541",
     "geom:latitude":43.704541,
     "geom:longitude":-98.021141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Langdon St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387910885,
-    "wof:lastmodified":1449057690,
+    "wof:lastmodified":1467082719,
     "wof:name":"Weisser's Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.021141,43.704541,-98.021141,43.704541],
+  "bbox": [
+    -98.021141,
+    43.704541,
+    -98.021141,
+    43.704541
+],
   "geometry": {"coordinates":[-98.021141,43.704541],"type":"Point"}
 }

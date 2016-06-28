@@ -2,13 +2,14 @@
   "id": 387972345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.319475,45.390413,-99.319475,45.390413",
     "geom:latitude":45.390413,
     "geom:longitude":-99.319475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34258 138th St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387972345,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1467082725,
     "wof:name":"Marco Weisser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.319475,45.390413,-99.319475,45.390413],
+  "bbox": [
+    -99.319475,
+    45.390413,
+    -99.319475,
+    45.390413
+],
   "geometry": {"coordinates":[-99.319475,45.390413],"type":"Point"}
 }

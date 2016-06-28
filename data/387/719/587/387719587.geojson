@@ -2,13 +2,14 @@
   "id": 387719587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810326,43.532226,-96.810326,43.532226",
     "geom:latitude":43.532226,
     "geom:longitude":-96.810326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 S Deerberry Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387719587,
-    "wof:lastmodified":1449056598,
+    "wof:lastmodified":1467082696,
     "wof:name":"Cruise One",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cruise"
     ]
 },
-  "bbox": [-96.810326,43.532226,-96.810326,43.532226],
+  "bbox": [
+    -96.810326,
+    43.532226,
+    -96.810326,
+    43.532226
+],
   "geometry": {"coordinates":[-96.810326,43.532226],"type":"Point"}
 }

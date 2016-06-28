@@ -2,13 +2,14 @@
   "id": 403782569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.11395,44.005056,-97.11395,44.005056",
     "geom:latitude":44.005056,
     "geom:longitude":-97.11395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403782569,
-    "wof:lastmodified":1449054623,
+    "wof:lastmodified":1467082674,
     "wof:name":"Prairiewave Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "company"
     ]
 },
-  "bbox": [-97.11395,44.005056,-97.11395,44.005056],
+  "bbox": [
+    -97.11395,
+    44.005056,
+    -97.11395,
+    44.005056
+],
   "geometry": {"coordinates":[-97.11395,44.005056],"type":"Point"}
 }

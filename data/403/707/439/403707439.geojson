@@ -2,13 +2,14 @@
   "id": 403707439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.956594,42.789792,-96.956594,42.789792",
     "geom:latitude":42.789792,
     "geom:longitude":-96.956594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Baylor St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403707439,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1467082683,
     "wof:name":"Tot Spot Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.956594,42.789792,-96.956594,42.789792],
+  "bbox": [
+    -96.956594,
+    42.789792,
+    -96.956594,
+    42.789792
+],
   "geometry": {"coordinates":[-96.956594,42.789792],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403745853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798901,43.526199,-96.798901,43.526199",
     "geom:latitude":43.526199,
     "geom:longitude":-96.798901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5912 W Bristol Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403745853,
-    "wof:lastmodified":1449055887,
+    "wof:lastmodified":1467082684,
     "wof:name":"CRC Seamless Siding",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.798901,43.526199,-96.798901,43.526199],
+  "bbox": [
+    -96.798901,
+    43.526199,
+    -96.798901,
+    43.526199
+],
   "geometry": {"coordinates":[-96.798901,43.526199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387683537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507576,45.832205,-98.507576,45.832205",
     "geom:latitude":45.832205,
     "geom:longitude":-98.507576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Main St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387683537,
-    "wof:lastmodified":1449057501,
+    "wof:lastmodified":1467082715,
     "wof:name":"Ponderosa Bar & Grill",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.507576,45.832205,-98.507576,45.832205],
+  "bbox": [
+    -98.507576,
+    45.832205,
+    -98.507576,
+    45.832205
+],
   "geometry": {"coordinates":[-98.507576,45.832205],"type":"Point"}
 }

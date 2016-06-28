@@ -2,13 +2,14 @@
   "id": 370979525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711432,43.586537,-96.711432,43.586537",
     "geom:latitude":43.586537,
     "geom:longitude":-96.711432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370979525,
-    "wof:lastmodified":1449031473,
+    "wof:lastmodified":1467082657,
     "wof:name":"Steins Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "industrial"
     ]
 },
-  "bbox": [-96.711432,43.586537,-96.711432,43.586537],
+  "bbox": [
+    -96.711432,
+    43.586537,
+    -96.711432,
+    43.586537
+],
   "geometry": {"coordinates":[-96.711432,43.586537],"type":"Point"}
 }

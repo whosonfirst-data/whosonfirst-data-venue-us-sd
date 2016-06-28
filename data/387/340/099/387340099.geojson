@@ -2,13 +2,14 @@
   "id": 387340099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.559246,43.520766,-96.559246,43.520766",
     "geom:latitude":43.520766,
     "geom:longitude":-96.559246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48256 State Hwy 42",
     "sg:city":"Rowena",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387340099,
-    "wof:lastmodified":1449059043,
+    "wof:lastmodified":1467082746,
     "wof:name":"L & L Karting & Repair",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.559246,43.520766,-96.559246,43.520766],
+  "bbox": [
+    -96.559246,
+    43.520766,
+    -96.559246,
+    43.520766
+],
   "geometry": {"coordinates":[-96.559246,43.520766],"type":"Point"}
 }

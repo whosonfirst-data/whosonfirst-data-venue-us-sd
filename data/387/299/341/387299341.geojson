@@ -2,13 +2,14 @@
   "id": 387299341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.264323,44.049061,-103.264323,44.049061",
     "geom:latitude":44.049061,
     "geom:longitude":-103.264323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387299341,
-    "wof:lastmodified":1449057072,
+    "wof:lastmodified":1467082706,
     "wof:name":"Twin Pines Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.264323,44.049061,-103.264323,44.049061],
+  "bbox": [
+    -103.264323,
+    44.049061,
+    -103.264323,
+    44.049061
+],
   "geometry": {"coordinates":[-103.264323,44.049061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387471007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.801252,44.47546,-103.801252,44.47546",
     "geom:latitude":44.47546,
     "geom:longitude":-103.801252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 E Colorado Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387471007,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1467082717,
     "wof:name":"Dennis Forgey Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.801252,44.47546,-103.801252,44.47546],
-  "geometry": {"coordinates":[-103.801252,44.47546],"type":"Point"}
+  "bbox": [
+    -103.801252,
+    44.47546,
+    -103.801252,
+    44.47546
+],
+  "geometry": {"coordinates":[-103.80125200000001,44.47546],"type":"Point"}
 }

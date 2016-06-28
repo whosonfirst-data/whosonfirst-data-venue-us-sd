@@ -2,13 +2,14 @@
   "id": 387537843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.20177,44.088381,-103.20177,44.088381",
     "geom:latitude":44.088381,
     "geom:longitude":-103.20177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 E Watertown St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387537843,
-    "wof:lastmodified":1449057034,
+    "wof:lastmodified":1467082705,
     "wof:name":"Rapid Taxi & Delivery Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-103.20177,44.088381,-103.20177,44.088381],
+  "bbox": [
+    -103.20177,
+    44.088381,
+    -103.20177,
+    44.088381
+],
   "geometry": {"coordinates":[-103.20177,44.088381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387502395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.451355,45.552093,-100.451355,45.552093",
     "geom:latitude":45.552093,
     "geom:longitude":-100.451355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 W Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387502395,
-    "wof:lastmodified":1449057846,
+    "wof:lastmodified":1467082722,
     "wof:name":"Mobridge Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pawn"
     ]
 },
-  "bbox": [-100.451355,45.552093,-100.451355,45.552093],
-  "geometry": {"coordinates":[-100.451355,45.552093],"type":"Point"}
+  "bbox": [
+    -100.451355,
+    45.552093,
+    -100.451355,
+    45.552093
+],
+  "geometry": {"coordinates":[-100.45135500000001,45.552093],"type":"Point"}
 }

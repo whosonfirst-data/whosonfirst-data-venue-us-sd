@@ -2,13 +2,14 @@
   "id": 387253843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715568,43.548494,-96.715568,43.548494",
     "geom:latitude":43.548494,
     "geom:longitude":-96.715568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Indiana Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387253843,
-    "wof:lastmodified":1449059448,
+    "wof:lastmodified":1467082754,
     "wof:name":"Consolidated Readers Service",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "subscription"
     ]
 },
-  "bbox": [-96.715568,43.548494,-96.715568,43.548494],
+  "bbox": [
+    -96.715568,
+    43.548494,
+    -96.715568,
+    43.548494
+],
   "geometry": {"coordinates":[-96.715568,43.548494],"type":"Point"}
 }

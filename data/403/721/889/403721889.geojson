@@ -2,13 +2,14 @@
   "id": 403721889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.964344,43.601738,-96.964344,43.601738",
     "geom:latitude":43.601738,
     "geom:longitude":-96.964344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46204 261st St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403721889,
-    "wof:lastmodified":1449055958,
+    "wof:lastmodified":1467082684,
     "wof:name":"B & B Enterprises",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-96.964344,43.601738,-96.964344,43.601738],
+  "bbox": [
+    -96.964344,
+    43.601738,
+    -96.964344,
+    43.601738
+],
   "geometry": {"coordinates":[-96.964344,43.601738],"type":"Point"}
 }

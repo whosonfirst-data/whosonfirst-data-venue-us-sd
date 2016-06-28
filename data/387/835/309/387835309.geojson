@@ -2,13 +2,14 @@
   "id": 387835309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.318965,43.985077,-103.318965,43.985077",
     "geom:latitude":43.985077,
     "geom:longitude":-103.318965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23590 Wilderness Canyon Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387835309,
-    "wof:lastmodified":1449056645,
+    "wof:lastmodified":1467082697,
     "wof:name":"Money Matters Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.318965,43.985077,-103.318965,43.985077],
-  "geometry": {"coordinates":[-103.318965,43.985077],"type":"Point"}
+  "bbox": [
+    -103.318965,
+    43.985077,
+    -103.318965,
+    43.985077
+],
+  "geometry": {"coordinates":[-103.31896500000001,43.985077],"type":"Point"}
 }

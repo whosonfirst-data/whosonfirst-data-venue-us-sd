@@ -2,13 +2,14 @@
   "id": 387321109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767732,43.570228,-96.767732,43.570228",
     "geom:latitude":43.570228,
     "geom:longitude":-96.767732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387321109,
-    "wof:lastmodified":1449056209,
+    "wof:lastmodified":1467082689,
     "wof:name":"T Brothers Logistics",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.767732,43.570228,-96.767732,43.570228],
+  "bbox": [
+    -96.767732,
+    43.570228,
+    -96.767732,
+    43.570228
+],
   "geometry": {"coordinates":[-96.767732,43.570228],"type":"Point"}
 }

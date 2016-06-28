@@ -2,13 +2,14 @@
   "id": 387728269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.299389,44.079981,-103.299389,44.079981",
     "geom:latitude":44.079981,
     "geom:longitude":-103.299389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 S Berry Pine Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387728269,
-    "wof:lastmodified":1449056993,
+    "wof:lastmodified":1467082704,
     "wof:name":"Jerke Management Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-103.299389,44.079981,-103.299389,44.079981],
-  "geometry": {"coordinates":[-103.299389,44.079981],"type":"Point"}
+  "bbox": [
+    -103.299389,
+    44.079981,
+    -103.299389,
+    44.079981
+],
+  "geometry": {"coordinates":[-103.29938900000001,44.079981],"type":"Point"}
 }

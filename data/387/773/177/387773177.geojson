@@ -2,13 +2,14 @@
   "id": 387773177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663301,43.544265,-96.663301,43.544265",
     "geom:latitude":43.544265,
     "geom:longitude":-96.663301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387773177,
-    "wof:lastmodified":1449056593,
+    "wof:lastmodified":1467082696,
     "wof:name":"Mid States Audio Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-96.663301,43.544265,-96.663301,43.544265],
+  "bbox": [
+    -96.663301,
+    43.544265,
+    -96.663301,
+    43.544265
+],
   "geometry": {"coordinates":[-96.663301,43.544265],"type":"Point"}
 }

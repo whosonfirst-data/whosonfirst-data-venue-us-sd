@@ -2,13 +2,14 @@
   "id": 387234789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.87552,44.515754,-103.87552,44.515754",
     "geom:latitude":44.515754,
     "geom:longitude":-103.87552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Lourie Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387234789,
-    "wof:lastmodified":1449059711,
+    "wof:lastmodified":1467082759,
     "wof:name":"Chucks Custom Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-103.87552,44.515754,-103.87552,44.515754],
-  "geometry": {"coordinates":[-103.87552,44.515754],"type":"Point"}
+  "bbox": [
+    -103.87552,
+    44.515754,
+    -103.87552,
+    44.515754
+],
+  "geometry": {"coordinates":[-103.87551999999999,44.515754],"type":"Point"}
 }

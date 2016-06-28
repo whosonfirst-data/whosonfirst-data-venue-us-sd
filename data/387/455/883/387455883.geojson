@@ -2,13 +2,14 @@
   "id": 387455883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109879,44.010854,-97.109879,44.010854",
     "geom:latitude":44.010854,
     "geom:longitude":-97.109879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387455883,
-    "wof:lastmodified":1449059319,
+    "wof:lastmodified":1467082751,
     "wof:name":"Q-Set Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "analysis"
     ]
 },
-  "bbox": [-97.109879,44.010854,-97.109879,44.010854],
-  "geometry": {"coordinates":[-97.109879,44.010854],"type":"Point"}
+  "bbox": [
+    -97.109879,
+    44.010854,
+    -97.109879,
+    44.010854
+],
+  "geometry": {"coordinates":[-97.10987900000001,44.010854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387968953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.708096,45.485767,-99.708096,45.485767",
     "geom:latitude":45.485767,
     "geom:longitude":-99.708096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13137 323rd Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387968953,
-    "wof:lastmodified":1449056352,
+    "wof:lastmodified":1467082692,
     "wof:name":"Ronald Wolff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-99.708096,45.485767,-99.708096,45.485767],
+  "bbox": [
+    -99.708096,
+    45.485767,
+    -99.708096,
+    45.485767
+],
   "geometry": {"coordinates":[-99.708096,45.485767],"type":"Point"}
 }

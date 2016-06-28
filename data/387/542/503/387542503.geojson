@@ -2,13 +2,14 @@
   "id": 387542503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.485113,45.456057,-98.485113,45.456057",
     "geom:latitude":45.456057,
     "geom:longitude":-98.485113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 S Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387542503,
-    "wof:lastmodified":1449059060,
+    "wof:lastmodified":1467082746,
     "wof:name":"Eds Remodeling",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-98.485113,45.456057,-98.485113,45.456057],
+  "bbox": [
+    -98.485113,
+    45.456057,
+    -98.485113,
+    45.456057
+],
   "geometry": {"coordinates":[-98.485113,45.456057],"type":"Point"}
 }

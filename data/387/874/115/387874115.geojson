@@ -2,13 +2,14 @@
   "id": 387874115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.630602,43.533312,-96.630602,43.533312",
     "geom:latitude":43.533312,
     "geom:longitude":-96.630602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 S Six Mile Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387874115,
-    "wof:lastmodified":1449059671,
+    "wof:lastmodified":1467082758,
     "wof:name":"Bruggeman Collision",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-96.630602,43.533312,-96.630602,43.533312],
+  "bbox": [
+    -96.630602,
+    43.533312,
+    -96.630602,
+    43.533312
+],
   "geometry": {"coordinates":[-96.630602,43.533312],"type":"Point"}
 }

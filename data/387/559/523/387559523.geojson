@@ -2,13 +2,14 @@
   "id": 387559523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.903842,44.577387,-96.903842,44.577387",
     "geom:latitude":44.577387,
     "geom:longitude":-96.903842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 2nd St",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387559523,
-    "wof:lastmodified":1449059080,
+    "wof:lastmodified":1467082746,
     "wof:name":"United Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.903842,44.577387,-96.903842,44.577387],
+  "bbox": [
+    -96.903842,
+    44.577387,
+    -96.903842,
+    44.577387
+],
   "geometry": {"coordinates":[-96.903842,44.577387],"type":"Point"}
 }

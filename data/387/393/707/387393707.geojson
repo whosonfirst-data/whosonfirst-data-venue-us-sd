@@ -2,13 +2,14 @@
   "id": 387393707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751162,43.510902,-96.751162,43.510902",
     "geom:latitude":43.510902,
     "geom:longitude":-96.751162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3821 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387393707,
-    "wof:lastmodified":1449057299,
+    "wof:lastmodified":1467082710,
     "wof:name":"Midwest Energy Systems",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chimney"
     ]
 },
-  "bbox": [-96.751162,43.510902,-96.751162,43.510902],
-  "geometry": {"coordinates":[-96.751162,43.510902],"type":"Point"}
+  "bbox": [
+    -96.751162,
+    43.510902,
+    -96.751162,
+    43.510902
+],
+  "geometry": {"coordinates":[-96.75116199999999,43.510902],"type":"Point"}
 }

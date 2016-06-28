@@ -2,13 +2,14 @@
   "id": 387817465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217528,44.36312,-98.217528,44.36312",
     "geom:latitude":44.36312,
     "geom:longitude":-98.217528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Illinois Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387817465,
-    "wof:lastmodified":1449059171,
+    "wof:lastmodified":1467082748,
     "wof:name":"South Dakota Public Empl Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.217528,44.36312,-98.217528,44.36312],
+  "bbox": [
+    -98.217528,
+    44.36312,
+    -98.217528,
+    44.36312
+],
   "geometry": {"coordinates":[-98.217528,44.36312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387243071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.68837,43.549144,-96.68837,43.549144",
     "geom:latitude":43.549144,
     "geom:longitude":-96.68837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 N Chapel Hill Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387243071,
-    "wof:lastmodified":1449057335,
+    "wof:lastmodified":1467082711,
     "wof:name":"Hills Of Rest Memorial Park",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-96.68837,43.549144,-96.68837,43.549144],
-  "geometry": {"coordinates":[-96.68837,43.549144],"type":"Point"}
+  "bbox": [
+    -96.68837,
+    43.549144,
+    -96.68837,
+    43.549144
+],
+  "geometry": {"coordinates":[-96.68837000000001,43.549144],"type":"Point"}
 }

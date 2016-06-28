@@ -2,13 +2,14 @@
   "id": 403813875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748678,43.513908,-96.748678,43.513908",
     "geom:latitude":43.513908,
     "geom:longitude":-96.748678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 S Hawthorne Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403813875,
-    "wof:lastmodified":1449054987,
+    "wof:lastmodified":1467082678,
     "wof:name":"Mc Dougall Commodities",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [-96.748678,43.513908,-96.748678,43.513908],
+  "bbox": [
+    -96.748678,
+    43.513908,
+    -96.748678,
+    43.513908
+],
   "geometry": {"coordinates":[-96.748678,43.513908],"type":"Point"}
 }

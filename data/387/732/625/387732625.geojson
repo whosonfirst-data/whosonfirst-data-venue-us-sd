@@ -2,13 +2,14 @@
   "id": 387732625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751158,43.530218,-96.751158,43.530218",
     "geom:latitude":43.530218,
     "geom:longitude":-96.751158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387732625,
-    "wof:lastmodified":1449060035,
+    "wof:lastmodified":1467082766,
     "wof:name":"Karen's For Her",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-96.751158,43.530218,-96.751158,43.530218],
+  "bbox": [
+    -96.751158,
+    43.530218,
+    -96.751158,
+    43.530218
+],
   "geometry": {"coordinates":[-96.751158,43.530218],"type":"Point"}
 }

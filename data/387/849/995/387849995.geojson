@@ -2,13 +2,14 @@
   "id": 387849995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738985,43.551267,-96.738985,43.551267",
     "geom:latitude":43.551267,
     "geom:longitude":-96.738985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 W 6th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387849995,
-    "wof:lastmodified":1449056801,
+    "wof:lastmodified":1467082700,
     "wof:name":"Ken's Korner",
     "wof:parent_id":85820755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "general"
     ]
 },
-  "bbox": [-96.738985,43.551267,-96.738985,43.551267],
+  "bbox": [
+    -96.738985,
+    43.551267,
+    -96.738985,
+    43.551267
+],
   "geometry": {"coordinates":[-96.738985,43.551267],"type":"Point"}
 }

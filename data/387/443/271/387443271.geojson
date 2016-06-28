@@ -2,13 +2,14 @@
   "id": 387443271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.490791,45.461003,-98.490791,45.461003",
     "geom:latitude":45.461003,
     "geom:longitude":-98.490791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S 2nd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387443271,
-    "wof:lastmodified":1449059217,
+    "wof:lastmodified":1467082749,
     "wof:name":"Northern Plains Fmly Foot Clnc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-98.490791,45.461003,-98.490791,45.461003],
+  "bbox": [
+    -98.490791,
+    45.461003,
+    -98.490791,
+    45.461003
+],
   "geometry": {"coordinates":[-98.490791,45.461003],"type":"Point"}
 }

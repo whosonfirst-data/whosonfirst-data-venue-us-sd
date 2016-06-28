@@ -2,13 +2,14 @@
   "id": 387052117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728199,43.544933,-96.728199,43.544933",
     "geom:latitude":43.544933,
     "geom:longitude":-96.728199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387052117,
-    "wof:lastmodified":1449057830,
+    "wof:lastmodified":1467082721,
     "wof:name":"American Heart Association",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "voluntary"
     ]
 },
-  "bbox": [-96.728199,43.544933,-96.728199,43.544933],
+  "bbox": [
+    -96.728199,
+    43.544933,
+    -96.728199,
+    43.544933
+],
   "geometry": {"coordinates":[-96.728199,43.544933],"type":"Point"}
 }

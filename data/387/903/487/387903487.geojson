@@ -2,13 +2,14 @@
   "id": 387903487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.684218,44.74928,-96.684218,44.74928",
     "geom:latitude":44.74928,
     "geom:longitude":-96.684218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Colonel Pete St",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387903487,
-    "wof:lastmodified":1449056338,
+    "wof:lastmodified":1467082691,
     "wof:name":"Deul County Good Samartian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-96.684218,44.74928,-96.684218,44.74928],
+  "bbox": [
+    -96.684218,
+    44.74928,
+    -96.684218,
+    44.74928
+],
   "geometry": {"coordinates":[-96.684218,44.74928],"type":"Point"}
 }

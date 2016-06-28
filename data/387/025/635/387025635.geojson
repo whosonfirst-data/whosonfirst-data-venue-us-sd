@@ -2,13 +2,14 @@
   "id": 387025635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691325,43.708582,-96.691325,43.708582",
     "geom:latitude":43.708582,
     "geom:longitude":-96.691325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25393 476th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387025635,
-    "wof:lastmodified":1449059297,
+    "wof:lastmodified":1467082751,
     "wof:name":"Souix Valley Horse Farm",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.691325,43.708582,-96.691325,43.708582],
-  "geometry": {"coordinates":[-96.691325,43.708582],"type":"Point"}
+  "bbox": [
+    -96.691325,
+    43.708582,
+    -96.691325,
+    43.708582
+],
+  "geometry": {"coordinates":[-96.69132500000001,43.708582],"type":"Point"}
 }

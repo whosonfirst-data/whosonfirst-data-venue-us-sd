@@ -2,13 +2,14 @@
   "id": 387201653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.514454,45.329288,-97.514454,45.329288",
     "geom:latitude":45.329288,
     "geom:longitude":-97.514454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 E 4th St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387201653,
-    "wof:lastmodified":1449059410,
+    "wof:lastmodified":1467082753,
     "wof:name":"Watertown Cooperatives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-97.514454,45.329288,-97.514454,45.329288],
+  "bbox": [
+    -97.514454,
+    45.329288,
+    -97.514454,
+    45.329288
+],
   "geometry": {"coordinates":[-97.514454,45.329288],"type":"Point"}
 }

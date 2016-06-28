@@ -2,13 +2,14 @@
   "id": 387783275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696964,43.583735,-96.696964,43.583735",
     "geom:latitude":43.583735,
     "geom:longitude":-96.696964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 E 39th St N",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387783275,
-    "wof:lastmodified":1449056239,
+    "wof:lastmodified":1467082689,
     "wof:name":"Nordica Warehouses Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.696964,43.583735,-96.696964,43.583735],
-  "geometry": {"coordinates":[-96.696964,43.583735],"type":"Point"}
+  "bbox": [
+    -96.696964,
+    43.583735,
+    -96.696964,
+    43.583735
+],
+  "geometry": {"coordinates":[-96.69696399999999,43.583735],"type":"Point"}
 }

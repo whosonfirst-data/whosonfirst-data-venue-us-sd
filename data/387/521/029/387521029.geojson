@@ -2,13 +2,14 @@
   "id": 387521029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.764429,43.553033,-96.764429,43.553033",
     "geom:latitude":43.553033,
     "geom:longitude":-96.764429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 W 5th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387521029,
-    "wof:lastmodified":1449059731,
+    "wof:lastmodified":1467082759,
     "wof:name":"N F Distributors",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-96.764429,43.553033,-96.764429,43.553033],
-  "geometry": {"coordinates":[-96.764429,43.553033],"type":"Point"}
+  "bbox": [
+    -96.764429,
+    43.553033,
+    -96.764429,
+    43.553033
+],
+  "geometry": {"coordinates":[-96.76442900000001,43.553033],"type":"Point"}
 }

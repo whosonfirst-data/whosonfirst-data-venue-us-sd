@@ -2,13 +2,14 @@
   "id": 371163009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.830821,43.303516,-103.830821,43.303516",
     "geom:latitude":43.303516,
     "geom:longitude":-103.830821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 6th Ave",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371163009,
-    "wof:lastmodified":1449050118,
+    "wof:lastmodified":1467082673,
     "wof:name":"Fresh Start Convenience Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-103.830821,43.303516,-103.830821,43.303516],
+  "bbox": [
+    -103.830821,
+    43.303516,
+    -103.830821,
+    43.303516
+],
   "geometry": {"coordinates":[-103.830821,43.303516],"type":"Point"}
 }

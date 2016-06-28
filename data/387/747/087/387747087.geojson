@@ -2,13 +2,14 @@
   "id": 387747087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.419291,45.511849,-98.419291,45.511849",
     "geom:latitude":45.511849,
     "geom:longitude":-98.419291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12951 Ironwood Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387747087,
-    "wof:lastmodified":1449056791,
+    "wof:lastmodified":1467082700,
     "wof:name":"Larson Alfred & Doris Rentals",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.419291,45.511849,-98.419291,45.511849],
+  "bbox": [
+    -98.419291,
+    45.511849,
+    -98.419291,
+    45.511849
+],
   "geometry": {"coordinates":[-98.419291,45.511849],"type":"Point"}
 }

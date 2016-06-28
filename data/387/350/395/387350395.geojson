@@ -2,13 +2,14 @@
   "id": 387350395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.207695,44.081366,-103.207695,44.081366",
     "geom:latitude":44.081366,
     "geom:longitude":-103.207695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387350395,
-    "wof:lastmodified":1449058050,
+    "wof:lastmodified":1467082726,
     "wof:name":"Westec Rent To Own",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-103.207695,44.081366,-103.207695,44.081366],
+  "bbox": [
+    -103.207695,
+    44.081366,
+    -103.207695,
+    44.081366
+],
   "geometry": {"coordinates":[-103.207695,44.081366],"type":"Point"}
 }

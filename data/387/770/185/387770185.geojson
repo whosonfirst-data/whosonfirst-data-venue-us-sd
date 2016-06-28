@@ -2,13 +2,14 @@
   "id": 387770185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.568757,43.590054,-96.568757,43.590054",
     "geom:latitude":43.590054,
     "geom:longitude":-96.568757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Kirkwood Blvd",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387770185,
-    "wof:lastmodified":1449059989,
+    "wof:lastmodified":1467082765,
     "wof:name":"Brandon Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.568757,43.590054,-96.568757,43.590054],
-  "geometry": {"coordinates":[-96.568757,43.590054],"type":"Point"}
+  "bbox": [
+    -96.568757,
+    43.590054,
+    -96.568757,
+    43.590054
+],
+  "geometry": {"coordinates":[-96.56875700000001,43.590054],"type":"Point"}
 }

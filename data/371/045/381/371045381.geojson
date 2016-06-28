@@ -2,13 +2,14 @@
   "id": 371045381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.984018,43.46706,-98.984018,43.46706",
     "geom:latitude":43.46706,
     "geom:longitude":-98.984018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27022 360th Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371045381,
-    "wof:lastmodified":1449050004,
+    "wof:lastmodified":1467082671,
     "wof:name":"Ted Drake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.984018,43.46706,-98.984018,43.46706],
-  "geometry": {"coordinates":[-98.984018,43.46706],"type":"Point"}
+  "bbox": [
+    -98.984018,
+    43.46706,
+    -98.984018,
+    43.46706
+],
+  "geometry": {"coordinates":[-98.98401800000001,43.46706],"type":"Point"}
 }

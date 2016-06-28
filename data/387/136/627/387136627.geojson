@@ -2,13 +2,14 @@
   "id": 387136627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.302427,44.089056,-103.302427,44.089056",
     "geom:latitude":44.089056,
     "geom:longitude":-103.302427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5108 Pierre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387136627,
-    "wof:lastmodified":1449059867,
+    "wof:lastmodified":1467082762,
     "wof:name":"Wilson Aundrea Day Care",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.302427,44.089056,-103.302427,44.089056],
-  "geometry": {"coordinates":[-103.302427,44.089056],"type":"Point"}
+  "bbox": [
+    -103.302427,
+    44.089056,
+    -103.302427,
+    44.089056
+],
+  "geometry": {"coordinates":[-103.30242699999999,44.089056],"type":"Point"}
 }

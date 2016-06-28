@@ -2,13 +2,14 @@
   "id": 387247153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926634,44.323523,-96.926634,44.323523",
     "geom:latitude":44.323523,
     "geom:longitude":-96.926634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387247153,
-    "wof:lastmodified":1449058334,
+    "wof:lastmodified":1467082731,
     "wof:name":"Volga City Auditorium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-96.926634,44.323523,-96.926634,44.323523],
-  "geometry": {"coordinates":[-96.926634,44.323523],"type":"Point"}
+  "bbox": [
+    -96.926634,
+    44.323523,
+    -96.926634,
+    44.323523
+],
+  "geometry": {"coordinates":[-96.92663400000001,44.323523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371018591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.071293,45.351378,-99.071293,45.351378",
     "geom:latitude":45.351378,
     "geom:longitude":-99.071293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14065 356th Ave",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371018591,
-    "wof:lastmodified":1449049557,
+    "wof:lastmodified":1467082665,
     "wof:name":"Perrion Grain Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "for"
     ]
 },
-  "bbox": [-99.071293,45.351378,-99.071293,45.351378],
+  "bbox": [
+    -99.071293,
+    45.351378,
+    -99.071293,
+    45.351378
+],
   "geometry": {"coordinates":[-99.071293,45.351378],"type":"Point"}
 }

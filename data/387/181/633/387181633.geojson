@@ -2,13 +2,14 @@
   "id": 387181633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.238054,44.0696,-103.238054,44.0696",
     "geom:latitude":44.0696,
     "geom:longitude":-103.238054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 11th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387181633,
-    "wof:lastmodified":1449058440,
+    "wof:lastmodified":1467082734,
     "wof:name":"Dakota Fresh Soap Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "skin"
     ]
 },
-  "bbox": [-103.238054,44.0696,-103.238054,44.0696],
-  "geometry": {"coordinates":[-103.238054,44.0696],"type":"Point"}
+  "bbox": [
+    -103.238054,
+    44.0696,
+    -103.238054,
+    44.0696
+],
+  "geometry": {"coordinates":[-103.23805400000001,44.0696],"type":"Point"}
 }

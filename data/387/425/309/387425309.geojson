@@ -2,13 +2,14 @@
   "id": 387425309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131974,44.907839,-97.131974,44.907839",
     "geom:latitude":44.907839,
     "geom:longitude":-97.131974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 10th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387425309,
-    "wof:lastmodified":1449057440,
+    "wof:lastmodified":1467082713,
     "wof:name":"Watertown Animal Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-97.131974,44.907839,-97.131974,44.907839],
+  "bbox": [
+    -97.131974,
+    44.907839,
+    -97.131974,
+    44.907839
+],
   "geometry": {"coordinates":[-97.131974,44.907839],"type":"Point"}
 }

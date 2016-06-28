@@ -2,13 +2,14 @@
   "id": 371083449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.567296,44.368605,-97.567296,44.368605",
     "geom:latitude":44.368605,
     "geom:longitude":-97.567296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43221 208th St",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371083449,
-    "wof:lastmodified":1449049504,
+    "wof:lastmodified":1467082665,
     "wof:name":"Jeff Gruenhagen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.567296,44.368605,-97.567296,44.368605],
+  "bbox": [
+    -97.567296,
+    44.368605,
+    -97.567296,
+    44.368605
+],
   "geometry": {"coordinates":[-97.567296,44.368605],"type":"Point"}
 }

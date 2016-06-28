@@ -2,13 +2,14 @@
   "id": 370985611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.729813,43.551221,-96.729813,43.551221",
     "geom:latitude":43.551221,
     "geom:longitude":-96.729813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W 6th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370985611,
-    "wof:lastmodified":1449030762,
+    "wof:lastmodified":1467082656,
     "wof:name":"County of Minnehaha",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-96.729813,43.551221,-96.729813,43.551221],
-  "geometry": {"coordinates":[-96.729813,43.551221],"type":"Point"}
+  "bbox": [
+    -96.729813,
+    43.551221,
+    -96.729813,
+    43.551221
+],
+  "geometry": {"coordinates":[-96.72981299999999,43.551221],"type":"Point"}
 }

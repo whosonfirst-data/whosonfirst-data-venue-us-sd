@@ -2,13 +2,14 @@
   "id": 387112333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132738,43.169999,-97.132738,43.169999",
     "geom:latitude":43.169999,
     "geom:longitude":-97.132738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45359 291st St",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387112333,
-    "wof:lastmodified":1449057855,
+    "wof:lastmodified":1467082722,
     "wof:name":"Circle K Farrier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.132738,43.169999,-97.132738,43.169999],
+  "bbox": [
+    -97.132738,
+    43.169999,
+    -97.132738,
+    43.169999
+],
   "geometry": {"coordinates":[-97.132738,43.169999],"type":"Point"}
 }

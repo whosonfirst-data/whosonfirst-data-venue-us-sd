@@ -2,13 +2,14 @@
   "id": 371134837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.577514,45.474481,-98.577514,45.474481",
     "geom:latitude":45.474481,
     "geom:longitude":-98.577514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 8th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371134837,
-    "wof:lastmodified":1449050093,
+    "wof:lastmodified":1467082673,
     "wof:name":"J D Evans Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.577514,45.474481,-98.577514,45.474481],
-  "geometry": {"coordinates":[-98.577514,45.474481],"type":"Point"}
+  "bbox": [
+    -98.577514,
+    45.474481,
+    -98.577514,
+    45.474481
+],
+  "geometry": {"coordinates":[-98.57751399999999,45.474481],"type":"Point"}
 }

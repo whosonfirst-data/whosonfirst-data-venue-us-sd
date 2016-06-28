@@ -2,13 +2,14 @@
   "id": 387755939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.813674,43.985065,-96.813674,43.985065",
     "geom:latitude":43.985065,
     "geom:longitude":-96.813674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 NE 3rd St",
     "sg:city":"Colman",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387755939,
-    "wof:lastmodified":1449057171,
+    "wof:lastmodified":1467082708,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.813674,43.985065,-96.813674,43.985065],
-  "geometry": {"coordinates":[-96.813674,43.985065],"type":"Point"}
+  "bbox": [
+    -96.813674,
+    43.985065,
+    -96.813674,
+    43.985065
+],
+  "geometry": {"coordinates":[-96.81367400000001,43.985065],"type":"Point"}
 }

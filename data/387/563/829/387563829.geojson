@@ -2,13 +2,14 @@
   "id": 387563829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703973,43.546597,-96.703973,43.546597",
     "geom:latitude":43.546597,
     "geom:longitude":-96.703973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387563829,
-    "wof:lastmodified":1449056177,
+    "wof:lastmodified":1467082688,
     "wof:name":"Tom Montoya DDS",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.703973,43.546597,-96.703973,43.546597],
+  "bbox": [
+    -96.703973,
+    43.546597,
+    -96.703973,
+    43.546597
+],
   "geometry": {"coordinates":[-96.703973,43.546597],"type":"Point"}
 }

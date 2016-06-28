@@ -2,13 +2,14 @@
   "id": 387461387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.598731,44.048384,-96.598731,44.048384",
     "geom:latitude":44.048384,
     "geom:longitude":-96.598731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Pipestone Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387461387,
-    "wof:lastmodified":1449057540,
+    "wof:lastmodified":1467082715,
     "wof:name":"Talk Of The Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-96.598731,44.048384,-96.598731,44.048384],
+  "bbox": [
+    -96.598731,
+    44.048384,
+    -96.598731,
+    44.048384
+],
   "geometry": {"coordinates":[-96.598731,44.048384],"type":"Point"}
 }

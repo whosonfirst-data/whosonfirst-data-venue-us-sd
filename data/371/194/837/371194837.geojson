@@ -2,13 +2,14 @@
   "id": 371194837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.248757,45.842119,-98.248757,45.842119",
     "geom:latitude":45.842119,
     "geom:longitude":-98.248757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10653 399th Ave",
     "sg:city":"Hecla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371194837,
-    "wof:lastmodified":1449049977,
+    "wof:lastmodified":1467082671,
     "wof:name":"Richter Ranch",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.248757,45.842119,-98.248757,45.842119],
+  "bbox": [
+    -98.248757,
+    45.842119,
+    -98.248757,
+    45.842119
+],
   "geometry": {"coordinates":[-98.248757,45.842119],"type":"Point"}
 }

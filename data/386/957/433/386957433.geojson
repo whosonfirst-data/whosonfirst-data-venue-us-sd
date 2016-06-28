@@ -2,13 +2,14 @@
   "id": 386957433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049615,45.664558,-97.049615,45.664558",
     "geom:latitude":45.664558,
     "geom:longitude":-97.049615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Veterans Ave",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386957433,
-    "wof:lastmodified":1449028904,
+    "wof:lastmodified":1467082654,
     "wof:name":"Cpss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tub"
     ]
 },
-  "bbox": [-97.049615,45.664558,-97.049615,45.664558],
+  "bbox": [
+    -97.049615,
+    45.664558,
+    -97.049615,
+    45.664558
+],
   "geometry": {"coordinates":[-97.049615,45.664558],"type":"Point"}
 }

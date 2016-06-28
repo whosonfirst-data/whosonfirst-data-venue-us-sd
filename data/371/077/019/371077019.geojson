@@ -2,13 +2,14 @@
   "id": 371077019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.181533,44.092226,-103.181533,44.092226",
     "geom:latitude":44.092226,
     "geom:longitude":-103.181533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1805 Eglin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371077019,
-    "wof:lastmodified":1449049194,
+    "wof:lastmodified":1467082660,
     "wof:name":"Red Dot Wireless",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.181533,44.092226,-103.181533,44.092226],
+  "bbox": [
+    -103.181533,
+    44.092226,
+    -103.181533,
+    44.092226
+],
   "geometry": {"coordinates":[-103.181533,44.092226],"type":"Point"}
 }

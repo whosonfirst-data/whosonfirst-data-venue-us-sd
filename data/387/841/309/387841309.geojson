@@ -2,13 +2,14 @@
   "id": 387841309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.629646,43.020222,-96.629646,43.020222",
     "geom:latitude":43.020222,
     "geom:longitude":-96.629646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E First St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387841309,
-    "wof:lastmodified":1449056900,
+    "wof:lastmodified":1467082702,
     "wof:name":"Paragon Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-96.629646,43.020222,-96.629646,43.020222],
-  "geometry": {"coordinates":[-96.629646,43.020222],"type":"Point"}
+  "bbox": [
+    -96.629646,
+    43.020222,
+    -96.629646,
+    43.020222
+],
+  "geometry": {"coordinates":[-96.62964599999999,43.020222],"type":"Point"}
 }

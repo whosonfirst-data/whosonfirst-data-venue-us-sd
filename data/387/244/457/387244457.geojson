@@ -2,13 +2,14 @@
   "id": 387244457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.85987,44.492941,-103.85987,44.492941",
     "geom:latitude":44.492941,
     "geom:longitude":-103.85987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 N Main St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387244457,
-    "wof:lastmodified":1449057622,
+    "wof:lastmodified":1467082717,
     "wof:name":"Cutty 7",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.85987,44.492941,-103.85987,44.492941],
+  "bbox": [
+    -103.85987,
+    44.492941,
+    -103.85987,
+    44.492941
+],
   "geometry": {"coordinates":[-103.85987,44.492941],"type":"Point"}
 }

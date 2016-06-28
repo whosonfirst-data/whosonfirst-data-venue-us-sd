@@ -2,13 +2,14 @@
   "id": 403786425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.79881,44.305111,-96.79881,44.305111",
     "geom:latitude":44.305111,
     "geom:longitude":-96.79881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403786425,
-    "wof:lastmodified":1449054801,
+    "wof:lastmodified":1467082676,
     "wof:name":"Rental Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.79881,44.305111,-96.79881,44.305111],
+  "bbox": [
+    -96.79881,
+    44.305111,
+    -96.79881,
+    44.305111
+],
   "geometry": {"coordinates":[-96.79881,44.305111],"type":"Point"}
 }

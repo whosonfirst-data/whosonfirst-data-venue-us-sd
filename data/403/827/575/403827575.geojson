@@ -2,13 +2,14 @@
   "id": 403827575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.594627,43.588825,-96.594627,43.588825",
     "geom:latitude":43.588825,
     "geom:longitude":-96.594627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Lakota Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403827575,
-    "wof:lastmodified":1449055104,
+    "wof:lastmodified":1467082679,
     "wof:name":"Mike's Workshop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "saw"
     ]
 },
-  "bbox": [-96.594627,43.588825,-96.594627,43.588825],
+  "bbox": [
+    -96.594627,
+    43.588825,
+    -96.594627,
+    43.588825
+],
   "geometry": {"coordinates":[-96.594627,43.588825],"type":"Point"}
 }

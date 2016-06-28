@@ -2,13 +2,14 @@
   "id": 386971293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844852,43.390588,-98.844852,43.390588",
     "geom:latitude":43.390588,
     "geom:longitude":-98.844852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386971293,
-    "wof:lastmodified":1449028787,
+    "wof:lastmodified":1467082652,
     "wof:name":"Casey Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-98.844852,43.390588,-98.844852,43.390588],
+  "bbox": [
+    -98.844852,
+    43.390588,
+    -98.844852,
+    43.390588
+],
   "geometry": {"coordinates":[-98.844852,43.390588],"type":"Point"}
 }

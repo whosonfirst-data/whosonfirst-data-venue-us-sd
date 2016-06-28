@@ -2,13 +2,14 @@
   "id": 386995799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.031028,43.715313,-98.031028,43.715313",
     "geom:latitude":43.715313,
     "geom:longitude":-98.031028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 N Edmunds St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386995799,
-    "wof:lastmodified":1449028941,
+    "wof:lastmodified":1467082655,
     "wof:name":"Miller Rochelle Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.031028,43.715313,-98.031028,43.715313],
-  "geometry": {"coordinates":[-98.031028,43.715313],"type":"Point"}
+  "bbox": [
+    -98.031028,
+    43.715313,
+    -98.031028,
+    43.715313
+],
+  "geometry": {"coordinates":[-98.03102800000001,43.715313],"type":"Point"}
 }

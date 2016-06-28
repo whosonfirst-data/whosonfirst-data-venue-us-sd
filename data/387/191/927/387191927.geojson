@@ -2,13 +2,14 @@
   "id": 387191927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.179996,44.098075,-98.179996,44.098075",
     "geom:latitude":44.098075,
     "geom:longitude":-98.179996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40124 227th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387191927,
-    "wof:lastmodified":1449058413,
+    "wof:lastmodified":1467082733,
     "wof:name":"Vine Valley Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.179996,44.098075,-98.179996,44.098075],
+  "bbox": [
+    -98.179996,
+    44.098075,
+    -98.179996,
+    44.098075
+],
   "geometry": {"coordinates":[-98.179996,44.098075],"type":"Point"}
 }

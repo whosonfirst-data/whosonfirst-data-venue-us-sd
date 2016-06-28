@@ -2,13 +2,14 @@
   "id": 387063373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221799,44.109191,-103.221799,44.109191",
     "geom:latitude":44.109191,
     "geom:longitude":-103.221799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387063373,
-    "wof:lastmodified":1449056438,
+    "wof:lastmodified":1467082693,
     "wof:name":"Weathered Vane",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.221799,44.109191,-103.221799,44.109191],
+  "bbox": [
+    -103.221799,
+    44.109191,
+    -103.221799,
+    44.109191
+],
   "geometry": {"coordinates":[-103.221799,44.109191],"type":"Point"}
 }

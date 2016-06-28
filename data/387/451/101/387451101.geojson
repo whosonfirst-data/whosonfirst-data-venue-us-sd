@@ -2,13 +2,14 @@
   "id": 387451101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.853841,43.372915,-99.853841,43.372915",
     "geom:latitude":43.372915,
     "geom:longitude":-99.853841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 Jefferson St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387451101,
-    "wof:lastmodified":1449057771,
+    "wof:lastmodified":1467082720,
     "wof:name":"Main Street Card & Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gift"
     ]
 },
-  "bbox": [-99.853841,43.372915,-99.853841,43.372915],
+  "bbox": [
+    -99.853841,
+    43.372915,
+    -99.853841,
+    43.372915
+],
   "geometry": {"coordinates":[-99.853841,43.372915],"type":"Point"}
 }

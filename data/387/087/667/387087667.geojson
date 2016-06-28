@@ -2,13 +2,14 @@
   "id": 387087667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109794,44.013411,-97.109794,44.013411",
     "geom:latitude":44.013411,
     "geom:longitude":-97.109794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Washington Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387087667,
-    "wof:lastmodified":1449057860,
+    "wof:lastmodified":1467082722,
     "wof:name":"Pamida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-97.109794,44.013411,-97.109794,44.013411],
-  "geometry": {"coordinates":[-97.109794,44.013411],"type":"Point"}
+  "bbox": [
+    -97.109794,
+    44.013411,
+    -97.109794,
+    44.013411
+],
+  "geometry": {"coordinates":[-97.10979399999999,44.013411],"type":"Point"}
 }

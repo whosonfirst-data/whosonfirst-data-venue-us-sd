@@ -2,13 +2,14 @@
   "id": 387441609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.207316,44.909806,-97.207316,44.909806",
     "geom:latitude":44.909806,
     "geom:longitude":-97.207316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"694 S Lake Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387441609,
-    "wof:lastmodified":1449056402,
+    "wof:lastmodified":1467082692,
     "wof:name":"Jurgensen's Carpet Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-97.207316,44.909806,-97.207316,44.909806],
-  "geometry": {"coordinates":[-97.207316,44.909806],"type":"Point"}
+  "bbox": [
+    -97.207316,
+    44.909806,
+    -97.207316,
+    44.909806
+],
+  "geometry": {"coordinates":[-97.20731600000001,44.909806],"type":"Point"}
 }

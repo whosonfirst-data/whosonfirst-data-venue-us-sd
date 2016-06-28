@@ -2,13 +2,14 @@
   "id": 371183675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733992,43.546066,-96.733992,43.546066",
     "geom:latitude":43.546066,
     "geom:longitude":-96.733992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 W 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371183675,
-    "wof:lastmodified":1449049607,
+    "wof:lastmodified":1467082666,
     "wof:name":"Jnn Co",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "firm"
     ]
 },
-  "bbox": [-96.733992,43.546066,-96.733992,43.546066],
+  "bbox": [
+    -96.733992,
+    43.546066,
+    -96.733992,
+    43.546066
+],
   "geometry": {"coordinates":[-96.733992,43.546066],"type":"Point"}
 }

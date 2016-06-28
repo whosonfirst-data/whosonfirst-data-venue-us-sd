@@ -2,13 +2,14 @@
   "id": 386958665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.667442,43.521134,-96.667442,43.521134",
     "geom:latitude":43.521134,
     "geom:longitude":-96.667442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 S Maywood Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386958665,
-    "wof:lastmodified":1449028877,
+    "wof:lastmodified":1467082654,
     "wof:name":"Zerfas Lisa Day Care",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.667442,43.521134,-96.667442,43.521134],
-  "geometry": {"coordinates":[-96.667442,43.521134],"type":"Point"}
+  "bbox": [
+    -96.667442,
+    43.521134,
+    -96.667442,
+    43.521134
+],
+  "geometry": {"coordinates":[-96.66744199999999,43.521134],"type":"Point"}
 }

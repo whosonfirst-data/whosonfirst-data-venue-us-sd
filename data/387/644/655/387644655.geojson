@@ -2,13 +2,14 @@
   "id": 387644655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651123,43.693402,-96.651123,43.693402",
     "geom:latitude":43.693402,
     "geom:longitude":-96.651123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25432 478th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387644655,
-    "wof:lastmodified":1449058283,
+    "wof:lastmodified":1467082730,
     "wof:name":"A Bar-K Ranch",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.651123,43.693402,-96.651123,43.693402],
+  "bbox": [
+    -96.651123,
+    43.693402,
+    -96.651123,
+    43.693402
+],
   "geometry": {"coordinates":[-96.651123,43.693402],"type":"Point"}
 }

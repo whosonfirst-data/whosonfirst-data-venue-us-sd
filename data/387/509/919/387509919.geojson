@@ -2,13 +2,14 @@
   "id": 387509919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698105,43.591785,-96.698105,43.591785",
     "geom:latitude":43.591785,
     "geom:longitude":-96.698105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 N Lewis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387509919,
-    "wof:lastmodified":1449056274,
+    "wof:lastmodified":1467082690,
     "wof:name":"Nelson Laboratories Ltd Partnr",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-96.698105,43.591785,-96.698105,43.591785],
+  "bbox": [
+    -96.698105,
+    43.591785,
+    -96.698105,
+    43.591785
+],
   "geometry": {"coordinates":[-96.698105,43.591785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403720595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.521966,44.876868,-98.521966,44.876868",
     "geom:latitude":44.876868,
     "geom:longitude":-98.521966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W 2nd St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403720595,
-    "wof:lastmodified":1449054963,
+    "wof:lastmodified":1467082677,
     "wof:name":"Rude Transportation Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-98.521966,44.876868,-98.521966,44.876868],
-  "geometry": {"coordinates":[-98.521966,44.876868],"type":"Point"}
+  "bbox": [
+    -98.521966,
+    44.876868,
+    -98.521966,
+    44.876868
+],
+  "geometry": {"coordinates":[-98.52196600000001,44.876868],"type":"Point"}
 }

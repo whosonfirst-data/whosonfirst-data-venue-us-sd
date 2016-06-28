@@ -2,13 +2,14 @@
   "id": 386949629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234681,44.033508,-103.234681,44.033508",
     "geom:latitude":44.033508,
     "geom:longitude":-103.234681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Enchantment Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386949629,
-    "wof:lastmodified":1449028825,
+    "wof:lastmodified":1467082653,
     "wof:name":"Contemporary Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.234681,44.033508,-103.234681,44.033508],
-  "geometry": {"coordinates":[-103.234681,44.033508],"type":"Point"}
+  "bbox": [
+    -103.234681,
+    44.033508,
+    -103.234681,
+    44.033508
+],
+  "geometry": {"coordinates":[-103.23468099999999,44.033508],"type":"Point"}
 }

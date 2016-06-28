@@ -2,13 +2,14 @@
   "id": 387949493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711436,43.555428,-96.711436,43.555428",
     "geom:latitude":43.555428,
     "geom:longitude":-96.711436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387949493,
-    "wof:lastmodified":1449058462,
+    "wof:lastmodified":1467082734,
     "wof:name":"Monarch Sales",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.711436,43.555428,-96.711436,43.555428],
-  "geometry": {"coordinates":[-96.711436,43.555428],"type":"Point"}
+  "bbox": [
+    -96.711436,
+    43.555428,
+    -96.711436,
+    43.555428
+],
+  "geometry": {"coordinates":[-96.71143600000001,43.555428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387194371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.026129,43.141495,-97.026129,43.141495",
     "geom:latitude":43.141495,
     "geom:longitude":-97.026129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45868 293rd St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387194371,
-    "wof:lastmodified":1449059375,
+    "wof:lastmodified":1467082752,
     "wof:name":"James A Rist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.026129,43.141495,-97.026129,43.141495],
+  "bbox": [
+    -97.026129,
+    43.141495,
+    -97.026129,
+    43.141495
+],
   "geometry": {"coordinates":[-97.026129,43.141495],"type":"Point"}
 }

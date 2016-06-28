@@ -2,13 +2,14 @@
   "id": 387351285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7766,43.522673,-96.7766,43.522673",
     "geom:latitude":43.522673,
     "geom:longitude":-96.7766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 S Shirley Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387351285,
-    "wof:lastmodified":1449059354,
+    "wof:lastmodified":1467082752,
     "wof:name":"Menard Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.7766,43.522673,-96.7766,43.522673],
+  "bbox": [
+    -96.7766,
+    43.522673,
+    -96.7766,
+    43.522673
+],
   "geometry": {"coordinates":[-96.7766,43.522673],"type":"Point"}
 }

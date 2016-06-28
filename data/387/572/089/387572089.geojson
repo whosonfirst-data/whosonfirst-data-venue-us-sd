@@ -2,13 +2,14 @@
   "id": 387572089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433218,45.43003,-98.433218,45.43003",
     "geom:latitude":45.43003,
     "geom:longitude":-98.433218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39003 135th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387572089,
-    "wof:lastmodified":1449058432,
+    "wof:lastmodified":1467082733,
     "wof:name":"Daryl Bierman",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.433218,45.43003,-98.433218,45.43003],
+  "bbox": [
+    -98.433218,
+    45.43003,
+    -98.433218,
+    45.43003
+],
   "geometry": {"coordinates":[-98.433218,45.43003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387051135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.492412,45.462964,-98.492412,45.462964",
     "geom:latitude":45.462964,
     "geom:longitude":-98.492412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 S 3rd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387051135,
-    "wof:lastmodified":1449058453,
+    "wof:lastmodified":1467082734,
     "wof:name":"Custom Glass and Repair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.492412,45.462964,-98.492412,45.462964],
+  "bbox": [
+    -98.492412,
+    45.462964,
+    -98.492412,
+    45.462964
+],
   "geometry": {"coordinates":[-98.492412,45.462964],"type":"Point"}
 }

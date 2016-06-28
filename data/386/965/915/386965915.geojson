@@ -2,13 +2,14 @@
   "id": 386965915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.154839,45.544809,-98.154839,45.544809",
     "geom:latitude":45.544809,
     "geom:longitude":-98.154839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40365 127th St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386965915,
-    "wof:lastmodified":1449028844,
+    "wof:lastmodified":1467082653,
     "wof:name":"Terry Thompson",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.154839,45.544809,-98.154839,45.544809],
+  "bbox": [
+    -98.154839,
+    45.544809,
+    -98.154839,
+    45.544809
+],
   "geometry": {"coordinates":[-98.154839,45.544809],"type":"Point"}
 }

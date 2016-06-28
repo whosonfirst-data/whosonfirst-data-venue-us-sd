@@ -2,13 +2,14 @@
   "id": 371146955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.897148,43.350072,-96.897148,43.350072",
     "geom:latitude":43.350072,
     "geom:longitude":-96.897148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 S Academy St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371146955,
-    "wof:lastmodified":1449049458,
+    "wof:lastmodified":1467082664,
     "wof:name":"Dog House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "washing"
     ]
 },
-  "bbox": [-96.897148,43.350072,-96.897148,43.350072],
+  "bbox": [
+    -96.897148,
+    43.350072,
+    -96.897148,
+    43.350072
+],
   "geometry": {"coordinates":[-96.897148,43.350072],"type":"Point"}
 }

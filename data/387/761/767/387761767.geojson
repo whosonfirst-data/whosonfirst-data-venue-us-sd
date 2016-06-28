@@ -2,13 +2,14 @@
   "id": 387761767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.981737,43.834067,-96.981737,43.834067",
     "geom:latitude":43.834067,
     "geom:longitude":-96.981737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46144 245th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387761767,
-    "wof:lastmodified":1449059004,
+    "wof:lastmodified":1467082745,
     "wof:name":"Gelderman Gerrit",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.981737,43.834067,-96.981737,43.834067],
+  "bbox": [
+    -96.981737,
+    43.834067,
+    -96.981737,
+    43.834067
+],
   "geometry": {"coordinates":[-96.981737,43.834067],"type":"Point"}
 }

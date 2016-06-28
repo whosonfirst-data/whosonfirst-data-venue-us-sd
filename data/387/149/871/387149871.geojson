@@ -2,13 +2,14 @@
   "id": 387149871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.79587,45.252991,-102.79587,45.252991",
     "geom:latitude":45.252991,
     "geom:longitude":-102.79587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15035 Prairie City Rd",
     "sg:city":"Mud Butte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387149871,
-    "wof:lastmodified":1449056120,
+    "wof:lastmodified":1467082687,
     "wof:name":"Jamie W Gerbracht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.79587,45.252991,-102.79587,45.252991],
-  "geometry": {"coordinates":[-102.79587,45.252991],"type":"Point"}
+  "bbox": [
+    -102.79587,
+    45.252991,
+    -102.79587,
+    45.252991
+],
+  "geometry": {"coordinates":[-102.79586999999999,45.252991],"type":"Point"}
 }

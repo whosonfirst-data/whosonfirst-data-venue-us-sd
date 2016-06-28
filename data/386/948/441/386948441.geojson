@@ -2,13 +2,14 @@
   "id": 386948441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.409059,43.423792,-98.409059,43.423792",
     "geom:latitude":43.423792,
     "geom:longitude":-98.409059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 E Main St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386948441,
-    "wof:lastmodified":1449028884,
+    "wof:lastmodified":1467082654,
     "wof:name":"Corsica Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.409059,43.423792,-98.409059,43.423792],
+  "bbox": [
+    -98.409059,
+    43.423792,
+    -98.409059,
+    43.423792
+],
   "geometry": {"coordinates":[-98.409059,43.423792],"type":"Point"}
 }

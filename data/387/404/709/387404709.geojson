@@ -2,13 +2,14 @@
   "id": 387404709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777599,43.497789,-96.777599,43.497789",
     "geom:latitude":43.497789,
     "geom:longitude":-96.777599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5109 S Rolling Green Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387404709,
-    "wof:lastmodified":1449058637,
+    "wof:lastmodified":1467082737,
     "wof:name":"Donegal Pointe Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.777599,43.497789,-96.777599,43.497789],
+  "bbox": [
+    -96.777599,
+    43.497789,
+    -96.777599,
+    43.497789
+],
   "geometry": {"coordinates":[-96.777599,43.497789],"type":"Point"}
 }

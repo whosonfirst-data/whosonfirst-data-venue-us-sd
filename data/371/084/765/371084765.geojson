@@ -2,13 +2,14 @@
   "id": 371084765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.877022,44.49551,-103.877022,44.49551",
     "geom:latitude":44.49551,
     "geom:longitude":-103.877022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Harmony Cir",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371084765,
-    "wof:lastmodified":1449049136,
+    "wof:lastmodified":1467082659,
     "wof:name":"Spearfish Gunsmithing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.877022,44.49551,-103.877022,44.49551],
+  "bbox": [
+    -103.877022,
+    44.49551,
+    -103.877022,
+    44.49551
+],
   "geometry": {"coordinates":[-103.877022,44.49551],"type":"Point"}
 }

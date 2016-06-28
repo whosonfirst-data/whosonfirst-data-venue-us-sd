@@ -2,13 +2,14 @@
   "id": 371166387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.049536,43.554886,-97.049536,43.554886",
     "geom:latitude":43.554886,
     "geom:longitude":-97.049536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26421 458th Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":371166387,
-    "wof:lastmodified":1449049642,
+    "wof:lastmodified":1467082666,
     "wof:name":"Steve Grace",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.049536,43.554886,-97.049536,43.554886],
+  "bbox": [
+    -97.049536,
+    43.554886,
+    -97.049536,
+    43.554886
+],
   "geometry": {"coordinates":[-97.049536,43.554886],"type":"Point"}
 }

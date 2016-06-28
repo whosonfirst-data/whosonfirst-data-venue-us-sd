@@ -2,13 +2,14 @@
   "id": 387063411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.292088,43.078883,-98.292088,43.078883",
     "geom:latitude":43.078883,
     "geom:longitude":-98.292088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 East Ave SE",
     "sg:city":"Kimball",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387063411,
-    "wof:lastmodified":1449056439,
+    "wof:lastmodified":1467082693,
     "wof:name":"Kimball School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.292088,43.078883,-98.292088,43.078883],
-  "geometry": {"coordinates":[-98.292088,43.078883],"type":"Point"}
+  "bbox": [
+    -98.292088,
+    43.078883,
+    -98.292088,
+    43.078883
+],
+  "geometry": {"coordinates":[-98.29208800000001,43.078883],"type":"Point"}
 }

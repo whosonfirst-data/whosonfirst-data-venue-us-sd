@@ -2,13 +2,14 @@
   "id": 371074453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.641836,44.434076,-96.641836,44.434076",
     "geom:latitude":44.434076,
     "geom:longitude":-96.641836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 E Main St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371074453,
-    "wof:lastmodified":1449049616,
+    "wof:lastmodified":1467082666,
     "wof:name":"Palace Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.641836,44.434076,-96.641836,44.434076],
+  "bbox": [
+    -96.641836,
+    44.434076,
+    -96.641836,
+    44.434076
+],
   "geometry": {"coordinates":[-96.641836,44.434076],"type":"Point"}
 }

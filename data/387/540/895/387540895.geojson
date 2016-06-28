@@ -2,13 +2,14 @@
   "id": 387540895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721257,43.824842,-96.721257,43.824842",
     "geom:latitude":43.824842,
     "geom:longitude":-96.721257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 State Hwy 77",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387540895,
-    "wof:lastmodified":1449057608,
+    "wof:lastmodified":1467082717,
     "wof:name":"Billmar Inn & Suites",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.721257,43.824842,-96.721257,43.824842],
-  "geometry": {"coordinates":[-96.721257,43.824842],"type":"Point"}
+  "bbox": [
+    -96.721257,
+    43.824842,
+    -96.721257,
+    43.824842
+],
+  "geometry": {"coordinates":[-96.72125699999999,43.824842],"type":"Point"}
 }

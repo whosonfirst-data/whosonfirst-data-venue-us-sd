@@ -2,13 +2,14 @@
   "id": 387528779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.619897,45.163069,-96.619897,45.163069",
     "geom:latitude":45.163069,
     "geom:longitude":-96.619897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15313 479th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387528779,
-    "wof:lastmodified":1449057117,
+    "wof:lastmodified":1467082707,
     "wof:name":"Skoogs Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.619897,45.163069,-96.619897,45.163069],
-  "geometry": {"coordinates":[-96.619897,45.163069],"type":"Point"}
+  "bbox": [
+    -96.619897,
+    45.163069,
+    -96.619897,
+    45.163069
+],
+  "geometry": {"coordinates":[-96.61989699999999,45.163069],"type":"Point"}
 }

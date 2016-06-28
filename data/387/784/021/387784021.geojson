@@ -2,13 +2,14 @@
   "id": 387784021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.568382,44.079463,-98.568382,44.079463",
     "geom:latitude":44.079463,
     "geom:longitude":-98.568382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Main St E",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387784021,
-    "wof:lastmodified":1449058650,
+    "wof:lastmodified":1467082738,
     "wof:name":"Mettler's Lockers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-98.568382,44.079463,-98.568382,44.079463],
+  "bbox": [
+    -98.568382,
+    44.079463,
+    -98.568382,
+    44.079463
+],
   "geometry": {"coordinates":[-98.568382,44.079463],"type":"Point"}
 }

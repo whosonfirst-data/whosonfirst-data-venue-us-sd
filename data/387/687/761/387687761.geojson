@@ -2,13 +2,14 @@
   "id": 387687761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732717,43.511018,-96.732717,43.511018",
     "geom:latitude":43.511018,
     "geom:longitude":-96.732717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4060 S Grange Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387687761,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1467082708,
     "wof:name":"Swatlowski Stone & Tile",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.732717,43.511018,-96.732717,43.511018],
-  "geometry": {"coordinates":[-96.732717,43.511018],"type":"Point"}
+  "bbox": [
+    -96.732717,
+    43.511018,
+    -96.732717,
+    43.511018
+],
+  "geometry": {"coordinates":[-96.73271699999999,43.511018],"type":"Point"}
 }

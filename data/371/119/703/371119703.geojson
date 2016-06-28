@@ -2,13 +2,14 @@
   "id": 371119703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.115232,43.527513,-98.115232,43.527513",
     "geom:latitude":43.527513,
     "geom:longitude":-98.115232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40476 266th St",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371119703,
-    "wof:lastmodified":1449049799,
+    "wof:lastmodified":1467082669,
     "wof:name":"Rocks 4U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wood"
     ]
 },
-  "bbox": [-98.115232,43.527513,-98.115232,43.527513],
-  "geometry": {"coordinates":[-98.115232,43.527513],"type":"Point"}
+  "bbox": [
+    -98.115232,
+    43.527513,
+    -98.115232,
+    43.527513
+],
+  "geometry": {"coordinates":[-98.11523200000001,43.527513],"type":"Point"}
 }

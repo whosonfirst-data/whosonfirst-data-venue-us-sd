@@ -2,13 +2,14 @@
   "id": 387578577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229054,44.080383,-103.229054,44.080383",
     "geom:latitude":44.080383,
     "geom:longitude":-103.229054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387578577,
-    "wof:lastmodified":1449057063,
+    "wof:lastmodified":1467082706,
     "wof:name":"Kitchen Sink",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.229054,44.080383,-103.229054,44.080383],
+  "bbox": [
+    -103.229054,
+    44.080383,
+    -103.229054,
+    44.080383
+],
   "geometry": {"coordinates":[-103.229054,44.080383],"type":"Point"}
 }

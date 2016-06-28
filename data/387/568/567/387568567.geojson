@@ -2,13 +2,14 @@
   "id": 387568567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.3466,43.319872,-98.3466,43.319872",
     "geom:latitude":43.319872,
     "geom:longitude":-98.3466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Main St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387568567,
-    "wof:lastmodified":1449056028,
+    "wof:lastmodified":1467082685,
     "wof:name":"Carlon & Millar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "return"
     ]
 },
-  "bbox": [-98.3466,43.319872,-98.3466,43.319872],
+  "bbox": [
+    -98.3466,
+    43.319872,
+    -98.3466,
+    43.319872
+],
   "geometry": {"coordinates":[-98.3466,43.319872],"type":"Point"}
 }

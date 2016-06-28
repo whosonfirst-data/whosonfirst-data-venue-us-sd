@@ -2,13 +2,14 @@
   "id": 387512449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.022684,43.703242,-98.022684,43.703242",
     "geom:latitude":43.703242,
     "geom:longitude":-98.022684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 S Kimball St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387512449,
-    "wof:lastmodified":1449058879,
+    "wof:lastmodified":1467082742,
     "wof:name":"Hofers Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.022684,43.703242,-98.022684,43.703242],
+  "bbox": [
+    -98.022684,
+    43.703242,
+    -98.022684,
+    43.703242
+],
   "geometry": {"coordinates":[-98.022684,43.703242],"type":"Point"}
 }

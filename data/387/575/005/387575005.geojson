@@ -2,13 +2,14 @@
   "id": 387575005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.351474,43.86,-98.351474,43.86",
     "geom:latitude":43.86,
     "geom:longitude":-98.351474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24312 393rd Ave",
     "sg:city":"Letcher",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387575005,
-    "wof:lastmodified":1449057204,
+    "wof:lastmodified":1467082708,
     "wof:name":"Farmers Coop Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "warehousing"
     ]
 },
-  "bbox": [-98.351474,43.86,-98.351474,43.86],
+  "bbox": [
+    -98.351474,
+    43.86,
+    -98.351474,
+    43.86
+],
   "geometry": {"coordinates":[-98.351474,43.86],"type":"Point"}
 }

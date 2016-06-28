@@ -2,13 +2,14 @@
   "id": 387534107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487963,45.463046,-98.487963,45.463046",
     "geom:latitude":45.463046,
     "geom:longitude":-98.487963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387534107,
-    "wof:lastmodified":1449057088,
+    "wof:lastmodified":1467082706,
     "wof:name":"South Dakota Baskets Unlimited",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parcel"
     ]
 },
-  "bbox": [-98.487963,45.463046,-98.487963,45.463046],
-  "geometry": {"coordinates":[-98.487963,45.463046],"type":"Point"}
+  "bbox": [
+    -98.487963,
+    45.463046,
+    -98.487963,
+    45.463046
+],
+  "geometry": {"coordinates":[-98.48796299999999,45.463046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371094627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.615287,43.470852,-98.615287,43.470852",
     "geom:latitude":43.470852,
     "geom:longitude":-98.615287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37832 270th St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371094627,
-    "wof:lastmodified":1449049701,
+    "wof:lastmodified":1467082667,
     "wof:name":"Gordon Veurink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.615287,43.470852,-98.615287,43.470852],
+  "bbox": [
+    -98.615287,
+    43.470852,
+    -98.615287,
+    43.470852
+],
   "geometry": {"coordinates":[-98.615287,43.470852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387718589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229032,43.971979,-103.229032,43.971979",
     "geom:latitude":43.971979,
     "geom:longitude":-103.229032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23688 Mulligan Mile",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387718589,
-    "wof:lastmodified":1449056920,
+    "wof:lastmodified":1467082703,
     "wof:name":"Schneider Music Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.229032,43.971979,-103.229032,43.971979],
+  "bbox": [
+    -103.229032,
+    43.971979,
+    -103.229032,
+    43.971979
+],
   "geometry": {"coordinates":[-103.229032,43.971979],"type":"Point"}
 }

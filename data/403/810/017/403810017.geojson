@@ -2,13 +2,14 @@
   "id": 403810017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.347716,45.921837,-101.347716,45.921837",
     "geom:latitude":45.921837,
     "geom:longitude":-101.347716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 2nd St",
     "sg:city":"Mc Intosh",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403810017,
-    "wof:lastmodified":1449055033,
+    "wof:lastmodified":1467082678,
     "wof:name":"Corson County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-101.347716,45.921837,-101.347716,45.921837],
-  "geometry": {"coordinates":[-101.347716,45.921837],"type":"Point"}
+  "bbox": [
+    -101.347716,
+    45.921837,
+    -101.347716,
+    45.921837
+],
+  "geometry": {"coordinates":[-101.34771600000001,45.921837],"type":"Point"}
 }

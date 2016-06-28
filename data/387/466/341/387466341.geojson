@@ -2,13 +2,14 @@
   "id": 387466341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856776,43.380854,-99.856776,43.380854",
     "geom:latitude":43.380854,
     "geom:longitude":-99.856776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N Main St",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387466341,
-    "wof:lastmodified":1449057236,
+    "wof:lastmodified":1467082709,
     "wof:name":"University of Colorado",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.856776,43.380854,-99.856776,43.380854],
+  "bbox": [
+    -99.856776,
+    43.380854,
+    -99.856776,
+    43.380854
+],
   "geometry": {"coordinates":[-99.856776,43.380854],"type":"Point"}
 }

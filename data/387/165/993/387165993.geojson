@@ -2,13 +2,14 @@
   "id": 387165993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.767467,43.507605,-96.767467,43.507605",
     "geom:latitude":43.507605,
     "geom:longitude":-96.767467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387165993,
-    "wof:lastmodified":1449059926,
+    "wof:lastmodified":1467082763,
     "wof:name":"Allan Stuart & Associates",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.767467,43.507605,-96.767467,43.507605],
+  "bbox": [
+    -96.767467,
+    43.507605,
+    -96.767467,
+    43.507605
+],
   "geometry": {"coordinates":[-96.767467,43.507605],"type":"Point"}
 }

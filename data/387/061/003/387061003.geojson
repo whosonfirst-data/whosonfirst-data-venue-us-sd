@@ -2,13 +2,14 @@
   "id": 387061003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856801,43.375388,-99.856801,43.375388",
     "geom:latitude":43.375388,
     "geom:longitude":-99.856801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387061003,
-    "wof:lastmodified":1449058859,
+    "wof:lastmodified":1467082742,
     "wof:name":"Dick's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.856801,43.375388,-99.856801,43.375388],
+  "bbox": [
+    -99.856801,
+    43.375388,
+    -99.856801,
+    43.375388
+],
   "geometry": {"coordinates":[-99.856801,43.375388],"type":"Point"}
 }

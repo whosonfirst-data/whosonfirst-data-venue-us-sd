@@ -2,13 +2,14 @@
   "id": 387959703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.235175,44.095465,-103.235175,44.095465",
     "geom:latitude":44.095465,
     "geom:longitude":-103.235175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Nowlin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387959703,
-    "wof:lastmodified":1449059535,
+    "wof:lastmodified":1467082755,
     "wof:name":"Custom Carpentry",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-103.235175,44.095465,-103.235175,44.095465],
+  "bbox": [
+    -103.235175,
+    44.095465,
+    -103.235175,
+    44.095465
+],
   "geometry": {"coordinates":[-103.235175,44.095465],"type":"Point"}
 }

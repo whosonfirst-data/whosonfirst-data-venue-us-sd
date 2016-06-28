@@ -2,13 +2,14 @@
   "id": 387589801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.57547,44.443214,-98.57547,44.443214",
     "geom:latitude":44.443214,
     "geom:longitude":-98.57547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38223 203rd St",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387589801,
-    "wof:lastmodified":1449058141,
+    "wof:lastmodified":1467082728,
     "wof:name":"Russell & Janet Jungemann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.57547,44.443214,-98.57547,44.443214],
+  "bbox": [
+    -98.57547,
+    44.443214,
+    -98.57547,
+    44.443214
+],
   "geometry": {"coordinates":[-98.57547,44.443214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387968185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694614,43.535995,-96.694614,43.535995",
     "geom:latitude":43.535995,
     "geom:longitude":-96.694614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2316 E 19th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387968185,
-    "wof:lastmodified":1449056349,
+    "wof:lastmodified":1467082691,
     "wof:name":"Jeff Amdahl Remodeling",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.694614,43.535995,-96.694614,43.535995],
+  "bbox": [
+    -96.694614,
+    43.535995,
+    -96.694614,
+    43.535995
+],
   "geometry": {"coordinates":[-96.694614,43.535995],"type":"Point"}
 }

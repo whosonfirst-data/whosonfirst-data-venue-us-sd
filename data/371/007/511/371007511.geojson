@@ -2,13 +2,14 @@
   "id": 371007511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004196,45.034859,-97.004196,45.034859",
     "geom:latitude":45.034859,
     "geom:longitude":-97.004196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46024 162nd St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371007511,
-    "wof:lastmodified":1449049933,
+    "wof:lastmodified":1467082670,
     "wof:name":"Dakota Clutch&Transmission Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "parts"
     ]
 },
-  "bbox": [-97.004196,45.034859,-97.004196,45.034859],
-  "geometry": {"coordinates":[-97.004196,45.034859],"type":"Point"}
+  "bbox": [
+    -97.004196,
+    45.034859,
+    -97.004196,
+    45.034859
+],
+  "geometry": {"coordinates":[-97.00419599999999,45.034859],"type":"Point"}
 }

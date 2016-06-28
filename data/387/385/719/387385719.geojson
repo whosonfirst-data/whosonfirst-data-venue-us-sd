@@ -2,13 +2,14 @@
   "id": 387385719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.392726,44.229871,-103.392726,44.229871",
     "geom:latitude":44.229871,
     "geom:longitude":-103.392726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10224 Main St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387385719,
-    "wof:lastmodified":1449058366,
+    "wof:lastmodified":1467082732,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.392726,44.229871,-103.392726,44.229871],
+  "bbox": [
+    -103.392726,
+    44.229871,
+    -103.392726,
+    44.229871
+],
   "geometry": {"coordinates":[-103.392726,44.229871],"type":"Point"}
 }

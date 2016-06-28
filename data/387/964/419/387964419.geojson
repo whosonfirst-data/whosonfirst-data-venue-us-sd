@@ -2,13 +2,14 @@
   "id": 387964419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.775415,44.311464,-96.775415,44.311464",
     "geom:latitude":44.311464,
     "geom:longitude":-96.775415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387964419,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1467082744,
     "wof:name":"Mills Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "property"
     ]
 },
-  "bbox": [-96.775415,44.311464,-96.775415,44.311464],
+  "bbox": [
+    -96.775415,
+    44.311464,
+    -96.775415,
+    44.311464
+],
   "geometry": {"coordinates":[-96.775415,44.311464],"type":"Point"}
 }

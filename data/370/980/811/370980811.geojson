@@ -2,13 +2,14 @@
   "id": 370980811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.996956,45.496844,-99.996956,45.496844",
     "geom:latitude":45.496844,
     "geom:longitude":-99.996956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13073 309th Ave",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370980811,
-    "wof:lastmodified":1449029309,
+    "wof:lastmodified":1467082656,
     "wof:name":"Thomas G Fiedler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.996956,45.496844,-99.996956,45.496844],
+  "bbox": [
+    -99.996956,
+    45.496844,
+    -99.996956,
+    45.496844
+],
   "geometry": {"coordinates":[-99.996956,45.496844],"type":"Point"}
 }

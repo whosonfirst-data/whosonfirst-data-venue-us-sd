@@ -2,13 +2,14 @@
   "id": 387837029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191616,44.068197,-103.191616,44.068197",
     "geom:latitude":44.068197,
     "geom:longitude":-103.191616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387837029,
-    "wof:lastmodified":1449056696,
+    "wof:lastmodified":1467082698,
     "wof:name":"Franks Cuts & Tan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.191616,44.068197,-103.191616,44.068197],
+  "bbox": [
+    -103.191616,
+    44.068197,
+    -103.191616,
+    44.068197
+],
   "geometry": {"coordinates":[-103.191616,44.068197],"type":"Point"}
 }

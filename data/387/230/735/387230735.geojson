@@ -2,13 +2,14 @@
   "id": 387230735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790827,43.509717,-96.790827,43.509717",
     "geom:latitude":43.509717,
     "geom:longitude":-96.790827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 S Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":387230735,
-    "wof:lastmodified":1449058931,
+    "wof:lastmodified":1467082743,
     "wof:name":"Family Worship Ctr",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.790827,43.509717,-96.790827,43.509717],
-  "geometry": {"coordinates":[-96.790827,43.509717],"type":"Point"}
+  "bbox": [
+    -96.790827,
+    43.509717,
+    -96.790827,
+    43.509717
+],
+  "geometry": {"coordinates":[-96.79082699999999,43.509717],"type":"Point"}
 }

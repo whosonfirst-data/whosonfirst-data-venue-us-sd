@@ -2,13 +2,14 @@
   "id": 387464359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094507,44.913854,-97.094507,44.913854",
     "geom:latitude":44.913854,
     "geom:longitude":-97.094507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 11th Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387464359,
-    "wof:lastmodified":1449057122,
+    "wof:lastmodified":1467082707,
     "wof:name":"Mt Hope Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-97.094507,44.913854,-97.094507,44.913854],
-  "geometry": {"coordinates":[-97.094507,44.913854],"type":"Point"}
+  "bbox": [
+    -97.094507,
+    44.913854,
+    -97.094507,
+    44.913854
+],
+  "geometry": {"coordinates":[-97.09450699999999,44.913854],"type":"Point"}
 }

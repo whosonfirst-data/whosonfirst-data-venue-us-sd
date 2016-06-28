@@ -2,13 +2,14 @@
   "id": 387872733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.385398,43.756995,-98.385398,43.756995",
     "geom:latitude":43.756995,
     "geom:longitude":-98.385398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25011 391st Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387872733,
-    "wof:lastmodified":1449056444,
+    "wof:lastmodified":1467082693,
     "wof:name":"Saville John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.385398,43.756995,-98.385398,43.756995],
+  "bbox": [
+    -98.385398,
+    43.756995,
+    -98.385398,
+    43.756995
+],
   "geometry": {"coordinates":[-98.385398,43.756995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387533147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234129,44.095213,-103.234129,44.095213",
     "geom:latitude":44.095213,
     "geom:longitude":-103.234129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Gold St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387533147,
-    "wof:lastmodified":1449056072,
+    "wof:lastmodified":1467082686,
     "wof:name":"Bloemendaal Photography",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-103.234129,44.095213,-103.234129,44.095213],
+  "bbox": [
+    -103.234129,
+    44.095213,
+    -103.234129,
+    44.095213
+],
   "geometry": {"coordinates":[-103.234129,44.095213],"type":"Point"}
 }

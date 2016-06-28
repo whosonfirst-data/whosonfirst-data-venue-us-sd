@@ -2,13 +2,14 @@
   "id": 387771067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.044552,43.068105,-98.044552,43.068105",
     "geom:latitude":43.068105,
     "geom:longitude":-98.044552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40791 298th St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387771067,
-    "wof:lastmodified":1449058176,
+    "wof:lastmodified":1467082728,
     "wof:name":"Michael Oorlog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.044552,43.068105,-98.044552,43.068105],
+  "bbox": [
+    -98.044552,
+    43.068105,
+    -98.044552,
+    43.068105
+],
   "geometry": {"coordinates":[-98.044552,43.068105],"type":"Point"}
 }

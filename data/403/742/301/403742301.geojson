@@ -2,13 +2,14 @@
   "id": 403742301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988732,44.518093,-98.988732,44.518093",
     "geom:latitude":44.518093,
     "geom:longitude":-98.988732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403742301,
-    "wof:lastmodified":1449054720,
+    "wof:lastmodified":1467082675,
     "wof:name":"Digital Memories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-98.988732,44.518093,-98.988732,44.518093],
+  "bbox": [
+    -98.988732,
+    44.518093,
+    -98.988732,
+    44.518093
+],
   "geometry": {"coordinates":[-98.988732,44.518093],"type":"Point"}
 }

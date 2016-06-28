@@ -2,13 +2,14 @@
   "id": 387216643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747385,43.522104,-96.747385,43.522104",
     "geom:latitude":43.522104,
     "geom:longitude":-96.747385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W 33rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387216643,
-    "wof:lastmodified":1449059486,
+    "wof:lastmodified":1467082754,
     "wof:name":"Kids & Kaboodle",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.747385,43.522104,-96.747385,43.522104],
-  "geometry": {"coordinates":[-96.747385,43.522104],"type":"Point"}
+  "bbox": [
+    -96.747385,
+    43.522104,
+    -96.747385,
+    43.522104
+],
+  "geometry": {"coordinates":[-96.74738499999999,43.522104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371018917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711337,43.535474,-96.711337,43.535474",
     "geom:latitude":43.535474,
     "geom:longitude":-96.711337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371018917,
-    "wof:lastmodified":1449049556,
+    "wof:lastmodified":1467082665,
     "wof:name":"Strategic Mortgage Solutions",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-96.711337,43.535474,-96.711337,43.535474],
+  "bbox": [
+    -96.711337,
+    43.535474,
+    -96.711337,
+    43.535474
+],
   "geometry": {"coordinates":[-96.711337,43.535474],"type":"Point"}
 }

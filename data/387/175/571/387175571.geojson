@@ -2,13 +2,14 @@
   "id": 387175571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.045809,43.569221,-98.045809,43.569221",
     "geom:latitude":43.569221,
     "geom:longitude":-98.045809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26316 408th Ave",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387175571,
-    "wof:lastmodified":1449058749,
+    "wof:lastmodified":1467082740,
     "wof:name":"Delmar D Mueller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.045809,43.569221,-98.045809,43.569221],
-  "geometry": {"coordinates":[-98.045809,43.569221],"type":"Point"}
+  "bbox": [
+    -98.045809,
+    43.569221,
+    -98.045809,
+    43.569221
+],
+  "geometry": {"coordinates":[-98.04580900000001,43.569221],"type":"Point"}
 }

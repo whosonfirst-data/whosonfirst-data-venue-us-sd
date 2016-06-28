@@ -2,13 +2,14 @@
   "id": 387614509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.162104,43.459301,-97.162104,43.459301",
     "geom:latitude":43.459301,
     "geom:longitude":-97.162104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45192 271st St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387614509,
-    "wof:lastmodified":1449060023,
+    "wof:lastmodified":1467082765,
     "wof:name":"Robert Langrehr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.162104,43.459301,-97.162104,43.459301],
+  "bbox": [
+    -97.162104,
+    43.459301,
+    -97.162104,
+    43.459301
+],
   "geometry": {"coordinates":[-97.162104,43.459301],"type":"Point"}
 }

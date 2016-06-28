@@ -2,13 +2,14 @@
   "id": 387024305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.432176,45.537458,-100.432176,45.537458",
     "geom:latitude":45.537458,
     "geom:longitude":-100.432176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 E Grand Xing",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387024305,
-    "wof:lastmodified":1449057924,
+    "wof:lastmodified":1467082723,
     "wof:name":"Bridge City Liquors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.432176,45.537458,-100.432176,45.537458],
+  "bbox": [
+    -100.432176,
+    45.537458,
+    -100.432176,
+    45.537458
+],
   "geometry": {"coordinates":[-100.432176,45.537458],"type":"Point"}
 }

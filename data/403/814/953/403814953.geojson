@@ -2,13 +2,14 @@
   "id": 403814953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.200173,44.347319,-98.200173,44.347319",
     "geom:latitude":44.347319,
     "geom:longitude":-98.200173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 Riverview Dr",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403814953,
-    "wof:lastmodified":1449054877,
+    "wof:lastmodified":1467082676,
     "wof:name":"Iowa Lamb Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "livestock"
     ]
 },
-  "bbox": [-98.200173,44.347319,-98.200173,44.347319],
-  "geometry": {"coordinates":[-98.200173,44.347319],"type":"Point"}
+  "bbox": [
+    -98.200173,
+    44.347319,
+    -98.200173,
+    44.347319
+],
+  "geometry": {"coordinates":[-98.20017300000001,44.347319],"type":"Point"}
 }

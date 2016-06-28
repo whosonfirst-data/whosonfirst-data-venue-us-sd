@@ -2,13 +2,14 @@
   "id": 387151521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807637,43.543797,-96.807637,43.543797",
     "geom:latitude":43.543797,
     "geom:longitude":-96.807637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6601 W Ribbon Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387151521,
-    "wof:lastmodified":1449056160,
+    "wof:lastmodified":1467082688,
     "wof:name":"VIP Limousine Svc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"
     ]
 },
-  "bbox": [-96.807637,43.543797,-96.807637,43.543797],
+  "bbox": [
+    -96.807637,
+    43.543797,
+    -96.807637,
+    43.543797
+],
   "geometry": {"coordinates":[-96.807637,43.543797],"type":"Point"}
 }

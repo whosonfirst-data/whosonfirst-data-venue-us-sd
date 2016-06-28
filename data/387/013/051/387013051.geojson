@@ -2,13 +2,14 @@
   "id": 387013051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.999219,43.053409,-99.999219,43.053409",
     "geom:latitude":43.053409,
     "geom:longitude":-99.999219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30847 300th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387013051,
-    "wof:lastmodified":1449058684,
+    "wof:lastmodified":1467082738,
     "wof:name":"Leo Wayne Howard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.999219,43.053409,-99.999219,43.053409],
+  "bbox": [
+    -99.999219,
+    43.053409,
+    -99.999219,
+    43.053409
+],
   "geometry": {"coordinates":[-99.999219,43.053409],"type":"Point"}
 }

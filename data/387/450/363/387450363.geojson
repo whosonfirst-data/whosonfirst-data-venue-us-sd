@@ -2,13 +2,14 @@
   "id": 387450363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.239039,43.991001,-102.239039,43.991001",
     "geom:latitude":43.991001,
     "geom:longitude":-102.239039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Glenn St",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387450363,
-    "wof:lastmodified":1449059344,
+    "wof:lastmodified":1467082752,
     "wof:name":"Motel 6 Dorm",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-102.239039,43.991001,-102.239039,43.991001],
-  "geometry": {"coordinates":[-102.239039,43.991001],"type":"Point"}
+  "bbox": [
+    -102.239039,
+    43.991001,
+    -102.239039,
+    43.991001
+],
+  "geometry": {"coordinates":[-102.23903900000001,43.991001],"type":"Point"}
 }

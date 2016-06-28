@@ -2,13 +2,14 @@
   "id": 387638655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.330898,45.056439,-97.330898,45.056439",
     "geom:latitude":45.056439,
     "geom:longitude":-97.330898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Lee Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387638655,
-    "wof:lastmodified":1449056324,
+    "wof:lastmodified":1467082691,
     "wof:name":"Goodhue Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.330898,45.056439,-97.330898,45.056439],
+  "bbox": [
+    -97.330898,
+    45.056439,
+    -97.330898,
+    45.056439
+],
   "geometry": {"coordinates":[-97.330898,45.056439],"type":"Point"}
 }

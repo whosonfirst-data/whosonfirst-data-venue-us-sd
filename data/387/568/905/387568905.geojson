@@ -2,13 +2,14 @@
   "id": 387568905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.370829,44.354361,-100.370829,44.354361",
     "geom:latitude":44.354361,
     "geom:longitude":-100.370829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Deadwood St",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387568905,
-    "wof:lastmodified":1449056025,
+    "wof:lastmodified":1467082685,
     "wof:name":"Duffy's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.370829,44.354361,-100.370829,44.354361],
+  "bbox": [
+    -100.370829,
+    44.354361,
+    -100.370829,
+    44.354361
+],
   "geometry": {"coordinates":[-100.370829,44.354361],"type":"Point"}
 }

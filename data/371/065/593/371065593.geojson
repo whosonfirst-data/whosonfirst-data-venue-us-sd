@@ -2,13 +2,14 @@
   "id": 371065593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696052,43.523081,-96.696052,43.523081",
     "geom:latitude":43.523081,
     "geom:longitude":-96.696052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371065593,
-    "wof:lastmodified":1449050132,
+    "wof:lastmodified":1467082673,
     "wof:name":"Music Unlimited By Myron Lee",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "group"
     ]
 },
-  "bbox": [-96.696052,43.523081,-96.696052,43.523081],
-  "geometry": {"coordinates":[-96.696052,43.523081],"type":"Point"}
+  "bbox": [
+    -96.696052,
+    43.523081,
+    -96.696052,
+    43.523081
+],
+  "geometry": {"coordinates":[-96.69605199999999,43.523081],"type":"Point"}
 }

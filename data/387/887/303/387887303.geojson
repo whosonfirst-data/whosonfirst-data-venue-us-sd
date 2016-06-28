@@ -2,13 +2,14 @@
   "id": 387887303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.5126,44.904259,-98.5126,44.904259",
     "geom:latitude":44.904259,
     "geom:longitude":-98.5126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17150 US Hwy 281",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387887303,
-    "wof:lastmodified":1449059159,
+    "wof:lastmodified":1467082748,
     "wof:name":"Dakota Air Spray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "crop"
     ]
 },
-  "bbox": [-98.5126,44.904259,-98.5126,44.904259],
-  "geometry": {"coordinates":[-98.5126,44.904259],"type":"Point"}
+  "bbox": [
+    -98.5126,
+    44.904259,
+    -98.5126,
+    44.904259
+],
+  "geometry": {"coordinates":[-98.51260000000001,44.904259],"type":"Point"}
 }

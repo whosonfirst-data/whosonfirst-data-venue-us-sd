@@ -2,13 +2,14 @@
   "id": 371073227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744547,43.822302,-96.744547,43.822302",
     "geom:latitude":43.822302,
     "geom:longitude":-96.744547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47337 246th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371073227,
-    "wof:lastmodified":1449049162,
+    "wof:lastmodified":1467082660,
     "wof:name":"Barna Log Homes South Dakota",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.744547,43.822302,-96.744547,43.822302],
+  "bbox": [
+    -96.744547,
+    43.822302,
+    -96.744547,
+    43.822302
+],
   "geometry": {"coordinates":[-96.744547,43.822302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371154299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.27234,44.055403,-98.27234,44.055403",
     "geom:latitude":44.055403,
     "geom:longitude":-98.27234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N 6th Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371154299,
-    "wof:lastmodified":1449050156,
+    "wof:lastmodified":1467082673,
     "wof:name":"Kleinsasser Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.27234,44.055403,-98.27234,44.055403],
+  "bbox": [
+    -98.27234,
+    44.055403,
+    -98.27234,
+    44.055403
+],
   "geometry": {"coordinates":[-98.27234,44.055403],"type":"Point"}
 }

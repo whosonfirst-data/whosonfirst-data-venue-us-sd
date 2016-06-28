@@ -2,13 +2,14 @@
   "id": 387106737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.766272,44.351932,-103.766272,44.351932",
     "geom:latitude":44.351932,
     "geom:longitude":-103.766272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Main St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387106737,
-    "wof:lastmodified":1449056061,
+    "wof:lastmodified":1467082686,
     "wof:name":"Blue Mountain Leather",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.766272,44.351932,-103.766272,44.351932],
+  "bbox": [
+    -103.766272,
+    44.351932,
+    -103.766272,
+    44.351932
+],
   "geometry": {"coordinates":[-103.766272,44.351932],"type":"Point"}
 }

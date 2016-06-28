@@ -2,13 +2,14 @@
   "id": 370988419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.139779,44.903318,-97.139779,44.903318",
     "geom:latitude":44.903318,
     "geom:longitude":-97.139779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 16th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370988419,
-    "wof:lastmodified":1449030266,
+    "wof:lastmodified":1467082656,
     "wof:name":"Laframboise Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "demolition"
     ]
 },
-  "bbox": [-97.139779,44.903318,-97.139779,44.903318],
+  "bbox": [
+    -97.139779,
+    44.903318,
+    -97.139779,
+    44.903318
+],
   "geometry": {"coordinates":[-97.139779,44.903318],"type":"Point"}
 }

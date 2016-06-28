@@ -2,13 +2,14 @@
   "id": 403740415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111094,44.899828,-97.111094,44.899828",
     "geom:latitude":44.899828,
     "geom:longitude":-97.111094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403740415,
-    "wof:lastmodified":1449055243,
+    "wof:lastmodified":1467082679,
     "wof:name":"Watertown Community Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-97.111094,44.899828,-97.111094,44.899828],
-  "geometry": {"coordinates":[-97.111094,44.899828],"type":"Point"}
+  "bbox": [
+    -97.111094,
+    44.899828,
+    -97.111094,
+    44.899828
+],
+  "geometry": {"coordinates":[-97.11109399999999,44.899828],"type":"Point"}
 }

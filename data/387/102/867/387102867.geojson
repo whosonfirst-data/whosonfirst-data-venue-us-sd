@@ -2,13 +2,14 @@
   "id": 387102867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798624,44.292429,-96.798624,44.292429",
     "geom:latitude":44.292429,
     "geom:longitude":-96.798624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387102867,
-    "wof:lastmodified":1449059632,
+    "wof:lastmodified":1467082757,
     "wof:name":"Food-N-Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-96.798624,44.292429,-96.798624,44.292429],
+  "bbox": [
+    -96.798624,
+    44.292429,
+    -96.798624,
+    44.292429
+],
   "geometry": {"coordinates":[-96.798624,44.292429],"type":"Point"}
 }

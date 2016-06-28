@@ -2,13 +2,14 @@
   "id": 387913459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.14147,44.897549,-97.14147,44.897549",
     "geom:latitude":44.897549,
     "geom:longitude":-97.14147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 4th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387913459,
-    "wof:lastmodified":1449057575,
+    "wof:lastmodified":1467082716,
     "wof:name":"Magee's Mobile Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "home"
     ]
 },
-  "bbox": [-97.14147,44.897549,-97.14147,44.897549],
+  "bbox": [
+    -97.14147,
+    44.897549,
+    -97.14147,
+    44.897549
+],
   "geometry": {"coordinates":[-97.14147,44.897549],"type":"Point"}
 }

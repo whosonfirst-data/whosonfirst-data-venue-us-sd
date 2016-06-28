@@ -2,13 +2,14 @@
   "id": 387558769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.61065,44.012081,-98.61065,44.012081",
     "geom:latitude":44.012081,
     "geom:longitude":-98.61065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23268 379th Ave",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387558769,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1467082707,
     "wof:name":"Schroeder Ranch West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "livestock"
     ]
 },
-  "bbox": [-98.61065,44.012081,-98.61065,44.012081],
-  "geometry": {"coordinates":[-98.61065,44.012081],"type":"Point"}
+  "bbox": [
+    -98.61065,
+    44.012081,
+    -98.61065,
+    44.012081
+],
+  "geometry": {"coordinates":[-98.61065000000001,44.012081],"type":"Point"}
 }

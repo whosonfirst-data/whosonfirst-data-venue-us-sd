@@ -2,13 +2,14 @@
   "id": 387210965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705211,43.596737,-96.705211,43.596737",
     "geom:latitude":43.596737,
     "geom:longitude":-96.705211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4421 N Seubert Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387210965,
-    "wof:lastmodified":1449057391,
+    "wof:lastmodified":1467082712,
     "wof:name":"Bade Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.705211,43.596737,-96.705211,43.596737],
-  "geometry": {"coordinates":[-96.705211,43.596737],"type":"Point"}
+  "bbox": [
+    -96.705211,
+    43.596737,
+    -96.705211,
+    43.596737
+],
+  "geometry": {"coordinates":[-96.70521100000001,43.596737],"type":"Point"}
 }

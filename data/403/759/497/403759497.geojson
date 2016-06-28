@@ -2,13 +2,14 @@
   "id": 403759497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.778955,43.57632,-96.778955,43.57632",
     "geom:latitude":43.57632,
     "geom:longitude":-96.778955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 N Maple Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403759497,
-    "wof:lastmodified":1449055993,
+    "wof:lastmodified":1467082685,
     "wof:name":"Car Tunef",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.778955,43.57632,-96.778955,43.57632],
+  "bbox": [
+    -96.778955,
+    43.57632,
+    -96.778955,
+    43.57632
+],
   "geometry": {"coordinates":[-96.778955,43.57632],"type":"Point"}
 }

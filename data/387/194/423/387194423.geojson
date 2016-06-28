@@ -2,13 +2,14 @@
   "id": 387194423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.759031,43.509224,-96.759031,43.509224",
     "geom:latitude":43.509224,
     "geom:longitude":-96.759031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 S Kiwanis Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387194423,
-    "wof:lastmodified":1449059373,
+    "wof:lastmodified":1467082752,
     "wof:name":"Dr Kassube & Lankford",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-96.759031,43.509224,-96.759031,43.509224],
-  "geometry": {"coordinates":[-96.759031,43.509224],"type":"Point"}
+  "bbox": [
+    -96.759031,
+    43.509224,
+    -96.759031,
+    43.509224
+],
+  "geometry": {"coordinates":[-96.75903099999999,43.509224],"type":"Point"}
 }

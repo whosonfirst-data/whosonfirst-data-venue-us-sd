@@ -2,13 +2,14 @@
   "id": 403719419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955729,45.013436,-99.955729,45.013436",
     "geom:latitude":45.013436,
     "geom:longitude":-99.955729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Exene St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403719419,
-    "wof:lastmodified":1449054798,
+    "wof:lastmodified":1467082676,
     "wof:name":"Lamb Motor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.955729,45.013436,-99.955729,45.013436],
-  "geometry": {"coordinates":[-99.955729,45.013436],"type":"Point"}
+  "bbox": [
+    -99.955729,
+    45.013436,
+    -99.955729,
+    45.013436
+],
+  "geometry": {"coordinates":[-99.95572900000001,45.013436],"type":"Point"}
 }

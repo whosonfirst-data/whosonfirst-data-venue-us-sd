@@ -2,13 +2,14 @@
   "id": 387292377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.196993,44.675979,-98.196993,44.675979",
     "geom:latitude":44.675979,
     "geom:longitude":-98.196993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40118 187th St",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387292377,
-    "wof:lastmodified":1449056425,
+    "wof:lastmodified":1467082693,
     "wof:name":"Elliott Hofer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.196993,44.675979,-98.196993,44.675979],
-  "geometry": {"coordinates":[-98.196993,44.675979],"type":"Point"}
+  "bbox": [
+    -98.196993,
+    44.675979,
+    -98.196993,
+    44.675979
+],
+  "geometry": {"coordinates":[-98.19699300000001,44.675979],"type":"Point"}
 }

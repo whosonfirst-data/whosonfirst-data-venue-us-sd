@@ -2,13 +2,14 @@
   "id": 371095259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.51603,43.543777,-96.51603,43.543777",
     "geom:latitude":43.543777,
     "geom:longitude":-96.51603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48479 265th St",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371095259,
-    "wof:lastmodified":1449049559,
+    "wof:lastmodified":1467082665,
     "wof:name":"Lacey Trucking",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.51603,43.543777,-96.51603,43.543777],
+  "bbox": [
+    -96.51603,
+    43.543777,
+    -96.51603,
+    43.543777
+],
   "geometry": {"coordinates":[-96.51603,43.543777],"type":"Point"}
 }

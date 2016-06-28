@@ -2,13 +2,14 @@
   "id": 387824701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.857124,43.417534,-96.857124,43.417534",
     "geom:latitude":43.417534,
     "geom:longitude":-96.857124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46745 274th St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387824701,
-    "wof:lastmodified":1449057457,
+    "wof:lastmodified":1467082714,
     "wof:name":"Pats Steakhouse & Lounge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.857124,43.417534,-96.857124,43.417534],
+  "bbox": [
+    -96.857124,
+    43.417534,
+    -96.857124,
+    43.417534
+],
   "geometry": {"coordinates":[-96.857124,43.417534],"type":"Point"}
 }

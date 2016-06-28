@@ -2,13 +2,14 @@
   "id": 386939693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.459043,45.291475,-96.459043,45.291475",
     "geom:latitude":45.291475,
     "geom:longitude":-96.459043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Bradley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386939693,
-    "wof:lastmodified":1449028705,
+    "wof:lastmodified":1467082650,
     "wof:name":"Dacotah Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.459043,45.291475,-96.459043,45.291475],
-  "geometry": {"coordinates":[-96.459043,45.291475],"type":"Point"}
+  "bbox": [
+    -96.459043,
+    45.291475,
+    -96.459043,
+    45.291475
+],
+  "geometry": {"coordinates":[-96.45904299999999,45.291475],"type":"Point"}
 }

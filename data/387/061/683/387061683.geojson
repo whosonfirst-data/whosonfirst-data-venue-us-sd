@@ -2,13 +2,14 @@
   "id": 387061683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515492,45.446998,-98.515492,45.446998",
     "geom:latitude":45.446998,
     "geom:longitude":-98.515492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Hwy 281",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387061683,
-    "wof:lastmodified":1449058857,
+    "wof:lastmodified":1467082742,
     "wof:name":"Aberdeen Living Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-98.515492,45.446998,-98.515492,45.446998],
-  "geometry": {"coordinates":[-98.515492,45.446998],"type":"Point"}
+  "bbox": [
+    -98.515492,
+    45.446998,
+    -98.515492,
+    45.446998
+],
+  "geometry": {"coordinates":[-98.51549199999999,45.446998],"type":"Point"}
 }

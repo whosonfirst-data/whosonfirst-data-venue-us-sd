@@ -2,13 +2,14 @@
   "id": 371167033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.511205,43.695951,-96.511205,43.695951",
     "geom:latitude":43.695951,
     "geom:longitude":-96.511205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25452 485th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371167033,
-    "wof:lastmodified":1449049569,
+    "wof:lastmodified":1467082665,
     "wof:name":"Rodney Lowe Construction",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.511205,43.695951,-96.511205,43.695951],
+  "bbox": [
+    -96.511205,
+    43.695951,
+    -96.511205,
+    43.695951
+],
   "geometry": {"coordinates":[-96.511205,43.695951],"type":"Point"}
 }

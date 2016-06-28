@@ -2,13 +2,14 @@
   "id": 370984231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.222187,44.345657,-98.222187,44.345657",
     "geom:latitude":44.345657,
     "geom:longitude":-98.222187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1779 McDonald Dr",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370984231,
-    "wof:lastmodified":1449030987,
+    "wof:lastmodified":1467082657,
     "wof:name":"Formal Expressions Bridal Btq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bridal"
     ]
 },
-  "bbox": [-98.222187,44.345657,-98.222187,44.345657],
-  "geometry": {"coordinates":[-98.222187,44.345657],"type":"Point"}
+  "bbox": [
+    -98.222187,
+    44.345657,
+    -98.222187,
+    44.345657
+],
+  "geometry": {"coordinates":[-98.22218700000001,44.345657],"type":"Point"}
 }

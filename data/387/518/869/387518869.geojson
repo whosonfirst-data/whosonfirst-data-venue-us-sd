@@ -2,13 +2,14 @@
   "id": 387518869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025707,43.723215,-98.025707,43.723215",
     "geom:latitude":43.723215,
     "geom:longitude":-98.025707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387518869,
-    "wof:lastmodified":1449058259,
+    "wof:lastmodified":1467082730,
     "wof:name":"Central Electric Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.025707,43.723215,-98.025707,43.723215],
+  "bbox": [
+    -98.025707,
+    43.723215,
+    -98.025707,
+    43.723215
+],
   "geometry": {"coordinates":[-98.025707,43.723215],"type":"Point"}
 }

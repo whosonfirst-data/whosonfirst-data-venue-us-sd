@@ -2,13 +2,14 @@
   "id": 387430817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801936,43.506252,-96.801936,43.506252",
     "geom:latitude":43.506252,
     "geom:longitude":-96.801936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6117 W Cheyenne Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387430817,
-    "wof:lastmodified":1449058534,
+    "wof:lastmodified":1467082735,
     "wof:name":"Greg Hybertson Construction",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.801936,43.506252,-96.801936,43.506252],
+  "bbox": [
+    -96.801936,
+    43.506252,
+    -96.801936,
+    43.506252
+],
   "geometry": {"coordinates":[-96.801936,43.506252],"type":"Point"}
 }

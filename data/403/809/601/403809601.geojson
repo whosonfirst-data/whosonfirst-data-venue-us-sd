@@ -2,13 +2,14 @@
   "id": 403809601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433546,45.38561,-98.433546,45.38561",
     "geom:latitude":45.38561,
     "geom:longitude":-98.433546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13807 390th Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403809601,
-    "wof:lastmodified":1449055726,
+    "wof:lastmodified":1467082683,
     "wof:name":"Gauers Air Conditioning & Htg",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.433546,45.38561,-98.433546,45.38561],
-  "geometry": {"coordinates":[-98.433546,45.38561],"type":"Point"}
+  "bbox": [
+    -98.433546,
+    45.38561,
+    -98.433546,
+    45.38561
+],
+  "geometry": {"coordinates":[-98.43354600000001,45.38561],"type":"Point"}
 }

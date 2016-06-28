@@ -2,13 +2,14 @@
   "id": 387006641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77262,43.082676,-96.77262,43.082676",
     "geom:latitude":43.082676,
     "geom:longitude":-96.77262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 N 2nd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387006641,
-    "wof:lastmodified":1449059179,
+    "wof:lastmodified":1467082748,
     "wof:name":"Aspire High Alternative School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.77262,43.082676,-96.77262,43.082676],
+  "bbox": [
+    -96.77262,
+    43.082676,
+    -96.77262,
+    43.082676
+],
   "geometry": {"coordinates":[-96.77262,43.082676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371033701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.223456,45.907605,-98.223456,45.907605",
     "geom:latitude":45.907605,
     "geom:longitude":-98.223456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40024 102nd St",
     "sg:city":"Hecla",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371033701,
-    "wof:lastmodified":1449049259,
+    "wof:lastmodified":1467082661,
     "wof:name":"Carson Gerdes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.223456,45.907605,-98.223456,45.907605],
+  "bbox": [
+    -98.223456,
+    45.907605,
+    -98.223456,
+    45.907605
+],
   "geometry": {"coordinates":[-98.223456,45.907605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387078491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.896856,42.857874,-97.896856,42.857874",
     "geom:latitude":42.857874,
     "geom:longitude":-97.896856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 College St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387078491,
-    "wof:lastmodified":1449059332,
+    "wof:lastmodified":1467082751,
     "wof:name":"Emmanuel Reformed Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.896856,42.857874,-97.896856,42.857874],
+  "bbox": [
+    -97.896856,
+    42.857874,
+    -97.896856,
+    42.857874
+],
   "geometry": {"coordinates":[-97.896856,42.857874],"type":"Point"}
 }

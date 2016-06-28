@@ -2,13 +2,14 @@
   "id": 387685797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12176,44.890037,-97.12176,44.890037",
     "geom:latitude":44.890037,
     "geom:longitude":-97.12176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387685797,
-    "wof:lastmodified":1449059831,
+    "wof:lastmodified":1467082761,
     "wof:name":"Mac's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.12176,44.890037,-97.12176,44.890037],
-  "geometry": {"coordinates":[-97.12176,44.890037],"type":"Point"}
+  "bbox": [
+    -97.12176,
+    44.890037,
+    -97.12176,
+    44.890037
+],
+  "geometry": {"coordinates":[-97.12175999999999,44.890037],"type":"Point"}
 }

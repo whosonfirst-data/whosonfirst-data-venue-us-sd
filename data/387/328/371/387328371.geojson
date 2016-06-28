@@ -2,13 +2,14 @@
   "id": 387328371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.808701,44.314183,-96.808701,44.314183",
     "geom:latitude":44.314183,
     "geom:longitude":-96.808701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Western Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387328371,
-    "wof:lastmodified":1449058347,
+    "wof:lastmodified":1467082732,
     "wof:name":"Final Frame Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.808701,44.314183,-96.808701,44.314183],
+  "bbox": [
+    -96.808701,
+    44.314183,
+    -96.808701,
+    44.314183
+],
   "geometry": {"coordinates":[-96.808701,44.314183],"type":"Point"}
 }

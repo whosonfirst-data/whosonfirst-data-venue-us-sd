@@ -2,13 +2,14 @@
   "id": 387055839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77552,43.083573,-96.77552,43.083573",
     "geom:latitude":43.083573,
     "geom:longitude":-96.77552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 4th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387055839,
-    "wof:lastmodified":1449056960,
+    "wof:lastmodified":1467082703,
     "wof:name":"Beresford Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.77552,43.083573,-96.77552,43.083573],
+  "bbox": [
+    -96.77552,
+    43.083573,
+    -96.77552,
+    43.083573
+],
   "geometry": {"coordinates":[-96.77552,43.083573],"type":"Point"}
 }

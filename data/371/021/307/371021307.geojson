@@ -2,13 +2,14 @@
   "id": 371021307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.508879,44.864804,-98.508879,44.864804",
     "geom:latitude":44.864804,
     "geom:longitude":-98.508879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38566 174th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371021307,
-    "wof:lastmodified":1449049708,
+    "wof:lastmodified":1467082667,
     "wof:name":"Fatima Family Apostolate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-98.508879,44.864804,-98.508879,44.864804],
-  "geometry": {"coordinates":[-98.508879,44.864804],"type":"Point"}
+  "bbox": [
+    -98.508879,
+    44.864804,
+    -98.508879,
+    44.864804
+],
+  "geometry": {"coordinates":[-98.50887899999999,44.864804],"type":"Point"}
 }

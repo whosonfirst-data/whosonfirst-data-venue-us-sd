@@ -2,13 +2,14 @@
   "id": 371074103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.768398,44.295186,-96.768398,44.295186",
     "geom:latitude":44.295186,
     "geom:longitude":-96.768398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"946 22nd Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371074103,
-    "wof:lastmodified":1449049614,
+    "wof:lastmodified":1467082666,
     "wof:name":"Evensons Hallmark Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.768398,44.295186,-96.768398,44.295186],
+  "bbox": [
+    -96.768398,
+    44.295186,
+    -96.768398,
+    44.295186
+],
   "geometry": {"coordinates":[-96.768398,44.295186],"type":"Point"}
 }

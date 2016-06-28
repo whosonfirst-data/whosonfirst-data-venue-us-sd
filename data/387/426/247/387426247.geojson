@@ -2,13 +2,14 @@
   "id": 387426247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716047,43.496522,-96.716047,43.496522",
     "geom:latitude":43.496522,
     "geom:longitude":-96.716047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 E 61st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387426247,
-    "wof:lastmodified":1449056912,
+    "wof:lastmodified":1467082703,
     "wof:name":"Clemensen Cottage LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.716047,43.496522,-96.716047,43.496522],
+  "bbox": [
+    -96.716047,
+    43.496522,
+    -96.716047,
+    43.496522
+],
   "geometry": {"coordinates":[-96.716047,43.496522],"type":"Point"}
 }

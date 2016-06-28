@@ -2,13 +2,14 @@
   "id": 387307219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766082,43.557475,-96.766082,43.557475",
     "geom:latitude":43.557475,
     "geom:longitude":-96.766082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N Helen Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387307219,
-    "wof:lastmodified":1449057088,
+    "wof:lastmodified":1467082706,
     "wof:name":"Contractors Siding & Windows",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-96.766082,43.557475,-96.766082,43.557475],
+  "bbox": [
+    -96.766082,
+    43.557475,
+    -96.766082,
+    43.557475
+],
   "geometry": {"coordinates":[-96.766082,43.557475],"type":"Point"}
 }

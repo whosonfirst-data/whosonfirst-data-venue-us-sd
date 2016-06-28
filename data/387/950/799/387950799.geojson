@@ -2,13 +2,14 @@
   "id": 387950799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.927397,42.780379,-96.927397,42.780379",
     "geom:latitude":42.780379,
     "geom:longitude":-96.927397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 E National St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387950799,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1467082716,
     "wof:name":"Biswas Indranil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lecturing"
     ]
 },
-  "bbox": [-96.927397,42.780379,-96.927397,42.780379],
+  "bbox": [
+    -96.927397,
+    42.780379,
+    -96.927397,
+    42.780379
+],
   "geometry": {"coordinates":[-96.927397,42.780379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387387937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733321,44.882252,-97.733321,44.882252",
     "geom:latitude":44.882252,
     "geom:longitude":-97.733321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387387937,
-    "wof:lastmodified":1449059409,
+    "wof:lastmodified":1467082753,
     "wof:name":"Furness Haugland Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-97.733321,44.882252,-97.733321,44.882252],
+  "bbox": [
+    -97.733321,
+    44.882252,
+    -97.733321,
+    44.882252
+],
   "geometry": {"coordinates":[-97.733321,44.882252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387178575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.712793,44.372009,-97.712793,44.372009",
     "geom:latitude":44.372009,
     "geom:longitude":-97.712793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20772 425th Ave",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387178575,
-    "wof:lastmodified":1449058836,
+    "wof:lastmodified":1467082741,
     "wof:name":"Brown Orlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.712793,44.372009,-97.712793,44.372009],
+  "bbox": [
+    -97.712793,
+    44.372009,
+    -97.712793,
+    44.372009
+],
   "geometry": {"coordinates":[-97.712793,44.372009],"type":"Point"}
 }

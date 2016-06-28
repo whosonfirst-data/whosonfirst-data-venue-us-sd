@@ -2,13 +2,14 @@
   "id": 387018239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.18487,44.063015,-103.18487,44.063015",
     "geom:latitude":44.063015,
     "geom:longitude":-103.18487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Lombardy Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387018239,
-    "wof:lastmodified":1449057998,
+    "wof:lastmodified":1467082725,
     "wof:name":"Sto-N-Go Storage Units",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-103.18487,44.063015,-103.18487,44.063015],
+  "bbox": [
+    -103.18487,
+    44.063015,
+    -103.18487,
+    44.063015
+],
   "geometry": {"coordinates":[-103.18487,44.063015],"type":"Point"}
 }

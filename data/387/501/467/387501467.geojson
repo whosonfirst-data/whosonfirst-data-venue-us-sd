@@ -2,13 +2,14 @@
   "id": 387501467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.805009,43.455729,-96.805009,43.455729",
     "geom:latitude":43.455729,
     "geom:longitude":-96.805009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27128 Grummand Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387501467,
-    "wof:lastmodified":1449059950,
+    "wof:lastmodified":1467082764,
     "wof:name":"Grafx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.805009,43.455729,-96.805009,43.455729],
+  "bbox": [
+    -96.805009,
+    43.455729,
+    -96.805009,
+    43.455729
+],
   "geometry": {"coordinates":[-96.805009,43.455729],"type":"Point"}
 }

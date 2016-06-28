@@ -2,13 +2,14 @@
   "id": 403828375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.200015,43.169774,-97.200015,43.169774",
     "geom:latitude":43.169774,
     "geom:longitude":-97.200015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44949 291st St",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403828375,
-    "wof:lastmodified":1449055326,
+    "wof:lastmodified":1467082680,
     "wof:name":"Flowers and Greens Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "nursery"
     ]
 },
-  "bbox": [-97.200015,43.169774,-97.200015,43.169774],
-  "geometry": {"coordinates":[-97.200015,43.169774],"type":"Point"}
+  "bbox": [
+    -97.200015,
+    43.169774,
+    -97.200015,
+    43.169774
+],
+  "geometry": {"coordinates":[-97.20001499999999,43.169774],"type":"Point"}
 }

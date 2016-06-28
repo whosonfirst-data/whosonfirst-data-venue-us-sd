@@ -2,13 +2,14 @@
   "id": 387798423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798619,44.309118,-96.798619,44.309118",
     "geom:latitude":44.309118,
     "geom:longitude":-96.798619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387798423,
-    "wof:lastmodified":1449056805,
+    "wof:lastmodified":1467082700,
     "wof:name":"Insty-Prints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "offset"
     ]
 },
-  "bbox": [-96.798619,44.309118,-96.798619,44.309118],
+  "bbox": [
+    -96.798619,
+    44.309118,
+    -96.798619,
+    44.309118
+],
   "geometry": {"coordinates":[-96.798619,44.309118],"type":"Point"}
 }

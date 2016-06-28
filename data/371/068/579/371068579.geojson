@@ -2,13 +2,14 @@
   "id": 371068579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.136591,43.395968,-97.136591,43.395968",
     "geom:latitude":43.395968,
     "geom:longitude":-97.136591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 S Main St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371068579,
-    "wof:lastmodified":1449049566,
+    "wof:lastmodified":1467082665,
     "wof:name":"Parker Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "analysis"
     ]
 },
-  "bbox": [-97.136591,43.395968,-97.136591,43.395968],
+  "bbox": [
+    -97.136591,
+    43.395968,
+    -97.136591,
+    43.395968
+],
   "geometry": {"coordinates":[-97.136591,43.395968],"type":"Point"}
 }

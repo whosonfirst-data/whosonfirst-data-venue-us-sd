@@ -2,13 +2,14 @@
   "id": 387826957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131425,44.36766,-97.131425,44.36766",
     "geom:latitude":44.36766,
     "geom:longitude":-97.131425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N 3rd St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387826957,
-    "wof:lastmodified":1449058874,
+    "wof:lastmodified":1467082742,
     "wof:name":"Bob Moe Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-97.131425,44.36766,-97.131425,44.36766],
-  "geometry": {"coordinates":[-97.131425,44.36766],"type":"Point"}
+  "bbox": [
+    -97.131425,
+    44.36766,
+    -97.131425,
+    44.36766
+],
+  "geometry": {"coordinates":[-97.13142499999999,44.36766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371035021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094007,44.910198,-97.094007,44.910198",
     "geom:latitude":44.910198,
     "geom:longitude":-97.094007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 13th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371035021,
-    "wof:lastmodified":1449049892,
+    "wof:lastmodified":1467082670,
     "wof:name":"Wieting Residential Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-97.094007,44.910198,-97.094007,44.910198],
+  "bbox": [
+    -97.094007,
+    44.910198,
+    -97.094007,
+    44.910198
+],
   "geometry": {"coordinates":[-97.094007,44.910198],"type":"Point"}
 }

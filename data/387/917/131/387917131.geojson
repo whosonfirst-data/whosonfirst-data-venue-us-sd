@@ -2,13 +2,14 @@
   "id": 387917131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.04166,43.695779,-98.04166,43.695779",
     "geom:latitude":43.695779,
     "geom:longitude":-98.04166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 S Edgerton St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387917131,
-    "wof:lastmodified":1449059419,
+    "wof:lastmodified":1467082753,
     "wof:name":"Wheatridge Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-98.04166,43.695779,-98.04166,43.695779],
-  "geometry": {"coordinates":[-98.04166,43.695779],"type":"Point"}
+  "bbox": [
+    -98.04166,
+    43.695779,
+    -98.04166,
+    43.695779
+],
+  "geometry": {"coordinates":[-98.04165999999999,43.695779],"type":"Point"}
 }

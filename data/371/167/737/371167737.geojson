@@ -2,13 +2,14 @@
   "id": 371167737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.634455,45.221261,-96.634455,45.221261",
     "geom:latitude":45.221261,
     "geom:longitude":-96.634455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S 3rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371167737,
-    "wof:lastmodified":1449049570,
+    "wof:lastmodified":1467082665,
     "wof:name":"Hair Expressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.634455,45.221261,-96.634455,45.221261],
+  "bbox": [
+    -96.634455,
+    45.221261,
+    -96.634455,
+    45.221261
+],
   "geometry": {"coordinates":[-96.634455,45.221261],"type":"Point"}
 }

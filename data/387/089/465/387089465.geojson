@@ -2,13 +2,14 @@
   "id": 387089465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.10781,44.891485,-97.10781,44.891485",
     "geom:latitude":44.891485,
     "geom:longitude":-97.10781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 6th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":387089465,
-    "wof:lastmodified":1449056871,
+    "wof:lastmodified":1467082702,
     "wof:name":"Midwest Medical Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-97.10781,44.891485,-97.10781,44.891485],
+  "bbox": [
+    -97.10781,
+    44.891485,
+    -97.10781,
+    44.891485
+],
   "geometry": {"coordinates":[-97.10781,44.891485],"type":"Point"}
 }

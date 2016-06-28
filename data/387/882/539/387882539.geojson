@@ -2,13 +2,14 @@
   "id": 387882539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748639,43.538005,-96.748639,43.538005",
     "geom:latitude":43.538005,
     "geom:longitude":-96.748639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 S Hawthorne Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387882539,
-    "wof:lastmodified":1449056782,
+    "wof:lastmodified":1467082700,
     "wof:name":"Julies Childcare",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.748639,43.538005,-96.748639,43.538005],
+  "bbox": [
+    -96.748639,
+    43.538005,
+    -96.748639,
+    43.538005
+],
   "geometry": {"coordinates":[-96.748639,43.538005],"type":"Point"}
 }

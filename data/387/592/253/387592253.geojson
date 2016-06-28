@@ -2,13 +2,14 @@
   "id": 387592253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734323,43.550753,-96.734323,43.550753",
     "geom:latitude":43.550753,
     "geom:longitude":-96.734323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 N Duluth Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387592253,
-    "wof:lastmodified":1449058293,
+    "wof:lastmodified":1467082731,
     "wof:name":"Access Solutions LLC",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "disability"
     ]
 },
-  "bbox": [-96.734323,43.550753,-96.734323,43.550753],
+  "bbox": [
+    -96.734323,
+    43.550753,
+    -96.734323,
+    43.550753
+],
   "geometry": {"coordinates":[-96.734323,43.550753],"type":"Point"}
 }

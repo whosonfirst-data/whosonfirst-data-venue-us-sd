@@ -2,13 +2,14 @@
   "id": 371184701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75854,43.55226,-96.75854,43.55226",
     "geom:latitude":43.55226,
     "geom:longitude":-96.75854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 W 5th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371184701,
-    "wof:lastmodified":1449049219,
+    "wof:lastmodified":1467082660,
     "wof:name":"Farmers Brothers Coffee",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coffee"
     ]
 },
-  "bbox": [-96.75854,43.55226,-96.75854,43.55226],
+  "bbox": [
+    -96.75854,
+    43.55226,
+    -96.75854,
+    43.55226
+],
   "geometry": {"coordinates":[-96.75854,43.55226],"type":"Point"}
 }

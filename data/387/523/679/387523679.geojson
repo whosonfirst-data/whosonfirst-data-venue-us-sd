@@ -2,13 +2,14 @@
   "id": 387523679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.551439,44.397387,-97.551439,44.397387",
     "geom:latitude":44.397387,
     "geom:longitude":-97.551439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20608 State Hwy 25",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387523679,
-    "wof:lastmodified":1449058299,
+    "wof:lastmodified":1467082731,
     "wof:name":"Wendell Schubloom Steel Bldgs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "metal"
     ]
 },
-  "bbox": [-97.551439,44.397387,-97.551439,44.397387],
+  "bbox": [
+    -97.551439,
+    44.397387,
+    -97.551439,
+    44.397387
+],
   "geometry": {"coordinates":[-97.551439,44.397387],"type":"Point"}
 }

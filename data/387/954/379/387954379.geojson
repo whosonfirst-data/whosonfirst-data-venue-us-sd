@@ -2,13 +2,14 @@
   "id": 387954379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.070074,43.764361,-98.070074,43.764361",
     "geom:latitude":43.764361,
     "geom:longitude":-98.070074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 Dailey Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387954379,
-    "wof:lastmodified":1449059429,
+    "wof:lastmodified":1467082753,
     "wof:name":"EMR Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.070074,43.764361,-98.070074,43.764361],
-  "geometry": {"coordinates":[-98.070074,43.764361],"type":"Point"}
+  "bbox": [
+    -98.070074,
+    43.764361,
+    -98.070074,
+    43.764361
+],
+  "geometry": {"coordinates":[-98.07007400000001,43.764361],"type":"Point"}
 }

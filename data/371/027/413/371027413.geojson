@@ -2,13 +2,14 @@
   "id": 371027413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234082,44.076733,-103.234082,44.076733",
     "geom:latitude":44.076733,
     "geom:longitude":-103.234082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 South St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371027413,
-    "wof:lastmodified":1449049229,
+    "wof:lastmodified":1467082661,
     "wof:name":"Advanced Engineering",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-103.234082,44.076733,-103.234082,44.076733],
+  "bbox": [
+    -103.234082,
+    44.076733,
+    -103.234082,
+    44.076733
+],
   "geometry": {"coordinates":[-103.234082,44.076733],"type":"Point"}
 }

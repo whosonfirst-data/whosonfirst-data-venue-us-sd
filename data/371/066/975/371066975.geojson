@@ -2,13 +2,14 @@
   "id": 371066975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.695363,43.083538,-97.695363,43.083538",
     "geom:latitude":43.083538,
     "geom:longitude":-97.695363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29683 425th Ave",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371066975,
-    "wof:lastmodified":1449049312,
+    "wof:lastmodified":1467082662,
     "wof:name":"Richard & Kimberlee Neth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-97.695363,43.083538,-97.695363,43.083538],
+  "bbox": [
+    -97.695363,
+    43.083538,
+    -97.695363,
+    43.083538
+],
   "geometry": {"coordinates":[-97.695363,43.083538],"type":"Point"}
 }

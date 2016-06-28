@@ -2,13 +2,14 @@
   "id": 387767215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.541554,43.157209,-98.541554,43.157209",
     "geom:latitude":43.157209,
     "geom:longitude":-98.541554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 3rd Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387767215,
-    "wof:lastmodified":1449057185,
+    "wof:lastmodified":1467082708,
     "wof:name":"Lake Andes City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-98.541554,43.157209,-98.541554,43.157209],
+  "bbox": [
+    -98.541554,
+    43.157209,
+    -98.541554,
+    43.157209
+],
   "geometry": {"coordinates":[-98.541554,43.157209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387277459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.308174,43.05268,-98.308174,43.05268",
     "geom:latitude":43.05268,
     "geom:longitude":-98.308174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29896 394th Ave",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387277459,
-    "wof:lastmodified":1449056542,
+    "wof:lastmodified":1467082695,
     "wof:name":"Yankton Sioux Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.308174,43.05268,-98.308174,43.05268],
-  "geometry": {"coordinates":[-98.308174,43.05268],"type":"Point"}
+  "bbox": [
+    -98.308174,
+    43.05268,
+    -98.308174,
+    43.05268
+],
+  "geometry": {"coordinates":[-98.30817399999999,43.05268],"type":"Point"}
 }

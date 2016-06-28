@@ -2,13 +2,14 @@
   "id": 387383881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.801794,44.316899,-96.801794,44.316899",
     "geom:latitude":44.316899,
     "geom:longitude":-96.801794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Harvey Dunn St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387383881,
-    "wof:lastmodified":1449057718,
+    "wof:lastmodified":1467082719,
     "wof:name":"Grunewaldt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.801794,44.316899,-96.801794,44.316899],
+  "bbox": [
+    -96.801794,
+    44.316899,
+    -96.801794,
+    44.316899
+],
   "geometry": {"coordinates":[-96.801794,44.316899],"type":"Point"}
 }

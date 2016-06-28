@@ -2,13 +2,14 @@
   "id": 387405355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.984641,43.373115,-96.984641,43.373115",
     "geom:latitude":43.373115,
     "geom:longitude":-96.984641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 State Hwy 44",
     "sg:city":"Chancellor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387405355,
-    "wof:lastmodified":1449059594,
+    "wof:lastmodified":1467082757,
     "wof:name":"C & S Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.984641,43.373115,-96.984641,43.373115],
+  "bbox": [
+    -96.984641,
+    43.373115,
+    -96.984641,
+    43.373115
+],
   "geometry": {"coordinates":[-96.984641,43.373115],"type":"Point"}
 }

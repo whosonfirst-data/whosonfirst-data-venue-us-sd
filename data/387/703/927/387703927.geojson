@@ -2,13 +2,14 @@
   "id": 387703927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.645956,44.485427,-96.645956,44.485427",
     "geom:latitude":44.485427,
     "geom:longitude":-96.645956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19995 478th Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387703927,
-    "wof:lastmodified":1449057256,
+    "wof:lastmodified":1467082709,
     "wof:name":"Trooien Auto Muffler & Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-96.645956,44.485427,-96.645956,44.485427],
+  "bbox": [
+    -96.645956,
+    44.485427,
+    -96.645956,
+    44.485427
+],
   "geometry": {"coordinates":[-96.645956,44.485427],"type":"Point"}
 }

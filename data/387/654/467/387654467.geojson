@@ -2,13 +2,14 @@
   "id": 387654467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.496856,45.225843,-96.496856,45.225843",
     "geom:latitude":45.225843,
     "geom:longitude":-96.496856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14884 485th Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387654467,
-    "wof:lastmodified":1449057375,
+    "wof:lastmodified":1467082712,
     "wof:name":"Ronald E & Rosemary Pinkert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-96.496856,45.225843,-96.496856,45.225843],
-  "geometry": {"coordinates":[-96.496856,45.225843],"type":"Point"}
+  "bbox": [
+    -96.496856,
+    45.225843,
+    -96.496856,
+    45.225843
+],
+  "geometry": {"coordinates":[-96.49685599999999,45.225843],"type":"Point"}
 }

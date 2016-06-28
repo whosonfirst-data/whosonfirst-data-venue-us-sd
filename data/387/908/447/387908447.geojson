@@ -2,13 +2,14 @@
   "id": 387908447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.513539,44.413497,-103.513539,44.413497",
     "geom:latitude":44.413497,
     "geom:longitude":-103.513539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 Sherman St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387908447,
-    "wof:lastmodified":1449058261,
+    "wof:lastmodified":1467082730,
     "wof:name":"Black Hills Family Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-103.513539,44.413497,-103.513539,44.413497],
-  "geometry": {"coordinates":[-103.513539,44.413497],"type":"Point"}
+  "bbox": [
+    -103.513539,
+    44.413497,
+    -103.513539,
+    44.413497
+],
+  "geometry": {"coordinates":[-103.51353899999999,44.413497],"type":"Point"}
 }

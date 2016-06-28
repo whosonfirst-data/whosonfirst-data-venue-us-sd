@@ -2,13 +2,14 @@
   "id": 371033599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.491399,43.754966,-96.491399,43.754966",
     "geom:latitude":43.754966,
     "geom:longitude":-96.491399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25045 486th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371033599,
-    "wof:lastmodified":1449049256,
+    "wof:lastmodified":1467082661,
     "wof:name":"Splitrock Investment LLC",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-96.491399,43.754966,-96.491399,43.754966],
+  "bbox": [
+    -96.491399,
+    43.754966,
+    -96.491399,
+    43.754966
+],
   "geometry": {"coordinates":[-96.491399,43.754966],"type":"Point"}
 }

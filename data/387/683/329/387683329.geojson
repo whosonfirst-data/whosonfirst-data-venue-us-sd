@@ -2,13 +2,14 @@
   "id": 387683329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705322,43.502822,-96.705322,43.502822",
     "geom:latitude":43.502822,
     "geom:longitude":-96.705322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1505 E 54th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387683329,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"Silchuk",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.705322,43.502822,-96.705322,43.502822],
+  "bbox": [
+    -96.705322,
+    43.502822,
+    -96.705322,
+    43.502822
+],
   "geometry": {"coordinates":[-96.705322,43.502822],"type":"Point"}
 }

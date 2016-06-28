@@ -2,13 +2,14 @@
   "id": 371055977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.682692,43.529433,-96.682692,43.529433",
     "geom:latitude":43.529433,
     "geom:longitude":-96.682692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 E 25th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371055977,
-    "wof:lastmodified":1449049274,
+    "wof:lastmodified":1467082661,
     "wof:name":"Kooiman Construction Partn",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.682692,43.529433,-96.682692,43.529433],
+  "bbox": [
+    -96.682692,
+    43.529433,
+    -96.682692,
+    43.529433
+],
   "geometry": {"coordinates":[-96.682692,43.529433],"type":"Point"}
 }

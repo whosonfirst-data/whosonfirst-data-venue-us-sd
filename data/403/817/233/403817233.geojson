@@ -2,13 +2,14 @@
   "id": 403817233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101167,43.990049,-97.101167,43.990049",
     "geom:latitude":43.990049,
     "geom:longitude":-97.101167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 12th St SE",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403817233,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1467082682,
     "wof:name":"Custom Touch Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.101167,43.990049,-97.101167,43.990049],
+  "bbox": [
+    -97.101167,
+    43.990049,
+    -97.101167,
+    43.990049
+],
   "geometry": {"coordinates":[-97.101167,43.990049],"type":"Point"}
 }

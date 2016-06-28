@@ -2,13 +2,14 @@
   "id": 387196251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.232362,44.081832,-103.232362,44.081832",
     "geom:latitude":44.081832,
     "geom:longitude":-103.232362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387196251,
-    "wof:lastmodified":1449056962,
+    "wof:lastmodified":1467082704,
     "wof:name":"Em's Attic Consignments",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hand"
     ]
 },
-  "bbox": [-103.232362,44.081832,-103.232362,44.081832],
-  "geometry": {"coordinates":[-103.232362,44.081832],"type":"Point"}
+  "bbox": [
+    -103.232362,
+    44.081832,
+    -103.232362,
+    44.081832
+],
+  "geometry": {"coordinates":[-103.23236199999999,44.081832],"type":"Point"}
 }

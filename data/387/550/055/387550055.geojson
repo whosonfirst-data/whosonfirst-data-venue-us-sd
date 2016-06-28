@@ -2,13 +2,14 @@
   "id": 387550055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.457727,45.291571,-96.457727,45.291571",
     "geom:latitude":45.291571,
     "geom:longitude":-96.457727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Main St",
     "sg:city":"Claire City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387550055,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1467082728,
     "wof:name":"Bob's Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-96.457727,45.291571,-96.457727,45.291571],
-  "geometry": {"coordinates":[-96.457727,45.291571],"type":"Point"}
+  "bbox": [
+    -96.457727,
+    45.291571,
+    -96.457727,
+    45.291571
+],
+  "geometry": {"coordinates":[-96.45772700000001,45.291571],"type":"Point"}
 }

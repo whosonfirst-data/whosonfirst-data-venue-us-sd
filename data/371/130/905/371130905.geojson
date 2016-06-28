@@ -2,13 +2,14 @@
   "id": 371130905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.186453,45.697979,-98.186453,45.697979",
     "geom:latitude":45.697979,
     "geom:longitude":-98.186453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11646 402nd Ave",
     "sg:city":"Houghton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371130905,
-    "wof:lastmodified":1449049358,
+    "wof:lastmodified":1467082662,
     "wof:name":"William James",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.186453,45.697979,-98.186453,45.697979],
+  "bbox": [
+    -98.186453,
+    45.697979,
+    -98.186453,
+    45.697979
+],
   "geometry": {"coordinates":[-98.186453,45.697979],"type":"Point"}
 }

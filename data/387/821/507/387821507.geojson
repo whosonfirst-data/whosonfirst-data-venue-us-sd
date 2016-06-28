@@ -2,13 +2,14 @@
   "id": 387821507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509237,44.4092,-103.509237,44.4092",
     "geom:latitude":44.4092,
     "geom:longitude":-103.509237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387821507,
-    "wof:lastmodified":1449058181,
+    "wof:lastmodified":1467082729,
     "wof:name":"Ward Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.509237,44.4092,-103.509237,44.4092],
+  "bbox": [
+    -103.509237,
+    44.4092,
+    -103.509237,
+    44.4092
+],
   "geometry": {"coordinates":[-103.509237,44.4092],"type":"Point"}
 }

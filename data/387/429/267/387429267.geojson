@@ -2,13 +2,14 @@
   "id": 387429267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.602515,44.850817,-98.602515,44.850817",
     "geom:latitude":44.850817,
     "geom:longitude":-98.602515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37945 175th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387429267,
-    "wof:lastmodified":1449059719,
+    "wof:lastmodified":1467082759,
     "wof:name":"Virgil I Swope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.602515,44.850817,-98.602515,44.850817],
+  "bbox": [
+    -98.602515,
+    44.850817,
+    -98.602515,
+    44.850817
+],
   "geometry": {"coordinates":[-98.602515,44.850817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387169133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.719251,43.530237,-96.719251,43.530237",
     "geom:latitude":43.530237,
     "geom:longitude":-96.719251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E Dana Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387169133,
-    "wof:lastmodified":1449058451,
+    "wof:lastmodified":1467082734,
     "wof:name":"Chapter Savers",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "genealogist"
     ]
 },
-  "bbox": [-96.719251,43.530237,-96.719251,43.530237],
+  "bbox": [
+    -96.719251,
+    43.530237,
+    -96.719251,
+    43.530237
+],
   "geometry": {"coordinates":[-96.719251,43.530237],"type":"Point"}
 }

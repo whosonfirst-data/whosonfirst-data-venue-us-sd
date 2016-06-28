@@ -2,13 +2,14 @@
   "id": 371168873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.575629,43.60467,-96.575629,43.60467",
     "geom:latitude":43.60467,
     "geom:longitude":-96.575629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 9th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371168873,
-    "wof:lastmodified":1449049581,
+    "wof:lastmodified":1467082666,
     "wof:name":"Birch Street Storage",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.575629,43.60467,-96.575629,43.60467],
-  "geometry": {"coordinates":[-96.575629,43.60467],"type":"Point"}
+  "bbox": [
+    -96.575629,
+    43.60467,
+    -96.575629,
+    43.60467
+],
+  "geometry": {"coordinates":[-96.57562900000001,43.60467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371130035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.1917,44.076437,-103.1917,44.076437",
     "geom:latitude":44.076437,
     "geom:longitude":-103.1917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":371130035,
-    "wof:lastmodified":1449049360,
+    "wof:lastmodified":1467082662,
     "wof:name":"Geico Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.1917,44.076437,-103.1917,44.076437],
+  "bbox": [
+    -103.1917,
+    44.076437,
+    -103.1917,
+    44.076437
+],
   "geometry": {"coordinates":[-103.1917,44.076437],"type":"Point"}
 }

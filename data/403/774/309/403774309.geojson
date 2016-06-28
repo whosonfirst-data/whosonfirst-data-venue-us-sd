@@ -2,13 +2,14 @@
   "id": 403774309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.154157,44.555027,-98.154157,44.555027",
     "geom:latitude":44.555027,
     "geom:longitude":-98.154157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40328 S Shore Rd",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403774309,
-    "wof:lastmodified":1449055151,
+    "wof:lastmodified":1467082679,
     "wof:name":"Brad Tschetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.154157,44.555027,-98.154157,44.555027],
+  "bbox": [
+    -98.154157,
+    44.555027,
+    -98.154157,
+    44.555027
+],
   "geometry": {"coordinates":[-98.154157,44.555027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387926171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.218806,44.082049,-103.218806,44.082049",
     "geom:latitude":44.082049,
     "geom:longitude":-103.218806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387926171,
-    "wof:lastmodified":1449057431,
+    "wof:lastmodified":1467082713,
     "wof:name":"Value Imports",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-103.218806,44.082049,-103.218806,44.082049],
+  "bbox": [
+    -103.218806,
+    44.082049,
+    -103.218806,
+    44.082049
+],
   "geometry": {"coordinates":[-103.218806,44.082049],"type":"Point"}
 }

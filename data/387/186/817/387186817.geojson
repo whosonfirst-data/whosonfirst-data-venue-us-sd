@@ -2,13 +2,14 @@
   "id": 387186817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859492,44.48645,-103.859492,44.48645",
     "geom:latitude":44.48645,
     "geom:longitude":-103.859492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 N 5th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387186817,
-    "wof:lastmodified":1449059087,
+    "wof:lastmodified":1467082746,
     "wof:name":"Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-103.859492,44.48645,-103.859492,44.48645],
+  "bbox": [
+    -103.859492,
+    44.48645,
+    -103.859492,
+    44.48645
+],
   "geometry": {"coordinates":[-103.859492,44.48645],"type":"Point"}
 }

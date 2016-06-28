@@ -2,13 +2,14 @@
   "id": 387483985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988735,44.519344,-98.988735,44.519344",
     "geom:latitude":44.519344,
     "geom:longitude":-98.988735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387483985,
-    "wof:lastmodified":1449059101,
+    "wof:lastmodified":1467082747,
     "wof:name":"Dwan De Geest CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-98.988735,44.519344,-98.988735,44.519344],
-  "geometry": {"coordinates":[-98.988735,44.519344],"type":"Point"}
+  "bbox": [
+    -98.988735,
+    44.519344,
+    -98.988735,
+    44.519344
+],
+  "geometry": {"coordinates":[-98.98873500000001,44.519344],"type":"Point"}
 }

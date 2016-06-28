@@ -2,13 +2,14 @@
   "id": 387966067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726885,43.543638,-96.726885,43.543638",
     "geom:latitude":43.543638,
     "geom:longitude":-96.726885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387966067,
-    "wof:lastmodified":1449056137,
+    "wof:lastmodified":1467082687,
     "wof:name":"Dakota Homestead Title Ins Co",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "title"
     ]
 },
-  "bbox": [-96.726885,43.543638,-96.726885,43.543638],
+  "bbox": [
+    -96.726885,
+    43.543638,
+    -96.726885,
+    43.543638
+],
   "geometry": {"coordinates":[-96.726885,43.543638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403767155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025494,43.714342,-98.025494,43.714342",
     "geom:latitude":43.714342,
     "geom:longitude":-98.025494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403767155,
-    "wof:lastmodified":1449055030,
+    "wof:lastmodified":1467082678,
     "wof:name":"North Western Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.025494,43.714342,-98.025494,43.714342],
-  "geometry": {"coordinates":[-98.025494,43.714342],"type":"Point"}
+  "bbox": [
+    -98.025494,
+    43.714342,
+    -98.025494,
+    43.714342
+],
+  "geometry": {"coordinates":[-98.02549399999999,43.714342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371125873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727539,43.434267,-96.727539,43.434267",
     "geom:latitude":43.434267,
     "geom:longitude":-96.727539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27283 State Hwy 115",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371125873,
-    "wof:lastmodified":1449050096,
+    "wof:lastmodified":1467082673,
     "wof:name":"Vintage Toys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.727539,43.434267,-96.727539,43.434267],
-  "geometry": {"coordinates":[-96.727539,43.434267],"type":"Point"}
+  "bbox": [
+    -96.727539,
+    43.434267,
+    -96.727539,
+    43.434267
+],
+  "geometry": {"coordinates":[-96.72753899999999,43.434267],"type":"Point"}
 }

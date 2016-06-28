@@ -2,13 +2,14 @@
   "id": 387680799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.445733,45.462076,-98.445733,45.462076",
     "geom:latitude":45.462076,
     "geom:longitude":-98.445733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387680799,
-    "wof:lastmodified":1449058778,
+    "wof:lastmodified":1467082740,
     "wof:name":"Inman Irrigation",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-98.445733,45.462076,-98.445733,45.462076],
+  "bbox": [
+    -98.445733,
+    45.462076,
+    -98.445733,
+    45.462076
+],
   "geometry": {"coordinates":[-98.445733,45.462076],"type":"Point"}
 }

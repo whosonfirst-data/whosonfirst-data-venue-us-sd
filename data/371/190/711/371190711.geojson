@@ -2,13 +2,14 @@
   "id": 371190711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.72144,43.572619,-96.72144,43.572619",
     "geom:latitude":43.572619,
     "geom:longitude":-96.72144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371190711,
-    "wof:lastmodified":1449050088,
+    "wof:lastmodified":1467082673,
     "wof:name":"Jubilee Woodcrafters Store",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "woodworker"
     ]
 },
-  "bbox": [-96.72144,43.572619,-96.72144,43.572619],
+  "bbox": [
+    -96.72144,
+    43.572619,
+    -96.72144,
+    43.572619
+],
   "geometry": {"coordinates":[-96.72144,43.572619],"type":"Point"}
 }

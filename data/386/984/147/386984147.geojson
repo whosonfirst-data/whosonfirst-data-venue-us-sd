@@ -2,13 +2,14 @@
   "id": 386984147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381587,43.731715,-97.381587,43.731715",
     "geom:latitude":43.731715,
     "geom:longitude":-97.381587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43783 252nd St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":386984147,
-    "wof:lastmodified":1449028802,
+    "wof:lastmodified":1467082652,
     "wof:name":"Tuschens M & W Extruding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-97.381587,43.731715,-97.381587,43.731715],
+  "bbox": [
+    -97.381587,
+    43.731715,
+    -97.381587,
+    43.731715
+],
   "geometry": {"coordinates":[-97.381587,43.731715],"type":"Point"}
 }

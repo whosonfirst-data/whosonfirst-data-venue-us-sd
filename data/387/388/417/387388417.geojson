@@ -2,13 +2,14 @@
   "id": 387388417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.129314,44.069894,-103.129314,44.069894",
     "geom:latitude":44.069894,
     "geom:longitude":-103.129314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 Diamond Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387388417,
-    "wof:lastmodified":1449056262,
+    "wof:lastmodified":1467082690,
     "wof:name":"Pike Alice Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-103.129314,44.069894,-103.129314,44.069894],
-  "geometry": {"coordinates":[-103.129314,44.069894],"type":"Point"}
+  "bbox": [
+    -103.129314,
+    44.069894,
+    -103.129314,
+    44.069894
+],
+  "geometry": {"coordinates":[-103.12931399999999,44.069894],"type":"Point"}
 }

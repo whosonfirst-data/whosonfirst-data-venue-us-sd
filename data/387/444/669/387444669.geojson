@@ -2,13 +2,14 @@
   "id": 387444669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.119067,44.054006,-103.119067,44.054006",
     "geom:latitude":44.054006,
     "geom:longitude":-103.119067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2985 Carlin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387444669,
-    "wof:lastmodified":1449059402,
+    "wof:lastmodified":1467082753,
     "wof:name":"Joe's Sandblasting & Painting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.119067,44.054006,-103.119067,44.054006],
+  "bbox": [
+    -103.119067,
+    44.054006,
+    -103.119067,
+    44.054006
+],
   "geometry": {"coordinates":[-103.119067,44.054006],"type":"Point"}
 }

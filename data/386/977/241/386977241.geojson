@@ -2,13 +2,14 @@
   "id": 386977241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711331,43.618652,-96.711331,43.618652",
     "geom:latitude":43.618652,
     "geom:longitude":-96.711331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6513 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386977241,
-    "wof:lastmodified":1449028982,
+    "wof:lastmodified":1467082655,
     "wof:name":"Floren's Trim Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-96.711331,43.618652,-96.711331,43.618652],
+  "bbox": [
+    -96.711331,
+    43.618652,
+    -96.711331,
+    43.618652
+],
   "geometry": {"coordinates":[-96.711331,43.618652],"type":"Point"}
 }

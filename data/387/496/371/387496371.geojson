@@ -2,13 +2,14 @@
   "id": 387496371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955585,45.012411,-99.955585,45.012411",
     "geom:latitude":45.012411,
     "geom:longitude":-99.955585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Exene St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387496371,
-    "wof:lastmodified":1449059353,
+    "wof:lastmodified":1467082752,
     "wof:name":"Liberty Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-99.955585,45.012411,-99.955585,45.012411],
+  "bbox": [
+    -99.955585,
+    45.012411,
+    -99.955585,
+    45.012411
+],
   "geometry": {"coordinates":[-99.955585,45.012411],"type":"Point"}
 }

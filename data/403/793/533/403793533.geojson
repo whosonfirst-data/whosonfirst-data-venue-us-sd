@@ -2,13 +2,14 @@
   "id": 403793533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.574049,44.084645,-98.574049,44.084645",
     "geom:latitude":44.084645,
     "geom:longitude":-98.574049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 5th St NW",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403793533,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1467082680,
     "wof:name":"Free Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.574049,44.084645,-98.574049,44.084645],
+  "bbox": [
+    -98.574049,
+    44.084645,
+    -98.574049,
+    44.084645
+],
   "geometry": {"coordinates":[-98.574049,44.084645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387714333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.443428,45.469336,-98.443428,45.469336",
     "geom:latitude":45.469336,
     "geom:longitude":-98.443428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 Industrial Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387714333,
-    "wof:lastmodified":1449057979,
+    "wof:lastmodified":1467082725,
     "wof:name":"Porter Distributing",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ale"
     ]
 },
-  "bbox": [-98.443428,45.469336,-98.443428,45.469336],
+  "bbox": [
+    -98.443428,
+    45.469336,
+    -98.443428,
+    45.469336
+],
   "geometry": {"coordinates":[-98.443428,45.469336],"type":"Point"}
 }

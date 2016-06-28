@@ -2,13 +2,14 @@
   "id": 387152567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.067425,44.762808,-97.067425,44.762808",
     "geom:latitude":44.762808,
     "geom:longitude":-97.067425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18084 457th Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387152567,
-    "wof:lastmodified":1449059035,
+    "wof:lastmodified":1467082746,
     "wof:name":"Horse & Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "harness"
     ]
 },
-  "bbox": [-97.067425,44.762808,-97.067425,44.762808],
+  "bbox": [
+    -97.067425,
+    44.762808,
+    -97.067425,
+    44.762808
+],
   "geometry": {"coordinates":[-97.067425,44.762808],"type":"Point"}
 }

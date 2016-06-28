@@ -2,13 +2,14 @@
   "id": 387256907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.616966,43.558373,-96.616966,43.558373",
     "geom:latitude":43.558373,
     "geom:longitude":-96.616966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8605 E Madison St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387256907,
-    "wof:lastmodified":1449059003,
+    "wof:lastmodified":1467082745,
     "wof:name":"Tri State Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-96.616966,43.558373,-96.616966,43.558373],
-  "geometry": {"coordinates":[-96.616966,43.558373],"type":"Point"}
+  "bbox": [
+    -96.616966,
+    43.558373,
+    -96.616966,
+    43.558373
+],
+  "geometry": {"coordinates":[-96.61696600000001,43.558373],"type":"Point"}
 }

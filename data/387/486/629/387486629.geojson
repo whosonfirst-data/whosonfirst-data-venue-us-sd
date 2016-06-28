@@ -2,13 +2,14 @@
   "id": 387486629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747095,44.46132,-96.747095,44.46132",
     "geom:latitude":44.46132,
     "geom:longitude":-96.747095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20159 473rd Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387486629,
-    "wof:lastmodified":1449058234,
+    "wof:lastmodified":1467082730,
     "wof:name":"Wink's Sprinks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.747095,44.46132,-96.747095,44.46132],
+  "bbox": [
+    -96.747095,
+    44.46132,
+    -96.747095,
+    44.46132
+],
   "geometry": {"coordinates":[-96.747095,44.46132],"type":"Point"}
 }

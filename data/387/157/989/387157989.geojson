@@ -2,13 +2,14 @@
   "id": 387157989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.128285,44.89741,-97.128285,44.89741",
     "geom:latitude":44.89741,
     "geom:longitude":-97.128285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 4th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387157989,
-    "wof:lastmodified":1449059388,
+    "wof:lastmodified":1467082752,
     "wof:name":"Stadley Construction & Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.128285,44.89741,-97.128285,44.89741],
-  "geometry": {"coordinates":[-97.128285,44.89741],"type":"Point"}
+  "bbox": [
+    -97.128285,
+    44.89741,
+    -97.128285,
+    44.89741
+],
+  "geometry": {"coordinates":[-97.12828500000001,44.89741],"type":"Point"}
 }

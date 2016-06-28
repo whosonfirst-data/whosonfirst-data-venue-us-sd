@@ -2,13 +2,14 @@
   "id": 387194519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.933646,44.915982,-96.933646,44.915982",
     "geom:latitude":44.915982,
     "geom:longitude":-96.933646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17047 Dakota Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387194519,
-    "wof:lastmodified":1449059375,
+    "wof:lastmodified":1467082752,
     "wof:name":"Clausen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.933646,44.915982,-96.933646,44.915982],
+  "bbox": [
+    -96.933646,
+    44.915982,
+    -96.933646,
+    44.915982
+],
   "geometry": {"coordinates":[-96.933646,44.915982],"type":"Point"}
 }

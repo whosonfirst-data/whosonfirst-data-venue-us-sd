@@ -2,13 +2,14 @@
   "id": 386945747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743565,43.570805,-96.743565,43.570805",
     "geom:latitude":43.570805,
     "geom:longitude":-96.743565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 W Blackhawk St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":386945747,
-    "wof:lastmodified":1449028655,
+    "wof:lastmodified":1467082650,
     "wof:name":"Preform Solutions",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.743565,43.570805,-96.743565,43.570805],
+  "bbox": [
+    -96.743565,
+    43.570805,
+    -96.743565,
+    43.570805
+],
   "geometry": {"coordinates":[-96.743565,43.570805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387224435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.061107,43.645274,-97.061107,43.645274",
     "geom:latitude":43.645274,
     "geom:longitude":-97.061107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E 2nd Ave",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387224435,
-    "wof:lastmodified":1449058892,
+    "wof:lastmodified":1467082742,
     "wof:name":"Jarcon Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nonresidential"
     ]
 },
-  "bbox": [-97.061107,43.645274,-97.061107,43.645274],
-  "geometry": {"coordinates":[-97.061107,43.645274],"type":"Point"}
+  "bbox": [
+    -97.061107,
+    43.645274,
+    -97.061107,
+    43.645274
+],
+  "geometry": {"coordinates":[-97.06110700000001,43.645274],"type":"Point"}
 }

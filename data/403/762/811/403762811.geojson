@@ -2,13 +2,14 @@
   "id": 403762811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.63015,45.221936,-96.63015,45.221936",
     "geom:latitude":45.221936,
     "geom:longitude":-96.63015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S 6th St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403762811,
-    "wof:lastmodified":1449055555,
+    "wof:lastmodified":1467082682,
     "wof:name":"Saint Lawrence Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.63015,45.221936,-96.63015,45.221936],
+  "bbox": [
+    -96.63015,
+    45.221936,
+    -96.63015,
+    45.221936
+],
   "geometry": {"coordinates":[-96.63015,45.221936],"type":"Point"}
 }

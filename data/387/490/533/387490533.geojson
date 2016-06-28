@@ -2,13 +2,14 @@
   "id": 387490533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.587761,43.590488,-96.587761,43.590488",
     "geom:latitude":43.590488,
     "geom:longitude":-96.587761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Main Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387490533,
-    "wof:lastmodified":1449059527,
+    "wof:lastmodified":1467082755,
     "wof:name":"Brandon Valley Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.587761,43.590488,-96.587761,43.590488],
+  "bbox": [
+    -96.587761,
+    43.590488,
+    -96.587761,
+    43.590488
+],
   "geometry": {"coordinates":[-96.587761,43.590488],"type":"Point"}
 }

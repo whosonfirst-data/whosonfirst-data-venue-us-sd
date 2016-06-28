@@ -2,13 +2,14 @@
   "id": 386947515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.773656,43.654293,-97.773656,43.654293",
     "geom:latitude":43.654293,
     "geom:longitude":-97.773656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 5th St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386947515,
-    "wof:lastmodified":1449028863,
+    "wof:lastmodified":1467082653,
     "wof:name":"Brisbin Honey Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "preparation"
     ]
 },
-  "bbox": [-97.773656,43.654293,-97.773656,43.654293],
+  "bbox": [
+    -97.773656,
+    43.654293,
+    -97.773656,
+    43.654293
+],
   "geometry": {"coordinates":[-97.773656,43.654293],"type":"Point"}
 }

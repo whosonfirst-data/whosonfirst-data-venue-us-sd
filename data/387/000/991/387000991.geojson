@@ -2,13 +2,14 @@
   "id": 387000991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.51133,44.408537,-103.51133,44.408537",
     "geom:latitude":44.408537,
     "geom:longitude":-103.51133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Shephard St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387000991,
-    "wof:lastmodified":1449056712,
+    "wof:lastmodified":1467082699,
     "wof:name":"Milt's Carpet Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-103.51133,44.408537,-103.51133,44.408537],
+  "bbox": [
+    -103.51133,
+    44.408537,
+    -103.51133,
+    44.408537
+],
   "geometry": {"coordinates":[-103.51133,44.408537],"type":"Point"}
 }

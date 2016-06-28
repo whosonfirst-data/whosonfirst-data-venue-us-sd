@@ -2,13 +2,14 @@
   "id": 387250883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.514151,44.414542,-103.514151,44.414542",
     "geom:latitude":44.414542,
     "geom:longitude":-103.514151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387250883,
-    "wof:lastmodified":1449058275,
+    "wof:lastmodified":1467082730,
     "wof:name":"Investment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.514151,44.414542,-103.514151,44.414542],
+  "bbox": [
+    -103.514151,
+    44.414542,
+    -103.514151,
+    44.414542
+],
   "geometry": {"coordinates":[-103.514151,44.414542],"type":"Point"}
 }

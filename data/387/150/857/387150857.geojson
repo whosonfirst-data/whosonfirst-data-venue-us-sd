@@ -2,13 +2,14 @@
   "id": 387150857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.632312,44.30149,-97.632312,44.30149",
     "geom:latitude":44.30149,
     "geom:longitude":-97.632312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21265 429th Ave",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387150857,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1467082688,
     "wof:name":"R A H Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.632312,44.30149,-97.632312,44.30149],
+  "bbox": [
+    -97.632312,
+    44.30149,
+    -97.632312,
+    44.30149
+],
   "geometry": {"coordinates":[-97.632312,44.30149],"type":"Point"}
 }

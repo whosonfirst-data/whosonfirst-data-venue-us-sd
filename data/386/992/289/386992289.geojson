@@ -2,13 +2,14 @@
   "id": 386992289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.825245,43.298824,-103.825245,43.298824",
     "geom:latitude":43.298824,
     "geom:longitude":-103.825245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 2nd Ave",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386992289,
-    "wof:lastmodified":1449028771,
+    "wof:lastmodified":1467082652,
     "wof:name":"Eberle Specialty Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.825245,43.298824,-103.825245,43.298824],
+  "bbox": [
+    -103.825245,
+    43.298824,
+    -103.825245,
+    43.298824
+],
   "geometry": {"coordinates":[-103.825245,43.298824],"type":"Point"}
 }

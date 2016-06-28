@@ -2,13 +2,14 @@
   "id": 371058215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.431065,45.54343,-100.431065,45.54343",
     "geom:latitude":45.54343,
     "geom:longitude":-100.431065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 2nd Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371058215,
-    "wof:lastmodified":1449049184,
+    "wof:lastmodified":1467082660,
     "wof:name":"Mobridge Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "swimming"
     ]
 },
-  "bbox": [-100.431065,45.54343,-100.431065,45.54343],
+  "bbox": [
+    -100.431065,
+    45.54343,
+    -100.431065,
+    45.54343
+],
   "geometry": {"coordinates":[-100.431065,45.54343],"type":"Point"}
 }

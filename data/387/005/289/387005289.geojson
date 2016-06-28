@@ -2,13 +2,14 @@
   "id": 387005289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119522,44.901251,-97.119522,44.901251",
     "geom:latitude":44.901251,
     "geom:longitude":-97.119522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 3rd St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387005289,
-    "wof:lastmodified":1449059610,
+    "wof:lastmodified":1467082757,
     "wof:name":"Faith Living Book & Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.119522,44.901251,-97.119522,44.901251],
+  "bbox": [
+    -97.119522,
+    44.901251,
+    -97.119522,
+    44.901251
+],
   "geometry": {"coordinates":[-97.119522,44.901251],"type":"Point"}
 }

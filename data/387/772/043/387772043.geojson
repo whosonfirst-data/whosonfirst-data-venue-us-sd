@@ -2,13 +2,14 @@
   "id": 387772043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.921884,43.61342,-99.921884,43.61342",
     "geom:latitude":43.61342,
     "geom:longitude":-99.921884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26117 312th Ave",
     "sg:city":"Ideal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387772043,
-    "wof:lastmodified":1449057811,
+    "wof:lastmodified":1467082721,
     "wof:name":"Star Valley Lodge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "membership"
     ]
 },
-  "bbox": [-99.921884,43.61342,-99.921884,43.61342],
-  "geometry": {"coordinates":[-99.921884,43.61342],"type":"Point"}
+  "bbox": [
+    -99.921884,
+    43.61342,
+    -99.921884,
+    43.61342
+],
+  "geometry": {"coordinates":[-99.92188400000001,43.61342],"type":"Point"}
 }

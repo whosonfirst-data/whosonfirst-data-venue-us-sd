@@ -2,13 +2,14 @@
   "id": 371115977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227272,44.078812,-103.227272,44.078812",
     "geom:latitude":44.078812,
     "geom:longitude":-103.227272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371115977,
-    "wof:lastmodified":1449049060,
+    "wof:lastmodified":1467082658,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-103.227272,44.078812,-103.227272,44.078812],
+  "bbox": [
+    -103.227272,
+    44.078812,
+    -103.227272,
+    44.078812
+],
   "geometry": {"coordinates":[-103.227272,44.078812],"type":"Point"}
 }

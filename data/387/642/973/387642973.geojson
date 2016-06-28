@@ -2,13 +2,14 @@
   "id": 387642973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.119928,44.016578,-97.119928,44.016578",
     "geom:latitude":44.016578,
     "geom:longitude":-97.119928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Union Ave N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387642973,
-    "wof:lastmodified":1449056336,
+    "wof:lastmodified":1467082691,
     "wof:name":"Doug's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.119928,44.016578,-97.119928,44.016578],
+  "bbox": [
+    -97.119928,
+    44.016578,
+    -97.119928,
+    44.016578
+],
   "geometry": {"coordinates":[-97.119928,44.016578],"type":"Point"}
 }

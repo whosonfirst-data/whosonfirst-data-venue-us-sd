@@ -2,13 +2,14 @@
   "id": 386927681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799003,43.509429,-96.799003,43.509429",
     "geom:latitude":43.509429,
     "geom:longitude":-96.799003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 S Fairhall Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386927681,
-    "wof:lastmodified":1449028942,
+    "wof:lastmodified":1467082655,
     "wof:name":"Personalized Candy Bars",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.799003,43.509429,-96.799003,43.509429],
+  "bbox": [
+    -96.799003,
+    43.509429,
+    -96.799003,
+    43.509429
+],
   "geometry": {"coordinates":[-96.799003,43.509429],"type":"Point"}
 }

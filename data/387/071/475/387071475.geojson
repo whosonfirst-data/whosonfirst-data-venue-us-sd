@@ -2,13 +2,14 @@
   "id": 387071475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.626561,45.774574,-99.626561,45.774574",
     "geom:latitude":45.774574,
     "geom:longitude":-99.626561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 B Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387071475,
-    "wof:lastmodified":1449058499,
+    "wof:lastmodified":1467082735,
     "wof:name":"Dakota Shoe'n Sew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.626561,45.774574,-99.626561,45.774574],
+  "bbox": [
+    -99.626561,
+    45.774574,
+    -99.626561,
+    45.774574
+],
   "geometry": {"coordinates":[-99.626561,45.774574],"type":"Point"}
 }

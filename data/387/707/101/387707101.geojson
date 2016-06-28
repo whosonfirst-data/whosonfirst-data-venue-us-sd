@@ -2,13 +2,14 @@
   "id": 387707101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520198,45.332139,-97.520198,45.332139",
     "geom:latitude":45.332139,
     "geom:longitude":-97.520198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Main St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387707101,
-    "wof:lastmodified":1449059328,
+    "wof:lastmodified":1467082751,
     "wof:name":"Webster Youth Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "center"
     ]
 },
-  "bbox": [-97.520198,45.332139,-97.520198,45.332139],
-  "geometry": {"coordinates":[-97.520198,45.332139],"type":"Point"}
+  "bbox": [
+    -97.520198,
+    45.332139,
+    -97.520198,
+    45.332139
+],
+  "geometry": {"coordinates":[-97.52019799999999,45.332139],"type":"Point"}
 }

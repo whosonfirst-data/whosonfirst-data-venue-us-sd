@@ -2,13 +2,14 @@
   "id": 387930139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.939353,42.782566,-96.939353,42.782566",
     "geom:latitude":42.782566,
     "geom:longitude":-96.939353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W Clark St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387930139,
-    "wof:lastmodified":1449057312,
+    "wof:lastmodified":1467082711,
     "wof:name":"Robinsons Pro Cleaning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-96.939353,42.782566,-96.939353,42.782566],
+  "bbox": [
+    -96.939353,
+    42.782566,
+    -96.939353,
+    42.782566
+],
   "geometry": {"coordinates":[-96.939353,42.782566],"type":"Point"}
 }

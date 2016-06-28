@@ -2,13 +2,14 @@
   "id": 387459761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.713815,43.53475,-96.713815,43.53475",
     "geom:latitude":43.53475,
     "geom:longitude":-96.713815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 E 20th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387459761,
-    "wof:lastmodified":1449057654,
+    "wof:lastmodified":1467082718,
     "wof:name":"Puumala Neurosurgery",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.713815,43.53475,-96.713815,43.53475],
+  "bbox": [
+    -96.713815,
+    43.53475,
+    -96.713815,
+    43.53475
+],
   "geometry": {"coordinates":[-96.713815,43.53475],"type":"Point"}
 }

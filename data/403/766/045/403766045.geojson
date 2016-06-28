@@ -2,13 +2,14 @@
   "id": 403766045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.512772,45.336155,-97.512772,45.336155",
     "geom:latitude":45.336155,
     "geom:longitude":-97.512772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E 11th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403766045,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1467082674,
     "wof:name":"Glacial Lakes Health Clin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-97.512772,45.336155,-97.512772,45.336155],
+  "bbox": [
+    -97.512772,
+    45.336155,
+    -97.512772,
+    45.336155
+],
   "geometry": {"coordinates":[-97.512772,45.336155],"type":"Point"}
 }

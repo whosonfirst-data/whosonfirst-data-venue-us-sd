@@ -2,13 +2,14 @@
   "id": 371047533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.011732,43.257331,-98.011732,43.257331",
     "geom:latitude":43.257331,
     "geom:longitude":-98.011732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28481 409th Ave",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371047533,
-    "wof:lastmodified":1449049731,
+    "wof:lastmodified":1467082668,
     "wof:name":"Kenneth Stoebner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.011732,43.257331,-98.011732,43.257331],
-  "geometry": {"coordinates":[-98.011732,43.257331],"type":"Point"}
+  "bbox": [
+    -98.011732,
+    43.257331,
+    -98.011732,
+    43.257331
+],
+  "geometry": {"coordinates":[-98.01173199999999,43.257331],"type":"Point"}
 }

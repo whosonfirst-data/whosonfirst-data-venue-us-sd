@@ -2,13 +2,14 @@
   "id": 386966045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.144427,45.544924,-98.144427,45.544924",
     "geom:latitude":45.544924,
     "geom:longitude":-98.144427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40302 127th St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386966045,
-    "wof:lastmodified":1449028625,
+    "wof:lastmodified":1467082649,
     "wof:name":"George Alberts",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.144427,45.544924,-98.144427,45.544924],
-  "geometry": {"coordinates":[-98.144427,45.544924],"type":"Point"}
+  "bbox": [
+    -98.144427,
+    45.544924,
+    -98.144427,
+    45.544924
+],
+  "geometry": {"coordinates":[-98.14442699999999,45.544924],"type":"Point"}
 }

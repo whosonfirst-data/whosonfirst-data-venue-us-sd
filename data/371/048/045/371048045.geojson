@@ -2,13 +2,14 @@
   "id": 371048045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.711151,43.726544,-98.711151,43.726544",
     "geom:latitude":43.726544,
     "geom:longitude":-98.711151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 E 1st St",
     "sg:city":"White Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371048045,
-    "wof:lastmodified":1449049371,
+    "wof:lastmodified":1467082663,
     "wof:name":"Konechne Jackie Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.711151,43.726544,-98.711151,43.726544],
+  "bbox": [
+    -98.711151,
+    43.726544,
+    -98.711151,
+    43.726544
+],
   "geometry": {"coordinates":[-98.711151,43.726544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387752761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.730615,43.959546,-97.730615,43.959546",
     "geom:latitude":43.959546,
     "geom:longitude":-97.730615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23665 424th Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387752761,
-    "wof:lastmodified":1449056741,
+    "wof:lastmodified":1467082699,
     "wof:name":"Ron Walter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.730615,43.959546,-97.730615,43.959546],
+  "bbox": [
+    -97.730615,
+    43.959546,
+    -97.730615,
+    43.959546
+],
   "geometry": {"coordinates":[-97.730615,43.959546],"type":"Point"}
 }

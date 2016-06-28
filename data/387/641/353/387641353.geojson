@@ -2,13 +2,14 @@
   "id": 387641353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.527033,43.947826,-103.527033,43.947826",
     "geom:latitude":43.947826,
     "geom:longitude":-103.527033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23836 Emerald Pines Dr",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387641353,
-    "wof:lastmodified":1449058997,
+    "wof:lastmodified":1467082745,
     "wof:name":"Emerald Pnes Rfuge Bed Brkfast",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.527033,43.947826,-103.527033,43.947826],
+  "bbox": [
+    -103.527033,
+    43.947826,
+    -103.527033,
+    43.947826
+],
   "geometry": {"coordinates":[-103.527033,43.947826],"type":"Point"}
 }

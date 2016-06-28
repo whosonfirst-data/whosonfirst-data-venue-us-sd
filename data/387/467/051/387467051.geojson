@@ -2,13 +2,14 @@
   "id": 387467051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.146349,44.941497,-97.146349,44.941497",
     "geom:latitude":44.941497,
     "geom:longitude":-97.146349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 Sioux Conifer Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387467051,
-    "wof:lastmodified":1449059101,
+    "wof:lastmodified":1467082747,
     "wof:name":"Sioux Valley Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greenhouse"
     ]
 },
-  "bbox": [-97.146349,44.941497,-97.146349,44.941497],
+  "bbox": [
+    -97.146349,
+    44.941497,
+    -97.146349,
+    44.941497
+],
   "geometry": {"coordinates":[-97.146349,44.941497],"type":"Point"}
 }

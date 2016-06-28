@@ -2,13 +2,14 @@
   "id": 387932341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.942639,43.619322,-96.942639,43.619322",
     "geom:latitude":43.619322,
     "geom:longitude":-96.942639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S Feyder Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387932341,
-    "wof:lastmodified":1449057520,
+    "wof:lastmodified":1467082715,
     "wof:name":"Dages Soda Blasting",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandblasting"
     ]
 },
-  "bbox": [-96.942639,43.619322,-96.942639,43.619322],
+  "bbox": [
+    -96.942639,
+    43.619322,
+    -96.942639,
+    43.619322
+],
   "geometry": {"coordinates":[-96.942639,43.619322],"type":"Point"}
 }

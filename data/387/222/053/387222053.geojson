@@ -2,13 +2,14 @@
   "id": 387222053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721137,43.521753,-96.721137,43.521753",
     "geom:latitude":43.521753,
     "geom:longitude":-96.721137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 S 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387222053,
-    "wof:lastmodified":1449058654,
+    "wof:lastmodified":1467082738,
     "wof:name":"Peterson Farm & Ranch Peterson",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-96.721137,43.521753,-96.721137,43.521753],
+  "bbox": [
+    -96.721137,
+    43.521753,
+    -96.721137,
+    43.521753
+],
   "geometry": {"coordinates":[-96.721137,43.521753],"type":"Point"}
 }

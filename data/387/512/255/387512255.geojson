@@ -2,13 +2,14 @@
   "id": 387512255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738998,43.564938,-96.738998,43.564938",
     "geom:latitude":43.564938,
     "geom:longitude":-96.738998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 N C Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387512255,
-    "wof:lastmodified":1449058876,
+    "wof:lastmodified":1467082742,
     "wof:name":"Heartland Glass Co",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.738998,43.564938,-96.738998,43.564938],
+  "bbox": [
+    -96.738998,
+    43.564938,
+    -96.738998,
+    43.564938
+],
   "geometry": {"coordinates":[-96.738998,43.564938],"type":"Point"}
 }

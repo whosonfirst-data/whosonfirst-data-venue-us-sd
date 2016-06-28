@@ -2,13 +2,14 @@
   "id": 371084047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.78441,43.515381,-96.78441,43.515381",
     "geom:latitude":43.515381,
     "geom:longitude":-96.78441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Madllyn Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371084047,
-    "wof:lastmodified":1449049138,
+    "wof:lastmodified":1467082659,
     "wof:name":"Northland Mortgage",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-96.78441,43.515381,-96.78441,43.515381],
-  "geometry": {"coordinates":[-96.78441,43.515381],"type":"Point"}
+  "bbox": [
+    -96.78441,
+    43.515381,
+    -96.78441,
+    43.515381
+],
+  "geometry": {"coordinates":[-96.78440999999999,43.515381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403821239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.521959,44.871864,-98.521959,44.871864",
     "geom:latitude":44.871864,
     "geom:longitude":-98.521959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 W 2nd St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403821239,
-    "wof:lastmodified":1449055358,
+    "wof:lastmodified":1467082680,
     "wof:name":"Sunset Court Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "intermediate"
     ]
 },
-  "bbox": [-98.521959,44.871864,-98.521959,44.871864],
+  "bbox": [
+    -98.521959,
+    44.871864,
+    -98.521959,
+    44.871864
+],
   "geometry": {"coordinates":[-98.521959,44.871864],"type":"Point"}
 }

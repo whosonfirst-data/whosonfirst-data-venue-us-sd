@@ -2,13 +2,14 @@
   "id": 371039063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118249,44.899671,-97.118249,44.899671",
     "geom:latitude":44.899671,
     "geom:longitude":-97.118249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 2nd St SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371039063,
-    "wof:lastmodified":1449049998,
+    "wof:lastmodified":1467082671,
     "wof:name":"Sears Portable Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-97.118249,44.899671,-97.118249,44.899671],
-  "geometry": {"coordinates":[-97.118249,44.899671],"type":"Point"}
+  "bbox": [
+    -97.118249,
+    44.899671,
+    -97.118249,
+    44.899671
+],
+  "geometry": {"coordinates":[-97.11824900000001,44.899671],"type":"Point"}
 }

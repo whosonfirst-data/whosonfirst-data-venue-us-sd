@@ -2,13 +2,14 @@
   "id": 403715921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.331303,44.360189,-100.331303,44.360189",
     "geom:latitude":44.360189,
     "geom:longitude":-100.331303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 E Wells Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403715921,
-    "wof:lastmodified":1449055690,
+    "wof:lastmodified":1467082682,
     "wof:name":"Miracle Mile Air Conditioned",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.331303,44.360189,-100.331303,44.360189],
-  "geometry": {"coordinates":[-100.331303,44.360189],"type":"Point"}
+  "bbox": [
+    -100.331303,
+    44.360189,
+    -100.331303,
+    44.360189
+],
+  "geometry": {"coordinates":[-100.33130300000001,44.360189],"type":"Point"}
 }

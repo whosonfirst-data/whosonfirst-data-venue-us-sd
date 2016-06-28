@@ -2,13 +2,14 @@
   "id": 403814875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.972179,44.518243,-98.972179,44.518243",
     "geom:latitude":44.518243,
     "geom:longitude":-98.972179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E 3rd St",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403814875,
-    "wof:lastmodified":1449054878,
+    "wof:lastmodified":1467082676,
     "wof:name":"Ranch Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.972179,44.518243,-98.972179,44.518243],
+  "bbox": [
+    -98.972179,
+    44.518243,
+    -98.972179,
+    44.518243
+],
   "geometry": {"coordinates":[-98.972179,44.518243],"type":"Point"}
 }

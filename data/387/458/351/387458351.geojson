@@ -2,13 +2,14 @@
   "id": 387458351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.788293,44.309004,-96.788293,44.309004",
     "geom:latitude":44.309004,
     "geom:longitude":-96.788293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 4th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387458351,
-    "wof:lastmodified":1449058816,
+    "wof:lastmodified":1467082741,
     "wof:name":"Carpet Installers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.788293,44.309004,-96.788293,44.309004],
+  "bbox": [
+    -96.788293,
+    44.309004,
+    -96.788293,
+    44.309004
+],
   "geometry": {"coordinates":[-96.788293,44.309004],"type":"Point"}
 }

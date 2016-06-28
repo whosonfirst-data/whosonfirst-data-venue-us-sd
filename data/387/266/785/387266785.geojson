@@ -2,13 +2,14 @@
   "id": 387266785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.781448,43.083748,-96.781448,43.083748",
     "geom:latitude":43.083748,
     "geom:longitude":-96.781448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 W Cedar St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387266785,
-    "wof:lastmodified":1449056238,
+    "wof:lastmodified":1467082689,
     "wof:name":"Bethesda Therapy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.781448,43.083748,-96.781448,43.083748],
+  "bbox": [
+    -96.781448,
+    43.083748,
+    -96.781448,
+    43.083748
+],
   "geometry": {"coordinates":[-96.781448,43.083748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387447475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.340056,45.448493,-99.340056,45.448493",
     "geom:latitude":45.448493,
     "geom:longitude":-99.340056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 S Richmond St",
     "sg:city":"Roscoe",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387447475,
-    "wof:lastmodified":1449058789,
+    "wof:lastmodified":1467082740,
     "wof:name":"Meier's Clock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "parts"
     ]
 },
-  "bbox": [-99.340056,45.448493,-99.340056,45.448493],
+  "bbox": [
+    -99.340056,
+    45.448493,
+    -99.340056,
+    45.448493
+],
   "geometry": {"coordinates":[-99.340056,45.448493],"type":"Point"}
 }

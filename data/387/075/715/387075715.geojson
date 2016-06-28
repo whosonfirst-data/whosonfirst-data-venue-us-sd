@@ -2,13 +2,14 @@
   "id": 387075715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717179,43.144719,-97.717179,43.144719",
     "geom:latitude":43.144719,
     "geom:longitude":-97.717179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Williams St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387075715,
-    "wof:lastmodified":1449058175,
+    "wof:lastmodified":1467082728,
     "wof:name":"United Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.717179,43.144719,-97.717179,43.144719],
+  "bbox": [
+    -97.717179,
+    43.144719,
+    -97.717179,
+    43.144719
+],
   "geometry": {"coordinates":[-97.717179,43.144719],"type":"Point"}
 }

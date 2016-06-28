@@ -2,13 +2,14 @@
   "id": 387606205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.921434,44.006757,-97.921434,44.006757",
     "geom:latitude":44.006757,
     "geom:longitude":-97.921434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 S Main St",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387606205,
-    "wof:lastmodified":1449056691,
+    "wof:lastmodified":1467082698,
     "wof:name":"Cor Trust Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.921434,44.006757,-97.921434,44.006757],
+  "bbox": [
+    -97.921434,
+    44.006757,
+    -97.921434,
+    44.006757
+],
   "geometry": {"coordinates":[-97.921434,44.006757],"type":"Point"}
 }

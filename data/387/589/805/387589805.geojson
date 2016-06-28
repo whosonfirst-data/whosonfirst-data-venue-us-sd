@@ -2,13 +2,14 @@
   "id": 387589805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.845691,43.386242,-99.845691,43.386242",
     "geom:latitude":43.386242,
     "geom:longitude":-99.845691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31629 277th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387589805,
-    "wof:lastmodified":1449058139,
+    "wof:lastmodified":1467082728,
     "wof:name":"Western Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-99.845691,43.386242,-99.845691,43.386242],
+  "bbox": [
+    -99.845691,
+    43.386242,
+    -99.845691,
+    43.386242
+],
   "geometry": {"coordinates":[-99.845691,43.386242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387530347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724764,43.600428,-96.724764,43.600428",
     "geom:latitude":43.600428,
     "geom:longitude":-96.724764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387530347,
-    "wof:lastmodified":1449058138,
+    "wof:lastmodified":1467082728,
     "wof:name":"Npmhu Local 328",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.724764,43.600428,-96.724764,43.600428],
-  "geometry": {"coordinates":[-96.724764,43.600428],"type":"Point"}
+  "bbox": [
+    -96.724764,
+    43.600428,
+    -96.724764,
+    43.600428
+],
+  "geometry": {"coordinates":[-96.72476399999999,43.600428],"type":"Point"}
 }

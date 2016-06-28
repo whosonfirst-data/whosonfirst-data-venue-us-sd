@@ -2,13 +2,14 @@
   "id": 371194427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.111177,44.899696,-97.111177,44.899696",
     "geom:latitude":44.899696,
     "geom:longitude":-97.111177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 2nd St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371194427,
-    "wof:lastmodified":1449049979,
+    "wof:lastmodified":1467082671,
     "wof:name":"National Assn-Tower Erectors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-97.111177,44.899696,-97.111177,44.899696],
+  "bbox": [
+    -97.111177,
+    44.899696,
+    -97.111177,
+    44.899696
+],
   "geometry": {"coordinates":[-97.111177,44.899696],"type":"Point"}
 }

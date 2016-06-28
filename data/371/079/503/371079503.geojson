@@ -2,13 +2,14 @@
   "id": 371079503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.547857,44.384705,-97.547857,44.384705",
     "geom:latitude":44.384705,
     "geom:longitude":-97.547857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Joliet Ave SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371079503,
-    "wof:lastmodified":1449049946,
+    "wof:lastmodified":1467082671,
     "wof:name":"William Koester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.547857,44.384705,-97.547857,44.384705],
-  "geometry": {"coordinates":[-97.547857,44.384705],"type":"Point"}
+  "bbox": [
+    -97.547857,
+    44.384705,
+    -97.547857,
+    44.384705
+],
+  "geometry": {"coordinates":[-97.54785699999999,44.384705],"type":"Point"}
 }

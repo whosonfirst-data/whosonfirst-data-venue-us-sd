@@ -2,13 +2,14 @@
   "id": 387702521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.173363,43.09635,-98.173363,43.09635",
     "geom:latitude":43.09635,
     "geom:longitude":-98.173363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40041 296th St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387702521,
-    "wof:lastmodified":1449058010,
+    "wof:lastmodified":1467082725,
     "wof:name":"Uherka Dniel Jseph Janne Marie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.173363,43.09635,-98.173363,43.09635],
-  "geometry": {"coordinates":[-98.173363,43.09635],"type":"Point"}
+  "bbox": [
+    -98.173363,
+    43.09635,
+    -98.173363,
+    43.09635
+],
+  "geometry": {"coordinates":[-98.17336299999999,43.09635],"type":"Point"}
 }

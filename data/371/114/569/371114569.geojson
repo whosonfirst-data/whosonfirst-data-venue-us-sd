@@ -2,13 +2,14 @@
   "id": 371114569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698627,43.579885,-96.698627,43.579885",
     "geom:latitude":43.579885,
     "geom:longitude":-96.698627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 N Saint Paul Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371114569,
-    "wof:lastmodified":1449049466,
+    "wof:lastmodified":1467082664,
     "wof:name":"Dakota Fluid Power Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "equipment"
     ]
 },
-  "bbox": [-96.698627,43.579885,-96.698627,43.579885],
+  "bbox": [
+    -96.698627,
+    43.579885,
+    -96.698627,
+    43.579885
+],
   "geometry": {"coordinates":[-96.698627,43.579885],"type":"Point"}
 }

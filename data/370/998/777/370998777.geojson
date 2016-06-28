@@ -2,13 +2,14 @@
   "id": 370998777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709088,43.492004,-96.709088,43.492004",
     "geom:latitude":43.492004,
     "geom:longitude":-96.709088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 E Libby Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370998777,
-    "wof:lastmodified":1449030215,
+    "wof:lastmodified":1467082656,
     "wof:name":"Jk Marketing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.709088,43.492004,-96.709088,43.492004],
-  "geometry": {"coordinates":[-96.709088,43.492004],"type":"Point"}
+  "bbox": [
+    -96.709088,
+    43.492004,
+    -96.709088,
+    43.492004
+],
+  "geometry": {"coordinates":[-96.70908799999999,43.492004],"type":"Point"}
 }

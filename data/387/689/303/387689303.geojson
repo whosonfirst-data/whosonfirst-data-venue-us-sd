@@ -2,13 +2,14 @@
   "id": 387689303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726868,43.545089,-96.726868,43.545089",
     "geom:latitude":43.545089,
     "geom:longitude":-96.726868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387689303,
-    "wof:lastmodified":1449059280,
+    "wof:lastmodified":1467082750,
     "wof:name":"Clean Water Action",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "treatment"
     ]
 },
-  "bbox": [-96.726868,43.545089,-96.726868,43.545089],
+  "bbox": [
+    -96.726868,
+    43.545089,
+    -96.726868,
+    43.545089
+],
   "geometry": {"coordinates":[-96.726868,43.545089],"type":"Point"}
 }

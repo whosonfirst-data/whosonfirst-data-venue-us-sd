@@ -2,13 +2,14 @@
   "id": 387944633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.120588,45.445733,-100.120588,45.445733",
     "geom:latitude":45.445733,
     "geom:longitude":-100.120588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13424 303rd Ave",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387944633,
-    "wof:lastmodified":1449058012,
+    "wof:lastmodified":1467082725,
     "wof:name":"Keith Henderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-100.120588,45.445733,-100.120588,45.445733],
+  "bbox": [
+    -100.120588,
+    45.445733,
+    -100.120588,
+    45.445733
+],
   "geometry": {"coordinates":[-100.120588,45.445733],"type":"Point"}
 }

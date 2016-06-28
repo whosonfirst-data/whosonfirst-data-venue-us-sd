@@ -2,13 +2,14 @@
   "id": 387402769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.297368,43.601362,-97.297368,43.601362",
     "geom:latitude":43.601362,
     "geom:longitude":-97.297368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 W Willow St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387402769,
-    "wof:lastmodified":1449057316,
+    "wof:lastmodified":1467082711,
     "wof:name":"B & J Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.297368,43.601362,-97.297368,43.601362],
-  "geometry": {"coordinates":[-97.297368,43.601362],"type":"Point"}
+  "bbox": [
+    -97.297368,
+    43.601362,
+    -97.297368,
+    43.601362
+],
+  "geometry": {"coordinates":[-97.29736800000001,43.601362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371181587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.791255,43.462664,-96.791255,43.462664",
     "geom:latitude":43.462664,
     "geom:longitude":-96.791255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47083 98th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371181587,
-    "wof:lastmodified":1449049669,
+    "wof:lastmodified":1467082667,
     "wof:name":"Premier Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.791255,43.462664,-96.791255,43.462664],
-  "geometry": {"coordinates":[-96.791255,43.462664],"type":"Point"}
+  "bbox": [
+    -96.791255,
+    43.462664,
+    -96.791255,
+    43.462664
+],
+  "geometry": {"coordinates":[-96.79125500000001,43.462664],"type":"Point"}
 }

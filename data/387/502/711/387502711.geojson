@@ -2,13 +2,14 @@
   "id": 387502711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.571847,43.796443,-96.571847,43.796443",
     "geom:latitude":43.796443,
     "geom:longitude":-96.571847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24756 482nd Ave",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387502711,
-    "wof:lastmodified":1449057845,
+    "wof:lastmodified":1467082722,
     "wof:name":"Kevin Crisp",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "soybean"
     ]
 },
-  "bbox": [-96.571847,43.796443,-96.571847,43.796443],
-  "geometry": {"coordinates":[-96.571847,43.796443],"type":"Point"}
+  "bbox": [
+    -96.571847,
+    43.796443,
+    -96.571847,
+    43.796443
+],
+  "geometry": {"coordinates":[-96.57184700000001,43.796443],"type":"Point"}
 }

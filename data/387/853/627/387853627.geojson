@@ -2,13 +2,14 @@
   "id": 387853627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.571295,43.697563,-96.571295,43.697563",
     "geom:latitude":43.697563,
     "geom:longitude":-96.571295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25435 482nd Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387853627,
-    "wof:lastmodified":1449057645,
+    "wof:lastmodified":1467082718,
     "wof:name":"J & H Farm",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.571295,43.697563,-96.571295,43.697563],
-  "geometry": {"coordinates":[-96.571295,43.697563],"type":"Point"}
+  "bbox": [
+    -96.571295,
+    43.697563,
+    -96.571295,
+    43.697563
+],
+  "geometry": {"coordinates":[-96.57129500000001,43.697563],"type":"Point"}
 }

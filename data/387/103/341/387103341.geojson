@@ -2,13 +2,14 @@
   "id": 387103341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.827761,43.299981,-103.827761,43.299981",
     "geom:latitude":43.299981,
     "geom:longitude":-103.827761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 E St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387103341,
-    "wof:lastmodified":1449058487,
+    "wof:lastmodified":1467082734,
     "wof:name":"Kelly's Sports Lounge II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.827761,43.299981,-103.827761,43.299981],
+  "bbox": [
+    -103.827761,
+    43.299981,
+    -103.827761,
+    43.299981
+],
   "geometry": {"coordinates":[-103.827761,43.299981],"type":"Point"}
 }

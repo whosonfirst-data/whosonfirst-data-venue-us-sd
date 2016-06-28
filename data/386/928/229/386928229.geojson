@@ -2,13 +2,14 @@
   "id": 386928229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.531065,44.765497,-99.531065,44.765497",
     "geom:latitude":44.765497,
     "geom:longitude":-99.531065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33150 181st St",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386928229,
-    "wof:lastmodified":1449028910,
+    "wof:lastmodified":1467082654,
     "wof:name":"Elmer Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.531065,44.765497,-99.531065,44.765497],
+  "bbox": [
+    -99.531065,
+    44.765497,
+    -99.531065,
+    44.765497
+],
   "geometry": {"coordinates":[-99.531065,44.765497],"type":"Point"}
 }

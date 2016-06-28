@@ -2,13 +2,14 @@
   "id": 371079059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.784436,43.545601,-96.784436,43.545601",
     "geom:latitude":43.545601,
     "geom:longitude":-96.784436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 S Petro Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371079059,
-    "wof:lastmodified":1449049942,
+    "wof:lastmodified":1467082671,
     "wof:name":"Dakota News Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-96.784436,43.545601,-96.784436,43.545601],
+  "bbox": [
+    -96.784436,
+    43.545601,
+    -96.784436,
+    43.545601
+],
   "geometry": {"coordinates":[-96.784436,43.545601],"type":"Point"}
 }

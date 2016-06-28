@@ -2,13 +2,14 @@
   "id": 387213281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.728449,42.980858,-97.728449,42.980858",
     "geom:latitude":42.980858,
     "geom:longitude":-97.728449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42351 304th St",
     "sg:city":"Tabor",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387213281,
-    "wof:lastmodified":1449056166,
+    "wof:lastmodified":1467082688,
     "wof:name":"Dennis Jerke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.728449,42.980858,-97.728449,42.980858],
+  "bbox": [
+    -97.728449,
+    42.980858,
+    -97.728449,
+    42.980858
+],
   "geometry": {"coordinates":[-97.728449,42.980858],"type":"Point"}
 }

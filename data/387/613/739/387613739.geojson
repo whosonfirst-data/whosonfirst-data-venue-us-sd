@@ -2,13 +2,14 @@
   "id": 387613739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329734,43.811615,-99.329734,43.811615",
     "geom:latitude":43.811615,
     "geom:longitude":-99.329734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Beebe Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387613739,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1467082722,
     "wof:name":"Dakota Claims Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-99.329734,43.811615,-99.329734,43.811615],
+  "bbox": [
+    -99.329734,
+    43.811615,
+    -99.329734,
+    43.811615
+],
   "geometry": {"coordinates":[-99.329734,43.811615],"type":"Point"}
 }

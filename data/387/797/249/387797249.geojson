@@ -2,13 +2,14 @@
   "id": 387797249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790883,43.520227,-96.790883,43.520227",
     "geom:latitude":43.520227,
     "geom:longitude":-96.790883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 W Pritchard Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387797249,
-    "wof:lastmodified":1449059538,
+    "wof:lastmodified":1467082755,
     "wof:name":"Bitelers Kelly Day Care",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-96.790883,43.520227,-96.790883,43.520227],
-  "geometry": {"coordinates":[-96.790883,43.520227],"type":"Point"}
+  "bbox": [
+    -96.790883,
+    43.520227,
+    -96.790883,
+    43.520227
+],
+  "geometry": {"coordinates":[-96.79088299999999,43.520227],"type":"Point"}
 }

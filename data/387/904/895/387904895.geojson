@@ -2,13 +2,14 @@
   "id": 387904895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.004627,45.085294,-97.004627,45.085294",
     "geom:latitude":45.085294,
     "geom:longitude":-97.004627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15851 460th Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387904895,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1467082765,
     "wof:name":"Randall D Schmeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.004627,45.085294,-97.004627,45.085294],
+  "bbox": [
+    -97.004627,
+    45.085294,
+    -97.004627,
+    45.085294
+],
   "geometry": {"coordinates":[-97.004627,45.085294],"type":"Point"}
 }

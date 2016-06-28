@@ -2,13 +2,14 @@
   "id": 370971433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.558306,43.240485,-97.558306,43.240485",
     "geom:latitude":43.240485,
     "geom:longitude":-97.558306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28603 432nd Ave",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370971433,
-    "wof:lastmodified":1449030792,
+    "wof:lastmodified":1467082656,
     "wof:name":"Kaneb Pipeline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-97.558306,43.240485,-97.558306,43.240485],
+  "bbox": [
+    -97.558306,
+    43.240485,
+    -97.558306,
+    43.240485
+],
   "geometry": {"coordinates":[-97.558306,43.240485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387217411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.744149,43.496952,-96.744149,43.496952",
     "geom:latitude":43.496952,
     "geom:longitude":-96.744149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4918 S Sunflower Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387217411,
-    "wof:lastmodified":1449059690,
+    "wof:lastmodified":1467082758,
     "wof:name":"American Business Forms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-96.744149,43.496952,-96.744149,43.496952],
-  "geometry": {"coordinates":[-96.744149,43.496952],"type":"Point"}
+  "bbox": [
+    -96.744149,
+    43.496952,
+    -96.744149,
+    43.496952
+],
+  "geometry": {"coordinates":[-96.74414899999999,43.496952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387310991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.784392,43.078818,-96.784392,43.078818",
     "geom:latitude":43.078818,
     "geom:longitude":-96.784392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S 11th St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387310991,
-    "wof:lastmodified":1449058444,
+    "wof:lastmodified":1467082734,
     "wof:name":"Brooklyn Evan Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.784392,43.078818,-96.784392,43.078818],
+  "bbox": [
+    -96.784392,
+    43.078818,
+    -96.784392,
+    43.078818
+],
   "geometry": {"coordinates":[-96.784392,43.078818],"type":"Point"}
 }

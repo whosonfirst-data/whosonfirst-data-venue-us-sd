@@ -2,13 +2,14 @@
   "id": 387824687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487847,45.462052,-98.487847,45.462052",
     "geom:latitude":45.462052,
     "geom:longitude":-98.487847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 3rd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387824687,
-    "wof:lastmodified":1449057452,
+    "wof:lastmodified":1467082714,
     "wof:name":"Custom Woodworking",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-98.487847,45.462052,-98.487847,45.462052],
+  "bbox": [
+    -98.487847,
+    45.462052,
+    -98.487847,
+    45.462052
+],
   "geometry": {"coordinates":[-98.487847,45.462052],"type":"Point"}
 }

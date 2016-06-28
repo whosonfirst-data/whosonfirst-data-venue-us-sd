@@ -2,13 +2,14 @@
   "id": 387732309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.287599,45.412683,-102.287599,45.412683",
     "geom:latitude":45.412683,
     "geom:longitude":-102.287599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18736 Chance Rd",
     "sg:city":"Meadow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387732309,
-    "wof:lastmodified":1449060032,
+    "wof:lastmodified":1467082765,
     "wof:name":"Veal Black Angus Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.287599,45.412683,-102.287599,45.412683],
+  "bbox": [
+    -102.287599,
+    45.412683,
+    -102.287599,
+    45.412683
+],
   "geometry": {"coordinates":[-102.287599,45.412683],"type":"Point"}
 }

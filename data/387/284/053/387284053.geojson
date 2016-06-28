@@ -2,13 +2,14 @@
   "id": 387284053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509309,44.390067,-103.509309,44.390067",
     "geom:latitude":44.390067,
     "geom:longitude":-103.509309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Vanocker Rd",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387284053,
-    "wof:lastmodified":1449058468,
+    "wof:lastmodified":1467082734,
     "wof:name":"Patmore Lock Shop & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.509309,44.390067,-103.509309,44.390067],
+  "bbox": [
+    -103.509309,
+    44.390067,
+    -103.509309,
+    44.390067
+],
   "geometry": {"coordinates":[-103.509309,44.390067],"type":"Point"}
 }

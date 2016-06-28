@@ -2,13 +2,14 @@
   "id": 387796445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.191525,44.024025,-103.191525,44.024025",
     "geom:latitude":44.024025,
     "geom:longitude":-103.191525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 S Hwy 79",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387796445,
-    "wof:lastmodified":1449057896,
+    "wof:lastmodified":1467082723,
     "wof:name":"Creative Car Components",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-103.191525,44.024025,-103.191525,44.024025],
+  "bbox": [
+    -103.191525,
+    44.024025,
+    -103.191525,
+    44.024025
+],
   "geometry": {"coordinates":[-103.191525,44.024025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387200575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.07395,43.645517,-97.07395,43.645517",
     "geom:latitude":43.645517,
     "geom:longitude":-97.07395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 N Main St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387200575,
-    "wof:lastmodified":1449057628,
+    "wof:lastmodified":1467082717,
     "wof:name":"Midwest Sales Inc",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.07395,43.645517,-97.07395,43.645517],
+  "bbox": [
+    -97.07395,
+    43.645517,
+    -97.07395,
+    43.645517
+],
   "geometry": {"coordinates":[-97.07395,43.645517],"type":"Point"}
 }

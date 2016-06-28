@@ -2,13 +2,14 @@
   "id": 371041781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.300284,44.0859,-103.300284,44.0859",
     "geom:latitude":44.0859,
     "geom:longitude":-103.300284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4802 W Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371041781,
-    "wof:lastmodified":1449049388,
+    "wof:lastmodified":1467082663,
     "wof:name":"Pinedale Preschool",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-103.300284,44.0859,-103.300284,44.0859],
+  "bbox": [
+    -103.300284,
+    44.0859,
+    -103.300284,
+    44.0859
+],
   "geometry": {"coordinates":[-103.300284,44.0859],"type":"Point"}
 }

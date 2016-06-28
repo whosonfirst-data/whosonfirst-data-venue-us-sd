@@ -2,13 +2,14 @@
   "id": 370996369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.198328,44.089577,-103.198328,44.089577",
     "geom:latitude":44.089577,
     "geom:longitude":-103.198328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Spruce St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370996369,
-    "wof:lastmodified":1449030011,
+    "wof:lastmodified":1467082656,
     "wof:name":"Hills Materials Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-103.198328,44.089577,-103.198328,44.089577],
+  "bbox": [
+    -103.198328,
+    44.089577,
+    -103.198328,
+    44.089577
+],
   "geometry": {"coordinates":[-103.198328,44.089577],"type":"Point"}
 }

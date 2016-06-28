@@ -2,13 +2,14 @@
   "id": 387646153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.882076,45.912848,-99.882076,45.912848",
     "geom:latitude":45.912848,
     "geom:longitude":-99.882076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10117 315th Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387646153,
-    "wof:lastmodified":1449056024,
+    "wof:lastmodified":1467082685,
     "wof:name":"Sayler Harvesting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "harvesting"
     ]
 },
-  "bbox": [-99.882076,45.912848,-99.882076,45.912848],
+  "bbox": [
+    -99.882076,
+    45.912848,
+    -99.882076,
+    45.912848
+],
   "geometry": {"coordinates":[-99.882076,45.912848],"type":"Point"}
 }

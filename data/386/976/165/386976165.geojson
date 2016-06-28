@@ -2,13 +2,14 @@
   "id": 386976165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.557322,45.474404,-98.557322,45.474404",
     "geom:latitude":45.474404,
     "geom:longitude":-98.557322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38382 132nd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386976165,
-    "wof:lastmodified":1449028755,
+    "wof:lastmodified":1467082651,
     "wof:name":"J D Evans Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-98.557322,45.474404,-98.557322,45.474404],
+  "bbox": [
+    -98.557322,
+    45.474404,
+    -98.557322,
+    45.474404
+],
   "geometry": {"coordinates":[-98.557322,45.474404],"type":"Point"}
 }

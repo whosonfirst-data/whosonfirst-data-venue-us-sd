@@ -2,13 +2,14 @@
   "id": 387128201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.700178,43.501289,-96.700178,43.501289",
     "geom:latitude":43.501289,
     "geom:longitude":-96.700178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 S Briarwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387128201,
-    "wof:lastmodified":1449057598,
+    "wof:lastmodified":1467082717,
     "wof:name":"Johnsons Stride Rite",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.700178,43.501289,-96.700178,43.501289],
-  "geometry": {"coordinates":[-96.700178,43.501289],"type":"Point"}
+  "bbox": [
+    -96.700178,
+    43.501289,
+    -96.700178,
+    43.501289
+],
+  "geometry": {"coordinates":[-96.70017799999999,43.501289],"type":"Point"}
 }

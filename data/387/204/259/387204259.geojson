@@ -2,13 +2,14 @@
   "id": 387204259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.463053,45.291569,-96.463053,45.291569",
     "geom:latitude":45.291569,
     "geom:longitude":-96.463053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Main St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387204259,
-    "wof:lastmodified":1449060026,
+    "wof:lastmodified":1467082765,
     "wof:name":"Results Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.463053,45.291569,-96.463053,45.291569],
+  "bbox": [
+    -96.463053,
+    45.291569,
+    -96.463053,
+    45.291569
+],
   "geometry": {"coordinates":[-96.463053,45.291569],"type":"Point"}
 }

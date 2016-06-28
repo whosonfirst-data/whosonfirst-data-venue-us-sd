@@ -2,13 +2,14 @@
   "id": 387396273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.752472,43.545198,-96.752472,43.545198",
     "geom:latitude":43.545198,
     "geom:longitude":-96.752472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 S Jefferson Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387396273,
-    "wof:lastmodified":1449058608,
+    "wof:lastmodified":1467082737,
     "wof:name":"Rons STA-Sharp",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.752472,43.545198,-96.752472,43.545198],
+  "bbox": [
+    -96.752472,
+    43.545198,
+    -96.752472,
+    43.545198
+],
   "geometry": {"coordinates":[-96.752472,43.545198],"type":"Point"}
 }

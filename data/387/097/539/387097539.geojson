@@ -2,13 +2,14 @@
   "id": 387097539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74204,43.572752,-96.74204,43.572752",
     "geom:latitude":43.572752,
     "geom:longitude":-96.74204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 W Algonquin St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387097539,
-    "wof:lastmodified":1449057615,
+    "wof:lastmodified":1467082717,
     "wof:name":"BSI Door Hdwr Amesbury Group",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.74204,43.572752,-96.74204,43.572752],
+  "bbox": [
+    -96.74204,
+    43.572752,
+    -96.74204,
+    43.572752
+],
   "geometry": {"coordinates":[-96.74204,43.572752],"type":"Point"}
 }

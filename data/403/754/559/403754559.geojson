@@ -2,13 +2,14 @@
   "id": 403754559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.749968,45.346604,-97.749968,45.346604",
     "geom:latitude":45.346604,
     "geom:longitude":-97.749968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Main St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403754559,
-    "wof:lastmodified":1449055489,
+    "wof:lastmodified":1467082681,
     "wof:name":"Heart Of America DHIA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.749968,45.346604,-97.749968,45.346604],
+  "bbox": [
+    -97.749968,
+    45.346604,
+    -97.749968,
+    45.346604
+],
   "geometry": {"coordinates":[-97.749968,45.346604],"type":"Point"}
 }

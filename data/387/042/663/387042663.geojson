@@ -2,13 +2,14 @@
   "id": 387042663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733142,44.883451,-97.733142,44.883451",
     "geom:latitude":44.883451,
     "geom:longitude":-97.733142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 6th Ave NE",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387042663,
-    "wof:lastmodified":1449058995,
+    "wof:lastmodified":1467082745,
     "wof:name":"Milo Kolden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.733142,44.883451,-97.733142,44.883451],
+  "bbox": [
+    -97.733142,
+    44.883451,
+    -97.733142,
+    44.883451
+],
   "geometry": {"coordinates":[-97.733142,44.883451],"type":"Point"}
 }

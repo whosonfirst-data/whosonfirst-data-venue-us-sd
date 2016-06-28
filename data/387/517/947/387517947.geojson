@@ -2,13 +2,14 @@
   "id": 387517947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.708199,45.39672,-99.708199,45.39672",
     "geom:latitude":45.39672,
     "geom:longitude":-99.708199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13754 323rd Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387517947,
-    "wof:lastmodified":1449058280,
+    "wof:lastmodified":1467082730,
     "wof:name":"Hoffman Jerrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.708199,45.39672,-99.708199,45.39672],
-  "geometry": {"coordinates":[-99.708199,45.39672],"type":"Point"}
+  "bbox": [
+    -99.708199,
+    45.39672,
+    -99.708199,
+    45.39672
+],
+  "geometry": {"coordinates":[-99.70819899999999,45.39672],"type":"Point"}
 }

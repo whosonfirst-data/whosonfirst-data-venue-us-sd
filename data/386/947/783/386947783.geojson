@@ -2,13 +2,14 @@
   "id": 386947783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.202965,44.048973,-103.202965,44.048973",
     "geom:latitude":44.048973,
     "geom:longitude":-103.202965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3731 Locust St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386947783,
-    "wof:lastmodified":1449028862,
+    "wof:lastmodified":1467082653,
     "wof:name":"Millers Envrnmental Operations",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-103.202965,44.048973,-103.202965,44.048973],
-  "geometry": {"coordinates":[-103.202965,44.048973],"type":"Point"}
+  "bbox": [
+    -103.202965,
+    44.048973,
+    -103.202965,
+    44.048973
+],
+  "geometry": {"coordinates":[-103.20296500000001,44.048973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387905725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.104609,43.006458,-97.104609,43.006458",
     "geom:latitude":43.006458,
     "geom:longitude":-97.104609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Ohio St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387905725,
-    "wof:lastmodified":1449057591,
+    "wof:lastmodified":1467082716,
     "wof:name":"Tjs Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.104609,43.006458,-97.104609,43.006458],
+  "bbox": [
+    -97.104609,
+    43.006458,
+    -97.104609,
+    43.006458
+],
   "geometry": {"coordinates":[-97.104609,43.006458],"type":"Point"}
 }

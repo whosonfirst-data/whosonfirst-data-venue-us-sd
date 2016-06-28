@@ -2,13 +2,14 @@
   "id": 387566899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798551,44.302998,-96.798551,44.302998",
     "geom:latitude":44.302998,
     "geom:longitude":-96.798551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387566899,
-    "wof:lastmodified":1449056202,
+    "wof:lastmodified":1467082688,
     "wof:name":"Witte Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.798551,44.302998,-96.798551,44.302998],
+  "bbox": [
+    -96.798551,
+    44.302998,
+    -96.798551,
+    44.302998
+],
   "geometry": {"coordinates":[-96.798551,44.302998],"type":"Point"}
 }

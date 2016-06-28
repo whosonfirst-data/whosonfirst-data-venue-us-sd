@@ -2,13 +2,14 @@
   "id": 387617827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.58282,43.240994,-97.58282,43.240994",
     "geom:latitude":43.240994,
     "geom:longitude":-97.58282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 US Hwy 18",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387617827,
-    "wof:lastmodified":1449056247,
+    "wof:lastmodified":1467082689,
     "wof:name":"Prairie Pumper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.58282,43.240994,-97.58282,43.240994],
+  "bbox": [
+    -97.58282,
+    43.240994,
+    -97.58282,
+    43.240994
+],
   "geometry": {"coordinates":[-97.58282,43.240994],"type":"Point"}
 }

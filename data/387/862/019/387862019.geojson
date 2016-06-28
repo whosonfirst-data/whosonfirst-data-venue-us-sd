@@ -2,13 +2,14 @@
   "id": 387862019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.395545,44.065056,-103.395545,44.065056",
     "geom:latitude":44.065056,
     "geom:longitude":-103.395545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10015 Pioneer Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387862019,
-    "wof:lastmodified":1449060008,
+    "wof:lastmodified":1467082765,
     "wof:name":"Centennial Mobile Estates",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.395545,44.065056,-103.395545,44.065056],
+  "bbox": [
+    -103.395545,
+    44.065056,
+    -103.395545,
+    44.065056
+],
   "geometry": {"coordinates":[-103.395545,44.065056],"type":"Point"}
 }

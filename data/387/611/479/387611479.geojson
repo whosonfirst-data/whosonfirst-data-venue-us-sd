@@ -2,13 +2,14 @@
   "id": 387611479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.026937,43.716991,-98.026937,43.716991",
     "geom:latitude":43.716991,
     "geom:longitude":-98.026937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 N Rowley St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387611479,
-    "wof:lastmodified":1449059107,
+    "wof:lastmodified":1467082747,
     "wof:name":"Econofoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-98.026937,43.716991,-98.026937,43.716991],
+  "bbox": [
+    -98.026937,
+    43.716991,
+    -98.026937,
+    43.716991
+],
   "geometry": {"coordinates":[-98.026937,43.716991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371106841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.688409,42.805722,-96.688409,42.805722",
     "geom:latitude":42.805722,
     "geom:longitude":-96.688409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47544 316th St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":371106841,
-    "wof:lastmodified":1449049050,
+    "wof:lastmodified":1467082658,
     "wof:name":"Central Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.688409,42.805722,-96.688409,42.805722],
-  "geometry": {"coordinates":[-96.688409,42.805722],"type":"Point"}
+  "bbox": [
+    -96.688409,
+    42.805722,
+    -96.688409,
+    42.805722
+],
+  "geometry": {"coordinates":[-96.68840899999999,42.805722],"type":"Point"}
 }

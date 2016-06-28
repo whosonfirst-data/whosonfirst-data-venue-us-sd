@@ -2,13 +2,14 @@
   "id": 371124255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.043763,44.587312,-97.043763,44.587312",
     "geom:latitude":44.587312,
     "geom:longitude":-97.043763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 E Lake Dr",
     "sg:city":"Estelline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371124255,
-    "wof:lastmodified":1449050070,
+    "wof:lastmodified":1467082672,
     "wof:name":"Embroidery Expressions Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-97.043763,44.587312,-97.043763,44.587312],
+  "bbox": [
+    -97.043763,
+    44.587312,
+    -97.043763,
+    44.587312
+],
   "geometry": {"coordinates":[-97.043763,44.587312],"type":"Point"}
 }

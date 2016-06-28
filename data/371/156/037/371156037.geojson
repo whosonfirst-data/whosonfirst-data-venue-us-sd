@@ -2,13 +2,14 @@
   "id": 371156037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.562305,44.081806,-98.562305,44.081806",
     "geom:latitude":44.081806,
     "geom:longitude":-98.562305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Dunham Ave N",
     "sg:city":"Wessington Spgs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371156037,
-    "wof:lastmodified":1449049248,
+    "wof:lastmodified":1467082661,
     "wof:name":"Total Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.562305,44.081806,-98.562305,44.081806],
-  "geometry": {"coordinates":[-98.562305,44.081806],"type":"Point"}
+  "bbox": [
+    -98.562305,
+    44.081806,
+    -98.562305,
+    44.081806
+],
+  "geometry": {"coordinates":[-98.56230499999999,44.081806],"type":"Point"}
 }

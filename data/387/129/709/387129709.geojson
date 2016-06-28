@@ -2,13 +2,14 @@
   "id": 387129709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.495344,45.457055,-98.495344,45.457055",
     "geom:latitude":45.457055,
     "geom:longitude":-98.495344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 S 5th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387129709,
-    "wof:lastmodified":1449059182,
+    "wof:lastmodified":1467082748,
     "wof:name":"Runnings Fleet & Farm",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-98.495344,45.457055,-98.495344,45.457055],
+  "bbox": [
+    -98.495344,
+    45.457055,
+    -98.495344,
+    45.457055
+],
   "geometry": {"coordinates":[-98.495344,45.457055],"type":"Point"}
 }

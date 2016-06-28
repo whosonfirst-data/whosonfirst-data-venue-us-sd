@@ -2,13 +2,14 @@
   "id": 387467969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.77401,43.080415,-96.77401,43.080415",
     "geom:latitude":43.080415,
     "geom:longitude":-96.77401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S 3rd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387467969,
-    "wof:lastmodified":1449059096,
+    "wof:lastmodified":1467082747,
     "wof:name":"Betterview Autoglass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-96.77401,43.080415,-96.77401,43.080415],
+  "bbox": [
+    -96.77401,
+    43.080415,
+    -96.77401,
+    43.080415
+],
   "geometry": {"coordinates":[-96.77401,43.080415],"type":"Point"}
 }

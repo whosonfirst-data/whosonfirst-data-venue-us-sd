@@ -2,13 +2,14 @@
   "id": 387956229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.714384,43.548546,-96.714384,43.548546",
     "geom:latitude":43.548546,
     "geom:longitude":-96.714384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387956229,
-    "wof:lastmodified":1449056751,
+    "wof:lastmodified":1467082699,
     "wof:name":"Argus Barber Shop",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-96.714384,43.548546,-96.714384,43.548546],
+  "bbox": [
+    -96.714384,
+    43.548546,
+    -96.714384,
+    43.548546
+],
   "geometry": {"coordinates":[-96.714384,43.548546],"type":"Point"}
 }

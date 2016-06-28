@@ -2,13 +2,14 @@
   "id": 403835599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.809562,43.514888,-96.809562,43.514888",
     "geom:latitude":43.514888,
     "geom:longitude":-96.809562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403835599,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1467082676,
     "wof:name":"Roosevelt High School",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-96.809562,43.514888,-96.809562,43.514888],
+  "bbox": [
+    -96.809562,
+    43.514888,
+    -96.809562,
+    43.514888
+],
   "geometry": {"coordinates":[-96.809562,43.514888],"type":"Point"}
 }

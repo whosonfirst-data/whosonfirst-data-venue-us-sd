@@ -2,13 +2,14 @@
   "id": 387768197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.206153,44.052644,-103.206153,44.052644",
     "geom:latitude":44.052644,
     "geom:longitude":-103.206153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 E Elk St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387768197,
-    "wof:lastmodified":1449057571,
+    "wof:lastmodified":1467082716,
     "wof:name":"Destiny Foursquare Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.206153,44.052644,-103.206153,44.052644],
+  "bbox": [
+    -103.206153,
+    44.052644,
+    -103.206153,
+    44.052644
+],
   "geometry": {"coordinates":[-103.206153,44.052644],"type":"Point"}
 }

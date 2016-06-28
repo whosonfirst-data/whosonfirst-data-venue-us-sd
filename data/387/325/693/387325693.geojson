@@ -2,13 +2,14 @@
   "id": 387325693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.228749,43.383302,-98.228749,43.383302",
     "geom:latitude":43.383302,
     "geom:longitude":-98.228749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27603 398th Ave",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387325693,
-    "wof:lastmodified":1449057599,
+    "wof:lastmodified":1467082717,
     "wof:name":"To The Ends of Earth Ministri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.228749,43.383302,-98.228749,43.383302],
-  "geometry": {"coordinates":[-98.228749,43.383302],"type":"Point"}
+  "bbox": [
+    -98.228749,
+    43.383302,
+    -98.228749,
+    43.383302
+],
+  "geometry": {"coordinates":[-98.22874899999999,43.383302],"type":"Point"}
 }

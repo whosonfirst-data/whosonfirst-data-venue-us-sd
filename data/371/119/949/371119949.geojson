@@ -2,13 +2,14 @@
   "id": 371119949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.162663,44.071047,-103.162663,44.071047",
     "geom:latitude":44.071047,
     "geom:longitude":-103.162663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Copperfield Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371119949,
-    "wof:lastmodified":1449049799,
+    "wof:lastmodified":1467082669,
     "wof:name":"CP Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.162663,44.071047,-103.162663,44.071047],
-  "geometry": {"coordinates":[-103.162663,44.071047],"type":"Point"}
+  "bbox": [
+    -103.162663,
+    44.071047,
+    -103.162663,
+    44.071047
+],
+  "geometry": {"coordinates":[-103.16266299999999,44.071047],"type":"Point"}
 }

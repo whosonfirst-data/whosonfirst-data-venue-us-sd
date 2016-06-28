@@ -2,13 +2,14 @@
   "id": 387668181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724015,43.543385,-96.724015,43.543385",
     "geom:latitude":43.543385,
     "geom:longitude":-96.724015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387668181,
-    "wof:lastmodified":1449058764,
+    "wof:lastmodified":1467082740,
     "wof:name":"Architectural Guild LLC",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-96.724015,43.543385,-96.724015,43.543385],
-  "geometry": {"coordinates":[-96.724015,43.543385],"type":"Point"}
+  "bbox": [
+    -96.724015,
+    43.543385,
+    -96.724015,
+    43.543385
+],
+  "geometry": {"coordinates":[-96.72401499999999,43.543385],"type":"Point"}
 }

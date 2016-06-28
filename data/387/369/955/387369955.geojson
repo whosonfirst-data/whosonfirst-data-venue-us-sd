@@ -2,13 +2,14 @@
   "id": 387369955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.579162,43.384259,-98.579162,43.384259",
     "geom:latitude":43.384259,
     "geom:longitude":-98.579162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38028 State Hwy 44",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387369955,
-    "wof:lastmodified":1449059724,
+    "wof:lastmodified":1467082759,
     "wof:name":"Wayne Bultje",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.579162,43.384259,-98.579162,43.384259],
+  "bbox": [
+    -98.579162,
+    43.384259,
+    -98.579162,
+    43.384259
+],
   "geometry": {"coordinates":[-98.579162,43.384259],"type":"Point"}
 }

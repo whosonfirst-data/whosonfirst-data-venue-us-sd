@@ -2,13 +2,14 @@
   "id": 403822689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.566544,43.595737,-96.566544,43.595737",
     "geom:latitude":43.595737,
     "geom:longitude":-96.566544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Sylvan Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403822689,
-    "wof:lastmodified":1449055912,
+    "wof:lastmodified":1467082684,
     "wof:name":"Telec Consulting Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.566544,43.595737,-96.566544,43.595737],
-  "geometry": {"coordinates":[-96.566544,43.595737],"type":"Point"}
+  "bbox": [
+    -96.566544,
+    43.595737,
+    -96.566544,
+    43.595737
+],
+  "geometry": {"coordinates":[-96.56654399999999,43.595737],"type":"Point"}
 }

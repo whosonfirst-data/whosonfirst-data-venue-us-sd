@@ -2,13 +2,14 @@
   "id": 387328695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234457,44.100101,-103.234457,44.100101",
     "geom:latitude":44.100101,
     "geom:longitude":-103.234457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 Morningside Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387328695,
-    "wof:lastmodified":1449058345,
+    "wof:lastmodified":1467082732,
     "wof:name":"Volks Contracting",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.234457,44.100101,-103.234457,44.100101],
-  "geometry": {"coordinates":[-103.234457,44.100101],"type":"Point"}
+  "bbox": [
+    -103.234457,
+    44.100101,
+    -103.234457,
+    44.100101
+],
+  "geometry": {"coordinates":[-103.23445700000001,44.100101],"type":"Point"}
 }

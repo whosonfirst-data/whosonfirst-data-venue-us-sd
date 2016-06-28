@@ -2,13 +2,14 @@
   "id": 387072523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.347988,45.108559,-97.347988,45.108559",
     "geom:latitude":45.108559,
     "geom:longitude":-97.347988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44324 157th St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387072523,
-    "wof:lastmodified":1449058112,
+    "wof:lastmodified":1467082727,
     "wof:name":"Kormanagement Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.347988,45.108559,-97.347988,45.108559],
+  "bbox": [
+    -97.347988,
+    45.108559,
+    -97.347988,
+    45.108559
+],
   "geometry": {"coordinates":[-97.347988,45.108559],"type":"Point"}
 }

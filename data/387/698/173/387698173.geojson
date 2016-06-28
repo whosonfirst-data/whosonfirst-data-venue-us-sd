@@ -2,13 +2,14 @@
   "id": 387698173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.45511,44.790007,-96.45511,44.790007",
     "geom:latitude":44.790007,
     "geom:longitude":-96.45511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Summit St",
     "sg:city":"Gary",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387698173,
-    "wof:lastmodified":1449059684,
+    "wof:lastmodified":1467082758,
     "wof:name":"Empiric Cards & Comics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "greeting"
     ]
 },
-  "bbox": [-96.45511,44.790007,-96.45511,44.790007],
+  "bbox": [
+    -96.45511,
+    44.790007,
+    -96.45511,
+    44.790007
+],
   "geometry": {"coordinates":[-96.45511,44.790007],"type":"Point"}
 }

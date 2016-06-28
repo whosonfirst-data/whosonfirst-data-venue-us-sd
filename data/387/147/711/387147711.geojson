@@ -2,13 +2,14 @@
   "id": 387147711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.178024,44.923376,-97.178024,44.923376",
     "geom:latitude":44.923376,
     "geom:longitude":-97.178024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 S Lake Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387147711,
-    "wof:lastmodified":1449059501,
+    "wof:lastmodified":1467082755,
     "wof:name":"Dean R Minnerath Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-97.178024,44.923376,-97.178024,44.923376],
-  "geometry": {"coordinates":[-97.178024,44.923376],"type":"Point"}
+  "bbox": [
+    -97.178024,
+    44.923376,
+    -97.178024,
+    44.923376
+],
+  "geometry": {"coordinates":[-97.17802399999999,44.923376],"type":"Point"}
 }

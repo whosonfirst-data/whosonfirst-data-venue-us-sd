@@ -2,13 +2,14 @@
   "id": 387273911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.607543,44.049509,-96.607543,44.049509",
     "geom:latitude":44.049509,
     "geom:longitude":-96.607543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 W 2nd Ave",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387273911,
-    "wof:lastmodified":1449058079,
+    "wof:lastmodified":1467082727,
     "wof:name":"Danny Rose Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.607543,44.049509,-96.607543,44.049509],
-  "geometry": {"coordinates":[-96.607543,44.049509],"type":"Point"}
+  "bbox": [
+    -96.607543,
+    44.049509,
+    -96.607543,
+    44.049509
+],
+  "geometry": {"coordinates":[-96.60754300000001,44.049509],"type":"Point"}
 }

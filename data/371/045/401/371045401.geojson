@@ -2,13 +2,14 @@
   "id": 371045401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.752542,44.357362,-103.752542,44.357362",
     "geom:latitude":44.357362,
     "geom:longitude":-103.752542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Grandview Dr",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371045401,
-    "wof:lastmodified":1449050009,
+    "wof:lastmodified":1467082671,
     "wof:name":"Augies Place Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-103.752542,44.357362,-103.752542,44.357362],
-  "geometry": {"coordinates":[-103.752542,44.357362],"type":"Point"}
+  "bbox": [
+    -103.752542,
+    44.357362,
+    -103.752542,
+    44.357362
+],
+  "geometry": {"coordinates":[-103.75254200000001,44.357362],"type":"Point"}
 }

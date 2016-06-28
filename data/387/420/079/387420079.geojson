@@ -2,13 +2,14 @@
   "id": 387420079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.898544,43.347924,-96.898544,43.347924",
     "geom:latitude":43.347924,
     "geom:longitude":-96.898544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W 8th Ave",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387420079,
-    "wof:lastmodified":1449057922,
+    "wof:lastmodified":1467082723,
     "wof:name":"Al's Motorsickle Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "motor"
     ]
 },
-  "bbox": [-96.898544,43.347924,-96.898544,43.347924],
+  "bbox": [
+    -96.898544,
+    43.347924,
+    -96.898544,
+    43.347924
+],
   "geometry": {"coordinates":[-96.898544,43.347924],"type":"Point"}
 }

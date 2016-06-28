@@ -2,13 +2,14 @@
   "id": 387969569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.990835,43.82939,-96.990835,43.82939",
     "geom:latitude":43.82939,
     "geom:longitude":-96.990835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24533 461st Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387969569,
-    "wof:lastmodified":1449057020,
+    "wof:lastmodified":1467082705,
     "wof:name":"Terry Baumberger",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.990835,43.82939,-96.990835,43.82939],
+  "bbox": [
+    -96.990835,
+    43.82939,
+    -96.990835,
+    43.82939
+],
   "geometry": {"coordinates":[-96.990835,43.82939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387910487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.234762,44.996953,-101.234762,44.996953",
     "geom:latitude":44.996953,
     "geom:longitude":-101.234762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Eagle Butte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387910487,
-    "wof:lastmodified":1449057690,
+    "wof:lastmodified":1467082718,
     "wof:name":"Four Bands Community Fund Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.234762,44.996953,-101.234762,44.996953],
+  "bbox": [
+    -101.234762,
+    44.996953,
+    -101.234762,
+    44.996953
+],
   "geometry": {"coordinates":[-101.234762,44.996953],"type":"Point"}
 }

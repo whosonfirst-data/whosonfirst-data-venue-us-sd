@@ -2,13 +2,14 @@
   "id": 371030793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.498879,43.553782,-97.498879,43.553782",
     "geom:latitude":43.553782,
     "geom:longitude":-97.498879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 6th St",
     "sg:city":"Bridgewater",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371030793,
-    "wof:lastmodified":1449049400,
+    "wof:lastmodified":1467082663,
     "wof:name":"Stitchworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholstery"
     ]
 },
-  "bbox": [-97.498879,43.553782,-97.498879,43.553782],
+  "bbox": [
+    -97.498879,
+    43.553782,
+    -97.498879,
+    43.553782
+],
   "geometry": {"coordinates":[-97.498879,43.553782],"type":"Point"}
 }

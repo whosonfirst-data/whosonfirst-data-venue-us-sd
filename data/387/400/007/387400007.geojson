@@ -2,13 +2,14 @@
   "id": 387400007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330703,43.810212,-99.330703,43.810212",
     "geom:latitude":43.810212,
     "geom:longitude":-99.330703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 S Main St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387400007,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"S D Democratic Party",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.330703,43.810212,-99.330703,43.810212],
+  "bbox": [
+    -99.330703,
+    43.810212,
+    -99.330703,
+    43.810212
+],
   "geometry": {"coordinates":[-99.330703,43.810212],"type":"Point"}
 }

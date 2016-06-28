@@ -2,13 +2,14 @@
   "id": 387291441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733344,44.878682,-97.733344,44.878682",
     "geom:latitude":44.878682,
     "geom:longitude":-97.733344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387291441,
-    "wof:lastmodified":1449057270,
+    "wof:lastmodified":1467082710,
     "wof:name":"J & J Htg & Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.733344,44.878682,-97.733344,44.878682],
+  "bbox": [
+    -97.733344,
+    44.878682,
+    -97.733344,
+    44.878682
+],
   "geometry": {"coordinates":[-97.733344,44.878682],"type":"Point"}
 }

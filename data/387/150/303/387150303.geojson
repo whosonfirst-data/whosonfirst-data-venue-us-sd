@@ -2,13 +2,14 @@
   "id": 387150303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.064448,44.702979,-100.064448,44.702979",
     "geom:latitude":44.702979,
     "geom:longitude":-100.064448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S 8th St",
     "sg:city":"Onida",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387150303,
-    "wof:lastmodified":1449056166,
+    "wof:lastmodified":1467082688,
     "wof:name":"Agar Blunt Onida Dist 58-3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.064448,44.702979,-100.064448,44.702979],
+  "bbox": [
+    -100.064448,
+    44.702979,
+    -100.064448,
+    44.702979
+],
   "geometry": {"coordinates":[-100.064448,44.702979],"type":"Point"}
 }

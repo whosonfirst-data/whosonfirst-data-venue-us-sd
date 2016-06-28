@@ -2,13 +2,14 @@
   "id": 371154885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.680462,43.529772,-96.680462,43.529772",
     "geom:latitude":43.529772,
     "geom:longitude":-96.680462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 S Annway Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":371154885,
-    "wof:lastmodified":1449050156,
+    "wof:lastmodified":1467082674,
     "wof:name":"Donovan Refrigeration Inc",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.680462,43.529772,-96.680462,43.529772],
-  "geometry": {"coordinates":[-96.680462,43.529772],"type":"Point"}
+  "bbox": [
+    -96.680462,
+    43.529772,
+    -96.680462,
+    43.529772
+],
+  "geometry": {"coordinates":[-96.68046200000001,43.529772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387586763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.586319,45.16488,-96.586319,45.16488",
     "geom:latitude":45.16488,
     "geom:longitude":-96.586319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48051 153rd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387586763,
-    "wof:lastmodified":1449059484,
+    "wof:lastmodified":1467082754,
     "wof:name":"Midwest Dairy Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.586319,45.16488,-96.586319,45.16488],
+  "bbox": [
+    -96.586319,
+    45.16488,
+    -96.586319,
+    45.16488
+],
   "geometry": {"coordinates":[-96.586319,45.16488],"type":"Point"}
 }

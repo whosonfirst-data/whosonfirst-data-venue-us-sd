@@ -2,13 +2,14 @@
   "id": 387530635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.205231,44.064574,-103.205231,44.064574",
     "geom:latitude":44.064574,
     "geom:longitude":-103.205231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Hoefer Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387530635,
-    "wof:lastmodified":1449058137,
+    "wof:lastmodified":1467082728,
     "wof:name":"Ronald Powers Trucking Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.205231,44.064574,-103.205231,44.064574],
+  "bbox": [
+    -103.205231,
+    44.064574,
+    -103.205231,
+    44.064574
+],
   "geometry": {"coordinates":[-103.205231,44.064574],"type":"Point"}
 }

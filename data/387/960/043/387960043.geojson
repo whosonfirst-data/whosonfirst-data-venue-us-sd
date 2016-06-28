@@ -2,13 +2,14 @@
   "id": 387960043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.118686,44.906986,-97.118686,44.906986",
     "geom:latitude":44.906986,
     "geom:longitude":-97.118686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 3rd St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387960043,
-    "wof:lastmodified":1449058846,
+    "wof:lastmodified":1467082742,
     "wof:name":"Jerry Winge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.118686,44.906986,-97.118686,44.906986],
+  "bbox": [
+    -97.118686,
+    44.906986,
+    -97.118686,
+    44.906986
+],
   "geometry": {"coordinates":[-97.118686,44.906986],"type":"Point"}
 }

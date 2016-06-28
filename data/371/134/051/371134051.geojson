@@ -2,13 +2,14 @@
   "id": 371134051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487938,45.463896,-98.487938,45.463896",
     "geom:latitude":45.463896,
     "geom:longitude":-98.487938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371134051,
-    "wof:lastmodified":1449050095,
+    "wof:lastmodified":1467082673,
     "wof:name":"Aberdeen Soccer Assn",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sport"
     ]
 },
-  "bbox": [-98.487938,45.463896,-98.487938,45.463896],
+  "bbox": [
+    -98.487938,
+    45.463896,
+    -98.487938,
+    45.463896
+],
   "geometry": {"coordinates":[-98.487938,45.463896],"type":"Point"}
 }

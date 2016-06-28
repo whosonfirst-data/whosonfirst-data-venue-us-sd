@@ -2,13 +2,14 @@
   "id": 387430255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.928476,44.319916,-96.928476,44.319916",
     "geom:latitude":44.319916,
     "geom:longitude":-96.928476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Samara Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387430255,
-    "wof:lastmodified":1449058533,
+    "wof:lastmodified":1467082735,
     "wof:name":"Country View Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.928476,44.319916,-96.928476,44.319916],
+  "bbox": [
+    -96.928476,
+    44.319916,
+    -96.928476,
+    44.319916
+],
   "geometry": {"coordinates":[-96.928476,44.319916],"type":"Point"}
 }

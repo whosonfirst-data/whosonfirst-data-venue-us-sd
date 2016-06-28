@@ -2,13 +2,14 @@
   "id": 371179493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.226486,44.060384,-103.226486,44.060384",
     "geom:latitude":44.060384,
     "geom:longitude":-103.226486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Oakland St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371179493,
-    "wof:lastmodified":1449050024,
+    "wof:lastmodified":1467082672,
     "wof:name":"Henrichsen Trucking",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-103.226486,44.060384,-103.226486,44.060384],
-  "geometry": {"coordinates":[-103.226486,44.060384],"type":"Point"}
+  "bbox": [
+    -103.226486,
+    44.060384,
+    -103.226486,
+    44.060384
+],
+  "geometry": {"coordinates":[-103.22648599999999,44.060384],"type":"Point"}
 }

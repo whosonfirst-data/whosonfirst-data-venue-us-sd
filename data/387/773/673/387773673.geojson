@@ -2,13 +2,14 @@
   "id": 387773673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.027161,43.715509,-98.027161,43.715509",
     "geom:latitude":43.715509,
     "geom:longitude":-98.027161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 W 7th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387773673,
-    "wof:lastmodified":1449056591,
+    "wof:lastmodified":1467082696,
     "wof:name":"Olson's Pest Technicians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.027161,43.715509,-98.027161,43.715509],
-  "geometry": {"coordinates":[-98.027161,43.715509],"type":"Point"}
+  "bbox": [
+    -98.027161,
+    43.715509,
+    -98.027161,
+    43.715509
+],
+  "geometry": {"coordinates":[-98.02716100000001,43.715509],"type":"Point"}
 }

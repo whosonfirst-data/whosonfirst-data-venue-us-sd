@@ -2,13 +2,14 @@
   "id": 403814105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.652377,45.450127,-99.652377,45.450127",
     "geom:latitude":45.450127,
     "geom:longitude":-99.652377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3083 2nd Ave",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403814105,
-    "wof:lastmodified":1449054873,
+    "wof:lastmodified":1467082676,
     "wof:name":"Bowdle School District 22-1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.652377,45.450127,-99.652377,45.450127],
+  "bbox": [
+    -99.652377,
+    45.450127,
+    -99.652377,
+    45.450127
+],
   "geometry": {"coordinates":[-99.652377,45.450127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387237261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.440587,44.48457,-97.440587,44.48457",
     "geom:latitude":44.48457,
     "geom:longitude":-97.440587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 1st St E",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":387237261,
-    "wof:lastmodified":1449056211,
+    "wof:lastmodified":1467082689,
     "wof:name":"Lake Preston School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.440587,44.48457,-97.440587,44.48457],
-  "geometry": {"coordinates":[-97.440587,44.48457],"type":"Point"}
+  "bbox": [
+    -97.440587,
+    44.48457,
+    -97.440587,
+    44.48457
+],
+  "geometry": {"coordinates":[-97.44058699999999,44.48457],"type":"Point"}
 }

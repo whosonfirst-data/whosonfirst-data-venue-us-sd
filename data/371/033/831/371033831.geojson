@@ -2,13 +2,14 @@
   "id": 371033831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711254,43.597945,-96.711254,43.597945",
     "geom:latitude":43.597945,
     "geom:longitude":-96.711254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371033831,
-    "wof:lastmodified":1449049257,
+    "wof:lastmodified":1467082661,
     "wof:name":"Catco Parts & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clutches"
     ]
 },
-  "bbox": [-96.711254,43.597945,-96.711254,43.597945],
+  "bbox": [
+    -96.711254,
+    43.597945,
+    -96.711254,
+    43.597945
+],
   "geometry": {"coordinates":[-96.711254,43.597945],"type":"Point"}
 }

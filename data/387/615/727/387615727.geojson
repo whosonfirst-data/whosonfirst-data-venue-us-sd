@@ -2,13 +2,14 @@
   "id": 387615727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711298,44.023162,-97.711298,44.023162",
     "geom:latitude":44.023162,
     "geom:longitude":-97.711298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23191 425th Ave",
     "sg:city":"Fedora",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387615727,
-    "wof:lastmodified":1449057300,
+    "wof:lastmodified":1467082710,
     "wof:name":"Richard Burghardt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.711298,44.023162,-97.711298,44.023162],
+  "bbox": [
+    -97.711298,
+    44.023162,
+    -97.711298,
+    44.023162
+],
   "geometry": {"coordinates":[-97.711298,44.023162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387028803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.52832,45.532129,-98.52832,45.532129",
     "geom:latitude":45.532129,
     "geom:longitude":-98.52832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38546 128th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387028803,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1467082728,
     "wof:name":"Van Nerland Trucking",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.52832,45.532129,-98.52832,45.532129],
-  "geometry": {"coordinates":[-98.52832,45.532129],"type":"Point"}
+  "bbox": [
+    -98.52832,
+    45.532129,
+    -98.52832,
+    45.532129
+],
+  "geometry": {"coordinates":[-98.52831999999999,45.532129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371089435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.611329,45.224638,-96.611329,45.224638",
     "geom:latitude":45.224638,
     "geom:longitude":-96.611329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Aspen Dr",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371089435,
-    "wof:lastmodified":1449049255,
+    "wof:lastmodified":1467082661,
     "wof:name":"Harold Holtquist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.611329,45.224638,-96.611329,45.224638],
+  "bbox": [
+    -96.611329,
+    45.224638,
+    -96.611329,
+    45.224638
+],
   "geometry": {"coordinates":[-96.611329,45.224638],"type":"Point"}
 }

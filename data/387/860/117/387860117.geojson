@@ -2,13 +2,14 @@
   "id": 387860117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649857,44.435778,-96.649857,44.435778",
     "geom:latitude":44.435778,
     "geom:longitude":-96.649857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N School Ave",
     "sg:city":"White",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387860117,
-    "wof:lastmodified":1449057799,
+    "wof:lastmodified":1467082721,
     "wof:name":"Deubrook Area Schools Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.649857,44.435778,-96.649857,44.435778],
+  "bbox": [
+    -96.649857,
+    44.435778,
+    -96.649857,
+    44.435778
+],
   "geometry": {"coordinates":[-96.649857,44.435778],"type":"Point"}
 }

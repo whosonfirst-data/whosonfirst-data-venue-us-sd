@@ -2,13 +2,14 @@
   "id": 386987285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.254056,44.103728,-103.254056,44.103728",
     "geom:latitude":44.103728,
     "geom:longitude":-103.254056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 N Plaza Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":386987285,
-    "wof:lastmodified":1449028791,
+    "wof:lastmodified":1467082652,
     "wof:name":"Youth & Family Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "human"
     ]
 },
-  "bbox": [-103.254056,44.103728,-103.254056,44.103728],
-  "geometry": {"coordinates":[-103.254056,44.103728],"type":"Point"}
+  "bbox": [
+    -103.254056,
+    44.103728,
+    -103.254056,
+    44.103728
+],
+  "geometry": {"coordinates":[-103.25405600000001,44.103728],"type":"Point"}
 }

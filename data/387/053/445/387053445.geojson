@@ -2,13 +2,14 @@
   "id": 387053445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.429145,43.739918,-97.429145,43.739918",
     "geom:latitude":43.739918,
     "geom:longitude":-97.429145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25143 439th Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387053445,
-    "wof:lastmodified":1449056817,
+    "wof:lastmodified":1467082701,
     "wof:name":"Jerry Blindert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.429145,43.739918,-97.429145,43.739918],
-  "geometry": {"coordinates":[-97.429145,43.739918],"type":"Point"}
+  "bbox": [
+    -97.429145,
+    43.739918,
+    -97.429145,
+    43.739918
+],
+  "geometry": {"coordinates":[-97.42914500000001,43.739918],"type":"Point"}
 }

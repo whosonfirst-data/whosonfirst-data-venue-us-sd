@@ -2,13 +2,14 @@
   "id": 387069799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.453325,43.784146,-96.453325,43.784146",
     "geom:latitude":43.784146,
     "geom:longitude":-96.453325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24849 488th Ave",
     "sg:city":"Sherman",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387069799,
-    "wof:lastmodified":1449058514,
+    "wof:lastmodified":1467082735,
     "wof:name":"Quality Mobile Home Svc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-96.453325,43.784146,-96.453325,43.784146],
-  "geometry": {"coordinates":[-96.453325,43.784146],"type":"Point"}
+  "bbox": [
+    -96.453325,
+    43.784146,
+    -96.453325,
+    43.784146
+],
+  "geometry": {"coordinates":[-96.45332500000001,43.784146],"type":"Point"}
 }

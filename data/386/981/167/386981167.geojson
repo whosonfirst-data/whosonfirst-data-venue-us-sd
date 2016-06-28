@@ -2,13 +2,14 @@
   "id": 386981167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.311199,44.25474,-97.311199,44.25474",
     "geom:latitude":44.25474,
     "geom:longitude":-97.311199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21590 445th Ave",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":386981167,
-    "wof:lastmodified":1449028973,
+    "wof:lastmodified":1467082655,
     "wof:name":"Ruth Hojer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.311199,44.25474,-97.311199,44.25474],
+  "bbox": [
+    -97.311199,
+    44.25474,
+    -97.311199,
+    44.25474
+],
   "geometry": {"coordinates":[-97.311199,44.25474],"type":"Point"}
 }

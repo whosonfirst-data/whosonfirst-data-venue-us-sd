@@ -2,13 +2,14 @@
   "id": 371111367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.502656,43.715777,-96.502656,43.715777",
     "geom:latitude":43.715777,
     "geom:longitude":-96.502656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 N Main Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371111367,
-    "wof:lastmodified":1449050171,
+    "wof:lastmodified":1467082674,
     "wof:name":"Senior Citizens Ctr",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "citizen"
     ]
 },
-  "bbox": [-96.502656,43.715777,-96.502656,43.715777],
+  "bbox": [
+    -96.502656,
+    43.715777,
+    -96.502656,
+    43.715777
+],
   "geometry": {"coordinates":[-96.502656,43.715777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403778667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.679691,44.851344,-98.679691,44.851344",
     "geom:latitude":44.851344,
     "geom:longitude":-98.679691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37527 175th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403778667,
-    "wof:lastmodified":1449054651,
+    "wof:lastmodified":1467082674,
     "wof:name":"Leo Jandel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.679691,44.851344,-98.679691,44.851344],
-  "geometry": {"coordinates":[-98.679691,44.851344],"type":"Point"}
+  "bbox": [
+    -98.679691,
+    44.851344,
+    -98.679691,
+    44.851344
+],
+  "geometry": {"coordinates":[-98.67969100000001,44.851344],"type":"Point"}
 }

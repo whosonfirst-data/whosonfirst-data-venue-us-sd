@@ -2,13 +2,14 @@
   "id": 387174785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.02415,43.709385,-98.02415,43.709385",
     "geom:latitude":43.709385,
     "geom:longitude":-98.02415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Lawler St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":387174785,
-    "wof:lastmodified":1449056624,
+    "wof:lastmodified":1467082697,
     "wof:name":"D & E Music & Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gambling"
     ]
 },
-  "bbox": [-98.02415,43.709385,-98.02415,43.709385],
-  "geometry": {"coordinates":[-98.02415,43.709385],"type":"Point"}
+  "bbox": [
+    -98.02415,
+    43.709385,
+    -98.02415,
+    43.709385
+],
+  "geometry": {"coordinates":[-98.02415000000001,43.709385],"type":"Point"}
 }

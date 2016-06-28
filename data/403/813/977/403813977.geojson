@@ -2,13 +2,14 @@
   "id": 403813977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.926633,44.323547,-96.926633,44.323547",
     "geom:latitude":44.323547,
     "geom:longitude":-96.926633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Kasan Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403813977,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1467082678,
     "wof:name":"Volga Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-96.926633,44.323547,-96.926633,44.323547],
+  "bbox": [
+    -96.926633,
+    44.323547,
+    -96.926633,
+    44.323547
+],
   "geometry": {"coordinates":[-96.926633,44.323547],"type":"Point"}
 }

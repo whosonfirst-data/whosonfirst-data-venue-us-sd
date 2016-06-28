@@ -2,13 +2,14 @@
   "id": 387065877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.122698,44.89724,-97.122698,44.89724",
     "geom:latitude":44.89724,
     "geom:longitude":-97.122698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 4th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387065877,
-    "wof:lastmodified":1449059877,
+    "wof:lastmodified":1467082762,
     "wof:name":"Niles Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.122698,44.89724,-97.122698,44.89724],
+  "bbox": [
+    -97.122698,
+    44.89724,
+    -97.122698,
+    44.89724
+],
   "geometry": {"coordinates":[-97.122698,44.89724],"type":"Point"}
 }

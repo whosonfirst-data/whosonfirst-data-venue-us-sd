@@ -2,13 +2,14 @@
   "id": 387053079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.785771,43.391767,-98.785771,43.391767",
     "geom:latitude":43.391767,
     "geom:longitude":-98.785771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27549 370th Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387053079,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1467082701,
     "wof:name":"Brett's Tractor Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tractor"
     ]
 },
-  "bbox": [-98.785771,43.391767,-98.785771,43.391767],
+  "bbox": [
+    -98.785771,
+    43.391767,
+    -98.785771,
+    43.391767
+],
   "geometry": {"coordinates":[-98.785771,43.391767],"type":"Point"}
 }

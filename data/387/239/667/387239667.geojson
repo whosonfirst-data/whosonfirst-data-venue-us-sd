@@ -2,13 +2,14 @@
   "id": 387239667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.782114,44.297054,-96.782114,44.297054",
     "geom:latitude":44.297054,
     "geom:longitude":-96.782114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 8th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387239667,
-    "wof:lastmodified":1449056478,
+    "wof:lastmodified":1467082694,
     "wof:name":"Chapter 15",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.782114,44.297054,-96.782114,44.297054],
-  "geometry": {"coordinates":[-96.782114,44.297054],"type":"Point"}
+  "bbox": [
+    -96.782114,
+    44.297054,
+    -96.782114,
+    44.297054
+],
+  "geometry": {"coordinates":[-96.78211400000001,44.297054],"type":"Point"}
 }

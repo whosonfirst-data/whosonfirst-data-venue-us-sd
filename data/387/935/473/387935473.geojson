@@ -2,13 +2,14 @@
   "id": 387935473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.834451,43.451495,-96.834451,43.451495",
     "geom:latitude":43.451495,
     "geom:longitude":-96.834451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Lisa Ct",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387935473,
-    "wof:lastmodified":1449059244,
+    "wof:lastmodified":1467082750,
     "wof:name":"Wireless World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-96.834451,43.451495,-96.834451,43.451495],
+  "bbox": [
+    -96.834451,
+    43.451495,
+    -96.834451,
+    43.451495
+],
   "geometry": {"coordinates":[-96.834451,43.451495],"type":"Point"}
 }

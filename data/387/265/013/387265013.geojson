@@ -2,13 +2,14 @@
   "id": 387265013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.349894,44.3627,-100.349894,44.3627",
     "geom:latitude":44.3627,
     "geom:longitude":-100.349894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 S Brule St",
     "sg:city":"Lower Brule",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387265013,
-    "wof:lastmodified":1449057395,
+    "wof:lastmodified":1467082712,
     "wof:name":"Native American Advocacy Proj",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-100.349894,44.3627,-100.349894,44.3627],
-  "geometry": {"coordinates":[-100.349894,44.3627],"type":"Point"}
+  "bbox": [
+    -100.349894,
+    44.3627,
+    -100.349894,
+    44.3627
+],
+  "geometry": {"coordinates":[-100.34989400000001,44.3627],"type":"Point"}
 }

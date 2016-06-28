@@ -2,13 +2,14 @@
   "id": 387276823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.778415,45.245233,-99.778415,45.245233",
     "geom:latitude":45.245233,
     "geom:longitude":-99.778415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Commercial Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387276823,
-    "wof:lastmodified":1449056258,
+    "wof:lastmodified":1467082690,
     "wof:name":"Wbm Inc-Weber Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.778415,45.245233,-99.778415,45.245233],
+  "bbox": [
+    -99.778415,
+    45.245233,
+    -99.778415,
+    45.245233
+],
   "geometry": {"coordinates":[-99.778415,45.245233],"type":"Point"}
 }

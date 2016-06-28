@@ -2,13 +2,14 @@
   "id": 387923223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.211221,44.370127,-98.211221,44.370127",
     "geom:latitude":44.370127,
     "geom:longitude":-98.211221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 4th St NE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387923223,
-    "wof:lastmodified":1449059787,
+    "wof:lastmodified":1467082760,
     "wof:name":"Wesleyan Church The Pastor's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.211221,44.370127,-98.211221,44.370127],
-  "geometry": {"coordinates":[-98.211221,44.370127],"type":"Point"}
+  "bbox": [
+    -98.211221,
+    44.370127,
+    -98.211221,
+    44.370127
+],
+  "geometry": {"coordinates":[-98.21122099999999,44.370127],"type":"Point"}
 }

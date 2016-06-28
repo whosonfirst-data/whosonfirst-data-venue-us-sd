@@ -2,13 +2,14 @@
   "id": 403727497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.480945,44.237142,-96.480945,44.237142",
     "geom:latitude":44.237142,
     "geom:longitude":-96.480945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Elk St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403727497,
-    "wof:lastmodified":1449054829,
+    "wof:lastmodified":1467082676,
     "wof:name":"Jagers Grocers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-96.480945,44.237142,-96.480945,44.237142],
-  "geometry": {"coordinates":[-96.480945,44.237142],"type":"Point"}
+  "bbox": [
+    -96.480945,
+    44.237142,
+    -96.480945,
+    44.237142
+],
+  "geometry": {"coordinates":[-96.48094500000001,44.237142],"type":"Point"}
 }

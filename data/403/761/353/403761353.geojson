@@ -2,13 +2,14 @@
   "id": 403761353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.530156,44.22411,-97.530156,44.22411",
     "geom:latitude":44.22411,
     "geom:longitude":-97.530156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43484 218th St",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":403761353,
-    "wof:lastmodified":1449055643,
+    "wof:lastmodified":1467082682,
     "wof:name":"Albrecht Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.530156,44.22411,-97.530156,44.22411],
-  "geometry": {"coordinates":[-97.530156,44.22411],"type":"Point"}
+  "bbox": [
+    -97.530156,
+    44.22411,
+    -97.530156,
+    44.22411
+],
+  "geometry": {"coordinates":[-97.53015600000001,44.22411],"type":"Point"}
 }

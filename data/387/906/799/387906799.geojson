@@ -2,13 +2,14 @@
   "id": 387906799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.123987,45.006085,-97.123987,45.006085",
     "geom:latitude":45.006085,
     "geom:longitude":-97.123987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45412 164th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387906799,
-    "wof:lastmodified":1449057554,
+    "wof:lastmodified":1467082716,
     "wof:name":"Rodney Zemlicka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.123987,45.006085,-97.123987,45.006085],
+  "bbox": [
+    -97.123987,
+    45.006085,
+    -97.123987,
+    45.006085
+],
   "geometry": {"coordinates":[-97.123987,45.006085],"type":"Point"}
 }

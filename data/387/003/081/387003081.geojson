@@ -2,13 +2,14 @@
   "id": 387003081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743747,43.533046,-96.743747,43.533046",
     "geom:latitude":43.533046,
     "geom:longitude":-96.743747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W 22nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387003081,
-    "wof:lastmodified":1449059620,
+    "wof:lastmodified":1467082757,
     "wof:name":"Univ S Dak Sch Med Dept Surgry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.743747,43.533046,-96.743747,43.533046],
+  "bbox": [
+    -96.743747,
+    43.533046,
+    -96.743747,
+    43.533046
+],
   "geometry": {"coordinates":[-96.743747,43.533046],"type":"Point"}
 }

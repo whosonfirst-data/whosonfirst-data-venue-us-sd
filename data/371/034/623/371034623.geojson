@@ -2,13 +2,14 @@
   "id": 371034623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.098232,44.904555,-97.098232,44.904555",
     "geom:latitude":44.904555,
     "geom:longitude":-97.098232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 3rd Ave NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371034623,
-    "wof:lastmodified":1449049142,
+    "wof:lastmodified":1467082659,
     "wof:name":"Boy's Girls Club Of Watertown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-97.098232,44.904555,-97.098232,44.904555],
+  "bbox": [
+    -97.098232,
+    44.904555,
+    -97.098232,
+    44.904555
+],
   "geometry": {"coordinates":[-97.098232,44.904555],"type":"Point"}
 }

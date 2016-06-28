@@ -2,13 +2,14 @@
   "id": 387683951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.632528,43.021549,-96.632528,43.021549",
     "geom:latitude":43.021549,
     "geom:longitude":-96.632528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Broad St",
     "sg:city":"Alcester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387683951,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"Howard Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.632528,43.021549,-96.632528,43.021549],
-  "geometry": {"coordinates":[-96.632528,43.021549],"type":"Point"}
+  "bbox": [
+    -96.632528,
+    43.021549,
+    -96.632528,
+    43.021549
+],
+  "geometry": {"coordinates":[-96.63252799999999,43.021549],"type":"Point"}
 }

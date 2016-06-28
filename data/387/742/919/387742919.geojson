@@ -2,13 +2,14 @@
   "id": 387742919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.419987,45.535211,-100.419987,45.535211",
     "geom:latitude":45.535211,
     "geom:longitude":-100.419987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 10th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387742919,
-    "wof:lastmodified":1449056366,
+    "wof:lastmodified":1467082692,
     "wof:name":"M&T Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-100.419987,45.535211,-100.419987,45.535211],
-  "geometry": {"coordinates":[-100.419987,45.535211],"type":"Point"}
+  "bbox": [
+    -100.419987,
+    45.535211,
+    -100.419987,
+    45.535211
+],
+  "geometry": {"coordinates":[-100.41998700000001,45.535211],"type":"Point"}
 }

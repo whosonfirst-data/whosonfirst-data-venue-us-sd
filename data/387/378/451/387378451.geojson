@@ -2,13 +2,14 @@
   "id": 387378451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728288,43.558579,-96.728288,43.558579",
     "geom:latitude":43.558579,
     "geom:longitude":-96.728288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387378451,
-    "wof:lastmodified":1449058674,
+    "wof:lastmodified":1467082738,
     "wof:name":"Midwestern Deliveries",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-96.728288,43.558579,-96.728288,43.558579],
-  "geometry": {"coordinates":[-96.728288,43.558579],"type":"Point"}
+  "bbox": [
+    -96.728288,
+    43.558579,
+    -96.728288,
+    43.558579
+],
+  "geometry": {"coordinates":[-96.72828800000001,43.558579],"type":"Point"}
 }

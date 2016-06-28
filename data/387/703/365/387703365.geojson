@@ -2,13 +2,14 @@
   "id": 387703365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.126687,44.917332,-97.126687,44.917332",
     "geom:latitude":44.917332,
     "geom:longitude":-97.126687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 7th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387703365,
-    "wof:lastmodified":1449057251,
+    "wof:lastmodified":1467082709,
     "wof:name":"Gene Day Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.126687,44.917332,-97.126687,44.917332],
+  "bbox": [
+    -97.126687,
+    44.917332,
+    -97.126687,
+    44.917332
+],
   "geometry": {"coordinates":[-97.126687,44.917332],"type":"Point"}
 }

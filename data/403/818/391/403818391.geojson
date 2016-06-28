@@ -2,13 +2,14 @@
   "id": 403818391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.488209,45.46955,-98.488209,45.46955",
     "geom:latitude":45.46955,
     "geom:longitude":-98.488209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":403818391,
-    "wof:lastmodified":1449055281,
+    "wof:lastmodified":1467082680,
     "wof:name":"Grote Brothers Body Shop LLP",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "plate"
     ]
 },
-  "bbox": [-98.488209,45.46955,-98.488209,45.46955],
+  "bbox": [
+    -98.488209,
+    45.46955,
+    -98.488209,
+    45.46955
+],
   "geometry": {"coordinates":[-98.488209,45.46955],"type":"Point"}
 }

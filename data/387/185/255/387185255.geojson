@@ -2,13 +2,14 @@
   "id": 387185255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.59146,44.049434,-96.59146,44.049434",
     "geom:latitude":44.049434,
     "geom:longitude":-96.59146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Prairie St",
     "sg:city":"Flandreau",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387185255,
-    "wof:lastmodified":1449056727,
+    "wof:lastmodified":1467082699,
     "wof:name":"Second Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.59146,44.049434,-96.59146,44.049434],
+  "bbox": [
+    -96.59146,
+    44.049434,
+    -96.59146,
+    44.049434
+],
   "geometry": {"coordinates":[-96.59146,44.049434],"type":"Point"}
 }

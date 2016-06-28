@@ -2,13 +2,14 @@
   "id": 371190967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.733194,44.87878,-97.733194,44.87878",
     "geom:latitude":44.87878,
     "geom:longitude":-97.733194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 N Commercial St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371190967,
-    "wof:lastmodified":1449050092,
+    "wof:lastmodified":1467082673,
     "wof:name":"Clark Farm Mutual Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.733194,44.87878,-97.733194,44.87878],
+  "bbox": [
+    -97.733194,
+    44.87878,
+    -97.733194,
+    44.87878
+],
   "geometry": {"coordinates":[-97.733194,44.87878],"type":"Point"}
 }

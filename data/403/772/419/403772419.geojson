@@ -2,13 +2,14 @@
   "id": 403772419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.272074,44.110616,-103.272074,44.110616",
     "geom:latitude":44.110616,
     "geom:longitude":-103.272074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403772419,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1467082679,
     "wof:name":"Dagney Publishing",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"
     ]
 },
-  "bbox": [-103.272074,44.110616,-103.272074,44.110616],
+  "bbox": [
+    -103.272074,
+    44.110616,
+    -103.272074,
+    44.110616
+],
   "geometry": {"coordinates":[-103.272074,44.110616],"type":"Point"}
 }

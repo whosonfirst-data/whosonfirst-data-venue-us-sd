@@ -2,13 +2,14 @@
   "id": 371044511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.609045,43.762771,-103.609045,43.762771",
     "geom:latitude":43.762771,
     "geom:longitude":-103.609045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Centennial Dr",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371044511,
-    "wof:lastmodified":1449049580,
+    "wof:lastmodified":1467082666,
     "wof:name":"Espresso & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "coffee"
     ]
 },
-  "bbox": [-103.609045,43.762771,-103.609045,43.762771],
-  "geometry": {"coordinates":[-103.609045,43.762771],"type":"Point"}
+  "bbox": [
+    -103.609045,
+    43.762771,
+    -103.609045,
+    43.762771
+],
+  "geometry": {"coordinates":[-103.60904499999999,43.762771],"type":"Point"}
 }

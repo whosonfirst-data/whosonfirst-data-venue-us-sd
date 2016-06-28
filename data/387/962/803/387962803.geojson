@@ -2,13 +2,14 @@
   "id": 387962803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71143,43.563947,-96.71143,43.563947",
     "geom:latitude":43.563947,
     "geom:longitude":-96.71143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387962803,
-    "wof:lastmodified":1449058344,
+    "wof:lastmodified":1467082732,
     "wof:name":"Superior Fencing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fence"
     ]
 },
-  "bbox": [-96.71143,43.563947,-96.71143,43.563947],
-  "geometry": {"coordinates":[-96.71143,43.563947],"type":"Point"}
+  "bbox": [
+    -96.71143,
+    43.563947,
+    -96.71143,
+    43.563947
+],
+  "geometry": {"coordinates":[-96.71142999999999,43.563947],"type":"Point"}
 }

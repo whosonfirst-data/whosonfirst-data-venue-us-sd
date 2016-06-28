@@ -2,13 +2,14 @@
   "id": 371032987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.828344,43.30409,-103.828344,43.30409",
     "geom:latitude":43.30409,
     "geom:longitude":-103.828344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 A St",
     "sg:city":"Edgemont",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371032987,
-    "wof:lastmodified":1449049528,
+    "wof:lastmodified":1467082665,
     "wof:name":"Hills View Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.828344,43.30409,-103.828344,43.30409],
+  "bbox": [
+    -103.828344,
+    43.30409,
+    -103.828344,
+    43.30409
+],
   "geometry": {"coordinates":[-103.828344,43.30409],"type":"Point"}
 }

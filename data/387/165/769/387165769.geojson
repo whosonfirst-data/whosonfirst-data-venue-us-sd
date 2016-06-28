@@ -2,13 +2,14 @@
   "id": 387165769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.259446,44.058336,-103.259446,44.058336",
     "geom:latitude":44.058336,
     "geom:longitude":-103.259446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2406 Minnewasta Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387165769,
-    "wof:lastmodified":1449059925,
+    "wof:lastmodified":1467082763,
     "wof:name":"Bruce Thalacker Rev",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.259446,44.058336,-103.259446,44.058336],
+  "bbox": [
+    -103.259446,
+    44.058336,
+    -103.259446,
+    44.058336
+],
   "geometry": {"coordinates":[-103.259446,44.058336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387293627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663903,43.560588,-96.663903,43.560588",
     "geom:latitude":43.560588,
     "geom:longitude":-96.663903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5104 E Lake Placid Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387293627,
-    "wof:lastmodified":1449056847,
+    "wof:lastmodified":1467082701,
     "wof:name":"Hillman Plumbing & Heating",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.663903,43.560588,-96.663903,43.560588],
+  "bbox": [
+    -96.663903,
+    43.560588,
+    -96.663903,
+    43.560588
+],
   "geometry": {"coordinates":[-96.663903,43.560588],"type":"Point"}
 }

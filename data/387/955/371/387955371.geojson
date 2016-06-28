@@ -2,13 +2,14 @@
   "id": 387955371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479207,45.458886,-98.479207,45.458886",
     "geom:latitude":45.458886,
     "geom:longitude":-98.479207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 S State St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387955371,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1467082740,
     "wof:name":"First Impression Clinic",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-98.479207,45.458886,-98.479207,45.458886],
+  "bbox": [
+    -98.479207,
+    45.458886,
+    -98.479207,
+    45.458886
+],
   "geometry": {"coordinates":[-98.479207,45.458886],"type":"Point"}
 }

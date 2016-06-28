@@ -2,13 +2,14 @@
   "id": 387576755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.75117,43.556412,-96.75117,43.556412",
     "geom:latitude":43.556412,
     "geom:longitude":-96.75117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 N Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387576755,
-    "wof:lastmodified":1449059030,
+    "wof:lastmodified":1467082745,
     "wof:name":"Brock White",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.75117,43.556412,-96.75117,43.556412],
+  "bbox": [
+    -96.75117,
+    43.556412,
+    -96.75117,
+    43.556412
+],
   "geometry": {"coordinates":[-96.75117,43.556412],"type":"Point"}
 }

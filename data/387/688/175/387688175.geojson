@@ -2,13 +2,14 @@
   "id": 387688175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.474803,43.432396,-103.474803,43.432396",
     "geom:latitude":43.432396,
     "geom:longitude":-103.474803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Jennings Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387688175,
-    "wof:lastmodified":1449057525,
+    "wof:lastmodified":1467082715,
     "wof:name":"Massa Dental Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-103.474803,43.432396,-103.474803,43.432396],
-  "geometry": {"coordinates":[-103.474803,43.432396],"type":"Point"}
+  "bbox": [
+    -103.474803,
+    43.432396,
+    -103.474803,
+    43.432396
+],
+  "geometry": {"coordinates":[-103.47480299999999,43.432396],"type":"Point"}
 }

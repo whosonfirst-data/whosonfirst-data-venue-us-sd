@@ -2,13 +2,14 @@
   "id": 387647371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.311268,44.011562,-103.311268,44.011562",
     "geom:latitude":44.011562,
     "geom:longitude":-103.311268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7373 Pinon Jay Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387647371,
-    "wof:lastmodified":1449057904,
+    "wof:lastmodified":1467082723,
     "wof:name":"A Global Search",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.311268,44.011562,-103.311268,44.011562],
+  "bbox": [
+    -103.311268,
+    44.011562,
+    -103.311268,
+    44.011562
+],
   "geometry": {"coordinates":[-103.311268,44.011562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387355765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.777611,44.300429,-96.777611,44.300429",
     "geom:latitude":44.300429,
     "geom:longitude":-96.777611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 17th Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387355765,
-    "wof:lastmodified":1449057161,
+    "wof:lastmodified":1467082707,
     "wof:name":"Dakota Trails Moldings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-96.777611,44.300429,-96.777611,44.300429],
-  "geometry": {"coordinates":[-96.777611,44.300429],"type":"Point"}
+  "bbox": [
+    -96.777611,
+    44.300429,
+    -96.777611,
+    44.300429
+],
+  "geometry": {"coordinates":[-96.77761099999999,44.300429],"type":"Point"}
 }

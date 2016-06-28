@@ -2,13 +2,14 @@
   "id": 386971971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.479272,43.440452,-103.479272,43.440452",
     "geom:latitude":43.440452,
     "geom:longitude":-103.479272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Battle Mountain Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386971971,
-    "wof:lastmodified":1449028790,
+    "wof:lastmodified":1467082652,
     "wof:name":"Bill's Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.479272,43.440452,-103.479272,43.440452],
-  "geometry": {"coordinates":[-103.479272,43.440452],"type":"Point"}
+  "bbox": [
+    -103.479272,
+    43.440452,
+    -103.479272,
+    43.440452
+],
+  "geometry": {"coordinates":[-103.47927199999999,43.440452],"type":"Point"}
 }

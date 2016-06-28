@@ -2,13 +2,14 @@
   "id": 387757189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025716,43.725937,-98.025716,43.725937",
     "geom:latitude":43.725937,
     "geom:longitude":-98.025716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387757189,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1467082730,
     "wof:name":"Car City Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-98.025716,43.725937,-98.025716,43.725937],
+  "bbox": [
+    -98.025716,
+    43.725937,
+    -98.025716,
+    43.725937
+],
   "geometry": {"coordinates":[-98.025716,43.725937],"type":"Point"}
 }

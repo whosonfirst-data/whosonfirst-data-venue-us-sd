@@ -2,13 +2,14 @@
   "id": 403826821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.85684,43.378357,-99.85684,43.378357",
     "geom:latitude":43.378357,
     "geom:longitude":-99.85684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Main St",
     "sg:city":"Kennebec",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403826821,
-    "wof:lastmodified":1449055579,
+    "wof:lastmodified":1467082682,
     "wof:name":"Farmers Union Co-Op Elevator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "elevator"
     ]
 },
-  "bbox": [-99.85684,43.378357,-99.85684,43.378357],
-  "geometry": {"coordinates":[-99.85684,43.378357],"type":"Point"}
+  "bbox": [
+    -99.85684,
+    43.378357,
+    -99.85684,
+    43.378357
+],
+  "geometry": {"coordinates":[-99.85684000000001,43.378357],"type":"Point"}
 }

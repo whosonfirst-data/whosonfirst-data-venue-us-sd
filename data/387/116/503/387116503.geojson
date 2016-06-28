@@ -2,13 +2,14 @@
   "id": 387116503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.51848,44.875722,-98.51848,44.875722",
     "geom:latitude":44.875722,
     "geom:longitude":-98.51848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 E 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387116503,
-    "wof:lastmodified":1449056659,
+    "wof:lastmodified":1467082698,
     "wof:name":"Northeastern Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-98.51848,44.875722,-98.51848,44.875722],
+  "bbox": [
+    -98.51848,
+    44.875722,
+    -98.51848,
+    44.875722
+],
   "geometry": {"coordinates":[-98.51848,44.875722],"type":"Point"}
 }

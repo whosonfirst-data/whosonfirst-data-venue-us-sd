@@ -2,13 +2,14 @@
   "id": 387329513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.217535,44.354187,-98.217535,44.354187",
     "geom:latitude":44.354187,
     "geom:longitude":-98.217535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1067 Illinois Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387329513,
-    "wof:lastmodified":1449057159,
+    "wof:lastmodified":1467082707,
     "wof:name":"Aspen Carpet Cleaning Of Huron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-98.217535,44.354187,-98.217535,44.354187],
+  "bbox": [
+    -98.217535,
+    44.354187,
+    -98.217535,
+    44.354187
+],
   "geometry": {"coordinates":[-98.217535,44.354187],"type":"Point"}
 }

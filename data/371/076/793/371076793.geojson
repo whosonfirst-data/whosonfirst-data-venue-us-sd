@@ -2,13 +2,14 @@
   "id": 371076793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769005,43.503834,-96.769005,43.503834",
     "geom:latitude":43.503834,
     "geom:longitude":-96.769005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 W 53rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371076793,
-    "wof:lastmodified":1449049864,
+    "wof:lastmodified":1467082670,
     "wof:name":"Oakwood Estates",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.769005,43.503834,-96.769005,43.503834],
-  "geometry": {"coordinates":[-96.769005,43.503834],"type":"Point"}
+  "bbox": [
+    -96.769005,
+    43.503834,
+    -96.769005,
+    43.503834
+],
+  "geometry": {"coordinates":[-96.76900500000001,43.503834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387192571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487934,45.464021,-98.487934,45.464021",
     "geom:latitude":45.464021,
     "geom:longitude":-98.487934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387192571,
-    "wof:lastmodified":1449058802,
+    "wof:lastmodified":1467082741,
     "wof:name":"Sander's Sew-N-Vac",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-98.487934,45.464021,-98.487934,45.464021],
+  "bbox": [
+    -98.487934,
+    45.464021,
+    -98.487934,
+    45.464021
+],
   "geometry": {"coordinates":[-98.487934,45.464021],"type":"Point"}
 }

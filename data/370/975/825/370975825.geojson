@@ -2,13 +2,14 @@
   "id": 370975825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844611,43.370496,-98.844611,43.370496",
     "geom:latitude":43.370496,
     "geom:longitude":-98.844611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27690 367th Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370975825,
-    "wof:lastmodified":1449032000,
+    "wof:lastmodified":1467082657,
     "wof:name":"Nachtigal D & D Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-98.844611,43.370496,-98.844611,43.370496],
+  "bbox": [
+    -98.844611,
+    43.370496,
+    -98.844611,
+    43.370496
+],
   "geometry": {"coordinates":[-98.844611,43.370496],"type":"Point"}
 }

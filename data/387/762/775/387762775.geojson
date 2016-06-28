@@ -2,13 +2,14 @@
   "id": 387762775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098784,45.445845,-98.098784,45.445845",
     "geom:latitude":45.445845,
     "geom:longitude":-98.098784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387762775,
-    "wof:lastmodified":1449058794,
+    "wof:lastmodified":1467082741,
     "wof:name":"Groton Tiger's Den Youth Ctr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-98.098784,45.445845,-98.098784,45.445845],
-  "geometry": {"coordinates":[-98.098784,45.445845],"type":"Point"}
+  "bbox": [
+    -98.098784,
+    45.445845,
+    -98.098784,
+    45.445845
+],
+  "geometry": {"coordinates":[-98.09878399999999,45.445845],"type":"Point"}
 }

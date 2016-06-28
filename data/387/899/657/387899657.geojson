@@ -2,13 +2,14 @@
   "id": 387899657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.509076,44.410281,-103.509076,44.410281",
     "geom:latitude":44.410281,
     "geom:longitude":-103.509076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387899657,
-    "wof:lastmodified":1449059727,
+    "wof:lastmodified":1467082759,
     "wof:name":"Carlsen-Aldinger Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-103.509076,44.410281,-103.509076,44.410281],
-  "geometry": {"coordinates":[-103.509076,44.410281],"type":"Point"}
+  "bbox": [
+    -103.509076,
+    44.410281,
+    -103.509076,
+    44.410281
+],
+  "geometry": {"coordinates":[-103.50907599999999,44.410281],"type":"Point"}
 }

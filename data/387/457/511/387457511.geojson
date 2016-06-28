@@ -2,13 +2,14 @@
   "id": 387457511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.898417,43.833456,-97.898417,43.833456",
     "geom:latitude":43.833456,
     "geom:longitude":-97.898417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41504 245th St",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387457511,
-    "wof:lastmodified":1449058664,
+    "wof:lastmodified":1467082738,
     "wof:name":"Schulz Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.898417,43.833456,-97.898417,43.833456],
-  "geometry": {"coordinates":[-97.898417,43.833456],"type":"Point"}
+  "bbox": [
+    -97.898417,
+    43.833456,
+    -97.898417,
+    43.833456
+],
+  "geometry": {"coordinates":[-97.89841699999999,43.833456],"type":"Point"}
 }

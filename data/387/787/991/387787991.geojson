@@ -2,13 +2,14 @@
   "id": 387787991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214051,44.362676,-98.214051,44.362676",
     "geom:latitude":44.362676,
     "geom:longitude":-98.214051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387787991,
-    "wof:lastmodified":1449057820,
+    "wof:lastmodified":1467082721,
     "wof:name":"Walker's Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.214051,44.362676,-98.214051,44.362676],
+  "bbox": [
+    -98.214051,
+    44.362676,
+    -98.214051,
+    44.362676
+],
   "geometry": {"coordinates":[-98.214051,44.362676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371084375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715963,43.520601,-96.715963,43.520601",
     "geom:latitude":43.520601,
     "geom:longitude":-96.715963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 E 35th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371084375,
-    "wof:lastmodified":1449049132,
+    "wof:lastmodified":1467082659,
     "wof:name":"Eichel & Assoc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.715963,43.520601,-96.715963,43.520601],
+  "bbox": [
+    -96.715963,
+    43.520601,
+    -96.715963,
+    43.520601
+],
   "geometry": {"coordinates":[-96.715963,43.520601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387111705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.285131,44.061173,-103.285131,44.061173",
     "geom:latitude":44.061173,
     "geom:longitude":-103.285131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4118 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387111705,
-    "wof:lastmodified":1449060041,
+    "wof:lastmodified":1467082766,
     "wof:name":"Philly Teds",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.285131,44.061173,-103.285131,44.061173],
-  "geometry": {"coordinates":[-103.285131,44.061173],"type":"Point"}
+  "bbox": [
+    -103.285131,
+    44.061173,
+    -103.285131,
+    44.061173
+],
+  "geometry": {"coordinates":[-103.28513100000001,44.061173],"type":"Point"}
 }

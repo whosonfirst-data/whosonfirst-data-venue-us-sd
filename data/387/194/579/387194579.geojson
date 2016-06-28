@@ -2,13 +2,14 @@
   "id": 387194579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71131,43.733645,-96.71131,43.733645",
     "geom:latitude":43.733645,
     "geom:longitude":-96.71131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25143 475th Ave",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":387194579,
-    "wof:lastmodified":1449059374,
+    "wof:lastmodified":1467082752,
     "wof:name":"Krogstad Brothers Farms",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.71131,43.733645,-96.71131,43.733645],
+  "bbox": [
+    -96.71131,
+    43.733645,
+    -96.71131,
+    43.733645
+],
   "geometry": {"coordinates":[-96.71131,43.733645],"type":"Point"}
 }

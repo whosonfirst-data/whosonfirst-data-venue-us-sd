@@ -2,13 +2,14 @@
   "id": 387198633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.615812,43.564038,-96.615812,43.564038",
     "geom:latitude":43.564038,
     "geom:longitude":-96.615812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8506 E Saddle Creek Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387198633,
-    "wof:lastmodified":1449057479,
+    "wof:lastmodified":1467082714,
     "wof:name":"Jones RE Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.615812,43.564038,-96.615812,43.564038],
-  "geometry": {"coordinates":[-96.615812,43.564038],"type":"Point"}
+  "bbox": [
+    -96.615812,
+    43.564038,
+    -96.615812,
+    43.564038
+],
+  "geometry": {"coordinates":[-96.61581200000001,43.564038],"type":"Point"}
 }

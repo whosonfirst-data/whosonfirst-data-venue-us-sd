@@ -2,13 +2,14 @@
   "id": 387010583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.196253,44.835317,-98.196253,44.835317",
     "geom:latitude":44.835317,
     "geom:longitude":-98.196253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40106 176th St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387010583,
-    "wof:lastmodified":1449058482,
+    "wof:lastmodified":1467082734,
     "wof:name":"Decker Farm Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beef"
     ]
 },
-  "bbox": [-98.196253,44.835317,-98.196253,44.835317],
+  "bbox": [
+    -98.196253,
+    44.835317,
+    -98.196253,
+    44.835317
+],
   "geometry": {"coordinates":[-98.196253,44.835317],"type":"Point"}
 }

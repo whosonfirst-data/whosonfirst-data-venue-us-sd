@@ -2,13 +2,14 @@
   "id": 387310219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790835,43.54828,-96.790835,43.54828",
     "geom:latitude":43.54828,
     "geom:longitude":-96.790835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387310219,
-    "wof:lastmodified":1449058448,
+    "wof:lastmodified":1467082734,
     "wof:name":"Friessen Truck Shed",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-96.790835,43.54828,-96.790835,43.54828],
+  "bbox": [
+    -96.790835,
+    43.54828,
+    -96.790835,
+    43.54828
+],
   "geometry": {"coordinates":[-96.790835,43.54828],"type":"Point"}
 }

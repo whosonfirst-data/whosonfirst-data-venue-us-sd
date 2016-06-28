@@ -2,13 +2,14 @@
   "id": 403836563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.130983,44.002997,-98.130983,44.002997",
     "geom:latitude":44.002997,
     "geom:longitude":-98.130983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23382 404th Ave",
     "sg:city":"Artesian",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403836563,
-    "wof:lastmodified":1449055498,
+    "wof:lastmodified":1467082681,
     "wof:name":"Henry Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.130983,44.002997,-98.130983,44.002997],
+  "bbox": [
+    -98.130983,
+    44.002997,
+    -98.130983,
+    44.002997
+],
   "geometry": {"coordinates":[-98.130983,44.002997],"type":"Point"}
 }

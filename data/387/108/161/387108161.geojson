@@ -2,13 +2,14 @@
   "id": 387108161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.669015,43.560227,-96.669015,43.560227",
     "geom:latitude":43.560227,
     "geom:longitude":-96.669015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Pikes Peak Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387108161,
-    "wof:lastmodified":1449056187,
+    "wof:lastmodified":1467082688,
     "wof:name":"Soukup Services",
     "wof:parent_id":85808761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.669015,43.560227,-96.669015,43.560227],
+  "bbox": [
+    -96.669015,
+    43.560227,
+    -96.669015,
+    43.560227
+],
   "geometry": {"coordinates":[-96.669015,43.560227],"type":"Point"}
 }

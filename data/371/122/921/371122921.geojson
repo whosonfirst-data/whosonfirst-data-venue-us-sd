@@ -2,13 +2,14 @@
   "id": 371122921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.516297,44.419261,-103.516297,44.419261",
     "geom:latitude":44.419261,
     "geom:longitude":-103.516297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Jackson St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371122921,
-    "wof:lastmodified":1449049645,
+    "wof:lastmodified":1467082666,
     "wof:name":"Old Stone House B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-103.516297,44.419261,-103.516297,44.419261],
-  "geometry": {"coordinates":[-103.516297,44.419261],"type":"Point"}
+  "bbox": [
+    -103.516297,
+    44.419261,
+    -103.516297,
+    44.419261
+],
+  "geometry": {"coordinates":[-103.51629699999999,44.419261],"type":"Point"}
 }

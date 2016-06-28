@@ -2,13 +2,14 @@
   "id": 387850363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.471161,43.79793,-96.471161,43.79793",
     "geom:latitude":43.79793,
     "geom:longitude":-96.471161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24750 487th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387850363,
-    "wof:lastmodified":1449058308,
+    "wof:lastmodified":1467082731,
     "wof:name":"Ron Neels Trucking",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.471161,43.79793,-96.471161,43.79793],
+  "bbox": [
+    -96.471161,
+    43.79793,
+    -96.471161,
+    43.79793
+],
   "geometry": {"coordinates":[-96.471161,43.79793],"type":"Point"}
 }

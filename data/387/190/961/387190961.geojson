@@ -2,13 +2,14 @@
   "id": 387190961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.171794,43.329017,-97.171794,43.329017",
     "geom:latitude":43.329017,
     "geom:longitude":-97.171794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45104 280th St",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387190961,
-    "wof:lastmodified":1449059681,
+    "wof:lastmodified":1467082758,
     "wof:name":"Double d Trailer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.171794,43.329017,-97.171794,43.329017],
-  "geometry": {"coordinates":[-97.171794,43.329017],"type":"Point"}
+  "bbox": [
+    -97.171794,
+    43.329017,
+    -97.171794,
+    43.329017
+],
+  "geometry": {"coordinates":[-97.17179400000001,43.329017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403721979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.507043,44.864375,-98.507043,44.864375",
     "geom:latitude":44.864375,
     "geom:longitude":-98.507043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17411 Railroad St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403721979,
-    "wof:lastmodified":1449055963,
+    "wof:lastmodified":1467082684,
     "wof:name":"Olson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.507043,44.864375,-98.507043,44.864375],
+  "bbox": [
+    -98.507043,
+    44.864375,
+    -98.507043,
+    44.864375
+],
   "geometry": {"coordinates":[-98.507043,44.864375],"type":"Point"}
 }

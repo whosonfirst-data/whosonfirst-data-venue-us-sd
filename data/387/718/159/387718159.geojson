@@ -2,13 +2,14 @@
   "id": 387718159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.45789,44.30744,-98.45789,44.30744",
     "geom:latitude":44.30744,
     "geom:longitude":-98.45789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21236 US Hwy 281",
     "sg:city":"Wolsey",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387718159,
-    "wof:lastmodified":1449056917,
+    "wof:lastmodified":1467082703,
     "wof:name":"Chuck Sprecher Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.45789,44.30744,-98.45789,44.30744],
-  "geometry": {"coordinates":[-98.45789,44.30744],"type":"Point"}
+  "bbox": [
+    -98.45789,
+    44.30744,
+    -98.45789,
+    44.30744
+],
+  "geometry": {"coordinates":[-98.45789000000001,44.30744],"type":"Point"}
 }

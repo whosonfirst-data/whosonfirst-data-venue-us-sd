@@ -2,13 +2,14 @@
   "id": 387835689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.456484,45.203183,-96.456484,45.203183",
     "geom:latitude":45.203183,
     "geom:longitude":-96.456484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15040 487th Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387835689,
-    "wof:lastmodified":1449056649,
+    "wof:lastmodified":1467082697,
     "wof:name":"Neil Pinkert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cash"
     ]
 },
-  "bbox": [-96.456484,45.203183,-96.456484,45.203183],
+  "bbox": [
+    -96.456484,
+    45.203183,
+    -96.456484,
+    45.203183
+],
   "geometry": {"coordinates":[-96.456484,45.203183],"type":"Point"}
 }

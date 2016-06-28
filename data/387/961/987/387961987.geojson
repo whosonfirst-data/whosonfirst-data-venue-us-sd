@@ -2,13 +2,14 @@
   "id": 387961987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.090551,45.462719,-99.090551,45.462719",
     "geom:latitude":45.462719,
     "geom:longitude":-99.090551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35482 133rd St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387961987,
-    "wof:lastmodified":1449059847,
+    "wof:lastmodified":1467082761,
     "wof:name":"Mark Volk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-99.090551,45.462719,-99.090551,45.462719],
+  "bbox": [
+    -99.090551,
+    45.462719,
+    -99.090551,
+    45.462719
+],
   "geometry": {"coordinates":[-99.090551,45.462719],"type":"Point"}
 }

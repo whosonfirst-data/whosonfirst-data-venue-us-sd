@@ -2,13 +2,14 @@
   "id": 371177773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387428,43.726282,-97.387428,43.726282",
     "geom:latitude":43.726282,
     "geom:longitude":-97.387428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371177773,
-    "wof:lastmodified":1449050134,
+    "wof:lastmodified":1467082673,
     "wof:name":"Randy Sabers & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.387428,43.726282,-97.387428,43.726282],
+  "bbox": [
+    -97.387428,
+    43.726282,
+    -97.387428,
+    43.726282
+],
   "geometry": {"coordinates":[-97.387428,43.726282],"type":"Point"}
 }

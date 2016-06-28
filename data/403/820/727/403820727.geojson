@@ -2,13 +2,14 @@
   "id": 403820727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.836462,43.390206,-98.836462,43.390206",
     "geom:latitude":43.390206,
     "geom:longitude":-98.836462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Dakota Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403820727,
-    "wof:lastmodified":1449055332,
+    "wof:lastmodified":1467082680,
     "wof:name":"Slumberland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.836462,43.390206,-98.836462,43.390206],
+  "bbox": [
+    -98.836462,
+    43.390206,
+    -98.836462,
+    43.390206
+],
   "geometry": {"coordinates":[-98.836462,43.390206],"type":"Point"}
 }

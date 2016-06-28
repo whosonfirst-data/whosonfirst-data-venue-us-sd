@@ -2,13 +2,14 @@
   "id": 387808111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.313316,43.458852,-97.313316,43.458852",
     "geom:latitude":43.458852,
     "geom:longitude":-97.313316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44466 271st St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387808111,
-    "wof:lastmodified":1449056301,
+    "wof:lastmodified":1467082690,
     "wof:name":"Vince A Adrian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.313316,43.458852,-97.313316,43.458852],
+  "bbox": [
+    -97.313316,
+    43.458852,
+    -97.313316,
+    43.458852
+],
   "geometry": {"coordinates":[-97.313316,43.458852],"type":"Point"}
 }

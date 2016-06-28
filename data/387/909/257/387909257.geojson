@@ -2,13 +2,14 @@
   "id": 387909257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.930686,43.789063,-96.930686,43.789063",
     "geom:latitude":43.789063,
     "geom:longitude":-96.930686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 S Main Ave",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387909257,
-    "wof:lastmodified":1449058968,
+    "wof:lastmodified":1467082744,
     "wof:name":"Daybreak",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.930686,43.789063,-96.930686,43.789063],
-  "geometry": {"coordinates":[-96.930686,43.789063],"type":"Point"}
+  "bbox": [
+    -96.930686,
+    43.789063,
+    -96.930686,
+    43.789063
+],
+  "geometry": {"coordinates":[-96.93068599999999,43.789063],"type":"Point"}
 }

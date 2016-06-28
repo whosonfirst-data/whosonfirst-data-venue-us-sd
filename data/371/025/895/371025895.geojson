@@ -2,13 +2,14 @@
   "id": 371025895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.949392,43.557982,-96.949392,43.557982",
     "geom:latitude":43.557982,
     "geom:longitude":-96.949392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46306 264th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371025895,
-    "wof:lastmodified":1449049951,
+    "wof:lastmodified":1467082671,
     "wof:name":"R Lee & Co",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-96.949392,43.557982,-96.949392,43.557982],
+  "bbox": [
+    -96.949392,
+    43.557982,
+    -96.949392,
+    43.557982
+],
   "geometry": {"coordinates":[-96.949392,43.557982],"type":"Point"}
 }

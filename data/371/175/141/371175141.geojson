@@ -2,13 +2,14 @@
   "id": 371175141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.86449,44.499147,-103.86449,44.499147",
     "geom:latitude":44.499147,
     "geom:longitude":-103.86449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 N Canyon St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371175141,
-    "wof:lastmodified":1449049781,
+    "wof:lastmodified":1467082668,
     "wof:name":"Redinger Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.86449,44.499147,-103.86449,44.499147],
+  "bbox": [
+    -103.86449,
+    44.499147,
+    -103.86449,
+    44.499147
+],
   "geometry": {"coordinates":[-103.86449,44.499147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387507381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.870001,44.516627,-103.870001,44.516627",
     "geom:latitude":44.516627,
     "geom:longitude":-103.870001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Evans Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387507381,
-    "wof:lastmodified":1449058059,
+    "wof:lastmodified":1467082726,
     "wof:name":"Spearfish Extinguisher Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-103.870001,44.516627,-103.870001,44.516627],
+  "bbox": [
+    -103.870001,
+    44.516627,
+    -103.870001,
+    44.516627
+],
   "geometry": {"coordinates":[-103.870001,44.516627],"type":"Point"}
 }

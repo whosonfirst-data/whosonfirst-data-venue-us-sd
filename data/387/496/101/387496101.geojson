@@ -2,13 +2,14 @@
   "id": 387496101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.619391,44.397923,-96.619391,44.397923",
     "geom:latitude":44.397923,
     "geom:longitude":-96.619391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47987 206th St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387496101,
-    "wof:lastmodified":1449059349,
+    "wof:lastmodified":1467082752,
     "wof:name":"Toby's Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-96.619391,44.397923,-96.619391,44.397923],
-  "geometry": {"coordinates":[-96.619391,44.397923],"type":"Point"}
+  "bbox": [
+    -96.619391,
+    44.397923,
+    -96.619391,
+    44.397923
+],
+  "geometry": {"coordinates":[-96.61939099999999,44.397923],"type":"Point"}
 }

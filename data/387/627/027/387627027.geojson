@@ -2,13 +2,14 @@
   "id": 387627027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.124671,44.918635,-97.124671,44.918635",
     "geom:latitude":44.918635,
     "geom:longitude":-97.124671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Skyline Dr",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387627027,
-    "wof:lastmodified":1449059998,
+    "wof:lastmodified":1467082765,
     "wof:name":"South Dakota Elks Major P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.124671,44.918635,-97.124671,44.918635],
-  "geometry": {"coordinates":[-97.124671,44.918635],"type":"Point"}
+  "bbox": [
+    -97.124671,
+    44.918635,
+    -97.124671,
+    44.918635
+],
+  "geometry": {"coordinates":[-97.12467100000001,44.918635],"type":"Point"}
 }

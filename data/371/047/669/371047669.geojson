@@ -2,13 +2,14 @@
   "id": 371047669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743602,43.514935,-96.743602,43.514935",
     "geom:latitude":43.514935,
     "geom:longitude":-96.743602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371047669,
-    "wof:lastmodified":1449049731,
+    "wof:lastmodified":1467082668,
     "wof:name":"Murschel Dennis Dr",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.743602,43.514935,-96.743602,43.514935],
+  "bbox": [
+    -96.743602,
+    43.514935,
+    -96.743602,
+    43.514935
+],
   "geometry": {"coordinates":[-96.743602,43.514935],"type":"Point"}
 }

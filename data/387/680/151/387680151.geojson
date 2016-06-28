@@ -2,13 +2,14 @@
   "id": 387680151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774029,44.325785,-96.774029,44.325785",
     "geom:latitude":44.325785,
     "geom:longitude":-96.774029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 US Hwy 14 Byp",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387680151,
-    "wof:lastmodified":1449058772,
+    "wof:lastmodified":1467082740,
     "wof:name":"Ramsdell's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "liquefied"
     ]
 },
-  "bbox": [-96.774029,44.325785,-96.774029,44.325785],
+  "bbox": [
+    -96.774029,
+    44.325785,
+    -96.774029,
+    44.325785
+],
   "geometry": {"coordinates":[-96.774029,44.325785],"type":"Point"}
 }

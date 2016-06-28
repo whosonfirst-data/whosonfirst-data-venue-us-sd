@@ -2,13 +2,14 @@
   "id": 387101679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.698226,45.230516,-98.698226,45.230516",
     "geom:latitude":45.230516,
     "geom:longitude":-98.698226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37585 149th St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387101679,
-    "wof:lastmodified":1449058107,
+    "wof:lastmodified":1467082727,
     "wof:name":"Krause Allbee Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-98.698226,45.230516,-98.698226,45.230516],
-  "geometry": {"coordinates":[-98.698226,45.230516],"type":"Point"}
+  "bbox": [
+    -98.698226,
+    45.230516,
+    -98.698226,
+    45.230516
+],
+  "geometry": {"coordinates":[-98.69822600000001,45.230516],"type":"Point"}
 }

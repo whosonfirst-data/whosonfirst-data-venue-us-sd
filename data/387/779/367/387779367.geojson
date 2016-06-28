@@ -2,13 +2,14 @@
   "id": 387779367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.224548,44.365582,-98.224548,44.365582",
     "geom:latitude":44.365582,
     "geom:longitude":-98.224548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 1st St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":387779367,
-    "wof:lastmodified":1449056687,
+    "wof:lastmodified":1467082698,
     "wof:name":"AA Alcoholics Anonymous",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "specialty"
     ]
 },
-  "bbox": [-98.224548,44.365582,-98.224548,44.365582],
+  "bbox": [
+    -98.224548,
+    44.365582,
+    -98.224548,
+    44.365582
+],
   "geometry": {"coordinates":[-98.224548,44.365582],"type":"Point"}
 }

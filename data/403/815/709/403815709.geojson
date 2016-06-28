@@ -2,13 +2,14 @@
   "id": 403815709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.126774,44.125654,-103.126774,44.125654",
     "geom:latitude":44.125654,
     "geom:longitude":-103.126774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14636 Country Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403815709,
-    "wof:lastmodified":1449055275,
+    "wof:lastmodified":1467082680,
     "wof:name":"Wild Horse Embroidery",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-103.126774,44.125654,-103.126774,44.125654],
+  "bbox": [
+    -103.126774,
+    44.125654,
+    -103.126774,
+    44.125654
+],
   "geometry": {"coordinates":[-103.126774,44.125654],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387474959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.876477,44.501704,-103.876477,44.501704",
     "geom:latitude":44.501704,
     "geom:longitude":-103.876477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 College Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387474959,
-    "wof:lastmodified":1449056280,
+    "wof:lastmodified":1467082690,
     "wof:name":"Jensen Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.876477,44.501704,-103.876477,44.501704],
-  "geometry": {"coordinates":[-103.876477,44.501704],"type":"Point"}
+  "bbox": [
+    -103.876477,
+    44.501704,
+    -103.876477,
+    44.501704
+],
+  "geometry": {"coordinates":[-103.87647699999999,44.501704],"type":"Point"}
 }

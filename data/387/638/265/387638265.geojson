@@ -2,13 +2,14 @@
   "id": 387638265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.377409,44.358444,-97.377409,44.358444",
     "geom:latitude":44.358444,
     "geom:longitude":-97.377409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Main Ave S",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387638265,
-    "wof:lastmodified":1449056322,
+    "wof:lastmodified":1467082691,
     "wof:name":"Lake Preston Farm Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [-97.377409,44.358444,-97.377409,44.358444],
+  "bbox": [
+    -97.377409,
+    44.358444,
+    -97.377409,
+    44.358444
+],
   "geometry": {"coordinates":[-97.377409,44.358444],"type":"Point"}
 }

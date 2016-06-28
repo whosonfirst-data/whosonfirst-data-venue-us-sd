@@ -2,13 +2,14 @@
   "id": 387616305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689244,44.760007,-96.689244,44.760007",
     "geom:latitude":44.760007,
     "geom:longitude":-96.689244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 North St",
     "sg:city":"Clear Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387616305,
-    "wof:lastmodified":1449058902,
+    "wof:lastmodified":1467082743,
     "wof:name":"Kevin's Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.689244,44.760007,-96.689244,44.760007],
+  "bbox": [
+    -96.689244,
+    44.760007,
+    -96.689244,
+    44.760007
+],
   "geometry": {"coordinates":[-96.689244,44.760007],"type":"Point"}
 }

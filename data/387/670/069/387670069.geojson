@@ -2,13 +2,14 @@
   "id": 387670069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.939157,45.720427,-98.939157,45.720427",
     "geom:latitude":45.720427,
     "geom:longitude":-98.939157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Sherman St",
     "sg:city":"Leola",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387670069,
-    "wof:lastmodified":1449056675,
+    "wof:lastmodified":1467082698,
     "wof:name":"D & M Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.939157,45.720427,-98.939157,45.720427],
-  "geometry": {"coordinates":[-98.939157,45.720427],"type":"Point"}
+  "bbox": [
+    -98.939157,
+    45.720427,
+    -98.939157,
+    45.720427
+],
+  "geometry": {"coordinates":[-98.93915699999999,45.720427],"type":"Point"}
 }

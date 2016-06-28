@@ -2,13 +2,14 @@
   "id": 371123197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.643092,44.43459,-96.643092,44.43459",
     "geom:latitude":44.43459,
     "geom:longitude":-96.643092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 E Main St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371123197,
-    "wof:lastmodified":1449049319,
+    "wof:lastmodified":1467082662,
     "wof:name":"Jurrens Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-96.643092,44.43459,-96.643092,44.43459],
+  "bbox": [
+    -96.643092,
+    44.43459,
+    -96.643092,
+    44.43459
+],
   "geometry": {"coordinates":[-96.643092,44.43459],"type":"Point"}
 }

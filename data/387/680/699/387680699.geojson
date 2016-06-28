@@ -2,13 +2,14 @@
   "id": 387680699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.200827,44.09657,-103.200827,44.09657",
     "geom:latitude":44.09657,
     "geom:longitude":-103.200827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 E Anamosa St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387680699,
-    "wof:lastmodified":1449058773,
+    "wof:lastmodified":1467082740,
     "wof:name":"LA Crosse Estates Apartments",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-103.200827,44.09657,-103.200827,44.09657],
+  "bbox": [
+    -103.200827,
+    44.09657,
+    -103.200827,
+    44.09657
+],
   "geometry": {"coordinates":[-103.200827,44.09657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387799167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.388976,45.146737,-99.388976,45.146737",
     "geom:latitude":45.146737,
     "geom:longitude":-99.388976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15470 339th Ave",
     "sg:city":"Onaka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387799167,
-    "wof:lastmodified":1449059938,
+    "wof:lastmodified":1467082764,
     "wof:name":"Frank Barondeau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.388976,45.146737,-99.388976,45.146737],
+  "bbox": [
+    -99.388976,
+    45.146737,
+    -99.388976,
+    45.146737
+],
   "geometry": {"coordinates":[-99.388976,45.146737],"type":"Point"}
 }

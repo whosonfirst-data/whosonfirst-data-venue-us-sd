@@ -2,13 +2,14 @@
   "id": 403739715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715353,43.592835,-96.715353,43.592835",
     "geom:latitude":43.592835,
     "geom:longitude":-96.715353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E 52nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403739715,
-    "wof:lastmodified":1449055192,
+    "wof:lastmodified":1467082679,
     "wof:name":"Schwan Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen"
     ]
 },
-  "bbox": [-96.715353,43.592835,-96.715353,43.592835],
-  "geometry": {"coordinates":[-96.715353,43.592835],"type":"Point"}
+  "bbox": [
+    -96.715353,
+    43.592835,
+    -96.715353,
+    43.592835
+],
+  "geometry": {"coordinates":[-96.71535299999999,43.592835],"type":"Point"}
 }

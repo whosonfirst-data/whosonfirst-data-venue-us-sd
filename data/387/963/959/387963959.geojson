@@ -2,13 +2,14 @@
   "id": 387963959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.861297,44.663881,-98.861297,44.663881",
     "geom:latitude":44.663881,
     "geom:longitude":-98.861297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36630 188th St",
     "sg:city":"Saint Lawrence",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387963959,
-    "wof:lastmodified":1449056473,
+    "wof:lastmodified":1467082694,
     "wof:name":"Douglas Simons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.861297,44.663881,-98.861297,44.663881],
-  "geometry": {"coordinates":[-98.861297,44.663881],"type":"Point"}
+  "bbox": [
+    -98.861297,
+    44.663881,
+    -98.861297,
+    44.663881
+],
+  "geometry": {"coordinates":[-98.86129699999999,44.663881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387791291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.294103,43.079871,-98.294103,43.079871",
     "geom:latitude":43.079871,
     "geom:longitude":-98.294103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 2nd St",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387791291,
-    "wof:lastmodified":1449059025,
+    "wof:lastmodified":1467082745,
     "wof:name":"Standing Stone Mazopeh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-98.294103,43.079871,-98.294103,43.079871],
-  "geometry": {"coordinates":[-98.294103,43.079871],"type":"Point"}
+  "bbox": [
+    -98.294103,
+    43.079871,
+    -98.294103,
+    43.079871
+],
+  "geometry": {"coordinates":[-98.29410300000001,43.079871],"type":"Point"}
 }

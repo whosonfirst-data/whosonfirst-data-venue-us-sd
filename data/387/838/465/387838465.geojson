@@ -2,13 +2,14 @@
   "id": 387838465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.651528,43.63871,-96.651528,43.63871",
     "geom:latitude":43.63871,
     "geom:longitude":-96.651528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25854 478th Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387838465,
-    "wof:lastmodified":1449056571,
+    "wof:lastmodified":1467082696,
     "wof:name":"De WITT Homes Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-96.651528,43.63871,-96.651528,43.63871],
+  "bbox": [
+    -96.651528,
+    43.63871,
+    -96.651528,
+    43.63871
+],
   "geometry": {"coordinates":[-96.651528,43.63871],"type":"Point"}
 }

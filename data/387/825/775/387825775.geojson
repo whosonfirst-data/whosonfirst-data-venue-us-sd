@@ -2,13 +2,14 @@
   "id": 387825775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.466105,43.220435,-98.466105,43.220435",
     "geom:latitude":43.220435,
     "geom:longitude":-98.466105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28748 386th Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387825775,
-    "wof:lastmodified":1449056266,
+    "wof:lastmodified":1467082690,
     "wof:name":"Lakeview Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-98.466105,43.220435,-98.466105,43.220435],
+  "bbox": [
+    -98.466105,
+    43.220435,
+    -98.466105,
+    43.220435
+],
   "geometry": {"coordinates":[-98.466105,43.220435],"type":"Point"}
 }

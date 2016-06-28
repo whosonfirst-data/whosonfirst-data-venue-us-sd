@@ -2,13 +2,14 @@
   "id": 387649891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.867738,43.371164,-99.867738,43.371164",
     "geom:latitude":43.371164,
     "geom:longitude":-99.867738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 W 8th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387649891,
-    "wof:lastmodified":1449058705,
+    "wof:lastmodified":1467082739,
     "wof:name":"Vosika Spraying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "crop"
     ]
 },
-  "bbox": [-99.867738,43.371164,-99.867738,43.371164],
+  "bbox": [
+    -99.867738,
+    43.371164,
+    -99.867738,
+    43.371164
+],
   "geometry": {"coordinates":[-99.867738,43.371164],"type":"Point"}
 }

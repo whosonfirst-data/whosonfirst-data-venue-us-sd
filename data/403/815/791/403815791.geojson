@@ -2,13 +2,14 @@
   "id": 403815791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.16208,44.068008,-103.16208,44.068008",
     "geom:latitude":44.068008,
     "geom:longitude":-103.16208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Copperfield Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403815791,
-    "wof:lastmodified":1449055276,
+    "wof:lastmodified":1467082680,
     "wof:name":"Turning Leaf Designs",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.16208,44.068008,-103.16208,44.068008],
+  "bbox": [
+    -103.16208,
+    44.068008,
+    -103.16208,
+    44.068008
+],
   "geometry": {"coordinates":[-103.16208,44.068008],"type":"Point"}
 }

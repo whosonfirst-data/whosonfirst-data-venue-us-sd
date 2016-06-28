@@ -2,13 +2,14 @@
   "id": 403759839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.516939,44.414646,-103.516939,44.414646",
     "geom:latitude":44.414646,
     "geom:longitude":-103.516939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Main St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403759839,
-    "wof:lastmodified":1449055990,
+    "wof:lastmodified":1467082685,
     "wof:name":"Meade County Emergency Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "order"
     ]
 },
-  "bbox": [-103.516939,44.414646,-103.516939,44.414646],
-  "geometry": {"coordinates":[-103.516939,44.414646],"type":"Point"}
+  "bbox": [
+    -103.516939,
+    44.414646,
+    -103.516939,
+    44.414646
+],
+  "geometry": {"coordinates":[-103.51693899999999,44.414646],"type":"Point"}
 }

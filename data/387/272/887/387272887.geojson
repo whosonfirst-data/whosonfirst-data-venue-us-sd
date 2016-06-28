@@ -2,13 +2,14 @@
   "id": 387272887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.623895,43.603241,-97.623895,43.603241",
     "geom:latitude":43.603241,
     "geom:longitude":-97.623895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 N Main St",
     "sg:city":"Emery",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387272887,
-    "wof:lastmodified":1449059658,
+    "wof:lastmodified":1467082758,
     "wof:name":"St Martin's Parish Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.623895,43.603241,-97.623895,43.603241],
+  "bbox": [
+    -97.623895,
+    43.603241,
+    -97.623895,
+    43.603241
+],
   "geometry": {"coordinates":[-97.623895,43.603241],"type":"Point"}
 }

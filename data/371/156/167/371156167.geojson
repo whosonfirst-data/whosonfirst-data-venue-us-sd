@@ -2,13 +2,14 @@
   "id": 371156167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.193286,43.839596,-103.193286,43.839596",
     "geom:latitude":43.839596,
     "geom:longitude":-103.193286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Main St",
     "sg:city":"Pringle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371156167,
-    "wof:lastmodified":1449049248,
+    "wof:lastmodified":1467082661,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.193286,43.839596,-103.193286,43.839596],
+  "bbox": [
+    -103.193286,
+    43.839596,
+    -103.193286,
+    43.839596
+],
   "geometry": {"coordinates":[-103.193286,43.839596],"type":"Point"}
 }

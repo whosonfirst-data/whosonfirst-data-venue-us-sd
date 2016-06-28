@@ -2,13 +2,14 @@
   "id": 403762597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106325,44.891255,-97.106325,44.891255",
     "geom:latitude":44.891255,
     "geom:longitude":-97.106325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 7th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403762597,
-    "wof:lastmodified":1449055557,
+    "wof:lastmodified":1467082682,
     "wof:name":"Ron's Specialty Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.106325,44.891255,-97.106325,44.891255],
+  "bbox": [
+    -97.106325,
+    44.891255,
+    -97.106325,
+    44.891255
+],
   "geometry": {"coordinates":[-97.106325,44.891255],"type":"Point"}
 }

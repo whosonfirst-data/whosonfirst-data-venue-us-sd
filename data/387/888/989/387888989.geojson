@@ -2,13 +2,14 @@
   "id": 387888989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.519239,45.328116,-97.519239,45.328116",
     "geom:latitude":45.328116,
     "geom:longitude":-97.519239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 E 3rd Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387888989,
-    "wof:lastmodified":1449058478,
+    "wof:lastmodified":1467082734,
     "wof:name":"Ackerman Tree Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.519239,45.328116,-97.519239,45.328116],
+  "bbox": [
+    -97.519239,
+    45.328116,
+    -97.519239,
+    45.328116
+],
   "geometry": {"coordinates":[-97.519239,45.328116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387177431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.005247,43.542513,-98.005247,43.542513",
     "geom:latitude":43.542513,
     "geom:longitude":-98.005247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26498 State Hwy 37",
     "sg:city":"Ethan",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387177431,
-    "wof:lastmodified":1449059915,
+    "wof:lastmodified":1467082763,
     "wof:name":"Mike's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "feed"
     ]
 },
-  "bbox": [-98.005247,43.542513,-98.005247,43.542513],
+  "bbox": [
+    -98.005247,
+    43.542513,
+    -98.005247,
+    43.542513
+],
   "geometry": {"coordinates":[-98.005247,43.542513],"type":"Point"}
 }

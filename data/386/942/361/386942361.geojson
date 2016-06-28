@@ -2,13 +2,14 @@
   "id": 386942361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.921392,43.775817,-96.921392,43.775817",
     "geom:latitude":43.775817,
     "geom:longitude":-96.921392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46448 249th St",
     "sg:city":"Colton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386942361,
-    "wof:lastmodified":1449028766,
+    "wof:lastmodified":1467082652,
     "wof:name":"Adkins Drywall LLC",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.921392,43.775817,-96.921392,43.775817],
+  "bbox": [
+    -96.921392,
+    43.775817,
+    -96.921392,
+    43.775817
+],
   "geometry": {"coordinates":[-96.921392,43.775817],"type":"Point"}
 }

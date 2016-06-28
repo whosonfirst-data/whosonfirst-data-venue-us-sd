@@ -2,13 +2,14 @@
   "id": 387767067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.280175,43.368852,-97.280175,43.368852",
     "geom:latitude":43.368852,
     "geom:longitude":-97.280175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27722 446th Ave",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387767067,
-    "wof:lastmodified":1449057182,
+    "wof:lastmodified":1467082708,
     "wof:name":"Marion Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drilling"
     ]
 },
-  "bbox": [-97.280175,43.368852,-97.280175,43.368852],
+  "bbox": [
+    -97.280175,
+    43.368852,
+    -97.280175,
+    43.368852
+],
   "geometry": {"coordinates":[-97.280175,43.368852],"type":"Point"}
 }

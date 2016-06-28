@@ -2,13 +2,14 @@
   "id": 403778127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.228878,44.357232,-98.228878,44.357232",
     "geom:latitude":44.357232,
     "geom:longitude":-98.228878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Arizona Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403778127,
-    "wof:lastmodified":1449054653,
+    "wof:lastmodified":1467082674,
     "wof:name":"Armour Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-98.228878,44.357232,-98.228878,44.357232],
-  "geometry": {"coordinates":[-98.228878,44.357232],"type":"Point"}
+  "bbox": [
+    -98.228878,
+    44.357232,
+    -98.228878,
+    44.357232
+],
+  "geometry": {"coordinates":[-98.22887799999999,44.357232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387718313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7629,43.330078,-96.7629,43.330078",
     "geom:latitude":43.330078,
     "geom:longitude":-96.7629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Main St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387718313,
-    "wof:lastmodified":1449056918,
+    "wof:lastmodified":1467082703,
     "wof:name":"Picture This Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.7629,43.330078,-96.7629,43.330078],
+  "bbox": [
+    -96.7629,
+    43.330078,
+    -96.7629,
+    43.330078
+],
   "geometry": {"coordinates":[-96.7629,43.330078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387903309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.556105,44.390522,-97.556105,44.390522",
     "geom:latitude":44.390522,
     "geom:longitude":-97.556105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Front St NW",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387903309,
-    "wof:lastmodified":1449056338,
+    "wof:lastmodified":1467082691,
     "wof:name":"Vincent Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.556105,44.390522,-97.556105,44.390522],
+  "bbox": [
+    -97.556105,
+    44.390522,
+    -97.556105,
+    44.390522
+],
   "geometry": {"coordinates":[-97.556105,44.390522],"type":"Point"}
 }

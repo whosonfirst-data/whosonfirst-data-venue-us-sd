@@ -2,13 +2,14 @@
   "id": 387381493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.790845,43.507909,-96.790845,43.507909",
     "geom:latitude":43.507909,
     "geom:longitude":-96.790845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5205 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387381493,
-    "wof:lastmodified":1449056418,
+    "wof:lastmodified":1467082693,
     "wof:name":"B & G Acoustical",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.790845,43.507909,-96.790845,43.507909],
+  "bbox": [
+    -96.790845,
+    43.507909,
+    -96.790845,
+    43.507909
+],
   "geometry": {"coordinates":[-96.790845,43.507909],"type":"Point"}
 }

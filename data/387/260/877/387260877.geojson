@@ -2,13 +2,14 @@
   "id": 387260877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.523427,44.880213,-98.523427,44.880213",
     "geom:latitude":44.880213,
     "geom:longitude":-98.523427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W 3rd St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387260877,
-    "wof:lastmodified":1449056735,
+    "wof:lastmodified":1467082699,
     "wof:name":"Armory School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.523427,44.880213,-98.523427,44.880213],
+  "bbox": [
+    -98.523427,
+    44.880213,
+    -98.523427,
+    44.880213
+],
   "geometry": {"coordinates":[-98.523427,44.880213],"type":"Point"}
 }

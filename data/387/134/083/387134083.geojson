@@ -2,13 +2,14 @@
   "id": 387134083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.024897,45.445893,-99.024897,45.445893",
     "geom:latitude":45.445893,
     "geom:longitude":-99.024897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 2nd St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387134083,
-    "wof:lastmodified":1449059706,
+    "wof:lastmodified":1467082759,
     "wof:name":"Edmunds County Equalization",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.024897,45.445893,-99.024897,45.445893],
+  "bbox": [
+    -99.024897,
+    45.445893,
+    -99.024897,
+    45.445893
+],
   "geometry": {"coordinates":[-99.024897,45.445893],"type":"Point"}
 }

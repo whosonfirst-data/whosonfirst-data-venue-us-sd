@@ -2,13 +2,14 @@
   "id": 387188819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.094649,44.892506,-97.094649,44.892506",
     "geom:latitude":44.892506,
     "geom:longitude":-97.094649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 13th St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387188819,
-    "wof:lastmodified":1449057995,
+    "wof:lastmodified":1467082725,
     "wof:name":"Henry Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.094649,44.892506,-97.094649,44.892506],
+  "bbox": [
+    -97.094649,
+    44.892506,
+    -97.094649,
+    44.892506
+],
   "geometry": {"coordinates":[-97.094649,44.892506],"type":"Point"}
 }

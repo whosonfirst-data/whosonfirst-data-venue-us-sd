@@ -2,13 +2,14 @@
   "id": 387398657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.278388,44.046218,-103.278388,44.046218",
     "geom:latitude":44.046218,
     "geom:longitude":-103.278388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3812 Parkridge Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387398657,
-    "wof:lastmodified":1449056414,
+    "wof:lastmodified":1467082693,
     "wof:name":"Fisher Dave Auth Dealer",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-103.278388,44.046218,-103.278388,44.046218],
-  "geometry": {"coordinates":[-103.278388,44.046218],"type":"Point"}
+  "bbox": [
+    -103.278388,
+    44.046218,
+    -103.278388,
+    44.046218
+],
+  "geometry": {"coordinates":[-103.27838800000001,44.046218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371119561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749996,43.553162,-96.749996,43.553162",
     "geom:latitude":43.553162,
     "geom:longitude":-96.749996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 W Burnside St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371119561,
-    "wof:lastmodified":1449049800,
+    "wof:lastmodified":1467082669,
     "wof:name":"Log Cabin",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.749996,43.553162,-96.749996,43.553162],
+  "bbox": [
+    -96.749996,
+    43.553162,
+    -96.749996,
+    43.553162
+],
   "geometry": {"coordinates":[-96.749996,43.553162],"type":"Point"}
 }

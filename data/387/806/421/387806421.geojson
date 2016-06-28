@@ -2,13 +2,14 @@
   "id": 387806421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750807,43.543865,-96.750807,43.543865",
     "geom:latitude":43.543865,
     "geom:longitude":-96.750807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387806421,
-    "wof:lastmodified":1449056102,
+    "wof:lastmodified":1467082687,
     "wof:name":"Coin Connexion",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-96.750807,43.543865,-96.750807,43.543865],
-  "geometry": {"coordinates":[-96.750807,43.543865],"type":"Point"}
+  "bbox": [
+    -96.750807,
+    43.543865,
+    -96.750807,
+    43.543865
+],
+  "geometry": {"coordinates":[-96.75080699999999,43.543865],"type":"Point"}
 }

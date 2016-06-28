@@ -2,13 +2,14 @@
   "id": 387685427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.772448,43.498318,-96.772448,43.498318",
     "geom:latitude":43.498318,
     "geom:longitude":-96.772448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 S Grand Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387685427,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1467082761,
     "wof:name":"Ideal Yardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mower"
     ]
 },
-  "bbox": [-96.772448,43.498318,-96.772448,43.498318],
+  "bbox": [
+    -96.772448,
+    43.498318,
+    -96.772448,
+    43.498318
+],
   "geometry": {"coordinates":[-96.772448,43.498318],"type":"Point"}
 }

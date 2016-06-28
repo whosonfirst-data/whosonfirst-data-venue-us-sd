@@ -2,13 +2,14 @@
   "id": 387423825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.526486,44.870841,-98.526486,44.870841",
     "geom:latitude":44.870841,
     "geom:longitude":-98.526486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 W 5th St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387423825,
-    "wof:lastmodified":1449056733,
+    "wof:lastmodified":1467082699,
     "wof:name":"Lakeside Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "residential"
     ]
 },
-  "bbox": [-98.526486,44.870841,-98.526486,44.870841],
-  "geometry": {"coordinates":[-98.526486,44.870841],"type":"Point"}
+  "bbox": [
+    -98.526486,
+    44.870841,
+    -98.526486,
+    44.870841
+],
+  "geometry": {"coordinates":[-98.52648600000001,44.870841],"type":"Point"}
 }

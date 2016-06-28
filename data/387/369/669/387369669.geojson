@@ -2,13 +2,14 @@
   "id": 387369669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.022938,43.72351,-98.022938,43.72351",
     "geom:latitude":43.72351,
     "geom:longitude":-98.022938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 N Kimball St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387369669,
-    "wof:lastmodified":1449059723,
+    "wof:lastmodified":1467082759,
     "wof:name":"Trina Faas Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.022938,43.72351,-98.022938,43.72351],
+  "bbox": [
+    -98.022938,
+    43.72351,
+    -98.022938,
+    43.72351
+],
   "geometry": {"coordinates":[-98.022938,43.72351],"type":"Point"}
 }

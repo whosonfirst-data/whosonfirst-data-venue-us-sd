@@ -2,13 +2,14 @@
   "id": 386999201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.454053,45.446543,-98.454053,45.446543",
     "geom:latitude":45.446543,
     "geom:longitude":-98.454053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 S Roosevelt St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386999201,
-    "wof:lastmodified":1449028931,
+    "wof:lastmodified":1467082654,
     "wof:name":"First Church of The Nazerene",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-98.454053,45.446543,-98.454053,45.446543],
+  "bbox": [
+    -98.454053,
+    45.446543,
+    -98.454053,
+    45.446543
+],
   "geometry": {"coordinates":[-98.454053,45.446543],"type":"Point"}
 }

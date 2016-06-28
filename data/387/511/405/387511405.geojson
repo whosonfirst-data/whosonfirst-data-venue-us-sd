@@ -2,13 +2,14 @@
   "id": 387511405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.207947,44.342831,-98.207947,44.342831",
     "geom:latitude":44.342831,
     "geom:longitude":-98.207947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 20th St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387511405,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467082722,
     "wof:name":"Arthur Heezen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.207947,44.342831,-98.207947,44.342831],
+  "bbox": [
+    -98.207947,
+    44.342831,
+    -98.207947,
+    44.342831
+],
   "geometry": {"coordinates":[-98.207947,44.342831],"type":"Point"}
 }

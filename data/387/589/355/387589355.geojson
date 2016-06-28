@@ -2,13 +2,14 @@
   "id": 387589355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.299427,44.088216,-103.299427,44.088216",
     "geom:latitude":44.088216,
     "geom:longitude":-103.299427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4805 Pierre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387589355,
-    "wof:lastmodified":1449058140,
+    "wof:lastmodified":1467082728,
     "wof:name":"Environmental Building Systems",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.299427,44.088216,-103.299427,44.088216],
-  "geometry": {"coordinates":[-103.299427,44.088216],"type":"Point"}
+  "bbox": [
+    -103.299427,
+    44.088216,
+    -103.299427,
+    44.088216
+],
+  "geometry": {"coordinates":[-103.29942699999999,44.088216],"type":"Point"}
 }

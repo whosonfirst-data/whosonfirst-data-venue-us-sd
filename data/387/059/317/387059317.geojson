@@ -2,13 +2,14 @@
   "id": 387059317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718708,43.530484,-96.718708,43.530484",
     "geom:latitude":43.530484,
     "geom:longitude":-96.718708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 S Carter Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387059317,
-    "wof:lastmodified":1449057140,
+    "wof:lastmodified":1467082707,
     "wof:name":"Lazy RRSE Buffalo Ranch",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.718708,43.530484,-96.718708,43.530484],
-  "geometry": {"coordinates":[-96.718708,43.530484],"type":"Point"}
+  "bbox": [
+    -96.718708,
+    43.530484,
+    -96.718708,
+    43.530484
+],
+  "geometry": {"coordinates":[-96.71870800000001,43.530484],"type":"Point"}
 }

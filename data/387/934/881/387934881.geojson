@@ -2,13 +2,14 @@
   "id": 387934881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.86114,42.984596,-97.86114,42.984596",
     "geom:latitude":42.984596,
     "geom:longitude":-97.86114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Maple St",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387934881,
-    "wof:lastmodified":1449056303,
+    "wof:lastmodified":1467082691,
     "wof:name":"Critchfield Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.86114,42.984596,-97.86114,42.984596],
-  "geometry": {"coordinates":[-97.86114,42.984596],"type":"Point"}
+  "bbox": [
+    -97.86114,
+    42.984596,
+    -97.86114,
+    42.984596
+],
+  "geometry": {"coordinates":[-97.86114000000001,42.984596],"type":"Point"}
 }

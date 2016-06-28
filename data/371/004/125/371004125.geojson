@@ -2,13 +2,14 @@
   "id": 371004125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.487914,45.463028,-98.487914,45.463028",
     "geom:latitude":45.463028,
     "geom:longitude":-98.487914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 2nd Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371004125,
-    "wof:lastmodified":1449049396,
+    "wof:lastmodified":1467082663,
     "wof:name":"Fidelity Computers",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-98.487914,45.463028,-98.487914,45.463028],
+  "bbox": [
+    -98.487914,
+    45.463028,
+    -98.487914,
+    45.463028
+],
   "geometry": {"coordinates":[-98.487914,45.463028],"type":"Point"}
 }

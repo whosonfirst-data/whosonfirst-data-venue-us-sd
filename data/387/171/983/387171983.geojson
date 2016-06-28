@@ -2,13 +2,14 @@
   "id": 387171983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230201,44.0655,-103.230201,44.0655",
     "geom:latitude":44.0655,
     "geom:longitude":-103.230201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387171983,
-    "wof:lastmodified":1449059936,
+    "wof:lastmodified":1467082764,
     "wof:name":"Breathe EZ Oxygen",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-103.230201,44.0655,-103.230201,44.0655],
-  "geometry": {"coordinates":[-103.230201,44.0655],"type":"Point"}
+  "bbox": [
+    -103.230201,
+    44.0655,
+    -103.230201,
+    44.0655
+],
+  "geometry": {"coordinates":[-103.23020099999999,44.0655],"type":"Point"}
 }

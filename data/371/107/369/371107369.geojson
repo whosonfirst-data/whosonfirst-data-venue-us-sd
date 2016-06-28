@@ -2,13 +2,14 @@
   "id": 371107369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.692541,43.528585,-96.692541,43.528585",
     "geom:latitude":43.528585,
     "geom:longitude":-96.692541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 E Scenic Ct",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371107369,
-    "wof:lastmodified":1449049077,
+    "wof:lastmodified":1467082658,
     "wof:name":"AAA House Painting",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-96.692541,43.528585,-96.692541,43.528585],
-  "geometry": {"coordinates":[-96.692541,43.528585],"type":"Point"}
+  "bbox": [
+    -96.692541,
+    43.528585,
+    -96.692541,
+    43.528585
+],
+  "geometry": {"coordinates":[-96.69254100000001,43.528585],"type":"Point"}
 }

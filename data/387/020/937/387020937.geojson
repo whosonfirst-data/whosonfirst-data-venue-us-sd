@@ -2,13 +2,14 @@
   "id": 387020937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.831978,45.333206,-99.831978,45.333206",
     "geom:latitude":45.333206,
     "geom:longitude":-99.831978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14202 317th Ave",
     "sg:city":"Hoven",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387020937,
-    "wof:lastmodified":1449057879,
+    "wof:lastmodified":1467082722,
     "wof:name":"Reuers Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.831978,45.333206,-99.831978,45.333206],
-  "geometry": {"coordinates":[-99.831978,45.333206],"type":"Point"}
+  "bbox": [
+    -99.831978,
+    45.333206,
+    -99.831978,
+    45.333206
+],
+  "geometry": {"coordinates":[-99.83197800000001,45.333206],"type":"Point"}
 }

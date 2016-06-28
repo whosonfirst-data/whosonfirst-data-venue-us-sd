@@ -2,13 +2,14 @@
   "id": 386949469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.04977,45.665455,-97.04977,45.665455",
     "geom:latitude":45.665455,
     "geom:longitude":-97.04977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Veterans Ave",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":386949469,
-    "wof:lastmodified":1449028826,
+    "wof:lastmodified":1467082653,
     "wof:name":"Davids Furniture and Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.04977,45.665455,-97.04977,45.665455],
+  "bbox": [
+    -97.04977,
+    45.665455,
+    -97.04977,
+    45.665455
+],
   "geometry": {"coordinates":[-97.04977,45.665455],"type":"Point"}
 }

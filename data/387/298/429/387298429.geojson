@@ -2,13 +2,14 @@
   "id": 387298429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807459,44.312825,-96.807459,44.312825",
     "geom:latitude":44.312825,
     "geom:longitude":-96.807459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Wilson Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387298429,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1467082707,
     "wof:name":"Hicks Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "devices"
     ]
 },
-  "bbox": [-96.807459,44.312825,-96.807459,44.312825],
-  "geometry": {"coordinates":[-96.807459,44.312825],"type":"Point"}
+  "bbox": [
+    -96.807459,
+    44.312825,
+    -96.807459,
+    44.312825
+],
+  "geometry": {"coordinates":[-96.80745899999999,44.312825],"type":"Point"}
 }

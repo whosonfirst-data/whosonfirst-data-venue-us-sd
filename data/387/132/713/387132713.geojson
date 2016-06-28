@@ -2,13 +2,14 @@
   "id": 387132713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.058768,45.664492,-97.058768,45.664492",
     "geom:latitude":45.664492,
     "geom:longitude":-97.058768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 6th Ave W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387132713,
-    "wof:lastmodified":1449057965,
+    "wof:lastmodified":1467082724,
     "wof:name":"Steiner Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-97.058768,45.664492,-97.058768,45.664492],
+  "bbox": [
+    -97.058768,
+    45.664492,
+    -97.058768,
+    45.664492
+],
   "geometry": {"coordinates":[-97.058768,45.664492],"type":"Point"}
 }

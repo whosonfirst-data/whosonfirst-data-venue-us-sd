@@ -2,13 +2,14 @@
   "id": 387787927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.299265,44.08227,-103.299265,44.08227",
     "geom:latitude":44.08227,
     "geom:longitude":-103.299265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4902 W Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387787927,
-    "wof:lastmodified":1449057822,
+    "wof:lastmodified":1467082721,
     "wof:name":"Mos Enterprises",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.299265,44.08227,-103.299265,44.08227],
-  "geometry": {"coordinates":[-103.299265,44.08227],"type":"Point"}
+  "bbox": [
+    -103.299265,
+    44.08227,
+    -103.299265,
+    44.08227
+],
+  "geometry": {"coordinates":[-103.29926500000001,44.08227],"type":"Point"}
 }

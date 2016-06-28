@@ -2,13 +2,14 @@
   "id": 387550039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.313744,44.04997,-103.313744,44.04997",
     "geom:latitude":44.04997,
     "geom:longitude":-103.313744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 Magic Canyon Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387550039,
-    "wof:lastmodified":1449058170,
+    "wof:lastmodified":1467082728,
     "wof:name":"Sitting Bull Crystal Cave",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "convention"
     ]
 },
-  "bbox": [-103.313744,44.04997,-103.313744,44.04997],
+  "bbox": [
+    -103.313744,
+    44.04997,
+    -103.313744,
+    44.04997
+],
   "geometry": {"coordinates":[-103.313744,44.04997],"type":"Point"}
 }

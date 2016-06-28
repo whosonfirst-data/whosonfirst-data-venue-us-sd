@@ -2,13 +2,14 @@
   "id": 387837061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721311,43.573949,-96.721311,43.573949",
     "geom:latitude":43.573949,
     "geom:longitude":-96.721311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 N 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387837061,
-    "wof:lastmodified":1449056696,
+    "wof:lastmodified":1467082698,
     "wof:name":"Peska Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.721311,43.573949,-96.721311,43.573949],
+  "bbox": [
+    -96.721311,
+    43.573949,
+    -96.721311,
+    43.573949
+],
   "geometry": {"coordinates":[-96.721311,43.573949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371060347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.131859,44.915133,-97.131859,44.915133",
     "geom:latitude":44.915133,
     "geom:longitude":-97.131859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 10th St NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371060347,
-    "wof:lastmodified":1449050043,
+    "wof:lastmodified":1467082672,
     "wof:name":"Codington County Hwy Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.131859,44.915133,-97.131859,44.915133],
-  "geometry": {"coordinates":[-97.131859,44.915133],"type":"Point"}
+  "bbox": [
+    -97.131859,
+    44.915133,
+    -97.131859,
+    44.915133
+],
+  "geometry": {"coordinates":[-97.13185900000001,44.915133],"type":"Point"}
 }

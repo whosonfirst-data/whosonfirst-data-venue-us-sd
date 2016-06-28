@@ -2,13 +2,14 @@
   "id": 387763153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.479228,45.462115,-98.479228,45.462115",
     "geom:latitude":45.462115,
     "geom:longitude":-98.479228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S State St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387763153,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1467082763,
     "wof:name":"Northern Pt & Ot Clinic LTD",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-98.479228,45.462115,-98.479228,45.462115],
-  "geometry": {"coordinates":[-98.479228,45.462115],"type":"Point"}
+  "bbox": [
+    -98.479228,
+    45.462115,
+    -98.479228,
+    45.462115
+],
+  "geometry": {"coordinates":[-98.47922800000001,45.462115],"type":"Point"}
 }

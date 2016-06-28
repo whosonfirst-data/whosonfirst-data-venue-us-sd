@@ -2,13 +2,14 @@
   "id": 370976951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214122,44.377863,-98.214122,44.377863",
     "geom:latitude":44.377863,
     "geom:longitude":-98.214122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370976951,
-    "wof:lastmodified":1449030483,
+    "wof:lastmodified":1467082656,
     "wof:name":"Marko Steel Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "warehouse"
     ]
 },
-  "bbox": [-98.214122,44.377863,-98.214122,44.377863],
+  "bbox": [
+    -98.214122,
+    44.377863,
+    -98.214122,
+    44.377863
+],
   "geometry": {"coordinates":[-98.214122,44.377863],"type":"Point"}
 }

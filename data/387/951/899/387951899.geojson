@@ -2,13 +2,14 @@
   "id": 387951899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229855,44.083896,-103.229855,44.083896",
     "geom:latitude":44.083896,
     "geom:longitude":-103.229855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387951899,
-    "wof:lastmodified":1449056288,
+    "wof:lastmodified":1467082690,
     "wof:name":"Pauly's Sub Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-103.229855,44.083896,-103.229855,44.083896],
+  "bbox": [
+    -103.229855,
+    44.083896,
+    -103.229855,
+    44.083896
+],
   "geometry": {"coordinates":[-103.229855,44.083896],"type":"Point"}
 }

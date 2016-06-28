@@ -2,13 +2,14 @@
   "id": 387270751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.433764,45.542562,-100.433764,45.542562",
     "geom:latitude":45.542562,
     "geom:longitude":-100.433764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 10th St E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387270751,
-    "wof:lastmodified":1449056774,
+    "wof:lastmodified":1467082700,
     "wof:name":"Mobridge Public School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.433764,45.542562,-100.433764,45.542562],
+  "bbox": [
+    -100.433764,
+    45.542562,
+    -100.433764,
+    45.542562
+],
   "geometry": {"coordinates":[-100.433764,45.542562],"type":"Point"}
 }

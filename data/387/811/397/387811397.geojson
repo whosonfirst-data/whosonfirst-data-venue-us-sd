@@ -2,13 +2,14 @@
   "id": 387811397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.518506,44.875872,-98.518506,44.875872",
     "geom:latitude":44.875872,
     "geom:longitude":-98.518506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 E 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387811397,
-    "wof:lastmodified":1449057934,
+    "wof:lastmodified":1467082724,
     "wof:name":"Redfield Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.518506,44.875872,-98.518506,44.875872],
+  "bbox": [
+    -98.518506,
+    44.875872,
+    -98.518506,
+    44.875872
+],
   "geometry": {"coordinates":[-98.518506,44.875872],"type":"Point"}
 }

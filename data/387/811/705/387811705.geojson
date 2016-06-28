@@ -2,13 +2,14 @@
   "id": 387811705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.217433,44.079431,-103.217433,44.079431",
     "geom:latitude":44.079431,
     "geom:longitude":-103.217433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387811705,
-    "wof:lastmodified":1449057936,
+    "wof:lastmodified":1467082724,
     "wof:name":"Clinical Psychology Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-103.217433,44.079431,-103.217433,44.079431],
+  "bbox": [
+    -103.217433,
+    44.079431,
+    -103.217433,
+    44.079431
+],
   "geometry": {"coordinates":[-103.217433,44.079431],"type":"Point"}
 }

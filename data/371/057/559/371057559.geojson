@@ -2,13 +2,14 @@
   "id": 371057559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.263557,44.062224,-103.263557,44.062224",
     "geom:latitude":44.062224,
     "geom:longitude":-103.263557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Lockwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371057559,
-    "wof:lastmodified":1449049541,
+    "wof:lastmodified":1467082665,
     "wof:name":"Goodhue Cheri Mary Kay",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-103.263557,44.062224,-103.263557,44.062224],
-  "geometry": {"coordinates":[-103.263557,44.062224],"type":"Point"}
+  "bbox": [
+    -103.263557,
+    44.062224,
+    -103.263557,
+    44.062224
+],
+  "geometry": {"coordinates":[-103.26355700000001,44.062224],"type":"Point"}
 }

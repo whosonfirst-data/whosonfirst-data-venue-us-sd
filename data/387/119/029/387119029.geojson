@@ -2,13 +2,14 @@
   "id": 387119029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.229331,44.371121,-98.229331,44.371121",
     "geom:latitude":44.371121,
     "geom:longitude":-98.229331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Arizona Ave NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387119029,
-    "wof:lastmodified":1449058825,
+    "wof:lastmodified":1467082741,
     "wof:name":"Huron Custom Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-98.229331,44.371121,-98.229331,44.371121],
+  "bbox": [
+    -98.229331,
+    44.371121,
+    -98.229331,
+    44.371121
+],
   "geometry": {"coordinates":[-98.229331,44.371121],"type":"Point"}
 }

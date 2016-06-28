@@ -2,13 +2,14 @@
   "id": 387833455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.4852,45.474676,-98.4852,45.474676",
     "geom:latitude":45.474676,
     "geom:longitude":-98.4852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 N Washington St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387833455,
-    "wof:lastmodified":1449056595,
+    "wof:lastmodified":1467082696,
     "wof:name":"Integrity Inspections",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.4852,45.474676,-98.4852,45.474676],
-  "geometry": {"coordinates":[-98.4852,45.474676],"type":"Point"}
+  "bbox": [
+    -98.4852,
+    45.474676,
+    -98.4852,
+    45.474676
+],
+  "geometry": {"coordinates":[-98.48520000000001,45.474676],"type":"Point"}
 }

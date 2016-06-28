@@ -2,13 +2,14 @@
   "id": 387102981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.797002,44.292376,-96.797002,44.292376",
     "geom:latitude":44.292376,
     "geom:longitude":-96.797002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387102981,
-    "wof:lastmodified":1449059635,
+    "wof:lastmodified":1467082757,
     "wof:name":"Security Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-96.797002,44.292376,-96.797002,44.292376],
-  "geometry": {"coordinates":[-96.797002,44.292376],"type":"Point"}
+  "bbox": [
+    -96.797002,
+    44.292376,
+    -96.797002,
+    44.292376
+],
+  "geometry": {"coordinates":[-96.79700200000001,44.292376],"type":"Point"}
 }

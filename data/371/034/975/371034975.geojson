@@ -2,13 +2,14 @@
   "id": 371034975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71984,43.558293,-96.71984,43.558293",
     "geom:latitude":43.558293,
     "geom:longitude":-96.71984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Weber Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371034975,
-    "wof:lastmodified":1449049144,
+    "wof:lastmodified":1467082659,
     "wof:name":"Elston Manufacturing Inc",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.71984,43.558293,-96.71984,43.558293],
+  "bbox": [
+    -96.71984,
+    43.558293,
+    -96.71984,
+    43.558293
+],
   "geometry": {"coordinates":[-96.71984,43.558293],"type":"Point"}
 }

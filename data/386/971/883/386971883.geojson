@@ -2,13 +2,14 @@
   "id": 386971883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.792756,43.529272,-96.792756,43.529272",
     "geom:latitude":43.529272,
     "geom:longitude":-96.792756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 W 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386971883,
-    "wof:lastmodified":1449028788,
+    "wof:lastmodified":1467082652,
     "wof:name":"Bentwood Manor",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.792756,43.529272,-96.792756,43.529272],
+  "bbox": [
+    -96.792756,
+    43.529272,
+    -96.792756,
+    43.529272
+],
   "geometry": {"coordinates":[-96.792756,43.529272],"type":"Point"}
 }

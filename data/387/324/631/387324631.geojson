@@ -2,13 +2,14 @@
   "id": 387324631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.12423,45.034965,-99.12423,45.034965",
     "geom:latitude":45.034965,
     "geom:longitude":-99.12423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Main St",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387324631,
-    "wof:lastmodified":1449058321,
+    "wof:lastmodified":1467082731,
     "wof:name":"Styles By Stacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.12423,45.034965,-99.12423,45.034965],
+  "bbox": [
+    -99.12423,
+    45.034965,
+    -99.12423,
+    45.034965
+],
   "geometry": {"coordinates":[-99.12423,45.034965],"type":"Point"}
 }

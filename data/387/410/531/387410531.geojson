@@ -2,13 +2,14 @@
   "id": 387410531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.510823,44.415576,-103.510823,44.415576",
     "geom:latitude":44.415576,
     "geom:longitude":-103.510823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Lazelle St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387410531,
-    "wof:lastmodified":1449056169,
+    "wof:lastmodified":1467082688,
     "wof:name":"Side Hack Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-103.510823,44.415576,-103.510823,44.415576],
+  "bbox": [
+    -103.510823,
+    44.415576,
+    -103.510823,
+    44.415576
+],
   "geometry": {"coordinates":[-103.510823,44.415576],"type":"Point"}
 }

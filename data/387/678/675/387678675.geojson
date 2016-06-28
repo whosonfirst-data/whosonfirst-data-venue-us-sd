@@ -2,13 +2,14 @@
   "id": 387678675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.238403,44.080882,-103.238403,44.080882",
     "geom:latitude":44.080882,
     "geom:longitude":-103.238403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 12th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387678675,
-    "wof:lastmodified":1449057938,
+    "wof:lastmodified":1467082724,
     "wof:name":"Skyline Engineering L LC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-103.238403,44.080882,-103.238403,44.080882],
-  "geometry": {"coordinates":[-103.238403,44.080882],"type":"Point"}
+  "bbox": [
+    -103.238403,
+    44.080882,
+    -103.238403,
+    44.080882
+],
+  "geometry": {"coordinates":[-103.23840300000001,44.080882],"type":"Point"}
 }

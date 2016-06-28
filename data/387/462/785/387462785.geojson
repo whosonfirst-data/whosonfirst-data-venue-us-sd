@@ -2,13 +2,14 @@
   "id": 387462785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.492079,43.63379,-96.492079,43.63379",
     "geom:latitude":43.63379,
     "geom:longitude":-96.492079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25879 486th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387462785,
-    "wof:lastmodified":1449059772,
+    "wof:lastmodified":1467082760,
     "wof:name":"Mark Liester",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.492079,43.63379,-96.492079,43.63379],
+  "bbox": [
+    -96.492079,
+    43.63379,
+    -96.492079,
+    43.63379
+],
   "geometry": {"coordinates":[-96.492079,43.63379],"type":"Point"}
 }

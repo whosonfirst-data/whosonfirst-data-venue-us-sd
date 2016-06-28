@@ -2,13 +2,14 @@
   "id": 387605555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856403,43.377584,-99.856403,43.377584",
     "geom:latitude":43.377584,
     "geom:longitude":-99.856403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 E 1st St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387605555,
-    "wof:lastmodified":1449057954,
+    "wof:lastmodified":1467082724,
     "wof:name":"Sd State Brand Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-99.856403,43.377584,-99.856403,43.377584],
+  "bbox": [
+    -99.856403,
+    43.377584,
+    -99.856403,
+    43.377584
+],
   "geometry": {"coordinates":[-99.856403,43.377584],"type":"Point"}
 }

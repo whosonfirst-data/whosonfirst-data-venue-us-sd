@@ -2,13 +2,14 @@
   "id": 387491437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.330802,43.812142,-99.330802,43.812142",
     "geom:latitude":43.812142,
     "geom:longitude":-99.330802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 W Beebe Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387491437,
-    "wof:lastmodified":1449056051,
+    "wof:lastmodified":1467082686,
     "wof:name":"Vista Business Svc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-99.330802,43.812142,-99.330802,43.812142],
-  "geometry": {"coordinates":[-99.330802,43.812142],"type":"Point"}
+  "bbox": [
+    -99.330802,
+    43.812142,
+    -99.330802,
+    43.812142
+],
+  "geometry": {"coordinates":[-99.33080200000001,43.812142],"type":"Point"}
 }

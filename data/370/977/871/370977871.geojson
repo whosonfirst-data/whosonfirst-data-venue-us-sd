@@ -2,13 +2,14 @@
   "id": 370977871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798228,44.258152,-96.798228,44.258152",
     "geom:latitude":44.258152,
     "geom:longitude":-96.798228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4023 Main Ave S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370977871,
-    "wof:lastmodified":1449032560,
+    "wof:lastmodified":1467082658,
     "wof:name":"Dan Foster Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.798228,44.258152,-96.798228,44.258152],
-  "geometry": {"coordinates":[-96.798228,44.258152],"type":"Point"}
+  "bbox": [
+    -96.798228,
+    44.258152,
+    -96.798228,
+    44.258152
+],
+  "geometry": {"coordinates":[-96.79822799999999,44.258152],"type":"Point"}
 }

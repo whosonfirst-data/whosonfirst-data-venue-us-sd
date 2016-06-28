@@ -2,13 +2,14 @@
   "id": 387864857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234536,44.353009,-98.234536,44.353009",
     "geom:latitude":44.353009,
     "geom:longitude":-98.234536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Lincoln Ave SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387864857,
-    "wof:lastmodified":1449059966,
+    "wof:lastmodified":1467082764,
     "wof:name":"Jim & Tim's Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.234536,44.353009,-98.234536,44.353009],
-  "geometry": {"coordinates":[-98.234536,44.353009],"type":"Point"}
+  "bbox": [
+    -98.234536,
+    44.353009,
+    -98.234536,
+    44.353009
+],
+  "geometry": {"coordinates":[-98.23453600000001,44.353009],"type":"Point"}
 }

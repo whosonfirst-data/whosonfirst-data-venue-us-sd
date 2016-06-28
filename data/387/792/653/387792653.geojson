@@ -2,13 +2,14 @@
   "id": 387792653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.498914,45.447639,-98.498914,45.447639",
     "geom:latitude":45.447639,
     "geom:longitude":-98.498914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 S 8th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387792653,
-    "wof:lastmodified":1449056914,
+    "wof:lastmodified":1467082703,
     "wof:name":"Hales Ready Mix",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "facility"
     ]
 },
-  "bbox": [-98.498914,45.447639,-98.498914,45.447639],
+  "bbox": [
+    -98.498914,
+    45.447639,
+    -98.498914,
+    45.447639
+],
   "geometry": {"coordinates":[-98.498914,45.447639],"type":"Point"}
 }

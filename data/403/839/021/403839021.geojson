@@ -2,13 +2,14 @@
   "id": 403839021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.335693,44.367995,-100.335693,44.367995",
     "geom:latitude":44.367995,
     "geom:longitude":-100.335693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 N Madison Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403839021,
-    "wof:lastmodified":1449055457,
+    "wof:lastmodified":1467082681,
     "wof:name":"Trinity Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.335693,44.367995,-100.335693,44.367995],
-  "geometry": {"coordinates":[-100.335693,44.367995],"type":"Point"}
+  "bbox": [
+    -100.335693,
+    44.367995,
+    -100.335693,
+    44.367995
+],
+  "geometry": {"coordinates":[-100.33569300000001,44.367995],"type":"Point"}
 }

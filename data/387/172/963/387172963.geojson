@@ -2,13 +2,14 @@
   "id": 387172963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.387421,43.725878,-97.387421,43.725878",
     "geom:latitude":43.725878,
     "geom:longitude":-97.387421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 N Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387172963,
-    "wof:lastmodified":1449057635,
+    "wof:lastmodified":1467082717,
     "wof:name":"Cheeseman Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.387421,43.725878,-97.387421,43.725878],
+  "bbox": [
+    -97.387421,
+    43.725878,
+    -97.387421,
+    43.725878
+],
   "geometry": {"coordinates":[-97.387421,43.725878],"type":"Point"}
 }

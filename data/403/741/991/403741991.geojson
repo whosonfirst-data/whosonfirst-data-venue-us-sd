@@ -2,13 +2,14 @@
   "id": 403741991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859283,44.489923,-103.859283,44.489923",
     "geom:latitude":44.489923,
     "geom:longitude":-103.859283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 W Illinois St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403741991,
-    "wof:lastmodified":1449054696,
+    "wof:lastmodified":1467082675,
     "wof:name":"DMW Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.859283,44.489923,-103.859283,44.489923],
+  "bbox": [
+    -103.859283,
+    44.489923,
+    -103.859283,
+    44.489923
+],
   "geometry": {"coordinates":[-103.859283,44.489923],"type":"Point"}
 }

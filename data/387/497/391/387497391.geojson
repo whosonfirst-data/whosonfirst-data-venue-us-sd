@@ -2,13 +2,14 @@
   "id": 387497391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.598421,45.45173,-98.598421,45.45173",
     "geom:latitude":45.45173,
     "geom:longitude":-98.598421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13351 382nd Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387497391,
-    "wof:lastmodified":1449059869,
+    "wof:lastmodified":1467082762,
     "wof:name":"Eddie Grote",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.598421,45.45173,-98.598421,45.45173],
+  "bbox": [
+    -98.598421,
+    45.45173,
+    -98.598421,
+    45.45173
+],
   "geometry": {"coordinates":[-98.598421,45.45173],"type":"Point"}
 }

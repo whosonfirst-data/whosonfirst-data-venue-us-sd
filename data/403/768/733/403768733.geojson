@@ -2,13 +2,14 @@
   "id": 403768733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.264749,43.709721,-98.264749,43.709721",
     "geom:latitude":43.709721,
     "geom:longitude":-98.264749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W Railroad St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403768733,
-    "wof:lastmodified":1449055142,
+    "wof:lastmodified":1467082679,
     "wof:name":"Newt's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-98.264749,43.709721,-98.264749,43.709721],
-  "geometry": {"coordinates":[-98.264749,43.709721],"type":"Point"}
+  "bbox": [
+    -98.264749,
+    43.709721,
+    -98.264749,
+    43.709721
+],
+  "geometry": {"coordinates":[-98.26474899999999,43.709721],"type":"Point"}
 }

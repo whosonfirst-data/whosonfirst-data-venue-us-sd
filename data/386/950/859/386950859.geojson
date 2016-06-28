@@ -2,13 +2,14 @@
   "id": 386950859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112878,44.900115,-97.112878,44.900115",
     "geom:latitude":44.900115,
     "geom:longitude":-97.112878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":386950859,
-    "wof:lastmodified":1449028754,
+    "wof:lastmodified":1467082651,
     "wof:name":"Alpha Omega Computer Elect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.112878,44.900115,-97.112878,44.900115],
-  "geometry": {"coordinates":[-97.112878,44.900115],"type":"Point"}
+  "bbox": [
+    -97.112878,
+    44.900115,
+    -97.112878,
+    44.900115
+],
+  "geometry": {"coordinates":[-97.11287799999999,44.900115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387593337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.292941,44.043419,-103.292941,44.043419",
     "geom:latitude":44.043419,
     "geom:longitude":-103.292941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 Park Ridge Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387593337,
-    "wof:lastmodified":1449058633,
+    "wof:lastmodified":1467082737,
     "wof:name":"Womens Ob/Gyn",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-103.292941,44.043419,-103.292941,44.043419],
+  "bbox": [
+    -103.292941,
+    44.043419,
+    -103.292941,
+    44.043419
+],
   "geometry": {"coordinates":[-103.292941,44.043419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387007565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.37879,43.570984,-98.37879,43.570984",
     "geom:latitude":43.570984,
     "geom:longitude":-98.37879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39135 263rd St",
     "sg:city":"Stickney",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387007565,
-    "wof:lastmodified":1449059268,
+    "wof:lastmodified":1467082750,
     "wof:name":"Jeff Sauvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.37879,43.570984,-98.37879,43.570984],
+  "bbox": [
+    -98.37879,
+    43.570984,
+    -98.37879,
+    43.570984
+],
   "geometry": {"coordinates":[-98.37879,43.570984],"type":"Point"}
 }

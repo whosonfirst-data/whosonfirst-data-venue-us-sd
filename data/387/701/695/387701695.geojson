@@ -2,13 +2,14 @@
   "id": 387701695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.156124,44.072311,-103.156124,44.072311",
     "geom:latitude":44.072311,
     "geom:longitude":-103.156124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Turbine Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387701695,
-    "wof:lastmodified":1449059117,
+    "wof:lastmodified":1467082747,
     "wof:name":"Pepsi-Cola Bottling Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bottler"
     ]
 },
-  "bbox": [-103.156124,44.072311,-103.156124,44.072311],
-  "geometry": {"coordinates":[-103.156124,44.072311],"type":"Point"}
+  "bbox": [
+    -103.156124,
+    44.072311,
+    -103.156124,
+    44.072311
+],
+  "geometry": {"coordinates":[-103.15612400000001,44.072311],"type":"Point"}
 }

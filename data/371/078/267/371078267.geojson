@@ -2,13 +2,14 @@
   "id": 371078267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.853527,45.411612,-96.853527,45.411612",
     "geom:latitude":45.411612,
     "geom:longitude":-96.853527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Park Ave",
     "sg:city":"Wilmot",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371078267,
-    "wof:lastmodified":1449049968,
+    "wof:lastmodified":1467082671,
     "wof:name":"Janasa LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "metal"
     ]
 },
-  "bbox": [-96.853527,45.411612,-96.853527,45.411612],
+  "bbox": [
+    -96.853527,
+    45.411612,
+    -96.853527,
+    45.411612
+],
   "geometry": {"coordinates":[-96.853527,45.411612],"type":"Point"}
 }

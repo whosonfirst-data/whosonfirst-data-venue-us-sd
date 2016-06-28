@@ -2,13 +2,14 @@
   "id": 370982255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.101298,44.89523,-97.101298,44.89523",
     "geom:latitude":44.89523,
     "geom:longitude":-97.101298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 2nd Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370982255,
-    "wof:lastmodified":1449029665,
+    "wof:lastmodified":1467082656,
     "wof:name":"Watertown Edctl Emplyees Fdral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-97.101298,44.89523,-97.101298,44.89523],
+  "bbox": [
+    -97.101298,
+    44.89523,
+    -97.101298,
+    44.89523
+],
   "geometry": {"coordinates":[-97.101298,44.89523],"type":"Point"}
 }

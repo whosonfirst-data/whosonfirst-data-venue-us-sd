@@ -2,13 +2,14 @@
   "id": 403789385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.82628,43.451102,-96.82628,43.451102",
     "geom:latitude":43.451102,
     "geom:longitude":-96.82628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27171 469th Ave",
     "sg:city":"Tea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403789385,
-    "wof:lastmodified":1449055235,
+    "wof:lastmodified":1467082679,
     "wof:name":"CARSFORSALE.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "e"
     ]
 },
-  "bbox": [-96.82628,43.451102,-96.82628,43.451102],
+  "bbox": [
+    -96.82628,
+    43.451102,
+    -96.82628,
+    43.451102
+],
   "geometry": {"coordinates":[-96.82628,43.451102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403724525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.448349,45.546759,-100.448349,45.546759",
     "geom:latitude":45.546759,
     "geom:longitude":-100.448349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 10th Ave W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403724525,
-    "wof:lastmodified":1449055921,
+    "wof:lastmodified":1467082684,
     "wof:name":"Family Pharmacy Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.448349,45.546759,-100.448349,45.546759],
-  "geometry": {"coordinates":[-100.448349,45.546759],"type":"Point"}
+  "bbox": [
+    -100.448349,
+    45.546759,
+    -100.448349,
+    45.546759
+],
+  "geometry": {"coordinates":[-100.44834899999999,45.546759],"type":"Point"}
 }

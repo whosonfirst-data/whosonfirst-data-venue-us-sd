@@ -2,13 +2,14 @@
   "id": 387026641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.864089,44.35546,-96.864089,44.35546",
     "geom:latitude":44.35546,
     "geom:longitude":-96.864089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46750 209th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387026641,
-    "wof:lastmodified":1449058352,
+    "wof:lastmodified":1467082732,
     "wof:name":"Allan Vander Vliet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.864089,44.35546,-96.864089,44.35546],
-  "geometry": {"coordinates":[-96.864089,44.35546],"type":"Point"}
+  "bbox": [
+    -96.864089,
+    44.35546,
+    -96.864089,
+    44.35546
+],
+  "geometry": {"coordinates":[-96.86408900000001,44.35546],"type":"Point"}
 }

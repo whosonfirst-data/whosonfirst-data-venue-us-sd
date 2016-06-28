@@ -2,13 +2,14 @@
   "id": 387233411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.544317,43.15629,-98.544317,43.15629",
     "geom:latitude":43.15629,
     "geom:longitude":-98.544317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Main St",
     "sg:city":"Gann Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387233411,
-    "wof:lastmodified":1449059984,
+    "wof:lastmodified":1467082764,
     "wof:name":"Ken's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-98.544317,43.15629,-98.544317,43.15629],
-  "geometry": {"coordinates":[-98.544317,43.15629],"type":"Point"}
+  "bbox": [
+    -98.544317,
+    43.15629,
+    -98.544317,
+    43.15629
+],
+  "geometry": {"coordinates":[-98.54431700000001,43.15629],"type":"Point"}
 }

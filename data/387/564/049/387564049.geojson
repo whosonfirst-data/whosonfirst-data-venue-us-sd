@@ -2,13 +2,14 @@
   "id": 387564049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.120335,43.601649,-97.120335,43.601649",
     "geom:latitude":43.601649,
     "geom:longitude":-97.120335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45454 261st St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387564049,
-    "wof:lastmodified":1449059692,
+    "wof:lastmodified":1467082758,
     "wof:name":"Franks Repair",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.120335,43.601649,-97.120335,43.601649],
+  "bbox": [
+    -97.120335,
+    43.601649,
+    -97.120335,
+    43.601649
+],
   "geometry": {"coordinates":[-97.120335,43.601649],"type":"Point"}
 }

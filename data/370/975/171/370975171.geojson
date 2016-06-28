@@ -2,13 +2,14 @@
   "id": 370975171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.259345,45.833638,-97.259345,45.833638",
     "geom:latitude":45.833638,
     "geom:longitude":-97.259345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44799 107th St",
     "sg:city":"Veblen",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370975171,
-    "wof:lastmodified":1449032003,
+    "wof:lastmodified":1467082657,
     "wof:name":"Pallansch John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-97.259345,45.833638,-97.259345,45.833638],
+  "bbox": [
+    -97.259345,
+    45.833638,
+    -97.259345,
+    45.833638
+],
   "geometry": {"coordinates":[-97.259345,45.833638],"type":"Point"}
 }

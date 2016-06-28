@@ -2,13 +2,14 @@
   "id": 387878495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.796507,43.551563,-96.796507,43.551563",
     "geom:latitude":43.551563,
     "geom:longitude":-96.796507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 W Flamingo Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387878495,
-    "wof:lastmodified":1449058098,
+    "wof:lastmodified":1467082727,
     "wof:name":"Nuvision Publications LLC",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-96.796507,43.551563,-96.796507,43.551563],
-  "geometry": {"coordinates":[-96.796507,43.551563],"type":"Point"}
+  "bbox": [
+    -96.796507,
+    43.551563,
+    -96.796507,
+    43.551563
+],
+  "geometry": {"coordinates":[-96.79650700000001,43.551563],"type":"Point"}
 }

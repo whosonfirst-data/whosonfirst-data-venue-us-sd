@@ -2,13 +2,14 @@
   "id": 371183663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.845698,44.356874,-99.845698,44.356874",
     "geom:latitude":44.356874,
     "geom:longitude":-99.845698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20922 316th Ave",
     "sg:city":"Blunt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371183663,
-    "wof:lastmodified":1449049609,
+    "wof:lastmodified":1467082666,
     "wof:name":"Alvin Millard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.845698,44.356874,-99.845698,44.356874],
+  "bbox": [
+    -99.845698,
+    44.356874,
+    -99.845698,
+    44.356874
+],
   "geometry": {"coordinates":[-99.845698,44.356874],"type":"Point"}
 }

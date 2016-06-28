@@ -2,13 +2,14 @@
   "id": 387417193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.691517,43.55616,-96.691517,43.55616",
     "geom:latitude":43.55616,
     "geom:longitude":-96.691517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 N Cleveland Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387417193,
-    "wof:lastmodified":1449057661,
+    "wof:lastmodified":1467082718,
     "wof:name":"Lawn Care On The Move LLC",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.691517,43.55616,-96.691517,43.55616],
+  "bbox": [
+    -96.691517,
+    43.55616,
+    -96.691517,
+    43.55616
+],
   "geometry": {"coordinates":[-96.691517,43.55616],"type":"Point"}
 }

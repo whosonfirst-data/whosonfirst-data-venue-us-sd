@@ -2,13 +2,14 @@
   "id": 387805443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.103378,45.457624,-98.103378,45.457624",
     "geom:latitude":45.457624,
     "geom:longitude":-98.103378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 US Hwy 12",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387805443,
-    "wof:lastmodified":1449057372,
+    "wof:lastmodified":1467082712,
     "wof:name":"Darrel's Sinclair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-98.103378,45.457624,-98.103378,45.457624],
-  "geometry": {"coordinates":[-98.103378,45.457624],"type":"Point"}
+  "bbox": [
+    -98.103378,
+    45.457624,
+    -98.103378,
+    45.457624
+],
+  "geometry": {"coordinates":[-98.10337800000001,45.457624],"type":"Point"}
 }

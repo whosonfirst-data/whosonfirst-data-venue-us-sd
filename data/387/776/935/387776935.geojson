@@ -2,13 +2,14 @@
   "id": 387776935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.508217,43.651541,-97.508217,43.651541",
     "geom:latitude":43.651541,
     "geom:longitude":-97.508217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25704 435th Ave",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387776935,
-    "wof:lastmodified":1449056930,
+    "wof:lastmodified":1467082703,
     "wof:name":"Kenneth Bunger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-97.508217,43.651541,-97.508217,43.651541],
+  "bbox": [
+    -97.508217,
+    43.651541,
+    -97.508217,
+    43.651541
+],
   "geometry": {"coordinates":[-97.508217,43.651541],"type":"Point"}
 }

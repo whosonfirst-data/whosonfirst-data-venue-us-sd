@@ -2,13 +2,14 @@
   "id": 387251193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720891,43.505132,-96.720891,43.505132",
     "geom:latitude":43.505132,
     "geom:longitude":-96.720891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 E Aspen Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387251193,
-    "wof:lastmodified":1449056188,
+    "wof:lastmodified":1467082688,
     "wof:name":"Graff Properties",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-96.720891,43.505132,-96.720891,43.505132],
-  "geometry": {"coordinates":[-96.720891,43.505132],"type":"Point"}
+  "bbox": [
+    -96.720891,
+    43.505132,
+    -96.720891,
+    43.505132
+],
+  "geometry": {"coordinates":[-96.72089099999999,43.505132],"type":"Point"}
 }

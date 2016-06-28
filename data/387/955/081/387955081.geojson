@@ -2,13 +2,14 @@
   "id": 387955081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.479869,43.432501,-103.479869,43.432501",
     "geom:latitude":43.432501,
     "geom:longitude":-103.479869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 N Garden St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387955081,
-    "wof:lastmodified":1449058751,
+    "wof:lastmodified":1467082740,
     "wof:name":"Holwell Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.479869,43.432501,-103.479869,43.432501],
-  "geometry": {"coordinates":[-103.479869,43.432501],"type":"Point"}
+  "bbox": [
+    -103.479869,
+    43.432501,
+    -103.479869,
+    43.432501
+],
+  "geometry": {"coordinates":[-103.47986899999999,43.432501],"type":"Point"}
 }

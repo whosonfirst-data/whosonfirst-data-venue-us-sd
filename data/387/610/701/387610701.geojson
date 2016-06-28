@@ -2,13 +2,14 @@
   "id": 387610701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.867234,43.37646,-99.867234,43.37646",
     "geom:latitude":43.37646,
     "geom:longitude":-99.867234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387610701,
-    "wof:lastmodified":1449059862,
+    "wof:lastmodified":1467082762,
     "wof:name":"Pahlke Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-99.867234,43.37646,-99.867234,43.37646],
+  "bbox": [
+    -99.867234,
+    43.37646,
+    -99.867234,
+    43.37646
+],
   "geometry": {"coordinates":[-99.867234,43.37646],"type":"Point"}
 }

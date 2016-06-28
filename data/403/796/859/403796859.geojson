@@ -2,13 +2,14 @@
   "id": 403796859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515498,45.451813,-98.515498,45.451813",
     "geom:latitude":45.451813,
     "geom:longitude":-98.515498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S Hwy 281",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403796859,
-    "wof:lastmodified":1449055260,
+    "wof:lastmodified":1467082679,
     "wof:name":"Schipke Auto Body",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-98.515498,45.451813,-98.515498,45.451813],
-  "geometry": {"coordinates":[-98.515498,45.451813],"type":"Point"}
+  "bbox": [
+    -98.515498,
+    45.451813,
+    -98.515498,
+    45.451813
+],
+  "geometry": {"coordinates":[-98.51549799999999,45.451813],"type":"Point"}
 }

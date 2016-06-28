@@ -2,13 +2,14 @@
   "id": 371058483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.243448,44.083714,-103.243448,44.083714",
     "geom:latitude":44.083714,
     "geom:longitude":-103.243448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Canal St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371058483,
-    "wof:lastmodified":1449049182,
+    "wof:lastmodified":1467082660,
     "wof:name":"Landstrom's Original Black Hls",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.243448,44.083714,-103.243448,44.083714],
+  "bbox": [
+    -103.243448,
+    44.083714,
+    -103.243448,
+    44.083714
+],
   "geometry": {"coordinates":[-103.243448,44.083714],"type":"Point"}
 }

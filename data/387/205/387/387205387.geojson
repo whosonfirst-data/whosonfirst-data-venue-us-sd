@@ -2,13 +2,14 @@
   "id": 387205387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.867178,44.490716,-103.867178,44.490716",
     "geom:latitude":44.490716,
     "geom:longitude":-103.867178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 W Jackson Blvd",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387205387,
-    "wof:lastmodified":1449058406,
+    "wof:lastmodified":1467082733,
     "wof:name":"All Star Travelers Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.867178,44.490716,-103.867178,44.490716],
+  "bbox": [
+    -103.867178,
+    44.490716,
+    -103.867178,
+    44.490716
+],
   "geometry": {"coordinates":[-103.867178,44.490716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387817729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727525,43.348334,-96.727525,43.348334",
     "geom:latitude":43.348334,
     "geom:longitude":-96.727525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27873 State Hwy 115",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387817729,
-    "wof:lastmodified":1449059170,
+    "wof:lastmodified":1467082748,
     "wof:name":"Beaver Creek Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.727525,43.348334,-96.727525,43.348334],
+  "bbox": [
+    -96.727525,
+    43.348334,
+    -96.727525,
+    43.348334
+],
   "geometry": {"coordinates":[-96.727525,43.348334],"type":"Point"}
 }

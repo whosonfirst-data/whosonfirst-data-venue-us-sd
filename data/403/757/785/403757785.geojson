@@ -2,13 +2,14 @@
   "id": 403757785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.470222,45.480889,-98.470222,45.480889",
     "geom:latitude":45.480889,
     "geom:longitude":-98.470222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 N Harrison St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403757785,
-    "wof:lastmodified":1449055382,
+    "wof:lastmodified":1467082681,
     "wof:name":"Hub City Svc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-98.470222,45.480889,-98.470222,45.480889],
-  "geometry": {"coordinates":[-98.470222,45.480889],"type":"Point"}
+  "bbox": [
+    -98.470222,
+    45.480889,
+    -98.470222,
+    45.480889
+],
+  "geometry": {"coordinates":[-98.47022200000001,45.480889],"type":"Point"}
 }

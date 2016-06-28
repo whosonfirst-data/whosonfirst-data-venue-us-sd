@@ -2,13 +2,14 @@
   "id": 387861353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.75571,45.346503,-97.75571,45.346503",
     "geom:latitude":45.346503,
     "geom:longitude":-97.75571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Co Rd 33",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387861353,
-    "wof:lastmodified":1449059896,
+    "wof:lastmodified":1467082763,
     "wof:name":"South Dakota Made Store Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.75571,45.346503,-97.75571,45.346503],
-  "geometry": {"coordinates":[-97.75571,45.346503],"type":"Point"}
+  "bbox": [
+    -97.75571,
+    45.346503,
+    -97.75571,
+    45.346503
+],
+  "geometry": {"coordinates":[-97.75570999999999,45.346503],"type":"Point"}
 }

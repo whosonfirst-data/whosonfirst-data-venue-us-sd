@@ -2,13 +2,14 @@
   "id": 386983711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.255614,44.081638,-103.255614,44.081638",
     "geom:latitude":44.081638,
     "geom:longitude":-103.255614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 W Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386983711,
-    "wof:lastmodified":1449028959,
+    "wof:lastmodified":1467082655,
     "wof:name":"Pet Paradise",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-103.255614,44.081638,-103.255614,44.081638],
-  "geometry": {"coordinates":[-103.255614,44.081638],"type":"Point"}
+  "bbox": [
+    -103.255614,
+    44.081638,
+    -103.255614,
+    44.081638
+],
+  "geometry": {"coordinates":[-103.25561399999999,44.081638],"type":"Point"}
 }

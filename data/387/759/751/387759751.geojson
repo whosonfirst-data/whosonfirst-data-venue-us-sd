@@ -2,13 +2,14 @@
   "id": 387759751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707604,43.497983,-96.707604,43.497983",
     "geom:latitude":43.497983,
     "geom:longitude":-96.707604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5012 S Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387759751,
-    "wof:lastmodified":1449059972,
+    "wof:lastmodified":1467082764,
     "wof:name":"Learning Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.707604,43.497983,-96.707604,43.497983],
+  "bbox": [
+    -96.707604,
+    43.497983,
+    -96.707604,
+    43.497983
+],
   "geometry": {"coordinates":[-96.707604,43.497983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371110001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986246,43.474344,-97.986246,43.474344",
     "geom:latitude":43.474344,
     "geom:longitude":-97.986246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 W 5th St",
     "sg:city":"Dimock",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371110001,
-    "wof:lastmodified":1449049347,
+    "wof:lastmodified":1467082662,
     "wof:name":"Untereiner's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lumber"
     ]
 },
-  "bbox": [-97.986246,43.474344,-97.986246,43.474344],
-  "geometry": {"coordinates":[-97.986246,43.474344],"type":"Point"}
+  "bbox": [
+    -97.986246,
+    43.474344,
+    -97.986246,
+    43.474344
+],
+  "geometry": {"coordinates":[-97.98624599999999,43.474344],"type":"Point"}
 }

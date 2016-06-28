@@ -2,13 +2,14 @@
   "id": 403832199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856797,43.375262,-99.856797,43.375262",
     "geom:latitude":43.375262,
     "geom:longitude":-99.856797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403832199,
-    "wof:lastmodified":1449054631,
+    "wof:lastmodified":1467082674,
     "wof:name":"Mems Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-99.856797,43.375262,-99.856797,43.375262],
+  "bbox": [
+    -99.856797,
+    43.375262,
+    -99.856797,
+    43.375262
+],
   "geometry": {"coordinates":[-99.856797,43.375262],"type":"Point"}
 }

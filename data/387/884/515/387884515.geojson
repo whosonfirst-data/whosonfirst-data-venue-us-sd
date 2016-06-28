@@ -2,13 +2,14 @@
   "id": 387884515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.308157,44.225579,-97.308157,44.225579",
     "geom:latitude":44.225579,
     "geom:longitude":-97.308157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 E Smith St",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387884515,
-    "wof:lastmodified":1449059174,
+    "wof:lastmodified":1467082748,
     "wof:name":"Hoys Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.308157,44.225579,-97.308157,44.225579],
-  "geometry": {"coordinates":[-97.308157,44.225579],"type":"Point"}
+  "bbox": [
+    -97.308157,
+    44.225579,
+    -97.308157,
+    44.225579
+],
+  "geometry": {"coordinates":[-97.30815699999999,44.225579],"type":"Point"}
 }

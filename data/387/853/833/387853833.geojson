@@ -2,13 +2,14 @@
   "id": 387853833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.658938,42.947851,-97.658938,42.947851",
     "geom:latitude":42.947851,
     "geom:longitude":-97.658938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 S Lidice St",
     "sg:city":"Tabor",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387853833,
-    "wof:lastmodified":1449057642,
+    "wof:lastmodified":1467082717,
     "wof:name":"Bon Homme-Yankton Elec Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-97.658938,42.947851,-97.658938,42.947851],
-  "geometry": {"coordinates":[-97.658938,42.947851],"type":"Point"}
+  "bbox": [
+    -97.658938,
+    42.947851,
+    -97.658938,
+    42.947851
+],
+  "geometry": {"coordinates":[-97.65893800000001,42.947851],"type":"Point"}
 }

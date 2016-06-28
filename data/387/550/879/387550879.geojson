@@ -2,13 +2,14 @@
   "id": 387550879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.748526,43.516765,-96.748526,43.516765",
     "geom:latitude":43.516765,
     "geom:longitude":-96.748526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 S Hawthorne Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387550879,
-    "wof:lastmodified":1449058167,
+    "wof:lastmodified":1467082728,
     "wof:name":"Carland Landscaping",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sanitary"
     ]
 },
-  "bbox": [-96.748526,43.516765,-96.748526,43.516765],
+  "bbox": [
+    -96.748526,
+    43.516765,
+    -96.748526,
+    43.516765
+],
   "geometry": {"coordinates":[-96.748526,43.516765],"type":"Point"}
 }

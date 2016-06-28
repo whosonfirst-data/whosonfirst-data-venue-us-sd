@@ -2,13 +2,14 @@
   "id": 387947807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.422939,45.535341,-100.422939,45.535341",
     "geom:latitude":45.535341,
     "geom:longitude":-100.422939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 8th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387947807,
-    "wof:lastmodified":1449058866,
+    "wof:lastmodified":1467082742,
     "wof:name":"Music Express By Ron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "music"
     ]
 },
-  "bbox": [-100.422939,45.535341,-100.422939,45.535341],
+  "bbox": [
+    -100.422939,
+    45.535341,
+    -100.422939,
+    45.535341
+],
   "geometry": {"coordinates":[-100.422939,45.535341],"type":"Point"}
 }

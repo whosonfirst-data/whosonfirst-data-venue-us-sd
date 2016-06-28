@@ -2,13 +2,14 @@
   "id": 403792647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.709971,43.532158,-96.709971,43.532158",
     "geom:latitude":43.532158,
     "geom:longitude":-96.709971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 S Sherman Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403792647,
-    "wof:lastmodified":1449054927,
+    "wof:lastmodified":1467082677,
     "wof:name":"House of Drywall Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.709971,43.532158,-96.709971,43.532158],
+  "bbox": [
+    -96.709971,
+    43.532158,
+    -96.709971,
+    43.532158
+],
   "geometry": {"coordinates":[-96.709971,43.532158],"type":"Point"}
 }

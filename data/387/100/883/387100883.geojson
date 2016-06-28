@@ -2,13 +2,14 @@
   "id": 387100883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.761095,43.554019,-96.761095,43.554019",
     "geom:latitude":43.554019,
     "geom:longitude":-96.761095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 N Kiwanis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387100883,
-    "wof:lastmodified":1449058928,
+    "wof:lastmodified":1467082743,
     "wof:name":"A/R Realty Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.761095,43.554019,-96.761095,43.554019],
+  "bbox": [
+    -96.761095,
+    43.554019,
+    -96.761095,
+    43.554019
+],
   "geometry": {"coordinates":[-96.761095,43.554019],"type":"Point"}
 }

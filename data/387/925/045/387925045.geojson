@@ -2,13 +2,14 @@
   "id": 387925045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.218254,44.08532,-103.218254,44.08532",
     "geom:latitude":44.08532,
     "geom:longitude":-103.218254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 New York St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387925045,
-    "wof:lastmodified":1449056145,
+    "wof:lastmodified":1467082687,
     "wof:name":"Minnilusa Pioneer Museum",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-103.218254,44.08532,-103.218254,44.08532],
+  "bbox": [
+    -103.218254,
+    44.08532,
+    -103.218254,
+    44.08532
+],
   "geometry": {"coordinates":[-103.218254,44.08532],"type":"Point"}
 }

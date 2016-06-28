@@ -2,13 +2,14 @@
   "id": 387589079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234427,44.082917,-103.234427,44.082917",
     "geom:latitude":44.082917,
     "geom:longitude":-103.234427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 West Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387589079,
-    "wof:lastmodified":1449058142,
+    "wof:lastmodified":1467082728,
     "wof:name":"Kreisers Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-103.234427,44.082917,-103.234427,44.082917],
+  "bbox": [
+    -103.234427,
+    44.082917,
+    -103.234427,
+    44.082917
+],
   "geometry": {"coordinates":[-103.234427,44.082917],"type":"Point"}
 }

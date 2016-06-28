@@ -2,13 +2,14 @@
   "id": 387450695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71143,43.586474,-96.71143,43.586474",
     "geom:latitude":43.586474,
     "geom:longitude":-96.71143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387450695,
-    "wof:lastmodified":1449059341,
+    "wof:lastmodified":1467082751,
     "wof:name":"Horse N Hound Feed & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.71143,43.586474,-96.71143,43.586474],
-  "geometry": {"coordinates":[-96.71143,43.586474],"type":"Point"}
+  "bbox": [
+    -96.71143,
+    43.586474,
+    -96.71143,
+    43.586474
+],
+  "geometry": {"coordinates":[-96.71142999999999,43.586474],"type":"Point"}
 }

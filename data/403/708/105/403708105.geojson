@@ -2,13 +2,14 @@
   "id": 403708105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.552201,44.040776,-98.552201,44.040776",
     "geom:latitude":44.040776,
     "geom:longitude":-98.552201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23081 383rd Ave",
     "sg:city":"Wessington Springs",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403708105,
-    "wof:lastmodified":1449054842,
+    "wof:lastmodified":1467082676,
     "wof:name":"Terry R Schimke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.552201,44.040776,-98.552201,44.040776],
+  "bbox": [
+    -98.552201,
+    44.040776,
+    -98.552201,
+    44.040776
+],
   "geometry": {"coordinates":[-98.552201,44.040776],"type":"Point"}
 }

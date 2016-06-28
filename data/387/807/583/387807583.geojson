@@ -2,13 +2,14 @@
   "id": 387807583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.378672,44.369908,-100.378672,44.369908",
     "geom:latitude":44.369908,
     "geom:longitude":-100.378672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Royal Ct",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387807583,
-    "wof:lastmodified":1449057079,
+    "wof:lastmodified":1467082706,
     "wof:name":"Daniel W Elwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-100.378672,44.369908,-100.378672,44.369908],
-  "geometry": {"coordinates":[-100.378672,44.369908],"type":"Point"}
+  "bbox": [
+    -100.378672,
+    44.369908,
+    -100.378672,
+    44.369908
+],
+  "geometry": {"coordinates":[-100.37867199999999,44.369908],"type":"Point"}
 }

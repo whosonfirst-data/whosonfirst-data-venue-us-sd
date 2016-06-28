@@ -2,13 +2,14 @@
   "id": 403775247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.335852,44.053294,-103.335852,44.053294",
     "geom:latitude":44.053294,
     "geom:longitude":-103.335852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7245 W Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403775247,
-    "wof:lastmodified":1449055598,
+    "wof:lastmodified":1467082682,
     "wof:name":"High Country Cabinets",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.335852,44.053294,-103.335852,44.053294],
+  "bbox": [
+    -103.335852,
+    44.053294,
+    -103.335852,
+    44.053294
+],
   "geometry": {"coordinates":[-103.335852,44.053294],"type":"Point"}
 }

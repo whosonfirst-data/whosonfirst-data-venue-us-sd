@@ -2,13 +2,14 @@
   "id": 387634807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.328312,44.139982,-102.328312,44.139982",
     "geom:latitude":44.139982,
     "geom:longitude":-102.328312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18450 Trask Rd",
     "sg:city":"Wall",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387634807,
-    "wof:lastmodified":1449057915,
+    "wof:lastmodified":1467082723,
     "wof:name":"Property Owners Rights Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "title"
     ]
 },
-  "bbox": [-102.328312,44.139982,-102.328312,44.139982],
+  "bbox": [
+    -102.328312,
+    44.139982,
+    -102.328312,
+    44.139982
+],
   "geometry": {"coordinates":[-102.328312,44.139982],"type":"Point"}
 }

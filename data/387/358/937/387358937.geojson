@@ -2,13 +2,14 @@
   "id": 387358937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.718593,43.587536,-96.718593,43.587536",
     "geom:latitude":43.587536,
     "geom:longitude":-96.718593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 E Benson Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":387358937,
-    "wof:lastmodified":1449057705,
+    "wof:lastmodified":1467082719,
     "wof:name":"Dakota Riggers & Tool Sup Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "safety"
     ]
 },
-  "bbox": [-96.718593,43.587536,-96.718593,43.587536],
+  "bbox": [
+    -96.718593,
+    43.587536,
+    -96.718593,
+    43.587536
+],
   "geometry": {"coordinates":[-96.718593,43.587536],"type":"Point"}
 }

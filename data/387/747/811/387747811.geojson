@@ -2,13 +2,14 @@
   "id": 387747811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.344578,43.337315,-98.344578,43.337315",
     "geom:latitude":43.337315,
     "geom:longitude":-98.344578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27922 US Hwy 281",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387747811,
-    "wof:lastmodified":1449056791,
+    "wof:lastmodified":1467082700,
     "wof:name":"Ymker Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.344578,43.337315,-98.344578,43.337315],
+  "bbox": [
+    -98.344578,
+    43.337315,
+    -98.344578,
+    43.337315
+],
   "geometry": {"coordinates":[-98.344578,43.337315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387904395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.750589,45.789741,-97.750589,45.789741",
     "geom:latitude":45.789741,
     "geom:longitude":-97.750589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Main Ave",
     "sg:city":"Britton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387904395,
-    "wof:lastmodified":1449060007,
+    "wof:lastmodified":1467082765,
     "wof:name":"Britton Livestock Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "market"
     ]
 },
-  "bbox": [-97.750589,45.789741,-97.750589,45.789741],
-  "geometry": {"coordinates":[-97.750589,45.789741],"type":"Point"}
+  "bbox": [
+    -97.750589,
+    45.789741,
+    -97.750589,
+    45.789741
+],
+  "geometry": {"coordinates":[-97.75058900000001,45.789741],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387720593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.735558,43.543476,-96.735558,43.543476",
     "geom:latitude":43.543476,
     "geom:longitude":-96.735558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S Summit Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387720593,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467082705,
     "wof:name":"Cc Peterson Oil Co Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-96.735558,43.543476,-96.735558,43.543476],
+  "bbox": [
+    -96.735558,
+    43.543476,
+    -96.735558,
+    43.543476
+],
   "geometry": {"coordinates":[-96.735558,43.543476],"type":"Point"}
 }

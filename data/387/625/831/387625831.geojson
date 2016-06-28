@@ -2,13 +2,14 @@
   "id": 387625831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.396072,42.87514,-97.396072,42.87514",
     "geom:latitude":42.87514,
     "geom:longitude":-97.396072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 W 7th St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387625831,
-    "wof:lastmodified":1449059978,
+    "wof:lastmodified":1467082764,
     "wof:name":"Webster Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.396072,42.87514,-97.396072,42.87514],
+  "bbox": [
+    -97.396072,
+    42.87514,
+    -97.396072,
+    42.87514
+],
   "geometry": {"coordinates":[-97.396072,42.87514],"type":"Point"}
 }

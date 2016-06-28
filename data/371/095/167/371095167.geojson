@@ -2,13 +2,14 @@
   "id": 371095167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.537456,43.155106,-98.537456,43.155106",
     "geom:latitude":43.155106,
     "geom:longitude":-98.537456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S 6th Ave",
     "sg:city":"Lake Andes",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371095167,
-    "wof:lastmodified":1449049559,
+    "wof:lastmodified":1467082665,
     "wof:name":"Houseman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hauling"
     ]
 },
-  "bbox": [-98.537456,43.155106,-98.537456,43.155106],
-  "geometry": {"coordinates":[-98.537456,43.155106],"type":"Point"}
+  "bbox": [
+    -98.537456,
+    43.155106,
+    -98.537456,
+    43.155106
+],
+  "geometry": {"coordinates":[-98.53745600000001,43.155106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403707173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751169,43.556435,-96.751169,43.556435",
     "geom:latitude":43.556435,
     "geom:longitude":-96.751169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 N Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403707173,
-    "wof:lastmodified":1449055768,
+    "wof:lastmodified":1467082683,
     "wof:name":"Halverson's Water Conditioning",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "softener"
     ]
 },
-  "bbox": [-96.751169,43.556435,-96.751169,43.556435],
+  "bbox": [
+    -96.751169,
+    43.556435,
+    -96.751169,
+    43.556435
+],
   "geometry": {"coordinates":[-96.751169,43.556435],"type":"Point"}
 }

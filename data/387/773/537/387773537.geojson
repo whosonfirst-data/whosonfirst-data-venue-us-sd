@@ -2,13 +2,14 @@
   "id": 387773537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.869949,44.512226,-103.869949,44.512226",
     "geom:latitude":44.512226,
     "geom:longitude":-103.869949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Evans Ln",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387773537,
-    "wof:lastmodified":1449056589,
+    "wof:lastmodified":1467082696,
     "wof:name":"Bearlodge Dental Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.869949,44.512226,-103.869949,44.512226],
-  "geometry": {"coordinates":[-103.869949,44.512226],"type":"Point"}
+  "bbox": [
+    -103.869949,
+    44.512226,
+    -103.869949,
+    44.512226
+],
+  "geometry": {"coordinates":[-103.86994900000001,44.512226],"type":"Point"}
 }

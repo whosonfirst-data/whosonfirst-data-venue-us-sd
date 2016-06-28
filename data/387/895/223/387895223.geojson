@@ -2,13 +2,14 @@
   "id": 387895223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.810707,45.810525,-100.810707,45.810525",
     "geom:latitude":45.810525,
     "geom:longitude":-100.810707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Main St",
     "sg:city":"Mc Laughlin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387895223,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1467082719,
     "wof:name":"Tribal New Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-100.810707,45.810525,-100.810707,45.810525],
-  "geometry": {"coordinates":[-100.810707,45.810525],"type":"Point"}
+  "bbox": [
+    -100.810707,
+    45.810525,
+    -100.810707,
+    45.810525
+],
+  "geometry": {"coordinates":[-100.81070699999999,45.810525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387889367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.988597,44.527562,-98.988597,44.527562",
     "geom:latitude":44.527562,
     "geom:longitude":-98.988597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 N Broadway",
     "sg:city":"Miller",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387889367,
-    "wof:lastmodified":1449056043,
+    "wof:lastmodified":1467082685,
     "wof:name":"Nelson Seed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-98.988597,44.527562,-98.988597,44.527562],
+  "bbox": [
+    -98.988597,
+    44.527562,
+    -98.988597,
+    44.527562
+],
   "geometry": {"coordinates":[-98.988597,44.527562],"type":"Point"}
 }

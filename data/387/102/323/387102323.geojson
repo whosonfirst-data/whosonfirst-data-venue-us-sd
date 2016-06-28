@@ -2,13 +2,14 @@
   "id": 387102323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.46353,45.29142,-96.46353,45.29142",
     "geom:latitude":45.29142,
     "geom:longitude":-96.46353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 Main St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387102323,
-    "wof:lastmodified":1449059631,
+    "wof:lastmodified":1467082757,
     "wof:name":"RJB Of Big Stone Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.46353,45.29142,-96.46353,45.29142],
-  "geometry": {"coordinates":[-96.46353,45.29142],"type":"Point"}
+  "bbox": [
+    -96.46353,
+    45.29142,
+    -96.46353,
+    45.29142
+],
+  "geometry": {"coordinates":[-96.46353000000001,45.29142],"type":"Point"}
 }

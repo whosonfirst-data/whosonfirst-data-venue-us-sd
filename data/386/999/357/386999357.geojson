@@ -2,13 +2,14 @@
   "id": 386999357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.74218,43.567183,-96.74218,43.567183",
     "geom:latitude":43.567183,
     "geom:longitude":-96.74218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 W Cherokee St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386999357,
-    "wof:lastmodified":1449028929,
+    "wof:lastmodified":1467082654,
     "wof:name":"Creative Surfaces Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "information"
     ]
 },
-  "bbox": [-96.74218,43.567183,-96.74218,43.567183],
+  "bbox": [
+    -96.74218,
+    43.567183,
+    -96.74218,
+    43.567183
+],
   "geometry": {"coordinates":[-96.74218,43.567183],"type":"Point"}
 }

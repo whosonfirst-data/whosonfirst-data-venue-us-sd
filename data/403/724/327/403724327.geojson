@@ -2,13 +2,14 @@
   "id": 403724327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.609012,44.633666,-98.609012,44.633666",
     "geom:latitude":44.633666,
     "geom:longitude":-98.609012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37879 S Dakota Hwy 28",
     "sg:city":"Hitchcock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403724327,
-    "wof:lastmodified":1449055919,
+    "wof:lastmodified":1467082684,
     "wof:name":"Kohnen's Dakota Pheasant Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hunting"
     ]
 },
-  "bbox": [-98.609012,44.633666,-98.609012,44.633666],
-  "geometry": {"coordinates":[-98.609012,44.633666],"type":"Point"}
+  "bbox": [
+    -98.609012,
+    44.633666,
+    -98.609012,
+    44.633666
+],
+  "geometry": {"coordinates":[-98.60901200000001,44.633666],"type":"Point"}
 }

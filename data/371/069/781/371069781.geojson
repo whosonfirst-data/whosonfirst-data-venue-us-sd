@@ -2,13 +2,14 @@
   "id": 371069781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800664,44.314235,-96.800664,44.314235",
     "geom:latitude":44.314235,
     "geom:longitude":-96.800664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 8th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371069781,
-    "wof:lastmodified":1449049713,
+    "wof:lastmodified":1467082667,
     "wof:name":"United Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-96.800664,44.314235,-96.800664,44.314235],
+  "bbox": [
+    -96.800664,
+    44.314235,
+    -96.800664,
+    44.314235
+],
   "geometry": {"coordinates":[-96.800664,44.314235],"type":"Point"}
 }

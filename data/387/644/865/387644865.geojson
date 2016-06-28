@@ -2,13 +2,14 @@
   "id": 387644865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112504,44.901172,-97.112504,44.901172",
     "geom:latitude":44.901172,
     "geom:longitude":-97.112504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 N Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387644865,
-    "wof:lastmodified":1449058285,
+    "wof:lastmodified":1467082730,
     "wof:name":"Fitzys Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-97.112504,44.901172,-97.112504,44.901172],
+  "bbox": [
+    -97.112504,
+    44.901172,
+    -97.112504,
+    44.901172
+],
   "geometry": {"coordinates":[-97.112504,44.901172],"type":"Point"}
 }

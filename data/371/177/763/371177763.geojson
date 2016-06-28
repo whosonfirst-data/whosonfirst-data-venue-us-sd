@@ -2,13 +2,14 @@
   "id": 371177763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.769124,44.348263,-103.769124,44.348263",
     "geom:latitude":44.348263,
     "geom:longitude":-103.769124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Richmond St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371177763,
-    "wof:lastmodified":1449050143,
+    "wof:lastmodified":1467082673,
     "wof:name":"Deadwood Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.769124,44.348263,-103.769124,44.348263],
-  "geometry": {"coordinates":[-103.769124,44.348263],"type":"Point"}
+  "bbox": [
+    -103.769124,
+    44.348263,
+    -103.769124,
+    44.348263
+],
+  "geometry": {"coordinates":[-103.76912400000001,44.348263],"type":"Point"}
 }

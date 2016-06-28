@@ -2,13 +2,14 @@
   "id": 387152861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728317,43.563632,-96.728317,43.563632",
     "geom:latitude":43.563632,
     "geom:longitude":-96.728317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1338 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387152861,
-    "wof:lastmodified":1449059036,
+    "wof:lastmodified":1467082746,
     "wof:name":"Walt's Auto",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-96.728317,43.563632,-96.728317,43.563632],
+  "bbox": [
+    -96.728317,
+    43.563632,
+    -96.728317,
+    43.563632
+],
   "geometry": {"coordinates":[-96.728317,43.563632],"type":"Point"}
 }

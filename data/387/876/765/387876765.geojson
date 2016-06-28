@@ -2,13 +2,14 @@
   "id": 387876765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.799889,45.098535,-96.799889,45.098535",
     "geom:latitude":45.098535,
     "geom:longitude":-96.799889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E 1st Ave",
     "sg:city":"Stockholm",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387876765,
-    "wof:lastmodified":1449056866,
+    "wof:lastmodified":1467082702,
     "wof:name":"Thompson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.799889,45.098535,-96.799889,45.098535],
-  "geometry": {"coordinates":[-96.799889,45.098535],"type":"Point"}
+  "bbox": [
+    -96.799889,
+    45.098535,
+    -96.799889,
+    45.098535
+],
+  "geometry": {"coordinates":[-96.79988899999999,45.098535],"type":"Point"}
 }

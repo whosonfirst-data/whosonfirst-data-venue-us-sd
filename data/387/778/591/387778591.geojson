@@ -2,13 +2,14 @@
   "id": 387778591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.716282,43.594605,-96.716282,43.594605",
     "geom:latitude":43.594605,
     "geom:longitude":-96.716282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 E 54th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387778591,
-    "wof:lastmodified":1449056199,
+    "wof:lastmodified":1467082688,
     "wof:name":"Jeld-Wen Millwork Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-96.716282,43.594605,-96.716282,43.594605],
-  "geometry": {"coordinates":[-96.716282,43.594605],"type":"Point"}
+  "bbox": [
+    -96.716282,
+    43.594605,
+    -96.716282,
+    43.594605
+],
+  "geometry": {"coordinates":[-96.71628200000001,43.594605],"type":"Point"}
 }

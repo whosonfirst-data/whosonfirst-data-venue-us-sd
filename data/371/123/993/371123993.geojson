@@ -2,13 +2,14 @@
   "id": 371123993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.592279,43.768297,-103.592279,43.768297",
     "geom:latitude":43.768297,
     "geom:longitude":-103.592279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371123993,
-    "wof:lastmodified":1449049313,
+    "wof:lastmodified":1467082662,
     "wof:name":"Scott Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-103.592279,43.768297,-103.592279,43.768297],
+  "bbox": [
+    -103.592279,
+    43.768297,
+    -103.592279,
+    43.768297
+],
   "geometry": {"coordinates":[-103.592279,43.768297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387309657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.279925,44.086608,-103.279925,44.086608",
     "geom:latitude":44.086608,
     "geom:longitude":-103.279925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387309657,
-    "wof:lastmodified":1449056947,
+    "wof:lastmodified":1467082703,
     "wof:name":"Vicki C Koebernick DC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.279925,44.086608,-103.279925,44.086608],
-  "geometry": {"coordinates":[-103.279925,44.086608],"type":"Point"}
+  "bbox": [
+    -103.279925,
+    44.086608,
+    -103.279925,
+    44.086608
+],
+  "geometry": {"coordinates":[-103.27992500000001,44.086608],"type":"Point"}
 }

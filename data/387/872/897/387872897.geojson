@@ -2,13 +2,14 @@
   "id": 387872897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.618475,43.530983,-96.618475,43.530983",
     "geom:latitude":43.530983,
     "geom:longitude":-96.618475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8521 E Willow Ridge Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387872897,
-    "wof:lastmodified":1449056448,
+    "wof:lastmodified":1467082693,
     "wof:name":"Marquardt Insurance",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.618475,43.530983,-96.618475,43.530983],
+  "bbox": [
+    -96.618475,
+    43.530983,
+    -96.618475,
+    43.530983
+],
   "geometry": {"coordinates":[-96.618475,43.530983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387884489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.720208,43.14951,-97.720208,43.14951",
     "geom:latitude":43.14951,
     "geom:longitude":-97.720208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387884489,
-    "wof:lastmodified":1449059175,
+    "wof:lastmodified":1467082748,
     "wof:name":"True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.720208,43.14951,-97.720208,43.14951],
+  "bbox": [
+    -97.720208,
+    43.14951,
+    -97.720208,
+    43.14951
+],
   "geometry": {"coordinates":[-97.720208,43.14951],"type":"Point"}
 }

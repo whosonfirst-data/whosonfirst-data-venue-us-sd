@@ -2,13 +2,14 @@
   "id": 387751017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.155223,44.370466,-98.155223,44.370466",
     "geom:latitude":44.370466,
     "geom:longitude":-98.155223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40294 US Hwy 14",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":387751017,
-    "wof:lastmodified":1449056327,
+    "wof:lastmodified":1467082691,
     "wof:name":"Dakota Energy Cooperative Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.155223,44.370466,-98.155223,44.370466],
-  "geometry": {"coordinates":[-98.155223,44.370466],"type":"Point"}
+  "bbox": [
+    -98.155223,
+    44.370466,
+    -98.155223,
+    44.370466
+],
+  "geometry": {"coordinates":[-98.15522300000001,44.370466],"type":"Point"}
 }

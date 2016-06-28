@@ -2,13 +2,14 @@
   "id": 387401891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.323479,43.808843,-99.323479,43.808843",
     "geom:latitude":43.808843,
     "geom:longitude":-99.323479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 E Prospect Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387401891,
-    "wof:lastmodified":1449059365,
+    "wof:lastmodified":1467082752,
     "wof:name":"Chamberlain Wholesale Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-99.323479,43.808843,-99.323479,43.808843],
-  "geometry": {"coordinates":[-99.323479,43.808843],"type":"Point"}
+  "bbox": [
+    -99.323479,
+    43.808843,
+    -99.323479,
+    43.808843
+],
+  "geometry": {"coordinates":[-99.32347900000001,43.808843],"type":"Point"}
 }

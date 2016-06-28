@@ -2,13 +2,14 @@
   "id": 387010511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.344657,43.328205,-98.344657,43.328205",
     "geom:latitude":43.328205,
     "geom:longitude":-98.344657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27984 US Hwy 281",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387010511,
-    "wof:lastmodified":1449058482,
+    "wof:lastmodified":1467082734,
     "wof:name":"Marks Photographic Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-98.344657,43.328205,-98.344657,43.328205],
+  "bbox": [
+    -98.344657,
+    43.328205,
+    -98.344657,
+    43.328205
+],
   "geometry": {"coordinates":[-98.344657,43.328205],"type":"Point"}
 }

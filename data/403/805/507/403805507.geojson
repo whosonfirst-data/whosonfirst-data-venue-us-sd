@@ -2,13 +2,14 @@
   "id": 403805507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.531909,44.01375,-97.531909,44.01375",
     "geom:latitude":44.01375,
     "geom:longitude":-97.531909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 W Washington Ave",
     "sg:city":"Howard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403805507,
-    "wof:lastmodified":1449055082,
+    "wof:lastmodified":1467082678,
     "wof:name":"Saint Agatha Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.531909,44.01375,-97.531909,44.01375],
+  "bbox": [
+    -97.531909,
+    44.01375,
+    -97.531909,
+    44.01375
+],
   "geometry": {"coordinates":[-97.531909,44.01375],"type":"Point"}
 }

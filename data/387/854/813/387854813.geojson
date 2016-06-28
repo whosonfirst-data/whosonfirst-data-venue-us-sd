@@ -2,13 +2,14 @@
   "id": 387854813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69895,43.514383,-96.69895,43.514383",
     "geom:latitude":43.514383,
     "geom:longitude":-96.69895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 S Spencer Blvd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387854813,
-    "wof:lastmodified":1449059776,
+    "wof:lastmodified":1467082760,
     "wof:name":"Double D",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.69895,43.514383,-96.69895,43.514383],
+  "bbox": [
+    -96.69895,
+    43.514383,
+    -96.69895,
+    43.514383
+],
   "geometry": {"coordinates":[-96.69895,43.514383],"type":"Point"}
 }

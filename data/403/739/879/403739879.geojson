@@ -2,13 +2,14 @@
   "id": 403739879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.740651,43.413665,-98.740651,43.413665",
     "geom:latitude":43.413665,
     "geom:longitude":-98.740651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37239 274th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403739879,
-    "wof:lastmodified":1449055188,
+    "wof:lastmodified":1467082679,
     "wof:name":"C Dale Sybesma Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.740651,43.413665,-98.740651,43.413665],
+  "bbox": [
+    -98.740651,
+    43.413665,
+    -98.740651,
+    43.413665
+],
   "geometry": {"coordinates":[-98.740651,43.413665],"type":"Point"}
 }

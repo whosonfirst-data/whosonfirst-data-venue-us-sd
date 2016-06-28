@@ -2,13 +2,14 @@
   "id": 387708711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.851391,43.386325,-99.851391,43.386325",
     "geom:latitude":43.386325,
     "geom:longitude":-99.851391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31594 277th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387708711,
-    "wof:lastmodified":1449056699,
+    "wof:lastmodified":1467082698,
     "wof:name":"Winner Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.851391,43.386325,-99.851391,43.386325],
-  "geometry": {"coordinates":[-99.851391,43.386325],"type":"Point"}
+  "bbox": [
+    -99.851391,
+    43.386325,
+    -99.851391,
+    43.386325
+],
+  "geometry": {"coordinates":[-99.85139100000001,43.386325],"type":"Point"}
 }

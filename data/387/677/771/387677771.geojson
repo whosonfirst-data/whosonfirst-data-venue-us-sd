@@ -2,13 +2,14 @@
   "id": 387677771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.265786,43.711631,-98.265786,43.711631",
     "geom:latitude":43.711631,
     "geom:longitude":-98.265786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Earl St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":387677771,
-    "wof:lastmodified":1449057467,
+    "wof:lastmodified":1467082714,
     "wof:name":"Mount Vernon Gas & Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-98.265786,43.711631,-98.265786,43.711631],
-  "geometry": {"coordinates":[-98.265786,43.711631],"type":"Point"}
+  "bbox": [
+    -98.265786,
+    43.711631,
+    -98.265786,
+    43.711631
+],
+  "geometry": {"coordinates":[-98.26578600000001,43.711631],"type":"Point"}
 }

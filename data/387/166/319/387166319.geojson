@@ -2,13 +2,14 @@
   "id": 387166319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.234062,44.076575,-103.234062,44.076575",
     "geom:latitude":44.076575,
     "geom:longitude":-103.234062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 South St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387166319,
-    "wof:lastmodified":1449058235,
+    "wof:lastmodified":1467082730,
     "wof:name":"Torpey Mental Health Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-103.234062,44.076575,-103.234062,44.076575],
-  "geometry": {"coordinates":[-103.234062,44.076575],"type":"Point"}
+  "bbox": [
+    -103.234062,
+    44.076575,
+    -103.234062,
+    44.076575
+],
+  "geometry": {"coordinates":[-103.23406199999999,44.076575],"type":"Point"}
 }

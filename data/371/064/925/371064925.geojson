@@ -2,13 +2,14 @@
   "id": 371064925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474758,45.459884,-98.474758,45.459884",
     "geom:latitude":45.459884,
     "geom:longitude":-98.474758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Dakota St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":371064925,
-    "wof:lastmodified":1449049381,
+    "wof:lastmodified":1467082663,
     "wof:name":"Plains Commerce Bank",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.474758,45.459884,-98.474758,45.459884],
-  "geometry": {"coordinates":[-98.474758,45.459884],"type":"Point"}
+  "bbox": [
+    -98.474758,
+    45.459884,
+    -98.474758,
+    45.459884
+],
+  "geometry": {"coordinates":[-98.47475799999999,45.459884],"type":"Point"}
 }

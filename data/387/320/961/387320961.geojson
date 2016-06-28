@@ -2,13 +2,14 @@
   "id": 387320961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.793664,43.557829,-96.793664,43.557829",
     "geom:latitude":43.557829,
     "geom:longitude":-96.793664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Doland Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387320961,
-    "wof:lastmodified":1449057068,
+    "wof:lastmodified":1467082706,
     "wof:name":"Concrete Surfaces LLC",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "floor"
     ]
 },
-  "bbox": [-96.793664,43.557829,-96.793664,43.557829],
-  "geometry": {"coordinates":[-96.793664,43.557829],"type":"Point"}
+  "bbox": [
+    -96.793664,
+    43.557829,
+    -96.793664,
+    43.557829
+],
+  "geometry": {"coordinates":[-96.79366400000001,43.557829],"type":"Point"}
 }

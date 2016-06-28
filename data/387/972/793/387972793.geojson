@@ -2,13 +2,14 @@
   "id": 387972793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.227334,44.080206,-103.227334,44.080206",
     "geom:latitude":44.080206,
     "geom:longitude":-103.227334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 6th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387972793,
-    "wof:lastmodified":1449058015,
+    "wof:lastmodified":1467082725,
     "wof:name":"Betty's Flowers Candy Too",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.227334,44.080206,-103.227334,44.080206],
+  "bbox": [
+    -103.227334,
+    44.080206,
+    -103.227334,
+    44.080206
+],
   "geometry": {"coordinates":[-103.227334,44.080206],"type":"Point"}
 }

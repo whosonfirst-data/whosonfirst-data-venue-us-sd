@@ -2,13 +2,14 @@
   "id": 387124737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800244,44.311266,-96.800244,44.311266",
     "geom:latitude":44.311266,
     "geom:longitude":-96.800244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 3rd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387124737,
-    "wof:lastmodified":1449059625,
+    "wof:lastmodified":1467082757,
     "wof:name":"Us Fish & Wildlife Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"
     ]
 },
-  "bbox": [-96.800244,44.311266,-96.800244,44.311266],
-  "geometry": {"coordinates":[-96.800244,44.311266],"type":"Point"}
+  "bbox": [
+    -96.800244,
+    44.311266,
+    -96.800244,
+    44.311266
+],
+  "geometry": {"coordinates":[-96.80024400000001,44.311266],"type":"Point"}
 }

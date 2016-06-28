@@ -2,13 +2,14 @@
   "id": 387298469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.729044,44.374933,-103.729044,44.374933",
     "geom:latitude":44.374933,
     "geom:longitude":-103.729044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Sherman St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387298469,
-    "wof:lastmodified":1449057132,
+    "wof:lastmodified":1467082707,
     "wof:name":"First Baptist Church Nrthn HLS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.729044,44.374933,-103.729044,44.374933],
+  "bbox": [
+    -103.729044,
+    44.374933,
+    -103.729044,
+    44.374933
+],
   "geometry": {"coordinates":[-103.729044,44.374933],"type":"Point"}
 }

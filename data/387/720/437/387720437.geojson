@@ -2,13 +2,14 @@
   "id": 387720437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214795,44.515545,-98.214795,44.515545",
     "geom:latitude":44.515545,
     "geom:longitude":-98.214795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39996 198th St",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387720437,
-    "wof:lastmodified":1449057013,
+    "wof:lastmodified":1467082705,
     "wof:name":"Clinton Tschetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-98.214795,44.515545,-98.214795,44.515545],
+  "bbox": [
+    -98.214795,
+    44.515545,
+    -98.214795,
+    44.515545
+],
   "geometry": {"coordinates":[-98.214795,44.515545],"type":"Point"}
 }

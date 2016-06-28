@@ -2,13 +2,14 @@
   "id": 403723393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.425349,43.634752,-98.425349,43.634752",
     "geom:latitude":43.634752,
     "geom:longitude":-98.425349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25810 389th Ave",
     "sg:city":"Plankinton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403723393,
-    "wof:lastmodified":1449055423,
+    "wof:lastmodified":1467082681,
     "wof:name":"Heidinger Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.425349,43.634752,-98.425349,43.634752],
+  "bbox": [
+    -98.425349,
+    43.634752,
+    -98.425349,
+    43.634752
+],
   "geometry": {"coordinates":[-98.425349,43.634752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371166241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.519777,45.488562,-98.519777,45.488562",
     "geom:latitude":45.488562,
     "geom:longitude":-98.519777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 24th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371166241,
-    "wof:lastmodified":1449049643,
+    "wof:lastmodified":1467082666,
     "wof:name":"Als Electric & Repair",
     "wof:parent_id":85824005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.519777,45.488562,-98.519777,45.488562],
+  "bbox": [
+    -98.519777,
+    45.488562,
+    -98.519777,
+    45.488562
+],
   "geometry": {"coordinates":[-98.519777,45.488562],"type":"Point"}
 }

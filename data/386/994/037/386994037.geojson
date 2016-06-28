@@ -2,13 +2,14 @@
   "id": 386994037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.0618,43.701819,-98.0618,43.701819",
     "geom:latitude":43.701819,
     "geom:longitude":-98.0618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2655 W Havens St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386994037,
-    "wof:lastmodified":1449028639,
+    "wof:lastmodified":1467082649,
     "wof:name":"Northern Navigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-98.0618,43.701819,-98.0618,43.701819],
-  "geometry": {"coordinates":[-98.0618,43.701819],"type":"Point"}
+  "bbox": [
+    -98.0618,
+    43.701819,
+    -98.0618,
+    43.701819
+],
+  "geometry": {"coordinates":[-98.06180000000001,43.701819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386968099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109759,44.914279,-97.109759,44.914279",
     "geom:latitude":44.914279,
     "geom:longitude":-97.109759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Highland Blvd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":386968099,
-    "wof:lastmodified":1449028649,
+    "wof:lastmodified":1467082649,
     "wof:name":"Heartland Dermatology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatology"
     ]
 },
-  "bbox": [-97.109759,44.914279,-97.109759,44.914279],
+  "bbox": [
+    -97.109759,
+    44.914279,
+    -97.109759,
+    44.914279
+],
   "geometry": {"coordinates":[-97.109759,44.914279],"type":"Point"}
 }

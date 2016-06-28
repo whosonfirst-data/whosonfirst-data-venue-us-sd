@@ -2,13 +2,14 @@
   "id": 387579327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.34648,43.318656,-98.34648,43.318656",
     "geom:latitude":43.318656,
     "geom:longitude":-98.34648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Main St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387579327,
-    "wof:lastmodified":1449057308,
+    "wof:lastmodified":1467082710,
     "wof:name":"Krumb-E-Joynt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.34648,43.318656,-98.34648,43.318656],
+  "bbox": [
+    -98.34648,
+    43.318656,
+    -98.34648,
+    43.318656
+],
   "geometry": {"coordinates":[-98.34648,43.318656],"type":"Point"}
 }

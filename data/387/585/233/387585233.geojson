@@ -2,13 +2,14 @@
   "id": 387585233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.833051,43.315863,-96.833051,43.315863",
     "geom:latitude":43.315863,
     "geom:longitude":-96.833051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46865 281st St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387585233,
-    "wof:lastmodified":1449058645,
+    "wof:lastmodified":1467082738,
     "wof:name":"Wendell Buus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.833051,43.315863,-96.833051,43.315863],
+  "bbox": [
+    -96.833051,
+    43.315863,
+    -96.833051,
+    43.315863
+],
   "geometry": {"coordinates":[-96.833051,43.315863],"type":"Point"}
 }

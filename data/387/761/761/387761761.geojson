@@ -2,13 +2,14 @@
   "id": 387761761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.186811,44.079361,-103.186811,44.079361",
     "geom:latitude":44.079361,
     "geom:longitude":-103.186811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 E Hwy 44",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387761761,
-    "wof:lastmodified":1449059006,
+    "wof:lastmodified":1467082745,
     "wof:name":"Dakota Discount Auto",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-103.186811,44.079361,-103.186811,44.079361],
-  "geometry": {"coordinates":[-103.186811,44.079361],"type":"Point"}
+  "bbox": [
+    -103.186811,
+    44.079361,
+    -103.186811,
+    44.079361
+],
+  "geometry": {"coordinates":[-103.18681100000001,44.079361],"type":"Point"}
 }

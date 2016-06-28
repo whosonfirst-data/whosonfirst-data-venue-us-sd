@@ -2,13 +2,14 @@
   "id": 387834757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646957,43.630689,-96.646957,43.630689",
     "geom:latitude":43.630689,
     "geom:longitude":-96.646957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47877 259th St",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387834757,
-    "wof:lastmodified":1449056458,
+    "wof:lastmodified":1467082694,
     "wof:name":"Meier Construction",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.646957,43.630689,-96.646957,43.630689],
+  "bbox": [
+    -96.646957,
+    43.630689,
+    -96.646957,
+    43.630689
+],
   "geometry": {"coordinates":[-96.646957,43.630689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387728429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7089,43.546675,-96.7089,43.546675",
     "geom:latitude":43.546675,
     "geom:longitude":-96.7089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387728429,
-    "wof:lastmodified":1449056995,
+    "wof:lastmodified":1467082704,
     "wof:name":"St Dysmas Of South Dakota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.7089,43.546675,-96.7089,43.546675],
+  "bbox": [
+    -96.7089,
+    43.546675,
+    -96.7089,
+    43.546675
+],
   "geometry": {"coordinates":[-96.7089,43.546675],"type":"Point"}
 }

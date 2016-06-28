@@ -2,13 +2,14 @@
   "id": 387100933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646618,43.848074,-96.646618,43.848074",
     "geom:latitude":43.848074,
     "geom:longitude":-96.646618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47827 244th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387100933,
-    "wof:lastmodified":1449058924,
+    "wof:lastmodified":1467082743,
     "wof:name":"Dreamscapes Limited",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-96.646618,43.848074,-96.646618,43.848074],
+  "bbox": [
+    -96.646618,
+    43.848074,
+    -96.646618,
+    43.848074
+],
   "geometry": {"coordinates":[-96.646618,43.848074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387078785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.624481,45.22399,-96.624481,45.22399",
     "geom:latitude":45.22399,
     "geom:longitude":-96.624481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 N Lloyd St",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387078785,
-    "wof:lastmodified":1449059337,
+    "wof:lastmodified":1467082751,
     "wof:name":"Glenn Fryer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-96.624481,45.22399,-96.624481,45.22399],
+  "bbox": [
+    -96.624481,
+    45.22399,
+    -96.624481,
+    45.22399
+],
   "geometry": {"coordinates":[-96.624481,45.22399],"type":"Point"}
 }

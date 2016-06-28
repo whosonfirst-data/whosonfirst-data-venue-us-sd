@@ -2,13 +2,14 @@
   "id": 387646271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.098636,45.44712,-98.098636,45.44712",
     "geom:latitude":45.44712,
     "geom:longitude":-98.098636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387646271,
-    "wof:lastmodified":1449056022,
+    "wof:lastmodified":1467082685,
     "wof:name":"Pioneer Ford Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-98.098636,45.44712,-98.098636,45.44712],
+  "bbox": [
+    -98.098636,
+    45.44712,
+    -98.098636,
+    45.44712
+],
   "geometry": {"coordinates":[-98.098636,45.44712],"type":"Point"}
 }

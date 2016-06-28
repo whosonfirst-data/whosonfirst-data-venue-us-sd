@@ -2,13 +2,14 @@
   "id": 387561415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.423667,43.242125,-99.423667,43.242125",
     "geom:latitude":43.242125,
     "geom:longitude":-99.423667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Rice Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387561415,
-    "wof:lastmodified":1449058807,
+    "wof:lastmodified":1467082741,
     "wof:name":"Berean Fundamental Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-99.423667,43.242125,-99.423667,43.242125],
-  "geometry": {"coordinates":[-99.423667,43.242125],"type":"Point"}
+  "bbox": [
+    -99.423667,
+    43.242125,
+    -99.423667,
+    43.242125
+],
+  "geometry": {"coordinates":[-99.42366699999999,43.242125],"type":"Point"}
 }

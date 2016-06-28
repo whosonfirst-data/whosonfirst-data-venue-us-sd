@@ -2,13 +2,14 @@
   "id": 387193087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733123,43.498867,-96.733123,43.498867",
     "geom:latitude":43.498867,
     "geom:longitude":-96.733123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Chicory Cir",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387193087,
-    "wof:lastmodified":1449056720,
+    "wof:lastmodified":1467082699,
     "wof:name":"Lam Investments LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.733123,43.498867,-96.733123,43.498867],
-  "geometry": {"coordinates":[-96.733123,43.498867],"type":"Point"}
+  "bbox": [
+    -96.733123,
+    43.498867,
+    -96.733123,
+    43.498867
+],
+  "geometry": {"coordinates":[-96.73312300000001,43.498867],"type":"Point"}
 }

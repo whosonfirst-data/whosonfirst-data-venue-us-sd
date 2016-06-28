@@ -2,13 +2,14 @@
   "id": 387081415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.566976,43.594917,-96.566976,43.594917",
     "geom:latitude":43.594917,
     "geom:longitude":-96.566976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Sylvan Cir",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387081415,
-    "wof:lastmodified":1449057281,
+    "wof:lastmodified":1467082710,
     "wof:name":"Construction Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.566976,43.594917,-96.566976,43.594917],
+  "bbox": [
+    -96.566976,
+    43.594917,
+    -96.566976,
+    43.594917
+],
   "geometry": {"coordinates":[-96.566976,43.594917],"type":"Point"}
 }

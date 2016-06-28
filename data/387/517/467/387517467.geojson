@@ -2,13 +2,14 @@
   "id": 387517467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.460185,45.289954,-96.460185,45.289954",
     "geom:latitude":45.289954,
     "geom:longitude":-96.460185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Mitchell Ave",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387517467,
-    "wof:lastmodified":1449058280,
+    "wof:lastmodified":1467082730,
     "wof:name":"Omega Lettering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-96.460185,45.289954,-96.460185,45.289954],
+  "bbox": [
+    -96.460185,
+    45.289954,
+    -96.460185,
+    45.289954
+],
   "geometry": {"coordinates":[-96.460185,45.289954],"type":"Point"}
 }

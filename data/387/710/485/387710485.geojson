@@ -2,13 +2,14 @@
   "id": 387710485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701317,43.586365,-96.701317,43.586365",
     "geom:latitude":43.586365,
     "geom:longitude":-96.701317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 N Lewis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387710485,
-    "wof:lastmodified":1449056347,
+    "wof:lastmodified":1467082691,
     "wof:name":"Wicks Truck Trailers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.701317,43.586365,-96.701317,43.586365],
+  "bbox": [
+    -96.701317,
+    43.586365,
+    -96.701317,
+    43.586365
+],
   "geometry": {"coordinates":[-96.701317,43.586365],"type":"Point"}
 }

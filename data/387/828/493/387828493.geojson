@@ -2,13 +2,14 @@
   "id": 387828493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.007199,44.350777,-97.007199,44.350777",
     "geom:latitude":44.350777,
     "geom:longitude":-97.007199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20925 460th Ave",
     "sg:city":"Volga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387828493,
-    "wof:lastmodified":1449058034,
+    "wof:lastmodified":1467082726,
     "wof:name":"Dale E Knutson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.007199,44.350777,-97.007199,44.350777],
+  "bbox": [
+    -97.007199,
+    44.350777,
+    -97.007199,
+    44.350777
+],
   "geometry": {"coordinates":[-97.007199,44.350777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371057681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.49041,45.441553,-98.49041,45.441553",
     "geom:latitude":45.441553,
     "geom:longitude":-98.49041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1854 Eisenhower Cir",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371057681,
-    "wof:lastmodified":1449049539,
+    "wof:lastmodified":1467082665,
     "wof:name":"Aberdeen Security & Invstgtns",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "patrol"
     ]
 },
-  "bbox": [-98.49041,45.441553,-98.49041,45.441553],
+  "bbox": [
+    -98.49041,
+    45.441553,
+    -98.49041,
+    45.441553
+],
   "geometry": {"coordinates":[-98.49041,45.441553],"type":"Point"}
 }

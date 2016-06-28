@@ -2,13 +2,14 @@
   "id": 387497513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734801,43.53676,-96.734801,43.53676",
     "geom:latitude":43.53676,
     "geom:longitude":-96.734801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 W 18th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387497513,
-    "wof:lastmodified":1449059868,
+    "wof:lastmodified":1467082762,
     "wof:name":"Lutheran Social Services",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.734801,43.53676,-96.734801,43.53676],
+  "bbox": [
+    -96.734801,
+    43.53676,
+    -96.734801,
+    43.53676
+],
   "geometry": {"coordinates":[-96.734801,43.53676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403746459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.24341,44.080285,-103.24341,44.080285",
     "geom:latitude":44.080285,
     "geom:longitude":-103.24341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Upper Pine Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403746459,
-    "wof:lastmodified":1449054614,
+    "wof:lastmodified":1467082674,
     "wof:name":"T K Associates International",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.24341,44.080285,-103.24341,44.080285],
+  "bbox": [
+    -103.24341,
+    44.080285,
+    -103.24341,
+    44.080285
+],
   "geometry": {"coordinates":[-103.24341,44.080285],"type":"Point"}
 }

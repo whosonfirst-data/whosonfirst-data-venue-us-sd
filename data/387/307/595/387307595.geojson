@@ -2,13 +2,14 @@
   "id": 387307595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.668879,43.522078,-96.668879,43.522078",
     "geom:latitude":43.522078,
     "geom:longitude":-96.668879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4714 E 33rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387307595,
-    "wof:lastmodified":1449057089,
+    "wof:lastmodified":1467082706,
     "wof:name":"2 Guys & A Truck Moving Co",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.668879,43.522078,-96.668879,43.522078],
+  "bbox": [
+    -96.668879,
+    43.522078,
+    -96.668879,
+    43.522078
+],
   "geometry": {"coordinates":[-96.668879,43.522078],"type":"Point"}
 }

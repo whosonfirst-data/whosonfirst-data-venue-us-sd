@@ -2,13 +2,14 @@
   "id": 387243885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802905,43.505091,-96.802905,43.505091",
     "geom:latitude":43.505091,
     "geom:longitude":-96.802905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4513 S Plains Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387243885,
-    "wof:lastmodified":1449057336,
+    "wof:lastmodified":1467082711,
     "wof:name":"Crystal Clear Sound Production",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-96.802905,43.505091,-96.802905,43.505091],
+  "bbox": [
+    -96.802905,
+    43.505091,
+    -96.802905,
+    43.505091
+],
   "geometry": {"coordinates":[-96.802905,43.505091],"type":"Point"}
 }

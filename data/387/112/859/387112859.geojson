@@ -2,13 +2,14 @@
   "id": 387112859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.391337,44.371542,-100.391337,44.371542",
     "geom:latitude":44.371542,
     "geom:longitude":-100.391337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 US Hwy 14",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387112859,
-    "wof:lastmodified":1449057855,
+    "wof:lastmodified":1467082722,
     "wof:name":"Farm Bureau Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.391337,44.371542,-100.391337,44.371542],
-  "geometry": {"coordinates":[-100.391337,44.371542],"type":"Point"}
+  "bbox": [
+    -100.391337,
+    44.371542,
+    -100.391337,
+    44.371542
+],
+  "geometry": {"coordinates":[-100.39133699999999,44.371542],"type":"Point"}
 }

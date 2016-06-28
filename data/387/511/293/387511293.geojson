@@ -2,13 +2,14 @@
   "id": 387511293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.490854,45.462207,-98.490854,45.462207",
     "geom:latitude":45.462207,
     "geom:longitude":-98.490854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 3rd Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387511293,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1467082722,
     "wof:name":"North Western Energy",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-98.490854,45.462207,-98.490854,45.462207],
+  "bbox": [
+    -98.490854,
+    45.462207,
+    -98.490854,
+    45.462207
+],
   "geometry": {"coordinates":[-98.490854,45.462207],"type":"Point"}
 }

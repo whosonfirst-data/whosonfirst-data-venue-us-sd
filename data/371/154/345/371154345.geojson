@@ -2,13 +2,14 @@
   "id": 371154345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.124032,44.904235,-97.124032,44.904235",
     "geom:latitude":44.904235,
     "geom:longitude":-97.124032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 1st Ave NW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371154345,
-    "wof:lastmodified":1449050159,
+    "wof:lastmodified":1467082674,
     "wof:name":"Watertown Lawn & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lawn"
     ]
 },
-  "bbox": [-97.124032,44.904235,-97.124032,44.904235],
+  "bbox": [
+    -97.124032,
+    44.904235,
+    -97.124032,
+    44.904235
+],
   "geometry": {"coordinates":[-97.124032,44.904235],"type":"Point"}
 }

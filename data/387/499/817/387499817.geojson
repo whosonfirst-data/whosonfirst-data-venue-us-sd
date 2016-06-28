@@ -2,13 +2,14 @@
   "id": 387499817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76128,43.728287,-96.76128,43.728287",
     "geom:latitude":43.728287,
     "geom:longitude":-96.76128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25252 Big Sioux Rd",
     "sg:city":"Baltic",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387499817,
-    "wof:lastmodified":1449056826,
+    "wof:lastmodified":1467082701,
     "wof:name":"Raw Enterprises LLC",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.76128,43.728287,-96.76128,43.728287],
+  "bbox": [
+    -96.76128,
+    43.728287,
+    -96.76128,
+    43.728287
+],
   "geometry": {"coordinates":[-96.76128,43.728287],"type":"Point"}
 }

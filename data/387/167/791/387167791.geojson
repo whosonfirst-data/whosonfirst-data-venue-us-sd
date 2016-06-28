@@ -2,13 +2,14 @@
   "id": 387167791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.230685,43.972068,-103.230685,43.972068",
     "geom:latitude":43.972068,
     "geom:longitude":-103.230685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23681 Dogleg Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387167791,
-    "wof:lastmodified":1449058085,
+    "wof:lastmodified":1467082727,
     "wof:name":"Real Estate Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.230685,43.972068,-103.230685,43.972068],
-  "geometry": {"coordinates":[-103.230685,43.972068],"type":"Point"}
+  "bbox": [
+    -103.230685,
+    43.972068,
+    -103.230685,
+    43.972068
+],
+  "geometry": {"coordinates":[-103.23068499999999,43.972068],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386987473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.169463,44.097069,-103.169463,44.097069",
     "geom:latitude":44.097069,
     "geom:longitude":-103.169463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 Eglin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":386987473,
-    "wof:lastmodified":1449028790,
+    "wof:lastmodified":1467082652,
     "wof:name":"Kaneb Pipeline Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "refined"
     ]
 },
-  "bbox": [-103.169463,44.097069,-103.169463,44.097069],
-  "geometry": {"coordinates":[-103.169463,44.097069],"type":"Point"}
+  "bbox": [
+    -103.169463,
+    44.097069,
+    -103.169463,
+    44.097069
+],
+  "geometry": {"coordinates":[-103.16946299999999,44.097069],"type":"Point"}
 }

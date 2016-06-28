@@ -2,13 +2,14 @@
   "id": 371029549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.944105,43.630433,-96.944105,43.630433",
     "geom:latitude":43.630433,
     "geom:longitude":-96.944105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 State Hwy 38",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371029549,
-    "wof:lastmodified":1449049466,
+    "wof:lastmodified":1467082664,
     "wof:name":"Home Federal Bank",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.944105,43.630433,-96.944105,43.630433],
-  "geometry": {"coordinates":[-96.944105,43.630433],"type":"Point"}
+  "bbox": [
+    -96.944105,
+    43.630433,
+    -96.944105,
+    43.630433
+],
+  "geometry": {"coordinates":[-96.94410499999999,43.630433],"type":"Point"}
 }

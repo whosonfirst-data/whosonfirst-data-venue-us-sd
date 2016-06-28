@@ -2,13 +2,14 @@
   "id": 387626945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.689462,43.506513,-96.689462,43.506513",
     "geom:latitude":43.506513,
     "geom:longitude":-96.689462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4109 S Southeastern Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387626945,
-    "wof:lastmodified":1449059921,
+    "wof:lastmodified":1467082763,
     "wof:name":"Judy's Got To Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-96.689462,43.506513,-96.689462,43.506513],
-  "geometry": {"coordinates":[-96.689462,43.506513],"type":"Point"}
+  "bbox": [
+    -96.689462,
+    43.506513,
+    -96.689462,
+    43.506513
+],
+  "geometry": {"coordinates":[-96.68946200000001,43.506513],"type":"Point"}
 }

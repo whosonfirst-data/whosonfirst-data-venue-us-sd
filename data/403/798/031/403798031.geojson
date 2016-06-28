@@ -2,13 +2,14 @@
   "id": 403798031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.38321,43.725304,-97.38321,43.725304",
     "geom:latitude":43.725304,
     "geom:longitude":-97.38321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 E Norton Ave",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403798031,
-    "wof:lastmodified":1449054885,
+    "wof:lastmodified":1467082677,
     "wof:name":"Highway Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.38321,43.725304,-97.38321,43.725304],
-  "geometry": {"coordinates":[-97.38321,43.725304],"type":"Point"}
+  "bbox": [
+    -97.38321,
+    43.725304,
+    -97.38321,
+    43.725304
+],
+  "geometry": {"coordinates":[-97.38321000000001,43.725304],"type":"Point"}
 }

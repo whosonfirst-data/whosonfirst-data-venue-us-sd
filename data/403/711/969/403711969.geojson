@@ -2,13 +2,14 @@
   "id": 403711969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.205916,45.228938,-97.205916,45.228938",
     "geom:latitude":45.228938,
     "geom:longitude":-97.205916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14873 450th Ave",
     "sg:city":"Ortley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403711969,
-    "wof:lastmodified":1449055723,
+    "wof:lastmodified":1467082683,
     "wof:name":"Brink Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.205916,45.228938,-97.205916,45.228938],
+  "bbox": [
+    -97.205916,
+    45.228938,
+    -97.205916,
+    45.228938
+],
   "geometry": {"coordinates":[-97.205916,45.228938],"type":"Point"}
 }

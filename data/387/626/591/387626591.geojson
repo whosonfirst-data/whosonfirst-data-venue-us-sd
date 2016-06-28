@@ -2,13 +2,14 @@
   "id": 387626591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.350306,44.371003,-100.350306,44.371003",
     "geom:latitude":44.371003,
     "geom:longitude":-100.350306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 N Grand Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387626591,
-    "wof:lastmodified":1449059923,
+    "wof:lastmodified":1467082763,
     "wof:name":"Dakota Conference-Seventh-Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.350306,44.371003,-100.350306,44.371003],
+  "bbox": [
+    -100.350306,
+    44.371003,
+    -100.350306,
+    44.371003
+],
   "geometry": {"coordinates":[-100.350306,44.371003],"type":"Point"}
 }

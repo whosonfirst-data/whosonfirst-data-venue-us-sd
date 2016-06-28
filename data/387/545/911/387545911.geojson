@@ -2,13 +2,14 @@
   "id": 387545911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.283707,44.063161,-103.283707,44.063161",
     "geom:latitude":44.063161,
     "geom:longitude":-103.283707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Elmhurst Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387545911,
-    "wof:lastmodified":1449057021,
+    "wof:lastmodified":1467082705,
     "wof:name":"A & K Printing & Embroidery",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-103.283707,44.063161,-103.283707,44.063161],
-  "geometry": {"coordinates":[-103.283707,44.063161],"type":"Point"}
+  "bbox": [
+    -103.283707,
+    44.063161,
+    -103.283707,
+    44.063161
+],
+  "geometry": {"coordinates":[-103.28370700000001,44.063161],"type":"Point"}
 }

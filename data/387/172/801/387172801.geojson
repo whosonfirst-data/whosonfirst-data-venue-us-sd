@@ -2,13 +2,14 @@
   "id": 387172801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.224533,44.053067,-103.224533,44.053067",
     "geom:latitude":44.053067,
     "geom:longitude":-103.224533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Elk St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387172801,
-    "wof:lastmodified":1449057641,
+    "wof:lastmodified":1467082717,
     "wof:name":"Behavior Management Systems",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-103.224533,44.053067,-103.224533,44.053067],
-  "geometry": {"coordinates":[-103.224533,44.053067],"type":"Point"}
+  "bbox": [
+    -103.224533,
+    44.053067,
+    -103.224533,
+    44.053067
+],
+  "geometry": {"coordinates":[-103.22453299999999,44.053067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371091369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106752,44.905244,-97.106752,44.905244",
     "geom:latitude":44.905244,
     "geom:longitude":-97.106752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 4th St NE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371091369,
-    "wof:lastmodified":1449049132,
+    "wof:lastmodified":1467082659,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.106752,44.905244,-97.106752,44.905244],
+  "bbox": [
+    -97.106752,
+    44.905244,
+    -97.106752,
+    44.905244
+],
   "geometry": {"coordinates":[-97.106752,44.905244],"type":"Point"}
 }

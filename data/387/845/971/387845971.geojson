@@ -2,13 +2,14 @@
   "id": 387845971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.603209,43.765497,-103.603209,43.765497",
     "geom:latitude":43.765497,
     "geom:longitude":-103.603209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Mount Rushmore Rd",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387845971,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1467082699,
     "wof:name":"Sun-Rise Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.603209,43.765497,-103.603209,43.765497],
-  "geometry": {"coordinates":[-103.603209,43.765497],"type":"Point"}
+  "bbox": [
+    -103.603209,
+    43.765497,
+    -103.603209,
+    43.765497
+],
+  "geometry": {"coordinates":[-103.60320900000001,43.765497],"type":"Point"}
 }

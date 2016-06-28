@@ -2,13 +2,14 @@
   "id": 403710317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986357,43.629138,-97.986357,43.629138",
     "geom:latitude":43.629138,
     "geom:longitude":-97.986357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25905 411th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403710317,
-    "wof:lastmodified":1449054709,
+    "wof:lastmodified":1467082675,
     "wof:name":"Tilberg Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-97.986357,43.629138,-97.986357,43.629138],
+  "bbox": [
+    -97.986357,
+    43.629138,
+    -97.986357,
+    43.629138
+],
   "geometry": {"coordinates":[-97.986357,43.629138],"type":"Point"}
 }

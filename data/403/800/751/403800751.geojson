@@ -2,13 +2,14 @@
   "id": 403800751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.434114,45.541556,-100.434114,45.541556",
     "geom:latitude":45.541556,
     "geom:longitude":-100.434114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 9th St W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403800751,
-    "wof:lastmodified":1449054738,
+    "wof:lastmodified":1467082675,
     "wof:name":"Sioux Assembly Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-100.434114,45.541556,-100.434114,45.541556],
-  "geometry": {"coordinates":[-100.434114,45.541556],"type":"Point"}
+  "bbox": [
+    -100.434114,
+    45.541556,
+    -100.434114,
+    45.541556
+],
+  "geometry": {"coordinates":[-100.43411399999999,45.541556],"type":"Point"}
 }

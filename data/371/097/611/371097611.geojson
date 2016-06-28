@@ -2,13 +2,14 @@
   "id": 371097611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480035,43.427593,-103.480035,43.427593",
     "geom:latitude":43.427593,
     "geom:longitude":-103.480035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1543 Baltimore Ave",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371097611,
-    "wof:lastmodified":1449049436,
+    "wof:lastmodified":1467082664,
     "wof:name":"Hot Springs Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "executive"
     ]
 },
-  "bbox": [-103.480035,43.427593,-103.480035,43.427593],
+  "bbox": [
+    -103.480035,
+    43.427593,
+    -103.480035,
+    43.427593
+],
   "geometry": {"coordinates":[-103.480035,43.427593],"type":"Point"}
 }

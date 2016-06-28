@@ -2,13 +2,14 @@
   "id": 387845245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765289,43.554826,-96.765289,43.554826",
     "geom:latitude":43.554826,
     "geom:longitude":-96.765289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 W 3rd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387845245,
-    "wof:lastmodified":1449056728,
+    "wof:lastmodified":1467082699,
     "wof:name":"Ditek Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "printer"
     ]
 },
-  "bbox": [-96.765289,43.554826,-96.765289,43.554826],
+  "bbox": [
+    -96.765289,
+    43.554826,
+    -96.765289,
+    43.554826
+],
   "geometry": {"coordinates":[-96.765289,43.554826],"type":"Point"}
 }

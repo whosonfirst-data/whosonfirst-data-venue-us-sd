@@ -2,13 +2,14 @@
   "id": 387196993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721726,43.147334,-97.721726,43.147334",
     "geom:latitude":43.147334,
     "geom:longitude":-97.721726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Curry St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387196993,
-    "wof:lastmodified":1449056965,
+    "wof:lastmodified":1467082704,
     "wof:name":"Roger Hakl Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-97.721726,43.147334,-97.721726,43.147334],
+  "bbox": [
+    -97.721726,
+    43.147334,
+    -97.721726,
+    43.147334
+],
   "geometry": {"coordinates":[-97.721726,43.147334],"type":"Point"}
 }

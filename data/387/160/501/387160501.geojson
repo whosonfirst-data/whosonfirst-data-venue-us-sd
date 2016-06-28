@@ -2,13 +2,14 @@
   "id": 387160501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70134,43.550267,-96.70134,43.550267",
     "geom:latitude":43.550267,
     "geom:longitude":-96.70134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 N Lewis Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387160501,
-    "wof:lastmodified":1449059328,
+    "wof:lastmodified":1467082751,
     "wof:name":"RKS Express",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "courier"
     ]
 },
-  "bbox": [-96.70134,43.550267,-96.70134,43.550267],
+  "bbox": [
+    -96.70134,
+    43.550267,
+    -96.70134,
+    43.550267
+],
   "geometry": {"coordinates":[-96.70134,43.550267],"type":"Point"}
 }

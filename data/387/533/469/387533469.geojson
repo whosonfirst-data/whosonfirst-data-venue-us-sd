@@ -2,13 +2,14 @@
   "id": 387533469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.218612,44.358398,-98.218612,44.358398",
     "geom:latitude":44.358398,
     "geom:longitude":-98.218612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 7th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387533469,
-    "wof:lastmodified":1449056072,
+    "wof:lastmodified":1467082686,
     "wof:name":"Eastern South Dakota Foster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "foster"
     ]
 },
-  "bbox": [-98.218612,44.358398,-98.218612,44.358398],
-  "geometry": {"coordinates":[-98.218612,44.358398],"type":"Point"}
+  "bbox": [
+    -98.218612,
+    44.358398,
+    -98.218612,
+    44.358398
+],
+  "geometry": {"coordinates":[-98.21861199999999,44.358398],"type":"Point"}
 }

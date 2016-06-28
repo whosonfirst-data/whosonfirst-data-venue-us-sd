@@ -2,13 +2,14 @@
   "id": 387029009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.48821,45.469612,-98.48821,45.469612",
     "geom:latitude":45.469612,
     "geom:longitude":-98.48821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Main St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387029009,
-    "wof:lastmodified":1449057715,
+    "wof:lastmodified":1467082719,
     "wof:name":"Precious Poodles",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-98.48821,45.469612,-98.48821,45.469612],
+  "bbox": [
+    -98.48821,
+    45.469612,
+    -98.48821,
+    45.469612
+],
   "geometry": {"coordinates":[-98.48821,45.469612],"type":"Point"}
 }

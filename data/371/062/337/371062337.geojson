@@ -2,13 +2,14 @@
   "id": 371062337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728635,43.581426,-96.728635,43.581426",
     "geom:latitude":43.581426,
     "geom:longitude":-96.728635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371062337,
-    "wof:lastmodified":1449050080,
+    "wof:lastmodified":1467082672,
     "wof:name":"Globe Airport Security Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "patrol"
     ]
 },
-  "bbox": [-96.728635,43.581426,-96.728635,43.581426],
+  "bbox": [
+    -96.728635,
+    43.581426,
+    -96.728635,
+    43.581426
+],
   "geometry": {"coordinates":[-96.728635,43.581426],"type":"Point"}
 }

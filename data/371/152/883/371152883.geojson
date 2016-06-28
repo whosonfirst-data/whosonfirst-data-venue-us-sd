@@ -2,13 +2,14 @@
   "id": 371152883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724775,43.520306,-96.724775,43.520306",
     "geom:latitude":43.520306,
     "geom:longitude":-96.724775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S 1st Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":371152883,
-    "wof:lastmodified":1449049840,
+    "wof:lastmodified":1467082669,
     "wof:name":"YMCA Mens Stand",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.724775,43.520306,-96.724775,43.520306],
-  "geometry": {"coordinates":[-96.724775,43.520306],"type":"Point"}
+  "bbox": [
+    -96.724775,
+    43.520306,
+    -96.724775,
+    43.520306
+],
+  "geometry": {"coordinates":[-96.72477499999999,43.520306],"type":"Point"}
 }

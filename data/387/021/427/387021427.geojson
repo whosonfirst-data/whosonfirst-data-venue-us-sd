@@ -2,13 +2,14 @@
   "id": 387021427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738765,43.565266,-96.738765,43.565266",
     "geom:latitude":43.565266,
     "geom:longitude":-96.738765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 N C Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387021427,
-    "wof:lastmodified":1449058506,
+    "wof:lastmodified":1467082735,
     "wof:name":"Brown & Saenger",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.738765,43.565266,-96.738765,43.565266],
+  "bbox": [
+    -96.738765,
+    43.565266,
+    -96.738765,
+    43.565266
+],
   "geometry": {"coordinates":[-96.738765,43.565266],"type":"Point"}
 }

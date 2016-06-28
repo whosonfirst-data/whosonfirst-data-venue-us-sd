@@ -2,13 +2,14 @@
   "id": 403816075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.273388,44.059526,-103.273388,44.059526",
     "geom:latitude":44.059526,
     "geom:longitude":-103.273388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Frontier Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403816075,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1467082681,
     "wof:name":"Jensen Hardwood Floors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.273388,44.059526,-103.273388,44.059526],
+  "bbox": [
+    -103.273388,
+    44.059526,
+    -103.273388,
+    44.059526
+],
   "geometry": {"coordinates":[-103.273388,44.059526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387725119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.717475,43.14847,-97.717475,43.14847",
     "geom:latitude":43.14847,
     "geom:longitude":-97.717475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 3rd St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387725119,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1467082705,
     "wof:name":"Scotland United Methodist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-97.717475,43.14847,-97.717475,43.14847],
-  "geometry": {"coordinates":[-97.717475,43.14847],"type":"Point"}
+  "bbox": [
+    -97.717475,
+    43.14847,
+    -97.717475,
+    43.14847
+],
+  "geometry": {"coordinates":[-97.71747499999999,43.14847],"type":"Point"}
 }

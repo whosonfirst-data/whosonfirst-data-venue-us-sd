@@ -2,13 +2,14 @@
   "id": 371067823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.459239,45.461969,-98.459239,45.461969",
     "geom:latitude":45.461969,
     "geom:longitude":-98.459239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S Vivian St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371067823,
-    "wof:lastmodified":1449049111,
+    "wof:lastmodified":1467082659,
     "wof:name":"Centennial Homes Of Aberdeen",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-98.459239,45.461969,-98.459239,45.461969],
+  "bbox": [
+    -98.459239,
+    45.461969,
+    -98.459239,
+    45.461969
+],
   "geometry": {"coordinates":[-98.459239,45.461969],"type":"Point"}
 }

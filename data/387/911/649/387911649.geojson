@@ -2,13 +2,14 @@
   "id": 387911649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.369606,44.354168,-100.369606,44.354168",
     "geom:latitude":44.354168,
     "geom:longitude":-100.369606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 E Main Ave",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387911649,
-    "wof:lastmodified":1449059307,
+    "wof:lastmodified":1467082751,
     "wof:name":"Prairie Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contract"
     ]
 },
-  "bbox": [-100.369606,44.354168,-100.369606,44.354168],
+  "bbox": [
+    -100.369606,
+    44.354168,
+    -100.369606,
+    44.354168
+],
   "geometry": {"coordinates":[-100.369606,44.354168],"type":"Point"}
 }

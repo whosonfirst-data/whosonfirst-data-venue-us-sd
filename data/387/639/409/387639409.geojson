@@ -2,13 +2,14 @@
   "id": 387639409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.132681,44.368359,-97.132681,44.368359",
     "geom:latitude":44.368359,
     "geom:longitude":-97.132681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Care Center Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387639409,
-    "wof:lastmodified":1449059904,
+    "wof:lastmodified":1467082763,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-97.132681,44.368359,-97.132681,44.368359],
-  "geometry": {"coordinates":[-97.132681,44.368359],"type":"Point"}
+  "bbox": [
+    -97.132681,
+    44.368359,
+    -97.132681,
+    44.368359
+],
+  "geometry": {"coordinates":[-97.13268100000001,44.368359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387370767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.699091,43.413479,-98.699091,43.413479",
     "geom:latitude":43.413479,
     "geom:longitude":-98.699091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37444 274th St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387370767,
-    "wof:lastmodified":1449058188,
+    "wof:lastmodified":1467082729,
     "wof:name":"Dykshorn Percy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.699091,43.413479,-98.699091,43.413479],
+  "bbox": [
+    -98.699091,
+    43.413479,
+    -98.699091,
+    43.413479
+],
   "geometry": {"coordinates":[-98.699091,43.413479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370993783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.890217,43.348477,-96.890217,43.348477",
     "geom:latitude":43.348477,
     "geom:longitude":-96.890217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Poplar St",
     "sg:city":"Lennox",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370993783,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1467082656,
     "wof:name":"Robert Sinning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.890217,43.348477,-96.890217,43.348477],
-  "geometry": {"coordinates":[-96.890217,43.348477],"type":"Point"}
+  "bbox": [
+    -96.890217,
+    43.348477,
+    -96.890217,
+    43.348477
+],
+  "geometry": {"coordinates":[-96.89021700000001,43.348477],"type":"Point"}
 }

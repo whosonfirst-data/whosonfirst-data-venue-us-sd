@@ -2,13 +2,14 @@
   "id": 387687053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.798608,44.29253,-96.798608,44.29253",
     "geom:latitude":44.29253,
     "geom:longitude":-96.798608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 12th St S",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387687053,
-    "wof:lastmodified":1449057164,
+    "wof:lastmodified":1467082708,
     "wof:name":"Barrett's Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-96.798608,44.29253,-96.798608,44.29253],
+  "bbox": [
+    -96.798608,
+    44.29253,
+    -96.798608,
+    44.29253
+],
   "geometry": {"coordinates":[-96.798608,44.29253],"type":"Point"}
 }

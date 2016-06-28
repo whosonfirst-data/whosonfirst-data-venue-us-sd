@@ -2,13 +2,14 @@
   "id": 387625133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.727432,43.524781,-96.727432,43.524781",
     "geom:latitude":43.524781,
     "geom:longitude":-96.727432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 S Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387625133,
-    "wof:lastmodified":1449059980,
+    "wof:lastmodified":1467082764,
     "wof:name":"Panacea Property Management",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-96.727432,43.524781,-96.727432,43.524781],
-  "geometry": {"coordinates":[-96.727432,43.524781],"type":"Point"}
+  "bbox": [
+    -96.727432,
+    43.524781,
+    -96.727432,
+    43.524781
+],
+  "geometry": {"coordinates":[-96.72743199999999,43.524781],"type":"Point"}
 }

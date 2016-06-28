@@ -2,13 +2,14 @@
   "id": 387166641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.383525,43.485086,-98.383525,43.485086",
     "geom:latitude":43.485086,
     "geom:longitude":-98.383525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39050 269th St",
     "sg:city":"Corsica",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387166641,
-    "wof:lastmodified":1449058236,
+    "wof:lastmodified":1467082730,
     "wof:name":"Bosma Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.383525,43.485086,-98.383525,43.485086],
-  "geometry": {"coordinates":[-98.383525,43.485086],"type":"Point"}
+  "bbox": [
+    -98.383525,
+    43.485086,
+    -98.383525,
+    43.485086
+],
+  "geometry": {"coordinates":[-98.38352500000001,43.485086],"type":"Point"}
 }

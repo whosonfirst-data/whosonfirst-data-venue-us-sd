@@ -2,13 +2,14 @@
   "id": 371030855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.71355,43.520974,-96.71355,43.520974",
     "geom:latitude":43.520974,
     "geom:longitude":-96.71355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 S Arcadia Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371030855,
-    "wof:lastmodified":1449049401,
+    "wof:lastmodified":1467082663,
     "wof:name":"Main Stage Ballet & Dance Acad",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-96.71355,43.520974,-96.71355,43.520974],
+  "bbox": [
+    -96.71355,
+    43.520974,
+    -96.71355,
+    43.520974
+],
   "geometry": {"coordinates":[-96.71355,43.520974],"type":"Point"}
 }

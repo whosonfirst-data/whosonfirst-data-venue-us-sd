@@ -2,13 +2,14 @@
   "id": 370993193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.194568,44.085678,-103.194568,44.085678",
     "geom:latitude":44.085678,
     "geom:longitude":-103.194568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 E Philadelphia St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370993193,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1467082656,
     "wof:name":"Black Hills Chemical & Jntrl",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-103.194568,44.085678,-103.194568,44.085678],
+  "bbox": [
+    -103.194568,
+    44.085678,
+    -103.194568,
+    44.085678
+],
   "geometry": {"coordinates":[-103.194568,44.085678],"type":"Point"}
 }

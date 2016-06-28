@@ -2,13 +2,14 @@
   "id": 386955363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.578105,43.243016,-97.578105,43.243016",
     "geom:latitude":43.243016,
     "geom:longitude":-97.578105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 N 5th St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386955363,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1467082653,
     "wof:name":"Heritage Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.578105,43.243016,-97.578105,43.243016],
-  "geometry": {"coordinates":[-97.578105,43.243016],"type":"Point"}
+  "bbox": [
+    -97.578105,
+    43.243016,
+    -97.578105,
+    43.243016
+],
+  "geometry": {"coordinates":[-97.57810499999999,43.243016],"type":"Point"}
 }

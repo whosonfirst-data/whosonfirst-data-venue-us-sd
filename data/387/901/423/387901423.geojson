@@ -2,13 +2,14 @@
   "id": 387901423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.517068,44.413491,-103.517068,44.413491",
     "geom:latitude":44.413491,
     "geom:longitude":-103.517068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1029 5th St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387901423,
-    "wof:lastmodified":1449057700,
+    "wof:lastmodified":1467082719,
     "wof:name":"Meade County Extension Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.517068,44.413491,-103.517068,44.413491],
-  "geometry": {"coordinates":[-103.517068,44.413491],"type":"Point"}
+  "bbox": [
+    -103.517068,
+    44.413491,
+    -103.517068,
+    44.413491
+],
+  "geometry": {"coordinates":[-103.51706799999999,44.413491],"type":"Point"}
 }

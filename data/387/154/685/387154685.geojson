@@ -2,13 +2,14 @@
   "id": 387154685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.439532,45.538538,-100.439532,45.538538",
     "geom:latitude":45.538538,
     "geom:longitude":-100.439532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 6th St W",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387154685,
-    "wof:lastmodified":1449059973,
+    "wof:lastmodified":1467082764,
     "wof:name":"Mobridge Head Start Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.439532,45.538538,-100.439532,45.538538],
+  "bbox": [
+    -100.439532,
+    45.538538,
+    -100.439532,
+    45.538538
+],
   "geometry": {"coordinates":[-100.439532,45.538538],"type":"Point"}
 }

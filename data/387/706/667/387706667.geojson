@@ -2,13 +2,14 @@
   "id": 387706667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.800244,44.309027,-96.800244,44.309027",
     "geom:latitude":44.309027,
     "geom:longitude":-96.800244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 4th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387706667,
-    "wof:lastmodified":1449056384,
+    "wof:lastmodified":1467082692,
     "wof:name":"South Dakota Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "conservation"
     ]
 },
-  "bbox": [-96.800244,44.309027,-96.800244,44.309027],
-  "geometry": {"coordinates":[-96.800244,44.309027],"type":"Point"}
+  "bbox": [
+    -96.800244,
+    44.309027,
+    -96.800244,
+    44.309027
+],
+  "geometry": {"coordinates":[-96.80024400000001,44.309027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387823755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.30304,45.781114,-99.30304,45.781114",
     "geom:latitude":45.781114,
     "geom:longitude":-99.30304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34575 111th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387823755,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1467082762,
     "wof:name":"James Schumacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.30304,45.781114,-99.30304,45.781114],
+  "bbox": [
+    -99.30304,
+    45.781114,
+    -99.30304,
+    45.781114
+],
   "geometry": {"coordinates":[-99.30304,45.781114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371139991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.655988,44.470075,-97.655988,44.470075",
     "geom:latitude":44.470075,
     "geom:longitude":-97.655988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42718 201st St",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":371139991,
-    "wof:lastmodified":1449049124,
+    "wof:lastmodified":1467082659,
     "wof:name":"Poppen Merl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.655988,44.470075,-97.655988,44.470075],
-  "geometry": {"coordinates":[-97.655988,44.470075],"type":"Point"}
+  "bbox": [
+    -97.655988,
+    44.470075,
+    -97.655988,
+    44.470075
+],
+  "geometry": {"coordinates":[-97.65598799999999,44.470075],"type":"Point"}
 }

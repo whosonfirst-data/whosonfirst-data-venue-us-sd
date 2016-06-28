@@ -2,13 +2,14 @@
   "id": 387463157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720876,43.494846,-96.720876,43.494846",
     "geom:latitude":43.494846,
     "geom:longitude":-96.720876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 E Saint Andrews Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387463157,
-    "wof:lastmodified":1449058759,
+    "wof:lastmodified":1467082740,
     "wof:name":"LMMD Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-96.720876,43.494846,-96.720876,43.494846],
+  "bbox": [
+    -96.720876,
+    43.494846,
+    -96.720876,
+    43.494846
+],
   "geometry": {"coordinates":[-96.720876,43.494846],"type":"Point"}
 }

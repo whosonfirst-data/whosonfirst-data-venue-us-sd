@@ -2,13 +2,14 @@
   "id": 387352733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.720005,43.549534,-96.720005,43.549534",
     "geom:latitude":43.549534,
     "geom:longitude":-96.720005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 N Weber Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387352733,
-    "wof:lastmodified":1449058441,
+    "wof:lastmodified":1467082734,
     "wof:name":"Midwestern Mechanical Inc",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.720005,43.549534,-96.720005,43.549534],
+  "bbox": [
+    -96.720005,
+    43.549534,
+    -96.720005,
+    43.549534
+],
   "geometry": {"coordinates":[-96.720005,43.549534],"type":"Point"}
 }

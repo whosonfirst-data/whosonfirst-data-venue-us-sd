@@ -2,13 +2,14 @@
   "id": 371089343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.078367,44.886906,-97.078367,44.886906",
     "geom:latitude":44.886906,
     "geom:longitude":-97.078367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 23rd St SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371089343,
-    "wof:lastmodified":1449049254,
+    "wof:lastmodified":1467082661,
     "wof:name":"Vitran Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-97.078367,44.886906,-97.078367,44.886906],
+  "bbox": [
+    -97.078367,
+    44.886906,
+    -97.078367,
+    44.886906
+],
   "geometry": {"coordinates":[-97.078367,44.886906],"type":"Point"}
 }

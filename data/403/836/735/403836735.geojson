@@ -2,13 +2,14 @@
   "id": 403836735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.500974,45.411581,-98.500974,45.411581",
     "geom:latitude":45.411581,
     "geom:longitude":-98.500974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38685 Cadillac Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403836735,
-    "wof:lastmodified":1449055501,
+    "wof:lastmodified":1467082681,
     "wof:name":"Vetch Auto Body Repair",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-98.500974,45.411581,-98.500974,45.411581],
+  "bbox": [
+    -98.500974,
+    45.411581,
+    -98.500974,
+    45.411581
+],
   "geometry": {"coordinates":[-98.500974,45.411581],"type":"Point"}
 }

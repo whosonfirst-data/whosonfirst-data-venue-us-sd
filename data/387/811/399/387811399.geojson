@@ -2,13 +2,14 @@
   "id": 387811399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.072419,45.617561,-98.072419,45.617561",
     "geom:latitude":45.617561,
     "geom:longitude":-98.072419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40773 122nd St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387811399,
-    "wof:lastmodified":1449057932,
+    "wof:lastmodified":1467082723,
     "wof:name":"Barney Dombrowe",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.072419,45.617561,-98.072419,45.617561],
+  "bbox": [
+    -98.072419,
+    45.617561,
+    -98.072419,
+    45.617561
+],
   "geometry": {"coordinates":[-98.072419,45.617561],"type":"Point"}
 }

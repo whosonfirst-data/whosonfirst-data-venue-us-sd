@@ -2,13 +2,14 @@
   "id": 403701881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.324682,43.809144,-99.324682,43.809144",
     "geom:latitude":43.809144,
     "geom:longitude":-99.324682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Prospect Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403701881,
-    "wof:lastmodified":1449055682,
+    "wof:lastmodified":1467082682,
     "wof:name":"Weathercraft Company N Platte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-99.324682,43.809144,-99.324682,43.809144],
+  "bbox": [
+    -99.324682,
+    43.809144,
+    -99.324682,
+    43.809144
+],
   "geometry": {"coordinates":[-99.324682,43.809144],"type":"Point"}
 }

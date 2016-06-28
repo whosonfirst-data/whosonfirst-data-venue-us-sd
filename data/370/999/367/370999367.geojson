@@ -2,13 +2,14 @@
   "id": 370999367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.303594,44.003362,-103.303594,44.003362",
     "geom:latitude":44.003362,
     "geom:longitude":-103.303594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8439 Mittenwald Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":370999367,
-    "wof:lastmodified":1449032055,
+    "wof:lastmodified":1467082658,
     "wof:name":"Clarity Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-103.303594,44.003362,-103.303594,44.003362],
+  "bbox": [
+    -103.303594,
+    44.003362,
+    -103.303594,
+    44.003362
+],
   "geometry": {"coordinates":[-103.303594,44.003362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.234699,44.376353,-97.234699,44.376353",
     "geom:latitude":44.376353,
     "geom:longitude":-97.234699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Main St",
     "sg:city":"Hetland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387868415,
-    "wof:lastmodified":1449056292,
+    "wof:lastmodified":1467082690,
     "wof:name":"Cortrust Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.234699,44.376353,-97.234699,44.376353],
-  "geometry": {"coordinates":[-97.234699,44.376353],"type":"Point"}
+  "bbox": [
+    -97.234699,
+    44.376353,
+    -97.234699,
+    44.376353
+],
+  "geometry": {"coordinates":[-97.23469900000001,44.376353],"type":"Point"}
 }

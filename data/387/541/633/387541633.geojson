@@ -2,13 +2,14 @@
   "id": 387541633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.549203,44.386079,-97.549203,44.386079",
     "geom:latitude":44.386079,
     "geom:longitude":-97.549203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 2nd St SE",
     "sg:city":"De Smet",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387541633,
-    "wof:lastmodified":1449056533,
+    "wof:lastmodified":1467082695,
     "wof:name":"Purintun Abstract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.549203,44.386079,-97.549203,44.386079],
-  "geometry": {"coordinates":[-97.549203,44.386079],"type":"Point"}
+  "bbox": [
+    -97.549203,
+    44.386079,
+    -97.549203,
+    44.386079
+],
+  "geometry": {"coordinates":[-97.54920300000001,44.386079],"type":"Point"}
 }

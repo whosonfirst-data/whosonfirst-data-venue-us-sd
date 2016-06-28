@@ -2,13 +2,14 @@
   "id": 386958979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.78413,43.543968,-96.78413,43.543968",
     "geom:latitude":43.543968,
     "geom:longitude":-96.78413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386958979,
-    "wof:lastmodified":1449028881,
+    "wof:lastmodified":1467082654,
     "wof:name":"Motorcycles Primedia",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-96.78413,43.543968,-96.78413,43.543968],
+  "bbox": [
+    -96.78413,
+    43.543968,
+    -96.78413,
+    43.543968
+],
   "geometry": {"coordinates":[-96.78413,43.543968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387333253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.412747,45.428834,-98.412747,45.428834",
     "geom:latitude":45.428834,
     "geom:longitude":-98.412747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13508 391st Ave",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387333253,
-    "wof:lastmodified":1449059655,
+    "wof:lastmodified":1467082758,
     "wof:name":"Dutenhoffer Const Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-98.412747,45.428834,-98.412747,45.428834],
+  "bbox": [
+    -98.412747,
+    45.428834,
+    -98.412747,
+    45.428834
+],
   "geometry": {"coordinates":[-98.412747,45.428834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387383853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.73102,43.588029,-96.73102,43.588029",
     "geom:latitude":43.588029,
     "geom:longitude":-96.73102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 W Weather Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387383853,
-    "wof:lastmodified":1449057718,
+    "wof:lastmodified":1467082719,
     "wof:name":"Weather One Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-96.73102,43.588029,-96.73102,43.588029],
+  "bbox": [
+    -96.73102,
+    43.588029,
+    -96.73102,
+    43.588029
+],
   "geometry": {"coordinates":[-96.73102,43.588029],"type":"Point"}
 }

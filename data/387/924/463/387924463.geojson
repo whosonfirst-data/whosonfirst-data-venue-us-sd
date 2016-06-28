@@ -2,13 +2,14 @@
   "id": 387924463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.60219,43.493508,-96.60219,43.493508",
     "geom:latitude":43.493508,
     "geom:longitude":-96.60219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48020 Riverside Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387924463,
-    "wof:lastmodified":1449057154,
+    "wof:lastmodified":1467082707,
     "wof:name":"Carpenter Co The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.60219,43.493508,-96.60219,43.493508],
-  "geometry": {"coordinates":[-96.60219,43.493508],"type":"Point"}
+  "bbox": [
+    -96.60219,
+    43.493508,
+    -96.60219,
+    43.493508
+],
+  "geometry": {"coordinates":[-96.60218999999999,43.493508],"type":"Point"}
 }

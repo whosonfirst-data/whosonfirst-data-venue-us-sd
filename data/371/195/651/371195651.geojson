@@ -2,13 +2,14 @@
   "id": 371195651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.105437,45.172574,-99.105437,45.172574",
     "geom:latitude":45.172574,
     "geom:longitude":-99.105437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35345 153rd St",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":371195651,
-    "wof:lastmodified":1449049749,
+    "wof:lastmodified":1467082668,
     "wof:name":"Bakers Spray Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.105437,45.172574,-99.105437,45.172574],
-  "geometry": {"coordinates":[-99.105437,45.172574],"type":"Point"}
+  "bbox": [
+    -99.105437,
+    45.172574,
+    -99.105437,
+    45.172574
+],
+  "geometry": {"coordinates":[-99.10543699999999,45.172574],"type":"Point"}
 }

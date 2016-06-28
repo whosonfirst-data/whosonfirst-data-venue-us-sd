@@ -2,13 +2,14 @@
   "id": 387594077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.728097,43.544769,-96.728097,43.544769",
     "geom:latitude":43.544769,
     "geom:longitude":-96.728097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 W 11th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387594077,
-    "wof:lastmodified":1449056649,
+    "wof:lastmodified":1467082697,
     "wof:name":"Titanic Bar",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-96.728097,43.544769,-96.728097,43.544769],
-  "geometry": {"coordinates":[-96.728097,43.544769],"type":"Point"}
+  "bbox": [
+    -96.728097,
+    43.544769,
+    -96.728097,
+    43.544769
+],
+  "geometry": {"coordinates":[-96.72809700000001,43.544769],"type":"Point"}
 }

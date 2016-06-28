@@ -2,13 +2,14 @@
   "id": 387209479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.521406,44.418484,-103.521406,44.418484",
     "geom:latitude":44.418484,
     "geom:longitude":-103.521406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1814 Williams St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387209479,
-    "wof:lastmodified":1449059510,
+    "wof:lastmodified":1467082755,
     "wof:name":"Wood Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.521406,44.418484,-103.521406,44.418484],
+  "bbox": [
+    -103.521406,
+    44.418484,
+    -103.521406,
+    44.418484
+],
   "geometry": {"coordinates":[-103.521406,44.418484],"type":"Point"}
 }

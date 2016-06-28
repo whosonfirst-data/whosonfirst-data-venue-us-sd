@@ -2,13 +2,14 @@
   "id": 387411241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.706859,43.460657,-96.706859,43.460657",
     "geom:latitude":43.460657,
     "geom:longitude":-96.706859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47504 271st St",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387411241,
-    "wof:lastmodified":1449056296,
+    "wof:lastmodified":1467082690,
     "wof:name":"Tebben's Campers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.706859,43.460657,-96.706859,43.460657],
-  "geometry": {"coordinates":[-96.706859,43.460657],"type":"Point"}
+  "bbox": [
+    -96.706859,
+    43.460657,
+    -96.706859,
+    43.460657
+],
+  "geometry": {"coordinates":[-96.70685899999999,43.460657],"type":"Point"}
 }

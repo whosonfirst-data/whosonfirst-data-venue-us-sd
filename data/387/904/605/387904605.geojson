@@ -2,13 +2,14 @@
   "id": 387904605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.175104,43.268347,-98.175104,43.268347",
     "geom:latitude":43.268347,
     "geom:longitude":-98.175104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40029 284th St",
     "sg:city":"Delmont",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":387904605,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1467082765,
     "wof:name":"Dorothy Fink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-98.175104,43.268347,-98.175104,43.268347],
+  "bbox": [
+    -98.175104,
+    43.268347,
+    -98.175104,
+    43.268347
+],
   "geometry": {"coordinates":[-98.175104,43.268347],"type":"Point"}
 }

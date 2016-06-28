@@ -2,13 +2,14 @@
   "id": 387275567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.379618,45.570148,-99.379618,45.570148",
     "geom:latitude":45.570148,
     "geom:longitude":-99.379618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12623 340th Ave",
     "sg:city":"Hosmer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387275567,
-    "wof:lastmodified":1449057324,
+    "wof:lastmodified":1467082711,
     "wof:name":"Kim Preszler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.379618,45.570148,-99.379618,45.570148],
-  "geometry": {"coordinates":[-99.379618,45.570148],"type":"Point"}
+  "bbox": [
+    -99.379618,
+    45.570148,
+    -99.379618,
+    45.570148
+],
+  "geometry": {"coordinates":[-99.37961799999999,45.570148],"type":"Point"}
 }

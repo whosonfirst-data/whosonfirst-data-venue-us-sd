@@ -2,13 +2,14 @@
   "id": 387663861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.850267,44.491988,-103.850267,44.491988",
     "geom:latitude":44.491988,
     "geom:longitude":-103.850267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"729 N 12th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387663861,
-    "wof:lastmodified":1449058909,
+    "wof:lastmodified":1467082743,
     "wof:name":"Red D Cash Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "banking"
     ]
 },
-  "bbox": [-103.850267,44.491988,-103.850267,44.491988],
+  "bbox": [
+    -103.850267,
+    44.491988,
+    -103.850267,
+    44.491988
+],
   "geometry": {"coordinates":[-103.850267,44.491988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371172117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.491057,43.690567,-96.491057,43.690567",
     "geom:latitude":43.690567,
     "geom:longitude":-96.491057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25455 486th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371172117,
-    "wof:lastmodified":1449049446,
+    "wof:lastmodified":1467082664,
     "wof:name":"Norman Nussbaum",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.491057,43.690567,-96.491057,43.690567],
+  "bbox": [
+    -96.491057,
+    43.690567,
+    -96.491057,
+    43.690567
+],
   "geometry": {"coordinates":[-96.491057,43.690567],"type":"Point"}
 }

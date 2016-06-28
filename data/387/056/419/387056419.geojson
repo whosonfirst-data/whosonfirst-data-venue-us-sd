@@ -2,13 +2,14 @@
   "id": 387056419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.274109,44.085835,-103.274109,44.085835",
     "geom:latitude":44.085835,
     "geom:longitude":-103.274109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 W Chicago St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387056419,
-    "wof:lastmodified":1449057190,
+    "wof:lastmodified":1467082708,
     "wof:name":"Associated Dental Lab",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-103.274109,44.085835,-103.274109,44.085835],
+  "bbox": [
+    -103.274109,
+    44.085835,
+    -103.274109,
+    44.085835
+],
   "geometry": {"coordinates":[-103.274109,44.085835],"type":"Point"}
 }

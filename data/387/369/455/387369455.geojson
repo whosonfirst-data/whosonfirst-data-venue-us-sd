@@ -2,13 +2,14 @@
   "id": 387369455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.953599,42.785453,-96.953599,42.785453",
     "geom:latitude":42.785453,
     "geom:longitude":-96.953599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Kennedy St",
     "sg:city":"Vermillion",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387369455,
-    "wof:lastmodified":1449059725,
+    "wof:lastmodified":1467082759,
     "wof:name":"Kingdom Hall-Jehovahs Wtnsss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.953599,42.785453,-96.953599,42.785453],
+  "bbox": [
+    -96.953599,
+    42.785453,
+    -96.953599,
+    42.785453
+],
   "geometry": {"coordinates":[-96.953599,42.785453],"type":"Point"}
 }

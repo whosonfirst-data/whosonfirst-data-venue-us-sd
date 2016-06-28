@@ -2,13 +2,14 @@
   "id": 387688895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.226073,44.120956,-103.226073,44.120956",
     "geom:latitude":44.120956,
     "geom:longitude":-103.226073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3704 Champion Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387688895,
-    "wof:lastmodified":1449057524,
+    "wof:lastmodified":1467082715,
     "wof:name":"Midco Diving and Marine Svcs",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "marine"
     ]
 },
-  "bbox": [-103.226073,44.120956,-103.226073,44.120956],
+  "bbox": [
+    -103.226073,
+    44.120956,
+    -103.226073,
+    44.120956
+],
   "geometry": {"coordinates":[-103.226073,44.120956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371127865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.109333,43.593177,-97.109333,43.593177",
     "geom:latitude":43.593177,
     "geom:longitude":-97.109333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26158 455th Ave",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":371127865,
-    "wof:lastmodified":1449050054,
+    "wof:lastmodified":1467082672,
     "wof:name":"Cooper Communications",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "tower"
     ]
 },
-  "bbox": [-97.109333,43.593177,-97.109333,43.593177],
-  "geometry": {"coordinates":[-97.109333,43.593177],"type":"Point"}
+  "bbox": [
+    -97.109333,
+    43.593177,
+    -97.109333,
+    43.593177
+],
+  "geometry": {"coordinates":[-97.10933300000001,43.593177],"type":"Point"}
 }

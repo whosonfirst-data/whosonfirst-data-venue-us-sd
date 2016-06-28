@@ -2,13 +2,14 @@
   "id": 371070413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.346453,43.319733,-98.346453,43.319733",
     "geom:latitude":43.319733,
     "geom:longitude":-98.346453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Main St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371070413,
-    "wof:lastmodified":1449049513,
+    "wof:lastmodified":1467082665,
     "wof:name":"Rocket Printing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-98.346453,43.319733,-98.346453,43.319733],
+  "bbox": [
+    -98.346453,
+    43.319733,
+    -98.346453,
+    43.319733
+],
   "geometry": {"coordinates":[-98.346453,43.319733],"type":"Point"}
 }

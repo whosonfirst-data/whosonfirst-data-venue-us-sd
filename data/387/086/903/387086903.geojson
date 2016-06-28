@@ -2,13 +2,14 @@
   "id": 387086903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112806,44.005176,-97.112806,44.005176",
     "geom:latitude":44.005176,
     "geom:longitude":-97.112806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 E Center St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387086903,
-    "wof:lastmodified":1449058655,
+    "wof:lastmodified":1467082738,
     "wof:name":"Wire's Tax & Management Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "filing"
     ]
 },
-  "bbox": [-97.112806,44.005176,-97.112806,44.005176],
-  "geometry": {"coordinates":[-97.112806,44.005176],"type":"Point"}
+  "bbox": [
+    -97.112806,
+    44.005176,
+    -97.112806,
+    44.005176
+],
+  "geometry": {"coordinates":[-97.11280600000001,44.005176],"type":"Point"}
 }

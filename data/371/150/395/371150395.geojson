@@ -2,13 +2,14 @@
   "id": 371150395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.50462,44.397946,-103.50462,44.397946",
     "geom:latitude":44.397946,
     "geom:longitude":-103.50462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Anna St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371150395,
-    "wof:lastmodified":1449049088,
+    "wof:lastmodified":1467082659,
     "wof:name":"G John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.50462,44.397946,-103.50462,44.397946],
+  "bbox": [
+    -103.50462,
+    44.397946,
+    -103.50462,
+    44.397946
+],
   "geometry": {"coordinates":[-103.50462,44.397946],"type":"Point"}
 }

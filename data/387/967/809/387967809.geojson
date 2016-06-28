@@ -2,13 +2,14 @@
   "id": 387967809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.426353,43.231231,-99.426353,43.231231",
     "geom:latitude":43.231231,
     "geom:longitude":-99.426353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E 5th St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387967809,
-    "wof:lastmodified":1449059640,
+    "wof:lastmodified":1467082757,
     "wof:name":"Modern Woodmen-America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.426353,43.231231,-99.426353,43.231231],
-  "geometry": {"coordinates":[-99.426353,43.231231],"type":"Point"}
+  "bbox": [
+    -99.426353,
+    43.231231,
+    -99.426353,
+    43.231231
+],
+  "geometry": {"coordinates":[-99.42635300000001,43.231231],"type":"Point"}
 }

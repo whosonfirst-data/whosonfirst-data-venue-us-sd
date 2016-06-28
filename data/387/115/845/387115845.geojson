@@ -2,13 +2,14 @@
   "id": 387115845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.652499,45.453071,-99.652499,45.453071",
     "geom:latitude":45.453071,
     "geom:longitude":-99.652499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2086 Main St",
     "sg:city":"Bowdle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387115845,
-    "wof:lastmodified":1449056083,
+    "wof:lastmodified":1467082686,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.652499,45.453071,-99.652499,45.453071],
-  "geometry": {"coordinates":[-99.652499,45.453071],"type":"Point"}
+  "bbox": [
+    -99.652499,
+    45.453071,
+    -99.652499,
+    45.453071
+],
+  "geometry": {"coordinates":[-99.65249900000001,45.453071],"type":"Point"}
 }

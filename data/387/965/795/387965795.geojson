@@ -2,13 +2,14 @@
   "id": 387965795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.324983,43.809325,-99.324983,43.809325",
     "geom:latitude":43.809325,
     "geom:longitude":-99.324983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 E Prospect Ave",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387965795,
-    "wof:lastmodified":1449058767,
+    "wof:lastmodified":1467082740,
     "wof:name":"Burke Oil Propane Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-99.324983,43.809325,-99.324983,43.809325],
+  "bbox": [
+    -99.324983,
+    43.809325,
+    -99.324983,
+    43.809325
+],
   "geometry": {"coordinates":[-99.324983,43.809325],"type":"Point"}
 }

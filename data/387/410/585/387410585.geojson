@@ -2,13 +2,14 @@
   "id": 387410585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.901565,44.516322,-103.901565,44.516322",
     "geom:latitude":44.516322,
     "geom:longitude":-103.901565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Emerald Ct",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387410585,
-    "wof:lastmodified":1449056171,
+    "wof:lastmodified":1467082688,
     "wof:name":"Myers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-103.901565,44.516322,-103.901565,44.516322],
-  "geometry": {"coordinates":[-103.901565,44.516322],"type":"Point"}
+  "bbox": [
+    -103.901565,
+    44.516322,
+    -103.901565,
+    44.516322
+],
+  "geometry": {"coordinates":[-103.90156500000001,44.516322],"type":"Point"}
 }

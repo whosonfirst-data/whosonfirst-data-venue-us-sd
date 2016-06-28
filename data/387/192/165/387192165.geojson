@@ -2,13 +2,14 @@
   "id": 387192165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.622453,45.54004,-98.622453,45.54004",
     "geom:latitude":45.54004,
     "geom:longitude":-98.622453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126716 W Shore Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387192165,
-    "wof:lastmodified":1449058802,
+    "wof:lastmodified":1467082741,
     "wof:name":"Mohr Builders",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-98.622453,45.54004,-98.622453,45.54004],
-  "geometry": {"coordinates":[-98.622453,45.54004],"type":"Point"}
+  "bbox": [
+    -98.622453,
+    45.54004,
+    -98.622453,
+    45.54004
+],
+  "geometry": {"coordinates":[-98.62245299999999,45.54004],"type":"Point"}
 }

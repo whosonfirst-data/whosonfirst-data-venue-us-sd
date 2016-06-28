@@ -2,13 +2,14 @@
   "id": 387880091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.580274,45.329684,-98.580274,45.329684",
     "geom:latitude":45.329684,
     "geom:longitude":-98.580274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38286 142nd St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":387880091,
-    "wof:lastmodified":1449059952,
+    "wof:lastmodified":1467082764,
     "wof:name":"Kienow Farms",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.580274,45.329684,-98.580274,45.329684],
+  "bbox": [
+    -98.580274,
+    45.329684,
+    -98.580274,
+    45.329684
+],
   "geometry": {"coordinates":[-98.580274,45.329684],"type":"Point"}
 }

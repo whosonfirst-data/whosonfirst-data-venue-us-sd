@@ -2,13 +2,14 @@
   "id": 371010091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.196837,44.072282,-103.196837,44.072282",
     "geom:latitude":44.072282,
     "geom:longitude":-103.196837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Cherry Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":371010091,
-    "wof:lastmodified":1449049685,
+    "wof:lastmodified":1467082667,
     "wof:name":"Aduddell Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.196837,44.072282,-103.196837,44.072282],
+  "bbox": [
+    -103.196837,
+    44.072282,
+    -103.196837,
+    44.072282
+],
   "geometry": {"coordinates":[-103.196837,44.072282],"type":"Point"}
 }

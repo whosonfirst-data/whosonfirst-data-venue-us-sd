@@ -2,13 +2,14 @@
   "id": 387622805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.374215,44.358201,-100.374215,44.358201",
     "geom:latitude":44.358201,
     "geom:longitude":-100.374215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Deadwood St",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387622805,
-    "wof:lastmodified":1449059236,
+    "wof:lastmodified":1467082749,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.374215,44.358201,-100.374215,44.358201],
-  "geometry": {"coordinates":[-100.374215,44.358201],"type":"Point"}
+  "bbox": [
+    -100.374215,
+    44.358201,
+    -100.374215,
+    44.358201
+],
+  "geometry": {"coordinates":[-100.37421500000001,44.358201],"type":"Point"}
 }

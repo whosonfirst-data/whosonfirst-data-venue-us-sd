@@ -2,13 +2,14 @@
   "id": 403705231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758453,43.545027,-96.758453,43.545027",
     "geom:latitude":43.545027,
     "geom:longitude":-96.758453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 S Garfield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403705231,
-    "wof:lastmodified":1449055972,
+    "wof:lastmodified":1467082684,
     "wof:name":"Golden Harvest",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.758453,43.545027,-96.758453,43.545027],
+  "bbox": [
+    -96.758453,
+    43.545027,
+    -96.758453,
+    43.545027
+],
   "geometry": {"coordinates":[-96.758453,43.545027],"type":"Point"}
 }

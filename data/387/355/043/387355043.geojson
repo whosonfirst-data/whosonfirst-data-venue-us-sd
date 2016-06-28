@@ -2,13 +2,14 @@
   "id": 387355043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.219226,44.039916,-98.219226,44.039916",
     "geom:latitude":44.039916,
     "geom:longitude":-98.219226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39934 231st St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387355043,
-    "wof:lastmodified":1449057161,
+    "wof:lastmodified":1467082707,
     "wof:name":"Claude Owens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-98.219226,44.039916,-98.219226,44.039916],
-  "geometry": {"coordinates":[-98.219226,44.039916],"type":"Point"}
+  "bbox": [
+    -98.219226,
+    44.039916,
+    -98.219226,
+    44.039916
+],
+  "geometry": {"coordinates":[-98.21922600000001,44.039916],"type":"Point"}
 }

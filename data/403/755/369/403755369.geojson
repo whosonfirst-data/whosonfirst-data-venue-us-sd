@@ -2,13 +2,14 @@
   "id": 403755369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.955791,45.006241,-99.955791,45.006241",
     "geom:latitude":45.006241,
     "geom:longitude":-99.955791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 S Exene St",
     "sg:city":"Gettysburg",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403755369,
-    "wof:lastmodified":1449055017,
+    "wof:lastmodified":1467082678,
     "wof:name":"Paul Nelson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.955791,45.006241,-99.955791,45.006241],
+  "bbox": [
+    -99.955791,
+    45.006241,
+    -99.955791,
+    45.006241
+],
   "geometry": {"coordinates":[-99.955791,45.006241],"type":"Point"}
 }

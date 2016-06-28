@@ -2,13 +2,14 @@
   "id": 387328233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493855,45.470595,-98.493855,45.470595",
     "geom:latitude":45.470595,
     "geom:longitude":-98.493855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 N 4th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387328233,
-    "wof:lastmodified":1449058346,
+    "wof:lastmodified":1467082732,
     "wof:name":"Hub Music & Vending Co",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "devices"
     ]
 },
-  "bbox": [-98.493855,45.470595,-98.493855,45.470595],
+  "bbox": [
+    -98.493855,
+    45.470595,
+    -98.493855,
+    45.470595
+],
   "geometry": {"coordinates":[-98.493855,45.470595],"type":"Point"}
 }

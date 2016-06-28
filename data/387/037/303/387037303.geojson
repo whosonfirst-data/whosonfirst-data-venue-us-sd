@@ -2,13 +2,14 @@
   "id": 387037303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214196,44.361987,-98.214196,44.361987",
     "geom:latitude":44.361987,
     "geom:longitude":-98.214196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387037303,
-    "wof:lastmodified":1449059985,
+    "wof:lastmodified":1467082765,
     "wof:name":"James River Water Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "conservation"
     ]
 },
-  "bbox": [-98.214196,44.361987,-98.214196,44.361987],
+  "bbox": [
+    -98.214196,
+    44.361987,
+    -98.214196,
+    44.361987
+],
   "geometry": {"coordinates":[-98.214196,44.361987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387146303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.292266,43.593993,-97.292266,43.593993",
     "geom:latitude":43.593993,
     "geom:longitude":-97.292266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Ash St",
     "sg:city":"Canistota",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387146303,
-    "wof:lastmodified":1449057678,
+    "wof:lastmodified":1467082718,
     "wof:name":"Bjorkman & Fink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-97.292266,43.593993,-97.292266,43.593993],
+  "bbox": [
+    -97.292266,
+    43.593993,
+    -97.292266,
+    43.593993
+],
   "geometry": {"coordinates":[-97.292266,43.593993],"type":"Point"}
 }

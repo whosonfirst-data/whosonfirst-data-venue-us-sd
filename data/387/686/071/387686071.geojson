@@ -2,13 +2,14 @@
   "id": 387686071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.575474,43.932447,-103.575474,43.932447",
     "geom:latitude":43.932447,
     "geom:longitude":-103.575474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Main St",
     "sg:city":"Hill City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387686071,
-    "wof:lastmodified":1449058987,
+    "wof:lastmodified":1467082744,
     "wof:name":"Hill City Cafe",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.575474,43.932447,-103.575474,43.932447],
+  "bbox": [
+    -103.575474,
+    43.932447,
+    -103.575474,
+    43.932447
+],
   "geometry": {"coordinates":[-103.575474,43.932447],"type":"Point"}
 }

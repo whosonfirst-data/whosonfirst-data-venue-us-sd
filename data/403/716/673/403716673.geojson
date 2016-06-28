@@ -2,13 +2,14 @@
   "id": 403716673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.432404,45.537241,-100.432404,45.537241",
     "geom:latitude":45.537241,
     "geom:longitude":-100.432404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 1st Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403716673,
-    "wof:lastmodified":1449054815,
+    "wof:lastmodified":1467082676,
     "wof:name":"Ashley L'Shae's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.432404,45.537241,-100.432404,45.537241],
-  "geometry": {"coordinates":[-100.432404,45.537241],"type":"Point"}
+  "bbox": [
+    -100.432404,
+    45.537241,
+    -100.432404,
+    45.537241
+],
+  "geometry": {"coordinates":[-100.43240400000001,45.537241],"type":"Point"}
 }

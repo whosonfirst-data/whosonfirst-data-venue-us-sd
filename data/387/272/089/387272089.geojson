@@ -2,13 +2,14 @@
   "id": 387272089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.856774,43.380578,-99.856774,43.380578",
     "geom:latitude":43.380578,
     "geom:longitude":-99.856774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 N Main St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387272089,
-    "wof:lastmodified":1449059656,
+    "wof:lastmodified":1467082758,
     "wof:name":"Winner Evangelical Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.856774,43.380578,-99.856774,43.380578],
+  "bbox": [
+    -99.856774,
+    43.380578,
+    -99.856774,
+    43.380578
+],
   "geometry": {"coordinates":[-99.856774,43.380578],"type":"Point"}
 }

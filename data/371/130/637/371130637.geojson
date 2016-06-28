@@ -2,13 +2,14 @@
   "id": 371130637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.324597,44.359911,-100.324597,44.359911",
     "geom:latitude":44.359911,
     "geom:longitude":-100.324597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Filmore Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371130637,
-    "wof:lastmodified":1449049357,
+    "wof:lastmodified":1467082662,
     "wof:name":"Cody Cruea & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-100.324597,44.359911,-100.324597,44.359911],
+  "bbox": [
+    -100.324597,
+    44.359911,
+    -100.324597,
+    44.359911
+],
   "geometry": {"coordinates":[-100.324597,44.359911],"type":"Point"}
 }

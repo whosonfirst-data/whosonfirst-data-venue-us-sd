@@ -2,13 +2,14 @@
   "id": 387305297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681416,43.551176,-96.681416,43.551176",
     "geom:latitude":43.551176,
     "geom:longitude":-96.681416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 N Locust Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387305297,
-    "wof:lastmodified":1449056681,
+    "wof:lastmodified":1467082698,
     "wof:name":"Nelson's Furniture Repair",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "furniture"
     ]
 },
-  "bbox": [-96.681416,43.551176,-96.681416,43.551176],
+  "bbox": [
+    -96.681416,
+    43.551176,
+    -96.681416,
+    43.551176
+],
   "geometry": {"coordinates":[-96.681416,43.551176],"type":"Point"}
 }

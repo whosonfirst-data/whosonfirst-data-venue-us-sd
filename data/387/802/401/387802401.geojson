@@ -2,13 +2,14 @@
   "id": 387802401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.296848,44.003771,-103.296848,44.003771",
     "geom:latitude":44.003771,
     "geom:longitude":-103.296848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4608 Marcia Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":387802401,
-    "wof:lastmodified":1449059210,
+    "wof:lastmodified":1467082749,
     "wof:name":"Usw Region 11 Local 7833",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.296848,44.003771,-103.296848,44.003771],
+  "bbox": [
+    -103.296848,
+    44.003771,
+    -103.296848,
+    44.003771
+],
   "geometry": {"coordinates":[-103.296848,44.003771],"type":"Point"}
 }

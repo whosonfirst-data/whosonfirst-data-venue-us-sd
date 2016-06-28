@@ -2,13 +2,14 @@
   "id": 403828969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.106893,44.888805,-97.106893,44.888805",
     "geom:latitude":44.888805,
     "geom:longitude":-97.106893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 10th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":403828969,
-    "wof:lastmodified":1449055325,
+    "wof:lastmodified":1467082680,
     "wof:name":"The Butcher Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "packer"
     ]
 },
-  "bbox": [-97.106893,44.888805,-97.106893,44.888805],
+  "bbox": [
+    -97.106893,
+    44.888805,
+    -97.106893,
+    44.888805
+],
   "geometry": {"coordinates":[-97.106893,44.888805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387529791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7436,43.570924,-96.7436,43.570924",
     "geom:latitude":43.570924,
     "geom:longitude":-96.7436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 N Industrial Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387529791,
-    "wof:lastmodified":1449057774,
+    "wof:lastmodified":1467082720,
     "wof:name":"Rushmore Cartage Inc",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.7436,43.570924,-96.7436,43.570924],
+  "bbox": [
+    -96.7436,
+    43.570924,
+    -96.7436,
+    43.570924
+],
   "geometry": {"coordinates":[-96.7436,43.570924],"type":"Point"}
 }

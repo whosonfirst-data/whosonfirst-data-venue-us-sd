@@ -2,13 +2,14 @@
   "id": 370971823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.480014,43.438737,-103.480014,43.438737",
     "geom:latitude":43.438737,
     "geom:longitude":-103.480014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 N River St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370971823,
-    "wof:lastmodified":1449030797,
+    "wof:lastmodified":1467082657,
     "wof:name":"Fall River Extension Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.480014,43.438737,-103.480014,43.438737],
+  "bbox": [
+    -103.480014,
+    43.438737,
+    -103.480014,
+    43.438737
+],
   "geometry": {"coordinates":[-103.480014,43.438737],"type":"Point"}
 }

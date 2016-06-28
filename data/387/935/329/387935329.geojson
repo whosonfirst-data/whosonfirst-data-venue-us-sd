@@ -2,13 +2,14 @@
   "id": 387935329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806873,44.31446,-96.806873,44.31446",
     "geom:latitude":44.31446,
     "geom:longitude":-96.806873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 8th St W",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387935329,
-    "wof:lastmodified":1449059244,
+    "wof:lastmodified":1467082750,
     "wof:name":"Mpm Investments Partnershi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-96.806873,44.31446,-96.806873,44.31446],
+  "bbox": [
+    -96.806873,
+    44.31446,
+    -96.806873,
+    44.31446
+],
   "geometry": {"coordinates":[-96.806873,44.31446],"type":"Point"}
 }

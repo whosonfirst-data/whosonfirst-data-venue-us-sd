@@ -2,13 +2,14 @@
   "id": 387572827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.26508,44.054027,-98.26508,44.054027",
     "geom:latitude":44.054027,
     "geom:longitude":-98.26508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 E 7th St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387572827,
-    "wof:lastmodified":1449058432,
+    "wof:lastmodified":1467082733,
     "wof:name":"Express Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.26508,44.054027,-98.26508,44.054027],
+  "bbox": [
+    -98.26508,
+    44.054027,
+    -98.26508,
+    44.054027
+],
   "geometry": {"coordinates":[-98.26508,44.054027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387504365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.740195,43.514784,-96.740195,43.514784",
     "geom:latitude":43.514784,
     "geom:longitude":-96.740195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":387504365,
-    "wof:lastmodified":1449056767,
+    "wof:lastmodified":1467082700,
     "wof:name":"Sioux Falls Music Company",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-96.740195,43.514784,-96.740195,43.514784],
+  "bbox": [
+    -96.740195,
+    43.514784,
+    -96.740195,
+    43.514784
+],
   "geometry": {"coordinates":[-96.740195,43.514784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387842143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.747106,44.437427,-96.747106,44.437427",
     "geom:latitude":44.437427,
     "geom:longitude":-96.747106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20332 473rd Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387842143,
-    "wof:lastmodified":1449056392,
+    "wof:lastmodified":1467082692,
     "wof:name":"Donald D Selleck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.747106,44.437427,-96.747106,44.437427],
+  "bbox": [
+    -96.747106,
+    44.437427,
+    -96.747106,
+    44.437427
+],
   "geometry": {"coordinates":[-96.747106,44.437427],"type":"Point"}
 }

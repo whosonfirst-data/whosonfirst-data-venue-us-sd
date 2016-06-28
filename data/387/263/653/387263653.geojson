@@ -2,13 +2,14 @@
   "id": 387263653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.224257,44.851718,-100.224257,44.851718",
     "geom:latitude":44.851718,
     "geom:longitude":-100.224257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17507 296th Ave",
     "sg:city":"Agar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387263653,
-    "wof:lastmodified":1449059805,
+    "wof:lastmodified":1467082761,
     "wof:name":"Mikklensen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-100.224257,44.851718,-100.224257,44.851718],
-  "geometry": {"coordinates":[-100.224257,44.851718],"type":"Point"}
+  "bbox": [
+    -100.224257,
+    44.851718,
+    -100.224257,
+    44.851718
+],
+  "geometry": {"coordinates":[-100.22425699999999,44.851718],"type":"Point"}
 }

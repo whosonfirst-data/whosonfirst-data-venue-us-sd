@@ -2,13 +2,14 @@
   "id": 403826475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.433396,45.462166,-98.433396,45.462166",
     "geom:latitude":45.462166,
     "geom:longitude":-98.433396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Brown County 19 N",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403826475,
-    "wof:lastmodified":1449055577,
+    "wof:lastmodified":1467082682,
     "wof:name":"Jobbers Moving Storage & Box",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-98.433396,45.462166,-98.433396,45.462166],
+  "bbox": [
+    -98.433396,
+    45.462166,
+    -98.433396,
+    45.462166
+],
   "geometry": {"coordinates":[-98.433396,45.462166],"type":"Point"}
 }

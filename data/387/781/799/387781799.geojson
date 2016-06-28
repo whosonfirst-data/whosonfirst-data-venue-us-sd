@@ -2,13 +2,14 @@
   "id": 387781799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.994307,45.375172,-98.994307,45.375172",
     "geom:latitude":45.375172,
     "geom:longitude":-98.994307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35955 139th St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387781799,
-    "wof:lastmodified":1449056817,
+    "wof:lastmodified":1467082701,
     "wof:name":"Pembrook Feed & Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.994307,45.375172,-98.994307,45.375172],
-  "geometry": {"coordinates":[-98.994307,45.375172],"type":"Point"}
+  "bbox": [
+    -98.994307,
+    45.375172,
+    -98.994307,
+    45.375172
+],
+  "geometry": {"coordinates":[-98.99430700000001,45.375172],"type":"Point"}
 }

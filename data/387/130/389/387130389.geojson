@@ -2,13 +2,14 @@
   "id": 387130389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.717697,43.827281,-96.717697,43.827281",
     "geom:latitude":43.827281,
     "geom:longitude":-96.717697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Johnstone Dr",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387130389,
-    "wof:lastmodified":1449057407,
+    "wof:lastmodified":1467082713,
     "wof:name":"Reformed Church Parsonage",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parsonage"
     ]
 },
-  "bbox": [-96.717697,43.827281,-96.717697,43.827281],
+  "bbox": [
+    -96.717697,
+    43.827281,
+    -96.717697,
+    43.827281
+],
   "geometry": {"coordinates":[-96.717697,43.827281],"type":"Point"}
 }

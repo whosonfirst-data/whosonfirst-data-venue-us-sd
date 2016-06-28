@@ -2,13 +2,14 @@
   "id": 403766507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.211511,44.353724,-98.211511,44.353724",
     "geom:latitude":44.353724,
     "geom:longitude":-98.211511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 11th St SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403766507,
-    "wof:lastmodified":1449054612,
+    "wof:lastmodified":1467082674,
     "wof:name":"McHugh Rhonda Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.211511,44.353724,-98.211511,44.353724],
+  "bbox": [
+    -98.211511,
+    44.353724,
+    -98.211511,
+    44.353724
+],
   "geometry": {"coordinates":[-98.211511,44.353724],"type":"Point"}
 }

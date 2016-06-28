@@ -2,13 +2,14 @@
   "id": 387231169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.305392,44.012934,-103.305392,44.012934",
     "geom:latitude":44.012934,
     "geom:longitude":-103.305392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7545 Crossbill Cir",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387231169,
-    "wof:lastmodified":1449058053,
+    "wof:lastmodified":1467082726,
     "wof:name":"Natural Stone Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-103.305392,44.012934,-103.305392,44.012934],
+  "bbox": [
+    -103.305392,
+    44.012934,
+    -103.305392,
+    44.012934
+],
   "geometry": {"coordinates":[-103.305392,44.012934],"type":"Point"}
 }

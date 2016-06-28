@@ -2,13 +2,14 @@
   "id": 387632461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.324681,45.659918,-99.324681,45.659918",
     "geom:latitude":45.659918,
     "geom:longitude":-99.324681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12064 343rd Ave",
     "sg:city":"Hosmer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387632461,
-    "wof:lastmodified":1449058536,
+    "wof:lastmodified":1467082735,
     "wof:name":"Jeff Mohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-99.324681,45.659918,-99.324681,45.659918],
+  "bbox": [
+    -99.324681,
+    45.659918,
+    -99.324681,
+    45.659918
+],
   "geometry": {"coordinates":[-99.324681,45.659918],"type":"Point"}
 }

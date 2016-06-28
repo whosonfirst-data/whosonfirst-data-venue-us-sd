@@ -2,13 +2,14 @@
   "id": 387948135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.152703,45.882493,-98.152703,45.882493",
     "geom:latitude":45.882493,
     "geom:longitude":-98.152703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Main St",
     "sg:city":"Tolstoy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387948135,
-    "wof:lastmodified":1449059123,
+    "wof:lastmodified":1467082747,
     "wof:name":"R & K Cabinets & Remodeling",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cabinet"
     ]
 },
-  "bbox": [-98.152703,45.882493,-98.152703,45.882493],
+  "bbox": [
+    -98.152703,
+    45.882493,
+    -98.152703,
+    45.882493
+],
   "geometry": {"coordinates":[-98.152703,45.882493],"type":"Point"}
 }

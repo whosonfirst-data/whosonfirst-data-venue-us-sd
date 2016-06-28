@@ -2,13 +2,14 @@
   "id": 371015769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.372667,44.350144,-100.372667,44.350144",
     "geom:latitude":44.350144,
     "geom:longitude":-100.372667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 State Hwy 1806",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371015769,
-    "wof:lastmodified":1449049283,
+    "wof:lastmodified":1467082661,
     "wof:name":"ABC Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-100.372667,44.350144,-100.372667,44.350144],
-  "geometry": {"coordinates":[-100.372667,44.350144],"type":"Point"}
+  "bbox": [
+    -100.372667,
+    44.350144,
+    -100.372667,
+    44.350144
+],
+  "geometry": {"coordinates":[-100.37266700000001,44.350144],"type":"Point"}
 }

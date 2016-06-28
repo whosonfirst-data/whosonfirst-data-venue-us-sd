@@ -2,13 +2,14 @@
   "id": 371027235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.99339,43.125548,-97.99339,43.125548",
     "geom:latitude":43.125548,
     "geom:longitude":-97.99339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40974 294th St",
     "sg:city":"Tripp",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371027235,
-    "wof:lastmodified":1449049230,
+    "wof:lastmodified":1467082661,
     "wof:name":"Melvin Finck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.99339,43.125548,-97.99339,43.125548],
-  "geometry": {"coordinates":[-97.99339,43.125548],"type":"Point"}
+  "bbox": [
+    -97.99339,
+    43.125548,
+    -97.99339,
+    43.125548
+],
+  "geometry": {"coordinates":[-97.99339000000001,43.125548],"type":"Point"}
 }

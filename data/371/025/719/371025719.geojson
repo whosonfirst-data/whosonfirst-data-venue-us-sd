@@ -2,13 +2,14 @@
   "id": 371025719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.644811,44.528188,-96.644811,44.528188",
     "geom:latitude":44.528188,
     "geom:longitude":-96.644811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47809 197th St",
     "sg:city":"Toronto",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371025719,
-    "wof:lastmodified":1449049945,
+    "wof:lastmodified":1467082671,
     "wof:name":"Kruse Harm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-96.644811,44.528188,-96.644811,44.528188],
+  "bbox": [
+    -96.644811,
+    44.528188,
+    -96.644811,
+    44.528188
+],
   "geometry": {"coordinates":[-96.644811,44.528188],"type":"Point"}
 }

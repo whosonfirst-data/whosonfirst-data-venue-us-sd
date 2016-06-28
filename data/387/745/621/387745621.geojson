@@ -2,13 +2,14 @@
   "id": 387745621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.048006,45.656061,-97.048006,45.656061",
     "geom:latitude":45.656061,
     "geom:longitude":-97.048006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Hillview Rd",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387745621,
-    "wof:lastmodified":1449059749,
+    "wof:lastmodified":1467082760,
     "wof:name":"Greenleaf Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "living"
     ]
 },
-  "bbox": [-97.048006,45.656061,-97.048006,45.656061],
+  "bbox": [
+    -97.048006,
+    45.656061,
+    -97.048006,
+    45.656061
+],
   "geometry": {"coordinates":[-97.048006,45.656061],"type":"Point"}
 }

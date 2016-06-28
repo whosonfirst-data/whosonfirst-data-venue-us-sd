@@ -2,13 +2,14 @@
   "id": 387342655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.093836,45.6176,-98.093836,45.6176",
     "geom:latitude":45.6176,
     "geom:longitude":-98.093836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40649 122nd St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387342655,
-    "wof:lastmodified":1449059651,
+    "wof:lastmodified":1467082758,
     "wof:name":"Huffton Gap",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bean"
     ]
 },
-  "bbox": [-98.093836,45.6176,-98.093836,45.6176],
+  "bbox": [
+    -98.093836,
+    45.6176,
+    -98.093836,
+    45.6176
+],
   "geometry": {"coordinates":[-98.093836,45.6176],"type":"Point"}
 }

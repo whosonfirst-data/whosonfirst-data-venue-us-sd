@@ -2,13 +2,14 @@
   "id": 387329293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711423,43.586047,-96.711423,43.586047",
     "geom:latitude":43.586047,
     "geom:longitude":-96.711423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3309 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387329293,
-    "wof:lastmodified":1449057155,
+    "wof:lastmodified":1467082707,
     "wof:name":"Charlie's Truck Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-96.711423,43.586047,-96.711423,43.586047],
+  "bbox": [
+    -96.711423,
+    43.586047,
+    -96.711423,
+    43.586047
+],
   "geometry": {"coordinates":[-96.711423,43.586047],"type":"Point"}
 }

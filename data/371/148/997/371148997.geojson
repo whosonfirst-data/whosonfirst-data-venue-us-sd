@@ -2,13 +2,14 @@
   "id": 371148997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.721524,43.149649,-97.721524,43.149649",
     "geom:latitude":43.149649,
     "geom:longitude":-97.721524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Main St",
     "sg:city":"Scotland",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":371148997,
-    "wof:lastmodified":1449049963,
+    "wof:lastmodified":1467082671,
     "wof:name":"Curtis R Johnson DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-97.721524,43.149649,-97.721524,43.149649],
+  "bbox": [
+    -97.721524,
+    43.149649,
+    -97.721524,
+    43.149649
+],
   "geometry": {"coordinates":[-97.721524,43.149649],"type":"Point"}
 }

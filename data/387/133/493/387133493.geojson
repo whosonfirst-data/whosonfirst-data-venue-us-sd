@@ -2,13 +2,14 @@
   "id": 387133493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.886446,44.519947,-103.886446,44.519947",
     "geom:latitude":44.519947,
     "geom:longitude":-103.886446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 E Fairground Loop",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387133493,
-    "wof:lastmodified":1449059264,
+    "wof:lastmodified":1467082750,
     "wof:name":"Black Hills Sandwich Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-103.886446,44.519947,-103.886446,44.519947],
-  "geometry": {"coordinates":[-103.886446,44.519947],"type":"Point"}
+  "bbox": [
+    -103.886446,
+    44.519947,
+    -103.886446,
+    44.519947
+],
+  "geometry": {"coordinates":[-103.88644600000001,44.519947],"type":"Point"}
 }

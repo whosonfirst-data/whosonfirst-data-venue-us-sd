@@ -2,13 +2,14 @@
   "id": 387386485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.328329,43.971129,-103.328329,43.971129",
     "geom:latitude":43.971129,
     "geom:longitude":-103.328329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23680 Busted Five Ct",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":387386485,
-    "wof:lastmodified":1449058105,
+    "wof:lastmodified":1467082727,
     "wof:name":"Midwest Outdoor Resorts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-103.328329,43.971129,-103.328329,43.971129],
+  "bbox": [
+    -103.328329,
+    43.971129,
+    -103.328329,
+    43.971129
+],
   "geometry": {"coordinates":[-103.328329,43.971129],"type":"Point"}
 }

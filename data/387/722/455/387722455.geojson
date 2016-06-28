@@ -2,13 +2,14 @@
   "id": 387722455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.022821,43.709416,-98.022821,43.709416",
     "geom:latitude":43.709416,
     "geom:longitude":-98.022821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 E 1st Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387722455,
-    "wof:lastmodified":1449057436,
+    "wof:lastmodified":1467082713,
     "wof:name":"Palace Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-98.022821,43.709416,-98.022821,43.709416],
-  "geometry": {"coordinates":[-98.022821,43.709416],"type":"Point"}
+  "bbox": [
+    -98.022821,
+    43.709416,
+    -98.022821,
+    43.709416
+],
+  "geometry": {"coordinates":[-98.02282099999999,43.709416],"type":"Point"}
 }

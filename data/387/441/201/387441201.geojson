@@ -2,13 +2,14 @@
   "id": 387441201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.666129,43.529297,-96.666129,43.529297",
     "geom:latitude":43.529297,
     "geom:longitude":-96.666129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4921 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387441201,
-    "wof:lastmodified":1449056404,
+    "wof:lastmodified":1467082693,
     "wof:name":"PGNF Home Lending",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-96.666129,43.529297,-96.666129,43.529297],
+  "bbox": [
+    -96.666129,
+    43.529297,
+    -96.666129,
+    43.529297
+],
   "geometry": {"coordinates":[-96.666129,43.529297],"type":"Point"}
 }

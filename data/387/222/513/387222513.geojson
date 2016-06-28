@@ -2,13 +2,14 @@
   "id": 387222513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.60653,43.427689,-98.60653,43.427689",
     "geom:latitude":43.427689,
     "geom:longitude":-98.60653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E Main St",
     "sg:city":"New Holland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387222513,
-    "wof:lastmodified":1449058655,
+    "wof:lastmodified":1467082738,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.60653,43.427689,-98.60653,43.427689],
-  "geometry": {"coordinates":[-98.60653,43.427689],"type":"Point"}
+  "bbox": [
+    -98.60653,
+    43.427689,
+    -98.60653,
+    43.427689
+],
+  "geometry": {"coordinates":[-98.60653000000001,43.427689],"type":"Point"}
 }

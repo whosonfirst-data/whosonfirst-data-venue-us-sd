@@ -2,13 +2,14 @@
   "id": 387951353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.810176,43.532279,-96.810176,43.532279",
     "geom:latitude":43.532279,
     "geom:longitude":-96.810176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 S Deerberry Trl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387951353,
-    "wof:lastmodified":1449056285,
+    "wof:lastmodified":1467082690,
     "wof:name":"Putzke's Well Drilling & Pump",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-96.810176,43.532279,-96.810176,43.532279],
+  "bbox": [
+    -96.810176,
+    43.532279,
+    -96.810176,
+    43.532279
+],
   "geometry": {"coordinates":[-96.810176,43.532279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387120955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.649583,43.479353,-96.649583,43.479353",
     "geom:latitude":43.479353,
     "geom:longitude":-96.649583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47794 Julie Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387120955,
-    "wof:lastmodified":1449059379,
+    "wof:lastmodified":1467082752,
     "wof:name":"Big Denny Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-96.649583,43.479353,-96.649583,43.479353],
-  "geometry": {"coordinates":[-96.649583,43.479353],"type":"Point"}
+  "bbox": [
+    -96.649583,
+    43.479353,
+    -96.649583,
+    43.479353
+],
+  "geometry": {"coordinates":[-96.64958300000001,43.479353],"type":"Point"}
 }

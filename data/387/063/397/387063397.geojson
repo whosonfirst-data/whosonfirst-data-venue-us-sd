@@ -2,13 +2,14 @@
   "id": 387063397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.857791,44.490129,-103.857791,44.490129",
     "geom:latitude":44.490129,
     "geom:longitude":-103.857791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 E Illinois St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387063397,
-    "wof:lastmodified":1449056439,
+    "wof:lastmodified":1467082693,
     "wof:name":"Mailworks Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "reporting"
     ]
 },
-  "bbox": [-103.857791,44.490129,-103.857791,44.490129],
-  "geometry": {"coordinates":[-103.857791,44.490129],"type":"Point"}
+  "bbox": [
+    -103.857791,
+    44.490129,
+    -103.857791,
+    44.490129
+],
+  "geometry": {"coordinates":[-103.85779100000001,44.490129],"type":"Point"}
 }

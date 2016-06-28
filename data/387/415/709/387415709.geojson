@@ -2,13 +2,14 @@
   "id": 387415709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.782569,43.025104,-97.782569,43.025104",
     "geom:latitude":43.025104,
     "geom:longitude":-97.782569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42054 301st St",
     "sg:city":"Tyndall",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387415709,
-    "wof:lastmodified":1449058851,
+    "wof:lastmodified":1467082742,
     "wof:name":"David Kriz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-97.782569,43.025104,-97.782569,43.025104],
+  "bbox": [
+    -97.782569,
+    43.025104,
+    -97.782569,
+    43.025104
+],
   "geometry": {"coordinates":[-97.782569,43.025104],"type":"Point"}
 }

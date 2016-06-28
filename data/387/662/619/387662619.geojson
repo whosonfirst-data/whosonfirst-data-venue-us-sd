@@ -2,13 +2,14 @@
   "id": 387662619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.279193,44.050976,-103.279193,44.050976",
     "geom:latitude":44.050976,
     "geom:longitude":-103.279193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 Westridge Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387662619,
-    "wof:lastmodified":1449058676,
+    "wof:lastmodified":1467082738,
     "wof:name":"Second Nature",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.279193,44.050976,-103.279193,44.050976],
-  "geometry": {"coordinates":[-103.279193,44.050976],"type":"Point"}
+  "bbox": [
+    -103.279193,
+    44.050976,
+    -103.279193,
+    44.050976
+],
+  "geometry": {"coordinates":[-103.27919300000001,44.050976],"type":"Point"}
 }

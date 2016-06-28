@@ -2,13 +2,14 @@
   "id": 387836583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.286023,44.919764,-97.286023,44.919764",
     "geom:latitude":44.919764,
     "geom:longitude":-97.286023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44682 170th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387836583,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1467082737,
     "wof:name":"Blais John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.286023,44.919764,-97.286023,44.919764],
+  "bbox": [
+    -97.286023,
+    44.919764,
+    -97.286023,
+    44.919764
+],
   "geometry": {"coordinates":[-97.286023,44.919764],"type":"Point"}
 }

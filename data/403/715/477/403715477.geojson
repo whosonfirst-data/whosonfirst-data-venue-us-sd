@@ -2,13 +2,14 @@
   "id": 403715477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.777153,44.350215,-103.777153,44.350215",
     "geom:latitude":44.350215,
     "geom:longitude":-103.777153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 2nd St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403715477,
-    "wof:lastmodified":1449055686,
+    "wof:lastmodified":1467082682,
     "wof:name":"Top Notch Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.777153,44.350215,-103.777153,44.350215],
+  "bbox": [
+    -103.777153,
+    44.350215,
+    -103.777153,
+    44.350215
+],
   "geometry": {"coordinates":[-103.777153,44.350215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370994381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.711232,44.038189,-97.711232,44.038189",
     "geom:latitude":44.038189,
     "geom:longitude":-97.711232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23086 425th Ave",
     "sg:city":"Fedora",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":370994381,
-    "wof:lastmodified":1449029238,
+    "wof:lastmodified":1467082655,
     "wof:name":"Tom Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.711232,44.038189,-97.711232,44.038189],
+  "bbox": [
+    -97.711232,
+    44.038189,
+    -97.711232,
+    44.038189
+],
   "geometry": {"coordinates":[-97.711232,44.038189],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387185001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.44009,44.519868,-99.44009,44.519868",
     "geom:latitude":44.519868,
     "geom:longitude":-99.44009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Commercial Ave SE",
     "sg:city":"Highmore",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387185001,
-    "wof:lastmodified":1449056728,
+    "wof:lastmodified":1467082699,
     "wof:name":"Heartland State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.44009,44.519868,-99.44009,44.519868],
+  "bbox": [
+    -99.44009,
+    44.519868,
+    -99.44009,
+    44.519868
+],
   "geometry": {"coordinates":[-99.44009,44.519868],"type":"Point"}
 }

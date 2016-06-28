@@ -2,13 +2,14 @@
   "id": 387367819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.964725,45.300104,-96.964725,45.300104",
     "geom:latitude":45.300104,
     "geom:longitude":-96.964725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14379 462nd Ave",
     "sg:city":"Marvin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387367819,
-    "wof:lastmodified":1449058356,
+    "wof:lastmodified":1467082732,
     "wof:name":"Circle Bar Ranch Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-96.964725,45.300104,-96.964725,45.300104],
+  "bbox": [
+    -96.964725,
+    45.300104,
+    -96.964725,
+    45.300104
+],
   "geometry": {"coordinates":[-96.964725,45.300104],"type":"Point"}
 }

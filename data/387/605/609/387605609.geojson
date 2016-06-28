@@ -2,13 +2,14 @@
   "id": 387605609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.381118,44.361191,-97.381118,44.361191",
     "geom:latitude":44.361191,
     "geom:longitude":-97.381118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 1st St SW",
     "sg:city":"Lake Preston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387605609,
-    "wof:lastmodified":1449057953,
+    "wof:lastmodified":1467082724,
     "wof:name":"Four Lakes Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.381118,44.361191,-97.381118,44.361191],
+  "bbox": [
+    -97.381118,
+    44.361191,
+    -97.381118,
+    44.361191
+],
   "geometry": {"coordinates":[-97.381118,44.361191],"type":"Point"}
 }

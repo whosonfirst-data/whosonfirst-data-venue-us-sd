@@ -2,13 +2,14 @@
   "id": 387120831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.072851,44.559549,-98.072851,44.559549",
     "geom:latitude":44.559549,
     "geom:longitude":-98.072851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40726 195th St",
     "sg:city":"Yale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387120831,
-    "wof:lastmodified":1449059379,
+    "wof:lastmodified":1467082752,
     "wof:name":"Walter Dewayne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.072851,44.559549,-98.072851,44.559549],
+  "bbox": [
+    -98.072851,
+    44.559549,
+    -98.072851,
+    44.559549
+],
   "geometry": {"coordinates":[-98.072851,44.559549],"type":"Point"}
 }

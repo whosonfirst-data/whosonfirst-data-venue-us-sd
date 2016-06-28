@@ -2,13 +2,14 @@
   "id": 387651731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.044584,44.245589,-97.044584,44.245589",
     "geom:latitude":44.245589,
     "geom:longitude":-97.044584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Park Ave",
     "sg:city":"Sinai",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387651731,
-    "wof:lastmodified":1449056855,
+    "wof:lastmodified":1467082702,
     "wof:name":"Dakota Aqua-Trapping Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fishing"
     ]
 },
-  "bbox": [-97.044584,44.245589,-97.044584,44.245589],
+  "bbox": [
+    -97.044584,
+    44.245589,
+    -97.044584,
+    44.245589
+],
   "geometry": {"coordinates":[-97.044584,44.245589],"type":"Point"}
 }

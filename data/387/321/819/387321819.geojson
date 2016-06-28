@@ -2,13 +2,14 @@
   "id": 387321819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.429371,43.23327,-99.429371,43.23327",
     "geom:latitude":43.23327,
     "geom:longitude":-99.429371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Rosebud Ave",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387321819,
-    "wof:lastmodified":1449056208,
+    "wof:lastmodified":1467082689,
     "wof:name":"Golden Age Meals Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "citizen"
     ]
 },
-  "bbox": [-99.429371,43.23327,-99.429371,43.23327],
+  "bbox": [
+    -99.429371,
+    43.23327,
+    -99.429371,
+    43.23327
+],
   "geometry": {"coordinates":[-99.429371,43.23327],"type":"Point"}
 }

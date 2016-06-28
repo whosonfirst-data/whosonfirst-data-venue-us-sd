@@ -2,13 +2,14 @@
   "id": 370996109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.026776,43.616273,-97.026776,43.616273",
     "geom:latitude":43.616273,
     "geom:longitude":-97.026776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45992 260th St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370996109,
-    "wof:lastmodified":1449030008,
+    "wof:lastmodified":1467082656,
     "wof:name":"Vast Damage Appraisal",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-97.026776,43.616273,-97.026776,43.616273],
+  "bbox": [
+    -97.026776,
+    43.616273,
+    -97.026776,
+    43.616273
+],
   "geometry": {"coordinates":[-97.026776,43.616273],"type":"Point"}
 }

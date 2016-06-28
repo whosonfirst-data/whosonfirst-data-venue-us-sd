@@ -2,13 +2,14 @@
   "id": 387145603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.142892,44.890142,-97.142892,44.890142",
     "geom:latitude":44.890142,
     "geom:longitude":-97.142892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 9th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387145603,
-    "wof:lastmodified":1449057261,
+    "wof:lastmodified":1467082710,
     "wof:name":"Career Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-97.142892,44.890142,-97.142892,44.890142],
+  "bbox": [
+    -97.142892,
+    44.890142,
+    -97.142892,
+    44.890142
+],
   "geometry": {"coordinates":[-97.142892,44.890142],"type":"Point"}
 }

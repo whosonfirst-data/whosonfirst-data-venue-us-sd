@@ -2,13 +2,14 @@
   "id": 387355857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.777864,44.353448,-103.777864,44.353448",
     "geom:latitude":44.353448,
     "geom:longitude":-103.777864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Glendale Dr",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387355857,
-    "wof:lastmodified":1449057161,
+    "wof:lastmodified":1467082707,
     "wof:name":"Delahoyde's Paint & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-103.777864,44.353448,-103.777864,44.353448],
-  "geometry": {"coordinates":[-103.777864,44.353448],"type":"Point"}
+  "bbox": [
+    -103.777864,
+    44.353448,
+    -103.777864,
+    44.353448
+],
+  "geometry": {"coordinates":[-103.77786399999999,44.353448],"type":"Point"}
 }

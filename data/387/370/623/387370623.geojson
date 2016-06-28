@@ -2,13 +2,14 @@
   "id": 387370623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711427,43.564814,-96.711427,43.564814",
     "geom:latitude":43.564814,
     "geom:longitude":-96.711427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":387370623,
-    "wof:lastmodified":1449058187,
+    "wof:lastmodified":1467082729,
     "wof:name":"Allied Truck & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "trailer"
     ]
 },
-  "bbox": [-96.711427,43.564814,-96.711427,43.564814],
+  "bbox": [
+    -96.711427,
+    43.564814,
+    -96.711427,
+    43.564814
+],
   "geometry": {"coordinates":[-96.711427,43.564814],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387490701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.069452,43.644343,-97.069452,43.644343",
     "geom:latitude":43.644343,
     "geom:longitude":-97.069452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Ford St",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387490701,
-    "wof:lastmodified":1449059530,
+    "wof:lastmodified":1467082755,
     "wof:name":"Ken Mathieu Welding & Hay",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-97.069452,43.644343,-97.069452,43.644343],
+  "bbox": [
+    -97.069452,
+    43.644343,
+    -97.069452,
+    43.644343
+],
   "geometry": {"coordinates":[-97.069452,43.644343],"type":"Point"}
 }

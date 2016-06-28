@@ -2,13 +2,14 @@
   "id": 370985297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.266032,43.994011,-103.266032,43.994011",
     "geom:latitude":43.994011,
     "geom:longitude":-103.266032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8971 S Hwy 16",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370985297,
-    "wof:lastmodified":1449030762,
+    "wof:lastmodified":1467082656,
     "wof:name":"Attraction Tours-Black Hills",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "promoter"
     ]
 },
-  "bbox": [-103.266032,43.994011,-103.266032,43.994011],
+  "bbox": [
+    -103.266032,
+    43.994011,
+    -103.266032,
+    43.994011
+],
   "geometry": {"coordinates":[-103.266032,43.994011],"type":"Point"}
 }

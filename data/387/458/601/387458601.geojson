@@ -2,13 +2,14 @@
   "id": 387458601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.311045,44.228697,-97.311045,44.228697",
     "geom:latitude":44.228697,
     "geom:longitude":-97.311045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N Epton Ave",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387458601,
-    "wof:lastmodified":1449058816,
+    "wof:lastmodified":1467082741,
     "wof:name":"Bradley Jensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.311045,44.228697,-97.311045,44.228697],
-  "geometry": {"coordinates":[-97.311045,44.228697],"type":"Point"}
+  "bbox": [
+    -97.311045,
+    44.228697,
+    -97.311045,
+    44.228697
+],
+  "geometry": {"coordinates":[-97.31104499999999,44.228697],"type":"Point"}
 }

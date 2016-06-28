@@ -2,13 +2,14 @@
   "id": 387809425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.229574,44.361093,-97.229574,44.361093",
     "geom:latitude":44.361093,
     "geom:longitude":-97.229574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20856 449th Ave",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387809425,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1467082749,
     "wof:name":"Bak Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-97.229574,44.361093,-97.229574,44.361093],
+  "bbox": [
+    -97.229574,
+    44.361093,
+    -97.229574,
+    44.361093
+],
   "geometry": {"coordinates":[-97.229574,44.361093],"type":"Point"}
 }

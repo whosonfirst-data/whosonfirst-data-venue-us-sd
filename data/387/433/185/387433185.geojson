@@ -2,13 +2,14 @@
   "id": 387433185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.738798,43.528662,-96.738798,43.528662",
     "geom:latitude":43.528662,
     "geom:longitude":-96.738798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 S Walts Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387433185,
-    "wof:lastmodified":1449056549,
+    "wof:lastmodified":1467082695,
     "wof:name":"John Koch Construction",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-96.738798,43.528662,-96.738798,43.528662],
+  "bbox": [
+    -96.738798,
+    43.528662,
+    -96.738798,
+    43.528662
+],
   "geometry": {"coordinates":[-96.738798,43.528662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371178647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.090958,44.065962,-103.090958,44.065962",
     "geom:latitude":44.065962,
     "geom:longitude":-103.090958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23011 Radar Hill Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371178647,
-    "wof:lastmodified":1449049806,
+    "wof:lastmodified":1467082669,
     "wof:name":"Pump & Well Work",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drilling"
     ]
 },
-  "bbox": [-103.090958,44.065962,-103.090958,44.065962],
+  "bbox": [
+    -103.090958,
+    44.065962,
+    -103.090958,
+    44.065962
+],
   "geometry": {"coordinates":[-103.090958,44.065962],"type":"Point"}
 }

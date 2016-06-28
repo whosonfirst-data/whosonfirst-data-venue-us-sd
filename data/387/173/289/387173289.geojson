@@ -2,13 +2,14 @@
   "id": 387173289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.025777,43.720548,-98.025777,43.720548",
     "geom:latitude":43.720548,
     "geom:longitude":-98.025777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 N Main St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387173289,
-    "wof:lastmodified":1449056835,
+    "wof:lastmodified":1467082701,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-98.025777,43.720548,-98.025777,43.720548],
-  "geometry": {"coordinates":[-98.025777,43.720548],"type":"Point"}
+  "bbox": [
+    -98.025777,
+    43.720548,
+    -98.025777,
+    43.720548
+],
+  "geometry": {"coordinates":[-98.02577700000001,43.720548],"type":"Point"}
 }

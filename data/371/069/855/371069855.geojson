@@ -2,13 +2,14 @@
   "id": 371069855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732556,43.521405,-96.732556,43.521405",
     "geom:latitude":43.521405,
     "geom:longitude":-96.732556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 S Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371069855,
-    "wof:lastmodified":1449049718,
+    "wof:lastmodified":1467082667,
     "wof:name":"Suburban Lanes Inc",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "alley"
     ]
 },
-  "bbox": [-96.732556,43.521405,-96.732556,43.521405],
+  "bbox": [
+    -96.732556,
+    43.521405,
+    -96.732556,
+    43.521405
+],
   "geometry": {"coordinates":[-96.732556,43.521405],"type":"Point"}
 }

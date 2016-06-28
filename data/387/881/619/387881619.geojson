@@ -2,13 +2,14 @@
   "id": 387881619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.763049,43.330121,-96.763049,43.330121",
     "geom:latitude":43.330121,
     "geom:longitude":-96.763049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Main St",
     "sg:city":"Worthing",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387881619,
-    "wof:lastmodified":1449058311,
+    "wof:lastmodified":1467082731,
     "wof:name":"Olde Towne Theatre Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.763049,43.330121,-96.763049,43.330121],
+  "bbox": [
+    -96.763049,
+    43.330121,
+    -96.763049,
+    43.330121
+],
   "geometry": {"coordinates":[-96.763049,43.330121],"type":"Point"}
 }

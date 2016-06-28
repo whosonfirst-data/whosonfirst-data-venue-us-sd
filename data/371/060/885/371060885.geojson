@@ -2,13 +2,14 @@
   "id": 371060885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.032378,44.72257,-97.032378,44.72257",
     "geom:latitude":44.72257,
     "geom:longitude":-97.032378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Main St",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371060885,
-    "wof:lastmodified":1449050043,
+    "wof:lastmodified":1467082672,
     "wof:name":"Citizens State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.032378,44.72257,-97.032378,44.72257],
-  "geometry": {"coordinates":[-97.032378,44.72257],"type":"Point"}
+  "bbox": [
+    -97.032378,
+    44.72257,
+    -97.032378,
+    44.72257
+],
+  "geometry": {"coordinates":[-97.03237799999999,44.72257],"type":"Point"}
 }

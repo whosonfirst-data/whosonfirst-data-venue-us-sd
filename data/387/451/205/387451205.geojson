@@ -2,13 +2,14 @@
   "id": 387451205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.329221,43.810507,-99.329221,43.810507",
     "geom:latitude":43.810507,
     "geom:longitude":-99.329221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S Sanborn St",
     "sg:city":"Chamberlain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387451205,
-    "wof:lastmodified":1449057771,
+    "wof:lastmodified":1467082720,
     "wof:name":"Lakeview Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-99.329221,43.810507,-99.329221,43.810507],
+  "bbox": [
+    -99.329221,
+    43.810507,
+    -99.329221,
+    43.810507
+],
   "geometry": {"coordinates":[-99.329221,43.810507],"type":"Point"}
 }

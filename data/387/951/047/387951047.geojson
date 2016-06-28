@@ -2,13 +2,14 @@
   "id": 387951047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.734672,43.565773,-96.734672,43.565773",
     "geom:latitude":43.565773,
     "geom:longitude":-96.734672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 A Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387951047,
-    "wof:lastmodified":1449056285,
+    "wof:lastmodified":1467082690,
     "wof:name":"Premere Forms Inc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dist"
     ]
 },
-  "bbox": [-96.734672,43.565773,-96.734672,43.565773],
+  "bbox": [
+    -96.734672,
+    43.565773,
+    -96.734672,
+    43.565773
+],
   "geometry": {"coordinates":[-96.734672,43.565773],"type":"Point"}
 }

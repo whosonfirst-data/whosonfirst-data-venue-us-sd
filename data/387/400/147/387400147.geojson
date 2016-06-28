@@ -2,13 +2,14 @@
   "id": 387400147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.844823,43.387086,-98.844823,43.387086",
     "geom:latitude":43.387086,
     "geom:longitude":-98.844823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Main St",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387400147,
-    "wof:lastmodified":1449056481,
+    "wof:lastmodified":1467082694,
     "wof:name":"Kuip's Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-98.844823,43.387086,-98.844823,43.387086],
-  "geometry": {"coordinates":[-98.844823,43.387086],"type":"Point"}
+  "bbox": [
+    -98.844823,
+    43.387086,
+    -98.844823,
+    43.387086
+],
+  "geometry": {"coordinates":[-98.84482300000001,43.387086],"type":"Point"}
 }

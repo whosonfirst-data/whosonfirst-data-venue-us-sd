@@ -2,13 +2,14 @@
   "id": 387764125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.806323,43.53941,-96.806323,43.53941",
     "geom:latitude":43.53941,
     "geom:longitude":-96.806323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 S Melrose Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387764125,
-    "wof:lastmodified":1449059740,
+    "wof:lastmodified":1467082759,
     "wof:name":"Holiday Mobile Home Park",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "home"
     ]
 },
-  "bbox": [-96.806323,43.53941,-96.806323,43.53941],
-  "geometry": {"coordinates":[-96.806323,43.53941],"type":"Point"}
+  "bbox": [
+    -96.806323,
+    43.53941,
+    -96.806323,
+    43.53941
+],
+  "geometry": {"coordinates":[-96.80632300000001,43.53941],"type":"Point"}
 }

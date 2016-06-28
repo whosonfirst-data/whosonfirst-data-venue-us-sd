@@ -2,13 +2,14 @@
   "id": 387073237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.731162,44.897493,-98.731162,44.897493",
     "geom:latitude":44.897493,
     "geom:longitude":-98.731162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17197 Main St",
     "sg:city":"Zell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387073237,
-    "wof:lastmodified":1449056628,
+    "wof:lastmodified":1467082697,
     "wof:name":"James Gruenwald's Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.731162,44.897493,-98.731162,44.897493],
+  "bbox": [
+    -98.731162,
+    44.897493,
+    -98.731162,
+    44.897493
+],
   "geometry": {"coordinates":[-98.731162,44.897493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386941829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.515513,45.435671,-98.515513,45.435671",
     "geom:latitude":45.435671,
     "geom:longitude":-98.515513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2612 S Hwy 281",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386941829,
-    "wof:lastmodified":1449028813,
+    "wof:lastmodified":1467082652,
     "wof:name":"Bricks T V-Video & Appl Repr",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-98.515513,45.435671,-98.515513,45.435671],
+  "bbox": [
+    -98.515513,
+    45.435671,
+    -98.515513,
+    45.435671
+],
   "geometry": {"coordinates":[-98.515513,45.435671],"type":"Point"}
 }

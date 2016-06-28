@@ -2,13 +2,14 @@
   "id": 370972105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.329586,45.553879,-98.329586,45.553879",
     "geom:latitude":45.553879,
     "geom:longitude":-98.329586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12643 395th Ave",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":370972105,
-    "wof:lastmodified":1449030779,
+    "wof:lastmodified":1467082656,
     "wof:name":"Weismantel Farm",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.329586,45.553879,-98.329586,45.553879],
-  "geometry": {"coordinates":[-98.329586,45.553879],"type":"Point"}
+  "bbox": [
+    -98.329586,
+    45.553879,
+    -98.329586,
+    45.553879
+],
+  "geometry": {"coordinates":[-98.32958600000001,45.553879],"type":"Point"}
 }

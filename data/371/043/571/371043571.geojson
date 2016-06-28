@@ -2,13 +2,14 @@
   "id": 371043571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.214212,44.367909,-98.214212,44.367909",
     "geom:latitude":44.367909,
     "geom:longitude":-98.214212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dakota Ave N",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371043571,
-    "wof:lastmodified":1449049829,
+    "wof:lastmodified":1467082669,
     "wof:name":"Curt's Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "heating"
     ]
 },
-  "bbox": [-98.214212,44.367909,-98.214212,44.367909],
+  "bbox": [
+    -98.214212,
+    44.367909,
+    -98.214212,
+    44.367909
+],
   "geometry": {"coordinates":[-98.214212,44.367909],"type":"Point"}
 }

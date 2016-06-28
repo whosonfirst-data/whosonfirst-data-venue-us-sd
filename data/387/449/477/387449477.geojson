@@ -2,13 +2,14 @@
   "id": 387449477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.529647,43.804539,-96.529647,43.804539",
     "geom:latitude":43.804539,
     "geom:longitude":-96.529647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48423 247th St",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387449477,
-    "wof:lastmodified":1449059640,
+    "wof:lastmodified":1467082757,
     "wof:name":"Brian Howe",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.529647,43.804539,-96.529647,43.804539],
+  "bbox": [
+    -96.529647,
+    43.804539,
+    -96.529647,
+    43.804539
+],
   "geometry": {"coordinates":[-96.529647,43.804539],"type":"Point"}
 }

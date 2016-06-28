@@ -2,13 +2,14 @@
   "id": 387682571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.819301,43.527381,-96.819301,43.527381",
     "geom:latitude":43.527381,
     "geom:longitude":-96.819301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 S Dorothy Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387682571,
-    "wof:lastmodified":1449056764,
+    "wof:lastmodified":1467082700,
     "wof:name":"Prairie Crossings",
     "wof:parent_id":85848771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "intermediate"
     ]
 },
-  "bbox": [-96.819301,43.527381,-96.819301,43.527381],
+  "bbox": [
+    -96.819301,
+    43.527381,
+    -96.819301,
+    43.527381
+],
   "geometry": {"coordinates":[-96.819301,43.527381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387716745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.518555,44.875797,-98.518555,44.875797",
     "geom:latitude":44.875797,
     "geom:longitude":-98.518555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 E 7th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387716745,
-    "wof:lastmodified":1449056643,
+    "wof:lastmodified":1467082697,
     "wof:name":"Steven D Zaloudek DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-98.518555,44.875797,-98.518555,44.875797],
-  "geometry": {"coordinates":[-98.518555,44.875797],"type":"Point"}
+  "bbox": [
+    -98.518555,
+    44.875797,
+    -98.518555,
+    44.875797
+],
+  "geometry": {"coordinates":[-98.51855500000001,44.875797],"type":"Point"}
 }

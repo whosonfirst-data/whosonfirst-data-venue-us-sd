@@ -2,13 +2,14 @@
   "id": 387346343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.475866,45.464265,-98.475866,45.464265",
     "geom:latitude":45.464265,
     "geom:longitude":-98.475866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 1st Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387346343,
-    "wof:lastmodified":1449056093,
+    "wof:lastmodified":1467082686,
     "wof:name":"Dakota Square Pharmacy",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.475866,45.464265,-98.475866,45.464265],
+  "bbox": [
+    -98.475866,
+    45.464265,
+    -98.475866,
+    45.464265
+],
   "geometry": {"coordinates":[-98.475866,45.464265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387717949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.771727,43.582613,-96.771727,43.582613",
     "geom:latitude":43.582613,
     "geom:longitude":-96.771727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 W Tickman St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387717949,
-    "wof:lastmodified":1449056220,
+    "wof:lastmodified":1467082689,
     "wof:name":"Bioway America Air Tech",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.771727,43.582613,-96.771727,43.582613],
+  "bbox": [
+    -96.771727,
+    43.582613,
+    -96.771727,
+    43.582613
+],
   "geometry": {"coordinates":[-96.771727,43.582613],"type":"Point"}
 }

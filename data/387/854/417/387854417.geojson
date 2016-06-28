@@ -2,13 +2,14 @@
   "id": 387854417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.036826,43.695305,-98.036826,43.695305",
     "geom:latitude":43.695305,
     "geom:longitude":-98.036826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 S Miller Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387854417,
-    "wof:lastmodified":1449059777,
+    "wof:lastmodified":1467082760,
     "wof:name":"Big Dog Concrete LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-98.036826,43.695305,-98.036826,43.695305],
+  "bbox": [
+    -98.036826,
+    43.695305,
+    -98.036826,
+    43.695305
+],
   "geometry": {"coordinates":[-98.036826,43.695305],"type":"Point"}
 }

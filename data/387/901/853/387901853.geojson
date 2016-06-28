@@ -2,13 +2,14 @@
   "id": 387901853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.115222,44.239363,-97.115222,44.239363",
     "geom:latitude":44.239363,
     "geom:longitude":-97.115222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45434 217th St",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387901853,
-    "wof:lastmodified":1449057702,
+    "wof:lastmodified":1467082719,
     "wof:name":"Wiehr & Wiehr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-97.115222,44.239363,-97.115222,44.239363],
+  "bbox": [
+    -97.115222,
+    44.239363,
+    -97.115222,
+    44.239363
+],
   "geometry": {"coordinates":[-97.115222,44.239363],"type":"Point"}
 }

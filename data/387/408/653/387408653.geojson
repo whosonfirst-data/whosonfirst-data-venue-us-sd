@@ -2,13 +2,14 @@
   "id": 387408653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.804517,44.468752,-103.804517,44.468752",
     "geom:latitude":44.468752,
     "geom:longitude":-103.804517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 S 34th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387408653,
-    "wof:lastmodified":1449056576,
+    "wof:lastmodified":1467082696,
     "wof:name":"Garden Hills Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.804517,44.468752,-103.804517,44.468752],
+  "bbox": [
+    -103.804517,
+    44.468752,
+    -103.804517,
+    44.468752
+],
   "geometry": {"coordinates":[-103.804517,44.468752],"type":"Point"}
 }

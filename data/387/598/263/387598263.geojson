@@ -2,13 +2,14 @@
   "id": 387598263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.429992,45.014145,-99.429992,45.014145",
     "geom:latitude":45.014145,
     "geom:longitude":-99.429992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16388 337th Ave",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387598263,
-    "wof:lastmodified":1449056319,
+    "wof:lastmodified":1467082691,
     "wof:name":"Rainbow Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.429992,45.014145,-99.429992,45.014145],
+  "bbox": [
+    -99.429992,
+    45.014145,
+    -99.429992,
+    45.014145
+],
   "geometry": {"coordinates":[-99.429992,45.014145],"type":"Point"}
 }

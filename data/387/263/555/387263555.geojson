@@ -2,13 +2,14 @@
   "id": 387263555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.474424,45.475825,-98.474424,45.475825",
     "geom:latitude":45.475825,
     "geom:longitude":-98.474424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 10th Ave NE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387263555,
-    "wof:lastmodified":1449059808,
+    "wof:lastmodified":1467082761,
     "wof:name":"A B C Day Care",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-98.474424,45.475825,-98.474424,45.475825],
+  "bbox": [
+    -98.474424,
+    45.475825,
+    -98.474424,
+    45.475825
+],
   "geometry": {"coordinates":[-98.474424,45.475825],"type":"Point"}
 }

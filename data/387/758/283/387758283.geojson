@@ -2,13 +2,14 @@
   "id": 387758283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.904925,44.73881,-96.904925,44.73881",
     "geom:latitude":44.73881,
     "geom:longitude":-96.904925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18253 465th Ave",
     "sg:city":"Castlewood",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387758283,
-    "wof:lastmodified":1449057249,
+    "wof:lastmodified":1467082709,
     "wof:name":"Greg Wellhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.904925,44.73881,-96.904925,44.73881],
-  "geometry": {"coordinates":[-96.904925,44.73881],"type":"Point"}
+  "bbox": [
+    -96.904925,
+    44.73881,
+    -96.904925,
+    44.73881
+],
+  "geometry": {"coordinates":[-96.90492500000001,44.73881],"type":"Point"}
 }

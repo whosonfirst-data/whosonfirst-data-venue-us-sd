@@ -2,13 +2,14 @@
   "id": 387602029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.271073,44.037102,-103.271073,44.037102",
     "geom:latitude":44.037102,
     "geom:longitude":-103.271073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4724 Primrose Pl",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387602029,
-    "wof:lastmodified":1449057889,
+    "wof:lastmodified":1467082723,
     "wof:name":"Kids Stuff & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [-103.271073,44.037102,-103.271073,44.037102],
+  "bbox": [
+    -103.271073,
+    44.037102,
+    -103.271073,
+    44.037102
+],
   "geometry": {"coordinates":[-103.271073,44.037102],"type":"Point"}
 }

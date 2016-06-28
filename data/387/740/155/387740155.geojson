@@ -2,13 +2,14 @@
   "id": 387740155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.164693,44.989286,-97.164693,44.989286",
     "geom:latitude":44.989286,
     "geom:longitude":-97.164693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16518 452nd Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387740155,
-    "wof:lastmodified":1449057827,
+    "wof:lastmodified":1467082721,
     "wof:name":"Genzler Body & Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-97.164693,44.989286,-97.164693,44.989286],
+  "bbox": [
+    -97.164693,
+    44.989286,
+    -97.164693,
+    44.989286
+],
   "geometry": {"coordinates":[-97.164693,44.989286],"type":"Point"}
 }

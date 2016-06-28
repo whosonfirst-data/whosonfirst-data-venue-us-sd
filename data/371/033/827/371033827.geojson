@@ -2,13 +2,14 @@
   "id": 371033827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.78877,44.295132,-96.78877,44.295132",
     "geom:latitude":44.295132,
     "geom:longitude":-96.78877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Pamela Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371033827,
-    "wof:lastmodified":1449049256,
+    "wof:lastmodified":1467082661,
     "wof:name":"Minor Loyd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-96.78877,44.295132,-96.78877,44.295132],
+  "bbox": [
+    -96.78877,
+    44.295132,
+    -96.78877,
+    44.295132
+],
   "geometry": {"coordinates":[-96.78877,44.295132],"type":"Point"}
 }

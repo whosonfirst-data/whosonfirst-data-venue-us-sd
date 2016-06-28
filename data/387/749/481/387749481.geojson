@@ -2,13 +2,14 @@
   "id": 387749481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.203107,44.053044,-103.203107,44.053044",
     "geom:latitude":44.053044,
     "geom:longitude":-103.203107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 E Fairmont Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387749481,
-    "wof:lastmodified":1449057181,
+    "wof:lastmodified":1467082708,
     "wof:name":"Comfort Inns & Suites",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.203107,44.053044,-103.203107,44.053044],
+  "bbox": [
+    -103.203107,
+    44.053044,
+    -103.203107,
+    44.053044
+],
   "geometry": {"coordinates":[-103.203107,44.053044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387869645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.579562,43.242169,-97.579562,43.242169",
     "geom:latitude":43.242169,
     "geom:longitude":-97.579562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Elm St",
     "sg:city":"Menno",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387869645,
-    "wof:lastmodified":1449059611,
+    "wof:lastmodified":1467082757,
     "wof:name":"Friesen Vet Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-97.579562,43.242169,-97.579562,43.242169],
+  "bbox": [
+    -97.579562,
+    43.242169,
+    -97.579562,
+    43.242169
+],
   "geometry": {"coordinates":[-97.579562,43.242169],"type":"Point"}
 }

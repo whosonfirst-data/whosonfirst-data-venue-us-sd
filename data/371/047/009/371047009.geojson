@@ -2,13 +2,14 @@
   "id": 371047009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.774206,43.084319,-96.774206,43.084319",
     "geom:latitude":43.084319,
     "geom:longitude":-96.774206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 N 3rd St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371047009,
-    "wof:lastmodified":1449049735,
+    "wof:lastmodified":1467082668,
     "wof:name":"Furniture & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.774206,43.084319,-96.774206,43.084319],
-  "geometry": {"coordinates":[-96.774206,43.084319],"type":"Point"}
+  "bbox": [
+    -96.774206,
+    43.084319,
+    -96.774206,
+    43.084319
+],
+  "geometry": {"coordinates":[-96.77420600000001,43.084319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387936201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.743674,43.532329,-96.743674,43.532329",
     "geom:latitude":43.532329,
     "geom:longitude":-96.743674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 S Covell Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387936201,
-    "wof:lastmodified":1449057368,
+    "wof:lastmodified":1467082712,
     "wof:name":"J D Hanson Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.743674,43.532329,-96.743674,43.532329],
+  "bbox": [
+    -96.743674,
+    43.532329,
+    -96.743674,
+    43.532329
+],
   "geometry": {"coordinates":[-96.743674,43.532329],"type":"Point"}
 }

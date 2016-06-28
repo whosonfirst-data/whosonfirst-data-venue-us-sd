@@ -2,13 +2,14 @@
   "id": 387654493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.765602,44.352134,-103.765602,44.352134",
     "geom:latitude":44.352134,
     "geom:longitude":-103.765602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 W Main St",
     "sg:city":"Lead",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387654493,
-    "wof:lastmodified":1449057373,
+    "wof:lastmodified":1467082712,
     "wof:name":"J L Gift Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-103.765602,44.352134,-103.765602,44.352134],
+  "bbox": [
+    -103.765602,
+    44.352134,
+    -103.765602,
+    44.352134
+],
   "geometry": {"coordinates":[-103.765602,44.352134],"type":"Point"}
 }

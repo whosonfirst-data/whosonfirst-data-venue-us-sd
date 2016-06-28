@@ -2,13 +2,14 @@
   "id": 403774103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.715689,43.546736,-96.715689,43.546736",
     "geom:latitude":43.546736,
     "geom:longitude":-96.715689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 S Indiana Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403774103,
-    "wof:lastmodified":1449055153,
+    "wof:lastmodified":1467082679,
     "wof:name":"Mathison's",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.715689,43.546736,-96.715689,43.546736],
+  "bbox": [
+    -96.715689,
+    43.546736,
+    -96.715689,
+    43.546736
+],
   "geometry": {"coordinates":[-96.715689,43.546736],"type":"Point"}
 }

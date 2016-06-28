@@ -2,13 +2,14 @@
   "id": 387598857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.520599,45.332273,-97.520599,45.332273",
     "geom:latitude":45.332273,
     "geom:longitude":-97.520599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 W 7th Ave",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387598857,
-    "wof:lastmodified":1449056313,
+    "wof:lastmodified":1467082691,
     "wof:name":"Cornsurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.520599,45.332273,-97.520599,45.332273],
+  "bbox": [
+    -97.520599,
+    45.332273,
+    -97.520599,
+    45.332273
+],
   "geometry": {"coordinates":[-97.520599,45.332273],"type":"Point"}
 }

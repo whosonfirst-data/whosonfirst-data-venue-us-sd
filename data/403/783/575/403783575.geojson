@@ -2,13 +2,14 @@
   "id": 403783575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.215214,44.847389,-97.215214,44.847389",
     "geom:latitude":44.847389,
     "geom:longitude":-97.215214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44985 175th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403783575,
-    "wof:lastmodified":1449054663,
+    "wof:lastmodified":1467082674,
     "wof:name":"Dreher Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.215214,44.847389,-97.215214,44.847389],
+  "bbox": [
+    -97.215214,
+    44.847389,
+    -97.215214,
+    44.847389
+],
   "geometry": {"coordinates":[-97.215214,44.847389],"type":"Point"}
 }

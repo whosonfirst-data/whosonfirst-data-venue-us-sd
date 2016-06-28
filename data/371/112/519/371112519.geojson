@@ -2,13 +2,14 @@
   "id": 371112519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.12907,45.093202,-97.12907,45.093202",
     "geom:latitude":45.093202,
     "geom:longitude":-97.12907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45375 158th St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":371112519,
-    "wof:lastmodified":1449049481,
+    "wof:lastmodified":1467082664,
     "wof:name":"LBJ Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "grain"
     ]
 },
-  "bbox": [-97.12907,45.093202,-97.12907,45.093202],
+  "bbox": [
+    -97.12907,
+    45.093202,
+    -97.12907,
+    45.093202
+],
   "geometry": {"coordinates":[-97.12907,45.093202],"type":"Point"}
 }

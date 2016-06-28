@@ -2,13 +2,14 @@
   "id": 387314093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.731646,44.884981,-97.731646,44.884981",
     "geom:latitude":44.884981,
     "geom:longitude":-97.731646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 N Cloud St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387314093,
-    "wof:lastmodified":1449059754,
+    "wof:lastmodified":1467082760,
     "wof:name":"Harlowis School Bus Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.731646,44.884981,-97.731646,44.884981],
+  "bbox": [
+    -97.731646,
+    44.884981,
+    -97.731646,
+    44.884981
+],
   "geometry": {"coordinates":[-97.731646,44.884981],"type":"Point"}
 }

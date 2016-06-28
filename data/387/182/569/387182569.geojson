@@ -2,13 +2,14 @@
   "id": 387182569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.40604,45.836015,-98.40604,45.836015",
     "geom:latitude":45.836015,
     "geom:longitude":-98.40604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39150 107th St",
     "sg:city":"Frederick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387182569,
-    "wof:lastmodified":1449058517,
+    "wof:lastmodified":1467082735,
     "wof:name":"Dakota Marketing Coalition",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-98.40604,45.836015,-98.40604,45.836015],
+  "bbox": [
+    -98.40604,
+    45.836015,
+    -98.40604,
+    45.836015
+],
   "geometry": {"coordinates":[-98.40604,45.836015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387042007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730628,43.507188,-96.730628,43.507188",
     "geom:latitude":43.507188,
     "geom:longitude":-96.730628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Rose St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387042007,
-    "wof:lastmodified":1449058996,
+    "wof:lastmodified":1467082745,
     "wof:name":"VMS Products",
     "wof:parent_id":85881021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "seal"
     ]
 },
-  "bbox": [-96.730628,43.507188,-96.730628,43.507188],
+  "bbox": [
+    -96.730628,
+    43.507188,
+    -96.730628,
+    43.507188
+],
   "geometry": {"coordinates":[-96.730628,43.507188],"type":"Point"}
 }

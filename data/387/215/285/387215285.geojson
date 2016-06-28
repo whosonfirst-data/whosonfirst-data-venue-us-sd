@@ -2,13 +2,14 @@
   "id": 387215285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.701819,44.470457,-96.701819,44.470457",
     "geom:latitude":44.470457,
     "geom:longitude":-96.701819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47531 201st St",
     "sg:city":"White",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387215285,
-    "wof:lastmodified":1449059256,
+    "wof:lastmodified":1467082750,
     "wof:name":"Brookings Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.701819,44.470457,-96.701819,44.470457],
+  "bbox": [
+    -96.701819,
+    44.470457,
+    -96.701819,
+    44.470457
+],
   "geometry": {"coordinates":[-96.701819,44.470457],"type":"Point"}
 }

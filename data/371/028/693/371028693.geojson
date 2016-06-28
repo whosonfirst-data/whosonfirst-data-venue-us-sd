@@ -2,13 +2,14 @@
   "id": 371028693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.733744,43.511388,-96.733744,43.511388",
     "geom:latitude":43.511388,
     "geom:longitude":-96.733744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 S Duluth Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371028693,
-    "wof:lastmodified":1449049615,
+    "wof:lastmodified":1467082666,
     "wof:name":"Midcontnent Cmmnctions Inv LLC",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-96.733744,43.511388,-96.733744,43.511388],
+  "bbox": [
+    -96.733744,
+    43.511388,
+    -96.733744,
+    43.511388
+],
   "geometry": {"coordinates":[-96.733744,43.511388],"type":"Point"}
 }

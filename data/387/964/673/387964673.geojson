@@ -2,13 +2,14 @@
   "id": 387964673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.359253,45.328354,-98.359253,45.328354",
     "geom:latitude":45.328354,
     "geom:longitude":-98.359253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39363 142nd St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387964673,
-    "wof:lastmodified":1449058973,
+    "wof:lastmodified":1467082744,
     "wof:name":"Ellingson John",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-98.359253,45.328354,-98.359253,45.328354],
+  "bbox": [
+    -98.359253,
+    45.328354,
+    -98.359253,
+    45.328354
+],
   "geometry": {"coordinates":[-98.359253,45.328354],"type":"Point"}
 }

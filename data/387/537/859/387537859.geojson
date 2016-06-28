@@ -2,13 +2,14 @@
   "id": 387537859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.280652,44.062819,-103.280652,44.062819",
     "geom:latitude":44.062819,
     "geom:longitude":-103.280652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387537859,
-    "wof:lastmodified":1449057040,
+    "wof:lastmodified":1467082705,
     "wof:name":"Meadowbrook Golf Course",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-103.280652,44.062819,-103.280652,44.062819],
+  "bbox": [
+    -103.280652,
+    44.062819,
+    -103.280652,
+    44.062819
+],
   "geometry": {"coordinates":[-103.280652,44.062819],"type":"Point"}
 }

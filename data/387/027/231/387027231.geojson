@@ -2,13 +2,14 @@
   "id": 387027231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.721297,43.51766,-96.721297,43.51766",
     "geom:latitude":43.51766,
     "geom:longitude":-96.721297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 S 4th Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387027231,
-    "wof:lastmodified":1449056809,
+    "wof:lastmodified":1467082701,
     "wof:name":"Lloyd L Eagan Co",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-96.721297,43.51766,-96.721297,43.51766],
-  "geometry": {"coordinates":[-96.721297,43.51766],"type":"Point"}
+  "bbox": [
+    -96.721297,
+    43.51766,
+    -96.721297,
+    43.51766
+],
+  "geometry": {"coordinates":[-96.72129700000001,43.51766],"type":"Point"}
 }

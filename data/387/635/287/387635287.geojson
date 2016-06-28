@@ -2,13 +2,14 @@
   "id": 387635287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.038826,43.716501,-98.038826,43.716501",
     "geom:latitude":43.716501,
     "geom:longitude":-98.038826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 W 8th Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387635287,
-    "wof:lastmodified":1449057754,
+    "wof:lastmodified":1467082720,
     "wof:name":"Lucid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-98.038826,43.716501,-98.038826,43.716501],
+  "bbox": [
+    -98.038826,
+    43.716501,
+    -98.038826,
+    43.716501
+],
   "geometry": {"coordinates":[-98.038826,43.716501],"type":"Point"}
 }

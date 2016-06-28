@@ -2,13 +2,14 @@
   "id": 387890041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.694537,43.5095,-96.694537,43.5095",
     "geom:latitude":43.5095,
     "geom:longitude":-96.694537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 E Harriet Lea",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387890041,
-    "wof:lastmodified":1449056932,
+    "wof:lastmodified":1467082703,
     "wof:name":"Hagen Rock & Gravel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gravel"
     ]
 },
-  "bbox": [-96.694537,43.5095,-96.694537,43.5095],
+  "bbox": [
+    -96.694537,
+    43.5095,
+    -96.694537,
+    43.5095
+],
   "geometry": {"coordinates":[-96.694537,43.5095],"type":"Point"}
 }

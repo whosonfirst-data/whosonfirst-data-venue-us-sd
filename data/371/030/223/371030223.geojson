@@ -2,13 +2,14 @@
   "id": 371030223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.221635,44.114388,-103.221635,44.114388",
     "geom:latitude":44.114388,
     "geom:longitude":-103.221635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371030223,
-    "wof:lastmodified":1449049397,
+    "wof:lastmodified":1467082663,
     "wof:name":"General Service Construction",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-103.221635,44.114388,-103.221635,44.114388],
-  "geometry": {"coordinates":[-103.221635,44.114388],"type":"Point"}
+  "bbox": [
+    -103.221635,
+    44.114388,
+    -103.221635,
+    44.114388
+],
+  "geometry": {"coordinates":[-103.22163500000001,44.114388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387149029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.76292,44.311311,-96.76292,44.311311",
     "geom:latitude":44.311311,
     "geom:longitude":-96.76292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 6th St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387149029,
-    "wof:lastmodified":1449056121,
+    "wof:lastmodified":1467082687,
     "wof:name":"Trio Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-96.76292,44.311311,-96.76292,44.311311],
-  "geometry": {"coordinates":[-96.76292,44.311311],"type":"Point"}
+  "bbox": [
+    -96.76292,
+    44.311311,
+    -96.76292,
+    44.311311
+],
+  "geometry": {"coordinates":[-96.76291999999999,44.311311],"type":"Point"}
 }

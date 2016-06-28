@@ -2,13 +2,14 @@
   "id": 403787543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.275032,44.038787,-103.275032,44.038787",
     "geom:latitude":44.038787,
     "geom:longitude":-103.275032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Corral Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403787543,
-    "wof:lastmodified":1449055238,
+    "wof:lastmodified":1467082679,
     "wof:name":"B J Planet LLC",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "holding"
     ]
 },
-  "bbox": [-103.275032,44.038787,-103.275032,44.038787],
+  "bbox": [
+    -103.275032,
+    44.038787,
+    -103.275032,
+    44.038787
+],
   "geometry": {"coordinates":[-103.275032,44.038787],"type":"Point"}
 }

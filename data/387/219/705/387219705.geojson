@@ -2,13 +2,14 @@
   "id": 387219705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.290759,44.377091,-100.290759,44.377091",
     "geom:latitude":44.377091,
     "geom:longitude":-100.290759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Airport Rd",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387219705,
-    "wof:lastmodified":1449059761,
+    "wof:lastmodified":1467082760,
     "wof:name":"Auto Body Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-100.290759,44.377091,-100.290759,44.377091],
-  "geometry": {"coordinates":[-100.290759,44.377091],"type":"Point"}
+  "bbox": [
+    -100.290759,
+    44.377091,
+    -100.290759,
+    44.377091
+],
+  "geometry": {"coordinates":[-100.29075899999999,44.377091],"type":"Point"}
 }

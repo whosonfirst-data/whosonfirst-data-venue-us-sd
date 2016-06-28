@@ -2,13 +2,14 @@
   "id": 387915419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.32275,44.093916,-103.32275,44.093916",
     "geom:latitude":44.093916,
     "geom:longitude":-103.32275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Sun Ridge Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387915419,
-    "wof:lastmodified":1449059887,
+    "wof:lastmodified":1467082762,
     "wof:name":"Community Cleaning Servic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-103.32275,44.093916,-103.32275,44.093916],
+  "bbox": [
+    -103.32275,
+    44.093916,
+    -103.32275,
+    44.093916
+],
   "geometry": {"coordinates":[-103.32275,44.093916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403804713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.758741,43.553609,-96.758741,43.553609",
     "geom:latitude":43.553609,
     "geom:longitude":-96.758741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Garfield Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403804713,
-    "wof:lastmodified":1449055536,
+    "wof:lastmodified":1467082682,
     "wof:name":"Quality Home Improvement",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-96.758741,43.553609,-96.758741,43.553609],
+  "bbox": [
+    -96.758741,
+    43.553609,
+    -96.758741,
+    43.553609
+],
   "geometry": {"coordinates":[-96.758741,43.553609],"type":"Point"}
 }

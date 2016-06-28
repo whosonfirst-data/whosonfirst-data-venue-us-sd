@@ -2,13 +2,14 @@
   "id": 387125321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.220391,44.10308,-103.220391,44.10308",
     "geom:latitude":44.10308,
     "geom:longitude":-103.220391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Knollwood Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387125321,
-    "wof:lastmodified":1449059784,
+    "wof:lastmodified":1467082760,
     "wof:name":"Rapid Care Medical Center",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [-103.220391,44.10308,-103.220391,44.10308],
-  "geometry": {"coordinates":[-103.220391,44.10308],"type":"Point"}
+  "bbox": [
+    -103.220391,
+    44.10308,
+    -103.220391,
+    44.10308
+],
+  "geometry": {"coordinates":[-103.22039100000001,44.10308],"type":"Point"}
 }

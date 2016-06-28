@@ -2,13 +2,14 @@
   "id": 386955127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.763126,45.286414,-98.763126,45.286414",
     "geom:latitude":45.286414,
     "geom:longitude":-98.763126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37049 145th St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386955127,
-    "wof:lastmodified":1449028841,
+    "wof:lastmodified":1467082653,
     "wof:name":"C Square Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "feedlot"
     ]
 },
-  "bbox": [-98.763126,45.286414,-98.763126,45.286414],
+  "bbox": [
+    -98.763126,
+    45.286414,
+    -98.763126,
+    45.286414
+],
   "geometry": {"coordinates":[-98.763126,45.286414],"type":"Point"}
 }

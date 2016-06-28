@@ -2,13 +2,14 @@
   "id": 387802689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.236275,44.083802,-103.236275,44.083802",
     "geom:latitude":44.083802,
     "geom:longitude":-103.236275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"353 11th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387802689,
-    "wof:lastmodified":1449059211,
+    "wof:lastmodified":1467082749,
     "wof:name":"Rushmore Ammo & Supply Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ammunition"
     ]
 },
-  "bbox": [-103.236275,44.083802,-103.236275,44.083802],
-  "geometry": {"coordinates":[-103.236275,44.083802],"type":"Point"}
+  "bbox": [
+    -103.236275,
+    44.083802,
+    -103.236275,
+    44.083802
+],
+  "geometry": {"coordinates":[-103.23627500000001,44.083802],"type":"Point"}
 }

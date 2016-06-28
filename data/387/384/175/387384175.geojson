@@ -2,13 +2,14 @@
   "id": 387384175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.765736,43.544883,-96.765736,43.544883",
     "geom:latitude":43.544883,
     "geom:longitude":-96.765736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387384175,
-    "wof:lastmodified":1449056582,
+    "wof:lastmodified":1467082696,
     "wof:name":"Sioux Falls Police Adm Svc Div",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-96.765736,43.544883,-96.765736,43.544883],
+  "bbox": [
+    -96.765736,
+    43.544883,
+    -96.765736,
+    43.544883
+],
   "geometry": {"coordinates":[-96.765736,43.544883],"type":"Point"}
 }

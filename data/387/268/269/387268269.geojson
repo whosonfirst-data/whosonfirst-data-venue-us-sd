@@ -2,13 +2,14 @@
   "id": 387268269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.29229,43.183129,-99.29229,43.183129",
     "geom:latitude":43.183129,
     "geom:longitude":-99.29229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Main St",
     "sg:city":"Burke",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387268269,
-    "wof:lastmodified":1449058271,
+    "wof:lastmodified":1467082730,
     "wof:name":"Victor Schmitz CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "filing"
     ]
 },
-  "bbox": [-99.29229,43.183129,-99.29229,43.183129],
-  "geometry": {"coordinates":[-99.29229,43.183129],"type":"Point"}
+  "bbox": [
+    -99.29229,
+    43.183129,
+    -99.29229,
+    43.183129
+],
+  "geometry": {"coordinates":[-99.29228999999999,43.183129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386956687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.511933,45.062557,-99.511933,45.062557",
     "geom:latitude":45.062557,
     "geom:longitude":-99.511933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Pine St",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386956687,
-    "wof:lastmodified":1449028666,
+    "wof:lastmodified":1467082650,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.511933,45.062557,-99.511933,45.062557],
+  "bbox": [
+    -99.511933,
+    45.062557,
+    -99.511933,
+    45.062557
+],
   "geometry": {"coordinates":[-99.511933,45.062557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387032853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.766827,43.236396,-96.766827,43.236396",
     "geom:latitude":43.236396,
     "geom:longitude":-96.766827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28647 472nd Ave",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387032853,
-    "wof:lastmodified":1449057968,
+    "wof:lastmodified":1467082724,
     "wof:name":"South Lincoln Rural Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.766827,43.236396,-96.766827,43.236396],
-  "geometry": {"coordinates":[-96.766827,43.236396],"type":"Point"}
+  "bbox": [
+    -96.766827,
+    43.236396,
+    -96.766827,
+    43.236396
+],
+  "geometry": {"coordinates":[-96.76682700000001,43.236396],"type":"Point"}
 }

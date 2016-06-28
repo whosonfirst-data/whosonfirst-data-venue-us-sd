@@ -2,13 +2,14 @@
   "id": 403781523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.112982,44.900019,-97.112982,44.900019",
     "geom:latitude":44.900019,
     "geom:longitude":-97.112982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 S Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403781523,
-    "wof:lastmodified":1449054888,
+    "wof:lastmodified":1467082677,
     "wof:name":"Dakota Giftware Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "florist"
     ]
 },
-  "bbox": [-97.112982,44.900019,-97.112982,44.900019],
+  "bbox": [
+    -97.112982,
+    44.900019,
+    -97.112982,
+    44.900019
+],
   "geometry": {"coordinates":[-97.112982,44.900019],"type":"Point"}
 }

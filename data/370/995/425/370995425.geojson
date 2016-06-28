@@ -2,13 +2,14 @@
   "id": 370995425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.532194,43.558114,-96.532194,43.558114",
     "geom:latitude":43.558114,
     "geom:longitude":-96.532194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26403 484th Ave",
     "sg:city":"Valley Springs",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370995425,
-    "wof:lastmodified":1449032103,
+    "wof:lastmodified":1467082658,
     "wof:name":"Alliance Education Svc",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-96.532194,43.558114,-96.532194,43.558114],
+  "bbox": [
+    -96.532194,
+    43.558114,
+    -96.532194,
+    43.558114
+],
   "geometry": {"coordinates":[-96.532194,43.558114],"type":"Point"}
 }

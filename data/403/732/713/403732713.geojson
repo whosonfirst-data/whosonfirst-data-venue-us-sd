@@ -2,13 +2,14 @@
   "id": 403732713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.424034,45.535357,-100.424034,45.535357",
     "geom:latitude":45.535357,
     "geom:longitude":-100.424034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 7th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403732713,
-    "wof:lastmodified":1449056018,
+    "wof:lastmodified":1467082685,
     "wof:name":"Stan's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fix"
     ]
 },
-  "bbox": [-100.424034,45.535357,-100.424034,45.535357],
-  "geometry": {"coordinates":[-100.424034,45.535357],"type":"Point"}
+  "bbox": [
+    -100.424034,
+    45.535357,
+    -100.424034,
+    45.535357
+],
+  "geometry": {"coordinates":[-100.42403400000001,45.535357],"type":"Point"}
 }

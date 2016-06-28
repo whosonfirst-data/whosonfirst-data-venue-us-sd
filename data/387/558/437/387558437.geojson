@@ -2,13 +2,14 @@
   "id": 387558437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.183452,44.076537,-103.183452,44.076537",
     "geom:latitude":44.076537,
     "geom:longitude":-103.183452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 E Centre St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":387558437,
-    "wof:lastmodified":1449057135,
+    "wof:lastmodified":1467082707,
     "wof:name":"Airport Express Shuttle Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "airport"
     ]
 },
-  "bbox": [-103.183452,44.076537,-103.183452,44.076537],
+  "bbox": [
+    -103.183452,
+    44.076537,
+    -103.183452,
+    44.076537
+],
   "geometry": {"coordinates":[-103.183452,44.076537],"type":"Point"}
 }

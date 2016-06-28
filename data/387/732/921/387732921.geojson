@@ -2,13 +2,14 @@
   "id": 387732921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.470529,43.689422,-96.470529,43.689422",
     "geom:latitude":43.689422,
     "geom:longitude":-96.470529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25490 487th Ave",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387732921,
-    "wof:lastmodified":1449060035,
+    "wof:lastmodified":1467082765,
     "wof:name":"Dale Stoltenbert",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-96.470529,43.689422,-96.470529,43.689422],
+  "bbox": [
+    -96.470529,
+    43.689422,
+    -96.470529,
+    43.689422
+],
   "geometry": {"coordinates":[-96.470529,43.689422],"type":"Point"}
 }

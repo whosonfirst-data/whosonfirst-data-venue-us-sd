@@ -2,13 +2,14 @@
   "id": 387578193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.762031,43.523848,-96.762031,43.523848",
     "geom:latitude":43.523848,
     "geom:longitude":-96.762031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 W Donahue Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387578193,
-    "wof:lastmodified":1449057059,
+    "wof:lastmodified":1467082706,
     "wof:name":"Sandtrap Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.762031,43.523848,-96.762031,43.523848],
-  "geometry": {"coordinates":[-96.762031,43.523848],"type":"Point"}
+  "bbox": [
+    -96.762031,
+    43.523848,
+    -96.762031,
+    43.523848
+],
+  "geometry": {"coordinates":[-96.76203099999999,43.523848],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387829565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.234492,44.373991,-98.234492,44.373991",
     "geom:latitude":44.373991,
     "geom:longitude":-98.234492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Lincoln Ave NW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387829565,
-    "wof:lastmodified":1449059672,
+    "wof:lastmodified":1467082758,
     "wof:name":"Trussbilt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sash"
     ]
 },
-  "bbox": [-98.234492,44.373991,-98.234492,44.373991],
+  "bbox": [
+    -98.234492,
+    44.373991,
+    -98.234492,
+    44.373991
+],
   "geometry": {"coordinates":[-98.234492,44.373991],"type":"Point"}
 }

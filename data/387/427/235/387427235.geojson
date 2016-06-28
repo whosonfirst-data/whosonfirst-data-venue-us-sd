@@ -2,13 +2,14 @@
   "id": 387427235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.789158,43.510513,-96.789158,43.510513",
     "geom:latitude":43.510513,
     "geom:longitude":-96.789158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 S Cathy Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387427235,
-    "wof:lastmodified":1449057242,
+    "wof:lastmodified":1467082709,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-96.789158,43.510513,-96.789158,43.510513],
+  "bbox": [
+    -96.789158,
+    43.510513,
+    -96.789158,
+    43.510513
+],
   "geometry": {"coordinates":[-96.789158,43.510513],"type":"Point"}
 }

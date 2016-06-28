@@ -2,13 +2,14 @@
   "id": 387469859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.802209,44.265481,-96.802209,44.265481",
     "geom:latitude":44.265481,
     "geom:longitude":-96.802209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Maple Dr",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387469859,
-    "wof:lastmodified":1449060015,
+    "wof:lastmodified":1467082765,
     "wof:name":"Nexus Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.802209,44.265481,-96.802209,44.265481],
+  "bbox": [
+    -96.802209,
+    44.265481,
+    -96.802209,
+    44.265481
+],
   "geometry": {"coordinates":[-96.802209,44.265481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387854477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.714179,45.678125,-98.714179,45.678125",
     "geom:latitude":45.678125,
     "geom:longitude":-98.714179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37353 118th St",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387854477,
-    "wof:lastmodified":1449059777,
+    "wof:lastmodified":1467082760,
     "wof:name":"Lazy K Ranch",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-98.714179,45.678125,-98.714179,45.678125],
+  "bbox": [
+    -98.714179,
+    45.678125,
+    -98.714179,
+    45.678125
+],
   "geometry": {"coordinates":[-98.714179,45.678125],"type":"Point"}
 }

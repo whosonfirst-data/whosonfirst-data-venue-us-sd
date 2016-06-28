@@ -2,13 +2,14 @@
   "id": 387256945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.722215,43.540051,-96.722215,43.540051",
     "geom:latitude":43.540051,
     "geom:longitude":-96.722215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 S 3rd Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387256945,
-    "wof:lastmodified":1449058998,
+    "wof:lastmodified":1467082745,
     "wof:name":"A To Z Language Interpreters",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "interpreter"
     ]
 },
-  "bbox": [-96.722215,43.540051,-96.722215,43.540051],
-  "geometry": {"coordinates":[-96.722215,43.540051],"type":"Point"}
+  "bbox": [
+    -96.722215,
+    43.540051,
+    -96.722215,
+    43.540051
+],
+  "geometry": {"coordinates":[-96.72221500000001,43.540051],"type":"Point"}
 }

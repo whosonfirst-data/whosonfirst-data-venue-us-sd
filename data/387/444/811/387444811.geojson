@@ -2,13 +2,14 @@
   "id": 387444811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.687764,43.451638,-98.687764,43.451638",
     "geom:latitude":43.451638,
     "geom:longitude":-98.687764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27132 375th Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387444811,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1467082753,
     "wof:name":"Van Zee Merlin Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-98.687764,43.451638,-98.687764,43.451638],
+  "bbox": [
+    -98.687764,
+    43.451638,
+    -98.687764,
+    43.451638
+],
   "geometry": {"coordinates":[-98.687764,43.451638],"type":"Point"}
 }

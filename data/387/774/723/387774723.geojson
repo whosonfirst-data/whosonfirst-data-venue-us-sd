@@ -2,13 +2,14 @@
   "id": 387774723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.710202,43.833272,-96.710202,43.833272",
     "geom:latitude":43.833272,
     "geom:longitude":-96.710202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E 15th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387774723,
-    "wof:lastmodified":1449057584,
+    "wof:lastmodified":1467082716,
     "wof:name":"Executive Recruiting Conslnt",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "executive"
     ]
 },
-  "bbox": [-96.710202,43.833272,-96.710202,43.833272],
+  "bbox": [
+    -96.710202,
+    43.833272,
+    -96.710202,
+    43.833272
+],
   "geometry": {"coordinates":[-96.710202,43.833272],"type":"Point"}
 }

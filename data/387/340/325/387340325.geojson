@@ -2,13 +2,14 @@
   "id": 387340325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.769739,43.572968,-96.769739,43.572968",
     "geom:latitude":43.572968,
     "geom:longitude":-96.769739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 W Maple St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387340325,
-    "wof:lastmodified":1449059042,
+    "wof:lastmodified":1467082746,
     "wof:name":"North Central Intercollegiate",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-96.769739,43.572968,-96.769739,43.572968],
+  "bbox": [
+    -96.769739,
+    43.572968,
+    -96.769739,
+    43.572968
+],
   "geometry": {"coordinates":[-96.769739,43.572968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387524577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.230498,44.224902,-97.230498,44.224902",
     "geom:latitude":44.224902,
     "geom:longitude":-97.230498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21757 449th Ave",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387524577,
-    "wof:lastmodified":1449056079,
+    "wof:lastmodified":1467082686,
     "wof:name":"Rolling Pririe Hand Made Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-97.230498,44.224902,-97.230498,44.224902],
+  "bbox": [
+    -97.230498,
+    44.224902,
+    -97.230498,
+    44.224902
+],
   "geometry": {"coordinates":[-97.230498,44.224902],"type":"Point"}
 }

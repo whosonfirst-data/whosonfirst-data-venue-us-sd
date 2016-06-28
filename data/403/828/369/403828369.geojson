@@ -2,13 +2,14 @@
   "id": 403828369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.203329,44.047277,-103.203329,44.047277",
     "geom:latitude":44.047277,
     "geom:longitude":-103.203329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3825 Odde Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403828369,
-    "wof:lastmodified":1449055327,
+    "wof:lastmodified":1467082680,
     "wof:name":"Keyser Investment Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-103.203329,44.047277,-103.203329,44.047277],
+  "bbox": [
+    -103.203329,
+    44.047277,
+    -103.203329,
+    44.047277
+],
   "geometry": {"coordinates":[-103.203329,44.047277],"type":"Point"}
 }

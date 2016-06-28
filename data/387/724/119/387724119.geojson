@@ -2,13 +2,14 @@
   "id": 387724119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.474868,43.430897,-103.474868,43.430897",
     "geom:latitude":43.430897,
     "geom:longitude":-103.474868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 S Chicago St",
     "sg:city":"Hot Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387724119,
-    "wof:lastmodified":1449059840,
+    "wof:lastmodified":1467082761,
     "wof:name":"Jennys Recreation Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "amusement"
     ]
 },
-  "bbox": [-103.474868,43.430897,-103.474868,43.430897],
+  "bbox": [
+    -103.474868,
+    43.430897,
+    -103.474868,
+    43.430897
+],
   "geometry": {"coordinates":[-103.474868,43.430897],"type":"Point"}
 }

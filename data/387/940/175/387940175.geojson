@@ -2,13 +2,14 @@
   "id": 387940175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.732741,43.553546,-96.732741,43.553546",
     "geom:latitude":43.553546,
     "geom:longitude":-96.732741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 N Spring Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387940175,
-    "wof:lastmodified":1449057033,
+    "wof:lastmodified":1467082705,
     "wof:name":"Collins Apartments",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-96.732741,43.553546,-96.732741,43.553546],
+  "bbox": [
+    -96.732741,
+    43.553546,
+    -96.732741,
+    43.553546
+],
   "geometry": {"coordinates":[-96.732741,43.553546],"type":"Point"}
 }

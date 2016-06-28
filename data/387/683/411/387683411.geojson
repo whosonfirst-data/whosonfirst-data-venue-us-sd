@@ -2,13 +2,14 @@
   "id": 387683411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.86763,43.427788,-97.86763,43.427788",
     "geom:latitude":43.427788,
     "geom:longitude":-97.86763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41650 273rd St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387683411,
-    "wof:lastmodified":1449057500,
+    "wof:lastmodified":1467082715,
     "wof:name":"Kurt Kummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-97.86763,43.427788,-97.86763,43.427788],
-  "geometry": {"coordinates":[-97.86763,43.427788],"type":"Point"}
+  "bbox": [
+    -97.86763,
+    43.427788,
+    -97.86763,
+    43.427788
+],
+  "geometry": {"coordinates":[-97.86763000000001,43.427788],"type":"Point"}
 }

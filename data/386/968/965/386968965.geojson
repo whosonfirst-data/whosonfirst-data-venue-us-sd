@@ -2,13 +2,14 @@
   "id": 386968965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.749856,43.514852,-96.749856,43.514852",
     "geom:latitude":43.514852,
     "geom:longitude":-96.749856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":386968965,
-    "wof:lastmodified":1449028650,
+    "wof:lastmodified":1467082649,
     "wof:name":"Dollar Loan Ctr",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-96.749856,43.514852,-96.749856,43.514852],
-  "geometry": {"coordinates":[-96.749856,43.514852],"type":"Point"}
+  "bbox": [
+    -96.749856,
+    43.514852,
+    -96.749856,
+    43.514852
+],
+  "geometry": {"coordinates":[-96.74985599999999,43.514852],"type":"Point"}
 }

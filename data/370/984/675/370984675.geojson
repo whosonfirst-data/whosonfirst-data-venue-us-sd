@@ -2,13 +2,14 @@
   "id": 370984675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.493749,45.478007,-98.493749,45.478007",
     "geom:latitude":45.478007,
     "geom:longitude":-98.493749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 12th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370984675,
-    "wof:lastmodified":1449030986,
+    "wof:lastmodified":1467082657,
     "wof:name":"Dakota Com Investments LLC",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-98.493749,45.478007,-98.493749,45.478007],
-  "geometry": {"coordinates":[-98.493749,45.478007],"type":"Point"}
+  "bbox": [
+    -98.493749,
+    45.478007,
+    -98.493749,
+    45.478007
+],
+  "geometry": {"coordinates":[-98.49374899999999,45.478007],"type":"Point"}
 }

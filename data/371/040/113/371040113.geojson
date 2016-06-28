@@ -2,13 +2,14 @@
   "id": 371040113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.986049,43.395174,-97.986049,43.395174",
     "geom:latitude":43.395174,
     "geom:longitude":-97.986049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N 1st St",
     "sg:city":"Parkston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371040113,
-    "wof:lastmodified":1449050105,
+    "wof:lastmodified":1467082673,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.986049,43.395174,-97.986049,43.395174],
-  "geometry": {"coordinates":[-97.986049,43.395174],"type":"Point"}
+  "bbox": [
+    -97.986049,
+    43.395174,
+    -97.986049,
+    43.395174
+],
+  "geometry": {"coordinates":[-97.98604899999999,43.395174],"type":"Point"}
 }

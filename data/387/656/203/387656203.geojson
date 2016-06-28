@@ -2,13 +2,14 @@
   "id": 387656203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.287873,44.089679,-103.287873,44.089679",
     "geom:latitude":44.089679,
     "geom:longitude":-103.287873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4059 Dean Ln",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387656203,
-    "wof:lastmodified":1449058590,
+    "wof:lastmodified":1467082737,
     "wof:name":"S&J Services Unlimited",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "labor"
     ]
 },
-  "bbox": [-103.287873,44.089679,-103.287873,44.089679],
+  "bbox": [
+    -103.287873,
+    44.089679,
+    -103.287873,
+    44.089679
+],
   "geometry": {"coordinates":[-103.287873,44.089679],"type":"Point"}
 }

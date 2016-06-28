@@ -2,13 +2,14 @@
   "id": 387209573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.160007,44.370145,-98.160007,44.370145",
     "geom:latitude":44.370145,
     "geom:longitude":-98.160007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40291 US Hwy 14",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387209573,
-    "wof:lastmodified":1449059511,
+    "wof:lastmodified":1467082755,
     "wof:name":"Dakota Turkey Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "processing"
     ]
 },
-  "bbox": [-98.160007,44.370145,-98.160007,44.370145],
-  "geometry": {"coordinates":[-98.160007,44.370145],"type":"Point"}
+  "bbox": [
+    -98.160007,
+    44.370145,
+    -98.160007,
+    44.370145
+],
+  "geometry": {"coordinates":[-98.16000699999999,44.370145],"type":"Point"}
 }

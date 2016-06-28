@@ -2,13 +2,14 @@
   "id": 387108857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.751082,43.508447,-96.751082,43.508447",
     "geom:latitude":43.508447,
     "geom:longitude":-96.751082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387108857,
-    "wof:lastmodified":1449056184,
+    "wof:lastmodified":1467082688,
     "wof:name":"Kum & Go",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.751082,43.508447,-96.751082,43.508447],
+  "bbox": [
+    -96.751082,
+    43.508447,
+    -96.751082,
+    43.508447
+],
   "geometry": {"coordinates":[-96.751082,43.508447],"type":"Point"}
 }

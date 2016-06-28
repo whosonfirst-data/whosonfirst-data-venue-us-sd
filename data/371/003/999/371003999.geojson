@@ -2,13 +2,14 @@
   "id": 371003999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.21237,44.363771,-98.21237,44.363771",
     "geom:latitude":44.363771,
     "geom:longitude":-98.21237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Kansas Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371003999,
-    "wof:lastmodified":1449050066,
+    "wof:lastmodified":1467082672,
     "wof:name":"Nikkis LA Mexicana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.21237,44.363771,-98.21237,44.363771],
-  "geometry": {"coordinates":[-98.21237,44.363771],"type":"Point"}
+  "bbox": [
+    -98.21237,
+    44.363771,
+    -98.21237,
+    44.363771
+],
+  "geometry": {"coordinates":[-98.21237000000001,44.363771],"type":"Point"}
 }

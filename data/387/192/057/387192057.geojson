@@ -2,13 +2,14 @@
   "id": 387192057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-102.636619,43.862372,-102.636619,43.862372",
     "geom:latitude":43.862372,
     "geom:longitude":-102.636619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24470 Heinrich Rd",
     "sg:city":"Caputa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387192057,
-    "wof:lastmodified":1449058800,
+    "wof:lastmodified":1467082741,
     "wof:name":"Larry Heinrich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-102.636619,43.862372,-102.636619,43.862372],
+  "bbox": [
+    -102.636619,
+    43.862372,
+    -102.636619,
+    43.862372
+],
   "geometry": {"coordinates":[-102.636619,43.862372],"type":"Point"}
 }

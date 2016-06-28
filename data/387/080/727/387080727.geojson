@@ -2,13 +2,14 @@
   "id": 387080727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.859142,44.490109,-103.859142,44.490109",
     "geom:latitude":44.490109,
     "geom:longitude":-103.859142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 W Illinois St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387080727,
-    "wof:lastmodified":1449059814,
+    "wof:lastmodified":1467082761,
     "wof:name":"Spearfish Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-103.859142,44.490109,-103.859142,44.490109],
-  "geometry": {"coordinates":[-103.859142,44.490109],"type":"Point"}
+  "bbox": [
+    -103.859142,
+    44.490109,
+    -103.859142,
+    44.490109
+],
+  "geometry": {"coordinates":[-103.85914200000001,44.490109],"type":"Point"}
 }

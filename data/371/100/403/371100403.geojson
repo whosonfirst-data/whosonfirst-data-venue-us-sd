@@ -2,13 +2,14 @@
   "id": 371100403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.538039,43.921249,-97.538039,43.921249",
     "geom:latitude":43.921249,
     "geom:longitude":-97.538039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43336 239th St",
     "sg:city":"Canova",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":371100403,
-    "wof:lastmodified":1449049826,
+    "wof:lastmodified":1467082669,
     "wof:name":"Gary Lindblom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-97.538039,43.921249,-97.538039,43.921249],
+  "bbox": [
+    -97.538039,
+    43.921249,
+    -97.538039,
+    43.921249
+],
   "geometry": {"coordinates":[-97.538039,43.921249],"type":"Point"}
 }

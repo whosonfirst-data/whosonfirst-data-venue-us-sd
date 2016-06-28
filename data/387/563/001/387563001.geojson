@@ -2,13 +2,14 @@
   "id": 387563001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.229978,44.06037,-103.229978,44.06037",
     "geom:latitude":44.06037,
     "geom:longitude":-103.229978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Oakland St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387563001,
-    "wof:lastmodified":1449056175,
+    "wof:lastmodified":1467082688,
     "wof:name":"Black Hills Unitrn Univsl Fell",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-103.229978,44.06037,-103.229978,44.06037],
+  "bbox": [
+    -103.229978,
+    44.06037,
+    -103.229978,
+    44.06037
+],
   "geometry": {"coordinates":[-103.229978,44.06037],"type":"Point"}
 }
