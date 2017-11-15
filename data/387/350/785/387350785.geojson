@@ -2,14 +2,20 @@
   "id": 387350785,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Leslie Dr Garretson SD 57030",
+    "addr:housenumber":"132",
+    "addr:postcode":"57030",
+    "addr:street":"Leslie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.50086,43.709369,-96.50086,43.709369",
     "geom:latitude":43.709369,
     "geom:longitude":-96.50086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"132 Leslie Dr",
     "sg:city":"Garretson",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086007,
         85881013
     ],
+    "wof:brand_id":1125152905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ubiVT2ddDWVDzYCLXJnNl_43.709369_-96.500860@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d29bbd57de7d2bee822b09c92ec5168",
+    "wof:geomhash":"be25c3c4834a24330896db6d3c48ea1b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387350785,
-    "wof:lastmodified":1467082726,
+    "wof:lastmodified":1510695166,
     "wof:name":"Shear Magic",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",

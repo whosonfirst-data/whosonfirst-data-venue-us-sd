@@ -2,14 +2,20 @@
   "id": 387751497,
   "type": "Feature",
   "properties": {
+    "addr:full":"3413 S Gateway Blvd Sioux Falls SD 57106",
+    "addr:housenumber":"3413",
+    "addr:postcode":"57106",
+    "addr:street":"S Gateway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.783106,43.513236,-96.783106,43.513236",
     "geom:latitude":43.513236,
     "geom:longitude":-96.783106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3413 S Gateway Blvd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -46,12 +52,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zg3OSj0jrpIYMh0Vt5quL_43.513236_-96.783106@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"507f1cbd54f7234ca866699362344b4f",
+    "wof:geomhash":"e98c98af66fb52bf496efab69997b315",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":387751497,
-    "wof:lastmodified":1467082691,
+    "wof:lastmodified":1510695202,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

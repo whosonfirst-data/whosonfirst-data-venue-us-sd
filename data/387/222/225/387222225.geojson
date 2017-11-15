@@ -2,14 +2,20 @@
   "id": 387222225,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 S Egan Ave Madison SD 57042",
+    "addr:housenumber":"119",
+    "addr:postcode":"57042",
+    "addr:street":"S Egan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.114099,44.004874,-97.114099,44.004874",
     "geom:latitude":44.004874,
     "geom:longitude":-97.114099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 S Egan Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721637,
         102086107
     ],
+    "wof:brand_id":1125158735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OOIz8Q1Zz7YtX3NO0bJ7k_44.004874_-97.114099@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f96d0d36549535bac8db02f76b3f3e77",
+    "wof:geomhash":"882c0951b86e27a091034a130e3e8e30",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387222225,
-    "wof:lastmodified":1467082738,
+    "wof:lastmodified":1510695941,
     "wof:name":"Country Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387806307,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E 8th St Sioux Falls SD 57103",
+    "addr:housenumber":"200",
+    "addr:postcode":"57103",
+    "addr:street":"E 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.72393,43.548629,-96.72393,43.548629",
     "geom:latitude":43.548629,
     "geom:longitude":-96.72393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086007,
         85881011
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lghzPB9TfNj9q8d2X9I9I_43.548629_-96.723930@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c26a560bd2e718af76bc22a664412fdd",
+    "wof:geomhash":"3f6b15c089a3c43d362ed2dbd62dea75",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387806307,
-    "wof:lastmodified":1467082687,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",

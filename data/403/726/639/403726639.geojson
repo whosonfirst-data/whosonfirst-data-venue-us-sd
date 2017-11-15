@@ -2,14 +2,20 @@
   "id": 403726639,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 N Jay St Aberdeen SD 57401",
+    "addr:housenumber":"624",
+    "addr:postcode":"57401",
+    "addr:street":"N Jay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.483543,45.472664,-98.483543,45.472664",
     "geom:latitude":45.472664,
     "geom:longitude":-98.483543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"624 N Jay St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cOkH36Ey3oqI2tM3szLra_45.472664_-98.483543@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1ddca1b745d1c85dd9b67238e44cd0e",
+    "wof:geomhash":"23891ffd35a2886f25e1156ec53a4c78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403726639,
-    "wof:lastmodified":1467082681,
+    "wof:lastmodified":1510698860,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387867401,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 Market St SW Huron SD 57350",
+    "addr:housenumber":"575",
+    "addr:postcode":"57350",
+    "addr:street":"Market St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.22373,44.367513,-98.22373,44.367513",
     "geom:latitude":44.367513,
     "geom:longitude":-98.22373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"575 Market St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aoxGO10Ciqm68YDVInt9E_44.367513_-98.223730@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"60d6978fc060e39608f9cbc82bdc2f92",
+    "wof:geomhash":"200137a078ac9056e7fb7eb5af8674f4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387867401,
-    "wof:lastmodified":1467082720,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387769431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2030 3rd St Brookings SD 57006",
+    "addr:housenumber":"2030",
+    "addr:postcode":"57006",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.771161,44.30769,-96.771161,44.30769",
     "geom:latitude":44.30769,
     "geom:longitude":-96.771161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2030 3rd St",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721911,
         102086013
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_378KXgxbKP2FqAYXgz3azb_44.307690_-96.771161@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"52feae0ef0ad5875695c022972ad639d",
+    "wof:geomhash":"24024f0b7bdd22c8cc7289f2ab305e01",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387769431,
-    "wof:lastmodified":1467082712,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

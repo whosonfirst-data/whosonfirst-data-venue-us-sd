@@ -2,14 +2,20 @@
   "id": 387477623,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 E 26th St Sioux Falls SD 57110",
+    "addr:housenumber":"6901",
+    "addr:postcode":"57110",
+    "addr:street":"E 26Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.644139,43.529343,-96.644139,43.529343",
     "geom:latitude":43.529343,
     "geom:longitude":-96.644139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6901 E 26th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85850485
     ],
+    "wof:brand_id":1125158989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_400uS825J40qaMeFr5HM31_43.529343_-96.644139@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"33d8bc7f9adf0fd769615711a9e88efb",
+    "wof:geomhash":"8c913cf4cd04fc2afc5aff53f0c84c4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387477623,
-    "wof:lastmodified":1467082699,
+    "wof:lastmodified":1510698690,
     "wof:name":"Fuller Brush Co",
     "wof:parent_id":85850485,
     "wof:placetype":"venue",

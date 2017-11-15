@@ -2,14 +2,20 @@
   "id": 403703061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 1st Ave SE Watertown SD 57201",
+    "addr:housenumber":"1715",
+    "addr:postcode":"57201",
+    "addr:street":"1St Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.088161,44.893942,-97.088161,44.893942",
     "geom:latitude":44.893942,
     "geom:longitude":-97.088161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1715 1st Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721941,
         102086797
     ],
+    "wof:brand_id":1125159727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05seFVd2auEQPYap46QANh_44.893942_-97.088161@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c5b0d016ebf3c4cb3c9150dd3f3d345",
+    "wof:geomhash":"7039afe1d433f26bd74ac984d2a93c6c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403703061,
-    "wof:lastmodified":1467082678,
+    "wof:lastmodified":1510697222,
     "wof:name":"Trinity Lutheran School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

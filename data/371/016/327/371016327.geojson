@@ -2,14 +2,20 @@
   "id": 371016327,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 Main Ave Brookings SD 57006",
+    "addr:housenumber":"507",
+    "addr:postcode":"57006",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.798681,44.311418,-96.798681,44.311418",
     "geom:latitude":44.311418,
     "geom:longitude":-96.798681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 Main Ave",
     "sg:city":"Brookings",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721911,
         102086013
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bPdcdzwgVbTtF7fcVsP4Z_44.311418_-96.798681@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"a098fa7f629ab5cd91e0c3e54532142b",
+    "wof:geomhash":"c735720c288c4123ce0f8c51be434f7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371016327,
-    "wof:lastmodified":1467082660,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

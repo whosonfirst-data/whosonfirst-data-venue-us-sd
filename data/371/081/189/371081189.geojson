@@ -2,14 +2,20 @@
   "id": 371081189,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 N 12th St Spearfish SD 57783",
+    "addr:housenumber":"720",
+    "addr:postcode":"57783",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.849953,44.491135,-103.849953,44.491135",
     "geom:latitude":44.491135,
     "geom:longitude":-103.849953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 N 12th St",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722043,
         102086813
     ],
+    "wof:brand_id":1125158359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xVwYQiewe1CZXo0cMt9kU_44.491135_-103.849953@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"27133ae839081688909a539409047b24",
+    "wof:geomhash":"5d3ba0743eb9b3a1b9a5eb62b5b7b597",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371081189,
-    "wof:lastmodified":1467082662,
+    "wof:lastmodified":1510694186,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

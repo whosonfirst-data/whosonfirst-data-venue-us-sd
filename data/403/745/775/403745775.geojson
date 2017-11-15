@@ -2,14 +2,20 @@
   "id": 403745775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 N West Ave Sioux Falls SD 57104",
+    "addr:housenumber":"1000",
+    "addr:postcode":"57104",
+    "addr:street":"N West Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.747045,43.561423,-96.747045,43.561423",
     "geom:latitude":43.561423,
     "geom:longitude":-96.747045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 N West Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85881017
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EF90C3RjaKqP5NpfoaFLT_43.561423_-96.747045@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f879451570180bb14d4af612be0cb26e",
+    "wof:geomhash":"f518317f9ef4f2cb9ef5c2d662e9ac7b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":403745775,
-    "wof:lastmodified":1467082684,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",

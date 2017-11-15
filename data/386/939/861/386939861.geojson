@@ -2,14 +2,20 @@
   "id": 386939861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 S Louise Ave Sioux Falls SD 57106",
+    "addr:housenumber":"3800",
+    "addr:postcode":"57106",
+    "addr:street":"S Louise Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.770988,43.512937,-96.770988,43.512937",
     "geom:latitude":43.512937,
     "geom:longitude":-96.770988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 S Louise Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125159733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MMqSQB7AIRbp7kv1Wb2hr_43.512937_-96.770988@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4713ce380f72f8216be7fd507bf5c65d",
+    "wof:geomhash":"bdf4b7913274709594d4a03bfe3454a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":386939861,
-    "wof:lastmodified":1467082651,
+    "wof:lastmodified":1510698012,
     "wof:name":"Ultimate Electronics",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

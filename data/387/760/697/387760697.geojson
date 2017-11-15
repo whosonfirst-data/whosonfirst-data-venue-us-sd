@@ -2,14 +2,20 @@
   "id": 387760697,
   "type": "Feature",
   "properties": {
+    "addr:full":"3419 Hall St Rapid City SD 57702",
+    "addr:housenumber":"3419",
+    "addr:postcode":"57702",
+    "addr:street":"Hall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.277169,44.081114,-103.277169,44.081114",
     "geom:latitude":44.081114,
     "geom:longitude":-103.277169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3419 Hall St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VRRNZm1sy4YiQ7ipI3Fs9_44.081114_-103.277169@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"21ef87803613e1babe1c81149f66fcb9",
+    "wof:geomhash":"d5960af5746ced5b213b6707a57fe199",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387760697,
-    "wof:lastmodified":1467082760,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387658913,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 S Western Ave Sioux Falls SD 57105",
+    "addr:housenumber":"2200",
+    "addr:postcode":"57105",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.751178,43.524012,-96.751178,43.524012",
     "geom:latitude":43.524012,
     "geom:longitude":-96.751178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85881007
     ],
+    "wof:brand_id":1125157459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EpezC11XZhdzopJPt680G_43.524012_-96.751178@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3943292f5f2117ecc0a568bdade6da0c",
+    "wof:geomhash":"ad2bca6715ecefc86cce78d63aec6db8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387658913,
-    "wof:lastmodified":1467082685,
+    "wof:lastmodified":1510699922,
     "wof:name":"Our Redeemer Lutheran Church",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 371174565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 15th Ave NW Aberdeen SD 57401",
+    "addr:housenumber":"1400",
+    "addr:postcode":"57401",
+    "addr:street":"15Th Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.510078,45.481286,-98.510078,45.481286",
     "geom:latitude":45.481286,
     "geom:longitude":-98.510078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 15th Ave NW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ki7JL8lBS5JUEPNU3B7Ty_45.481286_-98.510078@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1993dbbb27414f72a885f806d2268bb",
+    "wof:geomhash":"8d2ac34dec10257a1b34b583686f58f6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371174565,
-    "wof:lastmodified":1467082660,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

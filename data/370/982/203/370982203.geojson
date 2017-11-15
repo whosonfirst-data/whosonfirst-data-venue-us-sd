@@ -2,14 +2,20 @@
   "id": 370982203,
   "type": "Feature",
   "properties": {
+    "addr:full":"27967 367th Ave Platte SD 57369",
+    "addr:housenumber":"27967",
+    "addr:postcode":"57369",
+    "addr:street":"367Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.844528,43.330785,-98.844528,43.330785",
     "geom:latitude":43.330785,
     "geom:longitude":-98.844528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27967 367th Ave",
     "sg:city":"Platte",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688693
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09xhsl364mKay2ujxgp5LM_43.330785_-98.844528@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8415d8d2a433e5cf2b9c8571907b08b1",
+    "wof:geomhash":"67266ffc56c262935fd5b7e11f68fe1e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":370982203,
-    "wof:lastmodified":1467082656,
+    "wof:lastmodified":1510613288,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387569537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3538 S Western Ave Sioux Falls SD 57105",
+    "addr:housenumber":"3538",
+    "addr:postcode":"57105",
+    "addr:street":"S Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.751005,43.511578,-96.751005,43.511578",
     "geom:latitude":43.511578,
     "geom:longitude":-96.751005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3538 S Western Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19wJDvmev6YvFjhEdiDSqL_43.511578_-96.751005@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"782aada899b2f1b3b6e71ac33b0460f8",
+    "wof:geomhash":"cc8cb9091e4eb69ea56e86222eea351b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387569537,
-    "wof:lastmodified":1467082760,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

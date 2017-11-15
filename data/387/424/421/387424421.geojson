@@ -2,6 +2,10 @@
   "id": 387424421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 S Main St Mitchell SD 57301",
+    "addr:housenumber":"1001",
+    "addr:postcode":"57301",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387424421,
-    "wof:lastmodified":1467082758,
+    "wof:lastmodified":1472645011,
     "wof:name":"Crystal Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

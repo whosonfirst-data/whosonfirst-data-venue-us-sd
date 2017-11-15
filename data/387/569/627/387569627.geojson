@@ -2,14 +2,20 @@
   "id": 387569627,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Dakota Ave S Huron SD 57350",
+    "addr:housenumber":"510",
+    "addr:postcode":"57350",
+    "addr:street":"Dakota Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.214042,44.360748,-98.214042,44.360748",
     "geom:latitude":44.360748,
     "geom:longitude":-98.214042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125155121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z8slns6nNgqc8qMpwDoGu_44.360748_-98.214042@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"10547b3ac050cb2e9ab6f6132fc25aab",
+    "wof:geomhash":"c4ef674978644276aa8db038d7471d7c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387569627,
-    "wof:lastmodified":1467082760,
+    "wof:lastmodified":1510694062,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387446871,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 E 52nd St Sioux Falls SD 57104",
+    "addr:housenumber":"2222",
+    "addr:postcode":"57104",
+    "addr:street":"E 52Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.699648,43.592746,-96.699648,43.592746",
     "geom:latitude":43.592746,
     "geom:longitude":-96.699648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2222 E 52nd St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086007,
         85881013
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03wr6MQE30WQQzNNUalTqZ_43.592746_-96.699648@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e11316ca742092dd312305171925c2d",
+    "wof:geomhash":"56a3ff35c6f40d3104527c1d2636ef2c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387446871,
-    "wof:lastmodified":1467082756,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",

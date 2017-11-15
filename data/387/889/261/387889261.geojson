@@ -2,14 +2,20 @@
   "id": 387889261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2771 Plant St Rapid City SD 57702",
+    "addr:housenumber":"2771",
+    "addr:postcode":"57702",
+    "addr:street":"Plant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.262607,44.092951,-103.262607,44.092951",
     "geom:latitude":44.092951,
     "geom:longitude":-103.262607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2771 Plant St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PwjA7lQYrIRKEj85bA3gy_44.092951_-103.262607@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"971c651c26f14d81f2534017eec09f12",
+    "wof:geomhash":"82dfa783a17c17b4dd9690939f4eb940",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387889261,
-    "wof:lastmodified":1467082685,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

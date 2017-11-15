@@ -2,14 +2,20 @@
   "id": 371064097,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Sturgis Rd Rapid City SD 57702",
+    "addr:housenumber":"3535",
+    "addr:postcode":"57702",
+    "addr:street":"Sturgis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.277307,44.084213,-103.277307,44.084213",
     "geom:latitude":44.084213,
     "geom:longitude":-103.277307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3535 Sturgis Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RgFhMWyvgO2JU3qAZwajB_44.084213_-103.277307@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2f153615565a25efff73fffc33a0c75",
+    "wof:geomhash":"d77b5a42b2fd0595bbe8f568a36560af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":371064097,
-    "wof:lastmodified":1467082663,
+    "wof:lastmodified":1510696653,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

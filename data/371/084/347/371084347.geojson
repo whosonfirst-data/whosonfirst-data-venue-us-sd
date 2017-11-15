@@ -2,14 +2,20 @@
   "id": 371084347,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 E 4th St Dell Rapids SD 57022",
+    "addr:housenumber":"514",
+    "addr:postcode":"57022",
+    "addr:street":"E 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.710059,43.823368,-96.710059,43.823368",
     "geom:latitude":43.823368,
     "geom:longitude":-96.710059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 E 4th St",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85848907
     ],
+    "wof:brand_id":1125154085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ORcjibAXTwqCoiMHCcpkg_43.823368_-96.710059@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e269d60e96bdf440a8a68e2efa11d0f",
+    "wof:geomhash":"1e617afe836be149cd3fa3290c2c8ed5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371084347,
-    "wof:lastmodified":1467082659,
+    "wof:lastmodified":1510613290,
     "wof:name":"Senior Citizens Center",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",

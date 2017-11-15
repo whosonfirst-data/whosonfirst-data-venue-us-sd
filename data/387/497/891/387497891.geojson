@@ -2,14 +2,20 @@
   "id": 387497891,
   "type": "Feature",
   "properties": {
+    "addr:full":"509 Main St Gregory SD 57533",
+    "addr:housenumber":"509",
+    "addr:postcode":"57533",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.430769,43.232131,-99.430769,43.232131",
     "geom:latitude":43.232131,
     "geom:longitude":-99.430769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"509 Main St",
     "sg:city":"Gregory",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         101721713,
         102086069
     ],
+    "wof:brand_id":1125156875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zEfpHEdZowjc5e6VZJPle_43.232131_-99.430769@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"890b6d1a15a03a64ba239cd1c4029dbf",
+    "wof:geomhash":"34011c4dc7c4ea624e4a8216ce75293b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387497891,
-    "wof:lastmodified":1467082762,
+    "wof:lastmodified":1510696997,
     "wof:name":"Video Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

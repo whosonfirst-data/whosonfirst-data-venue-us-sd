@@ -2,14 +2,20 @@
   "id": 371156651,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 N Main St Mobridge SD 57601",
+    "addr:housenumber":"802",
+    "addr:postcode":"57601",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.433846,45.541464,-100.433846,45.541464",
     "geom:latitude":45.541464,
     "geom:longitude":-100.433846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 N Main St",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721629,
         102086011
     ],
+    "wof:brand_id":1125153417,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6887ZftRjhvnzgqQpSACsq_45.541464_-100.433846@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bc5223cca75dcde8a5b30a4c1816657",
+    "wof:geomhash":"ee4d7fcf5d872547871d1f2ed2567c5e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371156651,
-    "wof:lastmodified":1467082661,
+    "wof:lastmodified":1510695027,
     "wof:name":"St James Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

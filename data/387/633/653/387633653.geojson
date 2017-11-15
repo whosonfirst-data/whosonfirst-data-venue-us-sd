@@ -2,6 +2,10 @@
   "id": 387633653,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E Main St Elk Point SD 57025",
+    "addr:housenumber":"123",
+    "addr:postcode":"57025",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387633653,
-    "wof:lastmodified":1467082762,
+    "wof:lastmodified":1472645039,
     "wof:name":"Jones' Food Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 371076673,
   "type": "Feature",
   "properties": {
+    "addr:full":"807 S Marion Rd Sioux Falls SD 57106",
+    "addr:housenumber":"807",
+    "addr:postcode":"57106",
+    "addr:street":"S Marion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.790987,43.537318,-96.790987,43.537318",
     "geom:latitude":43.537318,
     "geom:longitude":-96.790987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"807 S Marion Rd",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086007,
         85824385
     ],
+    "wof:brand_id":1125154909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FrWj1m1O6PzTgVclEpDPa_43.537318_-96.790987@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"493da67caf722647934fac4363786fbe",
+    "wof:geomhash":"41fd10f5883ca7227ce242788e795063",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371076673,
-    "wof:lastmodified":1467082669,
+    "wof:lastmodified":1510697537,
     "wof:name":"Pizza Man",
     "wof:parent_id":85824385,
     "wof:placetype":"venue",

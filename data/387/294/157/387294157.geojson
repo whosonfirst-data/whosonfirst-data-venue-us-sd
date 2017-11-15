@@ -2,14 +2,20 @@
   "id": 387294157,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 10th St SW Madison SD 57042",
+    "addr:housenumber":"213",
+    "addr:postcode":"57042",
+    "addr:street":"10Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.1155,43.99301,-97.1155,43.99301",
     "geom:latitude":43.99301,
     "geom:longitude":-97.1155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"213 10th St SW",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688693
     ],
+    "wof:brand_id":1125158739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FAqyDxHz6XkZO1vEdlvzu_43.993010_-97.115500@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f6e3649d0b69ba394aaa8941325f5dc6",
+    "wof:geomhash":"19fa7f84964ca619542b183cdbd01c05",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387294157,
-    "wof:lastmodified":1467082741,
+    "wof:lastmodified":1510695954,
     "wof:name":"Creative Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

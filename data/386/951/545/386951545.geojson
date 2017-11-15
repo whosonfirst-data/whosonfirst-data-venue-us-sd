@@ -2,14 +2,20 @@
   "id": 386951545,
   "type": "Feature",
   "properties": {
+    "addr:full":"829 Quincy St Rapid City SD 57701",
+    "addr:housenumber":"829",
+    "addr:postcode":"57701",
+    "addr:street":"Quincy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.2331,44.078604,-103.2331,44.078604",
     "geom:latitude":44.078604,
     "geom:longitude":-103.2331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"829 Quincy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125155945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WyjmgJIZLnOz08KTy7Ols_44.078604_-103.233100@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"35760765c25cdb59c78875448df2865a",
+    "wof:geomhash":"02410807beef4c9765512e2680b380d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":386951545,
-    "wof:lastmodified":1467082649,
+    "wof:lastmodified":1510699781,
     "wof:name":"L P L Financial Services",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

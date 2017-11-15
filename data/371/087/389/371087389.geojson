@@ -2,14 +2,20 @@
   "id": 371087389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 N Haines Ave Rapid City SD 57701",
+    "addr:housenumber":"2525",
+    "addr:postcode":"57701",
+    "addr:street":"N Haines Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.221639,44.10995,-103.221639,44.10995",
     "geom:latitude":44.10995,
     "geom:longitude":-103.221639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2525 N Haines Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125158919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kuiAR4bfgnaGWeU4Lvb0b_44.109950_-103.221639@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"63978a9b2e6e048c1b5a13fa8e1e7cd0",
+    "wof:geomhash":"20978ab1db46b789f3a4ac2c5bf95b47",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371087389,
-    "wof:lastmodified":1467082664,
+    "wof:lastmodified":1510693915,
     "wof:name":"Ashley Furniture Homestore",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

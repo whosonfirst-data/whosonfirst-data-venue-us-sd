@@ -2,14 +2,20 @@
   "id": 371101621,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Centennial St S Aberdeen SD 57401",
+    "addr:housenumber":"310",
+    "addr:postcode":"57401",
+    "addr:street":"Centennial St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.438513,45.460422,-98.438513,45.460422",
     "geom:latitude":45.460422,
     "geom:longitude":-98.438513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Centennial St S",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125154589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xjjzEjzavSJYcrg3WhYPl_45.460422_-98.438513@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6b5bad701a769befb6cc5a7cc003847",
+    "wof:geomhash":"38c26cc8d1cc021a14b88a07e344a989",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":371101621,
-    "wof:lastmodified":1467082666,
+    "wof:lastmodified":1510613345,
     "wof:name":"Americ Inn",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

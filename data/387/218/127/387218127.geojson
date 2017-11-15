@@ -2,14 +2,20 @@
   "id": 387218127,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 14th Ave SE Watertown SD 57201",
+    "addr:housenumber":"606",
+    "addr:postcode":"57201",
+    "addr:street":"14Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.105625,44.88422,-97.105625,44.88422",
     "geom:latitude":44.88422,
     "geom:longitude":-97.105625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 14th Ave SE",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721941,
         102086797
     ],
+    "wof:brand_id":1125156577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TwjKX4ZRliXCBhJdvEvs8_44.884220_-97.105625@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c8b0b77519f59c87f6e126208b32c05",
+    "wof:geomhash":"a110879fa7bb0c14ccddf31cd4b97bd4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387218127,
-    "wof:lastmodified":1467082735,
+    "wof:lastmodified":1510696823,
     "wof:name":"Hagemeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

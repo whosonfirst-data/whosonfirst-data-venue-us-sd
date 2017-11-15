@@ -2,14 +2,20 @@
   "id": 387392651,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 E Main St Warner SD 57479",
+    "addr:housenumber":"110",
+    "addr:postcode":"57479",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.493044,45.325491,-98.493044,45.325491",
     "geom:latitude":45.325491,
     "geom:longitude":-98.493044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 E Main St",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125150595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IW7iSusOKo45jkKdUS98N_45.325491_-98.493044@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"75b021a5597af540364a44ab4c5a4132",
+    "wof:geomhash":"1f5048f3462bb4e1a6d4cb1d1d064e11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387392651,
-    "wof:lastmodified":1467082748,
+    "wof:lastmodified":1510613419,
     "wof:name":"St John Lutheran Church",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387164071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1743 Junction Ave Sturgis SD 57785",
+    "addr:housenumber":"1743",
+    "addr:postcode":"57785",
+    "addr:street":"Junction Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.509239,44.407185,-103.509239,44.407185",
     "geom:latitude":44.407185,
     "geom:longitude":-103.509239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1743 Junction Ave",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         101722091,
         102086083
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pv3aiNpMi6JKJZ7YiqweY_44.407185_-103.509239@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1281137f0d57f97d7562ba4170f83f10",
+    "wof:geomhash":"84dff262ebf5b196d054ac929524d466",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":387164071,
-    "wof:lastmodified":1467082696,
+    "wof:lastmodified":1510699971,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

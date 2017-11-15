@@ -2,14 +2,20 @@
   "id": 371000729,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Berry Ave South Shore SD 57263",
+    "addr:housenumber":"210",
+    "addr:postcode":"57263",
+    "addr:street":"Berry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.931075,45.105653,-96.931075,45.105653",
     "geom:latitude":45.105653,
     "geom:longitude":-96.931075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Berry Ave",
     "sg:city":"South Shore",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721945,
         102086797
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EUp8s5FJEPHHjpLTGmpgA_45.105653_-96.931075@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5ac53c58e584cff5a139c14e43e1611f",
+    "wof:geomhash":"008c662bef2bf523e78bc8e67ff3be0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371000729,
-    "wof:lastmodified":1467082660,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

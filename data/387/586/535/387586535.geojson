@@ -2,6 +2,10 @@
   "id": 387586535,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Capitol Ave Pierre SD 57501",
+    "addr:housenumber":"123",
+    "addr:postcode":"57501",
+    "addr:street":"W Capitol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387586535,
-    "wof:lastmodified":1467082754,
+    "wof:lastmodified":1472645028,
     "wof:name":"Hollywood Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

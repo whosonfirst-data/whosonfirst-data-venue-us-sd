@@ -2,14 +2,20 @@
   "id": 387932037,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 State Hwy 77 Dell Rapids SD 57022",
+    "addr:housenumber":"507",
+    "addr:postcode":"57022",
+    "addr:street":"State Hwy 77",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.721403,43.824787,-96.721403,43.824787",
     "geom:latitude":43.824787,
     "geom:longitude":-96.721403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 State Hwy 77",
     "sg:city":"Dell Rapids",
     "sg:classifiers":[
@@ -42,12 +48,13 @@
         102086007,
         85848907
     ],
+    "wof:brand_id":1125153829,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OfnExCsXB9JoGaaMud2tg_43.824787_-96.721403@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3dce23289b527126126d9c20547d897c",
+    "wof:geomhash":"8ad62640a2a9345d92bb44bf858f5d4e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":387932037,
-    "wof:lastmodified":1467082715,
+    "wof:lastmodified":1510693754,
     "wof:name":"Video Plus",
     "wof:parent_id":85848907,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387400133,
   "type": "Feature",
   "properties": {
+    "addr:full":"467 Main St Big Stone City SD 57216",
+    "addr:housenumber":"467",
+    "addr:postcode":"57216",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.463053,45.291569,-96.463053,45.291569",
     "geom:latitude":45.291569,
     "geom:longitude":-96.463053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"467 Main St",
     "sg:city":"Big Stone City",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         101721813,
         102086849
     ],
+    "wof:brand_id":1125159735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cyqBFJPWGo74tsIHlMYwn_45.291569_-96.463053@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"58ef42af5b305b77216110f4e2159a13",
+    "wof:geomhash":"bccab76276d61519d2b6f778d5424994",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387400133,
-    "wof:lastmodified":1467082694,
+    "wof:lastmodified":1510698011,
     "wof:name":"United Country Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

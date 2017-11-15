@@ -2,14 +2,20 @@
   "id": 403703699,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 N Jaycee Ln Sioux Falls SD 57104",
+    "addr:housenumber":"2601",
+    "addr:postcode":"57104",
+    "addr:street":"N Jaycee Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.729297,43.578682,-96.729297,43.578682",
     "geom:latitude":43.578682,
     "geom:longitude":-96.729297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 N Jaycee Ln",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721785,
         102086007
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kugI31i904smWkdRIJVXu_43.578682_-96.729297@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2f2d16dae579ffed68277200ce2b151",
+    "wof:geomhash":"43768f47986f0f61322e543cbfd0ffab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403703699,
-    "wof:lastmodified":1467082678,
+    "wof:lastmodified":1510613425,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

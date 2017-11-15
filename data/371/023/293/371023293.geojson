@@ -2,6 +2,10 @@
   "id": 371023293,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Main St Aberdeen SD 57401",
+    "addr:housenumber":"123",
+    "addr:postcode":"57401",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371023293,
-    "wof:lastmodified":1467082672,
+    "wof:lastmodified":1472644929,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

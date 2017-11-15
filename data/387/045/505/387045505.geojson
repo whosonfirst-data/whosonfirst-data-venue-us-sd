@@ -2,14 +2,20 @@
   "id": 387045505,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 Dakota St Aberdeen SD 57401",
+    "addr:housenumber":"224",
+    "addr:postcode":"57401",
+    "addr:street":"Dakota St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.474863,45.462922,-98.474863,45.462922",
     "geom:latitude":45.462922,
     "geom:longitude":-98.474863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"224 Dakota St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dXTpYtwXP4kAP0CuNG0R7_45.462922_-98.474863@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"a8a8f454445089b9c57bc722eef55714",
+    "wof:geomhash":"65cce645e3a53be57da80ae1bb1e6071",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387045505,
-    "wof:lastmodified":1467082754,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

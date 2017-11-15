@@ -2,14 +2,20 @@
   "id": 387600545,
   "type": "Feature",
   "properties": {
+    "addr:full":"28845 Perch Pl Pierre SD 57501",
+    "addr:housenumber":"28845",
+    "addr:postcode":"57501",
+    "addr:street":"Perch Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.361143,44.411074,-100.361143,44.411074",
     "geom:latitude":44.411074,
     "geom:longitude":-100.361143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"28845 Perch Pl",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688693
     ],
+    "wof:brand_id":1125159997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68vvumfMUhDGxIiPz2EU8S_44.411074_-100.361143@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"bd0358685903eb6235365dced0f82b25",
+    "wof:geomhash":"e5d84e2d4910c1d43a11b4c3a6d31bac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387600545,
-    "wof:lastmodified":1467082694,
+    "wof:lastmodified":1510697734,
     "wof:name":"Quality Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

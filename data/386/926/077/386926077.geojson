@@ -2,14 +2,20 @@
   "id": 386926077,
   "type": "Feature",
   "properties": {
+    "addr:full":"2305 Cameron Dr Rapid City SD 57702",
+    "addr:housenumber":"2305",
+    "addr:postcode":"57702",
+    "addr:street":"Cameron Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.266033,44.061317,-103.266033,44.061317",
     "geom:latitude":44.061317,
     "geom:longitude":-103.266033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2305 Cameron Dr",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JslDSQg9kqtPcpj8hxysH_44.061317_-103.266033@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"87a319e9deab4bbfe839f35a7b999b8e",
+    "wof:geomhash":"306c8eaef866853ff160c867b69d89d4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":386926077,
-    "wof:lastmodified":1467082651,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

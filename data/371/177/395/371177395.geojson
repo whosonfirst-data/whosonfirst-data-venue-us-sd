@@ -2,14 +2,20 @@
   "id": 371177395,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 E 5th Ave Milbank SD 57252",
+    "addr:housenumber":"210",
+    "addr:postcode":"57252",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.637032,45.217872,-96.637032,45.217872",
     "geom:latitude":45.217872,
     "geom:longitude":-96.637032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 E 5th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721805,
         102086849
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fiqZB4ccyxNtD75bAow9d_45.217872_-96.637032@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ecce8d05b6aa35e81edf17608dd4e13",
+    "wof:geomhash":"1a34b763983a2f3262b2c09f984311cb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371177395,
-    "wof:lastmodified":1467082673,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

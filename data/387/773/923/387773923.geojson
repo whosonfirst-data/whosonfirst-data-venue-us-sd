@@ -2,14 +2,20 @@
   "id": 387773923,
   "type": "Feature",
   "properties": {
+    "addr:full":"932 S Blaine Ave Sioux Falls SD 57103",
+    "addr:housenumber":"932",
+    "addr:postcode":"57103",
+    "addr:street":"S Blaine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.692577,43.53854,-96.692577,43.53854",
     "geom:latitude":43.53854,
     "geom:longitude":-96.692577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"932 S Blaine Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85816793
     ],
+    "wof:brand_id":1125157531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A2tnVlbXhv9eyGZ5CI9mw_43.538540_-96.692577@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2accac6919646676bb86a4615d1e9164",
+    "wof:geomhash":"989c9e3a690392132dc026b5a222898c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387773923,
-    "wof:lastmodified":1467082696,
+    "wof:lastmodified":1510695841,
     "wof:name":"Valley View Apartments",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",

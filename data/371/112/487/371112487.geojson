@@ -2,14 +2,20 @@
   "id": 371112487,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Maple St W Sisseton SD 57262",
+    "addr:housenumber":"115",
+    "addr:postcode":"57262",
+    "addr:street":"Maple St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.053395,45.663793,-97.053395,45.663793",
     "geom:latitude":45.663793,
     "geom:longitude":-97.053395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Maple St W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721669,
         102086057
     ],
+    "wof:brand_id":1125150883,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pgEH5H6DEorxZ9sClhwmQ_45.663793_-97.053395@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"49d44ab88c32e23a0387e4ebe684c475",
+    "wof:geomhash":"c5d63ab7edcdba2f342d46df560c1213",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371112487,
-    "wof:lastmodified":1467082664,
+    "wof:lastmodified":1510697066,
     "wof:name":"Treasure Chest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

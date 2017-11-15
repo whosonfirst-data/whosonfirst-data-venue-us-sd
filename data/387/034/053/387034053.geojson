@@ -2,14 +2,20 @@
   "id": 387034053,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 S 7th St Aberdeen SD 57401",
+    "addr:housenumber":"423",
+    "addr:postcode":"57401",
+    "addr:street":"S 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.498059,45.460948,-98.498059,45.460948",
     "geom:latitude":45.460948,
     "geom:longitude":-98.498059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"423 S 7th St",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M41NwoFW28uhXrHKejY7Z_45.460948_-98.498059@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0e383c7e489c1133cf9c05ffe0e7517f",
+    "wof:geomhash":"89cee3a406f0750932079139388c1ad9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387034053,
-    "wof:lastmodified":1467082695,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387478537,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 2nd St E Mobridge SD 57601",
+    "addr:housenumber":"111",
+    "addr:postcode":"57601",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.432562,45.534295,-100.432562,45.534295",
     "geom:latitude":45.534295,
     "geom:longitude":-100.432562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 2nd St E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721629,
         102086011
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yb79F7HAdbfnvevGUmE3k_45.534295_-100.432562@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc16bd43508ebdade05adc074a84afeb",
+    "wof:geomhash":"9b6f9cb8c79a333b162a169bf461d7db",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387478537,
-    "wof:lastmodified":1467082689,
+    "wof:lastmodified":1510699945,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

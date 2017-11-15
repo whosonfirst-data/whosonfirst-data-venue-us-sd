@@ -2,14 +2,20 @@
   "id": 403832931,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Frank St W Wessington SD 57381",
+    "addr:housenumber":"180",
+    "addr:postcode":"57381",
+    "addr:street":"Frank St W Wessington",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.70053,44.451719,-98.70053,44.451719",
     "geom:latitude":44.451719,
     "geom:longitude":-98.70053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 Frank St W",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721869,
         102086841
     ],
+    "wof:brand_id":1125159517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vmu3DByfPk8xi7donI6wY_44.451719_-98.700530@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"44756daf258cebc30a89879a604f2022",
+    "wof:geomhash":"6e17833bc461893d56e3154ce64641e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403832931,
-    "wof:lastmodified":1467082674,
+    "wof:lastmodified":1510698878,
     "wof:name":"Concordia Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

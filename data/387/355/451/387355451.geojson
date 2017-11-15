@@ -2,14 +2,20 @@
   "id": 387355451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 North Dr Sioux Falls SD 57104",
+    "addr:housenumber":"1515",
+    "addr:postcode":"57104",
+    "addr:street":"North Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.725674,43.565998,-96.725674,43.565998",
     "geom:latitude":43.565998,
     "geom:longitude":-96.725674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 North Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086007,
         85881019
     ],
+    "wof:brand_id":1125153287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UjDnmTdxQDqcnuCIEQDLl_43.565998_-96.725674@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbde1ebdab8d7f57dcec9d5886739440",
+    "wof:geomhash":"47209dfd25e02a0cb5784f9cd4bcfedc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387355451,
-    "wof:lastmodified":1467082707,
+    "wof:lastmodified":1510697655,
     "wof:name":"Crossroads Community Church",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",

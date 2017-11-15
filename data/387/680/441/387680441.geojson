@@ -2,14 +2,20 @@
   "id": 387680441,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 S Phillips Ave Sioux Falls SD 57104",
+    "addr:housenumber":"110",
+    "addr:postcode":"57104",
+    "addr:street":"S Phillips Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.726726,43.546134,-96.726726,43.546134",
     "geom:latitude":43.546134,
     "geom:longitude":-96.726726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102086007,
         85881011
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AEmqHtXeyAIv20LnQCiez_43.546134_-96.726726@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b1c4cf36e9be0f0f6d9c601ca781e08",
+    "wof:geomhash":"4f00d248b6f231844c82233b59186e5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":387680441,
-    "wof:lastmodified":1467082740,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",

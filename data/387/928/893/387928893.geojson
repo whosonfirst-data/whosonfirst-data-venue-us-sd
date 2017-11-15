@@ -2,14 +2,20 @@
   "id": 387928893,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 W Omaha St Rapid City SD 57703",
+    "addr:housenumber":"1301",
+    "addr:postcode":"57703",
+    "addr:street":"W Omaha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.238896,44.084291,-103.238896,44.084291",
     "geom:latitude":44.084291,
     "geom:longitude":-103.238896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 W Omaha St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125155897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JqDiKG9OQAj6UfZKCfa3C_44.084291_-103.238896@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"35769c7da6d9cb186c5369c21381fb2c",
+    "wof:geomhash":"5a956f00a571bb4841e88710a2b2fa9f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387928893,
-    "wof:lastmodified":1467082753,
+    "wof:lastmodified":1510699288,
     "wof:name":"Cellular Plus",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

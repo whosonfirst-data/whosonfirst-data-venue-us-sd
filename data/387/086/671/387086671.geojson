@@ -2,14 +2,20 @@
   "id": 387086671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 E Robur Dr Sioux Falls SD 57104",
+    "addr:housenumber":"1401",
+    "addr:postcode":"57104",
+    "addr:street":"E Robur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.708372,43.607694,-96.708372,43.607694",
     "geom:latitude":43.607694,
     "geom:longitude":-96.708372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 E Robur Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721785,
         102086007
     ],
+    "wof:brand_id":1125155507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WsvAe3HBBnB2QHDjiTs8p_43.607694_-96.708372@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c611009b6514e49a3684a0f94f2b6508",
+    "wof:geomhash":"2dfb328af978ea53df3aa926a7dda9e8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387086671,
-    "wof:lastmodified":1467082738,
+    "wof:lastmodified":1510696756,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

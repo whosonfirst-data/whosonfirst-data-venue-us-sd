@@ -2,14 +2,20 @@
   "id": 387474155,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Circle Dr Aberdeen SD 57401",
+    "addr:housenumber":"813",
+    "addr:postcode":"57401",
+    "addr:street":"Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.504321,45.470266,-98.504321,45.470266",
     "geom:latitude":45.470266,
     "geom:longitude":-98.504321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"813 Circle Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74EgKq87HwSsY1lpQgbtv2_45.470266_-98.504321@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c2233e4468b6892917eba815dd3b46a5",
+    "wof:geomhash":"2a3e0c0c9113300e6294b04f38b85cb0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387474155,
-    "wof:lastmodified":1467082690,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

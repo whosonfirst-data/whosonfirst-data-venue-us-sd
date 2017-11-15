@@ -2,14 +2,20 @@
   "id": 371075423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1743 Dakota Ave S Huron SD 57350",
+    "addr:housenumber":"1743",
+    "addr:postcode":"57350",
+    "addr:street":"Dakota Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.214242,44.346052,-98.214242,44.346052",
     "geom:latitude":44.346052,
     "geom:longitude":-98.214242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1743 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125151769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nV6uvv6JrJZrud3uYhzpX_44.346052_-98.214242@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"15b6c6e7cca13339bfe45ba6ede26e14",
+    "wof:geomhash":"6b5b39ff031e010b1d0f7692f9950e67",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371075423,
-    "wof:lastmodified":1467082666,
+    "wof:lastmodified":1510693699,
     "wof:name":"Cellular Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

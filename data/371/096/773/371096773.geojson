@@ -2,14 +2,20 @@
   "id": 371096773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 W 49th St Sioux Falls SD 57105",
+    "addr:housenumber":"2500",
+    "addr:postcode":"57105",
+    "addr:street":"W 49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.755936,43.508418,-96.755936,43.508418",
     "geom:latitude":43.508418,
     "geom:longitude":-96.755936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AzBFDhukOkNr04PaOZ1Oh_43.508418_-96.755936@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"d703af2c98014b3ec26b271c732557e8",
+    "wof:geomhash":"84e09007d3b968534f3059cabecee965",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371096773,
-    "wof:lastmodified":1467082662,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

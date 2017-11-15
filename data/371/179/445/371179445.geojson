@@ -2,14 +2,20 @@
   "id": 371179445,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 E 60th St Sioux Falls SD 57104",
+    "addr:housenumber":"701",
+    "addr:postcode":"57104",
+    "addr:street":"E 60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.715023,43.601994,-96.715023,43.601994",
     "geom:latitude":43.601994,
     "geom:longitude":-96.715023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 E 60th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721785,
         102086007
     ],
+    "wof:brand_id":1125157355,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TLfi9hNPSgjKFHr0gwKWs_43.601994_-96.715023@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5259cfdaa107d399c91ab06d0e38e23b",
+    "wof:geomhash":"20be6a6c3dd390af0b4d05c5adee1f0c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371179445,
-    "wof:lastmodified":1467082672,
+    "wof:lastmodified":1510694795,
     "wof:name":"Citicorp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

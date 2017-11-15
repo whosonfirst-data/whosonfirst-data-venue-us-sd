@@ -2,14 +2,20 @@
   "id": 387752817,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 Utah Ave SE Huron SD 57350",
+    "addr:housenumber":"1143",
+    "addr:postcode":"57350",
+    "addr:street":"Utah Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.207585,44.353267,-98.207585,44.353267",
     "geom:latitude":44.353267,
     "geom:longitude":-98.207585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1143 Utah Ave SE",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125155795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bcUqAmbjhOeTMbNtqdPWL_44.353267_-98.207585@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c3a94030716757c9d06ce251b90653c",
+    "wof:geomhash":"a3799495e9ad601c37ab00ab11dc3be3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387752817,
-    "wof:lastmodified":1467082699,
+    "wof:lastmodified":1510697086,
     "wof:name":"Marine Corps League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

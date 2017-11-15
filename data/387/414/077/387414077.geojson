@@ -2,14 +2,20 @@
   "id": 387414077,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 W 3rd Ave Mitchell SD 57301",
+    "addr:housenumber":"214",
+    "addr:postcode":"57301",
+    "addr:street":"W 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.028174,43.711507,-98.028174,43.711507",
     "geom:latitude":43.711507,
     "geom:longitude":-98.028174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"214 W 3rd Ave",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721597,
         102086045
     ],
+    "wof:brand_id":1125157255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ztRIX09xs3PbK9gAEPzym_43.711507_-98.028174@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"55893a41b73a6ac22e1578f2b9c20448",
+    "wof:geomhash":"4d050c88c6c3696048096337b482b957",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387414077,
-    "wof:lastmodified":1467082722,
+    "wof:lastmodified":1510697180,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

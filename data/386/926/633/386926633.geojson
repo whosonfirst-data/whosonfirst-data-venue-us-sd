@@ -2,14 +2,20 @@
   "id": 386926633,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W 12th St Sioux Falls SD 57104",
+    "addr:housenumber":"600",
+    "addr:postcode":"57104",
+    "addr:street":"W 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.735633,43.543451,-96.735633,43.543451",
     "geom:latitude":43.543451,
     "geom:longitude":-96.735633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 W 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85881025
     ],
+    "wof:brand_id":1125150593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ewC4ali5XrrbXh4A4UFrp_43.543451_-96.735633@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a428eb4abdd1d6dfa62d38773f1ddb5",
+    "wof:geomhash":"5b8dd6d1373824377d6175adc66ffa71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":386926633,
-    "wof:lastmodified":1467082651,
+    "wof:lastmodified":1510613421,
     "wof:name":"Lutheran Social Svc",
     "wof:parent_id":85881025,
     "wof:placetype":"venue",

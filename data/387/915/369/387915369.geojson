@@ -2,14 +2,20 @@
   "id": 387915369,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 4th St SW Huron SD 57350",
+    "addr:housenumber":"200",
+    "addr:postcode":"57350",
+    "addr:street":"4Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.219107,44.362037,-98.219107,44.362037",
     "geom:latitude":44.362037,
     "geom:longitude":-98.219107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 4th St SW",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125151077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mo8IrQo4QAKUb5JxwuwSw_44.362037_-98.219107@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"93c0e5a21db9b410099999fc7b2eadc7",
+    "wof:geomhash":"1f794bec57b36d1ead2601ad7e6f2d32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387915369,
-    "wof:lastmodified":1467082762,
+    "wof:lastmodified":1510696088,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

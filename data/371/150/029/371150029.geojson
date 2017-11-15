@@ -2,14 +2,20 @@
   "id": 371150029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1714 North Ave Spearfish SD 57783",
+    "addr:housenumber":"1714",
+    "addr:postcode":"57783",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.859652,44.500176,-103.859652,44.500176",
     "geom:latitude":44.500176,
     "geom:longitude":-103.859652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1714 North Ave",
     "sg:city":"Spearfish",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101722043,
         102086813
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NEfcLwbC9wnQbjWmhb9bk_44.500176_-103.859652@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc74c12d9a2f974f4f9193cb7c585ec7",
+    "wof:geomhash":"f22655ddb8b8b1071160b3827e352743",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":371150029,
-    "wof:lastmodified":1467082658,
+    "wof:lastmodified":1510696871,
     "wof:name":"Mane Attraction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

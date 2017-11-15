@@ -2,14 +2,20 @@
   "id": 387429443,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Sycamore Ave Sioux Falls SD 57110",
+    "addr:housenumber":"101",
+    "addr:postcode":"57110",
+    "addr:street":"N Sycamore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.671497,43.54848,-96.671497,43.54848",
     "geom:latitude":43.54848,
     "geom:longitude":-96.671497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 N Sycamore Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85816793
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13RIOi1wGFuyGA7ce4lyag_43.548480_-96.671497@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"38e11a5abcc172981b4d15a89ec79930",
+    "wof:geomhash":"007abfe6e0bda0b553966c6db18dc2c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387429443,
-    "wof:lastmodified":1467082759,
+    "wof:lastmodified":1510695868,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",

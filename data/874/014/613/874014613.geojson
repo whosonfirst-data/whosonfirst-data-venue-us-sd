@@ -2,14 +2,20 @@
   "id": 874014613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 W Empire Mall Sioux Falls SD 57106",
+    "addr:housenumber":"1710",
+    "addr:postcode":"57106",
+    "addr:street":"W Empire Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.777605,43.507708,-96.777605,43.507708",
     "geom:latitude":43.507708,
     "geom:longitude":-96.777605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1710 W Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086007,
         85688693
     ],
+    "wof:brand_id":1125150491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PKxu4GeZL9wjgRXR0A5CX_43.507708_-96.777605@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464310888,
-    "wof:geomhash":"7e335d1e4b6eb8fe6cf1345d04080988",
+    "wof:geomhash":"e942c1531b45e6ed9a02f3be052cc1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874014613,
-    "wof:lastmodified":1467082776,
+    "wof:lastmodified":1510697199,
     "wof:name":"Great American Cookies",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

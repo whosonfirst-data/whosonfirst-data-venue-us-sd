@@ -2,14 +2,20 @@
   "id": 371172575,
   "type": "Feature",
   "properties": {
+    "addr:full":"5656 Leroy St Rapid City SD 57703",
+    "addr:housenumber":"5656",
+    "addr:postcode":"57703",
+    "addr:street":"Leroy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.129891,44.06356,-103.129891,44.06356",
     "geom:latitude":44.06356,
     "geom:longitude":-103.129891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5656 Leroy St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BBFWrbY1gxSFAMc5DWPFG_44.063560_-103.129891@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8be11097b3a851c47638a6283473c66f",
+    "wof:geomhash":"5a9d548a9304ca55a7560e63bb3d4f51",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371172575,
-    "wof:lastmodified":1467082664,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 403824931,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E Kemp Ave Watertown SD 57201",
+    "addr:housenumber":"123",
+    "addr:postcode":"57201",
+    "addr:street":"E Kemp Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403824931,
-    "wof:lastmodified":1467082678,
+    "wof:lastmodified":1472644962,
     "wof:name":"Picture This",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

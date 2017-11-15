@@ -2,14 +2,20 @@
   "id": 371079875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 S Meadow Ave Sioux Falls SD 57106",
+    "addr:housenumber":"3200",
+    "addr:postcode":"57106",
+    "addr:street":"S Meadow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.783048,43.514827,-96.783048,43.514827",
     "geom:latitude":43.514827,
     "geom:longitude":-96.783048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 S Meadow Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eMXCGd9UgEaCxJ3cxFCYQ_43.514827_-96.783048@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ab9a9172384698ea4e70ef05e7022df",
+    "wof:geomhash":"00138d6aa3d27d296ff85bb729bc77cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371079875,
-    "wof:lastmodified":1467082671,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

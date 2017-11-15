@@ -2,14 +2,20 @@
   "id": 387729579,
   "type": "Feature",
   "properties": {
+    "addr:full":"376 Togstad St Astoria SD 57213",
+    "addr:housenumber":"376",
+    "addr:postcode":"57213",
+    "addr:street":"Togstad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.547012,44.557243,-96.547012,44.557243",
     "geom:latitude":44.557243,
     "geom:longitude":-96.547012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"376 Togstad St",
     "sg:city":"Astoria",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721541,
         102086025
     ],
+    "wof:brand_id":1125155725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CFd1pLLsC2XhF9dEU7JwS_44.557243_-96.547012@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2a43ed277f1e6d4daf83caf9256a4ee",
+    "wof:geomhash":"d606d586f662e27dae0169c66c0e5cd7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387729579,
-    "wof:lastmodified":1467082725,
+    "wof:lastmodified":1510697284,
     "wof:name":"Bethel Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387710675,
   "type": "Feature",
   "properties": {
+    "addr:full":"362 Mine St Deadwood SD 57732",
+    "addr:housenumber":"362",
+    "addr:postcode":"57732",
+    "addr:street":"Mine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.751877,44.358746,-103.751877,44.358746",
     "geom:latitude":44.358746,
     "geom:longitude":-103.751877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"362 Mine St",
     "sg:city":"Deadwood",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722039,
         102086813
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nAnfhMDrSwOFcqYBCk6uV_44.358746_-103.751877@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"77d18a983d160ed3bacc70b905eeccc1",
+    "wof:geomhash":"f7669c9c121575dda206a6a04c898932",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387710675,
-    "wof:lastmodified":1467082691,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

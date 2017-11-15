@@ -2,14 +2,20 @@
   "id": 387837001,
   "type": "Feature",
   "properties": {
+    "addr:full":"2650 Jackson Blvd Rapid City SD 57702",
+    "addr:housenumber":"2650",
+    "addr:postcode":"57702",
+    "addr:street":"Jackson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.26367,44.06968,-103.26367,44.06968",
     "geom:latitude":44.06968,
     "geom:longitude":-103.26367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2650 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jFL5VzIjCQQiMt9L30JfD_44.069680_-103.263670@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"33fa11a5a7f10f701a61a692d3caa4ab",
+    "wof:geomhash":"0c08f3187c6c0dfa6f7d5af619225e44",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387837001,
-    "wof:lastmodified":1467082698,
+    "wof:lastmodified":1510699015,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

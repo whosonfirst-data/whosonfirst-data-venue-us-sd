@@ -2,14 +2,20 @@
   "id": 387574615,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Maple Ave Rapid City SD 57701",
+    "addr:housenumber":"317",
+    "addr:postcode":"57701",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.211771,44.081288,-103.211771,44.081288",
     "geom:latitude":44.081288,
     "geom:longitude":-103.211771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VAaYcaoYVuvs5JGZAmqQ6_44.081288_-103.211771@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"81b6eda5c23ec0deabac49ca3cf6ddd3",
+    "wof:geomhash":"787a4e1da50618a48ca87b5244474637",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":387574615,
-    "wof:lastmodified":1467082686,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

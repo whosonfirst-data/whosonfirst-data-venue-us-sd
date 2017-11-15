@@ -2,14 +2,20 @@
   "id": 387348235,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 8th Ave SW Watertown SD 57201",
+    "addr:housenumber":"21",
+    "addr:postcode":"57201",
+    "addr:street":"8Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.119509,44.891553,-97.119509,44.891553",
     "geom:latitude":44.891553,
     "geom:longitude":-97.119509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 8th Ave SW",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         101721941,
         102086797
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o55d6H7Pt34s4ZPhxAVbk_44.891553_-97.119509@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1d7a032323f724aa207aa757f88e8711",
+    "wof:geomhash":"7c00f9628e16034f929640c5cc9d34ff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387348235,
-    "wof:lastmodified":1467082690,
+    "wof:lastmodified":1510694030,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

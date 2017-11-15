@@ -2,14 +2,20 @@
   "id": 387684793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1709 N Cliff Ave Sioux Falls SD 57103",
+    "addr:housenumber":"1709",
+    "addr:postcode":"57103",
+    "addr:street":"N Cliff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.711515,43.565638,-96.711515,43.565638",
     "geom:latitude":43.565638,
     "geom:longitude":-96.711515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1709 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85881019
     ],
+    "wof:brand_id":1125158411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78xKnVP0aen2hzQMNALUV6_43.565638_-96.711515@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8faab3c736b18acca0502fe7de6e5953",
+    "wof:geomhash":"7a8bd5bf3059f225758329461cffdd8b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387684793,
-    "wof:lastmodified":1467082705,
+    "wof:lastmodified":1510697117,
     "wof:name":"Thermo King",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387737677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 W 41st St Sioux Falls SD 57105",
+    "addr:housenumber":"1406",
+    "addr:postcode":"57105",
+    "addr:street":"W 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.743563,43.514935,-96.743563,43.514935",
     "geom:latitude":43.514935,
     "geom:longitude":-96.743563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1406 W 41st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85881007
     ],
+    "wof:brand_id":1125152931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SYLGD94JucQ0uI28bVuEn_43.514935_-96.743563@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfb227590e9b41db54a995287cfc7fac",
+    "wof:geomhash":"e58491d4f9314ce1df5bdb6b2231d594",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387737677,
-    "wof:lastmodified":1467082703,
+    "wof:lastmodified":1510697466,
     "wof:name":"Beneficial Finance",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",

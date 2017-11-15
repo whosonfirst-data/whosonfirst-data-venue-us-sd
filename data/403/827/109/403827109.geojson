@@ -2,14 +2,20 @@
   "id": 403827109,
   "type": "Feature",
   "properties": {
+    "addr:full":"153 Nesbitt Dr Ipswich SD 57451",
+    "addr:housenumber":"153",
+    "addr:postcode":"57451",
+    "addr:street":"Nesbitt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.730477,45.448052,-98.730477,45.448052",
     "geom:latitude":45.448052,
     "geom:longitude":-98.730477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"153 Nesbitt Dr",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85633793,
         85688693
     ],
+    "wof:brand_id":1125157219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MxWaJrJcPAhEU3YWdLy9U_45.448052_-98.730477@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e79473adacf9690d87a8b730322e5c36",
+    "wof:geomhash":"7ce5bcb08ba3a9126a95af70840c5c45",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":403827109,
-    "wof:lastmodified":1467082679,
+    "wof:lastmodified":1510697005,
     "wof:name":"New Image Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

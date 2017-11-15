@@ -2,14 +2,20 @@
   "id": 371003577,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 US Hwy 16 Custer SD 57730",
+    "addr:housenumber":"13",
+    "addr:postcode":"57730",
+    "addr:street":"Us Hwy 16",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.60056,43.766633,-103.60056,43.766633",
     "geom:latitude":43.766633,
     "geom:longitude":-103.60056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 US Hwy 16",
     "sg:city":"Custer",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721981,
         102086009
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SGi5yl2x2TxEyrJOY2mRq_43.766633_-103.600560@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e2b9bff4d53e64b68bdc334673f3417b",
+    "wof:geomhash":"aa3ccd9491a755f36b1c94bdfeeb4dcc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371003577,
-    "wof:lastmodified":1467082672,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

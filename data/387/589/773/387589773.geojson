@@ -2,14 +2,20 @@
   "id": 387589773,
   "type": "Feature",
   "properties": {
+    "addr:full":"702 3rd Ave SW Aberdeen SD 57401",
+    "addr:housenumber":"702",
+    "addr:postcode":"57401",
+    "addr:street":"3Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.499541,45.462233,-98.499541,45.462233",
     "geom:latitude":45.462233,
     "geom:longitude":-98.499541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"702 3rd Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jayrtQ1MBPk3ejOOmIuEF_45.462233_-98.499541@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8a3515dc409137a286535943ac85b0c",
+    "wof:geomhash":"ce76a24050cdbc0e748067c567d5bae4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387589773,
-    "wof:lastmodified":1467082728,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

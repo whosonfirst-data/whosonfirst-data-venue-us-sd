@@ -2,14 +2,20 @@
   "id": 371042417,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 E 4th Ave Milbank SD 57252",
+    "addr:housenumber":"901",
+    "addr:postcode":"57252",
+    "addr:street":"E 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625005,45.219186,-96.625005,45.219186",
     "geom:latitude":45.219186,
     "geom:longitude":-96.625005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 E 4th Ave",
     "sg:city":"Milbank",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721805,
         102086849
     ],
+    "wof:brand_id":1125159495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UnnwCZ56eEVHDM9giJT5n_45.219186_-96.625005@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0805605d35afeb997e35fa5549c333f7",
+    "wof:geomhash":"4f31255eb86233f386b589471759bde2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":371042417,
-    "wof:lastmodified":1467082669,
+    "wof:lastmodified":1510695422,
     "wof:name":"Cenex Convenience Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

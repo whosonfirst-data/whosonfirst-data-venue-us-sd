@@ -2,14 +2,20 @@
   "id": 403797247,
   "type": "Feature",
   "properties": {
+    "addr:full":"3817 S Elmwood Ave Sioux Falls SD 57105",
+    "addr:housenumber":"3817",
+    "addr:postcode":"57105",
+    "addr:street":"S Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.755983,43.510434,-96.755983,43.510434",
     "geom:latitude":43.510434,
     "geom:longitude":-96.755983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3817 S Elmwood Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125155701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CygxInxs1e0NFDMaRCY5Z_43.510434_-96.755983@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2f9036e8b61bbf9905af6ffc04d4937f",
+    "wof:geomhash":"89ae32dd510cc6d07b145dc88b517575",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403797247,
-    "wof:lastmodified":1467082683,
+    "wof:lastmodified":1510694623,
     "wof:name":"Unisys Corp",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

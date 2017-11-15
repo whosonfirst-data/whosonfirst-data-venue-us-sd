@@ -2,14 +2,20 @@
   "id": 387180245,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 N 2nd St Groton SD 57445",
+    "addr:housenumber":"603",
+    "addr:postcode":"57445",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.100106,45.452289,-98.100106,45.452289",
     "geom:latitude":45.452289,
     "geom:longitude":-98.100106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"603 N 2nd St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125159271,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IcbaKrDmWHIczUuDXZmu5_45.452289_-98.100106@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b9134b6c3a6060e54bdbb89f132d260",
+    "wof:geomhash":"66d6dcf08667e874669407e10b0da4b7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387180245,
-    "wof:lastmodified":1467082690,
+    "wof:lastmodified":1510604898,
     "wof:name":"Guys & Dolls",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

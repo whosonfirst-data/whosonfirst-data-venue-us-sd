@@ -2,14 +2,20 @@
   "id": 387030093,
   "type": "Feature",
   "properties": {
+    "addr:full":"4580 W Nike Rd Rapid City SD 57701",
+    "addr:housenumber":"4580",
+    "addr:postcode":"57701",
+    "addr:street":"W Nike Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.211537,44.128448,-103.211537,44.128448",
     "geom:latitude":44.128448,
     "geom:longitude":-103.211537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4580 W Nike Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125157285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06GN59qEnb3Sp5zLrl2kcF_44.128448_-103.211537@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b8c8ef9a4fdbd9d5aeac08dbdb6ad129",
+    "wof:geomhash":"ae46149daf806add3ab76c300dedefc3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387030093,
-    "wof:lastmodified":1467082714,
+    "wof:lastmodified":1510696750,
     "wof:name":"Uniquely Yours",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

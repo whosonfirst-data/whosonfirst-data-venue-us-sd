@@ -2,14 +2,20 @@
   "id": 371036733,
   "type": "Feature",
   "properties": {
+    "addr:full":"649 W 2nd St Winner SD 57580",
+    "addr:housenumber":"649",
+    "addr:postcode":"57580",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.865258,43.376464,-99.865258,43.376464",
     "geom:latitude":43.376464,
     "geom:longitude":-99.865258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"649 W 2nd St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721821,
         102086855
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15XWhhg8ta3SwxamaNHbvU_43.376464_-99.865258@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce7ddf26cca946ef34e540b541cf56e4",
+    "wof:geomhash":"ab1bbad5811e8b9c6c9178135ab66e51",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371036733,
-    "wof:lastmodified":1467082661,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

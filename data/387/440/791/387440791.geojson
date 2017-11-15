@@ -2,14 +2,20 @@
   "id": 387440791,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 W 2nd St Webster SD 57274",
+    "addr:housenumber":"815",
+    "addr:postcode":"57274",
+    "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.523069,45.334061,-97.523069,45.334061",
     "geom:latitude":45.334061,
     "geom:longitude":-97.523069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"815 W 2nd St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721991,
         102086871
     ],
+    "wof:brand_id":1125155947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ExP2Xf4PijPZRHJ85uGu7_45.334061_-97.523069@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0165ed20f25fd4f0421e237bdd77ddad",
+    "wof:geomhash":"73c3af51f8b5483493cf89f44793e650",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387440791,
-    "wof:lastmodified":1467082713,
+    "wof:lastmodified":1510699783,
     "wof:name":"Mary Kay Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

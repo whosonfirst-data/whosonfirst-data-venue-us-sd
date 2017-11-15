@@ -2,14 +2,20 @@
   "id": 387342437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 Empire Mall Sioux Falls SD 57106",
+    "addr:housenumber":"1310",
+    "addr:postcode":"57106",
+    "addr:street":"Empire Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.774796,43.514235,-96.774796,43.514235",
     "geom:latitude":43.514235,
     "geom:longitude":-96.774796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1310 Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125150171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VtsN3f5FJ7AlNoKlKqR0t_43.514235_-96.774796@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"66f8b37be9f02e992abf09f46d6f2fac",
+    "wof:geomhash":"ff0dced2d93806c4ce0cff0dc0cda691",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387342437,
-    "wof:lastmodified":1467082758,
+    "wof:lastmodified":1510694918,
     "wof:name":"Yankee Candle Co",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

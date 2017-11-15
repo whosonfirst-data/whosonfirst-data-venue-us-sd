@@ -2,14 +2,20 @@
   "id": 387021531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Jackson Blvd Rapid City SD 57702",
+    "addr:housenumber":"2201",
+    "addr:postcode":"57702",
+    "addr:street":"Jackson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.256967,44.07184,-103.256967,44.07184",
     "geom:latitude":44.07184,
     "geom:longitude":-103.256967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Jackson Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T6SMAfOR2DTWnF2f6Y9Da_44.071840_-103.256967@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a7cc915c7252f7799b3881556da7ba0",
+    "wof:geomhash":"626d13253a1d513284684e8ce71ee6ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387021531,
-    "wof:lastmodified":1467082735,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

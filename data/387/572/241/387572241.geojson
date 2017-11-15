@@ -2,14 +2,20 @@
   "id": 387572241,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 E 12th St Sioux Falls SD 57103",
+    "addr:housenumber":"2404",
+    "addr:postcode":"57103",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.695206,43.544026,-96.695206,43.544026",
     "geom:latitude":43.544026,
     "geom:longitude":-96.695206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2404 E 12th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086007,
         85816793
     ],
+    "wof:brand_id":1125155755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EdjqC5uOor4Jbfz2ikTNq_43.544026_-96.695206@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"10eff5cecae878741e7187a34ef83041",
+    "wof:geomhash":"58c89fec7a85896a99f02d605db81dd0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387572241,
-    "wof:lastmodified":1467082733,
+    "wof:lastmodified":1510613240,
     "wof:name":"Gingerbread House",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",

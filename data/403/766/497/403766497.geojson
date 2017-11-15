@@ -2,14 +2,20 @@
   "id": 403766497,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Main Ave N Wagner SD 57380",
+    "addr:housenumber":"111",
+    "addr:postcode":"57380",
+    "addr:street":"Main Ave N Wagner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.29358,43.082535,-98.29358,43.082535",
     "geom:latitude":43.082535,
     "geom:longitude":-98.29358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Main Ave N",
     "sg:city":"Wagner",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722119,
         102086799
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zdMbQaNlLUlR9esnryS4y_43.082535_-98.293580@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e06440c3a3a469ce4978bc03e2f9ddc",
+    "wof:geomhash":"e6407aafe37e250f18837a27470087c8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403766497,
-    "wof:lastmodified":1467082674,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

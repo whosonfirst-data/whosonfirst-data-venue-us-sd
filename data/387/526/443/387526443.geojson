@@ -2,14 +2,20 @@
   "id": 387526443,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W Lincoln Ave Viborg SD 57070",
+    "addr:housenumber":"106",
+    "addr:postcode":"57070",
+    "addr:street":"W Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.081628,43.1734,-97.081628,43.1734",
     "geom:latitude":43.1734,
     "geom:longitude":-97.081628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 W Lincoln Ave",
     "sg:city":"Viborg",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721687,
         102086867
     ],
+    "wof:brand_id":1125153073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gKyI4p8VifZunqso3oyaU_43.173400_-97.081628@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5c497e9b511ff5894f0087b87e4db18b",
+    "wof:geomhash":"8b6d6a91d033a68d33fa6519f429aeab",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387526443,
-    "wof:lastmodified":1467082710,
+    "wof:lastmodified":1510613331,
     "wof:name":"Bethany Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

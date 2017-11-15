@@ -2,14 +2,20 @@
   "id": 387238159,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 N Westport Ave Sioux Falls SD 57107",
+    "addr:housenumber":"2005",
+    "addr:postcode":"57107",
+    "addr:street":"N Westport Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.767897,43.572844,-96.767897,43.572844",
     "geom:latitude":43.572844,
     "geom:longitude":-96.767897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 N Westport Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086007,
         85881017
     ],
+    "wof:brand_id":1125158565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uFmyRnR7HxS1vGRL0ZNKf_43.572844_-96.767897@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"a6e3cc20e21e5e1f5fd2519d6c38b290",
+    "wof:geomhash":"02b86ddcb94d34e29c86ddc295ea6d2c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387238159,
-    "wof:lastmodified":1467082715,
+    "wof:lastmodified":1510698988,
     "wof:name":"Lamar Outdoor Advertising",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",

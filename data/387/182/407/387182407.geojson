@@ -2,14 +2,20 @@
   "id": 387182407,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 Deadwood Ave Rapid City SD 57702",
+    "addr:housenumber":"1523",
+    "addr:postcode":"57702",
+    "addr:street":"Deadwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.268346,44.098726,-103.268346,44.098726",
     "geom:latitude":44.098726,
     "geom:longitude":-103.268346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1523 Deadwood Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MTHjFX2jgE9NV1wXa6Gwo_44.098726_-103.268346@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"d191a9aed0f7978acedddbf034ae4fcf",
+    "wof:geomhash":"004acb60b95383da80581a74253cdc17",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387182407,
-    "wof:lastmodified":1467082735,
+    "wof:lastmodified":1510696059,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

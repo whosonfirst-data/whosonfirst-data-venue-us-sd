@@ -2,14 +2,20 @@
   "id": 387583325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 4th Ave E Mobridge SD 57601",
+    "addr:housenumber":"1100",
+    "addr:postcode":"57601",
+    "addr:street":"4Th Ave E Mobridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.428092,45.543585,-100.428092,45.543585",
     "geom:latitude":45.543585,
     "geom:longitude":-100.428092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 4th Ave E",
     "sg:city":"Mobridge",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721629,
         102086011
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gM1IDweaDPL7HJ5fYJ1c8_45.543585_-100.428092@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"39f2bd12745ed11ea52191f66fe4b20e",
+    "wof:geomhash":"033fc5e4f95305dc9e369c4028adc685",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387583325,
-    "wof:lastmodified":1467082747,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

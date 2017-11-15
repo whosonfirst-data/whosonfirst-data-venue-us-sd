@@ -2,6 +2,10 @@
   "id": 387470721,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Main St Bradley SD 57263",
+    "addr:housenumber":"201",
+    "addr:postcode":"57263",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387470721,
-    "wof:lastmodified":1467082705,
+    "wof:lastmodified":1472645017,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

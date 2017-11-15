@@ -2,14 +2,20 @@
   "id": 403821893,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 N Smith St Clark SD 57225",
+    "addr:housenumber":"305",
+    "addr:postcode":"57225",
+    "addr:street":"N Smith St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.734933,44.881121,-97.734933,44.881121",
     "geom:latitude":44.881121,
     "geom:longitude":-97.734933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 N Smith St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721703,
         102086035
     ],
+    "wof:brand_id":1125158871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FDnriMpDA3ADhGFlsbMTz_44.881121_-97.734933@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d2035326a34d7330ae5fb0caaff4c87",
+    "wof:geomhash":"5f9a6e58b821bdbf5e93b6fff6a80ff8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403821893,
-    "wof:lastmodified":1467082680,
+    "wof:lastmodified":1510697516,
     "wof:name":"The Standard Oil Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 386988761,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 S Willow Ave Sioux Falls SD 57104",
+    "addr:housenumber":"808",
+    "addr:postcode":"57104",
+    "addr:street":"S Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.749886,43.537965,-96.749886,43.537965",
     "geom:latitude":43.537965,
     "geom:longitude":-96.749886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 S Willow Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086007,
         85881007
     ],
+    "wof:brand_id":1125159949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HEQ585jZ7iov0TEamBisN_43.537965_-96.749886@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc018463a24a04156f8bd55502a6e85f",
+    "wof:geomhash":"b8eeda49430eb668b11b5a2f030d0575",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":386988761,
-    "wof:lastmodified":1467082651,
+    "wof:lastmodified":1510696682,
     "wof:name":"National Assoc of Letter",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",

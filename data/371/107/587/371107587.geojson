@@ -2,14 +2,20 @@
   "id": 371107587,
   "type": "Feature",
   "properties": {
+    "addr:full":"1144 N Maple Watertown SD 57201",
+    "addr:housenumber":"1144",
+    "addr:postcode":"57201",
+    "addr:street":"N Maple",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.111149,44.915545,-97.111149,44.915545",
     "geom:latitude":44.915545,
     "geom:longitude":-97.111149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1144 N Maple",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721941,
         102086797
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24M2P4GfDN1a1eUpU0HqWO_44.915545_-97.111149@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae147433fd8c179b4472b7e2354fd331",
+    "wof:geomhash":"7f93dbc4f4fbd5593862ca28d899788c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371107587,
-    "wof:lastmodified":1467082658,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387359153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 7th Ave SW Aberdeen SD 57401",
+    "addr:housenumber":"1421",
+    "addr:postcode":"57401",
+    "addr:street":"7Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.509591,45.458105,-98.509591,45.458105",
     "geom:latitude":45.458105,
     "geom:longitude":-98.509591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1421 7th Ave SW",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125157971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30v6lxIAVp7XOIVkEwgzR2_45.458105_-98.509591@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"517448e58536a8e4e8f8ab0ba670da98",
+    "wof:geomhash":"32c4df09e6c6c8f7ef72b4f929acd916",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":387359153,
-    "wof:lastmodified":1467082686,
+    "wof:lastmodified":1510697566,
     "wof:name":"Sara Lee Bakery Group Inc",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

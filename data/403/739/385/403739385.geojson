@@ -2,14 +2,20 @@
   "id": 403739385,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Cedar St Beresford SD 57004",
+    "addr:housenumber":"111",
+    "addr:postcode":"57004",
+    "addr:street":"W Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.774722,43.083605,-96.774722,43.083605",
     "geom:latitude":43.083605,
     "geom:longitude":-96.774722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 W Cedar St",
     "sg:city":"Beresford",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101722069,
         102086029
     ],
+    "wof:brand_id":1125154385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lQXT6BcofyMLcMtCofOt9_43.083605_-96.774722@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"21f5728d41441fd09d1e95393a67e0d7",
+    "wof:geomhash":"f039157baaf90607f7f55f842d308227",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403739385,
-    "wof:lastmodified":1467082679,
+    "wof:lastmodified":1510696957,
     "wof:name":"Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

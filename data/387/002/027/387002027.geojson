@@ -2,14 +2,20 @@
   "id": 387002027,
   "type": "Feature",
   "properties": {
+    "addr:full":"47159 85th St Sioux Falls SD 57108",
+    "addr:housenumber":"47159",
+    "addr:postcode":"57108",
+    "addr:street":"85Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.772382,43.475239,-96.772382,43.475239",
     "geom:latitude":43.475239,
     "geom:longitude":-96.772382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"47159 85th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721785,
         102086007
     ],
+    "wof:brand_id":1125150715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22cz3aAc6I7TTSeeIUmLjw_43.475239_-96.772382@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1cd48acf5530c795b12dc1e7828d3fc",
+    "wof:geomhash":"0b0ece1e5d566d721ac0e10c09e2b406",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387002027,
-    "wof:lastmodified":1467082749,
+    "wof:lastmodified":1510698924,
     "wof:name":"Pillar To Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

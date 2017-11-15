@@ -2,14 +2,20 @@
   "id": 387684427,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Main Ave Sioux Falls SD 57104",
+    "addr:housenumber":"700",
+    "addr:postcode":"57104",
+    "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.728344,43.556436,-96.728344,43.556436",
     "geom:latitude":43.556436,
     "geom:longitude":-96.728344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 N Main Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102086007,
         85881019
     ],
+    "wof:brand_id":1125155589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kCclriImqtQDN28hItQz0_43.556436_-96.728344@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"45c5f34c7b769fa11a615882ac901cf0",
+    "wof:geomhash":"04c6b22be382ce8e6db2bee12f36916a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":387684427,
-    "wof:lastmodified":1467082705,
+    "wof:lastmodified":1510694031,
     "wof:name":"Crescent Electric Supply Co",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",

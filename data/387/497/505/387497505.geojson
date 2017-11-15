@@ -2,14 +2,20 @@
   "id": 387497505,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 1st Ave W Clark SD 57225",
+    "addr:housenumber":"102",
+    "addr:postcode":"57225",
+    "addr:street":"1St Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.736534,44.877717,-97.736534,44.877717",
     "geom:latitude":44.877717,
     "geom:longitude":-97.736534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 1st Ave W",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721703,
         102086035
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BIUgpNflbDIiq84dHOBFy_44.877717_-97.736534@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"dda224cb65013885de6f61ad662b7875",
+    "wof:geomhash":"982dfb67b627fb1fd9435863b8405ff9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387497505,
-    "wof:lastmodified":1467082762,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387440453,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 E 8th St Sioux Falls SD 57103",
+    "addr:housenumber":"1104",
+    "addr:postcode":"57103",
+    "addr:street":"E 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.711431,43.548723,-96.711431,43.548723",
     "geom:latitude":43.548723,
     "geom:longitude":-96.711431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1104 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85881011
     ],
+    "wof:brand_id":1125154653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SuNS2p0aj9Y4qijjl96SJ_43.548723_-96.711431@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"22156c12624168ea4408e9dd25516a5d",
+    "wof:geomhash":"f46947f4ec6f7ef47d3a4b84697efbbb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387440453,
-    "wof:lastmodified":1467082713,
+    "wof:lastmodified":1510694718,
     "wof:name":"Jerry's Barber Shop",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",

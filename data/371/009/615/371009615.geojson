@@ -2,14 +2,20 @@
   "id": 371009615,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 E 4th St Winner SD 57580",
+    "addr:housenumber":"714",
+    "addr:postcode":"57580",
+    "addr:street":"E 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.848685,43.374511,-99.848685,43.374511",
     "geom:latitude":43.374511,
     "geom:longitude":-99.848685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"714 E 4th St",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721821,
         102086855
     ],
+    "wof:brand_id":1125158325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bwzaiaju6rZhmnuCHoJoU_43.374511_-99.848685@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4fe4ddbdd460d8f85057f207137ccd68",
+    "wof:geomhash":"e9631af44af9fe20a2c2cbd29d484e05",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":371009615,
-    "wof:lastmodified":1467082673,
+    "wof:lastmodified":1510700025,
     "wof:name":"International Reading Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

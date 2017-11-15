@@ -2,14 +2,20 @@
   "id": 387460335,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 W 49th St Sioux Falls SD 57105",
+    "addr:housenumber":"2400",
+    "addr:postcode":"57105",
+    "addr:street":"W 49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.754607,43.508486,-96.754607,43.508486",
     "geom:latitude":43.508486,
     "geom:longitude":-96.754607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2400 W 49th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125155067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QF9FrX2NrLdv3AMvPkkCg_43.508486_-96.754607@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"24021211bd754e44c3c9a9ad67143be2",
+    "wof:geomhash":"60f1e5668b9787fe647e19a9bf36af1e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387460335,
-    "wof:lastmodified":1467082759,
+    "wof:lastmodified":1510695203,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

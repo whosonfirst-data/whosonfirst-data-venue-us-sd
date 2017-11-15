@@ -2,14 +2,20 @@
   "id": 387468713,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Cliff Ave Sioux Falls SD 57103",
+    "addr:housenumber":"600",
+    "addr:postcode":"57103",
+    "addr:street":"N Cliff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.71137,43.554824,-96.71137,43.554824",
     "geom:latitude":43.554824,
     "geom:longitude":-96.71137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 N Cliff Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086007,
         85881011
     ],
+    "wof:brand_id":1125155015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ES9mpzlgpjhBKrki28nRG_43.554824_-96.711370@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"34d636316e2bacbc878e9bf22d9ef9bb",
+    "wof:geomhash":"72756acb1f38ce50b9982029c5e4febb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387468713,
-    "wof:lastmodified":1467082741,
+    "wof:lastmodified":1510700057,
     "wof:name":"Hot Stuff Pizza",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",

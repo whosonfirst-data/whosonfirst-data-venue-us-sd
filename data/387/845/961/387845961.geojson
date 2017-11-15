@@ -2,14 +2,20 @@
   "id": 387845961,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 15th Ave Faulkton SD 57438",
+    "addr:housenumber":"308",
+    "addr:postcode":"57438",
+    "addr:street":"15Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.134495,45.033812,-99.134495,45.033812",
     "geom:latitude":45.033812,
     "geom:longitude":-99.134495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 15th Ave",
     "sg:city":"Faulkton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722097,
         102086003
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11rAjiDXZAmZyGz9weVCYn_45.033812_-99.134495@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4751c24f9fea0c22efa3c7471895e6d7",
+    "wof:geomhash":"b39296711abf9a8a60d4c37aa90746ca",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387845961,
-    "wof:lastmodified":1467082699,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

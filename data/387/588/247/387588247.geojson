@@ -2,14 +2,20 @@
   "id": 387588247,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 E Kemp Ave Watertown SD 57201",
+    "addr:housenumber":"10",
+    "addr:postcode":"57201",
+    "addr:street":"E Kemp Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.114081,44.900245,-97.114081,44.900245",
     "geom:latitude":44.900245,
     "geom:longitude":-97.114081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 E Kemp Ave",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721941,
         102086797
     ],
+    "wof:brand_id":1125156855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A0W61C06mvZUnGJhlJWEb_44.900245_-97.114081@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ceb62b3f7dbdefd91fd1b2ed57c02938",
+    "wof:geomhash":"0e51ae77fc421b4232cb3ec29e20cd79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387588247,
-    "wof:lastmodified":1467082748,
+    "wof:lastmodified":1510694079,
     "wof:name":"Sugar Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

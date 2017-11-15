@@ -2,14 +2,20 @@
   "id": 387303089,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 N Cambell St Rapid City SD 57701",
+    "addr:housenumber":"510",
+    "addr:postcode":"57701",
+    "addr:street":"N Cambell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.191607,44.086114,-103.191607,44.086114",
     "geom:latitude":44.086114,
     "geom:longitude":-103.191607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 N Cambell St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66bTgAwTuQNk5WDclwjumU_44.086114_-103.191607@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"17d3974e7fa97c109b98800214aeccae",
+    "wof:geomhash":"7e6c256516728bf6a19adf12a4d0cf36",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387303089,
-    "wof:lastmodified":1467082688,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

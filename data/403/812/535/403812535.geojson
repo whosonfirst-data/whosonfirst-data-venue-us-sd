@@ -2,14 +2,20 @@
   "id": 403812535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Loma Linda Dr Mitchell SD 57301",
+    "addr:housenumber":"1901",
+    "addr:postcode":"57301",
+    "addr:street":"Loma Linda Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.048859,43.696442,-98.048859,43.696442",
     "geom:latitude":43.696442,
     "geom:longitude":-98.048859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Loma Linda Dr",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -44,12 +50,13 @@
         101721597,
         102086045
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35zJmiztfZ74ycNNm0sHD9_43.696442_-98.048859@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"d4a430695fd6aef3c6df4c376fc0479c",
+    "wof:geomhash":"ef31a9a12b823097f13f5536d36e2262",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":403812535,
-    "wof:lastmodified":1467082674,
+    "wof:lastmodified":1510693817,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

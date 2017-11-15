@@ -2,14 +2,20 @@
   "id": 387159973,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Kansas City St Rapid City SD 57701",
+    "addr:housenumber":"",
+    "addr:postcode":"57701",
+    "addr:street":"530 Kansas;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.227108,44.078929,-103.227108,44.078929",
     "geom:latitude":44.078929,
     "geom:longitude":-103.227108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xhx2nLfIfGdaow9TfVeip_44.078929_-103.227108@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"a15ba01cb356dd1d9db63d0a6d184d96",
+    "wof:geomhash":"cf6743a846fed37167ab664dc4a285ea",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387159973,
-    "wof:lastmodified":1467082696,
+    "wof:lastmodified":1510694975,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

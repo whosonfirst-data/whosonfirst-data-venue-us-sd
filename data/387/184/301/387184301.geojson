@@ -2,14 +2,20 @@
   "id": 387184301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Washington Ave S Madison SD 57042",
+    "addr:housenumber":"1010",
+    "addr:postcode":"57042",
+    "addr:street":"Washington Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.109688,43.994578,-97.109688,43.994578",
     "geom:latitude":43.994578,
     "geom:longitude":-97.109688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 Washington Ave S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721637,
         102086107
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IMZzHFciprY4Req9t55qh_43.994578_-97.109688@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"96d52f5a347be9c45d8051bb162bf339",
+    "wof:geomhash":"1b716fdc52126e921f5ab80f509f4c3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387184301,
-    "wof:lastmodified":1467082699,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

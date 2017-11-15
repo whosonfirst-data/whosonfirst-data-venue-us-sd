@@ -2,14 +2,20 @@
   "id": 387562659,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Capitol Ave Pierre SD 57501",
+    "addr:housenumber":"300",
+    "addr:postcode":"57501",
+    "addr:street":"E Capitol Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.349324,44.367725,-100.349324,44.367725",
     "geom:latitude":44.367725,
     "geom:longitude":-100.349324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Capitol Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         101721649,
         102086823
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k9PRx89ECy68rJXa44nj9_44.367725_-100.349324@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e61ae9af955a7abe344a58967e44f243",
+    "wof:geomhash":"585187150ec095750b252969ab30e49b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387562659,
-    "wof:lastmodified":1467082727,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

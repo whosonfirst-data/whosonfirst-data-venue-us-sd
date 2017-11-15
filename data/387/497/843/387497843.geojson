@@ -2,14 +2,20 @@
   "id": 387497843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 River Ridge Pl Sioux Falls SD 57103",
+    "addr:housenumber":"2520",
+    "addr:postcode":"57103",
+    "addr:street":"River Ridge Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.693894,43.530631,-96.693894,43.530631",
     "geom:latitude":43.530631,
     "geom:longitude":-96.693894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 River Ridge Pl",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086007,
         85816793
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xCQOOhhNLyc4Tr3hqxQzU_43.530631_-96.693894@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb0537f638b6121ea6698652e0b117cd",
+    "wof:geomhash":"fe0a51f40d594b7a7108d626c1c9355b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387497843,
-    "wof:lastmodified":1467082762,
+    "wof:lastmodified":1510697386,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85816793,
     "wof:placetype":"venue",

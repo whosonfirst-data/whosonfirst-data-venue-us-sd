@@ -2,14 +2,20 @@
   "id": 387759037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 S Carolyn Ave Sioux Falls SD 57106",
+    "addr:housenumber":"2901",
+    "addr:postcode":"57106",
+    "addr:street":"S Carolyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.778586,43.519124,-96.778586,43.519124",
     "geom:latitude":43.519124,
     "geom:longitude":-96.778586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2901 S Carolyn Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qQkGDX1GrCzfRUN1APJwb_43.519124_-96.778586@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cda4d8654afac520c26304a69cf9fe6",
+    "wof:geomhash":"8087344e3a107a00edaa093363a408e1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387759037,
-    "wof:lastmodified":1467082764,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

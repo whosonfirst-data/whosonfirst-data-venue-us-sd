@@ -2,14 +2,20 @@
   "id": 874015563,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 6th Ave SE Aberdeen SD 57401",
+    "addr:housenumber":"3315",
+    "addr:postcode":"57401",
+    "addr:street":"6Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.442272,45.459112,-98.442272,45.459112",
     "geom:latitude":45.459112,
     "geom:longitude":-98.442272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3315 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125155831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bkvWrF6K3UeDVHkYM4oh2_45.459112_-98.442272@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464310895,
-    "wof:geomhash":"3a0d7aa195928b6172ecff0a1caca52c",
+    "wof:geomhash":"892e6a11b1e9aaae4b87901323be7555",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874015563,
-    "wof:lastmodified":1467082777,
+    "wof:lastmodified":1510613548,
     "wof:name":"Pretzel Maker",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

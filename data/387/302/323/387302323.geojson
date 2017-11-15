@@ -2,6 +2,10 @@
   "id": 387302323,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Main St Waubay SD 57273",
+    "addr:housenumber":"123",
+    "addr:postcode":"57273",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387302323,
-    "wof:lastmodified":1467082712,
+    "wof:lastmodified":1472644999,
     "wof:name":"H R One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387022109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Empire Mall Sioux Falls SD 57106",
+    "addr:housenumber":"1500",
+    "addr:postcode":"57106",
+    "addr:street":"Empire Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.774796,43.514241,-96.774796,43.514241",
     "geom:latitude":43.514241,
     "geom:longitude":-96.774796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Empire Mall",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I7F7Cd4gjuaj29Ym5tpfy_43.514241_-96.774796@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"14e3cf6712e0dc23e5ab7b4fa86f7228",
+    "wof:geomhash":"2db4d3e6e3e511ef3a12b49d759a65e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387022109,
-    "wof:lastmodified":1467082711,
+    "wof:lastmodified":1510694920,
     "wof:name":"Master Cuts",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

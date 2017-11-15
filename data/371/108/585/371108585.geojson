@@ -2,14 +2,20 @@
   "id": 371108585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 E 3rd St Redfield SD 57469",
+    "addr:housenumber":"1015",
+    "addr:postcode":"57469",
+    "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.513391,44.871821,-98.513391,44.871821",
     "geom:latitude":44.871821,
     "geom:longitude":-98.513391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1015 E 3rd St",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721571,
         102086027
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iumTOgo7dRawOO86EkkJn_44.871821_-98.513391@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"83fa9731cab4981ca81485542109ca00",
+    "wof:geomhash":"706fab9703ebf7276c39417616a57bc8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":371108585,
-    "wof:lastmodified":1467082659,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

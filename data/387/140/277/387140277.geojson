@@ -2,14 +2,20 @@
   "id": 387140277,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 E 5th Ave Redfield SD 57469",
+    "addr:housenumber":"322",
+    "addr:postcode":"57469",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.513095,44.878027,-98.513095,44.878027",
     "geom:latitude":44.878027,
     "geom:longitude":-98.513095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"322 E 5th Ave",
     "sg:city":"Redfield",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721571,
         102086027
     ],
+    "wof:brand_id":1125159797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hGe9IBOh7IjPVQrc9644n_44.878027_-98.513095@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5303a6781ae7a7faa1cb73fd58822f8e",
+    "wof:geomhash":"67ffff4cf4f7f665b42aa9f92af99084",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387140277,
-    "wof:lastmodified":1467082698,
+    "wof:lastmodified":1510699785,
     "wof:name":"BNSF Railway Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

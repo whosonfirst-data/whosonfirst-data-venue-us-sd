@@ -2,6 +2,10 @@
   "id": 387485543,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Sanborn Blvd Mitchell SD 57301",
+    "addr:housenumber":"100",
+    "addr:postcode":"57301",
+    "addr:street":"N Sanborn Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387485543,
-    "wof:lastmodified":1467082733,
+    "wof:lastmodified":1472645017,
     "wof:name":"UPS Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

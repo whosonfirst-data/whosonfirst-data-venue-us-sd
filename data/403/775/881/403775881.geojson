@@ -2,14 +2,20 @@
   "id": 403775881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 S Burr St Mitchell SD 57301",
+    "addr:housenumber":"1421",
+    "addr:postcode":"57301",
+    "addr:street":"S Burr St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.015662,43.696398,-98.015662,43.696398",
     "geom:latitude":43.696398,
     "geom:longitude":-98.015662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1421 S Burr St",
     "sg:city":"Mitchell",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         101721597,
         102086045
     ],
+    "wof:brand_id":1125154589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WFtNWnUa9zCIVspZY5du5_43.696398_-98.015662@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"adab4f95937a34e00532a19d7b46f9bc",
+    "wof:geomhash":"3a9c5386e4d2b927213b279f1b0930c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":403775881,
-    "wof:lastmodified":1467082682,
+    "wof:lastmodified":1510613346,
     "wof:name":"Americ Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

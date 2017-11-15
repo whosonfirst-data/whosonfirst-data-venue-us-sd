@@ -2,14 +2,20 @@
   "id": 387443001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1630 Rushmore St Rapid City SD 57702",
+    "addr:housenumber":"1630",
+    "addr:postcode":"57702",
+    "addr:street":"Rushmore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.278322,44.069996,-103.278322,44.069996",
     "geom:latitude":44.069996,
     "geom:longitude":-103.278322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1630 Rushmore St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3azPNZR6MQlvAGdMmAiJn2_44.069996_-103.278322@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"623b2de882cc80d2f033e1d0a8ecaae4",
+    "wof:geomhash":"342e56d69d0f15c73e0094003459fd6e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387443001,
-    "wof:lastmodified":1467082749,
+    "wof:lastmodified":1510693697,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

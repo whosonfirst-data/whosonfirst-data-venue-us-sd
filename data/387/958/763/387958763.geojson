@@ -2,14 +2,20 @@
   "id": 387958763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4820 Faa Rd Rapid City SD 57703",
+    "addr:housenumber":"",
+    "addr:postcode":"4820;57703",
+    "addr:street":"Faa Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.057932,44.035687,-103.057932,44.035687",
     "geom:latitude":44.035687,
     "geom:longitude":-103.057932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4820 Faa Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02I5dWtgcO6vBsS03NtBph_44.035687_-103.057932@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ac791280cc9714eac827156a5481bd3",
+    "wof:geomhash":"df85723b4fe7ce85fc859c4003efdabd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":387958763,
-    "wof:lastmodified":1467082746,
+    "wof:lastmodified":1510613426,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

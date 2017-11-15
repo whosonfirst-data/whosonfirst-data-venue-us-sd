@@ -2,14 +2,20 @@
   "id": 403706579,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 W Main Ave Fort Pierre SD 57532",
+    "addr:housenumber":"206",
+    "addr:postcode":"57532",
+    "addr:street":"W Main Ave Fort Pierre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.376843,44.353286,-100.376843,44.353286",
     "geom:latitude":44.353286,
     "geom:longitude":-100.376843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 W Main Ave",
     "sg:city":"Fort Pierre",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721579,
         102086115
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SxxhWDZ6VLxulNoe4V87b_44.353286_-100.376843@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"1559920fcd4f4312ad41a3d34bcf40f9",
+    "wof:geomhash":"dee69f9846afd30d7d6db5f35acebdff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":403706579,
-    "wof:lastmodified":1467082675,
+    "wof:lastmodified":1510699546,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

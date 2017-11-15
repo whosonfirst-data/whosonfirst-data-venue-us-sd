@@ -2,14 +2,20 @@
   "id": 387427235,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 S Cathy Ave Sioux Falls SD 57106",
+    "addr:housenumber":"3900",
+    "addr:postcode":"57106",
+    "addr:street":"S Cathy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.789158,43.510513,-96.789158,43.510513",
     "geom:latitude":43.510513,
     "geom:longitude":-96.789158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 S Cathy Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LnbYxyLJjYssEWBPDXCwu_43.510513_-96.789158@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ccad1fb161b3ede4f1d33bf1c512eae7",
+    "wof:geomhash":"f9383fa779c496f3720a936ffddc9e7a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387427235,
-    "wof:lastmodified":1467082709,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387063199,
   "type": "Feature",
   "properties": {
+    "addr:full":"4024 Sheridan Lake Rd Rapid City SD 57702",
+    "addr:housenumber":"4024",
+    "addr:postcode":"57702",
+    "addr:street":"Sheridan Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.268149,44.045833,-103.268149,44.045833",
     "geom:latitude":44.045833,
     "geom:longitude":-103.268149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4024 Sheridan Lake Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125154945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wOgzncSR9yXxqd2HLS8wh_44.045833_-103.268149@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"239f1b2f0707fded56c90af177d2e5a2",
+    "wof:geomhash":"63bf860f344eccc5b04f611a38e92f7e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":387063199,
-    "wof:lastmodified":1467082693,
+    "wof:lastmodified":1510695741,
     "wof:name":"Westside Baptist Church",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

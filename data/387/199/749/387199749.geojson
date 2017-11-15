@@ -2,14 +2,20 @@
   "id": 387199749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2505 Bobbie Dr Aberdeen SD 57401",
+    "addr:housenumber":"2505",
+    "addr:postcode":"57401",
+    "addr:street":"Bobbie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.452461,45.451015,-98.452461,45.451015",
     "geom:latitude":45.451015,
     "geom:longitude":-98.452461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2505 Bobbie Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69fBoenpC3CHy3r5PgaLh9_45.451015_-98.452461@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"cab363fd19c10440e5acde9fdd290ac0",
+    "wof:geomhash":"81f2088f996a00f13706f9aa07e3b34b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387199749,
-    "wof:lastmodified":1467082694,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

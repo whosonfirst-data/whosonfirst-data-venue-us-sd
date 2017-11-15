@@ -2,14 +2,20 @@
   "id": 387651451,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 W Main St Rapid City SD 57702",
+    "addr:housenumber":"2700",
+    "addr:postcode":"57702",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.265553,44.082162,-103.265553,44.082162",
     "geom:latitude":44.082162,
     "geom:longitude":-103.265553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 W Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125155645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xBLj50aubli8ri2pyWIbK_44.082162_-103.265553@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2544e93c89ef8d3503b743b5386e0e45",
+    "wof:geomhash":"b3e34c95a9246f16245060279646013a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387651451,
-    "wof:lastmodified":1467082701,
+    "wof:lastmodified":1510697975,
     "wof:name":"PHH Mortgage",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

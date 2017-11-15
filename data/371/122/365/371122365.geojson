@@ -2,14 +2,20 @@
   "id": 371122365,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Berry Blvd Rapid City SD 57702",
+    "addr:housenumber":"502",
+    "addr:postcode":"57702",
+    "addr:street":"Berry Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.304557,44.088988,-103.304557,44.088988",
     "geom:latitude":44.088988,
     "geom:longitude":-103.304557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Berry Blvd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30XfqESEZ7LDn7yAyQv6VC_44.088988_-103.304557@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3eb775a35fd11bfe4d763a71da69d157",
+    "wof:geomhash":"b8a8ad39f8ffd61b6595348d6edd71be",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":371122365,
-    "wof:lastmodified":1467082666,
+    "wof:lastmodified":1510696717,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

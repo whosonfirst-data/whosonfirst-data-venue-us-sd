@@ -2,14 +2,20 @@
   "id": 386928111,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 N 5th St Groton SD 57445",
+    "addr:housenumber":"15",
+    "addr:postcode":"57445",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.094477,45.445988,-98.094477,45.445988",
     "geom:latitude":45.445988,
     "geom:longitude":-98.094477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 N 5th St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iErewX0Z3KScVyI79dzua_45.445988_-98.094477@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"21658cdc3fc7ccc267a3c6342d8c2283",
+    "wof:geomhash":"798d63b365f6619e7c7c388b3eecdca6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":386928111,
-    "wof:lastmodified":1467082654,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

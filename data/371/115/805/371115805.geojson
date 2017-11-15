@@ -2,14 +2,20 @@
   "id": 371115805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 E North St Rapid City SD 57701",
+    "addr:housenumber":"1111",
+    "addr:postcode":"57701",
+    "addr:street":"E North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.192928,44.087475,-103.192928,44.087475",
     "geom:latitude":44.087475,
     "geom:longitude":-103.192928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 E North St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125150159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GirCilc2DdQTJXqhKQTdk_44.087475_-103.192928@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2d9a0b64418a56d8b920cb62d408b6e",
+    "wof:geomhash":"d673616b5e18d4c3f8bff2e79c18236d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":371115805,
-    "wof:lastmodified":1467082658,
+    "wof:lastmodified":1510604959,
     "wof:name":"Kmart Stores",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 371115977,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Kansas City St Rapid City SD 57701",
+    "addr:housenumber":"",
+    "addr:postcode":"57701",
+    "addr:street":"521 Kansas;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.227272,44.078812,-103.227272,44.078812",
     "geom:latitude":44.078812,
     "geom:longitude":-103.227272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"521 Kansas City St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125153859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XoTdxU06nvtdulHq4fOZC_44.078812_-103.227272@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"65e73d0364c17dfce70f110f3647646c",
+    "wof:geomhash":"2aa12b6278247148701e64eb60cd49a0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":371115977,
-    "wof:lastmodified":1467082658,
+    "wof:lastmodified":1510697170,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

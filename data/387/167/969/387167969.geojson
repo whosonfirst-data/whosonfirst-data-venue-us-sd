@@ -2,6 +2,10 @@
   "id": 387167969,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N Main St Mitchell SD 57301",
+    "addr:housenumber":"500",
+    "addr:postcode":"57301",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387167969,
-    "wof:lastmodified":1467082727,
+    "wof:lastmodified":1472644985,
     "wof:name":"Statuary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

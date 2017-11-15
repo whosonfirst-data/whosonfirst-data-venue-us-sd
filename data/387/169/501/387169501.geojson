@@ -2,14 +2,20 @@
   "id": 387169501,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Iowa St Wakonda SD 57073",
+    "addr:housenumber":"209",
+    "addr:postcode":"57073",
+    "addr:street":"Iowa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.104472,43.009627,-97.104472,43.009627",
     "geom:latitude":43.009627,
     "geom:longitude":-97.104472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 Iowa St",
     "sg:city":"Wakonda",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721957,
         102086833
     ],
+    "wof:brand_id":1125159375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oQJGaUgPpWhVqXVMU3NKG_43.009627_-97.104472@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6e0b8b1dc0df9bcd7f5144f57e74d90",
+    "wof:geomhash":"dfa5eff33600f40593e3b1c5a8aa0fa1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387169501,
-    "wof:lastmodified":1467082734,
+    "wof:lastmodified":1510695816,
     "wof:name":"St Patrick's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

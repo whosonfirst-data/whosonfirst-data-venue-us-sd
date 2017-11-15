@@ -2,14 +2,20 @@
   "id": 386969267,
   "type": "Feature",
   "properties": {
+    "addr:full":"31355 US Hwy 18 Winner SD 57580",
+    "addr:housenumber":"31355",
+    "addr:postcode":"57580",
+    "addr:street":"Us Hwy 18",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-99.899265,43.382375,-99.899265,43.382375",
     "geom:latitude":43.382375,
     "geom:longitude":-99.899265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31355 US Hwy 18",
     "sg:city":"Winner",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         85633793,
         85688693
     ],
+    "wof:brand_id":1125154005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62NeaRkTwHLBKHClgOUnZA_43.382375_-99.899265@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"7054333b297d442448e84ac321c58018",
+    "wof:geomhash":"378efa2af914c5de5c6654aa84f1f617",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":386969267,
-    "wof:lastmodified":1467082650,
+    "wof:lastmodified":1510695151,
     "wof:name":"TGI Fridays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

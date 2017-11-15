@@ -2,14 +2,20 @@
   "id": 387673897,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Braddock St Armour SD 57313",
+    "addr:housenumber":"106",
+    "addr:postcode":"57313",
+    "addr:street":"Braddock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.344824,43.312659,-98.344824,43.312659",
     "geom:latitude":43.312659,
     "geom:longitude":-98.344824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Braddock St",
     "sg:city":"Armour",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721529,
         102086053
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HulHiB2JxHDbaDb659LyI_43.312659_-98.344824@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fe976d9c03c9a9eec0d278349769d59",
+    "wof:geomhash":"16a63fa8443af70eac1fd1cfcc86bb3b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387673897,
-    "wof:lastmodified":1467082716,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

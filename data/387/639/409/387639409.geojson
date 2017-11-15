@@ -2,14 +2,20 @@
   "id": 387639409,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Care Center Rd Arlington SD 57212",
+    "addr:housenumber":"120",
+    "addr:postcode":"57212",
+    "addr:street":"Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.132681,44.368359,-97.132681,44.368359",
     "geom:latitude":44.368359,
     "geom:longitude":-97.132681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Care Center Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721919,
         102086869
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uEan06DPHO9Y1L4I8OHRy_44.368359_-97.132681@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"228e7dcdbbd16c011a9c10837a119743",
+    "wof:geomhash":"dcab179d8dc457788b22cad35f305be1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387639409,
-    "wof:lastmodified":1467082763,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

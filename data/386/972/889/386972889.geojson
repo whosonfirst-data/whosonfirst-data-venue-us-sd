@@ -2,14 +2,20 @@
   "id": 386972889,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Spruce St Yankton SD 57078",
+    "addr:housenumber":"412",
+    "addr:postcode":"57078",
+    "addr:street":"Spruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.40474,42.872424,-97.40474,42.872424",
     "geom:latitude":42.872424,
     "geom:longitude":-97.40474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"412 Spruce St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721739,
         102086043
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kmTbEM2gF9ycXzAXrpf74_42.872424_-97.404740@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c1ce552e9fa704f186e33c9a337b60f0",
+    "wof:geomhash":"48d7c7a7170044811170e843b8d77ef4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":386972889,
-    "wof:lastmodified":1467082652,
+    "wof:lastmodified":1510613521,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

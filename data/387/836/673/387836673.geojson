@@ -2,14 +2,20 @@
   "id": 387836673,
   "type": "Feature",
   "properties": {
+    "addr:full":"4530 S River Oaks Dr Sioux Falls SD 57105",
+    "addr:housenumber":"4530",
+    "addr:postcode":"57105",
+    "addr:street":"S River Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.715494,43.501921,-96.715494,43.501921",
     "geom:latitude":43.501921,
     "geom:longitude":-96.715494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4530 S River Oaks Dr",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85881009
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qQXkYyU0EQJ70LnUSTGXu_43.501921_-96.715494@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"070bbe254609ced1aa5a3cfba619a6c0",
+    "wof:geomhash":"a1ad603a30ea7bda713ec00555662f32",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387836673,
-    "wof:lastmodified":1467082737,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85881009,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 387942935,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Dakota Ave S Huron SD 57350",
+    "addr:housenumber":"333",
+    "addr:postcode":"57350",
+    "addr:street":"Dakota Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.214202,44.362848,-98.214202,44.362848",
     "geom:latitude":44.362848,
     "geom:longitude":-98.214202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Dakota Ave S",
     "sg:city":"Huron",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         101721873,
         102086841
     ],
+    "wof:brand_id":1125152939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GXFDABe1MVSMCgHO6wRuP_44.362848_-98.214202@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a22bb5a5171a2a1c14bc477e2eadf67",
+    "wof:geomhash":"09b0d863acf355ff9b88de8fdec0fbe7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":387942935,
-    "wof:lastmodified":1467082722,
+    "wof:lastmodified":1510697468,
     "wof:name":"Farmers & Merchants Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

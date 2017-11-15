@@ -2,14 +2,20 @@
   "id": 387459383,
   "type": "Feature",
   "properties": {
+    "addr:full":"380 Wessington St S Wessington SD 57381",
+    "addr:housenumber":"380",
+    "addr:postcode":"57381",
+    "addr:street":"Wessington St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.699245,44.451353,-98.699245,44.451353",
     "geom:latitude":44.451353,
     "geom:longitude":-98.699245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"380 Wessington St S",
     "sg:city":"Wessington",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721869,
         102086841
     ],
+    "wof:brand_id":1125159517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TqOll6P4pZEpu7ZJRlPUb_44.451353_-98.699245@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"e1d951d5c2f5d26ab68696dc56150823",
+    "wof:geomhash":"394bef89e4a6255574a82c79565c5a71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387459383,
-    "wof:lastmodified":1467082718,
+    "wof:lastmodified":1510698878,
     "wof:name":"Concordia Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

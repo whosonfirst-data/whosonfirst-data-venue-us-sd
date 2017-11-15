@@ -2,14 +2,20 @@
   "id": 370996781,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Dakota St Clark SD 57248",
+    "addr:housenumber":"504",
+    "addr:postcode":"57248",
+    "addr:street":"Dakota St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.210696,44.58099,-97.210696,44.58099",
     "geom:latitude":44.58099,
     "geom:longitude":-97.210696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 Dakota St",
     "sg:city":"Clark",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722011,
         102086845
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NOJ7dBxxGKyZbQkbGY7O7_44.580990_-97.210696@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5b65e8ef4b004ff2e6938ab83bd0ea3c",
+    "wof:geomhash":"311e9393afd8a4bea543141844a85965",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":370996781,
-    "wof:lastmodified":1467082656,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

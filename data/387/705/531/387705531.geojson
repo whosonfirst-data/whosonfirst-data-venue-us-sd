@@ -2,6 +2,10 @@
   "id": 387705531,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Main St Bison SD 57620",
+    "addr:housenumber":"101",
+    "addr:postcode":"57620",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387705531,
-    "wof:lastmodified":1467082764,
+    "wof:lastmodified":1472645037,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

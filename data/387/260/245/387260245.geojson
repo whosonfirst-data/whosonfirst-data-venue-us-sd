@@ -2,14 +2,20 @@
   "id": 387260245,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 W County Rd Freeman SD 57075",
+    "addr:housenumber":"208",
+    "addr:postcode":"57075",
+    "addr:street":"W County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.965087,43.993311,-96.965087,43.993311",
     "geom:latitude":43.993311,
     "geom:longitude":-96.965087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 W County Rd",
     "sg:city":"Freeman",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721633,
         102086107
     ],
+    "wof:brand_id":1125153155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cDao9ifgIvqBvo7nZcnQL_43.993311_-96.965087@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3ab5dc629f42c97951f63b088e7ce4dd",
+    "wof:geomhash":"f88d0c1fe8ba47bb86cffafe903ce31b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387260245,
-    "wof:lastmodified":1467082699,
+    "wof:lastmodified":1510695883,
     "wof:name":"Hope Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

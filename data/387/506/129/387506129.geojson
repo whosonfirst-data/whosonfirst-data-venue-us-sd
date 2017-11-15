@@ -2,14 +2,20 @@
   "id": 387506129,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Elk St Elkton SD 57026",
+    "addr:housenumber":"301",
+    "addr:postcode":"57026",
+    "addr:street":"Elk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.481004,44.235078,-96.481004,44.235078",
     "geom:latitude":44.235078,
     "geom:longitude":-96.481004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Elk St",
     "sg:city":"Elkton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101721925,
         102086013
     ],
+    "wof:brand_id":1125151215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45N0UrGEZ914TaHvwZVuRl_44.235078_-96.481004@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f75b0d6a0309fe48b3943a519328204",
+    "wof:geomhash":"3582bea4cca231eaf6ecaed3bc4bfa16",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":387506129,
-    "wof:lastmodified":1467082689,
+    "wof:lastmodified":1510697568,
     "wof:name":"First Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

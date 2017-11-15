@@ -2,14 +2,20 @@
   "id": 387231279,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 9th St Rapid City SD 57701",
+    "addr:housenumber":"515",
+    "addr:postcode":"57701",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.232949,44.081096,-103.232949,44.081096",
     "geom:latitude":44.081096,
     "geom:longitude":-103.232949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 9th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O14I51DwEgasIN8UE8mkU_44.081096_-103.232949@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"de9798feb63dbe16bfa2ae08a3b308cb",
+    "wof:geomhash":"8c7d331431cb9a454dcf810286aa11d5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387231279,
-    "wof:lastmodified":1467082726,
+    "wof:lastmodified":1510693942,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

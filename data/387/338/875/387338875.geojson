@@ -2,14 +2,20 @@
   "id": 387338875,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N Minnesota Ave Sioux Falls SD 57104",
+    "addr:housenumber":"201",
+    "addr:postcode":"57104",
+    "addr:street":"N Minnesota Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.731327,43.549906,-96.731327,43.549906",
     "geom:latitude":43.549906,
     "geom:longitude":-96.731327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 N Minnesota Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101721785,
         102086007
     ],
+    "wof:brand_id":1125154793,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JlvtYvOfhA6oqAv3pYwia_43.549906_-96.731327@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2e86b0ea3b9fe8942c6344662dec5c",
+    "wof:geomhash":"4121728f2bde1844aaedb176df7238ac",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387338875,
-    "wof:lastmodified":1467082713,
+    "wof:lastmodified":1510693707,
     "wof:name":"Pro Staff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

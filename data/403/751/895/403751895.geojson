@@ -2,14 +2,20 @@
   "id": 403751895,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 E 10th St Sioux Falls SD 57103",
+    "addr:housenumber":"811",
+    "addr:postcode":"57103",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.715716,43.546575,-96.715716,43.546575",
     "geom:latitude":43.546575,
     "geom:longitude":-96.715716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"811 E 10th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086007,
         85881011
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W2N8Y9mmw0OtexPUjoWTG_43.546575_-96.715716@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"19f69371f8e1cba370782a7edb3fbea9",
+    "wof:geomhash":"11ea2268f725ca5fe77d71f41014e59d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":403751895,
-    "wof:lastmodified":1467082675,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",

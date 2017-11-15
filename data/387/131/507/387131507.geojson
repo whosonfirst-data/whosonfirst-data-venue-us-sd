@@ -2,14 +2,20 @@
   "id": 387131507,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 Mountain View Rd Rapid City SD 57702",
+    "addr:housenumber":"916",
+    "addr:postcode":"57702",
+    "addr:street":"Mountain View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.252018,44.075249,-103.252018,44.075249",
     "geom:latitude":44.075249,
     "geom:longitude":-103.252018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"916 Mountain View Rd",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37qmqgy67ztp5y2fzsBlUB_44.075249_-103.252018@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"323755d30a0c3b69ef1a5836360c403d",
+    "wof:geomhash":"2259808f247b3ae509d5dc3e812560c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387131507,
-    "wof:lastmodified":1467082709,
+    "wof:lastmodified":1510613329,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

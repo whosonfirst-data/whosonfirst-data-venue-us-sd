@@ -2,14 +2,20 @@
   "id": 387786153,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Grant Ave Volin SD 57072",
+    "addr:housenumber":"300",
+    "addr:postcode":"57072",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.181525,42.9593,-97.181525,42.9593",
     "geom:latitude":42.9593,
     "geom:longitude":-97.181525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Grant Ave",
     "sg:city":"Volin",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         101721741,
         102086043
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rquLU1hB19GdpkR3vSXvs_42.959300_-97.181525@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4acf4d34aa1d669a5e2261f05d8fbe37",
+    "wof:geomhash":"199a648e8c4945b326639aab9ba2e976",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":387786153,
-    "wof:lastmodified":1467082696,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

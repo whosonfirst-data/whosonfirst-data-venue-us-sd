@@ -2,14 +2,20 @@
   "id": 387215691,
   "type": "Feature",
   "properties": {
+    "addr:full":"422 5th Ave SE Aberdeen SD 57401",
+    "addr:housenumber":"422",
+    "addr:postcode":"57401",
+    "addr:street":"5Th Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.481801,45.460043,-98.481801,45.460043",
     "geom:latitude":45.460043,
     "geom:longitude":-98.481801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"422 5th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086843,
         85833721
     ],
+    "wof:brand_id":1125159855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g5tnSh9ouGvVO4HsfKGti_45.460043_-98.481801@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"3bf7a7bbaa9eed3b77efec1a51857760",
+    "wof:geomhash":"004cba523fe49e05e5d54973a028f509",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387215691,
-    "wof:lastmodified":1467082750,
+    "wof:lastmodified":1510696722,
     "wof:name":"Experience Works",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",

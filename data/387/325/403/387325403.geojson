@@ -2,6 +2,10 @@
   "id": 387325403,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Alice St Castlewood SD 57223",
+    "addr:housenumber":"101",
+    "addr:postcode":"57223",
+    "addr:street":"Alice St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387325403,
-    "wof:lastmodified":1467082717,
+    "wof:lastmodified":1472645000,
     "wof:name":"Castlewood Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

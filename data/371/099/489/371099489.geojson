@@ -2,14 +2,20 @@
   "id": 371099489,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 N Main Ave Parker SD 57053",
+    "addr:housenumber":"580",
+    "addr:postcode":"57053",
+    "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.136441,43.401032,-97.136441,43.401032",
     "geom:latitude":43.401032,
     "geom:longitude":-97.136441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"580 N Main Ave",
     "sg:city":"Parker",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101721689,
         102086867
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RkcRPbA6dD1KX7rhbB0Oj_43.401032_-97.136441@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae7d82584aa7591dfdb1af604560211e",
+    "wof:geomhash":"c3f2fd8fccd87447b8a4e6972c19d7ed",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":371099489,
-    "wof:lastmodified":1467082668,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

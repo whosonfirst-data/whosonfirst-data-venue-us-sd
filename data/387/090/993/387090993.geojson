@@ -2,14 +2,20 @@
   "id": 387090993,
   "type": "Feature",
   "properties": {
+    "addr:full":"25991 482nd Ave Brandon SD 57005",
+    "addr:housenumber":"25991",
+    "addr:postcode":"57005",
+    "addr:street":"482Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.572028,43.617789,-96.572028,43.617789",
     "geom:latitude":43.617789,
     "geom:longitude":-96.572028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25991 482nd Ave",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086007,
         85881013
     ],
+    "wof:brand_id":1125153437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JHO6wtjghgVJRywvXScsU_43.617789_-96.572028@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6e6201ecbdb3f6758873640650a4174",
+    "wof:geomhash":"01c740bbf35f59f401552befe8dcbec0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":387090993,
-    "wof:lastmodified":1467082748,
+    "wof:lastmodified":1510694891,
     "wof:name":"Bottoms Up",
     "wof:parent_id":85881013,
     "wof:placetype":"venue",

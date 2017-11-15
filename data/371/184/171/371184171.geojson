@@ -2,14 +2,20 @@
   "id": 371184171,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Cedar Ave Murdo SD 57559",
+    "addr:housenumber":"308",
+    "addr:postcode":"57559",
+    "addr:street":"Cedar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.704509,43.888145,-100.704509,43.888145",
     "geom:latitude":43.888145,
     "geom:longitude":-100.704509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 Cedar Ave",
     "sg:city":"Murdo",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         101722163,
         102086803
     ],
+    "wof:brand_id":1125153319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IUUMDYPUQKDhKtXVYIvID_43.888145_-100.704509@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc24c5aec52ded4fcb474c86ddd62ce5",
+    "wof:geomhash":"0ee426494f48988672d87013557e3ea2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":371184171,
-    "wof:lastmodified":1467082660,
+    "wof:lastmodified":1510699512,
     "wof:name":"Messiah Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

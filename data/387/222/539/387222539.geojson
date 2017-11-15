@@ -2,14 +2,20 @@
   "id": 387222539,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Eglin St Rapid City SD 57703",
+    "addr:housenumber":"1805",
+    "addr:postcode":"57703",
+    "addr:street":"Eglin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.181533,44.092226,-103.181533,44.092226",
     "geom:latitude":44.092226,
     "geom:longitude":-103.181533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1805 Eglin St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086781,
         85822361
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SS5HdpjmR6m2nZWtmzOZT_44.092226_-103.181533@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"73aee584a8c19367ef9c9358a9fe1ed9",
+    "wof:geomhash":"67b82512603d4fa2e1a8c58e9af7490a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387222539,
-    "wof:lastmodified":1467082738,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",

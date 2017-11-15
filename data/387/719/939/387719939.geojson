@@ -2,14 +2,20 @@
   "id": 387719939,
   "type": "Feature",
   "properties": {
+    "addr:full":"4704 W 40th St Sioux Falls SD 57106",
+    "addr:housenumber":"4704",
+    "addr:postcode":"57106",
+    "addr:street":"W 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.786297,43.515439,-96.786297,43.515439",
     "geom:latitude":43.515439,
     "geom:longitude":-96.786297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4704 W 40th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102086863,
         85881027
     ],
+    "wof:brand_id":1125151473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19CqaWPuLQgbYMkOs4tWQ9_43.515439_-96.786297@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"2708b1c091739e4be4fd46107e17b79b",
+    "wof:geomhash":"71880ed7a2f97c7536fc0f54443353f3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":387719939,
-    "wof:lastmodified":1467082696,
+    "wof:lastmodified":1510698970,
     "wof:name":"Jafra Cosmetics",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",

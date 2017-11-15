@@ -2,14 +2,20 @@
   "id": 387399397,
   "type": "Feature",
   "properties": {
+    "addr:full":"2902 W Russell St Sioux Falls SD 57107",
+    "addr:housenumber":"2902",
+    "addr:postcode":"57107",
+    "addr:street":"W Russell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.766539,43.566579,-96.766539,43.566579",
     "geom:latitude":43.566579,
     "geom:longitude":-96.766539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2902 W Russell St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086007,
         85881017
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3reSoz0UAW50zA9EFtcWvw_43.566579_-96.766539@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"56f994bb5dbe8e728d4bb206c6ea4ccf",
+    "wof:geomhash":"b0047e843273fc9dcd04cb42f6f217f9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":387399397,
-    "wof:lastmodified":1467082700,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":85881017,
     "wof:placetype":"venue",
