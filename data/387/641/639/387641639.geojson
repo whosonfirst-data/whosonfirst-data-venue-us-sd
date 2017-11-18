@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.20896,44.105305,-103.20896,44.105305",
     "geom:latitude":44.105305,
     "geom:longitude":-103.20896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 N Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_0b9lWRQQK8o71t22HTwfoG_44.105305_-103.208960@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"5bcfde747471bea466d5bb7d66ae975a",
+    "wof:geomhash":"b0327bb81fdd04f77fe2fbc9ab780413",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":387641639,
-    "wof:lastmodified":1472645031,
+    "wof:lastmodified":1510944166,
     "wof:name":"Taco John's",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874016099
+    ],
     "wof:tags":[]
 },
   "bbox": [

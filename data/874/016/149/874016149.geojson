@@ -7,13 +7,16 @@
     "addr:postcode":"57701",
     "addr:street":"N Maple Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-103.210802,44.106416,-103.210802,44.106416",
     "geom:latitude":44.106416,
     "geom:longitude":-103.210802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 N Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310900,
-    "wof:geomhash":"083708e0afa71c39ba67a37be629705f",
+    "wof:geomhash":"ac293adca0093ff76850e553b579fa75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,15 @@
         }
     ],
     "wof:id":874016149,
-    "wof:lastmodified":1472644908,
+    "wof:lastmodified":1510943700,
     "wof:name":"Arby's",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874016493,
+        387062517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.393661,42.872215,-97.393661,42.872215",
     "geom:latitude":42.872215,
     "geom:longitude":-97.393661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"416 Walnut St",
     "sg:city":"Yankton",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_61gKU2H4RqAgjxz3JK0IhJ_42.872215_-97.393661@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"06f55b6ef6a17212655746be8c9a76d9",
+    "wof:geomhash":"3ec410b14964d343e8b61818fd5f33b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":387433339,
-    "wof:lastmodified":1472645011,
+    "wof:lastmodified":1510942754,
     "wof:name":"Yankton County Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873938641
+    ],
     "wof:tags":[
         "ambulance"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.360388,44.370576,-100.360388,44.370576",
     "geom:latitude":44.370576,
     "geom:longitude":-100.360388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 W Sioux Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464310896,
-    "wof:geomhash":"d6e5f463b7af8fc4f1b1fe8011b81c5d",
+    "wof:geomhash":"d66b9cc6bae9d9e9ea2e03a30f27cc9a",
     "wof:hierarchy":[],
     "wof:id":874015669,
-    "wof:lastmodified":1472644923,
+    "wof:lastmodified":1510942871,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        371032481
+    ],
     "wof:tags":[
         "burger",
         "american"
