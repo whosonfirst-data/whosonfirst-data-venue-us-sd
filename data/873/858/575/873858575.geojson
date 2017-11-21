@@ -1,0 +1,73 @@
+{
+  "id": 873858575,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"410 Walnut St Yankton NE 57078",
+    "addr:housenumber":"410",
+    "addr:postcode":"57078",
+    "addr:street":"Walnut St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-97.393659,42.872298,-97.393659,42.872298",
+    "geom:latitude":42.872298,
+    "geom:longitude":-97.393659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"410 Walnut St",
+    "sg:city":"Yankton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 605 668 5219",
+    "sg:postcode":"57078",
+    "sg:province":"NE",
+    "sg:tags":[
+        "govt",
+        "city",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ni1uYkoDEzWvJaJyuSfaD_42.872298_-97.393659@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298983,
+    "wof:geomhash":"bea4c3184b86b4cbe2207f9f0f0c07ad",
+    "wof:hierarchy":[],
+    "wof:id":873858575,
+    "wof:lastmodified":1510812092,
+    "wof:name":"Yankton City Jail",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
+    "wof:superseded_by":[
+        387815069
+    ],
+    "wof:supersedes":[
+        873858575
+    ],
+    "wof:tags":[
+        "govt",
+        "city",
+        "institution"
+    ]
+},
+  "bbox": [
+    -97.393659,
+    42.872298,
+    -97.393659,
+    42.872298
+],
+  "geometry": {"coordinates":[-97.393659,42.872298],"type":"Point"}
+}
