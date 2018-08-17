@@ -2,17 +2,22 @@
   "id": 403755499,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 N Main Ave Sioux Falls SD 57104",
+    "addr:city":"Sioux Falls",
+    "addr:full":"500 N Main Ave Sioux Falls, Sd 57104-5902",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
-    "addr:postcode":"57104",
+    "addr:phone":"+1 605-271-9500",
+    "addr:postcode":"57104-5902",
+    "addr:road":"N Main Ave",
+    "addr:state":"SD",
     "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.72835,43.553836,-96.72835,43.553836",
-    "geom:latitude":43.553836,
-    "geom:longitude":-96.72835,
+    "geom:bbox":"-96.72826,43.55268,-96.72826,43.55268",
+    "geom:latitude":43.55268,
+    "geom:longitude":-96.72826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,10 @@
     "sg:phone":"+1 605 271 9500",
     "sg:postcode":"57104",
     "sg:province":"SD",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534299
+    ],
     "wof:belongsto":[
         85688693,
         85633793,
@@ -39,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404600057,
         "osm:node":4070986434,
         "sg:id":"SG_2kxpfaNCM1OmkpQDtSbHmb_43.553836_-96.728350@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"41b03f5850247994ba91cb6ab276ae56",
+    "wof:geomhash":"1737f1e15adf9bb56399a02427403735",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":403755499,
-    "wof:lastmodified":1510943204,
+    "wof:lastmodified":1534535228,
     "wof:name":"Museum Of Visual Materials",
     "wof:parent_id":85881019,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.72835,
-    43.553836,
-    -96.72835,
-    43.553836
+    -96.72826,
+    43.55268,
+    -96.72826,
+    43.55268
 ],
-  "geometry": {"coordinates":[-96.72835000000001,43.553836],"type":"Point"}
+  "geometry": {"coordinates":[-96.72826000000001,43.55268],"type":"Point"}
 }

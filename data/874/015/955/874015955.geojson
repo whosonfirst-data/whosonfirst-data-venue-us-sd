@@ -14,6 +14,7 @@
     "geom:longitude":-103.210802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 N Maple Ave",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310899,
-    "wof:geomhash":"083708e0afa71c39ba67a37be629705f",
+    "wof:geomhash":"ac293adca0093ff76850e553b579fa75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874015955,
-    "wof:lastmodified":1472644931,
+    "wof:lastmodified":1534535226,
     "wof:name":"Diamond Dave's Grill & Bar",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        371192639
+    ],
     "wof:tags":[
         "mexican"
     ]

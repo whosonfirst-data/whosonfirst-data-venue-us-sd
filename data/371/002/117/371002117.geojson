@@ -14,6 +14,7 @@
     "geom:longitude":-98.441343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3315 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_2qsiLPziYlrEFC9twZYRZ5_45.459193_-98.441343@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"584900e8950e6023f7f7fa050aeff629",
+    "wof:geomhash":"715396dc86f066147c05e2099bd02cb1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":371002117,
-    "wof:lastmodified":1472644909,
+    "wof:lastmodified":1534535227,
     "wof:name":"The Athletes Foot",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        371161703
+    ],
     "wof:tags":[
         "apparel",
         "sport"

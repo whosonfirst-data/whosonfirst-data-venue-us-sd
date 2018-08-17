@@ -14,6 +14,7 @@
     "geom:longitude":-96.726812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_1MDFqm94ELsn8FfyGU0rMX_43.543462_-96.726812@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"9a45a43007286af0e41be54776dcc33e",
+    "wof:geomhash":"882f8f6d2e4fd854539323fd886b369e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":387515677,
-    "wof:lastmodified":1472645023,
+    "wof:lastmodified":1534535227,
     "wof:name":"Dacotah Bank",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387505837
+    ],
     "wof:tags":[
         "loan"
     ]

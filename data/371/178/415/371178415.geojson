@@ -2,18 +2,24 @@
   "id": 371178415,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 1st Ave W Sisseton SD 57262",
+    "addr:city":"Sisseton",
+    "addr:full":"112 1St Ave W Sisseton, Sd 57262",
+    "addr:house_number":"112",
     "addr:housenumber":"112",
+    "addr:phone":"+1 605-698-4561",
     "addr:postcode":"57262",
+    "addr:road":"1St Ave W",
+    "addr:state":"SD",
     "addr:street":"1St Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.052254,45.661842,-97.052254,45.661842",
-    "geom:latitude":45.661842,
-    "geom:longitude":-97.052254,
+    "geom:bbox":"-97.05228,45.66117,-97.05228,45.66117",
+    "geom:latitude":45.66117,
+    "geom:longitude":-97.05228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"112 1st Ave W",
     "sg:city":"Sisseton",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688693,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404600011,
         "sg:id":"SG_0g47uOUzK5GipgGvRCX7Rg_45.661842_-97.052254@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"31db7381d45840fa647a3df3b2f898ae",
+    "wof:geomhash":"605a8b1acfbcee2bfb74aff7f59d1755",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":371178415,
-    "wof:lastmodified":1472644973,
+    "wof:lastmodified":1534535228,
     "wof:name":"Stavig House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     ]
 },
   "bbox": [
-    -97.052254,
-    45.661842,
-    -97.052254,
-    45.661842
+    -97.05228,
+    45.66117,
+    -97.05228,
+    45.66117
 ],
-  "geometry": {"coordinates":[-97.052254,45.661842],"type":"Point"}
+  "geometry": {"coordinates":[-97.05228,45.66117],"type":"Point"}
 }

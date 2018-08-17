@@ -7,6 +7,7 @@
     "addr:postcode":"57785",
     "addr:street":"Sherman St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.516745,44.413587,-103.516745,44.413587",
@@ -14,6 +15,7 @@
     "geom:longitude":-103.516745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1425 Sherman St",
     "sg:city":"Sturgis",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_4M5V8eNuT7STminIlXXCLu_44.413587_-103.516745@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"64e8583dc35d7dea80f05d12f37e1d34",
+    "wof:geomhash":"fa417deeb41f95ba5eeffcc8fead4110",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":387439989,
-    "wof:lastmodified":1472645013,
+    "wof:lastmodified":1534535227,
     "wof:name":"Court Service Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387205457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

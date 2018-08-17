@@ -2,18 +2,24 @@
   "id": 387367675,
   "type": "Feature",
   "properties": {
-    "addr:full":"4320 S Oxbow Ave Sioux Falls SD 57106",
+    "addr:city":"Sioux Falls",
+    "addr:full":"4320 S Oxbow Ave Sioux Falls, Sd 57106-4110",
+    "addr:house_number":"4320",
     "addr:housenumber":"4320",
-    "addr:postcode":"57106",
+    "addr:phone":"+1 605-334-9466",
+    "addr:postcode":"57106-4110",
+    "addr:road":"S Oxbow Ave",
+    "addr:state":"SD",
     "addr:street":"S Oxbow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.765867,43.506887,-96.765867,43.506887",
-    "geom:latitude":43.506887,
-    "geom:longitude":-96.765867,
+    "geom:bbox":"-96.76585,43.50647,-96.76585,43.50647",
+    "geom:latitude":43.50647,
+    "geom:longitude":-96.76585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4320 S Oxbow Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -37,7 +43,10 @@
         "live",
         "museum"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534299
+    ],
     "wof:belongsto":[
         85688693,
         85633793,
@@ -47,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404600208,
         "sg:id":"SG_0YqE9AIHOVjoUPLF5bj0b1_43.506887_-96.765867@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"94966ef885b636c0459a9e3b38922c11",
+    "wof:geomhash":"cca6a3639f2e0ca4c94caa5adbaf0565",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,8 +73,8 @@
         }
     ],
     "wof:id":387367675,
-    "wof:lastmodified":1472645005,
-    "wof:name":"Sertoma Butterfly House Inc",
+    "wof:lastmodified":1534535228,
+    "wof:name":"Sertoma Butterfly House",
     "wof:parent_id":85881027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -96.765867,
-    43.506887,
-    -96.765867,
-    43.506887
+    -96.76585,
+    43.50647,
+    -96.76585,
+    43.50647
 ],
-  "geometry": {"coordinates":[-96.765867,43.506887],"type":"Point"}
+  "geometry": {"coordinates":[-96.76585,43.50647],"type":"Point"}
 }

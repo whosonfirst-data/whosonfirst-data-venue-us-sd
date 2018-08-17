@@ -14,6 +14,7 @@
     "geom:longitude":-98.45714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 6th Ave SE",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
         "sg:id":"SG_6hF3eAir20hksdY9uv8kNc_45.459180_-98.457140@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"43302eab840daf09a3282aaa0f447720",
+    "wof:geomhash":"c47b08466a150ab3a550c9fc5f92203a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":387925895,
-    "wof:lastmodified":1472645062,
+    "wof:lastmodified":1534535228,
     "wof:name":"Girl Scout Service Center",
     "wof:parent_id":85833721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387894327
+    ],
     "wof:tags":[]
 },
   "bbox": [

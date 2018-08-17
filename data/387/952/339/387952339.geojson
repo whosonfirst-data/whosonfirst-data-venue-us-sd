@@ -14,6 +14,7 @@
     "geom:longitude":-96.726724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
         "sg:id":"SG_4KIGocTrB1qzynquznbh9f_43.546298_-96.726724@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"11969cf48800ecb6dbadc486b38e44cd",
+    "wof:geomhash":"20d006a05eecd752e26cd496017de9af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":387952339,
-    "wof:lastmodified":1472645063,
+    "wof:lastmodified":1534535228,
     "wof:name":"Awe Financial Services & Insur",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387822635
+    ],
     "wof:tags":[]
 },
   "bbox": [

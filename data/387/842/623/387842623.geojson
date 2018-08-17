@@ -14,6 +14,7 @@
     "geom:longitude":-100.346728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"523 E Capitol Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
         "sg:id":"SG_7DYrIwFnOs3gzE99xmYg5V_44.365830_-100.346728@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"c6e43eed6664c5e202917de1480b5b44",
+    "wof:geomhash":"96b28acbfb096450c5fe708d20bb1a62",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":387842623,
-    "wof:lastmodified":1472645047,
+    "wof:lastmodified":1534535228,
     "wof:name":"Agriculture Department of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        371049527
+    ],
     "wof:tags":[
         "agricultural",
         "regulation",

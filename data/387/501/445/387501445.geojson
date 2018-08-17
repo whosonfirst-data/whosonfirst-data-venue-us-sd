@@ -7,6 +7,7 @@
     "addr:postcode":"57105",
     "addr:street":"E 21St St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.712428,43.534076,-96.712428,43.534076",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.712428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 E 21st St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_6XJE7nWZuBPQA5JvIVthHN_43.534076_-96.712428@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"540477149055e59d4fb447c7bc9950c6",
+    "wof:geomhash":"53b9d8791f31a219c3798b638ebd4728",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":387501445,
-    "wof:lastmodified":1472645021,
+    "wof:lastmodified":1534535227,
     "wof:name":"North Central Kidney Institute",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387245047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

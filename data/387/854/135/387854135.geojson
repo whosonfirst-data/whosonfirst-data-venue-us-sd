@@ -14,6 +14,7 @@
     "geom:longitude":-96.683517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 E Main St",
     "sg:city":"Elk Point",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_44aVdlTkhVRlgF99ZGCTuB_42.685755_-96.683517@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"bc53425bddaa964ca70ed0c9757551f1",
+    "wof:geomhash":"16423bd3262c66bed187cdafd5d60671",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":387854135,
-    "wof:lastmodified":1472645056,
+    "wof:lastmodified":1534535228,
     "wof:name":"State Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387305221
+    ],
     "wof:tags":[
         "state",
         "counsel"

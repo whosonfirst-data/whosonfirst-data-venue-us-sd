@@ -14,6 +14,7 @@
     "geom:longitude":-103.254874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2040 W Main St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
         "sg:id":"SG_2unAhJWSHwziK0OZ4C7NIc_44.081564_-103.254874@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"01bfc563acc4431d828b979fde1b08a8",
+    "wof:geomhash":"7af89ab50f48f7db57956e2377995f5a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":403773437,
-    "wof:lastmodified":1472644951,
+    "wof:lastmodified":1534535226,
     "wof:name":"Roland E Grosshans",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387134131
+    ],
     "wof:tags":[
         "attorney"
     ]

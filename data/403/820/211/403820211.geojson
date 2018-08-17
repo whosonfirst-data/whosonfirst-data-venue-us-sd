@@ -7,6 +7,7 @@
     "addr:postcode":"57104",
     "addr:street":"S Phillips Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-96.726756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"400 S Phillips Ave",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":403820211,
-    "wof:lastmodified":1510697342,
+    "wof:lastmodified":1534535228,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85881023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387715601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"

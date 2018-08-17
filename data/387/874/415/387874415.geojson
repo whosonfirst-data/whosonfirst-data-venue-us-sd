@@ -14,6 +14,7 @@
     "geom:longitude":-96.713815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 E 20th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_7c2N6XVHIrg3jOS0D9MU6d_43.534750_-96.713815@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"6a1bec28be77a0ad661f97920e244804",
+    "wof:geomhash":"044f4ec75f2e065888c403e3c564a1d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":387874415,
-    "wof:lastmodified":1472645064,
+    "wof:lastmodified":1534535228,
     "wof:name":"Avera Endocrinology Clinic",
     "wof:parent_id":85881007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        403718609
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

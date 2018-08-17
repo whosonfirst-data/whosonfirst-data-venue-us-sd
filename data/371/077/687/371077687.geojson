@@ -2,18 +2,24 @@
   "id": 371077687,
   "type": "Feature",
   "properties": {
-    "addr:full":"713 7th St Rapid City SD 57701",
+    "addr:city":"Rapid City",
+    "addr:full":"713 7Th St Rapid City, Sd 57701-3695",
+    "addr:house_number":"713",
     "addr:housenumber":"713",
-    "addr:postcode":"57701",
+    "addr:phone":"+1 605-394-4101",
+    "addr:postcode":"57701-3695",
+    "addr:road":"7Th St",
+    "addr:state":"SD",
     "addr:street":"7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-103.229848,44.078303,-103.229848,44.078303",
-    "geom:latitude":44.078303,
-    "geom:longitude":-103.229848,
+    "geom:bbox":"-103.22959,44.07913,-103.22959,44.07913",
+    "geom:latitude":44.07913,
+    "geom:longitude":-103.22959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"713 7th St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -34,7 +40,11 @@
         "merchandise",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528077,
+        102525005
+    ],
     "wof:belongsto":[
         85688693,
         85633793,
@@ -44,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404600039,
         "sg:id":"SG_7jT8taUazIyGIVeiuDWPVA_44.078303_-103.229848@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"b2be5b698a83d0fb72bb7b24eb5f2e50",
+    "wof:geomhash":"10131dce980926c68da26300dae91f84",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":371077687,
-    "wof:lastmodified":1472644955,
-    "wof:name":"Dahl Fine Arts Center",
+    "wof:lastmodified":1534535228,
+    "wof:name":"Dahl Arts Center",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -103.229848,
-    44.078303,
-    -103.229848,
-    44.078303
+    -103.22959,
+    44.07913,
+    -103.22959,
+    44.07913
 ],
-  "geometry": {"coordinates":[-103.229848,44.078303],"type":"Point"}
+  "geometry": {"coordinates":[-103.22959,44.07913],"type":"Point"}
 }

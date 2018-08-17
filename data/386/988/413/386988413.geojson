@@ -7,6 +7,7 @@
     "addr:postcode":"57701",
     "addr:street":"N Lacrosse St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-103.201621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1200 N Lacrosse St",
     "sg:city":"Rapid City",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":386988413,
-    "wof:lastmodified":1512142790,
+    "wof:lastmodified":1534535226,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85822361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874016623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

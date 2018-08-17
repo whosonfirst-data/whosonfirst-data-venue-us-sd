@@ -7,6 +7,7 @@
     "addr:postcode":"57501",
     "addr:street":"W Capitol Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.352646,44.36966,-100.352646,44.36966",
@@ -14,6 +15,7 @@
     "geom:longitude":-100.352646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"118 W Capitol Ave",
     "sg:city":"Pierre",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7ZafjZu75HL00SKxc85wgd_44.369660_-100.352646@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"4149859e5d9b416f53f5bab43534bbad",
+    "wof:geomhash":"e6e437f0cd87769038c0040bf5816b2b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":387285513,
-    "wof:lastmodified":1472644997,
+    "wof:lastmodified":1534535228,
     "wof:name":"Division Emergeny Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        387894435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management",

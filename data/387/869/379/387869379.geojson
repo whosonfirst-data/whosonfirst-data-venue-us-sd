@@ -14,6 +14,7 @@
     "geom:longitude":-96.721223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 E 8th St",
     "sg:city":"Sioux Falls",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
         "sg:id":"SG_6tHd72pegbRjmiJioIeb38_43.548626_-96.721223@1294189808"
     },
     "wof:country":"US",
-    "wof:geomhash":"fbaa5b82f129194a6b7015d97a31abcc",
+    "wof:geomhash":"14d8993205e2f0f0b85295d340fd1047",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":387869379,
-    "wof:lastmodified":1472645064,
+    "wof:lastmodified":1534535228,
     "wof:name":"Sticks & Steel",
     "wof:parent_id":85881011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-sd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        387920503
+    ],
     "wof:tags":[
         "art",
         "gallery",
